@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "321",
+  "namespace": "codedefinedgui",
+  "source_keys": 63,
+  "unique_values": 61,
+  "chinese_values": 62,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 63,
+  "source_sha256": "6ab41a3ebcc3d112956015914b8b98adbe88989d3e1acb1708552ca3e4bffd77",
+  "in_game_tested": false
+}

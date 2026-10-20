@@ -1,0 +1,50 @@
+[
+  {
+    "key": "gui.ae2addonlib.SetAmount",
+    "new": "Set Amount",
+    "english": "Set Amount",
+    "namespace": "ae2addonlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar!META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+    "path": "assets/ae2addonlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "设置数量",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "gui.tooltips.ae2addonlib.Disabled",
+    "new": "Disabled",
+    "english": "Disabled",
+    "namespace": "ae2addonlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar!META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+    "path": "assets/ae2addonlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "已禁用",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "gui.tooltips.ae2addonlib.Enabled",
+    "new": "Enabled",
+    "english": "Enabled",
+    "namespace": "ae2addonlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar!META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+    "path": "assets/ae2addonlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "已启用",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "gui.tooltips.ae2addonlib.TankAmount",
+    "new": "%s / %s B",
+    "english": "%s / %s B",
+    "namespace": "ae2addonlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar!META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+    "path": "assets/ae2addonlib/lang/en_us.json",
+    "native_zh": "%s / %s B",
+    "candidates": [],
+    "translation": "%s / %s B",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  }
+]

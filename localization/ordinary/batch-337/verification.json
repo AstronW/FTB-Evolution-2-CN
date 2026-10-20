@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "337",
+  "namespace": "trender",
+  "source_keys": 10,
+  "unique_values": 10,
+  "chinese_values": 9,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 10,
+  "source_sha256": "1f5e8de4a884148551d01af15b7d6819bfc346e99c5f5080331c4cea1a329d69",
+  "in_game_tested": false
+}

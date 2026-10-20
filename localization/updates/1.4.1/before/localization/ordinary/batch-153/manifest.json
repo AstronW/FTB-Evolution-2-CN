@@ -1,0 +1,13 @@
+{
+  "batch": "153",
+  "namespace": "animalgarden_crocodile",
+  "jar": ".minecraft/mods/animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar",
+  "language_path": "assets/animalgarden_crocodile/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animalgarden_crocodile/lang/zh_cn.json",
+  "include_keys": [
+    "entity.animalgarden_crocodile.crocodile",
+    "item.animalgarden_crocodile.mob_spawn_egg"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

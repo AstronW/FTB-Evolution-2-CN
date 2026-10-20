@@ -1,0 +1,14 @@
+{
+  "batch": "268",
+  "namespace": "aquarius_libs",
+  "jar": ".minecraft/mods/aquariuslibs-1.2.0-neoforge-26.2.0.2.jar",
+  "language_path": "assets/aquarius_libs/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/aquarius_libs/lang/zh_cn.json",
+  "include_keys": [
+    "aquarius_libs.chatmessage.resting",
+    "aquarius_libs.chatmessage.wandering",
+    "aquarius_libs.chatmessage.following"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

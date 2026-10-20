@@ -1,0 +1,16 @@
+[
+  {
+    "key": "gui.integratedterminals.craftingplan.status.invalid_inputs",
+    "previous_english": "Recipe Not Allowed",
+    "previous_chinese": "合成不被允许",
+    "english": "Inputs Not Accepted",
+    "chinese": "原料未被接受"
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.status.invalid_inputs.desc",
+    "previous_english": "Recipe inputs could not be inserted into the crafting target",
+    "previous_chinese": "无法将配方原料放入合成目标",
+    "english": "The crafting target refused the inputs, will retry later",
+    "chinese": "合成目标拒绝了原料输入, 稍后将重试"
+  }
+]

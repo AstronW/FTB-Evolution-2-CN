@@ -79,9 +79,9 @@
     "tooltip.nutritional.nutrients"
   ],
   "context_overrides": {
+    "jei.nutritional.info.header": "提供营养:",
     "mod.nutritional.name": "营养均衡",
-    "tooltip.nutritional.nutrients": "营养: %s",
-    "jei.nutritional.info.header": "提供营养:"
+    "tooltip.nutritional.nutrients": "营养: %s"
   },
   "unchanged_values": [
     "%s.%s = %s"

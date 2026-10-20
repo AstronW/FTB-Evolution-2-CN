@@ -6,6 +6,14 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
 import release_pack as release
 
 class ReleaseLanguageMerge(unittest.TestCase):
+    def test_original_and_reviewed_group_labels_survive_consolidation(self):
+        outputs, _, _ = release.assemble_resourcepack([])
+        member = 'assets/collapsible_groups/group_lang/zh_cn.json'
+        merged = json.loads(outputs[member][0])
+        expected = json.loads((release.ROOT / 'localization/manuals/group_lang-zh.json').read_text())
+        expected.update(json.loads((release.CFPA_PACK / member).read_text()))
+        self.assertEqual(expected, merged)
+
     def test_manual_language_keys_survive_consolidation(self):
         outputs, _, _ = release.assemble_resourcepack([])
         for path in release.MANUALS_PACK.glob('assets/*/lang/zh_cn.json'):

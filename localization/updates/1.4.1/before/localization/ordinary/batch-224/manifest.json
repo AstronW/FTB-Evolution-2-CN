@@ -1,0 +1,15 @@
+{
+  "batch": "224",
+  "namespace": "dnt",
+  "jar": ".minecraft/mods/DnT-ancient-city-overhaul-3.3 [NeoForge].jar",
+  "language_path": "assets/dnt/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/dnt/lang/zh_cn.json",
+  "include_keys": [
+    "advancement.dnt.adventure.find_ancient_city",
+    "advancement.dnt.adventure.find_ancient_city.title",
+    "advancement.dnt.story.librarian_ancient_city",
+    "advancement.dnt.story.librarian_ancient_city.title"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "key": "tinymultiblocklib.configuration.disable_multiblock_previews",
+    "new": "Disable Multiblock Previews",
+    "english": "Disable Multiblock Previews",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "禁用多方块预览",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.disable_multiblock_previews.tooltip",
+    "new": "Disables ghost previews when trying to place a multiblock",
+    "english": "Disables ghost previews when trying to place a multiblock",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "尝试放置多方块结构时不显示虚影预览",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml",
+    "new": "TMBL Client Config",
+    "english": "TMBL Client Config",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "TMBL 客户端配置",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml.title",
+    "new": "TMBL Client Config",
+    "english": "TMBL Client Config",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "TMBL 客户端配置",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.title",
+    "new": "Tiny Multiblock Lib",
+    "english": "Tiny Multiblock Lib",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "Tiny Multiblock Lib",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  }
+]

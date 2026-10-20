@@ -1,0 +1,28 @@
+{
+  "batch": "122",
+  "namespace": "jei",
+  "jar": ".minecraft/mods/jei-26.1.2-neoforge-29.47.0.111.jar",
+  "language_path": "assets/jei/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/jei/lang/zh_cn.json",
+  "include_keys": [
+    "jei.tooltip.liquid.amount.with.capacity",
+    "jei.tooltip.liquid.amount",
+    "jei.key.combo.shift",
+    "jei.key.combo.control",
+    "jei.key.combo.command",
+    "jei.key.combo.alt",
+    "jei.key.shift",
+    "jei.alias.villager.spawn.egg"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s / %s mB",
+    "%s mB",
+    "SHIFT + %s",
+    "CTRL + %s",
+    "CMD + %s",
+    "ALT + %s",
+    "SHIFT",
+    "HMMM"
+  ]
+}

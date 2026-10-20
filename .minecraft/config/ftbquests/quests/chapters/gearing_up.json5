@@ -2565,9 +2565,16 @@
         {
           id: "2E0873C81D7EC881",
           type: "item",
-          item: {
+          icon: {
             id: "irons_artifice:scattershot_modifier",
             count: 1,
+          },
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(ftb:gun_modifiers)",
+            },
           },
         },
       ],

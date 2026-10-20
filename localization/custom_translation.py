@@ -20,7 +20,7 @@ def mappings():
 def main():
  mapping=mappings(); terms=read(ROOT/'localization/terms.json')
  baseline={r['namespace']:r['sha256'] for r in read(WORK/'initial-build.json').get('namespaces',[])}
- adaptation=read(WORK/'source-bindings-1.4.0.json')
+ adaptation=read(ROOT / read(ROOT/'project.json')['custom_adaptation']['source_bindings'])
  approved={};deferred={}
  if adaptation:
   game=pathlib.Path(read(ROOT/'project.json')['target_instance'])

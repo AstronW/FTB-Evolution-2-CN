@@ -2,12 +2,12 @@
   "status": "passed",
   "manual_pages": 164,
   "nodeworks_pages": 75,
-  "nodeworks_anchors_checked": 558,
+  "nodeworks_anchors_checked": 560,
   "nodeworks_anchor_links": 93,
-  "code_lines_preserved": 565,
+  "code_lines_preserved": 573,
   "pack_guides": 23,
   "ftbic_pages": 66,
-  "segments": 3638,
+  "segments": 3666,
   "table_rows_checked": 383,
   "additional_ftbic_language_keys": 168,
   "additional_nodeworks_language_keys": 111,
@@ -252,6 +252,16 @@
     {
       "page": "nodeworks/lua-api/card-handle.md",
       "line": 332,
+      "text": "### data"
+    },
+    {
+      "page": "nodeworks/lua-api/card-handle.md",
+      "line": 358,
+      "text": "### energy"
+    },
+    {
+      "page": "nodeworks/lua-api/card-handle.md",
+      "line": 374,
       "text": "### onChange"
     },
     {

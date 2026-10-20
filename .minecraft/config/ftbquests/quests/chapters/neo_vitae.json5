@@ -3591,7 +3591,6 @@
       y: 5.25,
       shape: "circle",
       dependencies: [
-        "03DB41A64E74FF33",
         "0AF4B9B8EABB8F9B",
       ],
       size: 1.0,

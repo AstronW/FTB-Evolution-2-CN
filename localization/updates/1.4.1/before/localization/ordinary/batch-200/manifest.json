@@ -1,0 +1,15 @@
+{
+  "batch": "200",
+  "namespace": "rainshield",
+  "jar": ".minecraft/mods/RainShield-26.1.2-2.0.0.jar",
+  "language_path": "assets/rainshield/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/rainshield/lang/zh_cn.json",
+  "include_keys": [
+    "rainshield.configuration.client",
+    "rainshield.configuration.client.tooltip",
+    "rainshield.configuration.rainShieldDistance",
+    "rainshield.configuration.rainShieldDistance.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

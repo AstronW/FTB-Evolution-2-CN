@@ -1,0 +1,18 @@
+{
+  "batch": "194",
+  "namespace": "sophisticateditemactions",
+  "jar": ".minecraft/mods/sophisticateditemactions-26.1.2-0.4.17.432.jar",
+  "language_path": "assets/sophisticateditemactions/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sophisticateditemactions/lang/zh_cn.json",
+  "include_keys": [
+    "gui.sophisticateditemactions.status.restocked_recipe_items",
+    "gui.sophisticateditemactions.status.recipe_restocked",
+    "gui.sophisticateditemactions.status.cannot_restock_recipe",
+    "gui.sophisticateditemactions.status.recipe_restock_disabled",
+    "gui.sophisticateditemactions.recipe_restock",
+    "sophisticateditemactions.configuration.server",
+    "sophisticateditemactions.configuration.recipeRestockEnabled"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

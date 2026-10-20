@@ -1196,5 +1196,8 @@
   "witchery:ritual/summon_coven_witch.tooltip": "在仪式中心召唤一名聚会女巫, 可招募其加入你的巫师会.",
   "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch_ritual.text": "",
   "book.witchery.guidebook.ritual.summon_coven_witch.description": "召唤一位愿意加入你巫师会的女巫",
-  "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch.text": "献祭一名普通女巫, 召唤一名可以用聚会契约招募的聚会女巫."
+  "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch.text": "献祭一名普通女巫, 召唤一名可以用聚会契约招募的聚会女巫.",
+  "block.ftb.adamantite_coolant": "精金冷却块",
+  "block.ftb.aeternium_coolant": "永恒金属冷却块",
+  "block.ftb.aurichalcum_coolant": "奥利哈刚冷却块"
 }

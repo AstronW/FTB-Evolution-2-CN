@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "318",
+  "namespace": "ae2wtlib_api",
+  "source_keys": 5,
+  "unique_values": 5,
+  "chinese_values": 5,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 5,
+  "source_sha256": "0fda89f6cc1a08aa46279dd5e178fcced86df902cf11828f98c513e17b41e9c4",
+  "in_game_tested": false
+}

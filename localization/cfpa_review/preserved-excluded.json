@@ -1,0 +1,112 @@
+{
+  "reason": "Newly excluded decoration scope retains previously approved CFPA entries only, without additions or prose polishing.",
+  "entries": {
+    "crystalix:block.crystalix.crystalix_glass": {
+      "english": "Crystalix Glass",
+      "chinese": "虹晶玻璃"
+    },
+    "crystalix:config.crystalix.jade_mode": {
+      "english": "Jade Mode",
+      "chinese": "Jade模式"
+    },
+    "crystalix:item.crystalix.crystalix_wand": {
+      "english": "Crystalix Wand",
+      "chinese": "虹晶手杖"
+    },
+    "crystalix:property.crystalix.color": {
+      "english": "Color",
+      "chinese": "颜色"
+    },
+    "crystalix:property.crystalix.conductor": {
+      "english": "Conductor",
+      "chinese": "导体"
+    },
+    "crystalix:property.crystalix.ghost": {
+      "english": "Ghost",
+      "chinese": "幽灵"
+    },
+    "crystalix:property.crystalix.ghost.adult": {
+      "english": "Adult",
+      "chinese": "成年生物"
+    },
+    "crystalix:property.crystalix.ghost.animal": {
+      "english": "Animal",
+      "chinese": "动物"
+    },
+    "crystalix:property.crystalix.ghost.monster": {
+      "english": "Monster",
+      "chinese": "怪物"
+    },
+    "crystalix:property.crystalix.ghost.player": {
+      "english": "Player",
+      "chinese": "玩家"
+    },
+    "crystalix:property.crystalix.invisible": {
+      "english": "Invisible",
+      "chinese": "隐形"
+    },
+    "crystalix:property.crystalix.light": {
+      "english": "Light",
+      "chinese": "光照"
+    },
+    "crystalix:property.crystalix.light.dark": {
+      "english": "Dark",
+      "chinese": "遮光"
+    },
+    "crystalix:property.crystalix.light.fake_dark": {
+      "english": "Fake Dark",
+      "chinese": "伪遮光"
+    },
+    "crystalix:property.crystalix.light.fake_light": {
+      "english": "Fake Light",
+      "chinese": "伪发光"
+    },
+    "crystalix:property.crystalix.light.light": {
+      "english": "Light",
+      "chinese": "发光"
+    },
+    "crystalix:property.crystalix.redstone": {
+      "english": "Redstone",
+      "chinese": "红石"
+    },
+    "crystalix:property.crystalix.reinforced": {
+      "english": "Reinforced",
+      "chinese": "强化"
+    },
+    "crystalix:property.crystalix.shadeless": {
+      "english": "Shadeless",
+      "chinese": "无阴影"
+    },
+    "crystalix:property.crystalix.waterloggable": {
+      "english": "Waterloggable",
+      "chinese": "可含水"
+    },
+    "crystalix:tooltip.crystalix.bulk": {
+      "english": "Crouch to bulk edit",
+      "chinese": "潜行以批量编辑"
+    },
+    "crystalix:tooltip.crystalix.color": {
+      "english": "Changes the color of the glass",
+      "chinese": "改变玻璃的颜色"
+    },
+    "crystalix:tooltip.crystalix.colorless": {
+      "english": "%s to toggle applying properties with or without color",
+      "chinese": "按%s切换应用属性时是否包含颜色"
+    },
+    "crystalix:tooltip.crystalix.lmb": {
+      "english": "%s or %s to cycle forward",
+      "chinese": "按%s或%s以向前循环切换"
+    },
+    "crystalix:tooltip.crystalix.open_colors": {
+      "english": "%s to open color picker",
+      "chinese": "按%s以打开选色器"
+    },
+    "crystalix:tooltip.crystalix.rmb": {
+      "english": "%s or %s to cycle backward",
+      "chinese": "按%s或%s以向后循环切换"
+    }
+  },
+  "source_snapshots": {
+    "localization/updates/1.4.1/before/localization/cfpa_review/decisions/remaining-a.json": "937d448fbe1ed7eb6e81b6358bfffbfbfca573baa0a7e402f89eebc435919800"
+  }
+}

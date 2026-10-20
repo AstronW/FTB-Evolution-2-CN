@@ -1,0 +1,34 @@
+[
+  {
+    "path": "assets/ltxi/guides/ltxi/guide/fundamentals/upgrade_station.md",
+    "native_chinese": false,
+    "cfpa_local_candidate": false,
+    "pr_candidate": "No matching cached reviewed PR document; no unverified PR adopted",
+    "reason": "New gameplay machine or equipment upgrade instructions; linked by updated pages",
+    "translated_lines": 9
+  },
+  {
+    "path": "assets/nautec/guides/nautec/guide/deep_engineering/abyssal_enchanter.md",
+    "native_chinese": false,
+    "cfpa_local_candidate": false,
+    "pr_candidate": "No matching cached reviewed PR document; no unverified PR adopted",
+    "reason": "New gameplay machine or equipment upgrade instructions; linked by updated pages",
+    "translated_lines": 33
+  },
+  {
+    "path": "assets/nautec/guides/nautec/guide/deep_engineering/deep_sea_reservoir.md",
+    "native_chinese": false,
+    "cfpa_local_candidate": false,
+    "pr_candidate": "No matching cached reviewed PR document; no unverified PR adopted",
+    "reason": "New gameplay machine or equipment upgrade instructions; linked by updated pages",
+    "translated_lines": 25
+  },
+  {
+    "path": "assets/nautec/guides/nautec/guide/laser_chemistry/osmosis_filter.md",
+    "native_chinese": false,
+    "cfpa_local_candidate": false,
+    "pr_candidate": "No matching cached reviewed PR document; no unverified PR adopted",
+    "reason": "New gameplay machine or equipment upgrade instructions; linked by updated pages",
+    "translated_lines": 16
+  }
+]

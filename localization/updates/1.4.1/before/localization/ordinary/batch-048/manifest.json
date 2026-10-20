@@ -1,0 +1,26 @@
+{
+  "batch": "048",
+  "namespace": "justdirethings",
+  "jar": ".minecraft/mods/justdirethings-1.6.11.jar",
+  "language_path": "assets/justdirethings/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/justdirethings/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.DeferredHolder{ResourceKey[minecraft:creative_mode_tab / justdirethings:justdirethings]}",
+    "justdirethings.festored",
+    "justdirethings.fillmode.jdtonly",
+    "justdirethings.screen.fepertick",
+    "justdirethings.screen.fluid",
+    "justdirethings.screen.hideparticles",
+    "justdirethings.screen.inv-hotbar",
+    "justdirethings.screen.inv-main",
+    "justdirethings.screen.target-mob",
+    "key.category.justdirethings.category"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Just Dire Things",
+    "JustDireThings",
+    "FE/T: %s",
+    "%s: %s/%s MB"
+  ]
+}

@@ -8,7 +8,7 @@
   "config.crystalix.max_block_edits_per_tick": "每刻最大方块编辑数",
   "config.crystalix.max_block_edits_per_tick.tooltip": "§8多方块编辑在单个刻内可修改的最大方块数.§r\n§8若遇到性能问题, 可以调低此值.§r\n\n§7默认: 256§r",
   "config.crystalix.show_wand_tooltips": "显示法杖提示",
-  "config.crystalix.show_wand_tooltips.tooltip": "§8在法杖上显示属性提示§r\n\n§7默认: false§r",
+  "config.crystalix.show_wand_tooltips.tooltip": "§8在法杖上显示属性提示§r\n\n§7默认: true§r",
   "config.jade.plugin_crystalix.crystalix": "Crystalix",
   "creative_tab.crystalix.default": "Crystalix",
   "key.category.crystalix.default": "Crystalix",

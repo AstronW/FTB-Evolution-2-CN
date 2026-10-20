@@ -3253,7 +3253,7 @@
   "file": "categories/augments.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3261,7 +3261,7 @@
   "file": "categories/filters.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3269,7 +3269,7 @@
   "file": "categories/intro.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3277,7 +3277,7 @@
   "file": "categories/modules.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3285,7 +3285,7 @@
   "file": "categories/router.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3293,7 +3293,7 @@
   "file": "categories/upgrades.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3301,7 +3301,7 @@
   "file": "entries/augments/fast_pickup.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3309,7 +3309,7 @@
   "file": "entries/augments/mimic.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3317,7 +3317,7 @@
   "file": "entries/augments/pickup_delay.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3325,7 +3325,7 @@
   "file": "entries/augments/pushing.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3333,7 +3333,7 @@
   "file": "entries/augments/range_down.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3341,7 +3341,7 @@
   "file": "entries/augments/range_up.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3349,7 +3349,7 @@
   "file": "entries/augments/redstone.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3357,7 +3357,7 @@
   "file": "entries/augments/regulator.json",
   "segments": 5,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3365,7 +3365,7 @@
   "file": "entries/augments/stack.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3373,7 +3373,7 @@
   "file": "entries/augments/xp_vacuum.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3381,7 +3381,7 @@
   "file": "entries/filters/bulk_item.json",
   "segments": 5,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3397,7 +3397,7 @@
   "file": "entries/filters/inspection.json",
   "segments": 4,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3405,7 +3405,7 @@
   "file": "entries/filters/mod.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3413,7 +3413,7 @@
   "file": "entries/filters/regex.json",
   "segments": 9,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3421,7 +3421,7 @@
   "file": "entries/intro/augments.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3429,7 +3429,7 @@
   "file": "entries/intro/filters.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3437,7 +3437,7 @@
   "file": "entries/intro/misc.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3445,7 +3445,7 @@
   "file": "entries/intro/modular_router.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3453,7 +3453,7 @@
   "file": "entries/intro/modules.json",
   "segments": 14,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3461,7 +3461,7 @@
   "file": "entries/intro/overview.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3469,7 +3469,7 @@
   "file": "entries/intro/upgrades.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3477,7 +3477,7 @@
   "file": "entries/modules/activator.json",
   "segments": 9,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3485,7 +3485,7 @@
   "file": "entries/modules/breaker.json",
   "segments": 4,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3493,7 +3493,7 @@
   "file": "entries/modules/creative.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3501,7 +3501,7 @@
   "file": "entries/modules/detector.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3509,7 +3509,7 @@
   "file": "entries/modules/distributor.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3517,7 +3517,7 @@
   "file": "entries/modules/dropper.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3525,7 +3525,7 @@
   "file": "entries/modules/energy_distributor.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3533,7 +3533,7 @@
   "file": "entries/modules/energy_output.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3541,7 +3541,7 @@
   "file": "entries/modules/extruder_1.json",
   "segments": 6,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3549,7 +3549,7 @@
   "file": "entries/modules/extruder_2.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3557,7 +3557,7 @@
   "file": "entries/modules/flinger.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3565,7 +3565,7 @@
   "file": "entries/modules/fluid.json",
   "segments": 6,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3573,7 +3573,7 @@
   "file": "entries/modules/fluid_2.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3581,7 +3581,7 @@
   "file": "entries/modules/placer.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3589,7 +3589,7 @@
   "file": "entries/modules/player.json",
   "segments": 6,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3597,7 +3597,7 @@
   "file": "entries/modules/puller_1.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3605,7 +3605,7 @@
   "file": "entries/modules/puller_2.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3613,7 +3613,7 @@
   "file": "entries/modules/sender_1.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3621,7 +3621,7 @@
   "file": "entries/modules/sender_2.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3629,7 +3629,7 @@
   "file": "entries/modules/sender_3.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3637,7 +3637,7 @@
   "file": "entries/modules/vacuum.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3645,7 +3645,7 @@
   "file": "entries/modules/void.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3653,7 +3653,7 @@
   "file": "entries/router/modular_router.json",
   "segments": 17,
   "translated": 2,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3661,7 +3661,7 @@
   "file": "entries/router/termination.json",
   "segments": 5,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3669,7 +3669,7 @@
   "file": "entries/upgrades/blast.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3677,7 +3677,7 @@
   "file": "entries/upgrades/camouflage.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3685,7 +3685,7 @@
   "file": "entries/upgrades/energy.json",
   "segments": 10,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3693,7 +3693,7 @@
   "file": "entries/upgrades/fluid.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3701,7 +3701,7 @@
   "file": "entries/upgrades/muffler.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3709,7 +3709,7 @@
   "file": "entries/upgrades/security.json",
   "segments": 8,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3717,7 +3717,7 @@
   "file": "entries/upgrades/speed.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3725,7 +3725,7 @@
   "file": "entries/upgrades/stack.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "modularrouters",
@@ -3733,7 +3733,7 @@
   "file": "entries/upgrades/sync.json",
   "segments": 5,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3741,7 +3741,7 @@
   "file": "categories/bees.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3749,7 +3749,7 @@
   "file": "categories/bees_hive.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3757,7 +3757,7 @@
   "file": "categories/bees_solitary.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3765,7 +3765,7 @@
   "file": "categories/bees_wild.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3773,7 +3773,7 @@
   "file": "categories/bees_worker.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3781,7 +3781,7 @@
   "file": "categories/blocks.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3789,7 +3789,7 @@
   "file": "categories/genetics.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3797,7 +3797,7 @@
   "file": "categories/guide.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3805,7 +3805,7 @@
   "file": "categories/hives.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3813,7 +3813,7 @@
   "file": "categories/items.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3821,7 +3821,7 @@
   "file": "categories/misc.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3829,7 +3829,7 @@
   "file": "entries/bees/hive/blazing.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3837,7 +3837,7 @@
   "file": "entries/bees/hive/coal.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3845,7 +3845,7 @@
   "file": "entries/bees/hive/creeper.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3853,7 +3853,7 @@
   "file": "entries/bees/hive/diamond.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3861,7 +3861,7 @@
   "file": "entries/bees/hive/emerald.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3869,7 +3869,7 @@
   "file": "entries/bees/hive/experience.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3877,7 +3877,7 @@
   "file": "entries/bees/hive/gold.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3885,7 +3885,7 @@
   "file": "entries/bees/hive/iron.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3893,7 +3893,7 @@
   "file": "entries/bees/hive/lapis.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3901,7 +3901,7 @@
   "file": "entries/bees/hive/netherite.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3909,7 +3909,7 @@
   "file": "entries/bees/hive/obsidian.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3917,7 +3917,7 @@
   "file": "entries/bees/hive/prismarine.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3925,7 +3925,7 @@
   "file": "entries/bees/hive/redstone.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3933,7 +3933,7 @@
   "file": "entries/bees/hive/skeletal.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3941,7 +3941,7 @@
   "file": "entries/bees/hive/withered.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3949,7 +3949,7 @@
   "file": "entries/bees/hive/zombie.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3957,7 +3957,7 @@
   "file": "entries/bees/solitary/ashy_mining.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3965,7 +3965,7 @@
   "file": "entries/bees/solitary/blue_banded.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3973,7 +3973,7 @@
   "file": "entries/bees/solitary/chocolate_mining.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3981,7 +3981,7 @@
   "file": "entries/bees/solitary/digger.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3989,7 +3989,7 @@
   "file": "entries/bees/solitary/green_carpenter.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -3997,7 +3997,7 @@
   "file": "entries/bees/solitary/leafcutter.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4005,7 +4005,7 @@
   "file": "entries/bees/solitary/mason.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4013,7 +4013,7 @@
   "file": "entries/bees/solitary/neon_cuckoo.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4021,7 +4021,7 @@
   "file": "entries/bees/solitary/nomad.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4029,7 +4029,7 @@
   "file": "entries/bees/solitary/reed.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4037,7 +4037,7 @@
   "file": "entries/bees/solitary/resin.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4045,7 +4045,7 @@
   "file": "entries/bees/solitary/sweat.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4053,7 +4053,7 @@
   "file": "entries/bees/solitary/yellow_black_carpenter.json",
   "segments": 3,
   "translated": 1,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4061,7 +4061,7 @@
   "file": "entries/bees/wild/crystalline.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4069,7 +4069,7 @@
   "file": "entries/bees/wild/draconic.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4077,7 +4077,7 @@
   "file": "entries/bees/wild/ender.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4085,7 +4085,7 @@
   "file": "entries/bees/wild/ghostly.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4093,7 +4093,7 @@
   "file": "entries/bees/wild/glowing.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4101,7 +4101,7 @@
   "file": "entries/bees/wild/magmatic.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4109,7 +4109,7 @@
   "file": "entries/bees/wild/slimy.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4117,7 +4117,7 @@
   "file": "entries/bees/wild/sugarbag.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4125,7 +4125,7 @@
   "file": "entries/bees/worker/collector.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4133,7 +4133,7 @@
   "file": "entries/bees/worker/cubee.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4141,7 +4141,7 @@
   "file": "entries/bees/worker/dye.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4149,7 +4149,7 @@
   "file": "entries/bees/worker/farmer.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4157,7 +4157,7 @@
   "file": "entries/bees/worker/hoarder.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4165,7 +4165,7 @@
   "file": "entries/bees/worker/lumber.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4173,7 +4173,7 @@
   "file": "entries/bees/worker/quarry.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4181,7 +4181,7 @@
   "file": "entries/bees/worker/rancher.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4189,7 +4189,7 @@
   "file": "entries/blocks/bee_jar.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4197,7 +4197,7 @@
   "file": "entries/blocks/bottler.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4205,7 +4205,7 @@
   "file": "entries/blocks/breeding_chamber.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4213,7 +4213,7 @@
   "file": "entries/blocks/catcher.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4221,7 +4221,7 @@
   "file": "entries/blocks/centrifuge.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4229,7 +4229,7 @@
   "file": "entries/blocks/feeder.json",
   "segments": 4,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4237,7 +4237,7 @@
   "file": "entries/blocks/gene_indexer.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4245,7 +4245,7 @@
   "file": "entries/blocks/hive.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4253,7 +4253,7 @@
   "file": "entries/blocks/honey_generator.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4261,7 +4261,7 @@
   "file": "entries/blocks/incubator.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4269,7 +4269,7 @@
   "file": "entries/genetics/attributes.json",
   "segments": 16,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4277,7 +4277,7 @@
   "file": "entries/genetics/collecting.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4285,7 +4285,7 @@
   "file": "entries/genetics/transferring.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4293,7 +4293,7 @@
   "file": "entries/guide/start.json",
   "segments": 6,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4301,7 +4301,7 @@
   "file": "entries/hives/advanced_hives.json",
   "segments": 5,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4309,7 +4309,7 @@
   "file": "entries/hives/dragon_egg_hive.json",
   "segments": 4,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4317,7 +4317,7 @@
   "file": "entries/hives/expansion_boxes.json",
   "segments": 4,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4325,7 +4325,7 @@
   "file": "entries/hives/nests.json",
   "segments": 3,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4333,7 +4333,7 @@
   "file": "entries/items/bee_cage.json",
   "segments": 4,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4341,7 +4341,7 @@
   "file": "entries/items/bee_helmet.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4349,7 +4349,7 @@
   "file": "entries/items/combs.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4357,7 +4357,7 @@
   "file": "entries/items/honey_treat.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4365,7 +4365,7 @@
   "file": "entries/items/nest_locator.json",
   "segments": 2,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4373,7 +4373,7 @@
   "file": "entries/items/upgrades.json",
   "segments": 14,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "productivebees",
@@ -4381,7 +4381,7 @@
   "file": "entries/misc/performance.json",
   "segments": 4,
   "translated": 0,
-  "complete": true
+  "complete": false
  },
  {
   "ns": "justdirethings",

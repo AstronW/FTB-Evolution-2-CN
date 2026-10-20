@@ -1,0 +1,66 @@
+[
+  {
+    "key": "jecharacters.chat.help",
+    "new": "/jech [profile] / [verbose true/false]",
+    "english": "/jech [profile] / [verbose true/false]",
+    "namespace": "jecharacters",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jecharacters-26.1.2-neoforge-4.6.9.jar",
+    "path": "assets/jecharacters/lang/en_us.json",
+    "native_zh": "/jech [profile] / [verbose true/false]",
+    "candidates": [],
+    "translation": "/jech [profile] / [verbose true/false]",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  },
+  {
+    "key": "jecharacters.chat.error",
+    "new": "Oops! An error occurred when writing the file.",
+    "english": "Oops! An error occurred when writing the file.",
+    "namespace": "jecharacters",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jecharacters-26.1.2-neoforge-4.6.9.jar",
+    "path": "assets/jecharacters/lang/en_us.json",
+    "native_zh": "卧槽，写入文件时出现了一个问题。",
+    "candidates": [],
+    "reason": "Review native tone and retain source paths; ASCII punctuation in project override",
+    "translation": "糟糕! 写入文件时发生错误.",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "jecharacters.chat.saved",
+    "new": "Done! Output saved to logs/jecharacters.txt.",
+    "english": "Done! Output saved to logs/jecharacters.txt.",
+    "namespace": "jecharacters",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jecharacters-26.1.2-neoforge-4.6.9.jar",
+    "path": "assets/jecharacters/lang/en_us.json",
+    "native_zh": "搞定！报告已导出至 logs/jecharacters.txt。",
+    "candidates": [],
+    "reason": "Review native tone and retain source paths; ASCII punctuation in project override",
+    "translation": "完成! 结果已保存至 logs/jecharacters.txt.",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "jecharacters.chat.start",
+    "new": "Start profiling",
+    "english": "Start profiling",
+    "namespace": "jecharacters",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jecharacters-26.1.2-neoforge-4.6.9.jar",
+    "path": "assets/jecharacters/lang/en_us.json",
+    "native_zh": "开始分析模组文件。",
+    "candidates": [],
+    "reason": "Review native tone and retain source paths; ASCII punctuation in project override",
+    "translation": "开始分析",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "jecharacters.chat.taiwan",
+    "new": "Internal error.",
+    "english": "Internal error.",
+    "namespace": "jecharacters",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jecharacters-26.1.2-neoforge-4.6.9.jar",
+    "path": "assets/jecharacters/lang/en_us.json",
+    "native_zh": "内部错误。",
+    "candidates": [],
+    "reason": "Review native tone and retain source paths; ASCII punctuation in project override",
+    "translation": "内部错误.",
+    "review_reason": "Current source reviewed manual translation"
+  }
+]

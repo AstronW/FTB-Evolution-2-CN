@@ -1,0 +1,14 @@
+{
+  "batch": "174",
+  "namespace": "ironjetpacks",
+  "jar": ".minecraft/mods/IronJetpacks-26.1.2-9.0.3.jar",
+  "language_path": "assets/ironjetpacks/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ironjetpacks/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.ironjetpacks.hud"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "HUD"
+  ]
+}

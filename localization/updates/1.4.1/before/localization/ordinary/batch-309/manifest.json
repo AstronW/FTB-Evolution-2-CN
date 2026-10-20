@@ -1,0 +1,13 @@
+{
+  "batch": "309",
+  "namespace": "mysticalagriculture",
+  "jar": ".minecraft/mods/MysticalAgriculture-26.1.2-9.0.10.jar",
+  "language_path": "assets/mysticalagriculture/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mysticalagriculture/lang/zh_cn.json",
+  "include_keys": [
+    "book.mysticalagriculture.entry.ore_infuser",
+    "book.mysticalagriculture.entry.ore_infuser.page.1"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

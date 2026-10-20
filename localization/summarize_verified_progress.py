@@ -16,6 +16,7 @@ def main():
     with gzip.open(REPORT / 'remaining-1.4.0-language-detail.json.gz', 'rt') as source:
         inventory = json.load(source)
     categories = {r['key']: r['category'] for r in inventory if not r['excluded']}
+    version = read(ROOT/'project.json')['target_pack_version']
     languages = defaultdict(set)
     groups = defaultdict(set)
     pages = defaultdict(set)
@@ -51,7 +52,24 @@ def main():
             pages[row['path']].add('cfpa_review')
         elif row['format'] == 'Patchouli':
             fields[(row['path'], row['field'])].add('cfpa_review')
-    ordinary = {key for key in languages if categories.get(key) != 'manual_keys'}
+    # Additional maintained documents and explicit Patchouli fields are part of
+    # the same deduplicated accounting, rather than a hidden uncounted appendix.
+    extra = ROOT / 'localization/manuals_extra'
+    for path, entry in read(extra/'source_manifest.json')['documents'].items():
+        if (extra/'translations'/path).is_file():
+            pages[path].add('project_extra_manuals')
+    project_field_count = 0
+    for path in (ROOT/'localization/patchouli/translations').rglob('*.tsv'):
+        ns, book, *rel = path.relative_to(ROOT/'localization/patchouli/translations').parts
+        resource = f'assets/{ns}/patchouli_books/{book}/en_us/' + '/'.join(rel)[:-4]
+        for line in path.read_text().splitlines():
+            if line:
+                field, _ = line.split('\t', 1)
+                fields[(resource, field.lstrip('/').replace('/', '.'))].add('project_patchouli')
+                project_field_count += 1
+    def category(key):
+        return categories.get(key, 'manual_keys' if key.startswith(('book.', 'info_book.', 'infobook.', 'gui.guide.', 'guide.betterfishtanks.', 'guide.animusnv.')) else 'ordinary')
+    ordinary = {key for key in languages if category(key) != 'manual_keys'}
     manual_keys = set(languages) - ordinary
     stats = {
         'ordinary_language_keys': len(ordinary),
@@ -65,13 +83,15 @@ def main():
         'reviewed_cfpa_language_keys': len(reviewed_language_keys),
         'batch_cfpa_key_overlap': len(batch_keys & reviewed_language_keys),
         'original_manual_pages': len(original_pages),
+        'additional_project_manual_pages': sum('project_extra_manuals' in v for v in pages.values()),
+        'explicit_project_patchouli_fields': project_field_count,
         'reviewed_manual_pages': sum('cfpa_review' in v for v in pages.values()),
         'manual_page_overlap': sum(len(v) > 1 for v in pages.values()),
-        'batch_keys_classified_as_manual': sum(categories.get(k) == 'manual_keys' for k in batch_keys),
+        'batch_keys_classified_as_manual': sum(category(k) == 'manual_keys' for k in batch_keys),
         'batch_keys_outside_latin_inventory_retained_as_ordinary': sum(k not in categories for k in batch_keys),
     }
     assert stats['all_language_keys'] == stats['ordinary_language_keys'] + stats['manual_language_keys']
-    data = {'target_pack_version': '1.4.0', 'scope': 'Verified ordinary batches plus reviewed CFPA and project manual pages; excludes quests and pack-custom text to avoid implying full-project totals',
+    data = {'target_pack_version': version, 'scope': 'Verified ordinary batches plus reviewed CFPA and project manual pages; excludes quests and pack-custom text to avoid implying full-project totals',
             'in_game_tested': False, 'stats': stats,
             'language_keys': [{'key': k, 'category': 'manual_keys' if k in manual_keys else 'ordinary', 'sources': sorted(v)} for k, v in sorted(languages.items())],
             'group_labels': [{'key': k, 'sources': sorted(v)} for k, v in sorted(groups.items())],
@@ -97,15 +117,15 @@ def main():
 ## 来源及去重核对
 
 - {batch_count} 个已通过普通文本批次: {len(batch_keys)} 键. 其中 {stats['batch_keys_classified_as_manual']} 键按当前内容分类计入手册, 其余 {len(batch_keys)-stats['batch_keys_classified_as_manual']} 键计入普通文本 (包括 {stats['batch_keys_outside_latin_inventory_retained_as_ordinary']} 个不在含拉丁文本扫描集合中的既有名称或格式值).
-- CFPA 审校语言: {len(reviewed_language_keys)} 键, 与上述批次重叠 {stats['batch_cfpa_key_overlap']} 键. 其中普通文本 6028 键, 手册语言 1276 键; 分组另计 76 条.
-- 文档手册: 原项目 {len(original_pages)} 页 + CFPA 审校 {stats['reviewed_manual_pages']} 页, 重叠 {stats['manual_page_overlap']} 页 = {len(pages)} 页. 此前的 369 页已经是合并量, 不能再加 205 页.
-- Patchouli 的 508 个字段分布于 151 个输出文档, 按字段统计, 不称为 508 页.
+- CFPA 审校语言: {len(reviewed_language_keys)} 键, 与上述批次重叠 {stats['batch_cfpa_key_overlap']} 键. 旧版来源子集的数字不直接沿用为当前总量; 分组独立计数.
+- 文档手册: 原项目 {len(original_pages)} 页 + CFPA 审校 {stats['reviewed_manual_pages']} 页, 重叠 {stats['manual_page_overlap']} 页 + 补充手册 {stats["additional_project_manual_pages"]} 页, 去重后为 {len(pages)} 页.
+- Patchouli 由 CFPA 审校字段和 {project_field_count} 个项目显式翻译字段按路径/字段去重, 共 {len(fields)} 个字段, 不称为页面数量.
 
 语言键以完整键名去重 (Minecraft 语言表的全局键); 页面以英文资源路径去重, Patchouli 以路径与字段位置去重. 逐条来源存于 `verified-progress-detail.json.gz`. 兼容旧名称不计当前原生键, 未完成草稿不计完成量.
 
 ## 统计边界与验证
 
-这是原普通语言批次与手册的成果合并, 不包括单独统计的任务书 4178 键与整合包自定义文案, 也不是全部模组自带中文的覆盖总量. 不因合并而宣称其他组件已全量适配 1.4.0. 不变更实际游戏资源包或复制安装译文.
+这是原普通语言批次与手册的成果合并, 不包括单独统计的任务书 4181 键与整合包自定义文案, 也不是全部模组自带中文的覆盖总量. 不因合并而宣称游戏内内容已全量验收. 不变更实际游戏资源包或复制安装译文.
 
 统计读取已通过的批次记录, 并通过 `load_verified_review` 校验 CFPA 构建清单、审校决定与产物哈希. 全量静态校验使用 `python project.py check`, 统计重建使用 `python localization/summarize_verified_progress.py`. 静态通过与游戏内验收分开; 游戏内尚未验收.
 '''

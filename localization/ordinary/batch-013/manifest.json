@@ -1,7 +1,7 @@
 {
   "batch": "013",
   "namespace": "integrateddynamics",
-  "jar": ".minecraft/mods/integrateddynamics-26.1.2-neoforge-1.36.1.jar",
+  "jar": ".minecraft/mods/integrateddynamics-26.1.2-neoforge-1.36.2.jar",
   "language_path": "assets/integrateddynamics/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/integrateddynamics/lang/zh_cn.json",
   "include_keys": [

@@ -1,0 +1,13 @@
+{
+  "batch": "207",
+  "namespace": "trashslot",
+  "jar": ".minecraft/mods/trashslot-neoforge-26.1.2-26.1.2.4.jar",
+  "language_path": "assets/trashslot/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/trashslot/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.trashslot.destroy_item",
+    "tooltip.trashslot.trash_item"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

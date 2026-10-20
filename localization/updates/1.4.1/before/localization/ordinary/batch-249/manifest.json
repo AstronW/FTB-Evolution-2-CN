@@ -1,0 +1,22 @@
+{
+  "batch": "249",
+  "namespace": "pylons",
+  "jar": ".minecraft/mods/pylons-26.1-6.0.1.jar",
+  "language_path": "assets/pylons/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/pylons/lang/zh_cn.json",
+  "include_keys": [
+    "block.pylons.protection_pylon",
+    "gui.pylons.fluxData",
+    "gui.pylons.protectedMobsAndBlocks",
+    "item.pylons.block_filter",
+    "pylons.int.jei.category.protection_pylon",
+    "tooltip.pylons.effect_banned",
+    "tooltip.pylons.no_block",
+    "tooltip.pylons.protection",
+    "tooltip.pylons.protection1",
+    "tooltip.pylons.protection2",
+    "tooltip.pylons.protection3"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

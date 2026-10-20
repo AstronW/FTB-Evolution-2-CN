@@ -1,0 +1,138 @@
+[
+  {
+    "id": "arsmagicalegacy",
+    "old_jar": "arsmagicalegacy-26.1.2-1.7.0.jar",
+    "jar": "arsmagicalegacy-26.1.2-1.7.1.jar",
+    "old_hash": "1c6cde0088485e884603d51b34552c68d081e6e3c52bbc617e77887690ae502f",
+    "hash": "ec1385de7ed675830d308d4872467acfbd2c4c231eba85a7041b1a769d31b6c8",
+    "translation": "魔法艺术: 传承"
+  },
+  {
+    "id": "auroral",
+    "old_jar": "auroral-26.1.2-1.5.9.jar",
+    "jar": "auroral-26.1.2-1.5.10.jar",
+    "old_hash": "20f1f222137d2ea32b91b620abc3467a6d7039796bb6dec33f3e1afde041be51",
+    "hash": "0b3fc172be2899c0b78f616639f15197b5155df205d4dde1c7787653ae294761",
+    "translation": "极光"
+  },
+  {
+    "id": "craftingstation",
+    "old_jar": "craftingstationjei-26.1.1-NeoForge-2.2.0.jar",
+    "jar": "craftingstationjei-26.1.2-NeoForge-2.2.1.jar",
+    "old_hash": "73a9938f2c267bf6f5cf9e8529d02bfad068be255b3e99afa5d9b5b249caf96b",
+    "hash": "642e87a8a19556f74d236034dfcd4fcd5625f49de722132e79725dd495189f4d",
+    "translation": "合成站"
+  },
+  {
+    "id": "hephaestus",
+    "old_jar": "hephaestus-neoforge-26.1.2-1.0.16.jar",
+    "jar": "hephaestus-neoforge-26.1.2-1.0.17.jar",
+    "old_hash": "f65ea3ebdb1ac3feeec28b717a67fae3e019f194fded4ed27a582a6078720360",
+    "hash": "84aad47a8490601ffe7e33ef0acffc689539e8ecf424f70538bfe0fc6e01de2f",
+    "translation": "匠神"
+  },
+  {
+    "id": "integrateddynamics",
+    "old_jar": "integrateddynamics-26.1.2-neoforge-1.36.1.jar",
+    "jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "old_hash": "98f64dc224f208eb69056896a1c0936bce46af1ec9ed202b4dd9195f5cb59e33",
+    "hash": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
+    "translation": "动态联合"
+  },
+  {
+    "id": "integrateddynamicscompat",
+    "old_jar": "integrateddynamics-26.1.2-neoforge-1.36.1.jar",
+    "jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "old_hash": "98f64dc224f208eb69056896a1c0936bce46af1ec9ed202b4dd9195f5cb59e33",
+    "hash": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
+    "translation": "动态联合兼容"
+  },
+  {
+    "id": "integratedterminals",
+    "old_jar": "integratedterminals-26.1.2-neoforge-1.10.0.jar",
+    "jar": "integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "old_hash": "1bfe5551ef575e7d402a6642f80b3e9e986f631b7d25a608799acd1d5af142b1",
+    "hash": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+    "translation": "存储终端"
+  },
+  {
+    "id": "integratedterminalscompat",
+    "old_jar": "integratedterminals-26.1.2-neoforge-1.10.0.jar",
+    "jar": "integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "old_hash": "1bfe5551ef575e7d402a6642f80b3e9e986f631b7d25a608799acd1d5af142b1",
+    "hash": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+    "translation": "存储终端兼容"
+  },
+  {
+    "id": "ltxi",
+    "old_jar": "ltxi-26.1.2-2.3.3.jar",
+    "jar": "ltxi-26.1.2-2.4.0.jar",
+    "old_hash": "e3e7e539df4246c7536f5feea7956bcb48e537061f475d65e856eef82794d7af",
+    "hash": "4043e3020f197820075245b1d05ec8e694286962114edebf67406ade1837473b",
+    "translation": "LTX工业"
+  },
+  {
+    "id": "nautec",
+    "old_jar": "nautec-26.1.2-NeoForge-2.0.14.jar",
+    "jar": "nautec-26.1.2-NeoForge-2.0.16.jar",
+    "old_hash": "52a169bd0274a655fef96f52e5a9d7ce2a77ee0e32a04c51fca0c4fc7be488d4",
+    "hash": "3a5ff5658f5b08cddcd52cb8212e550f1f801d9be45036368ddc1be9bdb7312b",
+    "translation": "海蓝科技"
+  },
+  {
+    "id": "neosync",
+    "old_jar": "NeoSync-26.1.2-1.7.2.jar",
+    "jar": "NeoSync-26.1.2-1.7.3.jar",
+    "old_hash": "9702e88abff39342dde8788f3782fc4a37fb7a9d4b9f5fe1f9b6029d1a3f5f74",
+    "hash": "303ece6478453dc4956698a0cf623851d346ca7e2b06e2bcc44403ec03663e0a",
+    "translation": "新克隆"
+  },
+  {
+    "id": "oritech",
+    "old_jar": "oritech-2.0.0-exp11.jar",
+    "jar": "oritech-2.0.0-exp12.jar",
+    "old_hash": "2d8762dc70ecb4a0afc3987e15f38fe0b1b7d37d021fd2b912da6bc98a404599",
+    "hash": "712b00b855c09b3aa8f0ff531c3ce35411a92d404637f0c9eb4a12e4dcd96e46",
+    "translation": "奥瑞科技"
+  },
+  {
+    "id": "productivebees",
+    "old_jar": "productivebees-26.1.2-15.3.0.jar",
+    "jar": "productivebees-26.1.2-15.4.0.jar",
+    "old_hash": "d6e1582f76f5914f6cf5ff4abf7e90edbd4feaf3a751d0a333f6fcfcdf19df50",
+    "hash": "404c27d92b38d9e6f9b5a07fe99bc5f6d12578de816a548e3d7575cc498333f3",
+    "translation": "资源蜜蜂"
+  },
+  {
+    "id": "reliquary",
+    "old_jar": "reliquary-26.1.2-2.0.92.1563.jar",
+    "jar": "reliquary-26.1.2-2.0.93.1581.jar",
+    "old_hash": "c7ed0c327ea9487c24eb1110aa81226db7ce036d6c7cd86efaadce86e6166097",
+    "hash": "04e066ebd135eb0ad2245aa8770c74af9ee0c74a4050e7b7c19610f12c6eab68",
+    "translation": "圣遗物"
+  },
+  {
+    "id": "sophisticatedbackpacks",
+    "old_jar": "sophisticatedbackpacks-26.1.2-3.26.11.2198.jar",
+    "jar": "sophisticatedbackpacks-26.1.2-3.26.13.2207.jar",
+    "old_hash": "4e5525848e8c20c0a8d4ecb8b459837694e13a0b024f04971eb9c92d61642f11",
+    "hash": "20b614486b0cec1c7f3185123c3c2cf063658c9167e415d129593e99fa8260b5",
+    "translation": "精妙背包"
+  },
+  {
+    "id": "sophisticatedcore",
+    "old_jar": "sophisticatedcore-26.1.2-1.5.14.2408.jar",
+    "jar": "sophisticatedcore-26.1.2-1.5.14.2409.jar",
+    "old_hash": "2c22c6c76fa28df4bf91d44dd837d601df3a8f4fd7fbd3a46684d7b2f82309fe",
+    "hash": "085e22084c3255cdae30af9d323cd845ec1ad83f9e9ac8a18d03276104eb9e2a",
+    "translation": "精妙核心"
+  },
+  {
+    "id": "witchery",
+    "old_jar": "witchery-0.5.22+mc26.1.2.jar",
+    "jar": "witchery-0.5.25+mc26.1.2.jar",
+    "old_hash": "1871960f830cd12651c8701f8c9fa56ec0f4e305ba6b28976a799b7995ceb146",
+    "hash": "41b1ff110420d8c5e5b90e89c215aae74cc40afa17da07f0bd8d8e0deec3c0ac",
+    "translation": "巫术"
+  }
+]

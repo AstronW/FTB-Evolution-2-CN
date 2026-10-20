@@ -797,7 +797,6 @@
             id: "evilcraft:vein_sword",
             count: 1,
           },
-          match_components: "fuzzy",
         },
         {
           id: "6D31A568E9F320A8",
@@ -905,7 +904,6 @@
             id: "evilcraft:broom",
             count: 1,
           },
-          match_components: "fuzzy",
         },
       ],
       rewards: [

@@ -1,9 +1,9 @@
 {
   "totals": {
     "files": 51,
-    "keys": 4178,
-    "segments": 8181,
-    "translated": 8181,
+    "keys": 4181,
+    "segments": 8192,
+    "translated": 8192,
     "complete": 51,
     "installed": 51
   },
@@ -115,8 +115,8 @@
     {
       "file": "chapters/evilcraft.json5",
       "keys": 51,
-      "segments": 83,
-      "translated": 83,
+      "segments": 84,
+      "translated": 84,
       "complete": true,
       "installed": true
     },
@@ -130,9 +130,9 @@
     },
     {
       "file": "chapters/gearing_up.json5",
-      "keys": 199,
-      "segments": 459,
-      "translated": 459,
+      "keys": 200,
+      "segments": 460,
+      "translated": 460,
       "complete": true,
       "installed": true
     },
@@ -202,9 +202,9 @@
     },
     {
       "file": "chapters/logistics.json5",
-      "keys": 156,
-      "segments": 329,
-      "translated": 329,
+      "keys": 158,
+      "segments": 338,
+      "translated": 338,
       "complete": true,
       "installed": true
     },
@@ -421,5 +421,5 @@
     "complete": 42,
     "total": 42
   },
-  "installed_keys": 4178
+  "installed_keys": 4181
 }

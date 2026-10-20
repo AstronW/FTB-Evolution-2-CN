@@ -1,0 +1,122 @@
+[
+  {
+    "key": "text.trender.name",
+    "new": "Trender",
+    "english": "Trender",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "Trender",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  },
+  {
+    "key": "text.trender.sendstacktraces",
+    "new": "Send Stacktraces",
+    "english": "Send Stacktraces",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "发送堆栈跟踪",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "text.trender.sendstacktraces.tooltip",
+    "new": "When enabled, stacktraces in the log or game crashes that contain mod references to mods by tr7zw will be sent to the mod author via Sentry (Sentry.io) to help fix bugs faster. No personal information is collected or sent. (Restart the game after turning it on)",
+    "english": "When enabled, stacktraces in the log or game crashes that contain mod references to mods by tr7zw will be sent to the mod author via Sentry (Sentry.io) to help fix bugs faster. No personal information is collected or sent. (Restart the game after turning it on)",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "启用后, 日志或游戏崩溃中涉及 tr7zw 模组的堆栈跟踪会通过 Sentry(Sentry.io)发送给模组作者, 帮助更快修复问题. 不收集或发送个人信息. (启用后需重启游戏)",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "text.trender.style",
+    "new": "UI Style",
+    "english": "UI Style",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "界面样式",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "text.trender.style.MODERN",
+    "new": "Modern",
+    "english": "Modern",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "现代",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "text.trender.style.MODERN_DARK",
+    "new": "Modern Dark",
+    "english": "Modern Dark",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "现代暗色",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "text.trender.style.VANILLA_MODERN",
+    "new": "Modern Vanilla",
+    "english": "Modern Vanilla",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "现代原版",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "text.trender.style.VANILLA_OLD",
+    "new": "Old Vanilla",
+    "english": "Old Vanilla",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "旧版原版",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "text.trender.style.tooltip",
+    "new": "Changes the UI Style for all of mods by tr7zw.",
+    "english": "Changes the UI Style for all of mods by tr7zw.",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "更改 tr7zw 所有模组的界面样式.",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "text.trender.tab.general_options",
+    "new": "Options",
+    "english": "Options",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "选项",
+    "review_reason": "Current source reviewed manual translation"
+  }
+]

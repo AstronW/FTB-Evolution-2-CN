@@ -1,0 +1,28 @@
+{
+  "batch": "253",
+  "namespace": "lollipop",
+  "jar": ".minecraft/mods/Powah-7.0.4-alpha.jar",
+  "language_path": "assets/lollipop/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/lollipop/lang/zh_cn.json",
+  "include_keys": [
+    "info.lollipop.fe",
+    "info.lollipop.fe.per.mb",
+    "info.lollipop.fe.pet.tick",
+    "info.lollipop.fe.stored",
+    "info.lollipop.mb",
+    "info.lollipop.mb.pet.tick",
+    "info.lollipop.mb.stored",
+    "info.lollipop.temperature.c"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s FE",
+    "%s FE/%s mb",
+    "%s FE/t",
+    "%s/%s FE",
+    "%s mB",
+    "%s mb/t",
+    "%s/%s mB",
+    "%s C"
+  ]
+}

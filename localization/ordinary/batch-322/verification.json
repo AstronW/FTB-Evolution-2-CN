@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "322",
+  "namespace": "integratedterminals",
+  "source_keys": 21,
+  "unique_values": 21,
+  "chinese_values": 21,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 61,
+  "source_sha256": "2d3e3cf9c598e70206ad6cb05e81d30074ecc170be9c1a78ea373d5c4e4669a0",
+  "in_game_tested": false
+}

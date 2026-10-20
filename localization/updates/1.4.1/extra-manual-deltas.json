@@ -1,0 +1,38 @@
+[
+  {
+    "page": "assets/nautec/guides/nautec/guide/getting_started/deep_oceans.md",
+    "old_sha256": "e4df75f3ae149f851393f4db7a28e20a11a5d474e8c023f17004dc8a2f683eb5",
+    "new_sha256": "3c91e87be7c5e64cb0d14af20f864bb7c09d59cb2978c141198905c863b8042a",
+    "translated_changed_lines": 2
+  },
+  {
+    "page": "assets/nautec/guides/nautec/guide/getting_started/eye_of_the_sea.md",
+    "old_sha256": "a7eda655c55839200d727de0a8a01ec43d7fd6a5de7114ae119b6f5bac8b5962",
+    "new_sha256": "f79a96381d3514f44bf9b77c23c33a5902f3139b62b279d0b086b6ddf270828c",
+    "translated_changed_lines": 6
+  },
+  {
+    "page": "assets/nautec/guides/nautec/guide/getting_started/stronger_beams.md",
+    "old_sha256": "194d81ded085690905e500248cd09fea92308fd1f21ad03b4cd3980ca97573ae",
+    "new_sha256": "0d50d6c7aac6e02cbe47c4a06d43ad46e1000b3a1b77ce755a729f60861fa2a2",
+    "translated_changed_lines": 2
+  },
+  {
+    "page": "assets/nautec/guides/nautec/guide/getting_started/utilities.md",
+    "old_sha256": "2354a9b0ee81ba66083f137f9becb498569e2034bcb47e6830eccffa799dd435",
+    "new_sha256": "289bdcb20a0c97d142d51dce29bd9e3f9e64339b89bb6f32098fafbe2d248efa",
+    "translated_changed_lines": 2
+  },
+  {
+    "page": "assets/nautec/guides/nautec/guide/laser_chemistry/budding_prismarine.md",
+    "old_sha256": "ec825da8348d2b7db06b014fb494d91695edbb2f08c9557ed9de48b6c4835e5c",
+    "new_sha256": "cf6beda56a055c7ad088b1860b974f1d5a92d7e5e44ee4ef139f02d0cfbd276d",
+    "translated_changed_lines": 2
+  },
+  {
+    "page": "assets/nautec/guides/nautec/guide/laser_chemistry/mixer.md",
+    "old_sha256": "3b4ad674b55f37d5760fe76833646dc1ee8918d089835710f21810aa6a998811",
+    "new_sha256": "4ee8038d09a82522716c1cf056f460e6cacc8276985c3187f1d6b078792ae10c",
+    "translated_changed_lines": 13
+  }
+]

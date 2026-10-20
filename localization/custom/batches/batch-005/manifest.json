@@ -1,0 +1,35 @@
+{
+  "target_pack_version": "1.4.1",
+  "scope": "Nodeworks custom coolant block names; directly required by the new quest",
+  "files": [],
+  "language_entries": [
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "block.ftb.adamantite_coolant",
+      "en": "Adamantite Coolant",
+      "zh": "精金冷却块"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "block.ftb.aeternium_coolant",
+      "en": "Aeternium Coolant",
+      "zh": "永恒金属冷却块"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "block.ftb.aurichalcum_coolant",
+      "en": "Aurichalcum Coolant",
+      "zh": "奥利哈刚冷却块"
+    }
+  ],
+  "terms": {
+    "Crafting Coolant": "合成冷却块",
+    "Adamantite": "精金",
+    "Aeternium": "永恒金属",
+    "Aurichalcum": "奥利哈刚"
+  },
+  "remaining": []
+}

@@ -454,9 +454,9 @@
   "quest.5E9540650EA59208.quest_desc": [
     "Ammunition runs out. Your network usually does not.",
     "",
-    "Infuse an &cEnchanted Bullet Modifier&r on a Tier I Ara Vitae to make a &cBlood Bullet&r, then slot it into a gun. Each shot draws 50 EV from your network in place of a bullet, so the gun fires even with an empty magazine.",
+    "Infuse an &cEnchanted Bullet Modifier&r on a Tier I Ara Vitae to make a &cBlood Bullet&r, then slot it into a gun. Each shot draws 50 EV from your network in place of a bullet, so the gun reloads even if you don't have bullets.",
     "",
-    "When the network cannot pay, the gun falls back on whatever bullets are loaded.",
+    "When the network cannot pay, the gun falls back on whatever bullets you have to reload with.",
   ],
   "quest.24E04D4C7C3E7CA4.title": "Demonite",
   "quest.0A7737571F027A95.quest_desc": [

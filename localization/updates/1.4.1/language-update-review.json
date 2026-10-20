@@ -1,0 +1,74 @@
+{
+  "translated_or_preserved": 459,
+  "namespaces": {
+    "nautec": 226,
+    "productivebees": 13,
+    "selling_bin": 1,
+    "neovitae": 3,
+    "ae2wtlib_api": 5,
+    "codedefinedgui": 63,
+    "apollib": 7,
+    "ltxi": 18,
+    "magicparticleslib": 2,
+    "sathlib": 18,
+    "ae2addonlib": 4,
+    "integratedterminals": 21,
+    "productivelib": 26,
+    "jecharacters": 5,
+    "kuma_api": 4,
+    "mezz_config": 18,
+    "spectrelib": 1,
+    "arsmagicalegacy": 1,
+    "trender": 10,
+    "tinymultiblocklib": 13
+  },
+  "excluded": [
+    {
+      "key": "block.ftb.adamantite_coolant",
+      "namespace": "ftb",
+      "reason": "Custom batch-005 owns this key"
+    },
+    {
+      "key": "block.ftb.aeternium_coolant",
+      "namespace": "ftb",
+      "reason": "Custom batch-005 owns this key"
+    },
+    {
+      "key": "block.ftb.aurichalcum_coolant",
+      "namespace": "ftb",
+      "reason": "Custom batch-005 owns this key"
+    },
+    {
+      "key": "config.crystalix.disabled_properties",
+      "namespace": "crystalix",
+      "reason": "Decoration mod; preserve earlier translation only"
+    },
+    {
+      "key": "config.crystalix.disabled_properties.tooltip",
+      "namespace": "crystalix",
+      "reason": "Decoration mod; preserve earlier translation only"
+    },
+    {
+      "key": "config.crystalix.highlight_chunk_radius",
+      "namespace": "crystalix",
+      "reason": "Decoration mod; preserve earlier translation only"
+    },
+    {
+      "key": "config.crystalix.highlight_chunk_radius.tooltip",
+      "namespace": "crystalix",
+      "reason": "Decoration mod; preserve earlier translation only"
+    },
+    {
+      "key": "tooltip.crystalix.disabled",
+      "namespace": "crystalix",
+      "reason": "Decoration mod; preserve earlier translation only"
+    },
+    {
+      "key": "tooltip.crystalix.editor",
+      "namespace": "crystalix",
+      "reason": "Decoration mod; preserve earlier translation only"
+    }
+  ],
+  "method": "Current native English plus reviewed exact-match CFPA/PR cache candidates; nested library entries are separately attributed, not all claimed as pack additions.",
+  "in_game_tested": false
+}

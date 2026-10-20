@@ -1,0 +1,20 @@
+{
+  "mezz_config.config.name": "名称: %s",
+  "mezz_config.config.description": "说明: %s",
+  "mezz_config.config.valueValues": "有效值: %s",
+  "mezz_config.config.defaultValue": "默认值: %s",
+  "mezz_config.config.requiresWorldRestart": "重新加载世界后生效.",
+  "mezz_config.config.requiresGameRestart": "重启游戏后生效.",
+  "mezz_config.config.fileWatcher": "文件监视",
+  "mezz_config.config.fileWatcher.description": "设置配置文件自动监视和重载时机.",
+  "mezz_config.config.fileWatcher.enabled": "自动监视文件",
+  "mezz_config.config.fileWatcher.enabled.description": "自动监视配置文件, 在游戏外修改后重新加载.",
+  "mezz_config.config.fileWatcher.changeSettlingDelayMilliseconds": "变更稳定等待时间",
+  "mezz_config.config.fileWatcher.changeSettlingDelayMilliseconds.description": "最后一次文件系统事件后, 等待多少毫秒再重载已更改的配置文件.",
+  "mezz_config.config.fileWatcher.missingDirectoryRetryIntervalMilliseconds": "缺失目录重试间隔",
+  "mezz_config.config.fileWatcher.missingDirectoryRetryIntervalMilliseconds.description": "尝试监视尚不存在的配置目录时, 两次重试之间的毫秒数.",
+  "mezz_config.config.logging": "日志",
+  "mezz_config.config.logging.description": "设置可选的 MezzConfig 诊断日志.",
+  "mezz_config.config.logging.logUntranslatedKeys": "记录未翻译的语言键",
+  "mezz_config.config.logging.logUntranslatedKeys.description": "记录当前语言缺失的分类和配置值语言键. 在开发环境中默认启用."
+}

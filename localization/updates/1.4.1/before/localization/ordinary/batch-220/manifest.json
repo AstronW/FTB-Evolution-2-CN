@@ -1,0 +1,24 @@
+{
+  "batch": "220",
+  "namespace": "mes",
+  "jar": ".minecraft/mods/MoogsEndStructures-universal-1.21-2.1.1.jar",
+  "language_path": "assets/mes/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mes/lang/zh_cn.json",
+  "include_keys": [
+    "modmenu.nameTranslation.mes",
+    "modmenu.summaryTranslation.mes",
+    "modmenu.descriptionTranslation.mes",
+    "mes.releases",
+    "mes.kofi",
+    "mes.curseforge",
+    "mes.modrinth"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "MES - Moog's End Structures",
+    "GitHub Releases",
+    "Ko-fi",
+    "CurseForge",
+    "Modrinth"
+  ]
+}

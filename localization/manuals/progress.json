@@ -932,8 +932,8 @@
   },
   {
     "page": "nodeworks/items-blocks/recipe_sets.md",
-    "segments": 55,
-    "translated": 55,
+    "segments": 64,
+    "translated": 64,
     "complete": true,
     "missing": []
   },
@@ -995,8 +995,8 @@
   },
   {
     "page": "nodeworks/lua-api/card-handle.md",
-    "segments": 92,
-    "translated": 92,
+    "segments": 111,
+    "translated": 111,
     "complete": true,
     "missing": []
   },

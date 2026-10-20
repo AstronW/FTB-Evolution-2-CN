@@ -162,28 +162,28 @@
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "279",
+    "key": "280",
     "mod": "irons_artifice",
     "en": "Iron's Arms 'n Artifice",
     "zh": "Iron的武备与巧械"
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "295",
+    "key": "296",
     "mod": "justhammers",
     "en": "Just Hammers",
     "zh": "锤子合集"
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "298",
+    "key": "299",
     "mod": "justhammers",
     "en": "Just Hammers",
     "zh": "锤子合集"
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "352",
+    "key": "353",
     "mod": "bhc",
     "en": "Baubley Heart Canisters",
     "zh": "心之容器"
@@ -337,28 +337,28 @@
   },
   {
     "file": "localization/translations/chapters/logistics.json",
-    "key": "250",
+    "key": "258",
     "mod": "morered",
     "en": "More Red",
     "zh": "更多红石电路"
   },
   {
     "file": "localization/translations/chapters/logistics.json",
-    "key": "325",
+    "key": "334",
     "mod": "morered",
     "en": "More Red",
     "zh": "更多红石电路"
   },
   {
     "file": "localization/translations/chapters/logistics.json",
-    "key": "327",
+    "key": "336",
     "mod": "energizedpower",
     "en": "Energized Power",
     "zh": "充能能源"
   },
   {
     "file": "localization/translations/chapters/logistics.json",
-    "key": "327",
+    "key": "336",
     "mod": "morered",
     "en": "More Red",
     "zh": "更多红石电路"

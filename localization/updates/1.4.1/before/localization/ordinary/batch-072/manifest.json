@@ -1,0 +1,21 @@
+{
+  "batch": "072",
+  "namespace": "rsrreforged",
+  "jar": ".minecraft/mods/rsrreforged-neoforge-26.1.2-1.0.3.jar",
+  "language_path": "assets/rsrreforged/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/rsrreforged/lang/zh_cn.json",
+  "include_keys": [
+    "block.rsrreforged.requester",
+    "button.rsrreforged:requester.save",
+    "block.rsrreforged.crafting_emitter",
+    "block.rsrreforged.crafting_emitter.tooltip",
+    "block.rsrreforged.requester.tooltip",
+    "block.rsrreforged.requester.tooltip.filter",
+    "block.rsrreforged.crafting_emitter.tooltip.filter",
+    "creativetab.rsrreforged.rsrreforgedtab"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "RSRequestify: Reforged"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "batch": "081",
+  "namespace": "refinedfluidsubstitution",
+  "jar": ".minecraft/mods/refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar",
+  "language_path": "assets/refinedfluidsubstitution/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/refinedfluidsubstitution/lang/zh_cn.json",
+  "include_keys": [
+    "mod.refinedfluidsubstitution",
+    "item.refinedfluidsubstitution.fluid_substitution_pattern",
+    "item.refinedfluidsubstitution.fluid_substitution_pattern.help"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Refined Fluid Substitution"
+  ]
+}

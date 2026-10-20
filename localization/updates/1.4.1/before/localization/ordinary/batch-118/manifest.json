@@ -1,0 +1,24 @@
+{
+  "batch": "118",
+  "namespace": "fancytabsections",
+  "jar": ".minecraft/mods/fancytabsections-6.2-NEOFORGE-26.1.2.jar",
+  "language_path": "assets/fancytabsections/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/fancytabsections/lang/zh_cn.json",
+  "include_keys": [
+    "fancytabsections.configuration.index_expanded",
+    "itemGroup.fancytabsections.fancy_things",
+    "itemGroup.fancytabsections.dirty_tools",
+    "section.fancytabsections.shiny_things",
+    "section.fancytabsections.pretty_things",
+    "section.fancytabsections.secret_things",
+    "section.fancytabsections.hotbar",
+    "section.fancytabsections.dirt",
+    "section.fancytabsections.stone",
+    "section.fancytabsections.colors",
+    "section.fancytabsections.empty",
+    "section.fancytabsections.very_dirty_tools",
+    "section.fancytabsections.decently_dirty_tools"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

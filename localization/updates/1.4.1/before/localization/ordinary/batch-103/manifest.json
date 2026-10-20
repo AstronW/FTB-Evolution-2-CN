@@ -1,0 +1,15 @@
+{
+  "batch": "103",
+  "namespace": "ftbmaterials",
+  "jar": ".minecraft/mods/ftb-materials-26.1.2.6.jar",
+  "language_path": "assets/ftbmaterials/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbmaterials/lang/zh_cn.json",
+  "include_keys": [
+    "item.ftbmaterials.iridium_gear",
+    "item.ftbmaterials.iridium_rod",
+    "item.ftbmaterials.silver_blade",
+    "item.ftbmaterials.tungsten_gear"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

@@ -1,0 +1,16 @@
+{
+  "batch": "124",
+  "namespace": "betteradvancedtooltips",
+  "jar": ".minecraft/mods/better-advanced-tooltips-2601.1.0-build.11.jar",
+  "language_path": "assets/betteradvancedtooltips/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/betteradvancedtooltips/lang/zh_cn.json",
+  "include_keys": [
+    "betteradvancedtooltips.configuration.remove_creative_tab_tooltip",
+    "betteradvancedtooltips.configuration.remove_component_count_tooltip",
+    "betteradvancedtooltips.configuration.fuel_tooltip",
+    "betteradvancedtooltips.configuration.tag_tooltip",
+    "betteradvancedtooltips.configuration.component_tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

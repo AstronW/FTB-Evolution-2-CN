@@ -1,0 +1,4783 @@
+[
+  {
+    "key": "block.ftb.adamantite_coolant",
+    "new": "Adamantite Coolant",
+    "english": "Adamantite Coolant",
+    "namespace": "ftb",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/kubejs/assets/ftb/lang/en_us.json",
+    "path": "assets/ftb/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "block.ftb.aeternium_coolant",
+    "new": "Aeternium Coolant",
+    "english": "Aeternium Coolant",
+    "namespace": "ftb",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/kubejs/assets/ftb/lang/en_us.json",
+    "path": "assets/ftb/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "block.ftb.aurichalcum_coolant",
+    "new": "Aurichalcum Coolant",
+    "english": "Aurichalcum Coolant",
+    "namespace": "ftb",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/kubejs/assets/ftb/lang/en_us.json",
+    "path": "assets/ftb/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "block.nautec.abyssal_enchanter",
+    "new": "Abyssal Enchanter",
+    "english": "Abyssal Enchanter",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "block.nautec.abyssal_enchanter_part",
+    "new": "Abyssal Enchanter",
+    "english": "Abyssal Enchanter",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "block.nautec.deep_sea_reservoir",
+    "new": "Deep Sea Reservoir",
+    "english": "Deep Sea Reservoir",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "block.nautec.deep_sea_reservoir_part",
+    "new": "Deep Sea Reservoir",
+    "english": "Deep Sea Reservoir",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "block.nautec.osmosis_filter",
+    "new": "Osmosis Filter",
+    "english": "Osmosis Filter",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "block.productivebees.bee_squisher",
+    "new": "Bee Squisher",
+    "english": "Bee Squisher",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "block.selling_bin.selling_bin",
+    "new": "Selling Bin",
+    "english": "Selling Bin",
+    "namespace": "selling_bin",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar",
+    "path": "assets/selling_bin/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "book.neovitae.guide.altar.ara_vitae.overflow.text",
+    "new": "Sacrificed blood that arrives faster than the basin can hold is not lost. It pools in an [#](8B0000)overflow reserve[#]() holding up to [#](8B0000)twenty times[#]() the basin's capacity, and flows back into the basin each tick as room opens.\\\n\\\nA great offering from a [#](8B0000)Well of Suffering[#]() or a [#](8B0000)Torment Nexus[#]() can therefore feed an altar whose basin is far smaller than the offering itself. A [#](8B0000)Seer's Sigil[#]() reveals what waits in the reserve.",
+    "english": "Sacrificed blood that arrives faster than the basin can hold is not lost. It pools in an [#](8B0000)overflow reserve[#]() holding up to [#](8B0000)twenty times[#]() the basin's capacity, and flows back into the basin each tick as room opens.\\\n\\\nA great offering from a [#](8B0000)Well of Suffering[#]() or a [#](8B0000)Torment Nexus[#]() can therefore feed an altar whose basin is far smaller than the offering itself. A [#](8B0000)Seer's Sigil[#]() reveals what waits in the reserve.",
+    "namespace": "neovitae",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.44.jar",
+    "path": "assets/neovitae/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "book.neovitae.guide.altar.vitae_link.orb_link_flow.text",
+    "new": "The Link can only draw what the basin holds, so it never moves more in a tick than the altar's [#](8B0000)capacity[#](). The swiftest charging altars balance the two: enough [#](8B0000)Speed Runes[#]() for a strong draw, and enough [#](8B0000)Capacity Runes[#]() that the basin can keep pace with it.\\\n\\\nThe [#](8B0000)Divinus Orb of Vitae[#]() draws far faster than any lesser orb.",
+    "english": "The Link can only draw what the basin holds, so it never moves more in a tick than the altar's [#](8B0000)capacity[#](). The swiftest charging altars balance the two: enough [#](8B0000)Speed Runes[#]() for a strong draw, and enough [#](8B0000)Capacity Runes[#]() that the basin can keep pace with it.\\\n\\\nThe [#](8B0000)Divinus Orb of Vitae[#]() draws far faster than any lesser orb.",
+    "namespace": "neovitae",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.44.jar",
+    "path": "assets/neovitae/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "chat.ae2wtlib.NetworkMismatch",
+    "new": "Quantum Bridge and Wireless Access Point are connected to Different Networks",
+    "english": "Quantum Bridge and Wireless Access Point are connected to Different Networks",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "chat.ae2wtlib.NetworkNotPowered",
+    "new": "Network Not Powered",
+    "english": "Network Not Powered",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "chat.ae2wtlib.NoQuantumBridge",
+    "new": "Quantum Network Bridge not found. Is it in loaded chunks?",
+    "english": "Quantum Network Bridge not found. Is it in loaded chunks?",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "chat.ae2wtlib.NoQuantumBridgeCard",
+    "new": "Missing Quantum Bridge Card",
+    "english": "Missing Quantum Bridge Card",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "chat.ae2wtlib.SingularityNotPresent",
+    "new": "Missing Singularity",
+    "english": "Missing Singularity",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.configuration.title",
+    "new": "Code Defined Gui Configs",
+    "english": "Code Defined Gui Configs",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.add",
+    "new": "Add Rule",
+    "english": "Add Rule",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.add.tooltip",
+    "new": "Add attribute to list",
+    "english": "Add attribute to list",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.add_inverted",
+    "new": "Add Inverted Rule",
+    "english": "Add Inverted Rule",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.add_inverted.tooltip",
+    "new": "Add opposite attribute to list",
+    "english": "Add opposite attribute to list",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.added_by",
+    "new": "Added by %s",
+    "english": "Added by %s",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.available",
+    "new": "Available Attributes",
+    "english": "Available Attributes",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.has_enchantment",
+    "new": "Has enchantment %s",
+    "english": "Has enchantment %s",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.has_fluid",
+    "new": "Contains %s",
+    "english": "Contains %s",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.has_name",
+    "new": "Named \"%s\"",
+    "english": "Named \"%s\"",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.in_tag",
+    "new": "In tag %s",
+    "english": "In tag %s",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.inverted",
+    "new": "Not %s",
+    "english": "Not %s",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.mode.deny",
+    "new": "Deny Matching",
+    "english": "Deny Matching",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.mode.deny.tooltip",
+    "new": "Deny-List",
+    "english": "Deny-List",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.mode.deny.tooltip.shift",
+    "new": "Items pass if they do NOT have any of the selected attributes.",
+    "english": "Items pass if they do NOT have any of the selected attributes.",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.mode.match_all",
+    "new": "Match All",
+    "english": "Match All",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.mode.match_all.tooltip",
+    "new": "Allow-List (All)",
+    "english": "Allow-List (All)",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.mode.match_all.tooltip.shift",
+    "new": "Items pass if they have ALL of the selected attributes.",
+    "english": "Items pass if they have ALL of the selected attributes.",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.mode.match_any",
+    "new": "Match Any",
+    "english": "Match Any",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.mode.match_any.tooltip",
+    "new": "Allow-List (Any)",
+    "english": "Allow-List (Any)",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.mode.match_any.tooltip.shift",
+    "new": "Items pass if they have ANY of the selected attributes.",
+    "english": "Items pass if they have ANY of the selected attributes.",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.no_reference",
+    "new": "Add a reference item",
+    "english": "Add a reference item",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.no_rules",
+    "new": "No rules selected",
+    "english": "No rules selected",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.scroll_to_select",
+    "new": "Scroll to select",
+    "english": "Scroll to select",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.badly_damaged",
+    "new": "Badly Damaged",
+    "english": "Badly Damaged",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.blastable",
+    "new": "Blastable",
+    "english": "Blastable",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.compostable",
+    "new": "Compostable",
+    "english": "Compostable",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.consumable",
+    "new": "Consumable",
+    "english": "Consumable",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.damaged",
+    "new": "Damaged",
+    "english": "Damaged",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.enchanted",
+    "new": "Enchanted",
+    "english": "Enchanted",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.equipable",
+    "new": "Equipable",
+    "english": "Equipable",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.fluid_container",
+    "new": "Fluid Container",
+    "english": "Fluid Container",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.furnace_fuel",
+    "new": "Furnace Fuel",
+    "english": "Furnace Fuel",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.not_stackable",
+    "new": "Not Stackable",
+    "english": "Not Stackable",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.placeable",
+    "new": "Placeable",
+    "english": "Placeable",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.renamed",
+    "new": "Renamed",
+    "english": "Renamed",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.smeltable",
+    "new": "Smeltable",
+    "english": "Smeltable",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.standard.smokable",
+    "new": "Smokable",
+    "english": "Smokable",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.attribute.summary.mode",
+    "new": "Mode: %s",
+    "english": "Mode: %s",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.button.done",
+    "new": "Done",
+    "english": "Done",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.button.done.tooltip",
+    "new": "Save Filter Settings",
+    "english": "Save Filter Settings",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.button.reset",
+    "new": "Reset",
+    "english": "Reset",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.button.reset.tooltip",
+    "new": "Reset Filter Settings",
+    "english": "Reset Filter Settings",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.ignore_data",
+    "new": "Ignore Data Components",
+    "english": "Ignore Data Components",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.ignore_data.tooltip",
+    "new": "Ignore Data",
+    "english": "Ignore Data",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.ignore_data.tooltip.shift",
+    "new": "Items pass regardless of their data components (durability, enchantments and others).",
+    "english": "Items pass regardless of their data components (durability, enchantments and others).",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.mode.allow",
+    "new": "Allow List",
+    "english": "Allow List",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.mode.allow.tooltip",
+    "new": "Allow-List",
+    "english": "Allow-List",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.mode.allow.tooltip.shift",
+    "new": "Items pass if they match any of the above. An empty Allow-List rejects everything.",
+    "english": "Items pass if they match any of the above. An empty Allow-List rejects everything.",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.mode.deny",
+    "new": "Deny List",
+    "english": "Deny List",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.mode.deny.tooltip",
+    "new": "Deny-List",
+    "english": "Deny-List",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.mode.deny.tooltip.shift",
+    "new": "Items pass if they DO NOT match any of the above. An empty Deny-List accepts everything.",
+    "english": "Items pass if they DO NOT match any of the above. An empty Deny-List accepts everything.",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.respect_data",
+    "new": "Respect Data Components",
+    "english": "Respect Data Components",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.respect_data.tooltip",
+    "new": "Respect Data",
+    "english": "Respect Data",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.respect_data.tooltip.shift",
+    "new": "Items pass if they match the data components of the filter item (durability, enchantments and others).",
+    "english": "Items pass if they match the data components of the filter item (durability, enchantments and others).",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.summary.ignore_data",
+    "new": "Ignores item components",
+    "english": "Ignores item components",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.summary.mode",
+    "new": "Mode: %s",
+    "english": "Mode: %s",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.list.summary.respect_data",
+    "new": "Matches item components",
+    "english": "Matches item components",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.filter.summary.more",
+    "new": "...and %s more",
+    "english": "...and %s more",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "codedefinedgui.tooltip.show_extended",
+    "new": "§6[§dshift §7show more§6]",
+    "english": "§6[§dshift §7show more§6]",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.apollib.back",
+    "new": "Back",
+    "english": "Back",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.apollib.back.tooltip",
+    "new": "Close this screen without saving any changes.",
+    "english": "Close this screen without saving any changes.",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.apollib.default",
+    "new": "Default: ",
+    "english": "Default: ",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.apollib.done",
+    "new": "Save & Close",
+    "english": "Save & Close",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.apollib.done.tooltip",
+    "new": "Save your changes and close the screen.",
+    "english": "Save your changes and close the screen.",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.apollib.export",
+    "new": "Export",
+    "english": "Export",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.apollib.export.tooltip",
+    "new": "Exports the current config file to the clipboard.",
+    "english": "Exports the current config file to the clipboard.",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.crystalix.disabled_properties",
+    "new": "Disabled Properties",
+    "english": "Disabled Properties",
+    "namespace": "crystalix",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar",
+    "path": "assets/crystalix/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.crystalix.disabled_properties.tooltip",
+    "new": "§8Wand properties that can't be changed on a wand. Only operators can apply them to blocks.§r\n§8Valid values: apply_mode, invisible, light, ghost, color, material, shadeless, tinted, reinforced, waterloggable, conductor, redstone§r\n\n§7Default: []§r",
+    "english": "§8Wand properties that can't be changed on a wand. Only operators can apply them to blocks.§r\n§8Valid values: apply_mode, invisible, light, ghost, color, material, shadeless, tinted, reinforced, waterloggable, conductor, redstone§r\n\n§7Default: []§r",
+    "namespace": "crystalix",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar",
+    "path": "assets/crystalix/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.crystalix.highlight_chunk_radius",
+    "new": "Highlight Chunk Radius",
+    "english": "Highlight Chunk Radius",
+    "namespace": "crystalix",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar",
+    "path": "assets/crystalix/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.crystalix.highlight_chunk_radius.tooltip",
+    "new": "§8The radius in chunks around the player that should be highlighted§r\n\n§7Default: 6§r",
+    "english": "§8The radius in chunks around the player that should be highlighted§r\n\n§7Default: 6§r",
+    "namespace": "crystalix",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar",
+    "path": "assets/crystalix/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "config.jade.plugin_nautec.osmosis_filter",
+    "new": "Osmosis Filter",
+    "english": "Osmosis Filter",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.acid",
+    "new": "%1$s was corroded by %2$s",
+    "english": "%1$s was corroded by %2$s",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.cryo",
+    "new": "%1$s was frozen solid by %2$s",
+    "english": "%1$s was frozen solid by %2$s",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.electric",
+    "new": "%1$s was electrocuted by %2$s",
+    "english": "%1$s was electrocuted by %2$s",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.electric_turret",
+    "new": "%1$s was zapped by %2$s's turret",
+    "english": "%1$s was zapped by %2$s's turret",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.electric_turret.noAttacker",
+    "new": "%s was zapped by a rogue turret",
+    "english": "%s was zapped by a rogue turret",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.explosive",
+    "new": "%1$s was blown up by %2$s",
+    "english": "%1$s was blown up by %2$s",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.explosive_turret",
+    "new": "%1$s was blown up by %2$s' turret",
+    "english": "%1$s was blown up by %2$s' turret",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.explosive_turret.noAttacker",
+    "new": "%s was blown up by a rogue turret",
+    "english": "%s was blown up by a rogue turret",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.flame",
+    "new": "%1$s was incinerated by %2$s",
+    "english": "%1$s was incinerated by %2$s",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.gloom_gas",
+    "new": "%1$s was gassed out by %2$s",
+    "english": "%1$s was gassed out by %2$s",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "death.attack.ltxi.railgun_turret.noAttacker",
+    "new": "%s was obliterated by a rogue turret",
+    "english": "%s was obliterated by a rogue turret",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.128",
+    "new": "CXXVIII",
+    "english": "CXXVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.129",
+    "new": "CXXIX",
+    "english": "CXXIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.130",
+    "new": "CXXX",
+    "english": "CXXX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.131",
+    "new": "CXXXI",
+    "english": "CXXXI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.132",
+    "new": "CXXXII",
+    "english": "CXXXII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.133",
+    "new": "CXXXIII",
+    "english": "CXXXIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.134",
+    "new": "CXXXIV",
+    "english": "CXXXIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.135",
+    "new": "CXXXV",
+    "english": "CXXXV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.136",
+    "new": "CXXXVI",
+    "english": "CXXXVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.137",
+    "new": "CXXXVII",
+    "english": "CXXXVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.138",
+    "new": "CXXXVIII",
+    "english": "CXXXVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.139",
+    "new": "CXXXIX",
+    "english": "CXXXIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.140",
+    "new": "CXL",
+    "english": "CXL",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.141",
+    "new": "CXLI",
+    "english": "CXLI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.142",
+    "new": "CXLII",
+    "english": "CXLII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.143",
+    "new": "CXLIII",
+    "english": "CXLIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.144",
+    "new": "CXLIV",
+    "english": "CXLIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.145",
+    "new": "CXLV",
+    "english": "CXLV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.146",
+    "new": "CXLVI",
+    "english": "CXLVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.147",
+    "new": "CXLVII",
+    "english": "CXLVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.148",
+    "new": "CXLVIII",
+    "english": "CXLVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.149",
+    "new": "CXLIX",
+    "english": "CXLIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.150",
+    "new": "CL",
+    "english": "CL",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.151",
+    "new": "CLI",
+    "english": "CLI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.152",
+    "new": "CLII",
+    "english": "CLII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.153",
+    "new": "CLIII",
+    "english": "CLIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.154",
+    "new": "CLIV",
+    "english": "CLIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.155",
+    "new": "CLV",
+    "english": "CLV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.156",
+    "new": "CLVI",
+    "english": "CLVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.157",
+    "new": "CLVII",
+    "english": "CLVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.158",
+    "new": "CLVIII",
+    "english": "CLVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.159",
+    "new": "CLIX",
+    "english": "CLIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.160",
+    "new": "CLX",
+    "english": "CLX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.161",
+    "new": "CLXI",
+    "english": "CLXI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.162",
+    "new": "CLXII",
+    "english": "CLXII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.163",
+    "new": "CLXIII",
+    "english": "CLXIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.164",
+    "new": "CLXIV",
+    "english": "CLXIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.165",
+    "new": "CLXV",
+    "english": "CLXV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.166",
+    "new": "CLXVI",
+    "english": "CLXVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.167",
+    "new": "CLXVII",
+    "english": "CLXVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.168",
+    "new": "CLXVIII",
+    "english": "CLXVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.169",
+    "new": "CLXIX",
+    "english": "CLXIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.170",
+    "new": "CLXX",
+    "english": "CLXX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.171",
+    "new": "CLXXI",
+    "english": "CLXXI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.172",
+    "new": "CLXXII",
+    "english": "CLXXII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.173",
+    "new": "CLXXIII",
+    "english": "CLXXIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.174",
+    "new": "CLXXIV",
+    "english": "CLXXIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.175",
+    "new": "CLXXV",
+    "english": "CLXXV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.176",
+    "new": "CLXXVI",
+    "english": "CLXXVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.177",
+    "new": "CLXXVII",
+    "english": "CLXXVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.178",
+    "new": "CLXXVIII",
+    "english": "CLXXVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.179",
+    "new": "CLXXIX",
+    "english": "CLXXIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.180",
+    "new": "CLXXX",
+    "english": "CLXXX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.181",
+    "new": "CLXXXI",
+    "english": "CLXXXI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.182",
+    "new": "CLXXXII",
+    "english": "CLXXXII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.183",
+    "new": "CLXXXIII",
+    "english": "CLXXXIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.184",
+    "new": "CLXXXIV",
+    "english": "CLXXXIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.185",
+    "new": "CLXXXV",
+    "english": "CLXXXV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.186",
+    "new": "CLXXXVI",
+    "english": "CLXXXVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.187",
+    "new": "CLXXXVII",
+    "english": "CLXXXVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.188",
+    "new": "CLXXXVIII",
+    "english": "CLXXXVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.189",
+    "new": "CLXXXIX",
+    "english": "CLXXXIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.190",
+    "new": "CXC",
+    "english": "CXC",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.191",
+    "new": "CXCI",
+    "english": "CXCI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.192",
+    "new": "CXCII",
+    "english": "CXCII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.193",
+    "new": "CXCIII",
+    "english": "CXCIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.194",
+    "new": "CXCIV",
+    "english": "CXCIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.195",
+    "new": "CXCV",
+    "english": "CXCV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.196",
+    "new": "CXCVI",
+    "english": "CXCVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.197",
+    "new": "CXCVII",
+    "english": "CXCVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.198",
+    "new": "CXCVIII",
+    "english": "CXCVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.199",
+    "new": "CXCIX",
+    "english": "CXCIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.200",
+    "new": "CC",
+    "english": "CC",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.201",
+    "new": "CCI",
+    "english": "CCI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.202",
+    "new": "CCII",
+    "english": "CCII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.203",
+    "new": "CCIII",
+    "english": "CCIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.204",
+    "new": "CCIV",
+    "english": "CCIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.205",
+    "new": "CCV",
+    "english": "CCV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.206",
+    "new": "CCVI",
+    "english": "CCVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.207",
+    "new": "CCVII",
+    "english": "CCVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.208",
+    "new": "CCVIII",
+    "english": "CCVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.209",
+    "new": "CCIX",
+    "english": "CCIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.210",
+    "new": "CCX",
+    "english": "CCX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.211",
+    "new": "CCXI",
+    "english": "CCXI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.212",
+    "new": "CCXII",
+    "english": "CCXII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.213",
+    "new": "CCXIII",
+    "english": "CCXIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.214",
+    "new": "CCXIV",
+    "english": "CCXIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.215",
+    "new": "CCXV",
+    "english": "CCXV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.216",
+    "new": "CCXVI",
+    "english": "CCXVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.217",
+    "new": "CCXVII",
+    "english": "CCXVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.218",
+    "new": "CCXVIII",
+    "english": "CCXVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.219",
+    "new": "CCXIX",
+    "english": "CCXIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.220",
+    "new": "CCXX",
+    "english": "CCXX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.221",
+    "new": "CCXXI",
+    "english": "CCXXI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.222",
+    "new": "CCXXII",
+    "english": "CCXXII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.223",
+    "new": "CCXXIII",
+    "english": "CCXXIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.224",
+    "new": "CCXXIV",
+    "english": "CCXXIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.225",
+    "new": "CCXXV",
+    "english": "CCXXV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.226",
+    "new": "CCXXVI",
+    "english": "CCXXVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.227",
+    "new": "CCXXVII",
+    "english": "CCXXVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.228",
+    "new": "CCXXVIII",
+    "english": "CCXXVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.229",
+    "new": "CCXXIX",
+    "english": "CCXXIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.230",
+    "new": "CCXXX",
+    "english": "CCXXX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.231",
+    "new": "CCXXXI",
+    "english": "CCXXXI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.232",
+    "new": "CCXXXII",
+    "english": "CCXXXII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.233",
+    "new": "CCXXXIII",
+    "english": "CCXXXIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.234",
+    "new": "CCXXXIV",
+    "english": "CCXXXIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.235",
+    "new": "CCXXXV",
+    "english": "CCXXXV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.236",
+    "new": "CCXXXVI",
+    "english": "CCXXXVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.237",
+    "new": "CCXXXVII",
+    "english": "CCXXXVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.238",
+    "new": "CCXXXVIII",
+    "english": "CCXXXVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.239",
+    "new": "CCXXXIX",
+    "english": "CCXXXIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.240",
+    "new": "CCXL",
+    "english": "CCXL",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.241",
+    "new": "CCXLI",
+    "english": "CCXLI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.242",
+    "new": "CCXLII",
+    "english": "CCXLII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.243",
+    "new": "CCXLIII",
+    "english": "CCXLIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.244",
+    "new": "CCXLIV",
+    "english": "CCXLIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.245",
+    "new": "CCXLV",
+    "english": "CCXLV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.246",
+    "new": "CCXLVI",
+    "english": "CCXLVI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.247",
+    "new": "CCXLVII",
+    "english": "CCXLVII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.248",
+    "new": "CCXLVIII",
+    "english": "CCXLVIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.249",
+    "new": "CCXLIX",
+    "english": "CCXLIX",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.250",
+    "new": "CCL",
+    "english": "CCL",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.251",
+    "new": "CCLI",
+    "english": "CCLI",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.252",
+    "new": "CCLII",
+    "english": "CCLII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.253",
+    "new": "CCLIII",
+    "english": "CCLIII",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.254",
+    "new": "CCLIV",
+    "english": "CCLIV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "enchantment.level.255",
+    "new": "CCLV",
+    "english": "CCLV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "entity.ltxi.bomblet",
+    "new": "Bomblet",
+    "english": "Bomblet",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "entity.magicparticleslib.branching_rift",
+    "new": "Branching Rift",
+    "english": "Branching Rift",
+    "namespace": "magicparticleslib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/magicparticleslib-26.1.2-neoforge-1.4.0.jar",
+    "path": "assets/magicparticleslib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "entity.magicparticleslib.rift",
+    "new": "Rift",
+    "english": "Rift",
+    "namespace": "magicparticleslib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/magicparticleslib-26.1.2-neoforge-1.4.0.jar",
+    "path": "assets/magicparticleslib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "formatting.sathlib.curly_brackets",
+    "new": "{%s}",
+    "english": "{%s}",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "formatting.sathlib.round_brackets",
+    "new": "(%s)",
+    "english": "(%s)",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "formatting.sathlib.square_brackets",
+    "new": "[%s]",
+    "english": "[%s]",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.all",
+    "new": "All",
+    "english": "All",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.allow",
+    "new": "Allow",
+    "english": "Allow",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.allowed",
+    "new": "Allowed",
+    "english": "Allowed",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.any",
+    "new": "Any",
+    "english": "Any",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.denied",
+    "new": "Denied",
+    "english": "Denied",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.deny",
+    "new": "Deny",
+    "english": "Deny",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.disabled",
+    "new": "Disabled",
+    "english": "Disabled",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.enabled",
+    "new": "Enabled",
+    "english": "Enabled",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.none",
+    "new": "None",
+    "english": "None",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.off",
+    "new": "Off",
+    "english": "Off",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.on",
+    "new": "On",
+    "english": "On",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.supported",
+    "new": "Supported",
+    "english": "Supported",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "generic.sathlib.unsupported",
+    "new": "Unsupported",
+    "english": "Unsupported",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "grenade_type.ltxi.sparkler",
+    "new": "Sparkler",
+    "english": "Sparkler",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.ae2addonlib.SetAmount",
+    "new": "Set Amount",
+    "english": "Set Amount",
+    "namespace": "ae2addonlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar!META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+    "path": "assets/ae2addonlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.collapse",
+    "new": "Click to collapse",
+    "english": "Click to collapse",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.collapsed",
+    "new": "%s hidden",
+    "english": "%s hidden",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.expand",
+    "new": "Click to expand",
+    "english": "Click to expand",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.fit",
+    "new": "Fit plan to view (F)",
+    "english": "Fit plan to view (F)",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.fullscreen",
+    "new": "Fullscreen",
+    "english": "Fullscreen",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.fullscreen.exit",
+    "new": "Exit fullscreen",
+    "english": "Exit fullscreen",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.hint",
+    "new": "Drag or use arrow keys to pan, scroll to zoom, click to collapse",
+    "english": "Drag or use arrow keys to pan, scroll to zoom, click to collapse",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.legend.blocked",
+    "new": "Blocked",
+    "english": "Blocked",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.legend.crafting",
+    "new": "Crafting",
+    "english": "Crafting",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.legend.done",
+    "new": "Done",
+    "english": "Done",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.legend.missing",
+    "new": "Missing",
+    "english": "Missing",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.legend.stored",
+    "new": "Stored",
+    "english": "Stored",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.legend.to_craft",
+    "new": "To craft",
+    "english": "To craft",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.legend.waiting",
+    "new": "Waiting",
+    "english": "Waiting",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.outputs",
+    "new": "Outputs:",
+    "english": "Outputs:",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.stored",
+    "new": "Taken from storage",
+    "english": "Taken from storage",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.zoom_in",
+    "new": "Zoom in (+)",
+    "english": "Zoom in (+)",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.graph.zoom_out",
+    "new": "Zoom out (-)",
+    "english": "Zoom out (-)",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.view.graph",
+    "new": "Show graph",
+    "english": "Show graph",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.craftingplan.view.list",
+    "new": "Show tree list",
+    "english": "Show tree list",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.integratedterminals.terminal_storage.craftingplan.label.completed",
+    "new": "Crafting plan - Completed",
+    "english": "Crafting plan - Completed",
+    "namespace": "integratedterminals",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "path": "assets/integratedterminals/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.tooltips.ae2addonlib.Disabled",
+    "new": "Disabled",
+    "english": "Disabled",
+    "namespace": "ae2addonlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar!META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+    "path": "assets/ae2addonlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.tooltips.ae2addonlib.Enabled",
+    "new": "Enabled",
+    "english": "Enabled",
+    "namespace": "ae2addonlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar!META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+    "path": "assets/ae2addonlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "gui.tooltips.ae2addonlib.TankAmount",
+    "new": "%s / %s B",
+    "english": "%s / %s B",
+    "namespace": "ae2addonlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar!META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+    "path": "assets/ae2addonlib/lang/en_us.json",
+    "native_zh": "%s / %s B",
+    "candidates": []
+  },
+  {
+    "key": "hud.neovitae.altar.reserve",
+    "new": "Reserve: %s / %s",
+    "english": "Reserve: %s / %s",
+    "namespace": "neovitae",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.44.jar",
+    "path": "assets/neovitae/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "input.sathlib.wheel.down",
+    "new": "Wheel Down",
+    "english": "Wheel Down",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "input.sathlib.wheel.up",
+    "new": "Wheel Up",
+    "english": "Wheel Up",
+    "namespace": "sathlib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar!META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+    "path": "assets/sathlib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "item.codedefinedgui.attribute_filter",
+    "new": "Attribute Filter",
+    "english": "Attribute Filter",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "item.codedefinedgui.list_filter",
+    "new": "List Filter",
+    "english": "List Filter",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "item.nautec.reservoir_upgrade_2",
+    "new": "Reservoir Upgrade II",
+    "english": "Reservoir Upgrade II",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "item.nautec.reservoir_upgrade_3",
+    "new": "Reservoir Upgrade III",
+    "english": "Reservoir Upgrade III",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "item.nautec.reservoir_upgrade_4",
+    "new": "Reservoir Upgrade IV",
+    "english": "Reservoir Upgrade IV",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "item.productivelib.upgrade_adult",
+    "new": "Upgrade: AdultBee",
+    "english": "Upgrade: AdultBee",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：成年蜂",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_base",
+    "new": "Upgrade Base",
+    "english": "Upgrade Base",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级基板",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_biome",
+    "new": "Upgrade: Biome",
+    "english": "Upgrade: Biome",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：生物群系",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_block",
+    "new": "Upgrade: Block",
+    "english": "Upgrade: Block",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：蜜脾块",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_child",
+    "new": "Upgrade: BaBee",
+    "english": "Upgrade: BaBee",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：幼年蜂",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_entity_filter",
+    "new": "Upgrade: Filter",
+    "english": "Upgrade: Filter",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：过滤",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_gene_sampler",
+    "new": "Upgrade: Pokey pokey gene sampler",
+    "english": "Upgrade: Pokey pokey gene sampler",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：基因采样器",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_pollen_sieve",
+    "new": "Upgrade: Pollen Sieve",
+    "english": "Upgrade: Pollen Sieve",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：花粉筛",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_productivity",
+    "new": "Upgrade: Productivity Alpha",
+    "english": "Upgrade: Productivity Alpha",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：产量α",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_productivity_2",
+    "new": "Upgrade: Productivity Beta",
+    "english": "Upgrade: Productivity Beta",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：产量β",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_productivity_3",
+    "new": "Upgrade: Productivity Gamma",
+    "english": "Upgrade: Productivity Gamma",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：产量γ",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_productivity_4",
+    "new": "Upgrade: Productivity Omega",
+    "english": "Upgrade: Productivity Omega",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：产量ω",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_range",
+    "new": "Upgrade: Range",
+    "english": "Upgrade: Range",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：范围",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_simulator",
+    "new": "Upgrade: Simulator",
+    "english": "Upgrade: Simulator",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：模拟",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_stability",
+    "new": "Upgrade: Stability",
+    "english": "Upgrade: Stability",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：稳定",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_time",
+    "new": "Upgrade: Speed",
+    "english": "Upgrade: Speed",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：速度",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "item.productivelib.upgrade_time_2",
+    "new": "Upgrade: Speedier",
+    "english": "Upgrade: Speedier",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：速度+",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "itemGroup.codedefinedgui",
+    "new": "Code Defined GUI",
+    "english": "Code Defined GUI",
+    "namespace": "codedefinedgui",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+    "path": "assets/codedefinedgui/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "jecharacters.chat.help",
+    "new": "/jech [profile] / [verbose true/false]",
+    "english": "/jech [profile] / [verbose true/false]",
+    "namespace": "jecharacters",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jecharacters-26.1.2-neoforge-4.6.9.jar",
+    "path": "assets/jecharacters/lang/en_us.json",
+    "native_zh": "/jech [profile] / [verbose true/false]",
+    "candidates": []
+  },
+  {
+    "key": "key.keyboard.modifier.alt",
+    "new": "Alt",
+    "english": "Alt",
+    "namespace": "kuma_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar!META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+    "path": "assets/kuma_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "key.keyboard.modifier.control",
+    "new": "Control",
+    "english": "Control",
+    "namespace": "kuma_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar!META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+    "path": "assets/kuma_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "key.keyboard.modifier.shift",
+    "new": "Shift",
+    "english": "Shift",
+    "namespace": "kuma_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar!META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+    "path": "assets/kuma_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "key.keyboard.modifiers",
+    "new": "%s + %s",
+    "english": "%s + %s",
+    "namespace": "kuma_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar!META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+    "path": "assets/kuma_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.defaultValue",
+    "new": "Default Value: %s",
+    "english": "Default Value: %s",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.description",
+    "new": "Description: %s",
+    "english": "Description: %s",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.fileWatcher",
+    "new": "File Watching",
+    "english": "File Watching",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.fileWatcher.changeSettlingDelayMilliseconds",
+    "new": "Change Settling Delay",
+    "english": "Change Settling Delay",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.fileWatcher.changeSettlingDelayMilliseconds.description",
+    "new": "Milliseconds to wait after the last filesystem event before reloading changed config files.",
+    "english": "Milliseconds to wait after the last filesystem event before reloading changed config files.",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.fileWatcher.description",
+    "new": "Controls automatic config file watching and reload timing.",
+    "english": "Controls automatic config file watching and reload timing.",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.fileWatcher.enabled",
+    "new": "Automatic File Watching",
+    "english": "Automatic File Watching",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.fileWatcher.enabled.description",
+    "new": "Automatically watch config files and reload them when they are changed outside the game.",
+    "english": "Automatically watch config files and reload them when they are changed outside the game.",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.fileWatcher.missingDirectoryRetryIntervalMilliseconds",
+    "new": "Missing Directory Retry Interval",
+    "english": "Missing Directory Retry Interval",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.fileWatcher.missingDirectoryRetryIntervalMilliseconds.description",
+    "new": "Milliseconds between attempts to start watching config directories that do not exist yet.",
+    "english": "Milliseconds between attempts to start watching config directories that do not exist yet.",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.logging",
+    "new": "Logging",
+    "english": "Logging",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.logging.description",
+    "new": "Controls optional MezzConfig diagnostic logging.",
+    "english": "Controls optional MezzConfig diagnostic logging.",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.logging.logUntranslatedKeys",
+    "new": "Log Untranslated Keys",
+    "english": "Log Untranslated Keys",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.logging.logUntranslatedKeys.description",
+    "new": "Log category and value localization keys that are missing from the active language. Enabled by default in development environments.",
+    "english": "Log category and value localization keys that are missing from the active language. Enabled by default in development environments.",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.name",
+    "new": "Name: %s",
+    "english": "Name: %s",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.requiresGameRestart",
+    "new": "Requires a game restart to take effect.",
+    "english": "Requires a game restart to take effect.",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.requiresWorldRestart",
+    "new": "Requires a world restart to take effect.",
+    "english": "Requires a world restart to take effect.",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "mezz_config.config.valueValues",
+    "new": "Valid Values: %s",
+    "english": "Valid Values: %s",
+    "namespace": "mezz_config",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar!META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+    "path": "assets/mezz_config/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.no_room",
+    "new": "An Abyssal Enchanter needs a clear space 3 wide, 3 deep and 2 tall",
+    "english": "An Abyssal Enchanter needs a clear space 3 wide, 3 deep and 2 tall",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.book_capped",
+    "new": "Books stop at the normal max. Put in an item to overenchant it",
+    "english": "Books stop at the normal max. Put in an item to overenchant it",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.curse",
+    "new": "Curse chance: %s%%",
+    "english": "Curse chance: %s%%",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.experience",
+    "new": "Liquid experience: %s mB",
+    "english": "Liquid experience: %s mB",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.experience_tank",
+    "new": "Liquid Experience",
+    "english": "Liquid Experience",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.level",
+    "new": "%s / %s",
+    "english": "%s / %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.level_down",
+    "new": "Lower the level to enchant at",
+    "english": "Lower the level to enchant at",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.level_up",
+    "new": "Raise the level to enchant at",
+    "english": "Raise the level to enchant at",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.next_recipe",
+    "new": "%s enchantments use this reagent. Click to switch",
+    "english": "%s enchantments use this reagent. Click to switch",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.overenchant",
+    "new": "Past the normal max of %s: x%s AP and experience",
+    "english": "Past the normal max of %s: x%s AP and experience",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.reagent",
+    "new": "Reagent used: %s",
+    "english": "Reagent used: %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.stability",
+    "new": "Purity %s: %s%% stable",
+    "english": "Purity %s: %s%% stable",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.sustained",
+    "new": "Beam: %s / %s AP",
+    "english": "Beam: %s / %s AP",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.screen.total",
+    "new": "Energy taken in: %s / %s AP",
+    "english": "Energy taken in: %s / %s AP",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.size_hint",
+    "new": "Fills a 3x3 space two blocks tall, centered where you place it",
+    "english": "Fills a 3x3 space two blocks tall, centered where you place it",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.already_has",
+    "new": "Already has this level",
+    "english": "Already has this level",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.blocked",
+    "new": "That enchantment is disabled here",
+    "english": "That enchantment is disabled here",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.cannot_apply",
+    "new": "Can't go on this item",
+    "english": "Can't go on this item",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.low_power",
+    "new": "Needs %s AP beam",
+    "english": "Needs %s AP beam",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.need_reagent",
+    "new": "Needs %s reagent",
+    "english": "Needs %s reagent",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.need_xp",
+    "new": "Needs %s mB experience",
+    "english": "Needs %s mB experience",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.no_power",
+    "new": "No laser beam",
+    "english": "No laser beam",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.no_reagent",
+    "new": "Insert a reagent",
+    "english": "Insert a reagent",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.no_recipe",
+    "new": "No enchantment uses this reagent",
+    "english": "No enchantment uses this reagent",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.no_target",
+    "new": "Insert a book or an item",
+    "english": "Insert a book or an item",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.output_full",
+    "new": "Take out the last result",
+    "english": "Take out the last result",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.status.working",
+    "new": "Enchanting %s%%",
+    "english": "Enchanting %s%%",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.abyssal_enchanter.tooltip",
+    "new": "Enchants books and items with a reagent, liquid experience and a laser beam",
+    "english": "Enchants books and items with a reagent, liquid experience and a laser beam",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.budding_prismarine.silk_touch",
+    "new": "Mine with Silk Touch to pick it up",
+    "english": "Mine with Silk Touch to pick it up",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.holds",
+    "new": "Contains %s: %s buckets",
+    "english": "Contains %s: %s buckets",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.no_room",
+    "new": "A Deep Sea Reservoir needs a clear 3x3x3 space",
+    "english": "A Deep Sea Reservoir needs a clear 3x3x3 space",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.amount",
+    "new": "%s / %s buckets",
+    "english": "%s / %s buckets",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.amount_short",
+    "new": "%s / %s",
+    "english": "%s / %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.base_tier",
+    "new": "No Upgrades",
+    "english": "No Upgrades",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.base_tier.desc",
+    "new": "Tier I is the base reservoir, so there is no upgrade to take out",
+    "english": "Tier I is the base reservoir, so there is no upgrade to take out",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.empty",
+    "new": "Empty",
+    "english": "Empty",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.empty_gauge",
+    "new": "Empty, holds up to %s mB",
+    "english": "Empty, holds up to %s mB",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.percent",
+    "new": "%s%% full",
+    "english": "%s%% full",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.remove",
+    "new": "Remove Upgrade",
+    "english": "Remove Upgrade",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.remove.confirm",
+    "new": "Void %s?",
+    "english": "Void %s?",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.remove.desc",
+    "new": "Takes the top upgrade back out. The reservoir drops to Tier %s",
+    "english": "Takes the top upgrade back out. The reservoir drops to Tier %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.remove.void_desc",
+    "new": "%s buckets will not fit in Tier %s and will be voided. Click again to confirm",
+    "english": "%s buckets will not fit in Tier %s and will be voided. Click again to confirm",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.screen.tier",
+    "new": "Tier %s",
+    "english": "Tier %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.size_hint",
+    "new": "Fills a 3x3x3 space above the block you place it on",
+    "english": "Fills a 3x3x3 space above the block you place it on",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.tier",
+    "new": "Tier %s, holds %s buckets",
+    "english": "Tier %s, holds %s buckets",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.upgraded",
+    "new": "Upgraded to Tier %s, now holds %s buckets",
+    "english": "Upgraded to Tier %s, now holds %s buckets",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.voided",
+    "new": "%s buckets did not fit and were voided",
+    "english": "%s buckets did not fit and were voided",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.deep_sea_reservoir.wrong_upgrade",
+    "new": "This upgrade fits a Tier %s reservoir, this one is Tier %s",
+    "english": "This upgrade fits a Tier %s reservoir, this one is Tier %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.eye_of_the_sea.target.abyssal_trench",
+    "new": "Abyssal Trenches",
+    "english": "Abyssal Trenches",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.eye_of_the_sea.target.bioluminescent_grove",
+    "new": "Bioluminescent Groves",
+    "english": "Bioluminescent Groves",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.eye_of_the_sea.target.hydrothermal_vents",
+    "new": "Hydrothermal Vents",
+    "english": "Hydrothermal Vents",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.eye_of_the_sea.target.prismarine_reef",
+    "new": "Prismarine Reefs",
+    "english": "Prismarine Reefs",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jade.osmosis_filter.full",
+    "new": "Full, empty it to make more",
+    "english": "Full, empty it to make more",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jade.osmosis_filter.rate",
+    "new": "Making %s mB/s",
+    "english": "Making %s mB/s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jade.osmosis_filter.water",
+    "new": "Water: %s / %s mB",
+    "english": "Water: %s / %s mB",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jei.category.laser_enchanting",
+    "new": "Laser Enchanting",
+    "english": "Laser Enchanting",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jei.laser_enchanting.experience",
+    "new": "%s mB XP",
+    "english": "%s mB XP",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jei.laser_enchanting.level",
+    "new": "Level %s of %s. Click or scroll to change",
+    "english": "Level %s of %s. Click or scroll to change",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jei.laser_enchanting.overenchant",
+    "new": "x%s AP and XP",
+    "english": "x%s AP and XP",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jei.laser_enchanting.stable",
+    "new": "Exact result at purity %s+",
+    "english": "Exact result at purity %s+",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jei.laser_enchanting.sustained",
+    "new": "%s AP beam",
+    "english": "%s AP beam",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.jei.laser_enchanting.total",
+    "new": "%s AP total",
+    "english": "%s AP total",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.mixer.parallel",
+    "new": "Parallel: x%s",
+    "english": "Parallel: x%s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.osmosis_filter.filtering",
+    "new": "Filtering",
+    "english": "Filtering",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.osmosis_filter.full",
+    "new": "Tank full",
+    "english": "Tank full",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.osmosis_filter.limit",
+    "new": "Fills up to %s mB",
+    "english": "Fills up to %s mB",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.osmosis_filter.power",
+    "new": "%s AP",
+    "english": "%s AP",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.osmosis_filter.power.desc",
+    "new": "Laser power arriving. Every %s AP doubles the water it makes",
+    "english": "Laser power arriving. Every %s AP doubles the water it makes",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.osmosis_filter.rate",
+    "new": "%s mB/s",
+    "english": "%s mB/s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.osmosis_filter.rate.desc",
+    "new": "Water made each second",
+    "english": "Water made each second",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.reservoir_upgrade.hint",
+    "new": "Right-click the reservoir with it, or put it in the reservoir's upgrade slot",
+    "english": "Right-click the reservoir with it, or put it in the reservoir's upgrade slot",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.reservoir_upgrade.tooltip",
+    "new": "Turns a Tier %s Deep Sea Reservoir into Tier %s, holding %s buckets",
+    "english": "Turns a Tier %s Deep Sea Reservoir into Tier %s, holding %s buckets",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.tooltip.liquid.empty",
+    "new": "Empty",
+    "english": "Empty",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.blocked",
+    "new": "Linked, but %s at %s is in the way of the beam",
+    "english": "Linked, but %s at %s is in the way of the beam",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.cannot_receive",
+    "new": "%s can't be turned to take a beam from %s",
+    "english": "%s can't be turned to take a beam from %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.cannot_send",
+    "new": "%s can't be turned to send a beam toward %s",
+    "english": "%s can't be turned to send a beam toward %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.cleared",
+    "new": "Link positions cleared",
+    "english": "Link positions cleared",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.cut_input",
+    "new": "Linked, but %s turned off its old beam. Junctions turn corners",
+    "english": "Linked, but %s turned off its old beam. Junctions turn corners",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.cut_output",
+    "new": "Linked, but %s no longer sends its old beam. Junctions split beams",
+    "english": "Linked, but %s no longer sends its old beam. Junctions split beams",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.linked",
+    "new": "Linked %s to %s, %s blocks apart",
+    "english": "Linked %s to %s, %s blocks apart",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.not_in_line",
+    "new": "%s is not in a straight line with the link start",
+    "english": "%s is not in a straight line with the link start",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.not_source",
+    "new": "%s can't send a laser beam",
+    "english": "%s can't send a laser beam",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.start",
+    "new": "Link start: %s at %s",
+    "english": "Link start: %s at %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.start_gone",
+    "new": "The link start block is gone, link positions cleared",
+    "english": "The link start block is gone, link positions cleared",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.too_far",
+    "new": "Too far: %s blocks, the beam reaches %s",
+    "english": "Too far: %s blocks, the beam reaches %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.tooltip.none",
+    "new": "Link start: not set",
+    "english": "Link start: not set",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.link.tooltip.start",
+    "new": "Link start: %s",
+    "english": "Link start: %s",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.mode.link",
+    "new": "Link",
+    "english": "Link",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "nautec.wrench.mode.link.desc",
+    "new": "Right-click a laser source, then the block it should feed, to aim them at each other. Right-click the air to start over.",
+    "english": "Right-click a laser source, then the block it should feed, to aim them at each other. Right-click the air to start over.",
+    "namespace": "nautec",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
+    "path": "assets/nautec/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.bee_squisher.tooltip.bottle_item",
+    "new": "Here goes an empty glass bottle",
+    "english": "Here goes an empty glass bottle",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.bee_squisher.tooltip.cage_item",
+    "new": "Here goes a bee cage with a bee in it",
+    "english": "Here goes a bee cage with a bee in it",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.devices.bee_squisher",
+    "new": "Bee Squisher",
+    "english": "Bee Squisher",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.devices.heated_centrifuge",
+    "new": "Heated Centrifuge",
+    "english": "Heated Centrifuge",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.information.upgrade.upgrade_productivity.bee_squisher",
+    "new": "Increases the purity of every gene extracted by 4, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+    "english": "Increases the purity of every gene extracted by 4, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.information.upgrade.upgrade_productivity_2.bee_squisher",
+    "new": "Increases the purity of every gene extracted by 8, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+    "english": "Increases the purity of every gene extracted by 8, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.information.upgrade.upgrade_productivity_3.bee_squisher",
+    "new": "Increases the purity of every gene extracted by 16, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+    "english": "Increases the purity of every gene extracted by 16, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.information.upgrade.upgrade_productivity_4.bee_squisher",
+    "new": "Increases the purity of every gene extracted by 32, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+    "english": "Increases the purity of every gene extracted by 32, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.information.upgrade.upgrade_stability.bee_squisher",
+    "new": "Throws away everything but the bee type gene, and makes that one a lot purer.",
+    "english": "Throws away everything but the bee type gene, and makes that one a lot purer.",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.information.upgrade.upgrade_stability.heated_centrifuge",
+    "new": "Increases the success rate for combs that have a non-guaranteed output by %s%%.\n   Also stops the heat burning off the wax, so comb blocks keep yielding it.",
+    "english": "Increases the success rate for combs that have a non-guaranteed output by %s%%.\n   Also stops the heat burning off the wax, so comb blocks keep yielding it.",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.information.upgrade.upgrade_time.bee_squisher",
+    "new": "Squishes bees faster, at the cost of more power.\n   Multiple upgrades can be installed.",
+    "english": "Squishes bees faster, at the cost of more power.\n   Multiple upgrades can be installed.",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivebees.information.upgrade.upgrade_time_2.bee_squisher",
+    "new": "It's twice as good as the other one.",
+    "english": "It's twice as good as the other one.",
+    "namespace": "productivebees",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "path": "assets/productivebees/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivelib.information.upgrade.extend",
+    "new": "Hold [SHIFT] for more info",
+    "english": "Hold [SHIFT] for more info",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "按住[SHIFT]以查看更多信息",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "productivelib.information.upgrade.install_help",
+    "new": "Sneak right click on valid block to install or insert through the GUI",
+    "english": "Sneak right click on valid block to install or insert through the GUI",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "潜行右击有效方块以安装，或在方块界面中放入",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "productivelib.information.upgrade.upgrade_entity_filter.clear",
+    "new": "To clear the filter, put it in the crafting grid.",
+    "english": "To clear the filter, put it in the crafting grid.",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "要清除过滤器的内容，请将其放入合成方格中。",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "productivelib.information.upgrade.upgrade_entity_filter.empty",
+    "new": "Right click entities to add them to the filter.",
+    "english": "Right click entities to add them to the filter.",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "右击实体来将其添加到过滤器。",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "productivelib.information.upgrade.upgrade_entity_filter.list_header",
+    "new": "Entities:",
+    "english": "Entities:",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "实体：",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "productivelib.information.upgrade.upgrade_entity_filter.list_item",
+    "new": " - %s",
+    "english": " - %s",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivelib.information.upgrade.valid_blocks.list_header",
+    "new": "Valid blocks:",
+    "english": "Valid blocks:",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "适用方块：",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ]
+  },
+  {
+    "key": "productivelib.information.upgrade.valid_blocks.list_item",
+    "new": " - %s",
+    "english": " - %s",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "productivelib.information.upgrade.valid_blocks.list_item_content",
+    "new": "   %s",
+    "english": "   %s",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "spectrelib.networking.failed",
+    "new": "SpectreLib Networking Failure: %s",
+    "english": "SpectreLib Networking Failure: %s",
+    "namespace": "spectrelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/comforts-neoforge-15.0.0+26.1.2.jar!META-INF/jarjar/spectrelib-neoforge-0.21.0+26.1.2.jar",
+    "path": "assets/spectrelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "subtitle.ltxi.bomblet_explode",
+    "new": "Bomblet explodes",
+    "english": "Bomblet explodes",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "subtitle.ltxi.bomblet_prime",
+    "new": "Bomblet primes",
+    "english": "Bomblet primes",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "subtitle.ltxi.sparkler_shell_impact",
+    "new": "Sparkler shell impact",
+    "english": "Sparkler shell impact",
+    "namespace": "ltxi",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.0.jar",
+    "path": "assets/ltxi/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tag.item.arsmagicalegacy.spell_books",
+    "new": "Spell Books",
+    "english": "Spell Books",
+    "namespace": "arsmagicalegacy",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/arsmagicalegacy-26.1.2-1.7.1.jar",
+    "path": "assets/arsmagicalegacy/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.name",
+    "new": "Trender",
+    "english": "Trender",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.sendstacktraces",
+    "new": "Send Stacktraces",
+    "english": "Send Stacktraces",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.sendstacktraces.tooltip",
+    "new": "When enabled, stacktraces in the log or game crashes that contain mod references to mods by tr7zw will be sent to the mod author via Sentry (Sentry.io) to help fix bugs faster. No personal information is collected or sent. (Restart the game after turning it on)",
+    "english": "When enabled, stacktraces in the log or game crashes that contain mod references to mods by tr7zw will be sent to the mod author via Sentry (Sentry.io) to help fix bugs faster. No personal information is collected or sent. (Restart the game after turning it on)",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.style",
+    "new": "UI Style",
+    "english": "UI Style",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.style.MODERN",
+    "new": "Modern",
+    "english": "Modern",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.style.MODERN_DARK",
+    "new": "Modern Dark",
+    "english": "Modern Dark",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.style.VANILLA_MODERN",
+    "new": "Modern Vanilla",
+    "english": "Modern Vanilla",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.style.VANILLA_OLD",
+    "new": "Old Vanilla",
+    "english": "Old Vanilla",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.style.tooltip",
+    "new": "Changes the UI Style for all of mods by tr7zw.",
+    "english": "Changes the UI Style for all of mods by tr7zw.",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "text.trender.tab.general_options",
+    "new": "Options",
+    "english": "Options",
+    "namespace": "trender",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar!META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+    "path": "assets/trender/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.disable_multiblock_previews",
+    "new": "Disable Multiblock Previews",
+    "english": "Disable Multiblock Previews",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.disable_multiblock_previews.tooltip",
+    "new": "Disables ghost previews when trying to place a multiblock",
+    "english": "Disables ghost previews when trying to place a multiblock",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_blacklist",
+    "new": "Preview Blacklist",
+    "english": "Preview Blacklist",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_blacklist.button",
+    "new": "Edit",
+    "english": "Edit",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_blacklist.tooltip",
+    "new": "List of blocks for which to hide previews",
+    "english": "List of blocks for which to hide previews",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_whitelist",
+    "new": "Preview Whitelist",
+    "english": "Preview Whitelist",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_whitelist.button",
+    "new": "Edit",
+    "english": "Edit",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_whitelist.tooltip",
+    "new": "List of blocks for which to show previews",
+    "english": "List of blocks for which to show previews",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.previews_for_everything",
+    "new": "Previews for Everything",
+    "english": "Previews for Everything",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.previews_for_everything.tooltip",
+    "new": "Enables previews for everything, Used for debugging",
+    "english": "Enables previews for everything, Used for debugging",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml",
+    "new": "TMBL Client Config",
+    "english": "TMBL Client Config",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml.title",
+    "new": "TMBL Client Config",
+    "english": "TMBL Client Config",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tinymultiblocklib.configuration.title",
+    "new": "Tiny Multiblock Lib",
+    "english": "Tiny Multiblock Lib",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tooltip.crystalix.disabled",
+    "new": "Disabled by the server config",
+    "english": "Disabled by the server config",
+    "namespace": "crystalix",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar",
+    "path": "assets/crystalix/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  },
+  {
+    "key": "tooltip.crystalix.editor",
+    "new": "%s to open property editor",
+    "english": "%s to open property editor",
+    "namespace": "crystalix",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar",
+    "path": "assets/crystalix/lang/en_us.json",
+    "native_zh": null,
+    "candidates": []
+  }
+]

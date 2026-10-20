@@ -1,7 +1,7 @@
 {
   "batch": "092",
   "namespace": "nodeworks",
-  "jar": ".minecraft/mods/nodeworks-0.9.21.jar",
+  "jar": ".minecraft/mods/nodeworks-0.10.6.jar",
   "language_path": "assets/nodeworks/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/nodeworks/lang/zh_cn.json",
   "include_keys": [

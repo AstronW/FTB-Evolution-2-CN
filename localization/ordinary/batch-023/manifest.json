@@ -1,7 +1,7 @@
 {
   "batch": "023",
   "namespace": "cakesticklib",
-  "jar": ".minecraft/mods/cakesticklib-1.17.5-hotfix-1.jar",
+  "jar": ".minecraft/mods/cakesticklib-1.17.6-hotfix-2.jar",
   "language_path": "assets/cakesticklib/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/cakesticklib/lang/zh_cn.json",
   "include_keys": [

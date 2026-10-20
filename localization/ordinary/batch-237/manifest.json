@@ -1,7 +1,7 @@
 {
   "batch": "237",
   "namespace": "crystalix",
-  "jar": ".minecraft/mods/crystalix-4.1.0+26.1.2.jar",
+  "jar": ".minecraft/mods/crystalix-4.1.1+26.1.2.jar",
   "language_path": "assets/crystalix/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/crystalix/lang/zh_cn.json",
   "include_keys": [
@@ -73,5 +73,9 @@
   "context_overrides": {},
   "unchanged_values": [
     "Crystalix"
-  ]
+  ],
+  "preserved_scope": {
+    "source_snapshot": "localization/updates/1.4.1/before/localization/ordinary/batch-237/source-en_us.json",
+    "reason": "Crystalix newly classified as decoration. Preserve only the existing selected keys; adjust the changed default to current semantics, without adding translation scope."
+  }
 }

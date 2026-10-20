@@ -1,0 +1,18 @@
+{
+  "batch": "075",
+  "namespace": "integratedterminalscompat",
+  "jar": ".minecraft/mods/integratedterminals-26.1.2-neoforge-1.10.0.jar",
+  "language_path": "assets/integratedterminalscompat/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integratedterminalscompat/lang/zh_cn.json",
+  "include_keys": [
+    "gui.integratedterminalscompat.terminal_storage.crafting_job.error.title",
+    "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.started_only",
+    "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.failed_only",
+    "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.mixed",
+    "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.started_only",
+    "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.failed_only",
+    "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.mixed"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

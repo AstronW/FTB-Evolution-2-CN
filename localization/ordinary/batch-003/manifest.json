@@ -1,7 +1,7 @@
 {
   "batch": "003",
   "namespace": "nautec",
-  "jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.14.jar",
+  "jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
   "language_path": "assets/nautec/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/nautec/lang/zh_cn.json",
   "include_keys": [

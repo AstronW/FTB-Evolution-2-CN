@@ -1,0 +1,13 @@
+{
+  "batch": "280",
+  "namespace": "witchery_forbidden_magic",
+  "jar": ".minecraft/mods/witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
+  "language_path": "assets/witchery_forbidden_magic/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/witchery_forbidden_magic/lang/zh_cn.json",
+  "include_keys": [
+    "witchery.hud_editor.witchery_forbidden_magic.soul_pool",
+    "witchery.quest.lich.die.at.night"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

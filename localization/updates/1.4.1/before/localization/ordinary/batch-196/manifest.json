@@ -1,0 +1,17 @@
+{
+  "batch": "196",
+  "namespace": "getittogetherdrops",
+  "jar": ".minecraft/mods/getittogetherdrops-neoforge-26.1.1-1.5.jar",
+  "language_path": "assets/getittogetherdrops/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/getittogetherdrops/lang/zh_cn.json",
+  "include_keys": [
+    "getittogetherdrops.configuration.checkY",
+    "getittogetherdrops.configuration.checkY.tooltip",
+    "getittogetherdrops.configuration.radius",
+    "getittogetherdrops.configuration.radius.tooltip",
+    "tag.item.getittogetherdrops.do_not_combine",
+    "tag.item.getittogetherdrops.ignore"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

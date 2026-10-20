@@ -1,5 +1,5 @@
 {
-  "source_jar": ".minecraft/quest-inputs/ftb-evolution-companion-26.1.2.22.jar",
+  "source_jar": ".minecraft/quest-inputs/ftb-evolution-companion-26.1.2.23.jar",
   "language_file": "assets/ftbevolutioncompanion/lang/en_us.json",
   "entries": {
     "item.ftb.dynamo_matrix": {

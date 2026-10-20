@@ -1,9 +1,9 @@
 {
-  "target_pack_version": "1.4.0",
-  "pages": 305,
-  "translated_pages": 305,
-  "translated_words": 92805,
-  "total_words": 92805,
+  "target_pack_version": "1.4.1",
+  "pages": 317,
+  "translated_pages": 317,
+  "translated_words": 96904,
+  "total_words": 96904,
   "errors": [],
   "rows": [
     {
@@ -934,7 +934,7 @@
       "page": "assets/nautec/guides/nautec/guide/getting_started/deep_oceans.md",
       "group": "nautec",
       "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/deep_oceans.md",
-      "words": 689,
+      "words": 694,
       "translated": true
     },
     {
@@ -962,7 +962,7 @@
       "page": "assets/nautec/guides/nautec/guide/getting_started/eye_of_the_sea.md",
       "group": "nautec",
       "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/eye_of_the_sea.md",
-      "words": 340,
+      "words": 390,
       "translated": true
     },
     {
@@ -1039,7 +1039,7 @@
       "page": "assets/nautec/guides/nautec/guide/getting_started/stronger_beams.md",
       "group": "nautec",
       "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/stronger_beams.md",
-      "words": 582,
+      "words": 603,
       "translated": true
     },
     {
@@ -1060,7 +1060,7 @@
       "page": "assets/nautec/guides/nautec/guide/getting_started/utilities.md",
       "group": "nautec",
       "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/utilities.md",
-      "words": 849,
+      "words": 1051,
       "translated": true
     },
     {
@@ -1130,7 +1130,7 @@
       "page": "assets/nautec/guides/nautec/guide/laser_chemistry/budding_prismarine.md",
       "group": "nautec",
       "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/budding_prismarine.md",
-      "words": 278,
+      "words": 319,
       "translated": true
     },
     {
@@ -1207,7 +1207,7 @@
       "page": "assets/nautec/guides/nautec/guide/laser_chemistry/mixer.md",
       "group": "nautec",
       "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/mixer.md",
-      "words": 405,
+      "words": 493,
       "translated": true
     },
     {
@@ -2139,6 +2139,90 @@
       "group": "stellaris",
       "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/rocket/space_station.md",
       "words": 215,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/fundamentals/upgrade_station.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/fundamentals/upgrade_station.md",
+      "words": 104,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/abyssal_enchanter.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/abyssal_enchanter.md",
+      "words": 696,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/deep_sea_reservoir.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/deep_sea_reservoir.md",
+      "words": 401,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/osmosis_filter.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/osmosis_filter.md",
+      "words": 255,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/tools.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/tools.md",
+      "words": 444,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/weapons/aurora.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/weapons/aurora.md",
+      "words": 198,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/weapons/daybreak.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/weapons/daybreak.md",
+      "words": 263,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/weapons/hanabi.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/weapons/hanabi.md",
+      "words": 521,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/weapons/mirage.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/weapons/mirage.md",
+      "words": 193,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/weapons/nova.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/weapons/nova.md",
+      "words": 194,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/weapons/serenity.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/weapons/serenity.md",
+      "words": 226,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/weapons/stargazer.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/weapons/stargazer.md",
+      "words": 197,
       "translated": true
     }
   ]

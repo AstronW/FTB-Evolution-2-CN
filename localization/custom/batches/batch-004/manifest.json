@@ -1,5 +1,5 @@
 {
-  "target_pack_version": "1.4.0",
+  "target_pack_version": "1.4.1",
   "scope": "Shop command feedback, locked-shop interaction, random events and spawn status; reuse reviewed runtime localization after source verification",
   "files": [],
   "scripts": [

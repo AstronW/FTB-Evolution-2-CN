@@ -1,0 +1,15 @@
+{
+  "batch": "262",
+  "namespace": "eccentrictome",
+  "jar": ".minecraft/mods/eccentrictome-1.2.1.jar",
+  "language_path": "assets/eccentrictome/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/eccentrictome/lang/zh_cn.json",
+  "include_keys": [
+    "eccentrictome.configuration.common",
+    "eccentrictome.configuration.disable_overlay",
+    "eccentrictome.configuration.items",
+    "eccentrictome.configuration.aliases"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

@@ -1,0 +1,22 @@
+{
+  "batch": "070",
+  "namespace": "infinitystorage",
+  "jar": ".minecraft/mods/infinitystorage-26.1.2-2.0.2.jar",
+  "language_path": "assets/infinitystorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/infinitystorage/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.infinitystorage",
+    "block.infinitystorage.infinity_storage_drive",
+    "item.infinitystorage.infinity_cobblestone_drive",
+    "item.infinitystorage.infinity_water_drive",
+    "item.infinitystorage.infinity_lava_drive",
+    "item.infinitystorage.infinity_dirt_drive",
+    "item.infinitystorage.infinity_gravel_drive",
+    "item.infinitystorage.infinity_sand_drive",
+    "item.infinitystorage.infinity_stone_drive",
+    "item.infinitystorage.empty_infinity_drive",
+    "tooltip.infinitystorage.infinity_storage_drive"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

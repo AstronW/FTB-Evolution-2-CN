@@ -164,8 +164,8 @@
   "arsmagicalegacy": {
     "english": "Ars Magica: Legacy",
     "translation": "魔法艺术: 传承",
-    "jar": "arsmagicalegacy-26.1.2-1.7.0.jar",
-    "jar_sha256": "1c6cde0088485e884603d51b34552c68d081e6e3c52bbc617e77887690ae502f"
+    "jar": "arsmagicalegacy-26.1.2-1.7.1.jar",
+    "jar_sha256": "ec1385de7ed675830d308d4872467acfbd2c4c231eba85a7041b1a769d31b6c8"
   },
   "artifacts": {
     "english": "Artifacts",
@@ -184,8 +184,8 @@
   "auroral": {
     "english": "Auroral",
     "translation": "极光",
-    "jar": "auroral-26.1.2-1.5.9.jar",
-    "jar_sha256": "20f1f222137d2ea32b91b620abc3467a6d7039796bb6dec33f3e1afde041be51"
+    "jar": "auroral-26.1.2-1.5.10.jar",
+    "jar_sha256": "0b3fc172be2899c0b78f616639f15197b5155df205d4dde1c7787653ae294761"
   },
   "belts": {
     "english": "Simple Belts",
@@ -392,8 +392,8 @@
   "craftingstation": {
     "english": "Crafting Station",
     "translation": "合成站",
-    "jar": "craftingstationjei-26.1.1-NeoForge-2.2.0.jar",
-    "jar_sha256": "73a9938f2c267bf6f5cf9e8529d02bfad068be255b3e99afa5d9b5b249caf96b",
+    "jar": "craftingstationjei-26.1.2-NeoForge-2.2.1.jar",
+    "jar_sha256": "642e87a8a19556f74d236034dfcd4fcd5625f49de722132e79725dd495189f4d",
     "source_evidence": {
       "kind": "project_output",
       "path": ".minecraft/resourcepacks/FTB-Evolution-2-CFPA-Reviewed-zh_CN/assets/craftingstation/lang/zh_cn.json",
@@ -814,8 +814,8 @@
   "hephaestus": {
     "english": "Hephaestus Forge",
     "translation": "匠神",
-    "jar": "hephaestus-neoforge-26.1.2-1.0.16.jar",
-    "jar_sha256": "f65ea3ebdb1ac3feeec28b717a67fae3e019f194fded4ed27a582a6078720360"
+    "jar": "hephaestus-neoforge-26.1.2-1.0.17.jar",
+    "jar_sha256": "84aad47a8490601ffe7e33ef0acffc689539e8ecf424f70538bfe0fc6e01de2f"
   },
   "hephaestus_tools": {
     "english": "Hephaestus Tools",
@@ -858,26 +858,26 @@
   "integrateddynamics": {
     "english": "IntegratedDynamics",
     "translation": "动态联合",
-    "jar": "integrateddynamics-26.1.2-neoforge-1.36.1.jar",
-    "jar_sha256": "98f64dc224f208eb69056896a1c0936bce46af1ec9ed202b4dd9195f5cb59e33"
+    "jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e"
   },
   "integrateddynamicscompat": {
     "english": "IntegratedDynamics-Compat",
     "translation": "动态联合兼容",
-    "jar": "integrateddynamics-26.1.2-neoforge-1.36.1.jar",
-    "jar_sha256": "98f64dc224f208eb69056896a1c0936bce46af1ec9ed202b4dd9195f5cb59e33"
+    "jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e"
   },
   "integratedterminals": {
     "english": "IntegratedTerminals",
     "translation": "存储终端",
-    "jar": "integratedterminals-26.1.2-neoforge-1.10.0.jar",
-    "jar_sha256": "1bfe5551ef575e7d402a6642f80b3e9e986f631b7d25a608799acd1d5af142b1"
+    "jar": "integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632"
   },
   "integratedterminalscompat": {
     "english": "IntegratedTerminals-Compat",
     "translation": "存储终端兼容",
-    "jar": "integratedterminals-26.1.2-neoforge-1.10.0.jar",
-    "jar_sha256": "1bfe5551ef575e7d402a6642f80b3e9e986f631b7d25a608799acd1d5af142b1"
+    "jar": "integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632"
   },
   "integratedtunnels": {
     "english": "IntegratedTunnels",
@@ -970,8 +970,8 @@
   "ltxi": {
     "english": "LTX Industries",
     "translation": "LTX工业",
-    "jar": "ltxi-26.1.2-2.3.3.jar",
-    "jar_sha256": "e3e7e539df4246c7536f5feea7956bcb48e537061f475d65e856eef82794d7af"
+    "jar": "ltxi-26.1.2-2.4.0.jar",
+    "jar_sha256": "4043e3020f197820075245b1d05ec8e694286962114edebf67406ade1837473b"
   },
   "magnumtorch": {
     "english": "Magnum Torch",
@@ -1242,14 +1242,14 @@
   "nautec": {
     "english": "NauTec 2",
     "translation": "海蓝科技",
-    "jar": "nautec-26.1.2-NeoForge-2.0.14.jar",
-    "jar_sha256": "52a169bd0274a655fef96f52e5a9d7ce2a77ee0e32a04c51fca0c4fc7be488d4"
+    "jar": "nautec-26.1.2-NeoForge-2.0.16.jar",
+    "jar_sha256": "3a5ff5658f5b08cddcd52cb8212e550f1f801d9be45036368ddc1be9bdb7312b"
   },
   "neosync": {
     "english": "NeoSync",
     "translation": "新克隆",
-    "jar": "NeoSync-26.1.2-1.7.2.jar",
-    "jar_sha256": "9702e88abff39342dde8788f3782fc4a37fb7a9d4b9f5fe1f9b6029d1a3f5f74",
+    "jar": "NeoSync-26.1.2-1.7.3.jar",
+    "jar_sha256": "303ece6478453dc4956698a0cf623851d346ca7e2b06e2bcc44403ec03663e0a",
     "user_decision": "user-name-decisions.json",
     "reason": "User resolves prior candidate ambiguities. Refined Storage uses 精致存储; Quartz Arsenal and Auth Me remain English; NeoSync is 新克隆; Animal Pen is 动物围栏."
   },
@@ -1296,8 +1296,8 @@
   "oritech": {
     "english": "Oritech",
     "translation": "奥瑞科技",
-    "jar": "oritech-2.0.0-exp11.jar",
-    "jar_sha256": "2d8762dc70ecb4a0afc3987e15f38fe0b1b7d37d021fd2b912da6bc98a404599"
+    "jar": "oritech-2.0.0-exp12.jar",
+    "jar_sha256": "712b00b855c09b3aa8f0ff531c3ce35411a92d404637f0c9eb4a12e4dcd96e46"
   },
   "pantryforblockheads": {
     "english": "Pantry for Blockheads",
@@ -1350,8 +1350,8 @@
   "productivebees": {
     "english": "Productive Bees",
     "translation": "资源蜜蜂",
-    "jar": "productivebees-26.1.2-15.3.0.jar",
-    "jar_sha256": "d6e1582f76f5914f6cf5ff4abf7e90edbd4feaf3a751d0a333f6fcfcdf19df50",
+    "jar": "productivebees-26.1.2-15.4.0.jar",
+    "jar_sha256": "404c27d92b38d9e6f9b5a07fe99bc5f6d12578de816a548e3d7575cc498333f3",
     "source_evidence": {
       "kind": "native",
       "path": "assets/productivebees/lang/zh_cn.json",
@@ -1458,8 +1458,8 @@
   "reliquary": {
     "english": "Reliquary Reincarnations",
     "translation": "圣遗物",
-    "jar": "reliquary-26.1.2-2.0.92.1563.jar",
-    "jar_sha256": "c7ed0c327ea9487c24eb1110aa81226db7ce036d6c7cd86efaadce86e6166097"
+    "jar": "reliquary-26.1.2-2.0.93.1581.jar",
+    "jar_sha256": "04e066ebd135eb0ad2245aa8770c74af9ee0c74a4050e7b7c19610f12c6eab68"
   },
   "resonance": {
     "english": "Resonance",
@@ -1504,8 +1504,8 @@
   "sophisticatedbackpacks": {
     "english": "Sophisticated Backpacks",
     "translation": "精妙背包",
-    "jar": "sophisticatedbackpacks-26.1.2-3.26.11.2198.jar",
-    "jar_sha256": "4e5525848e8c20c0a8d4ecb8b459837694e13a0b024f04971eb9c92d61642f11",
+    "jar": "sophisticatedbackpacks-26.1.2-3.26.13.2207.jar",
+    "jar_sha256": "20b614486b0cec1c7f3185123c3c2cf063658c9167e415d129593e99fa8260b5",
     "source_evidence": {
       "kind": "native",
       "path": "assets/sophisticatedbackpacks/lang/zh_cn.json",
@@ -1518,8 +1518,8 @@
   "sophisticatedcore": {
     "english": "Sophisticated Core",
     "translation": "精妙核心",
-    "jar": "sophisticatedcore-26.1.2-1.5.14.2408.jar",
-    "jar_sha256": "2c22c6c76fa28df4bf91d44dd837d601df3a8f4fd7fbd3a46684d7b2f82309fe",
+    "jar": "sophisticatedcore-26.1.2-1.5.14.2409.jar",
+    "jar_sha256": "085e22084c3255cdae30af9d323cd845ec1ad83f9e9ac8a18d03276104eb9e2a",
     "source_evidence": {
       "kind": "native",
       "path": "assets/sophisticatedcore/lang/zh_cn.json",
@@ -1754,8 +1754,8 @@
   "witchery": {
     "english": "Witchery",
     "translation": "巫术",
-    "jar": "witchery-0.5.22+mc26.1.2.jar",
-    "jar_sha256": "1871960f830cd12651c8701f8c9fa56ec0f4e305ba6b28976a799b7995ceb146"
+    "jar": "witchery-0.5.25+mc26.1.2.jar",
+    "jar_sha256": "41b1ff110420d8c5e5b90e89c215aae74cc40afa17da07f0bd8d8e0deec3c0ac"
   },
   "witchery_forbidden_magic": {
     "english": "Witchery: Forbidden Magic",

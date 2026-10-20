@@ -151,5 +151,14 @@
     "previous": "Hephaestus工具配置",
     "translation": "匠神工具配置",
     "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-237",
+    "namespace": "crystalix",
+    "key": "config.crystalix.show_wand_tooltips.tooltip",
+    "source": "§8Show property tooltips on the wand§r\n\n§7Default: true§r",
+    "previous": "§8在法杖上显示属性提示§r\n\n§7默认: false§r",
+    "translation": "§8在法杖上显示属性提示§r\n\n§7默认: true§r",
+    "reason": "1.4.1 source changes default from false to true; preserve formatting and line breaks."
   }
 ]

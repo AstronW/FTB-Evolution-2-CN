@@ -50,11 +50,13 @@ def main():
         result = subprocess.run(command, cwd=ROOT, text=True, capture_output=True)
         rows.append({'command':command, 'returncode':result.returncode, 'stdout':result.stdout, 'stderr':result.stderr})
         print(('PASS ' if result.returncode == 0 else 'FAIL ') + ' '.join(command[1:]))
+    config = json.loads((ROOT / 'project.json').read_text())
+    version = config['target_pack_version']
     report = {'status':'passed' if all(r['returncode'] == 0 for r in rows) else 'failed',
-              'baseline':'1.3.2', 'target_1_4_0_adaptation_complete':False,
-              'component_baselines':json.loads((ROOT / 'project.json').read_text()).get('component_baselines',{}),
+              'target_pack_version':version,
+              'component_baselines':config.get('component_baselines',{}),
               'unfinished_excluded':unfinished, 'checks':rows, 'in_game_tested':False}
-    (ROOT / 'localization/reports/project-migration-verification.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
+    (ROOT / f'localization/reports/project-verification-{version}.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
     if report['status'] != 'passed':
         for row in rows:
             if row['returncode']:

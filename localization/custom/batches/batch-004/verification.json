@@ -1,8 +1,8 @@
 {
   "status": "passed",
   "batch": "batch-004",
-  "target_pack_version": "1.4.0",
-  "manifest_sha256": "80f5ec381dbb863b61dbeb253a63d36d5a7b51baf628f2626c842528d854b406",
+  "target_pack_version": "1.4.1",
+  "manifest_sha256": "f7317c31cd88f17df228ac904dfae79dbf1bb7ad913a7e48f5a2336f7cad2ed3",
   "source_files_verified": 0,
   "translated_json_fields": 0,
   "translated_language_keys": 0,

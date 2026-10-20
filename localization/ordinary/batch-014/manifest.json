@@ -1,7 +1,7 @@
 {
   "batch": "014",
   "namespace": "hephaestus",
-  "jar": ".minecraft/mods/hephaestus-neoforge-26.1.2-1.0.16.jar",
+  "jar": ".minecraft/mods/hephaestus-neoforge-26.1.2-1.0.17.jar",
   "language_path": "assets/hephaestus/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/hephaestus/lang/zh_cn.json",
   "include_keys": [

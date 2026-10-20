@@ -1,0 +1,29 @@
+{
+  "batch": "101",
+  "namespace": "ftbteams",
+  "jar": ".minecraft/mods/ftb-teams-neoforge-26.1.2.4.jar",
+  "language_path": "assets/ftbteams/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbteams/lang/zh_cn.json",
+  "include_keys": [
+    "ftbteams.team_already_exists",
+    "ftbteams.out_of_lives",
+    "ftbteams.lost_a_life",
+    "ftbteams.kicked_no_lives",
+    "ftbteams.disbanded_no_lives",
+    "ftbteams.gui.toggle_chat",
+    "ftbteams.message.limited_lives",
+    "ftbteams.message.limited_lives.warn",
+    "ftbteams.message.chat_redirected.on",
+    "ftbteams.message.chat_redirected.off",
+    "ftbteams.message.added_stage",
+    "ftbteams.message.no_team_stages",
+    "ftbteams.message.removed_stage",
+    "ftbteams.message.team_stages_header",
+    "ftbteams.message.set_property",
+    "ftbteams.message.parse_failed",
+    "ftbteams.message.property_not_editable",
+    "ftbteams.party_creation_failed"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

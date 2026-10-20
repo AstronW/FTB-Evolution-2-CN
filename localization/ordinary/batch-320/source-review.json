@@ -1,0 +1,14 @@
+[
+  {
+    "key": "tag.item.arsmagicalegacy.spell_books",
+    "new": "Spell Books",
+    "english": "Spell Books",
+    "namespace": "arsmagicalegacy",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/arsmagicalegacy-26.1.2-1.7.1.jar",
+    "path": "assets/arsmagicalegacy/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "法术书",
+    "review_reason": "Current source reviewed manual translation"
+  }
+]

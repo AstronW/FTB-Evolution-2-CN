@@ -1,0 +1,14 @@
+[
+  {
+    "key": "spectrelib.networking.failed",
+    "new": "SpectreLib Networking Failure: %s",
+    "english": "SpectreLib Networking Failure: %s",
+    "namespace": "spectrelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/comforts-neoforge-15.0.0+26.1.2.jar!META-INF/jarjar/spectrelib-neoforge-0.21.0+26.1.2.jar",
+    "path": "assets/spectrelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "SpectreLib 网络通信失败: %s",
+    "review_reason": "Current source reviewed manual translation"
+  }
+]

@@ -98,7 +98,7 @@ def build(command):
     pages,changes=compile_pages(outputs,mapping);result.update(pages)
     corrections=component_corrections(outputs,result,sources)
     base_files={member:sha(outputs[member][0]) for member in result if member in outputs and not member.endswith('/lang/zh_cn.json')}
-    manifest={'target_pack_version':'1.4.0','source_inputs':sources,'base_files':base_files,'files':{k:sha(v) for k,v in sorted(result.items())},'recipe_reference_changes':changes,'component_corrections':corrections,'in_game_tested':False}
+    manifest={'target_pack_version':read(ROOT/'project.json')['target_pack_version'],'source_inputs':sources,'base_files':base_files,'files':{k:sha(v) for k,v in sorted(result.items())},'recipe_reference_changes':changes,'component_corrections':corrections,'in_game_tested':False}
     if command=='build':
         for rel,data in result.items():
             p=OUTPUT/rel;p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(data)

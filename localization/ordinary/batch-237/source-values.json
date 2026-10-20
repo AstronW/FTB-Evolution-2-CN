@@ -8,7 +8,7 @@
   "Max Block Edits Per Tick",
   "§8The maximum number of blocks that can be modified in a single tick by multi-block edit.§r\n§8If you're experiencing performance issues you might want to lower this number.§r\n\n§7Default: 256§r",
   "Show Wand Tooltips",
-  "§8Show property tooltips on the wand§r\n\n§7Default: false§r",
+  "§8Show property tooltips on the wand§r\n\n§7Default: true§r",
   "Crystalix",
   "Highlight Blocks",
   "Open Wand Editor",

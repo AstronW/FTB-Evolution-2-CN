@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "namespace": "enderio",
+      "key": "conduit.enderio.rs",
+      "english": "Refined Storage Conduit",
+      "chinese": "精致存储导管"
+    },
+    {
+      "namespace": "ae2addonlib",
+      "key": "gui.tooltips.ae2addonlib.ClearButton",
+      "english": "Clear",
+      "chinese": "清空"
+    },
+    {
+      "namespace": "ae2addonlib",
+      "key": "gui.tooltips.ae2addonlib.ClearFluidButtonHint",
+      "english": "Flush the remaining fluid from the machine.",
+      "chinese": "清空槽位中剩余的流体。"
+    },
+    {
+      "namespace": "ae2addonlib",
+      "key": "gui.tooltips.ae2addonlib.ClearSidesButtonHint",
+      "english": "Disable output from all sides of the machine.",
+      "chinese": "将所有的面都设置为禁止输出。"
+    },
+    {
+      "namespace": "ae2addonlib",
+      "key": "gui.tooltips.ae2addonlib.DirectionalOutput",
+      "english": "Directional Output",
+      "chinese": "输出方向"
+    },
+    {
+      "namespace": "ae2addonlib",
+      "key": "gui.tooltips.ae2addonlib.DirectionalOutputHint",
+      "english": "Configure which directions are allowed for output auto-export",
+      "chinese": "配置允许自动输出的方向"
+    },
+    {
+      "namespace": "ae2addonlib",
+      "key": "gui.tooltips.ae2addonlib.InvalidHexInput",
+      "english": "Invalid hex code input",
+      "chinese": "无效十六进制编码输入"
+    },
+    {
+      "namespace": "ae2addonlib",
+      "key": "gui.tooltips.ae2addonlib.TankEmpty",
+      "english": "Empty",
+      "chinese": "空"
+    },
+    {
+      "namespace": "jecharacters",
+      "key": "jecharacters.chat.error",
+      "english": "Oops! An error occurred when writing the file.",
+      "chinese": "卧槽，写入文件时出现了一个问题。"
+    },
+    {
+      "namespace": "jecharacters",
+      "key": "jecharacters.chat.saved",
+      "english": "Done! Output saved to logs/jecharacters.txt.",
+      "chinese": "搞定！报告已导出至 logs/jecharacters.txt。"
+    },
+    {
+      "namespace": "jecharacters",
+      "key": "jecharacters.chat.start",
+      "english": "Start profiling",
+      "chinese": "开始分析模组文件。"
+    },
+    {
+      "namespace": "jecharacters",
+      "key": "jecharacters.chat.taiwan",
+      "english": "Internal error.",
+      "chinese": "内部错误。"
+    }
+  ],
+  "protected_errors": [],
+  "method": "8 native entries retained after source/context and protected syntax review. Four JECharacters messages receive explicit project overrides for source tone and punctuation; no JAR modified.",
+  "project_overrides": [
+    "jecharacters.chat.error",
+    "jecharacters.chat.saved",
+    "jecharacters.chat.start",
+    "jecharacters.chat.taiwan"
+  ]
+}

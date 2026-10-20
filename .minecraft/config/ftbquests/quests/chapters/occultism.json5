@@ -1623,14 +1623,6 @@
       id: "43BF1E0CE33F8BB7",
       tasks: [
         {
-          id: "48FB07292F725224",
-          type: "item",
-          item: {
-            id: "occultism:chalk_brown_impure",
-            count: 1,
-          },
-        },
-        {
           id: "2377F223D4F57790",
           type: "item",
           item: {
@@ -1677,14 +1669,6 @@
       id: "337838FB759E4377",
       tasks: [
         {
-          id: "3B42072BEC6993A1",
-          type: "item",
-          item: {
-            id: "occultism:chalk_magenta_impure",
-            count: 1,
-          },
-        },
-        {
           id: "54F8C6F5E5D693C0",
           type: "item",
           item: {
@@ -1722,14 +1706,6 @@
       size: 1.0,
       id: "504EEAA75990C78C",
       tasks: [
-        {
-          id: "13CFFC7E6B3CFF6B",
-          type: "item",
-          item: {
-            id: "occultism:chalk_cyan_impure",
-            count: 1,
-          },
-        },
         {
           id: "5E95B985000E49C4",
           type: "item",

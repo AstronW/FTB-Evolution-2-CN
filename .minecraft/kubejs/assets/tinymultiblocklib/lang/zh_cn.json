@@ -1,0 +1,15 @@
+{
+  "tinymultiblocklib.configuration.previews_for_everything": "预览所有方块",
+  "tinymultiblocklib.configuration.previews_for_everything.tooltip": "为所有方块启用预览, 用于调试",
+  "tinymultiblocklib.configuration.preview_whitelist": "预览白名单",
+  "tinymultiblocklib.configuration.preview_whitelist.tooltip": "显示预览的方块列表",
+  "tinymultiblocklib.configuration.preview_blacklist": "预览黑名单",
+  "tinymultiblocklib.configuration.preview_blacklist.tooltip": "隐藏预览的方块列表",
+  "tinymultiblocklib.configuration.preview_whitelist.button": "编辑",
+  "tinymultiblocklib.configuration.preview_blacklist.button": "编辑",
+  "tinymultiblocklib.configuration.title": "Tiny Multiblock Lib",
+  "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml.title": "TMBL 客户端配置",
+  "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml": "TMBL 客户端配置",
+  "tinymultiblocklib.configuration.disable_multiblock_previews": "禁用多方块预览",
+  "tinymultiblocklib.configuration.disable_multiblock_previews.tooltip": "尝试放置多方块结构时不显示虚影预览"
+}

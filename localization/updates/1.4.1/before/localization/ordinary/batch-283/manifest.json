@@ -1,0 +1,14 @@
+{
+  "batch": "283",
+  "namespace": "cable_facades",
+  "jar": ".minecraft/mods/cable_facades-26.1.2-NeoForge-2.1.4.jar",
+  "language_path": "assets/cable_facades/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/cable_facades/lang/zh_cn.json",
+  "include_keys": [
+    "cable_facades.creative_tab"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Cable Facades"
+  ]
+}

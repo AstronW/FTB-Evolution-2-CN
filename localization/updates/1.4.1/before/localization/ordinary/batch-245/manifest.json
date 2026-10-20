@@ -1,0 +1,37 @@
+{
+  "batch": "245",
+  "namespace": "modonomicon",
+  "jar": ".minecraft/mods/modonomicon-26.1.2-neoforge-2.17.1.jar",
+  "language_path": "assets/modonomicon/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/modonomicon/lang/zh_cn.json",
+  "include_keys": [
+    "key.category.modonomicon.modonomicon",
+    "key.modonomicon.open_associated_entry",
+    "modonomicon.configuration.associatedItemsHoldDurationMs",
+    "modonomicon.configuration.associatedItemsHoldDurationMs.tooltip",
+    "modonomicon.configuration.debug",
+    "modonomicon.configuration.debugOverlay",
+    "modonomicon.configuration.debugOverlay.tooltip",
+    "modonomicon.configuration.enableSmoothZoom.tooltip",
+    "modonomicon.configuration.fontFallbackLocales.tooltip",
+    "modonomicon.configuration.pauseGameWhenOpen",
+    "modonomicon.configuration.pauseGameWhenOpen.tooltip",
+    "modonomicon.configuration.showRecipeLookupHints",
+    "modonomicon.configuration.showRecipeLookupHints.tooltip",
+    "modonomicon.configuration.showResearchToasts",
+    "modonomicon.configuration.showResearchToasts.tooltip",
+    "modonomicon.configuration.storeLastOpenPageWhenClosingEntry.tooltip",
+    "modonomicon.gui.hover.book_link_locked",
+    "tooltip.modonomicon.associated.hold_to_open",
+    "tooltip.modonomicon.associated.locked",
+    "tooltip.modonomicon.fluid.amount",
+    "tooltip.modonomicon.fluid.amount_and_capacity"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Modonomicon",
+    "%s.\n%s",
+    "%s mb",
+    "%s / %s mb"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "121",
+  "namespace": "peekaboo",
+  "jar": ".minecraft/mods/peekaboo-1.0.0+26.1.1.jar",
+  "language_path": "assets/peekaboo/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/peekaboo/lang/zh_cn.json",
+  "include_keys": [
+    "commands.disguise.not_living_entity",
+    "creative_tab.peekaboo",
+    "item.peekaboo.disguise",
+    "item.peekaboo.disguise.entity",
+    "item.peekaboo.mob_hat",
+    "item.peekaboo.mob_hat.entity",
+    "item.peekaboo.plushie",
+    "item.peekaboo.plushie.entity"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Peekaboo"
+  ]
+}

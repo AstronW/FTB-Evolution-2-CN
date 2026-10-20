@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "323",
+  "namespace": "jecharacters",
+  "source_keys": 5,
+  "unique_values": 5,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 5,
+  "source_sha256": "f91b555c0d87c34037a182f4e7ca25d592c9b1709cb4c16693d734988210a4f8",
+  "in_game_tested": false
+}

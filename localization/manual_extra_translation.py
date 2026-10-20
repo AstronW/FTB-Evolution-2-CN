@@ -177,7 +177,7 @@ def extract() -> None:
         snapshot.parent.mkdir(parents=True, exist_ok=True)
         snapshot.write_text(text)
     manifest = {
-        'target_pack_version': '1.4.0',
+        'target_pack_version': json.loads((ROOT / 'project.json').read_text())['target_pack_version'],
         'generated_from': str(REPORT.relative_to(ROOT)),
         'known_pages': sorted(known_pages()),
         'documents': dict(sorted(documents.items())),
@@ -401,7 +401,7 @@ def main() -> None:
             'translated': complete,
         })
     progress = {
-        'target_pack_version': '1.4.0',
+        'target_pack_version': json.loads((ROOT / 'project.json').read_text())['target_pack_version'],
         'pages': len(rows),
         'translated_pages': sum(row['translated'] for row in rows),
         'translated_words': sum(row['words'] for row in rows if row['translated']),

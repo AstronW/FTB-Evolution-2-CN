@@ -1,0 +1,86 @@
+[
+  {
+    "key": "config.apollib.back",
+    "new": "Back",
+    "english": "Back",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "返回",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "config.apollib.back.tooltip",
+    "new": "Close this screen without saving any changes.",
+    "english": "Close this screen without saving any changes.",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "关闭此界面, 不保存修改.",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "config.apollib.default",
+    "new": "Default: ",
+    "english": "Default: ",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "默认值: ",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "config.apollib.done",
+    "new": "Save & Close",
+    "english": "Save & Close",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "保存并关闭",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "config.apollib.done.tooltip",
+    "new": "Save your changes and close the screen.",
+    "english": "Save your changes and close the screen.",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "保存修改并关闭界面.",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "config.apollib.export",
+    "new": "Export",
+    "english": "Export",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "导出",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "config.apollib.export.tooltip",
+    "new": "Exports the current config file to the clipboard.",
+    "english": "Exports the current config file to the clipboard.",
+    "namespace": "apollib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar!META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+    "path": "assets/apollib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "将当前配置文件导出到剪贴板.",
+    "review_reason": "Current source reviewed manual translation"
+  }
+]

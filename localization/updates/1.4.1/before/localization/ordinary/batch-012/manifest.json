@@ -1,0 +1,9 @@
+{
+  "batch": "012",
+  "namespace": "apothic_compats",
+  "jar": ".minecraft/mods/apothic_compats-0.3.1.jar",
+  "language_path": "assets/apothic_compats/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/apothic_compats/lang/zh_cn.json",
+  "context_overrides": {},
+  "unchanged_values": []
+}

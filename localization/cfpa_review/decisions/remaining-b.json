@@ -1992,9 +1992,9 @@
     "namespace": "integratedterminals",
     "key": "gui.integratedterminals.craftingplan.view.tree",
     "english": "Show tree",
-    "status": "accepted",
+    "status": "rejected",
     "chinese": "树状视图",
-    "reason": "核对存储终端/合成工作/频道/搜索和原料类型语境, 保持动态联合系列及对应界面名一致.",
+    "reason": "1.4.1 已移除此语言键, 新版改用 view.list; 原 CFPA 候选留作历史来源, 新键由本次普通语言增量单独审校.",
     "source": {
       "namespace": "integratedterminals",
       "version": "1.21",
@@ -2258,10 +2258,10 @@
   {
     "namespace": "integratedterminals",
     "key": "gui.integratedterminals.craftingplan.status.invalid_inputs",
-    "english": "Recipe Not Allowed",
+    "english": "Inputs Not Accepted",
     "status": "accepted",
-    "chinese": "合成不被允许",
-    "reason": "核对存储终端/合成工作/频道/搜索和原料类型语境, 保持动态联合系列及对应界面名一致.",
+    "chinese": "原料未被接受",
+    "reason": "1.4.1 当前英文更正为目标暂时拒收原料且稍后重试, 不是禁止配方; 依据新版机制修订既有 CFPA 候选, 上游来源字段保留原样.",
     "source": {
       "namespace": "integratedterminals",
       "version": "1.18",
@@ -2271,15 +2271,18 @@
       "source_key": "gui.integratedterminals.craftingplan.status.invalid_inputs",
       "english": "Recipe Not Allowed",
       "chinese": "合成不被允许"
-    }
+    },
+    "changes": [
+      "1.4.1 effective-source semantic update"
+    ]
   },
   {
     "namespace": "integratedterminals",
     "key": "gui.integratedterminals.craftingplan.status.invalid_inputs.desc",
-    "english": "Recipe inputs could not be inserted into the crafting target",
+    "english": "The crafting target refused the inputs, will retry later",
     "status": "accepted",
-    "chinese": "无法将配方原料放入合成目标",
-    "reason": "修复旧译语法并保留插入失败含义.",
+    "chinese": "合成目标拒绝了原料输入, 稍后将重试",
+    "reason": "1.4.1 当前英文更正为目标暂时拒收原料且稍后重试, 不是禁止配方; 依据新版机制修订既有 CFPA 候选, 上游来源字段保留原样.",
     "source": {
       "namespace": "integratedterminals",
       "version": "1.18",
@@ -2291,7 +2294,8 @@
       "chinese": "合成输入的无法插入合成目标中"
     },
     "changes": [
-      "当前源/语义适配: 修复旧译语法并保留插入失败含义."
+      "当前源/语义适配: 修复旧译语法并保留插入失败含义.",
+      "1.4.1 effective-source semantic update"
     ]
   },
   {

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "319",
+  "namespace": "apollib",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 7,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 7,
+  "source_sha256": "b4c80cb60c370bd77bed5ff5eac4b24e218f31c63f006316ba385bd7f38ddd75",
+  "in_game_tested": false
+}

@@ -1,5 +1,5 @@
 {
-  "target_pack_version": "1.4.0",
+  "target_pack_version": "1.4.1",
   "scripts": [
     {
       "file": "mod_names.js",

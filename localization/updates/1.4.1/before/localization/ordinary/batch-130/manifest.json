@@ -1,0 +1,12 @@
+{
+  "batch": "130",
+  "namespace": "betteradvancements",
+  "jar": ".minecraft/mods/BetterAdvancements-NeoForge-26.1.2-0.6.0.76.jar",
+  "language_path": "assets/betteradvancements/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/betteradvancements/lang/zh_cn.json",
+  "include_keys": [
+    "title.betteradvancements.config"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

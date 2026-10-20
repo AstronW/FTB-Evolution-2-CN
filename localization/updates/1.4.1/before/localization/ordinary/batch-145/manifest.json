@@ -1,0 +1,38 @@
+{
+  "batch": "145",
+  "namespace": "horsingaround",
+  "jar": ".minecraft/mods/HorsingAround-26.1.2-0.3.5.jar",
+  "language_path": "assets/horsingaround/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/horsingaround/lang/zh_cn.json",
+  "include_keys": [
+    "horsingaround.configuration.Client",
+    "horsingaround.configuration.Client.tooltip",
+    "horsingaround.configuration.General",
+    "horsingaround.configuration.General.tooltip",
+    "horsingaround.configuration.addOnMount",
+    "horsingaround.configuration.addOnMount.tooltip",
+    "horsingaround.configuration.addOnTame",
+    "horsingaround.configuration.addOnTame.tooltip",
+    "horsingaround.configuration.entityBlacklist",
+    "horsingaround.configuration.entityBlacklist.tooltip",
+    "horsingaround.configuration.hoverColor",
+    "horsingaround.configuration.hoverColor.tooltip",
+    "horsingaround.configuration.pixelatedMode",
+    "horsingaround.configuration.pixelatedMode.tooltip",
+    "horsingaround.configuration.slotsVisible",
+    "horsingaround.configuration.slotsVisible.tooltip",
+    "horsingaround.configuration.title",
+    "horsingaround.networking.summon.failed",
+    "horsingaround.networking.sync.failed",
+    "horsingaround.networking.unlink.failed",
+    "horsingaround.radial.page",
+    "horsingaround.subtitle.call",
+    "key.category.horsingaround.category",
+    "key.horsingaround.open_menu",
+    "message.horsingaround.no_tamed_entities"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Horsing Around"
+  ]
+}

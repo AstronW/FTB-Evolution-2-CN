@@ -39,3 +39,7 @@
 ## 2026-10-18 喷气背包任务模组误指
 
 `chapters/tips_and_tricks.json5` 的源文 `&aSimply Jetpacks&r adds flight without needing to get an &dElytra&r.` 指向当前实例不存在的模组名. 1.4.0 实际安装 `IronJetpacks-26.1.2-9.0.3.jar`, 命名空间 `ironjetpacks`, 元数据名 `Iron Jetpacks`. 按玩家反馈更正为 `&a铁制喷气背包&r让你无需获得&d鞘翅&r也能飞行.`. 保留原始英文源, 不改任务结构与飞行机制. JAR 哈希及版本绑定见 `../client_fixes/mod-names.json`.
+
+## 1.4.1 洒水壶模拟玩家说明
+
+`quest.1CFEC4265CAAA0D8.quest_desc` 的英文仍称本包允许模拟玩家使用洒水壶, Just Dire Things 的 Clicker 可以代劳. 用户提供的 2026-10-20 changelog 第 2 项说明不再支持模拟玩家, 当前目标实例 `config/mysticalagriculture-common.toml` 明确为 `fakePlayerWatering = false`. 中文更正为不允许模拟玩家, 点击器无法代劳, 保留个人手持自动浇水用法. 不改英文源, 游戏配置或任务逻辑. 源文件哈希及原文证据见 `update-1.4.1-changelog-review.json`, 译文见 `../updates/1.4.1/quest-deltas.json`.

@@ -1,0 +1,16 @@
+{
+  "batch": "277",
+  "namespace": "patchouli",
+  "jar": ".minecraft/mods/patchouli-neoforge-26.1-94.jar",
+  "language_path": "assets/patchouli/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/patchouli/lang/zh_cn.json",
+  "include_keys": [
+    "patchouli.gui.lexicon.visualize_letter",
+    "patchouli.gui.lexicon.button.resize.verybig.container"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "V",
+    "%s?"
+  ]
+}

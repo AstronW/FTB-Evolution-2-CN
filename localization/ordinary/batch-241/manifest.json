@@ -1,7 +1,7 @@
 {
   "batch": "241",
   "namespace": "limacore",
-  "jar": ".minecraft/mods/limacore-26.1.2-2.11.0.jar",
+  "jar": ".minecraft/mods/limacore-26.1.2-2.11.3.jar",
   "language_path": "assets/limacore/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/limacore/lang/zh_cn.json",
   "include_keys": [

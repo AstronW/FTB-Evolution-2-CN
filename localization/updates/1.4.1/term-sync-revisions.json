@@ -1,0 +1,26 @@
+[
+  {
+    "source": "A &aCrafting Core&r and a touching &2Crafting Buffer&r form the start of a crafting CPU. Connect the core to a Node so the network can use it.",
+    "previous": "一个&a合成核心&r与相邻的&2合成缓冲器&r构成合成CPU的基础.将核心连接到节点, 网络才能使用它.",
+    "translation": "一个&a合成核心&r与相邻的&2合成缓存&r构成合成 CPU 的基础. 将核心连接到节点, 网络才能使用它.",
+    "reason": "Align current Nodeworks IDs with existing game/manual terms"
+  },
+  {
+    "source": "Add &2Crafting Coolant&r against the buffer before expanding. Buffers and co-processors generate heat, and insufficient cooling slows every craft. A starter buffer can be cooled by two coolant blocks.",
+    "previous": "扩展前, 先在缓冲器旁放置&2合成冷却块&r.缓冲器和并行处理单元都会发热, 冷却不足会拖慢所有合成.入门缓冲器用两个冷却块就能冷却.",
+    "translation": "扩展前, 先在合成缓存旁放置&2合成冷却块&r. 合成缓存和合成协处理器都会发热, 冷却不足会拖慢所有合成. 入门合成缓存用两个冷却块就能冷却.",
+    "reason": "Align current Nodeworks IDs with existing game/manual terms"
+  },
+  {
+    "source": "&2Crafting Co-Processors&r add parallel crafts. Coolant blocks become stronger when touching other coolant blocks, but split their cooling between the hot blocks they touch. Keep heat sources spread out and coolant grouped together.",
+    "previous": "&2合成并行处理单元&r可增加并行合成数量.冷却块与其他冷却块相邻时效果更强, 但冷却能力会分摊给所有接触的发热方块.应让热源分散, 冷却块集中.",
+    "translation": "&2合成协处理器&r可增加并行合成数量. 冷却块与其他冷却块相邻时效果更强, 但冷却能力会分摊给所有接触的发热方块. 应让热源分散, 冷却块集中.",
+    "reason": "Align current Nodeworks IDs with existing game/manual terms"
+  },
+  {
+    "source": "&2Crafting Substrate&r touching buffers or co-processors increases speed once cooling is covered.",
+    "previous": "冷却足够后, 让&2合成基质&r接触缓冲器或并行处理单元, 可以进一步提高速度.",
+    "translation": "冷却足够后, 让&2合成基板&r接触合成缓存或合成协处理器, 可以进一步提高速度.",
+    "reason": "Align current Nodeworks IDs with existing game/manual terms"
+  }
+]

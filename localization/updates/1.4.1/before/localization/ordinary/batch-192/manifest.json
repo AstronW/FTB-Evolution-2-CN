@@ -1,0 +1,21 @@
+{
+  "batch": "192",
+  "namespace": "crafting_on_a_stick",
+  "jar": ".minecraft/mods/crafting_on_a_stick-neoforge-26.1-1.1.jar",
+  "language_path": "assets/crafting_on_a_stick/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/crafting_on_a_stick/lang/zh_cn.json",
+  "include_keys": [
+    "gui.crafting_on_a_stick.selection_wheel.no_tool",
+    "item.crafting_on_a_stick.crafting_table",
+    "item.crafting_on_a_stick.loom",
+    "item.crafting_on_a_stick.grindstone",
+    "item.crafting_on_a_stick.cartography_table",
+    "item.crafting_on_a_stick.stonecutter",
+    "item.crafting_on_a_stick.smithing_table",
+    "item.crafting_on_a_stick.anvil"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s"
+  ]
+}

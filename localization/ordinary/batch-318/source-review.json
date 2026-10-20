@@ -1,0 +1,62 @@
+[
+  {
+    "key": "chat.ae2wtlib.NetworkMismatch",
+    "new": "Quantum Bridge and Wireless Access Point are connected to Different Networks",
+    "english": "Quantum Bridge and Wireless Access Point are connected to Different Networks",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "量子桥与无线接入点连接到了不同网络",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "chat.ae2wtlib.NetworkNotPowered",
+    "new": "Network Not Powered",
+    "english": "Network Not Powered",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "网络未供电",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "chat.ae2wtlib.NoQuantumBridge",
+    "new": "Quantum Network Bridge not found. Is it in loaded chunks?",
+    "english": "Quantum Network Bridge not found. Is it in loaded chunks?",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "未找到量子网络桥. 它所在的区块已加载吗?",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "chat.ae2wtlib.NoQuantumBridgeCard",
+    "new": "Missing Quantum Bridge Card",
+    "english": "Missing Quantum Bridge Card",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "缺少量子桥卡",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "chat.ae2wtlib.SingularityNotPresent",
+    "new": "Missing Singularity",
+    "english": "Missing Singularity",
+    "namespace": "ae2wtlib_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar!META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+    "path": "assets/ae2wtlib_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "缺少奇点",
+    "review_reason": "Current source reviewed manual translation"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "324",
+  "namespace": "kuma_api",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 4,
+  "source_sha256": "86c470d8d1f378c93e3c10763f4df59267b3b392f6404c26a34f0351fb193aa1",
+  "in_game_tested": false
+}

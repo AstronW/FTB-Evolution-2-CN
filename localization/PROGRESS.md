@@ -4,8 +4,8 @@
 
 - 可见章节：42/42。
 - 完整中文文件：51/51（含目录、奖励和额外章节文件）。
-- 已安装文本键：4178/4178。
-- 已解决文本片段：8181/8181（含已明确保留的专名）。
+- 已安装文本键：4181/4181。
+- 已解决文本片段：8192/8192（含已明确保留的专名）。
 - 另有45条奖励标签、38条任务组件名称/描述及5条补充名称。
 - 文件结构与解析检查见reports；游戏内排版、悬停与链接点击尚未验收。
 
@@ -24,9 +24,9 @@
 | chapters/cooking_and_brewing.json5 | 137 | 283/283 | 是 |
 | chapters/enderio.json5 | 53 | 90/90 | 是 |
 | chapters/energized_power.json5 | 100 | 168/168 | 是 |
-| chapters/evilcraft.json5 | 51 | 83/83 | 是 |
+| chapters/evilcraft.json5 | 51 | 84/84 | 是 |
 | chapters/exploration.json5 | 137 | 210/210 | 是 |
-| chapters/gearing_up.json5 | 199 | 459/459 | 是 |
+| chapters/gearing_up.json5 | 200 | 460/460 | 是 |
 | chapters/general_storage.json5 | 334 | 565/565 | 是 |
 | chapters/getting_started.json5 | 64 | 241/241 | 是 |
 | chapters/hephaestus.json5 | 46 | 181/181 | 是 |
@@ -35,7 +35,7 @@
 | chapters/industrial_contraptions.json5 | 66 | 143/143 | 是 |
 | chapters/integrated_dynamics.json5 | 86 | 206/206 | 是 |
 | chapters/just_dire_things.json5 | 122 | 203/203 | 是 |
-| chapters/logistics.json5 | 156 | 329/329 | 是 |
+| chapters/logistics.json5 | 158 | 338/338 | 是 |
 | chapters/ltx_industries.json5 | 93 | 204/204 | 是 |
 | chapters/mffs.json5 | 46 | 60/60 | 是 |
 | chapters/nautec.json5 | 313 | 839/839 | 是 |

@@ -11,7 +11,9 @@ from cfpa_review_format import invariant_errors
 ROOT=Path(__file__).resolve().parent.parent
 BASE=ROOT/'localization/cfpa_review'
 PACK=ROOT/'.minecraft/resourcepacks/FTB-Evolution-2-CFPA-Reviewed-zh_CN'
-ARCHIVE=ROOT/'dist/FTB-Evolution-2-1.4.0-CFPA-Reviewed-zh_CN.zip'
+CONFIG=json.loads((ROOT/'project.json').read_text())
+VERSION=CONFIG['target_pack_version']
+ARCHIVE=ROOT/f'dist/FTB-Evolution-2-{VERSION}-CFPA-Reviewed-zh_CN.zip'
 LANG_FILES=['primary.json','witchery.json','mods.json','remaining-a.json','remaining-b.json','group-labels.json']
 
 
@@ -52,7 +54,7 @@ def put(value,path,text):
 
 def compile_overlay():
     instance=read(GAME/'instance.json')
-    assert instance['version']=='1.4.0' and instance['mcVersion']=='26.1.2','Game version changed; reconcile the reviewed sources first'
+    assert instance['version']==VERSION==CONFIG['component_baselines']['cfpa_review'] and instance['mcVersion']=='26.1.2','Game version changed; reconcile the reviewed sources first'
     for source in read(BASE/'code-evidence/jar-manifest.json'):
         assert digest(Path(source['jar']).read_bytes())==source['sha256'],'Code evidence JAR changed; review the correction again'
     decisions=[]
@@ -69,12 +71,17 @@ def compile_overlay():
     english=langs['en_us']
     groups={r['key']:r for r in read(ROOT/'localization/reports/remaining-1.4.0-group-labels.json')['rows']}
     scope=read(ROOT/'localization/language_scope.json')
+    preserved=read(BASE/'preserved-excluded.json')
+    for path,expected_hash in preserved['source_snapshots'].items():
+        assert digest((ROOT/path).read_bytes())==expected_hash, 'Preserved scope snapshot changed'
     outputs={};language=collections.defaultdict(dict);accepted=[];exceptions=[]
     for d in decisions:
         if d['status']!='accepted':continue
         ns=d['namespace'];domain=d.get('resource_domain','lang')
         assert re.fullmatch(r'[a-z0-9_.-]+',ns) and ns not in {'.','..'} and domain in {'lang','group_lang'},identity(d)
-        assert ns not in scope['excluded_namespaces'] and not any(ns.startswith(p) for p in scope['excluded_namespace_prefixes']),ns
+        excluded=ns in scope['excluded_namespaces'] or any(ns.startswith(p) for p in scope['excluded_namespace_prefixes'])
+        if excluded:
+            assert preserved['reason'] and preserved['entries'].get(ns+':'+d['key'])=={'english':d['english'],'chinese':d['chinese']}, ('Excluded scope expanded or changed',ns,d['key'])
         if domain=='group_lang':assert d['key'] in groups and groups[d['key']]['english']==d['english'],identity(d)
         else:assert english.get(d['key'])==d['english'],('Current English changed',identity(d))
         errors=set(invariant_errors(d['english'],d['chinese']))
@@ -165,7 +172,7 @@ def compile_overlay():
     outputs['ATTRIBUTION.md']=('\n'.join(attribution)+'\n').encode()
     source_manifest=BASE/'inputs/manual-source-manifest.json'
     if source_manifest.exists():assert read(source_manifest)==manual_sources,'Manual source snapshot changed; reconcile before rebuilding'
-    stats={'target_pack':'1.4.0','language_keys':sum(len(v) for k,v in language.items() if '/lang/' in k),'group_labels':sum(len(v) for k,v in language.items() if '/group_lang/' in k),'language_decisions':dict(collections.Counter(d['status'] for d in decisions)),'manual_decisions':dict(collections.Counter(d['status'] for d in manual)),'manual_accepted_units':dict(manual_counts),'patchouli_output_documents':len(patchouli),'resource_files':len(outputs),'validation_exceptions':exceptions,'in_game_tested':False,'installed_to_game':False}
+    stats={'target_pack':VERSION,'language_keys':sum(len(v) for k,v in language.items() if '/lang/' in k),'group_labels':sum(len(v) for k,v in language.items() if '/group_lang/' in k),'language_decisions':dict(collections.Counter(d['status'] for d in decisions)),'manual_decisions':dict(collections.Counter(d['status'] for d in manual)),'manual_accepted_units':dict(manual_counts),'patchouli_output_documents':len(patchouli),'resource_files':len(outputs),'validation_exceptions':exceptions,'in_game_tested':False,'installed_to_game':False}
     manifest={'stats':stats,'files':{k:digest(v) for k,v in sorted(outputs.items())},'reviewed_decisions_sha256':{name:digest((BASE/'decisions'/name).read_bytes()) for name in LANG_FILES+['manuals.json']},'manual_sources':manual_sources}
     return outputs,manifest,manual_sources
 

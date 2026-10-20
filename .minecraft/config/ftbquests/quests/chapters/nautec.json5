@@ -294,7 +294,6 @@
       y: 0.0,
       shape: "diamond",
       dependencies: [
-        "3D2B05F88D95FA3C",
         "2913824ED3340F93",
       ],
       size: 2.0,
@@ -674,6 +673,9 @@
       x: -2.5,
       y: -2.5,
       shape: "diamond",
+      dependencies: [
+        "77FFEC3A2289F5C2",
+      ],
       size: 2.0,
       optional: true,
       can_repeat: false,
@@ -1978,6 +1980,11 @@
           item: {
             id: "nautec:rusty_crate",
             count: 1,
+            components: {
+              "minecraft:container_loot": {
+                loot_table: "nautec:chests/geode_rusty_crate",
+              },
+            },
           },
           count: 2,
         },

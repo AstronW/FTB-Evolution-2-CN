@@ -1,11 +1,11 @@
 {
   "stats": {
-    "target_pack": "1.4.0",
-    "language_keys": 7304,
+    "target_pack": "1.4.1",
+    "language_keys": 7303,
     "group_labels": 76,
     "language_decisions": {
-      "accepted": 7380,
-      "rejected": 175
+      "accepted": 7379,
+      "rejected": 176
     },
     "manual_decisions": {
       "accepted": 713,
@@ -369,7 +369,7 @@
     "assets/iceandfire/lang/zh_cn.json": "57080397f41aea8b40361c9152b8c13e4c8882f15ad54642515f4eb226818124",
     "assets/integrateddynamics/lang/zh_cn.json": "5acf9e4e9bd0c312931d37c14a4e2f766384873934fb3e8dde4a30698f1b9b6a",
     "assets/integrateddynamicscompat/lang/zh_cn.json": "030e195c1aebd6fa0e2c9295f6d0a7b33ed9ad78a70d949c1cf42d3d89602501",
-    "assets/integratedterminals/lang/zh_cn.json": "80bf18cc040ed3a1cffde0477f1f8503e27f261e290b652b8eb98228152c4f16",
+    "assets/integratedterminals/lang/zh_cn.json": "6ac4f5320f01142e914582f5240257608d11e194e68ead04b29a3b6928d0223d",
     "assets/integratedterminalscompat/lang/zh_cn.json": "ca4262bf3e669b2f274a17a5abf3609dedb39d019a88e86a142f831ae39c5a1b",
     "assets/integratedtunnels/lang/zh_cn.json": "712582b9d1aca4b26978c4e10c095c219450294eb19d69716ef544663640fca0",
     "assets/inventoryessentials/lang/zh_cn.json": "b3c2805c68f41c4a05169b6e9c5514c54153510c1bbea071506d951af46a5eba",
@@ -583,7 +583,7 @@
     "witchery.json": "0d44c6f9b607dc86d9b9e48ca313f19dcc7839661460f01b6252ff900cdacbbc",
     "mods.json": "ba17c6e0a8eee5f47f3d74ebc3d48808809f709724f6b906a278c18d8341ba7b",
     "remaining-a.json": "937d448fbe1ed7eb6e81b6358bfffbfbfca573baa0a7e402f89eebc435919800",
-    "remaining-b.json": "3c488e979745cd5207043adf6097a3a0db81f5a7c56457b7340779ebd536b5cf",
+    "remaining-b.json": "7cd260388ac94c08f21eb2129dbbef1a075106c3269beb77627744ea915719b9",
     "group-labels.json": "ed2ad9a706c64251767b8a7f2e9df317f372a027da2f68a95f042d4741be8536",
     "manuals.json": "dd7379e702e919455fca15f3d5b896335d3273db2fae26abe179a36d43fd7a1a"
   },
@@ -2013,5 +2013,5 @@
       "sha256_lf": "745d078a51abb537cba1299fb8a50b905469970ff17c325dda30ffa72a6d6eeb"
     }
   },
-  "archive_content_sha256": "0388bf64eaa6fc352fffdfd29c32cd0d19d140983606d83e6ef7dd6176f8f34b"
+  "archive_content_sha256": "c1ffa21eb1f9eaf8e12182fe626ea1bc40c48edf754b51fb71dff562d3b0c1b5"
 }

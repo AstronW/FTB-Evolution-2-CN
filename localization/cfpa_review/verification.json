@@ -1,8 +1,8 @@
 {
   "status": "passed",
-  "build_manifest_sha256": "8886b7723b3ba42cee5bcb3dd439550881e54565105a89ff7b9420a4d2aafd9a",
+  "build_manifest_sha256": "5b5cc20f15c6166a9612713dbafe5a7e63a49c2f7041bf94ca5b3387bb171a8b",
   "json_files": 259,
-  "global_language_keys": 7304,
+  "global_language_keys": 7303,
   "patchouli_documents_with_current_source_structure": 151,
   "manual_documents": 205,
   "manual_fields": 508,

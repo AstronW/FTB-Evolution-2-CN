@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "333",
+  "namespace": "selling_bin",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 43,
+  "source_sha256": "db138afabc70d04ccce957d8ad6a65c2bd041c24f5b1d3342dfb303163b11fd5",
+  "in_game_tested": false
+}

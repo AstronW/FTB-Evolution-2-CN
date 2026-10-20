@@ -1,0 +1,42 @@
+[
+  {
+    "path": "assets/ltxi/guides/ltxi/guide/tools.md",
+    "reason": "Native Chinese is shorter and omits pack-specific upgrade instructions; retain current KubeJS components and update prose.",
+    "term_source": "Current LTXI 2.4.0 native zh_cn item/upgrade names, preserving weapon IDs and recipe components."
+  },
+  {
+    "path": "assets/ltxi/guides/ltxi/guide/weapons/aurora.md",
+    "reason": "Native Chinese is shorter and omits pack-specific upgrade instructions; retain current KubeJS components and update prose.",
+    "term_source": "Current LTXI 2.4.0 native zh_cn item/upgrade names, preserving weapon IDs and recipe components."
+  },
+  {
+    "path": "assets/ltxi/guides/ltxi/guide/weapons/daybreak.md",
+    "reason": "Native Chinese is shorter and omits pack-specific upgrade instructions; retain current KubeJS components and update prose.",
+    "term_source": "Current LTXI 2.4.0 native zh_cn item/upgrade names, preserving weapon IDs and recipe components."
+  },
+  {
+    "path": "assets/ltxi/guides/ltxi/guide/weapons/hanabi.md",
+    "reason": "Native Chinese is shorter and omits pack-specific upgrade instructions; retain current KubeJS components and update prose.",
+    "term_source": "Current LTXI 2.4.0 native zh_cn item/upgrade names, preserving weapon IDs and recipe components."
+  },
+  {
+    "path": "assets/ltxi/guides/ltxi/guide/weapons/mirage.md",
+    "reason": "Native Chinese is shorter and omits pack-specific upgrade instructions; retain current KubeJS components and update prose.",
+    "term_source": "Current LTXI 2.4.0 native zh_cn item/upgrade names, preserving weapon IDs and recipe components."
+  },
+  {
+    "path": "assets/ltxi/guides/ltxi/guide/weapons/nova.md",
+    "reason": "Native Chinese is shorter and omits pack-specific upgrade instructions; retain current KubeJS components and update prose.",
+    "term_source": "Current LTXI 2.4.0 native zh_cn item/upgrade names, preserving weapon IDs and recipe components."
+  },
+  {
+    "path": "assets/ltxi/guides/ltxi/guide/weapons/serenity.md",
+    "reason": "Native Chinese is shorter and omits pack-specific upgrade instructions; retain current KubeJS components and update prose.",
+    "term_source": "Current LTXI 2.4.0 native zh_cn item/upgrade names, preserving weapon IDs and recipe components."
+  },
+  {
+    "path": "assets/ltxi/guides/ltxi/guide/weapons/stargazer.md",
+    "reason": "Native Chinese is shorter and omits pack-specific upgrade instructions; retain current KubeJS components and update prose.",
+    "term_source": "Current LTXI 2.4.0 native zh_cn item/upgrade names, preserving weapon IDs and recipe components."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": "entity.magicparticleslib.branching_rift",
+    "new": "Branching Rift",
+    "english": "Branching Rift",
+    "namespace": "magicparticleslib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/magicparticleslib-26.1.2-neoforge-1.4.0.jar",
+    "path": "assets/magicparticleslib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "分支裂隙",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "entity.magicparticleslib.rift",
+    "new": "Rift",
+    "english": "Rift",
+    "namespace": "magicparticleslib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar!META-INF/jarjar/magicparticleslib-26.1.2-neoforge-1.4.0.jar",
+    "path": "assets/magicparticleslib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "裂隙",
+    "review_reason": "Current source reviewed manual translation"
+  }
+]

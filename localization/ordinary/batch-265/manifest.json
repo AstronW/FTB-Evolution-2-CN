@@ -1,7 +1,7 @@
 {
   "batch": "265",
   "namespace": "titanium",
-  "jar": ".minecraft/mods/titanium-26.1.2-4.0.12.jar",
+  "jar": ".minecraft/mods/titanium-26.1.2-4.0.13.jar",
   "language_path": "assets/titanium/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/titanium/lang/zh_cn.json",
   "include_keys": [

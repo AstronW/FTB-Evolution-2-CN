@@ -1,0 +1,475 @@
+[
+  {
+    "key": "item.productivelib.upgrade_adult",
+    "new": "Upgrade: AdultBee",
+    "english": "Upgrade: AdultBee",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：成年蜂",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 成年蜂",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_base",
+    "new": "Upgrade Base",
+    "english": "Upgrade Base",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级基板",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级基板",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_biome",
+    "new": "Upgrade: Biome",
+    "english": "Upgrade: Biome",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：生物群系",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 生物群系",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_block",
+    "new": "Upgrade: Block",
+    "english": "Upgrade: Block",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：蜜脾块",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 方块",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse; adapt shared-library block scope"
+  },
+  {
+    "key": "item.productivelib.upgrade_child",
+    "new": "Upgrade: BaBee",
+    "english": "Upgrade: BaBee",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：幼年蜂",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 幼年蜂",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_entity_filter",
+    "new": "Upgrade: Filter",
+    "english": "Upgrade: Filter",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：过滤",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 过滤",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_gene_sampler",
+    "new": "Upgrade: Pokey pokey gene sampler",
+    "english": "Upgrade: Pokey pokey gene sampler",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：基因采样器",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 基因采样器",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_pollen_sieve",
+    "new": "Upgrade: Pollen Sieve",
+    "english": "Upgrade: Pollen Sieve",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：花粉筛",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 花粉筛",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_productivity",
+    "new": "Upgrade: Productivity Alpha",
+    "english": "Upgrade: Productivity Alpha",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：产量α",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 产量α",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_productivity_2",
+    "new": "Upgrade: Productivity Beta",
+    "english": "Upgrade: Productivity Beta",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：产量β",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 产量β",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_productivity_3",
+    "new": "Upgrade: Productivity Gamma",
+    "english": "Upgrade: Productivity Gamma",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：产量γ",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 产量γ",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_productivity_4",
+    "new": "Upgrade: Productivity Omega",
+    "english": "Upgrade: Productivity Omega",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：产量ω",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 产量ω",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_range",
+    "new": "Upgrade: Range",
+    "english": "Upgrade: Range",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：范围",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 范围",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_simulator",
+    "new": "Upgrade: Simulator",
+    "english": "Upgrade: Simulator",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：模拟",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 模拟",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_stability",
+    "new": "Upgrade: Stability",
+    "english": "Upgrade: Stability",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：稳定",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 稳定",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_time",
+    "new": "Upgrade: Speed",
+    "english": "Upgrade: Speed",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：速度",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 速度",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "item.productivelib.upgrade_time_2",
+    "new": "Upgrade: Speedier",
+    "english": "Upgrade: Speedier",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "升级：速度+",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "升级: 速度+",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "productivelib.information.upgrade.extend",
+    "new": "Hold [SHIFT] for more info",
+    "english": "Hold [SHIFT] for more info",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "按住[SHIFT]以查看更多信息",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "按住[SHIFT]以查看更多信息",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "productivelib.information.upgrade.install_help",
+    "new": "Sneak right click on valid block to install or insert through the GUI",
+    "english": "Sneak right click on valid block to install or insert through the GUI",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "潜行右击有效方块以安装，或在方块界面中放入",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "潜行右击有效方块以安装, 或在方块界面中放入",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "productivelib.information.upgrade.upgrade_entity_filter.clear",
+    "new": "To clear the filter, put it in the crafting grid.",
+    "english": "To clear the filter, put it in the crafting grid.",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "要清除过滤器的内容，请将其放入合成方格中。",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "要清除过滤器的内容, 请将其放入合成方格中.",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "productivelib.information.upgrade.upgrade_entity_filter.empty",
+    "new": "Right click entities to add them to the filter.",
+    "english": "Right click entities to add them to the filter.",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "右击实体来将其添加到过滤器。",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "右击实体来将其添加到过滤器.",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "productivelib.information.upgrade.upgrade_entity_filter.list_header",
+    "new": "Entities:",
+    "english": "Entities:",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "实体：",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "实体:",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "productivelib.information.upgrade.upgrade_entity_filter.list_item",
+    "new": " - %s",
+    "english": " - %s",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": " - %s",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  },
+  {
+    "key": "productivelib.information.upgrade.valid_blocks.list_header",
+    "new": "Valid blocks:",
+    "english": "Valid blocks:",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [
+      {
+        "chinese": "适用方块：",
+        "kind": "cfpa",
+        "version": "1.21",
+        "path": "/home/astronw/Projects/FTB-Evolution-2-CN/CFPA/projects/assets/1UNKNOWN/1.21/productivelib/lang/zh_cn.json"
+      }
+    ],
+    "translation": "适用方块:",
+    "review_reason": "Reviewed exact-English cross-version CFPA reuse"
+  },
+  {
+    "key": "productivelib.information.upgrade.valid_blocks.list_item",
+    "new": " - %s",
+    "english": " - %s",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": " - %s",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  },
+  {
+    "key": "productivelib.information.upgrade.valid_blocks.list_item_content",
+    "new": "   %s",
+    "english": "   %s",
+    "namespace": "productivelib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar!META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+    "path": "assets/productivelib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "   %s",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  }
+]

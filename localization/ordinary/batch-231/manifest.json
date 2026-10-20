@@ -1,7 +1,7 @@
 {
   "batch": "231",
   "namespace": "reliquary",
-  "jar": ".minecraft/mods/reliquary-26.1.2-2.0.92.1563.jar",
+  "jar": ".minecraft/mods/reliquary-26.1.2-2.0.93.1581.jar",
   "language_path": "assets/reliquary/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/reliquary/lang/zh_cn.json",
   "include_keys": [

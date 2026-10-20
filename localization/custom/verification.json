@@ -43,11 +43,11 @@
     },
     {
       "namespace": "ftb",
-      "source_keys": 1160,
-      "existing_keys": 1198,
+      "source_keys": 1163,
+      "existing_keys": 1201,
       "added_keys": 0,
       "missing": 0,
-      "sha256": "7c7e0d1a19216a797d64e060e2b6160850e440d20462d026312debf5b7fbd916"
+      "sha256": "5b5b2005ff72034ca8b8761870ae48bb03408cce4622f68698881493490aa46d"
     },
     {
       "namespace": "ftb_custom",
@@ -116,7 +116,7 @@
     {
       "namespace": "productivebees",
       "source_keys": 2,
-      "existing_keys": 29,
+      "existing_keys": 42,
       "added_keys": 0,
       "missing": 0,
       "sha256": "7c0fd34a5bcb13211ba149f40733b56df8fe52c597047dd837ab05acdda4e8ea"
@@ -162,8 +162,8 @@
       "sha256": "bec3d18a1e600f8d223666f44d00c7a41c5d4c449e8d59719125dd5fbade5625"
     }
   ],
-  "total_source_keys": 1449,
-  "verified_scope_keys": 1447,
+  "total_source_keys": 1452,
+  "verified_scope_keys": 1450,
   "deferred_manual_keys": [
     "book.witchery.guidebook.ritual.summon_coven_witch.description",
     "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch.text"

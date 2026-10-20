@@ -1,0 +1,50 @@
+[
+  {
+    "key": "key.keyboard.modifier.alt",
+    "new": "Alt",
+    "english": "Alt",
+    "namespace": "kuma_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar!META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+    "path": "assets/kuma_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "Alt",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  },
+  {
+    "key": "key.keyboard.modifier.control",
+    "new": "Control",
+    "english": "Control",
+    "namespace": "kuma_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar!META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+    "path": "assets/kuma_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "Control",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  },
+  {
+    "key": "key.keyboard.modifier.shift",
+    "new": "Shift",
+    "english": "Shift",
+    "namespace": "kuma_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar!META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+    "path": "assets/kuma_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "Shift",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  },
+  {
+    "key": "key.keyboard.modifiers",
+    "new": "%s + %s",
+    "english": "%s + %s",
+    "namespace": "kuma_api",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar!META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+    "path": "assets/kuma_api/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "%s + %s",
+    "review_reason": "Reviewed name, format, key label or command syntax"
+  }
+]

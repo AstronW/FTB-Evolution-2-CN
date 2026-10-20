@@ -1,0 +1,24 @@
+{
+  "batch": "068",
+  "namespace": "quantumcubes",
+  "jar": ".minecraft/mods/quantumcubes-neoforge-26.1.2-1.0.3.jar",
+  "language_path": "assets/quantumcubes/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/quantumcubes/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.quantumcubes",
+    "block.quantumcubes.quantum_cube_tier_1",
+    "block.quantumcubes.quantum_cube_tier_2",
+    "block.quantumcubes.quantum_cube_tier_3",
+    "block.quantumcubes.quantum_cube_tier_4",
+    "block.quantumcubes.quantum_cube_tier_5",
+    "block.quantumcubes.quantum_block",
+    "item.quantumcubes.quantum_remote",
+    "tooltip.quantumcubes.interior",
+    "tooltip.quantumcubes.desc",
+    "tooltip.quantumcubes.bound",
+    "tooltip.quantumcubes.enter",
+    "gui.quantumcubes.dim_missing"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

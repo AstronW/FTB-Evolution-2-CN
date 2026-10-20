@@ -1,0 +1,29 @@
+{
+  "batch": "165",
+  "namespace": "gateways",
+  "jar": ".minecraft/mods/GatewaysToEternity-26.1.2-6.0.2.jar",
+  "language_path": "assets/gateways/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/gateways/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.gateways.with_count",
+    "tooltip.gateways.dot_with_count",
+    "tooltip.gateways.dot",
+    "tooltip.gateways.shift",
+    "tooltip.gateways.ctrl",
+    "tooltip.gateways.alt",
+    "reward.gateways.stack",
+    "gateways.iron_automaton",
+    "gateways.endless/automaton_fabricator",
+    "name.gateways.iron_sentinel",
+    "name.gateways.iron_juggernaut"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s %s",
+    "• %s %s",
+    "• %s",
+    "[shift]",
+    "[ctrl]",
+    "[alt]"
+  ]
+}

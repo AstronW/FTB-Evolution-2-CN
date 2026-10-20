@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "326",
+  "namespace": "magicparticleslib",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "b199308dbb7ee42194789852090099e168dfc0a51022bd7e484ac4bc917d9d65",
+  "in_game_tested": false
+}

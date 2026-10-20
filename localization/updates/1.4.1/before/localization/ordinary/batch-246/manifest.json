@@ -1,0 +1,24 @@
+{
+  "batch": "246",
+  "namespace": "armor_cosmetic",
+  "jar": ".minecraft/mods/armor_cosmetic-26.1.2-neoforge-1.1.2.jar",
+  "language_path": "assets/armor_cosmetic/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/armor_cosmetic/lang/zh_cn.json",
+  "include_keys": [
+    "cos.gui.tooltip.buttonnormal",
+    "cos.config.CosArmorGuiButton_Hidden",
+    "cos.config.CosArmorGuiButton_Left",
+    "cos.config.CosArmorGuiButton_Top",
+    "cos.config.CosArmorToggleButton_Hidden",
+    "cos.config.CosArmorToggleButton_Left",
+    "cos.config.CosArmorToggleButton_Top",
+    "cos.config.CosArmorCreativeGuiButton_Hidden",
+    "cos.config.CosArmorCreativeGuiButton_Left",
+    "cos.config.CosArmorCreativeGuiButton_Top",
+    "cos.config.CosArmorKeepThroughDeath",
+    "cos.config.CosArmorDisableRecipeBook",
+    "cos.config.CosArmorDisableCosHatCommand"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

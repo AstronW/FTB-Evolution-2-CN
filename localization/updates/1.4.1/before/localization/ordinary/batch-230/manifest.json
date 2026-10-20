@@ -1,0 +1,12 @@
+{
+  "batch": "230",
+  "namespace": "hugestructureblocks",
+  "jar": ".minecraft/mods/huge-structure-blocks-neoforge-1.1.9.jar",
+  "language_path": "assets/hugestructureblocks/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/hugestructureblocks/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.hugestructureblocks.structure_items"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

@@ -1,0 +1,17 @@
+{
+  "batch": "079",
+  "namespace": "dimstorage",
+  "jar": ".minecraft/mods/DimStorage-26.1.2-10.0.1.jar",
+  "language_path": "assets/dimstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/dimstorage/lang/zh_cn.json",
+  "include_keys": [
+    "config.jade.plugin_dimstorage.dim_block_base",
+    "config.jade.plugin_dimstorage.dim_tank",
+    "message.dimstorage.bind_dimchest",
+    "message.dimstorage.for_details",
+    "message.dimstorage.hold",
+    "message.dimstorage.press"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

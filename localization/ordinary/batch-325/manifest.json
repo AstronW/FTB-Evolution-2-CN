@@ -1,0 +1,31 @@
+{
+  "batch": "325",
+  "namespace": "ltxi",
+  "jar": ".minecraft/mods/ltxi-26.1.2-2.4.0.jar",
+  "jar_sha256": "4043e3020f197820075245b1d05ec8e694286962114edebf67406ade1837473b",
+  "language_path": "assets/ltxi/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ltxi/lang/zh_cn.json",
+  "include_keys": [
+    "death.attack.ltxi.acid",
+    "death.attack.ltxi.cryo",
+    "death.attack.ltxi.electric",
+    "death.attack.ltxi.electric_turret",
+    "death.attack.ltxi.electric_turret.noAttacker",
+    "death.attack.ltxi.explosive",
+    "death.attack.ltxi.explosive_turret",
+    "death.attack.ltxi.explosive_turret.noAttacker",
+    "death.attack.ltxi.flame",
+    "death.attack.ltxi.gloom_gas",
+    "death.attack.ltxi.railgun_turret.noAttacker",
+    "entity.ltxi.bomblet",
+    "grenade_type.ltxi.sparkler",
+    "subtitle.ltxi.bomblet_explode",
+    "subtitle.ltxi.bomblet_prime",
+    "subtitle.ltxi.sparkler_shell_impact",
+    "death.attack.ltxi.lightfrag",
+    "death.attack.ltxi.railgun_turret"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1"
+}

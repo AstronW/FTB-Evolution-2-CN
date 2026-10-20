@@ -1,7 +1,7 @@
 {
   "batch": "007",
   "namespace": "ftbevolutioncompanion",
-  "jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.22.jar",
+  "jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.23.jar",
   "language_path": "assets/ftbevolutioncompanion/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/ftbevolutioncompanion/lang/zh_cn.json",
   "context_overrides": {},

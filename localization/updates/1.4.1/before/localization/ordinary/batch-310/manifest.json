@@ -1,0 +1,13 @@
+{
+  "batch": "310",
+  "namespace": "witchery",
+  "jar": ".minecraft/mods/witchery-0.5.22+mc26.1.2.jar",
+  "language_path": "assets/witchery/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/witchery/lang/zh_cn.json",
+  "include_keys": [
+    "book.witchery.guidebook.general.voodoo_poppet.description",
+    "book.witchery.guidebook.symbology.wrest_free.description"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

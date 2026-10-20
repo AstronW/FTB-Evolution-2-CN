@@ -1,7 +1,7 @@
 {
   "batch": "037",
   "namespace": "neosync",
-  "jar": ".minecraft/mods/NeoSync-26.1.2-1.7.2.jar",
+  "jar": ".minecraft/mods/NeoSync-26.1.2-1.7.3.jar",
   "language_path": "assets/neosync/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/neosync/lang/zh_cn.json",
   "include_keys": [

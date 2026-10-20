@@ -1,7 +1,7 @@
 {
   "batch": "076",
   "namespace": "integratedterminals",
-  "jar": ".minecraft/mods/integratedterminals-26.1.2-neoforge-1.10.0.jar",
+  "jar": ".minecraft/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
   "language_path": "assets/integratedterminals/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/integratedterminals/lang/zh_cn.json",
   "include_keys": [

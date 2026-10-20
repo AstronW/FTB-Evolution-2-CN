@@ -1,0 +1,31 @@
+{
+  "batch": "337",
+  "namespace": "trender",
+  "jar": ".minecraft/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar",
+  "jar_sha256": "7a14c25ca050c92909ed7f753a18f63a1993c501a8124658a43c25a8525f8ae0",
+  "language_path": "assets/trender/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/trender/lang/zh_cn.json",
+  "include_keys": [
+    "text.trender.name",
+    "text.trender.sendstacktraces",
+    "text.trender.sendstacktraces.tooltip",
+    "text.trender.style",
+    "text.trender.style.MODERN",
+    "text.trender.style.MODERN_DARK",
+    "text.trender.style.VANILLA_MODERN",
+    "text.trender.style.VANILLA_OLD",
+    "text.trender.style.tooltip",
+    "text.trender.tab.general_options"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Trender"
+  ],
+  "target_pack_version": "1.4.1",
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+      "sha256": "fceec91616113c7e107f17e2443350f2b824e8d9401a0d785fc0e88113f38ac5"
+    }
+  ]
+}

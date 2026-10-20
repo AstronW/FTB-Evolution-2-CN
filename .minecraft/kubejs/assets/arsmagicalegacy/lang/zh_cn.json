@@ -1618,5 +1618,6 @@
   "item.arsmagicalegacy.arcane_compendium.shapes.touch.page0.text": "把魔力裹在手上, 伸出手去.$(br2)触碰是射程极短的形态, 它不跟随方块高亮.要生效, 你几乎得贴到目标身上.",
   "item.arsmagicalegacy.arcane_compendium.shapes.wall.page0.text": "你可以在身前显现一道墙.$(br2)墙的运作方式与$(l:shapes/zone)区域$()相似, 只是形态不同.",
   "item.arsmagicalegacy.arcane_compendium.shapes.wave.page0.text": "你可以向前投射一道魔法波, 让它向前滚动, 对沿途的一切施加效果.",
-  "item.arsmagicalegacy.arcane_compendium.shapes.zone.page0.text": "你学会了把意志凝聚成一片会持续一段时间范围效果."
+  "item.arsmagicalegacy.arcane_compendium.shapes.zone.page0.text": "你学会了把意志凝聚成一片会持续一段时间范围效果.",
+  "tag.item.arsmagicalegacy.spell_books": "法术书"
 }

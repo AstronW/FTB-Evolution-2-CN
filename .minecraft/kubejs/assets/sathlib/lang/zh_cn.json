@@ -1,0 +1,20 @@
+{
+  "formatting.sathlib.curly_brackets": "{%s}",
+  "formatting.sathlib.round_brackets": "(%s)",
+  "formatting.sathlib.square_brackets": "[%s]",
+  "generic.sathlib.all": "全部",
+  "generic.sathlib.allow": "允许",
+  "generic.sathlib.allowed": "已允许",
+  "generic.sathlib.any": "任意",
+  "generic.sathlib.denied": "已拒绝",
+  "generic.sathlib.deny": "拒绝",
+  "generic.sathlib.disabled": "已禁用",
+  "generic.sathlib.enabled": "已启用",
+  "generic.sathlib.none": "无",
+  "generic.sathlib.off": "关",
+  "generic.sathlib.on": "开",
+  "generic.sathlib.supported": "支持",
+  "generic.sathlib.unsupported": "不支持",
+  "input.sathlib.wheel.down": "滚轮向下",
+  "input.sathlib.wheel.up": "滚轮向上"
+}

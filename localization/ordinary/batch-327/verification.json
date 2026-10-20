@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "327",
+  "namespace": "mezz_config",
+  "source_keys": 18,
+  "unique_values": 18,
+  "chinese_values": 18,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 18,
+  "source_sha256": "0ae4fabb8a9660c4494f586d1c3bdbea31fcddf76a75460a3560e9bc804f071f",
+  "in_game_tested": false
+}

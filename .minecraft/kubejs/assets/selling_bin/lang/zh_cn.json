@@ -40,5 +40,6 @@
   "gui.selling_bin.card_slot": "钱币银行卡",
   "item.selling_bin.selling_bin": "收购箱",
   "item.minecraft.emerald.plural": "绿宝石",
-  "block.minecraft.emerald_block.plural": "绿宝石块"
+  "block.minecraft.emerald_block.plural": "绿宝石块",
+  "block.selling_bin.selling_bin": "售货箱"
 }

@@ -1,7 +1,7 @@
 {
   "batch": "157",
   "namespace": "ftbarmory",
-  "jar": ".minecraft/mods/ftb-armory-26.1.2.8.jar",
+  "jar": ".minecraft/mods/ftb-armory-26.1.2.10.jar",
   "language_path": "assets/ftbarmory/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/ftbarmory/lang/zh_cn.json",
   "include_keys": [

@@ -1,0 +1,16 @@
+{
+  "batch": "055",
+  "namespace": "computercraft",
+  "jar": ".minecraft/mods/cc-tweaked-26.1.2-forge-1.120.0.jar",
+  "language_path": "assets/computercraft/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/computercraft/lang/zh_cn.json",
+  "include_keys": [
+    "gui.computercraft.config.http",
+    "item.computercraft.pocket_computer_advanced.upgraded_twice",
+    "item.computercraft.pocket_computer_normal.upgraded_twice"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "HTTP"
+  ]
+}

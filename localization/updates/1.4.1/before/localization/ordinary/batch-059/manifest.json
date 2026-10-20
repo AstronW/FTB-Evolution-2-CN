@@ -1,0 +1,14 @@
+{
+  "batch": "059",
+  "namespace": "tesseract",
+  "jar": ".minecraft/mods/tesseract-1.0.39-neoforge-mc26.1.jar",
+  "language_path": "assets/tesseract/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/tesseract/lang/zh_cn.json",
+  "include_keys": [
+    "tesseract.tesseract.highlight.channel_info"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "  %1$s %2$s %3$s"
+  ]
+}

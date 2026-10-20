@@ -330,6 +330,48 @@ end
 所监视的方块. 需要按方块种类分支时, 可先调用`:block()`以
 确定当前检查的具体方块.
 
+### <a name="data" /> data
+
+以嵌套表返回所监视方块实体保存的数据; 若该方块没有实体, 则返回`nil`.
+这些数据就是方块写入磁盘的内容, 例如熔炉的
+燃烧与烧炼进度, 箱子中的物品, 机器的能量或配方状态.
+键名由模组决定, 因此需要先查看目标方块
+实际返回了哪些数据.
+
+<LuaCode>
+```lua
+local dat = network:get("reactorWatcher"):data()
+if dat and dat.heat > 75 then
+    network:get("reactorRedstoneCard"):set(false)
+end
+```
+</LuaCode>
+
+数字和字符串保持原样. NBT 没有布尔值, 因此标志位
+以`0`或`1`读取. 列表索引从 1 开始. 若一个方块保存的值
+超过 8192 个, 数据就会被截断, 并在表中设置`truncated = true`.
+
+每个方块最多每秒读取一次数据, 因此每刻轮询的
+开销很低, 但看到的数据可能是一秒前的. 方块被
+替换时会立即重新读取. 仅保存在内存中而从未写入磁盘的
+内容不会出现在返回值中.
+
+### <a name="energy" /> energy
+
+若方块有能量存储, 则返回一个`EnergyInfo`; 否则返回`nil`.
+它有`stored`和`capacity`两个字段, 单位采用加载器的能量
+单位(FE). 读取字段前应检查是否为`nil`, 编辑器会在
+缺少检查时发出警告. 与`:data()`不同, 此方法始终返回当前数据.
+
+<LuaCode>
+```lua
+local e = network:get("battery_watch"):energy()
+if e and e.stored < e.capacity * 0.1 then
+    network:get("generator_switch"):set(true) -- 设置变量
+end
+```
+</LuaCode>
+
 ### <a name="onChange" /> <a name="onchange" /> onChange
 
 注册回调, 在所监视方块ID或任一状态

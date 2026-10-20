@@ -1,0 +1,13 @@
+{
+  "batch": "229",
+  "namespace": "javd",
+  "jar": ".minecraft/mods/javd-neo-26.1.1.0+mc26.1.1.jar",
+  "language_path": "assets/javd/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/javd/lang/zh_cn.json",
+  "include_keys": [
+    "advancement.javd.enter_void_dimension",
+    "advancement.javd.enter_void_dimension.description"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

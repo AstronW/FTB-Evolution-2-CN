@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "317",
+  "namespace": "ae2addonlib",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 4,
+  "source_sha256": "2ea255e03c6e800750f90011148a2559b04090212fb881c1db0bfe718ee433c7",
+  "in_game_tested": false
+}

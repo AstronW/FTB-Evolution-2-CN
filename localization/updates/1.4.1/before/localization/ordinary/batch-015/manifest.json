@@ -1,0 +1,21 @@
+{
+  "batch": "015",
+  "namespace": "rootsclassic",
+  "jar": ".minecraft/mods/RootsClassic-26.1.2-1.6.7.jar",
+  "language_path": "assets/rootsclassic/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/rootsclassic/lang/zh_cn.json",
+  "context_overrides": {
+    "item.rootsclassic.dragons_eye.guide": "根源魔法的基础材料之一, 收获紫颂花时概率获得, 详见符文石板.",
+    "item.rootsclassic.infernal_bulb.guide": "根源魔法的基础材料之一, 收获地狱疣时概率获得, 详见符文石板.",
+    "item.rootsclassic.runic_focus.guide": "为仪式储存能量, 详见符文石板.",
+    "item.rootsclassic.verdant_sprig.guide": "根源魔法的基础材料之一, 收获作物时概率获得, 详见符文石板.",
+    "rootsclassic.gui.jei.category.mortar": "研磨",
+    "rootsclassic.research.ritual.wildwood_armor.page2title": "仪式: 野木头盔",
+    "rootsclassic.research.ritual.wildwood_armor.page3title": "仪式: 野木胸甲",
+    "rootsclassic.research.ritual.wildwood_armor.page4title": "仪式: 野木护腿",
+    "rootsclassic.research.ritual.wildwood_armor.page5title": "仪式: 野木靴子"
+  },
+  "unchanged_values": [
+    ""
+  ]
+}

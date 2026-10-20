@@ -39,7 +39,7 @@ navigation:
 
 | 机器 | 需要(默认) | 更强的光束加快什么 |
 |---|---|---|
-| [搅拌机](nautec:laser_chemistry/mixer.md) | 10 AP | 每个配方 |
+| [搅拌机](nautec:laser_chemistry/mixer.md) | 10 AP | 增加每周期加工次数, 每 10 AP 加工一次, 最多 64 次; 超过 640 AP 后缩短周期 |
 | [诱变机](nautec:aquatic_biology/mutator.md) | 10 AP | 变异尝试, 因此每分钟尝试次数更多 |
 | [培养机](nautec:aquatic_biology/incubator.md) | 20 AP | 生长周期, 以及每个周期消耗的营养 |
 | [细菌分析机](nautec:aquatic_biology/bacterial_analyzer.md) | 5 AP | 分析 |
@@ -52,6 +52,7 @@ navigation:
 | [强化站](nautec:laser_augmentation/augmentation_station.md) | 每个使用中的扩展单元 25 AP | 安装强化, 速度取决于最弱的扩展单元 |
 | [海洋侦察艇船坞](nautec:submarine/submarine_dock.md) | 20 AP | 为停靠的潜艇充能的速度 |
 | [深海排水口](nautec:laser_chemistry/drain.md) | 多于 20 AP | 每秒泵出的盐水量, 与光束成正比 |
+| [渗透过滤器](nautec:laser_chemistry/osmosis_filter.md) | 无 | 每 40 AP 使产水量翻倍 |
 
 **叠加.** 生物反应机先根据其菌落和升级算出所需值, 更强的光束随后在它们的速度升级之上加速. 升级使其以 ×1.5 运行的反应机, 若获得所需功率的四倍, 则以 ×3 运行. 更强的光束不会让菌落更快消耗营养, 因此这是纯粹的额外产量. 高级移植锚同理: 它把移植站的需求提高到 500 AP 并加快移植, 高于 500 AP 的光束会再次加速.
 

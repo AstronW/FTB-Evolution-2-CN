@@ -1,0 +1,13 @@
+{
+  "effective_overrides": [
+    {
+      "path": "animal_pen/guide_book/entries/animals/animal_parrot.json",
+      "reason": "Bind to current pack-corrected parrot spawn egg icon; display text reused."
+    },
+    {
+      "path": "productivebees/guide/entries/bees/worker/quarry.json",
+      "reason": "The installed reviewed Chinese already matches the pack block-copy description, so reuse it and bind the builder to the effective English override."
+    }
+  ],
+  "non_display_fields": "Chinese base adoption now touches visible fields only; current effective IDs, recipes, components and other strings are inherited from current English."
+}

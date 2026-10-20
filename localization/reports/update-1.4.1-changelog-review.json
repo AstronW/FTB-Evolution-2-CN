@@ -1,0 +1,323 @@
+{
+  "date": "2026-10-20",
+  "scope": "用户提供的 48 条更新日志与当前本地 1.4.1 资源交叉检查; 分类不表示逐项游戏内验证. 未打开日志中的 issue 链接, 不以未读 issue 内容作证据.",
+  "source": "update-1.4.1-changelog-source.txt",
+  "source_sha256": "ed5bf44e7632f25af8d0f6413b9d5d201bce57c90a2b91cf62c56d7c4697ca43",
+  "items": [
+    {
+      "index": 1,
+      "changelog": "Added Custom Nodeworks Coolant Blocks and Quest for them.",
+      "classification": "已包含于首次文本差异",
+      "review": "对应任务书新增 2 键及 ftb 语言新增 3 个冷却方块名称."
+    },
+    {
+      "index": 2,
+      "changelog": "Mystical Agriculture watering cans no longer work when used by fake players (machines and automation that act as a player)",
+      "classification": "新增源文语义矛盾",
+      "review": "新增勘误: 当前英文任务和中文仍称允许模拟玩家及点击器使用洒水壶, 与 fakePlayerWatering=false 冲突."
+    },
+    {
+      "index": 3,
+      "changelog": "Wonderland chestplate now also needs an Olivine Laser Engine, leggings 2 Logic Cores and boots 2 Impulse Driver Modules",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "已核对新版 ftb fabricating 配方: 胸甲 laser_tech_part x1, 护腿 logic_core x2, 靴子 impulse_tech_part x2; 中文护甲页未列出旧材料清单, 无须为此另写配方逻辑."
+    },
+    {
+      "index": 4,
+      "changelog": "Changed Blood Bullet Quest Description [#13726](https://github.com/ftbteam/ftb-modpack-issues/issues/13726)",
+      "classification": "已包含于首次文本差异",
+      "review": "已包含于既有 4 个任务书修改键, 血弹描述需要更新."
+    },
+    {
+      "index": 5,
+      "changelog": "Ars Magica Legacy late-game spells rebalanced so they are worth their cost compared to basic damage spells [#13721](https://github.com/ftbteam/ftb-modpack-issues/issues/13721)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "法术平衡涉及数据和配置; 不因数值变化改写通用术语."
+    },
+    {
+      "index": 6,
+      "changelog": "Ars Magica Legacy: Falling Star, Fire Rain and Blizzard mana cost 1000 -> 250 and burnout 500 -> 75 per cast (a cast used to take 1500 mana in total, it now takes 325)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "已核对 falling_star/fire_rain/blizzard 数据为 mana=250, burnout=75."
+    },
+    {
+      "index": 7,
+      "changelog": "Ars Magica Legacy: Daylight and Moonrise mana cost 2000 -> 400 and burnout 1000 -> 100 per cast",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "已核对 daylight/moonrise 数据为 mana=400, burnout=100."
+    },
+    {
+      "index": 8,
+      "changelog": "Ars Magica Legacy: Falling Star damage 6 -> 16",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "已核对配置 falling_star_damage=16.0."
+    },
+    {
+      "index": 9,
+      "changelog": "Ars Magica Legacy: Fire Rain and Blizzard damage per hit 2 -> 3 (they hit every quarter second while active)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "已核对配置 fire_rain_damage/blizzard_damage=3.0, tick_interval=5."
+    },
+    {
+      "index": 10,
+      "changelog": "Removed seven FTB Evolution Companion fixes for Ars Magica Legacy, Oritech, Crafting Station and Replication that the updated mods now include themselves",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "删除的 Companion 补丁属于运行逻辑; 重新绑定新 JAR, 不从旧版复制补丁."
+    },
+    {
+      "index": 11,
+      "changelog": "Removed 57 pack recipe and data overrides for Hephaestus, Witchery and Ars Magica Legacy that are now identical to what those mods ship",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "配方与数据覆盖由新版移除; 不因复用翻译恢复旧覆盖."
+    },
+    {
+      "index": 12,
+      "changelog": "Ars Magica Legacy: max mana and max burnout gained per magic level 25 -> 50, so a level 30 mage has 1650 of each instead of 925; mana regeneration grows with max mana. Existing characters get the new values at their next magic level up",
+      "classification": "已包含于首次文本差异",
+      "review": "已包含于既有 4 个任务书修改键, 魔力池每级 25->50."
+    },
+    {
+      "index": 13,
+      "changelog": "NeoVitae ore processing no longer makes its own Titanium, Platinum, Lapis, Sulfur, Novite, Niobium, Boron, Netherite Scrap, Iesnium, Soulium or Vinteum dust; the Athanor turns their gravel into the dust (or Lapis) the rest of the pack already uses",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "矿物统一与配方变化; 核对手册/配方组件引用, 不恢复旧材料注册或旧覆盖."
+    },
+    {
+      "index": 14,
+      "changelog": "NeoVitae ore processing now handles Desh",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "Desh 加工属于配方变化, 不直接计为新增待译正文."
+    },
+    {
+      "index": 15,
+      "changelog": "Ice and Fire Gorgon, Dread Knight, Hydra, and Cyclops now use trial spawners instead of one-time boss spawns [#13758](https://github.com/ftbteam/ftb-modpack-issues/issues/13758)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "刷怪方式变化; 后续语义验收检查实体说明, 保留新版结构数据."
+    },
+    {
+      "index": 16,
+      "changelog": "Removed impure chalks from quest requirements to match other chalk turn in quests [#13766](https://github.com/ftbteam/ftb-modpack-issues/issues/13766)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "任务物品条件变化; 保留新版任务结构, 不从旧版复制条件."
+    },
+    {
+      "index": 17,
+      "changelog": "Novite and Desh dust can now be smelted into ingots",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "粉末烧炼为配方变化, 由新版配方提供."
+    },
+    {
+      "index": 18,
+      "changelog": "Apotheosis World Tier requirements in Russian, German, Chinese and Spanish now say how much base Armor Toughness each armor piece needs, and the FTB Skyline and previous tier requirements are translated [#13735](https://github.com/ftbteam/ftb-modpack-issues/issues/13735)",
+      "classification": "项目已有覆盖",
+      "review": "本项目 batch-003 已处理基础盔甲韧性及 Skyline/前置等级条件; 当前上游中文有文字差异, 不整文件覆盖或重复计数."
+    },
+    {
+      "index": 19,
+      "changelog": "Welcome to Nautec no longer needs the optional Follow the Pearl quest; Follow the Pearl now opens after it instead [#13736](https://github.com/ftbteam/ftb-modpack-issues/issues/13736)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "任务前置变化, 已纳入任务结构变更范围."
+    },
+    {
+      "index": 20,
+      "changelog": "The LaserIO Item Card quest no longer needs the Energy Card quest, and the Fluid Conduit quest no longer needs the Redstone Conduit quest [#13738](https://github.com/ftbteam/ftb-modpack-issues/issues/13738)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "任务前置变化, 已纳入任务结构变更范围."
+    },
+    {
+      "index": 21,
+      "changelog": "Tools with the Apotheosis Aurichalcum Omnetic affix could not mine Aurichalcum Ore; they now can [#13742](https://github.com/ftbteam/ftb-modpack-issues/issues/13742)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "采掘能力修复, 不直接新增翻译."
+    },
+    {
+      "index": 22,
+      "changelog": "Typing letters with AltGr (such as ć) no longer opens FancyMenu's menu editor; its Ctrl+Alt shortcuts are turned off [#13743](https://github.com/ftbteam/ftb-modpack-issues/issues/13743)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "快捷键配置修复, 不把本机配置随汉化覆盖到实例."
+    },
+    {
+      "index": 23,
+      "changelog": "Witchery brooms can be steered and flown again (Witchery updated to 0.5.24) [#13750](https://github.com/ftbteam/ftb-modpack-issues/issues/13750)",
+      "classification": "实际版本/输入核对",
+      "review": "日志称 Witchery 0.5.24, 实际顶层 JAR 为 witchery-0.5.25+mc26.1.2.jar; 以实际输入为绑定依据."
+    },
+    {
+      "index": 24,
+      "changelog": "Game crashing when turning on High Contrast or changing resource packs while in a world near Ender IO conduits [#13731](https://github.com/ftbteam/ftb-modpack-issues/issues/13731)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "崩溃修复不直接新增翻译; 游戏内稳定性未验证."
+    },
+    {
+      "index": 25,
+      "changelog": "The Neo Vitae Spirit Powder quest no longer needs the Gearing Up Gun Modifiers quest, and Gun Modifiers now accepts any gun modifier instead of only a Scattershot Modifier [#13752](https://github.com/ftbteam/ftb-modpack-issues/issues/13752)",
+      "classification": "已包含于首次文本差异",
+      "review": "任务条件变化且新增 Any Gun Modifier 标签, 已计入 3 个新增键."
+    },
+    {
+      "index": 26,
+      "changelog": "Game freezing when shift-clicking an item into a Replication machine slot that does not accept it, such as a Memory Chip into the Identification Chamber or Redstone Blocks into the Disintegrator [#13712](https://github.com/ftbteam/ftb-modpack-issues/issues/13712)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "Replication 卡死修复, 未进行游戏内复现测试."
+    },
+    {
+      "index": 27,
+      "changelog": "Potatoes, Carrots and other crops with a Productive Farming yield stat dropping extra crops when broken before they are fully grown [#4756](https://github.com/ftbteam/ftb-modpack-issues/issues/4756)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "作物掉落修复, 不直接新增翻译."
+    },
+    {
+      "index": 28,
+      "changelog": "The EvilCraft Item Cleansing quest said the Purifier needs 1 bucket of blood and that items are thrown in; it now says disenchanting needs 3 buckets, removing a curse needs 1 bucket per level, and items are added by right-clicking the Purifier [#4755](https://github.com/ftbteam/ftb-modpack-issues/issues/4755)",
+      "classification": "已包含于首次文本差异",
+      "review": "已包含于既有 4 个任务书修改键, 净化器的 3 桶/1 桶血与交互说明须更新."
+    },
+    {
+      "index": 29,
+      "changelog": "Quest tasks for the Vein Sword, EvilCraft Broom, Integrated Dynamics Mono- and Omni-Directional Connectors and Roots Spell Powder not completing for items with enchantments or other data, such as a Vein Sword crafted with Looting II; any of these items now completes the task [#4753](https://github.com/ftbteam/ftb-modpack-issues/issues/4753)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "任务 NBT/组件匹配条件修复, 保留新版结构."
+    },
+    {
+      "index": 30,
+      "changelog": "Advanced AE Quantum Computer losing its in-progress crafting jobs, and the items in them, when you leave the world or the area unloads [#13660](https://github.com/ftbteam/ftb-modpack-issues/issues/13660)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "计算机任务保存修复, 不直接新增翻译; 未进行游戏内测试."
+    },
+    {
+      "index": 31,
+      "changelog": "Damage Reflection hurting players after every Apothic Gateways wave [#13692](https://github.com/ftbteam/ftb-modpack-issues/issues/13692)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "伤害反射修复, 不直接新增翻译."
+    },
+    {
+      "index": 32,
+      "changelog": "Cloud in a Bottle and the Athletics extra jump skills not stacking; each now gives its own extra jump [#13710](https://github.com/ftbteam/ftb-modpack-issues/issues/13710)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "跳跃效果叠加修复, 不直接新增翻译; 不改变技能逻辑."
+    },
+    {
+      "index": 33,
+      "changelog": "Advanced AE Wireless Quantum Crafter Terminal having no crafting recipe [#13711](https://github.com/ftbteam/ftb-modpack-issues/issues/13711)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "配方补齐, 不新增同名物品译名."
+    },
+    {
+      "index": 34,
+      "changelog": "Wonderland helmet, chestplate and leggings coming out of the FTB Fabricator as boots [#13714](https://github.com/ftbteam/ftb-modpack-issues/issues/13714)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "配方结果修复, 不通过翻译包恢复旧配方."
+    },
+    {
+      "index": 35,
+      "changelog": "AE2 Pattern Providers and pipes filling the FTB Fabricator's output tank and slots with ingredients [#13716](https://github.com/ftbteam/ftb-modpack-issues/issues/13716)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "输入输出插槽逻辑修复, 不直接新增翻译."
+    },
+    {
+      "index": 36,
+      "changelog": "Ars Magica Legacy Falling Star damaging the player who cast it; the caster is now spared, as its book page says [#13723](https://github.com/ftbteam/ftb-modpack-issues/issues/13723)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "法术自伤修复与既有手册描述相符, 不为此改写书中正确说明."
+    },
+    {
+      "index": 37,
+      "changelog": "Fixed Baubley Heart Canisters Fabricator Energy Costs",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "能量配方数值修复, 不改变翻译包中的配方逻辑."
+    },
+    {
+      "index": 38,
+      "changelog": "The Nautec Etching Acid quest's Rusty Crates were empty; they now hold loot when placed and opened [#13755](https://github.com/ftbteam/ftb-modpack-issues/issues/13755)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "奖励物品战利品组件修复, 保留新版任务结构."
+    },
+    {
+      "index": 39,
+      "changelog": "LTX Industries Material Press could not make Iron, Steel or Enderium Gears; it now presses them from 4 ingots, like its Titanium Gear [#13728](https://github.com/ftbteam/ftb-modpack-issues/issues/13728)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "压机配方修复, 保留新版有效配方; 手册组件后续随新版源核验."
+    },
+    {
+      "index": 40,
+      "changelog": "Fixed Typo in Replication Questline",
+      "classification": "已包含于首次文本差异",
+      "review": "已包含于既有 4 个修改键; ptinyd->prints, 现有中文译义可复用."
+    },
+    {
+      "index": 41,
+      "changelog": "All Hammers from Just Hammers are Finished in the Crafting Basin instead of Casting Table [#13610](https://github.com/ftbteam/ftb-modpack-issues/issues/13610)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "浇铸设备变化, 检索未发现 Just Hammers 专属旧浇铸台说明; 通用铸造台说明不全局替换为铸造盆."
+    },
+    {
+      "index": 42,
+      "changelog": "Fixed Missing Marble Recipes from Xycraft Worlds [#13764](https://github.com/ftbteam/ftb-modpack-issues/issues/13764)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "装饰方块配方修复, 不扩展建筑装饰模组专属翻译范围."
+    },
+    {
+      "index": 43,
+      "changelog": "Added Hand of Death and Death Sickle to ftb:scythes tag [#13762](https://github.com/ftbteam/ftb-modpack-issues/issues/13762)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "标签修复, 不改物品名称或游戏标签."
+    },
+    {
+      "index": 44,
+      "changelog": "Adamantite, Aeternium and Aurichalcum Furnaces and their upgrades missing from JEI and the Iron Furnaces creative tab [#13767](https://github.com/ftbteam/ftb-modpack-issues/issues/13767)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "JEI/创造栏注册修复, 不直接新增译名."
+    },
+    {
+      "index": 45,
+      "changelog": "PuffishSkills Athletics Ironclad and No Delay capstones being incorrectly positioned [#13756](https://github.com/ftbteam/ftb-modpack-issues/issues/13756)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "技能节点位置修复, 不改变汉化包中的技能数据."
+    },
+    {
+      "index": 46,
+      "changelog": "MOD: Wakes Reforged",
+      "classification": "实际版本/输入核对",
+      "review": "当前未发现 wakes 顶层 JAR, 对应旧源路径缺失; 不为通过检查重新安装旧模组."
+    },
+    {
+      "index": 47,
+      "changelog": "Farming for Blockheads Watering Can; it can no longer be crafted and is hidden from JEI. Use the Mystical Agriculture watering cans instead",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "配方与 JEI 隐藏变化; 当前洒水壶任务已引用 Mystical Agriculture, 不需要把名称替换成 Farming for Blockheads."
+    },
+    {
+      "index": 48,
+      "changelog": "Blazing Crystal and Spirited Crystal Mystical Agriculture seeds [#13709](https://github.com/ftbteam/ftb-modpack-issues/issues/13709)",
+      "classification": "保留新版逻辑/语义复核",
+      "review": "种子变动按日志核对, 搜索任务书未发现这两种种子的旧获取说明; 保留现有水晶名称, 不能连同蜜蜂路线一起删除."
+    }
+  ],
+  "evidence_sha256": {
+    "config/mysticalagriculture-common.toml": "c400fdeaf1537d18adc59b926d3912d4509dc96f7c7017dc7a23e8ffb305f400",
+    "config/arsmagicalegacy-server.toml": "a6c7719af76c32a578c10f0d01c94805a62130491557666c1b38e103e6fd0f5d",
+    "config/ftbquests/quests/lang/en_us/chapters/resource_generation.json5": "2fc398125a4351d340d2cdbb77a655344ce764b53304ebb1b9f652d8adcc4b50",
+    "kubejs/assets/apotheosis/lang/en_us.json": "9a10c0120b9828bdf7fb993abc48a10d4d78f981c8317924fb4e1ca1f7fe6744",
+    "kubejs/assets/apotheosis/lang/zh_cn.json": "e45a4cb22608d1e6b3788785838a0bb4acb4cb3cf03f1d5a9d5c9cb1c14d00be",
+    "datapacks/ftb/data/arsmagicalegacy/arsmagicalegacy/spell_part_data/falling_star.json": "4d4811df734304332d9b16d4cb6623800546a8e5fe00412af00fc9eea41565d7",
+    "datapacks/ftb/data/arsmagicalegacy/arsmagicalegacy/spell_part_data/fire_rain.json": "bad35a2a676adc4fc66a82dff378653261aae72581e9696f93948442be22d3a7",
+    "datapacks/ftb/data/arsmagicalegacy/arsmagicalegacy/spell_part_data/blizzard.json": "129cddb8c5dcc5da6531de51812c28dce9a67ff678af43e62856e28c6af88f15",
+    "datapacks/ftb/data/arsmagicalegacy/arsmagicalegacy/spell_part_data/daylight.json": "13087ed57d40576e2b5a23f4154d4cd4572ca95db7707c2535e8a4f40d1e5240",
+    "datapacks/ftb/data/arsmagicalegacy/arsmagicalegacy/spell_part_data/moonrise.json": "869ad64108acb94cbb62b8ea923ce7b87bcb09480efc6e06e571c0f713e92d78",
+    "datapacks/ftb/data/ftb/recipe/fabricating/wonderland_body.json": "7336322053c432636e528db12be3803991a1f3bc015647016eff1aff0aa44761",
+    "datapacks/ftb/data/ftb/recipe/fabricating/wonderland_legs.json": "45b945b23b6fcfbf7b70f30e00da489d42f6f74cddd3ec7c77d5bbd363281c30",
+    "datapacks/ftb/data/ftb/recipe/fabricating/wonderland_feet.json": "61a833b15c845c72ad2789d94acdb8296e175bc226100b282bddcf42c9e45105"
+  },
+  "additional_required_text_corrections": [
+    {
+      "key": "quest.1CFEC4265CAAA0D8.quest_desc",
+      "translation_path": "localization/translations/chapters/resource_generation.json",
+      "fragment": "140",
+      "current_config": "fakePlayerWatering = false",
+      "problem": "英文和中文仍称允许模拟玩家/点击器使用洒水壶",
+      "action": "单独记录英文勘误并适配中文; 不把没有英文字符差异视为可无条件复用."
+    }
+  ],
+  "in_game_tested": false,
+  "translation_or_instance_modified": false
+}

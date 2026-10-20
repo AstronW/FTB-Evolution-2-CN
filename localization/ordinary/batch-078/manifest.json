@@ -1,7 +1,7 @@
 {
   "batch": "078",
   "namespace": "sophisticatedcore",
-  "jar": ".minecraft/mods/sophisticatedcore-26.1.2-1.5.14.2408.jar",
+  "jar": ".minecraft/mods/sophisticatedcore-26.1.2-1.5.14.2409.jar",
   "language_path": "assets/sophisticatedcore/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/sophisticatedcore/lang/zh_cn.json",
   "include_keys": [

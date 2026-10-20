@@ -1,0 +1,16 @@
+{
+  "batch": "203",
+  "namespace": "controlling",
+  "jar": ".minecraft/mods/Controlling-neoforge-26.1.2-26.1.2.7.jar",
+  "language_path": "assets/controlling/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/controlling/lang/zh_cn.json",
+  "include_keys": [
+    "options.sortAZ",
+    "options.sortZA"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "A->Z",
+    "Z->A"
+  ]
+}

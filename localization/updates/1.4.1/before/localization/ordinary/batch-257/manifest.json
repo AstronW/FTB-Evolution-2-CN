@@ -1,0 +1,17 @@
+{
+  "batch": "257",
+  "namespace": "framework",
+  "jar": ".minecraft/mods/framework-neoforge-26.1.2-0.13.23.jar",
+  "language_path": "assets/framework/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/framework/lang/zh_cn.json",
+  "include_keys": [
+    "framework.gui.sync_config_failed",
+    "framework.gui.sync_entity_data_failed",
+    "framework.validator.resource_location.hint",
+    "framework.validator.resource_location.hint_with_namespace",
+    "framework.validator.identifier.hint",
+    "framework.validator.identifier.hint_with_namespace"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

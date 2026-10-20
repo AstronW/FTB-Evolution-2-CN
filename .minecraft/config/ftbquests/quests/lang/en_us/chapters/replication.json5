@@ -107,7 +107,7 @@
     "&eNote&r: The faster it runs, the higher the chance a print fails. A failed print runs again without using more matter.",
   ],
   "quest.095B11E487F642F2.quest_desc": [
-    "&eReplication&r ptinyd items out of raw matter. Break cheap items down, scan the ones you want, and the network can print copies on request.",
+    "&eReplication&r prints items out of raw matter. Break cheap items down, scan the ones you want, and the network can print copies on request.",
     "",
     "Everything here is made from one ore that only generates in the &6Mining Dimension&r. Finish the &bMining Dimension&r quest in &6Generating Resources&r and build a &aMining Portal&r before you start.",
     "",

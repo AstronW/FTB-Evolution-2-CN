@@ -38,7 +38,7 @@ MANUALS_PACK = MC / 'resourcepacks/FTB-Evolution-2-Manuals-zh_CN'
 CFPA_PACK = MC / 'resourcepacks/FTB-Evolution-2-CFPA-Reviewed-zh_CN'
 QUEST_LANG = MC / 'config/ftbquests/quests/lang/zh_cn'
 DIST = ROOT / 'dist'
-VERSION = '1.4.0'
+VERSION = '1.4.1'
 PACK_NAME = f'FTB-Evolution-2-{VERSION}-zh_CN'
 RESOURCEPACK = DIST / f'{PACK_NAME}.zip'
 INSTALL_ZIP = DIST / f'{PACK_NAME}-install.zip'
@@ -47,7 +47,7 @@ INSTALL_RECORD = DIST / f'{PACK_NAME}-installation.json'
 # Namespaces left in the work copy by earlier baselines with no current source.
 # `power_armor` is a 1.3.2 leftover whose content was removed in 1.4.0; it has no
 # ordinary/custom manifest and is deliberately not shipped.
-STALE_NAMESPACES = {'power_armor'}
+STALE_NAMESPACES = {'power_armor', 'wakes'}
 
 
 def read(path):
@@ -91,7 +91,7 @@ def kubejs_language_sources():
             continue
         add(data['namespace'], ROOT / data['target'], f"ordinary/{folder.name}")
     # Pack custom language namespaces bound to the current instance.
-    bindings = read(CUSTOM / 'source-bindings-1.4.0.json')
+    bindings = read(ROOT / read(ROOT/'project.json')['custom_adaptation']['source_bindings'])
     for namespace in bindings['sources']:
         add(namespace, MC / f'kubejs/assets/{namespace}/lang/zh_cn.json', 'custom/bindings')
     # Synthetic keys introduced by the runtime scripts (English fallback included).
@@ -232,6 +232,14 @@ def assemble_resourcepack(conflicts, include_feedback=True):
     fallback = MC / 'kubejs/assets/ftb_custom/lang/en_us.json'
     if fallback.is_file():
         put_blob('assets/ftb_custom/lang/en_us.json', fallback, 'custom/ftb_custom')
+
+    # The project's original Collapsible Groups labels use a separate domain.
+    # They must accompany the reviewed CFPA subset in the consolidated pack.
+    groups = read(ROOT / 'localization/manuals/group_lang-zh.json')
+    group_output = MC / 'kubejs/assets/collapsible_groups/group_lang/zh_cn.json'
+    assert read(group_output) == groups, 'Project group labels changed; rebuild first'
+    for key, zh in groups.items():
+        put_lang('collapsible_groups', key, zh, 'project_group_lang', 'group_lang')
 
     # 2. Manuals (FTB guides, FTBIC, Nodeworks).
     for path in sorted(MANUALS_PACK.rglob('*')):

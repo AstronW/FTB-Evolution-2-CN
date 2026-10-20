@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "334",
+  "namespace": "spectrelib",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1,
+  "source_sha256": "9708a0bf7fefae32049dcd9af2ecd276ab35d01db65877fc22dbcc2031bed8ed",
+  "in_game_tested": false
+}

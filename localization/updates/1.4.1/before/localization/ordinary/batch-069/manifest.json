@@ -1,0 +1,26 @@
+{
+  "batch": "069",
+  "namespace": "refinedstorage",
+  "jar": ".minecraft/mods/refinedstorage-neoforge-3.2.1.jar",
+  "language_path": "assets/refinedstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/refinedstorage/lang/zh_cn.json",
+  "include_keys": [
+    "gui.refinedstorage.grid.sorting.type.id",
+    "gui.refinedstorage.grid.pin_help",
+    "gui.refinedstorage.grid.drag_and_drop_to_pin",
+    "gui.refinedstorage.priority.storage_help.click_to_modify_insert_extract_priority",
+    "gui.refinedstorage.priority.storage_help.ctrl_click_to_modify_insert_priority",
+    "gui.refinedstorage.priority.storage_help.cmd_click_to_modify_insert_priority",
+    "gui.refinedstorage.priority.storage_help.alt_click_to_modify_extract_priority",
+    "gui.refinedstorage.autocrafting_preview.request_cancelled.too_many_subcomponents",
+    "gui.refinedstorage.autocrafting_preview.style.tree",
+    "gui.refinedstorage.autocrafting_monitor.state.extracting_initial_resources",
+    "gui.refinedstorage.autocrafting_monitor.state.returning_internal_storage",
+    "item.refinedstorage.color_and_item_name"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "ID",
+    "%s %s"
+  ]
+}

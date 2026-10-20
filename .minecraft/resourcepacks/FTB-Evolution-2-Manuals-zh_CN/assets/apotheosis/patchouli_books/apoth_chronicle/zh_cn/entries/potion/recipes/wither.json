@@ -2,7 +2,7 @@
   "name": "凋零",
   "icon": "minecraft:textures/mob_effect/wither.png",
   "category": "apotheosis:potion/recipes",
-  "flag": "&apotheosis:potion,!apotheosis:wstloaded",
+  "flag": "apotheosis:potion",
   "sortnum": 0,
   "pages": [
     {

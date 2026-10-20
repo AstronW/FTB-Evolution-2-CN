@@ -366,3 +366,9 @@ Refined Storage 统一为精致存储, 类型扩展为精致存储: 类型扩展
 ## 2026-10-19 Sodium 0.9.2
 
 第 316 批采用当前原文逐项适配. Fast / Fancy 与原版选项一致, 使用流畅 / 高品质; 树叶透明对应高品质, 不透明对应流畅. 亮度指最低亮度, 不沿用旧版伽玛值解释. Texel Interpolation 译为纹素插值, Nearest / Linear 为最近邻 / 线性; Block Transparency Limits 为透明方块细分限制, 不解释为改变方块透明度. Chunk Updates 的 Deferred / Soon / Immediate 为延后 / 尽快 / 立即. CFPA 各版本及 PR #4962 / #3675 的键级对照和 head SHA 见 `ordinary/batch-316/source-review.json`.
+
+## 1.4.1 Nodeworks 冷却任务
+
+- `ftb:adamantite_coolant`, `ftb:aeternium_coolant`, `ftb:aurichalcum_coolant`: 精金冷却块, 永恒金属冷却块, 奥利哈刚冷却块. 沿用 Nodeworks 的 Crafting Coolant = 合成冷却块及本包现有材料名称, 不引入新材料译名. 本包 KubeJS 新增英文没有自带中文; CFPA 固定来源没有这些整合包专用键. 名称与新增任务同步, 见 `custom/batches/batch-005/manifest.json`.
+- 新任务英文的 Crafting Storage 实际指 `nodeworks:crafting_storage`, 当前 JAR 名称为 Crafting Buffer, 中文沿用游戏的合成缓存. Co-Processor 沿用合成协处理器. Nodeworks 0.10.6 语言资源与原名称一致, 不按泛称另造物品名.
+- 血弹说明继续沿用命血祭坛, 附魔子弹改装件和气血子弹; 本次只更正换弹机制, 不改既定物品术语.

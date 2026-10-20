@@ -23,5 +23,16 @@ class NestedLanguageSource(unittest.TestCase):
     def test_rejects_unreviewed_inner_change_even_when_parent_rebound(self):
         self.manifest['nested_jar_sha256']='0'*64
         with self.assertRaisesRegex(AssertionError,'Nested JAR changed'):language_source(self.manifest)
+    def test_reads_two_level_dependency_and_checks_intermediate_identity(self):
+        member='META-INF/jarjar/library.jar'
+        middle=archive(member,self.inner)
+        self.outer.write_bytes(archive(self.member,middle))
+        manifest={'jar':str(self.outer),'jar_sha256':hashlib.sha256(self.outer.read_bytes()).hexdigest(),
+                  'language_path':self.lang,'nested_jars':[
+                      {'path':self.member,'sha256':hashlib.sha256(middle).hexdigest()},
+                      {'path':member,'sha256':hashlib.sha256(self.inner).hexdigest()}]}
+        self.assertEqual(self.payload,language_source(manifest))
+        manifest['nested_jars'][0]['sha256']='0'*64
+        with self.assertRaisesRegex(AssertionError,'Nested JAR changed'):language_source(manifest)
 
 if __name__=='__main__':unittest.main()

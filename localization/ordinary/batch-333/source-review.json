@@ -1,0 +1,14 @@
+[
+  {
+    "key": "block.selling_bin.selling_bin",
+    "new": "Selling Bin",
+    "english": "Selling Bin",
+    "namespace": "selling_bin",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar",
+    "path": "assets/selling_bin/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "售货箱",
+    "review_reason": "Current source reviewed manual translation"
+  }
+]

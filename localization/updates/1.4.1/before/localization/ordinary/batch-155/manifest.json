@@ -1,0 +1,13 @@
+{
+  "batch": "155",
+  "namespace": "animalgarden_bullshark",
+  "jar": ".minecraft/mods/animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar",
+  "language_path": "assets/animalgarden_bullshark/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animalgarden_bullshark/lang/zh_cn.json",
+  "include_keys": [
+    "entity.animalgarden_bullshark.bullshark",
+    "item.animalgarden_bullshark.mob_spawn_egg"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

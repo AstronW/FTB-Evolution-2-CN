@@ -1,0 +1,98 @@
+[
+  {
+    "file": "chapters/ars_magica.json5",
+    "segment": 40,
+    "source": "Your mana pool grows by 50 with every magic level, so leveling is the long-term answer.",
+    "translation": "每提升一个魔法等级, 魔力池就会增加 50, 因此升级才是长久之计."
+  },
+  {
+    "file": "chapters/evilcraft.json5",
+    "segment": 11,
+    "source": "To remove an &5Enchantment&r, fill the &dPurifier&r with 3 buckets of blood, then right-click it with the item you want to disenchant and with a &cBlook&r. One random enchantment is moved onto the &cBlook&r, which becomes an &5Enchanted Book&r, and all 3 buckets are used up.",
+    "translation": "要移除一项&5附魔&r, 先向&d净化器&r装入 3 桶血液, 再分别手持待祛魔的物品和&c血之书&r右击净化器. 物品上的一项随机附魔会转移到&c血之书&r上, 使其变为&5附魔书&r, 并消耗全部 3 桶血液."
+  },
+  {
+    "file": "chapters/evilcraft.json5",
+    "segment": 12,
+    "source": "To remove a &cCurse&r, you only need 1 bucket of blood and the cursed item; no &cBlook&r is needed. Each curse level removed uses 1 bucket. Curses on the &4Vengeance Pickaxe&r can't be removed.",
+    "translation": "要移除&c诅咒&r, 只需 1 桶血液和受诅咒的物品, 无需&c血之书&r. 每移除 1 级诅咒消耗 1 桶血液. &4复仇镐&r上的诅咒无法移除."
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 263,
+    "source": "Any Gun Modifier",
+    "translation": "任意枪械改装件"
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 18,
+    "source": "Every &aCrafting Storage&r and &aCo-Processor&r in a &eNodeworks&r CPU makes &bheat&r, and more of it when packed against other CPU parts. When your coolant can't keep up, the CPU slows down.",
+    "translation": "&eNodeworks&r CPU 中的每个&a合成缓存&r和&a合成协处理器&r都会产生&b热量&r, 紧贴其他 CPU 部件时产热更多. 冷却能力不足时, CPU 就会减速."
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 19,
+    "source": "&aCoolants&r count as part of the CPU, so you can use them to link parts together. ",
+    "translation": "&a冷却块&r也算 CPU 的一部分, 因此可以用来连接各个部件. "
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 20,
+    "source": "Any coolant touching a CPU block cools it, and each one gets a &bcluster bonus&r for every other coolant next to it. A solid wall of coolant works far better than single blocks spread around.",
+    "translation": "冷却块会冷却与其接触的 CPU 方块, 每相邻一个其他冷却块, 它就会获得一份&b集群加成&r. 集中铺成一面墙, 效果远好于零散放置."
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 21,
+    "source": "&aCrafting Coolant&r: 1 cooling, +1 per neighboring coolant",
+    "translation": "&a合成冷却块&r: 冷却能力为 1, 每相邻一个冷却块额外 +1"
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 22,
+    "source": "&3Adamantite Coolant&r: 2 cooling, +2 per neighboring coolant",
+    "translation": "&3精金冷却块&r: 冷却能力为 2, 每相邻一个冷却块额外 +2"
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 23,
+    "source": "&dAeternium Coolant&r: 3 cooling, +3 per neighboring coolant",
+    "translation": "&d永恒金属冷却块&r: 冷却能力为 3, 每相邻一个冷却块额外 +3"
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 24,
+    "source": "&6Aurichalcum Coolant&r: 4 cooling, +4 per neighboring coolant",
+    "translation": "&6奥利哈刚冷却块&r: 冷却能力为 4, 每相邻一个冷却块额外 +4"
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 25,
+    "source": "A single layer of &3Adamantite Coolant&r against your CPU is enough to fully cool any part of it. Higher tiers do the same job with fewer blocks.",
+    "translation": "在 CPU 旁铺一层&3精金冷却块&r, 就足以让其任意部件充分冷却. 更高级的冷却块能用更少的方块达到同样效果."
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 261,
+    "source": "&3Keeping Cool",
+    "translation": "&3保持冷却"
+  },
+  {
+    "file": "chapters/neo_vitae.json5",
+    "segment": 238,
+    "source": "Infuse an &cEnchanted Bullet Modifier&r on a Tier I Ara Vitae to make a &cBlood Bullet&r, then slot it into a gun. Each shot draws 50 EV from your network in place of a bullet, so the gun reloads even if you don't have bullets.",
+    "translation": "在 I 级命血祭坛上灌注&c附魔子弹改装件&r, 制成&c气血子弹&r并装入枪械. 每发子弹消耗网络中的 50 EV, 替代实体弹药, 因此即使没有子弹也能装填枪械."
+  },
+  {
+    "file": "chapters/neo_vitae.json5",
+    "segment": 239,
+    "source": "When the network cannot pay, the gun falls back on whatever bullets you have to reload with.",
+    "translation": "网络无法支付消耗时, 枪械会改用你持有的实体子弹装填."
+  },
+  {
+    "file": "chapters/resource_generation.json5",
+    "segment": 140,
+    "source": "The higher the tier, the more area that it covers. This pack lets fake players use watering cans, so a &2Clicker&r from &eJust Dire Things&r can work one for you.",
+    "translation": "等级越高, 覆盖范围越大. 本包不允许模拟玩家使用洒水壶, 因此&eJust Dire Things&r的&2点击器&r无法替你操作."
+  }
+]

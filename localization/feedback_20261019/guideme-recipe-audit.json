@@ -1,9 +1,9 @@
 {
-  "target_pack_version": "1.4.0",
-  "effective_documents": 802,
-  "documents_with_recipe_components": 376,
-  "components": 844,
-  "static_candidates": 826,
+  "target_pack_version": "1.4.1",
+  "effective_documents": 806,
+  "documents_with_recipe_components": 379,
+  "components": 850,
+  "static_candidates": 832,
   "documented_no_recipe": 18,
   "requires_review": [],
   "dynamic_recipe_scripts_not_executed": [
@@ -8178,6 +8178,20 @@
       "visible_fallback": null
     },
     {
+      "page": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/abyssal_enchanter.md",
+      "line": 80,
+      "tag": "Recipe",
+      "id": "nautec:abyssal_enchanter",
+      "candidates": [
+        "nautec:abyssal_enchanter"
+      ],
+      "recipe_types": [
+        "minecraft:crafting_shaped"
+      ],
+      "status": "static_candidate_found",
+      "visible_fallback": null
+    },
+    {
       "page": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/atlantean_rifle.md",
       "line": 68,
       "tag": "Recipe",
@@ -8301,6 +8315,62 @@
       ],
       "recipe_types": [
         "minecraft:crafting_shapeless"
+      ],
+      "status": "static_candidate_found",
+      "visible_fallback": null
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/deep_sea_reservoir.md",
+      "line": 62,
+      "tag": "Recipe",
+      "id": "nautec:deep_sea_reservoir",
+      "candidates": [
+        "nautec:deep_sea_reservoir"
+      ],
+      "recipe_types": [
+        "minecraft:crafting_shaped"
+      ],
+      "status": "static_candidate_found",
+      "visible_fallback": null
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/deep_sea_reservoir.md",
+      "line": 64,
+      "tag": "Recipe",
+      "id": "nautec:reservoir_upgrade_2",
+      "candidates": [
+        "nautec:reservoir_upgrade_2"
+      ],
+      "recipe_types": [
+        "minecraft:crafting_shaped"
+      ],
+      "status": "static_candidate_found",
+      "visible_fallback": null
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/deep_sea_reservoir.md",
+      "line": 66,
+      "tag": "Recipe",
+      "id": "nautec:reservoir_upgrade_3",
+      "candidates": [
+        "nautec:reservoir_upgrade_3"
+      ],
+      "recipe_types": [
+        "minecraft:crafting_shaped"
+      ],
+      "status": "static_candidate_found",
+      "visible_fallback": null
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/deep_sea_reservoir.md",
+      "line": 68,
+      "tag": "Recipe",
+      "id": "nautec:reservoir_upgrade_4",
+      "candidates": [
+        "nautec:reservoir_upgrade_4"
+      ],
+      "recipe_types": [
+        "minecraft:crafting_shaped"
       ],
       "status": "static_candidate_found",
       "visible_fallback": null
@@ -8741,7 +8811,7 @@
     },
     {
       "page": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/eye_of_the_sea.md",
-      "line": 57,
+      "line": 61,
       "tag": "Recipe",
       "id": "nautec:eye_of_the_sea",
       "candidates": [
@@ -8993,7 +9063,7 @@
     },
     {
       "page": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/utilities.md",
-      "line": 40,
+      "line": 41,
       "tag": "Recipe",
       "id": "nautec:aquarine_wrench",
       "candidates": [
@@ -9007,7 +9077,7 @@
     },
     {
       "page": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/utilities.md",
-      "line": 80,
+      "line": 81,
       "tag": "Recipe",
       "id": "nautec:configuration_card",
       "candidates": [
@@ -9625,11 +9695,25 @@
     },
     {
       "page": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/mixer.md",
-      "line": 78,
+      "line": 82,
       "tag": "RecipeFor",
       "id": "nautec:mixer",
       "candidates": [
         "nautec:mixer"
+      ],
+      "recipe_types": [
+        "minecraft:crafting_shaped"
+      ],
+      "status": "static_candidate_found",
+      "visible_fallback": null
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/osmosis_filter.md",
+      "line": 49,
+      "tag": "RecipeFor",
+      "id": "nautec:osmosis_filter",
+      "candidates": [
+        "nautec:osmosis_filter"
       ],
       "recipe_types": [
         "minecraft:crafting_shaped"
@@ -10594,7 +10678,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/recipe_sets.md",
-      "line": 100,
+      "line": 111,
       "tag": "RecipeFor",
       "id": "nodeworks:instruction_set",
       "candidates": [
@@ -10608,7 +10692,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/recipe_sets.md",
-      "line": 101,
+      "line": 112,
       "tag": "RecipeFor",
       "id": "nodeworks:processing_set",
       "candidates": [

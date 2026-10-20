@@ -1,0 +1,49 @@
+20 Oct, 2026
+- Added Custom Nodeworks Coolant Blocks and Quest for them.
+- Mystical Agriculture watering cans no longer work when used by fake players (machines and automation that act as a player)
+- Wonderland chestplate now also needs an Olivine Laser Engine, leggings 2 Logic Cores and boots 2 Impulse Driver Modules
+- Changed Blood Bullet Quest Description [#13726](https://github.com/ftbteam/ftb-modpack-issues/issues/13726)
+- Ars Magica Legacy late-game spells rebalanced so they are worth their cost compared to basic damage spells [#13721](https://github.com/ftbteam/ftb-modpack-issues/issues/13721)
+- Ars Magica Legacy: Falling Star, Fire Rain and Blizzard mana cost 1000 -> 250 and burnout 500 -> 75 per cast (a cast used to take 1500 mana in total, it now takes 325)
+- Ars Magica Legacy: Daylight and Moonrise mana cost 2000 -> 400 and burnout 1000 -> 100 per cast
+- Ars Magica Legacy: Falling Star damage 6 -> 16
+- Ars Magica Legacy: Fire Rain and Blizzard damage per hit 2 -> 3 (they hit every quarter second while active)
+- Removed seven FTB Evolution Companion fixes for Ars Magica Legacy, Oritech, Crafting Station and Replication that the updated mods now include themselves
+- Removed 57 pack recipe and data overrides for Hephaestus, Witchery and Ars Magica Legacy that are now identical to what those mods ship
+- Ars Magica Legacy: max mana and max burnout gained per magic level 25 -> 50, so a level 30 mage has 1650 of each instead of 925; mana regeneration grows with max mana. Existing characters get the new values at their next magic level up
+- NeoVitae ore processing no longer makes its own Titanium, Platinum, Lapis, Sulfur, Novite, Niobium, Boron, Netherite Scrap, Iesnium, Soulium or Vinteum dust; the Athanor turns their gravel into the dust (or Lapis) the rest of the pack already uses
+- NeoVitae ore processing now handles Desh
+- Ice and Fire Gorgon, Dread Knight, Hydra, and Cyclops now use trial spawners instead of one-time boss spawns [#13758](https://github.com/ftbteam/ftb-modpack-issues/issues/13758)
+- Removed impure chalks from quest requirements to match other chalk turn in quests [#13766](https://github.com/ftbteam/ftb-modpack-issues/issues/13766)
+- Novite and Desh dust can now be smelted into ingots
+- Apotheosis World Tier requirements in Russian, German, Chinese and Spanish now say how much base Armor Toughness each armor piece needs, and the FTB Skyline and previous tier requirements are translated [#13735](https://github.com/ftbteam/ftb-modpack-issues/issues/13735)
+- Welcome to Nautec no longer needs the optional Follow the Pearl quest; Follow the Pearl now opens after it instead [#13736](https://github.com/ftbteam/ftb-modpack-issues/issues/13736)
+- The LaserIO Item Card quest no longer needs the Energy Card quest, and the Fluid Conduit quest no longer needs the Redstone Conduit quest [#13738](https://github.com/ftbteam/ftb-modpack-issues/issues/13738)
+- Tools with the Apotheosis Aurichalcum Omnetic affix could not mine Aurichalcum Ore; they now can [#13742](https://github.com/ftbteam/ftb-modpack-issues/issues/13742)
+- Typing letters with AltGr (such as ć) no longer opens FancyMenu's menu editor; its Ctrl+Alt shortcuts are turned off [#13743](https://github.com/ftbteam/ftb-modpack-issues/issues/13743)
+- Witchery brooms can be steered and flown again (Witchery updated to 0.5.24) [#13750](https://github.com/ftbteam/ftb-modpack-issues/issues/13750)
+- Game crashing when turning on High Contrast or changing resource packs while in a world near Ender IO conduits [#13731](https://github.com/ftbteam/ftb-modpack-issues/issues/13731)
+- The Neo Vitae Spirit Powder quest no longer needs the Gearing Up Gun Modifiers quest, and Gun Modifiers now accepts any gun modifier instead of only a Scattershot Modifier [#13752](https://github.com/ftbteam/ftb-modpack-issues/issues/13752)
+- Game freezing when shift-clicking an item into a Replication machine slot that does not accept it, such as a Memory Chip into the Identification Chamber or Redstone Blocks into the Disintegrator [#13712](https://github.com/ftbteam/ftb-modpack-issues/issues/13712)
+- Potatoes, Carrots and other crops with a Productive Farming yield stat dropping extra crops when broken before they are fully grown [#4756](https://github.com/ftbteam/ftb-modpack-issues/issues/4756)
+- The EvilCraft Item Cleansing quest said the Purifier needs 1 bucket of blood and that items are thrown in; it now says disenchanting needs 3 buckets, removing a curse needs 1 bucket per level, and items are added by right-clicking the Purifier [#4755](https://github.com/ftbteam/ftb-modpack-issues/issues/4755)
+- Quest tasks for the Vein Sword, EvilCraft Broom, Integrated Dynamics Mono- and Omni-Directional Connectors and Roots Spell Powder not completing for items with enchantments or other data, such as a Vein Sword crafted with Looting II; any of these items now completes the task [#4753](https://github.com/ftbteam/ftb-modpack-issues/issues/4753)
+- Advanced AE Quantum Computer losing its in-progress crafting jobs, and the items in them, when you leave the world or the area unloads [#13660](https://github.com/ftbteam/ftb-modpack-issues/issues/13660)
+- Damage Reflection hurting players after every Apothic Gateways wave [#13692](https://github.com/ftbteam/ftb-modpack-issues/issues/13692)
+- Cloud in a Bottle and the Athletics extra jump skills not stacking; each now gives its own extra jump [#13710](https://github.com/ftbteam/ftb-modpack-issues/issues/13710)
+- Advanced AE Wireless Quantum Crafter Terminal having no crafting recipe [#13711](https://github.com/ftbteam/ftb-modpack-issues/issues/13711)
+- Wonderland helmet, chestplate and leggings coming out of the FTB Fabricator as boots [#13714](https://github.com/ftbteam/ftb-modpack-issues/issues/13714)
+- AE2 Pattern Providers and pipes filling the FTB Fabricator's output tank and slots with ingredients [#13716](https://github.com/ftbteam/ftb-modpack-issues/issues/13716)
+- Ars Magica Legacy Falling Star damaging the player who cast it; the caster is now spared, as its book page says [#13723](https://github.com/ftbteam/ftb-modpack-issues/issues/13723)
+- Fixed Baubley Heart Canisters Fabricator Energy Costs
+- The Nautec Etching Acid quest's Rusty Crates were empty; they now hold loot when placed and opened [#13755](https://github.com/ftbteam/ftb-modpack-issues/issues/13755)
+- LTX Industries Material Press could not make Iron, Steel or Enderium Gears; it now presses them from 4 ingots, like its Titanium Gear [#13728](https://github.com/ftbteam/ftb-modpack-issues/issues/13728)
+- Fixed Typo in Replication Questline
+- All Hammers from Just Hammers are Finished in the Crafting Basin instead of Casting Table [#13610](https://github.com/ftbteam/ftb-modpack-issues/issues/13610)
+- Fixed Missing Marble Recipes from Xycraft Worlds [#13764](https://github.com/ftbteam/ftb-modpack-issues/issues/13764)
+- Added Hand of Death and Death Sickle to ftb:scythes tag [#13762](https://github.com/ftbteam/ftb-modpack-issues/issues/13762)
+- Adamantite, Aeternium and Aurichalcum Furnaces and their upgrades missing from JEI and the Iron Furnaces creative tab [#13767](https://github.com/ftbteam/ftb-modpack-issues/issues/13767)
+- PuffishSkills Athletics Ironclad and No Delay capstones being incorrectly positioned [#13756](https://github.com/ftbteam/ftb-modpack-issues/issues/13756)
+- MOD: Wakes Reforged
+- Farming for Blockheads Watering Can; it can no longer be crafted and is hidden from JEI. Use the Mystical Agriculture watering cans instead
+- Blazing Crystal and Spirited Crystal Mystical Agriculture seeds [#13709](https://github.com/ftbteam/ftb-modpack-issues/issues/13709)

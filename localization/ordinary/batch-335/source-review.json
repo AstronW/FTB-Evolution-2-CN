@@ -1,0 +1,98 @@
+[
+  {
+    "key": "tinymultiblocklib.configuration.preview_blacklist",
+    "new": "Preview Blacklist",
+    "english": "Preview Blacklist",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "预览黑名单",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_blacklist.button",
+    "new": "Edit",
+    "english": "Edit",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "编辑",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_blacklist.tooltip",
+    "new": "List of blocks for which to hide previews",
+    "english": "List of blocks for which to hide previews",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "隐藏预览的方块列表",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_whitelist",
+    "new": "Preview Whitelist",
+    "english": "Preview Whitelist",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "预览白名单",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_whitelist.button",
+    "new": "Edit",
+    "english": "Edit",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "编辑",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.preview_whitelist.tooltip",
+    "new": "List of blocks for which to show previews",
+    "english": "List of blocks for which to show previews",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "显示预览的方块列表",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.previews_for_everything",
+    "new": "Previews for Everything",
+    "english": "Previews for Everything",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "预览所有方块",
+    "review_reason": "Current source reviewed manual translation"
+  },
+  {
+    "key": "tinymultiblocklib.configuration.previews_for_everything.tooltip",
+    "new": "Enables previews for everything, Used for debugging",
+    "english": "Enables previews for everything, Used for debugging",
+    "namespace": "tinymultiblocklib",
+    "source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar!META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+    "path": "assets/tinymultiblocklib/lang/en_us.json",
+    "native_zh": null,
+    "candidates": [],
+    "translation": "为所有方块启用预览, 用于调试",
+    "review_reason": "Current source reviewed manual translation"
+  }
+]

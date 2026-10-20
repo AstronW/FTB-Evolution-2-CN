@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "332",
+  "namespace": "sathlib",
+  "source_keys": 18,
+  "unique_values": 18,
+  "chinese_values": 15,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 18,
+  "source_sha256": "0e71b621896f1632fb3b182a155d167ba4473c8b5da4cb1fea36f159b57b44ab",
+  "in_game_tested": false
+}

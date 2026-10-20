@@ -12,13 +12,32 @@ from punctuation import assert_ascii
 ROOT=pathlib.Path(__file__).resolve().parent.parent
 WORK=ROOT/'localization/ordinary'
 def read(p):return json.loads(p.read_text())
-def check_scope(ns):
+def check_scope(ns, manifest=None):
  scope=read(ROOT/'localization/language_scope.json')
+ if ns in scope['excluded_namespaces'] and manifest and manifest.get('preserved_scope'):
+  preserved=manifest['preserved_scope']
+  previous=read(ROOT/preserved['source_snapshot'])
+  assert preserved['reason'] and set(manifest['include_keys'])==set(previous), 'Excluded mod scope expanded'
+  return
  assert ns not in scope['excluded_namespaces'], ns
  assert not any(ns.startswith(p) for p in scope['excluded_namespace_prefixes']), ns
 
 def language_source(manifest):
  path=ROOT/manifest['jar']
+ container=manifest.get('source_container')
+ if container:
+  parent=ROOT/container['jar']
+  assert hashlib.sha256(parent.read_bytes()).hexdigest()==container['jar_sha256'], 'Source container changed'
+  with zipfile.ZipFile(parent) as z:embedded=z.read(container['member'])
+  assert hashlib.sha256(embedded).hexdigest()==container['member_sha256'], 'Embedded dependency changed'
+  assert embedded==path.read_bytes(), 'Extracted dependency differs from current container'
+ if 'nested_jars' in manifest:
+  raw=path.read_bytes()
+  assert hashlib.sha256(raw).hexdigest()==manifest['jar_sha256'], 'Outer JAR changed'
+  for layer in manifest['nested_jars']:
+   with zipfile.ZipFile(io.BytesIO(raw)) as z:raw=z.read(layer['path'])
+   assert hashlib.sha256(raw).hexdigest()==layer['sha256'], 'Nested JAR changed'
+  with zipfile.ZipFile(io.BytesIO(raw)) as z:return z.read(manifest['language_path'])
  if 'nested_jar' not in manifest:
   with zipfile.ZipFile(path) as z:return z.read(manifest['language_path'])
  # Some current distributions put their entire mod, including all language
@@ -30,7 +49,7 @@ def language_source(manifest):
  with zipfile.ZipFile(io.BytesIO(nested)) as z:return z.read(manifest['language_path'])
 
 def process(folder,build):
- manifest=read(folder/'manifest.json');check_scope(manifest['namespace'])
+ manifest=read(folder/'manifest.json');check_scope(manifest['namespace'], manifest)
  raw=language_source(manifest);en=json.loads(raw)
  if 'include_keys' in manifest:
   selected=set(manifest['include_keys'])

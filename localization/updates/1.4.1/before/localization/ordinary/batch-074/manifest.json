@@ -1,0 +1,20 @@
+{
+  "batch": "074",
+  "namespace": "integrateddynamicscompat",
+  "jar": ".minecraft/mods/integrateddynamics-26.1.2-neoforge-1.36.1.jar",
+  "language_path": "assets/integrateddynamicscompat/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integrateddynamicscompat/lang/zh_cn.json",
+  "include_keys": [
+    "config.jade.plugin_integrateddynamicscompat.squeezer",
+    "config.jade.plugin_integrateddynamicscompat.drying_basin",
+    "config.jade.plugin_integrateddynamicscompat.mechanical_squeezer",
+    "config.jade.plugin_integrateddynamicscompat.mechanical_drying_basin",
+    "config.jade.plugin_integrateddynamicscompat.proxy",
+    "config.jade.plugin_integrateddynamicscompat.part",
+    "gui.integrateddynamics.jei.category.time.seconds"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%ss"
+  ]
+}

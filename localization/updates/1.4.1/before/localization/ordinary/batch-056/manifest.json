@@ -1,0 +1,18 @@
+{
+  "batch": "056",
+  "namespace": "ironfurnaces",
+  "jar": ".minecraft/mods/ironfurnaces-neoforge-26.1.2-4.4.2.jar",
+  "language_path": "assets/ironfurnaces/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ironfurnaces/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.ironfurnaces.heaterX",
+    "tooltip.ironfurnaces.heaterY",
+    "tooltip.ironfurnaces.heaterZ"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "X: ",
+    "Y: ",
+    "Z: "
+  ]
+}

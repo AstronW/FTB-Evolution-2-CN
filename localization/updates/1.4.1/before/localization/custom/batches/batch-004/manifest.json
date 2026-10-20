@@ -1,0 +1,438 @@
+{
+  "target_pack_version": "1.4.0",
+  "scope": "Shop command feedback, locked-shop interaction, random events and spawn status; reuse reviewed runtime localization after source verification",
+  "files": [],
+  "scripts": [
+    {
+      "source_path": "kubejs/server_scripts/systems/echoes/shop_keepers.js",
+      "snapshot": "sources/kubejs/server_scripts/systems/echoes/shop_keepers.js",
+      "source_sha256": "35e72acf02f76ddd476d8794d2292e2f347fee5a21767e6bf8f5f7658dcb5245",
+      "output_path": ".minecraft/kubejs/server_scripts/systems/echoes/shop_keepers.js",
+      "output_sha256": "25c8680cc941ecce415dd069bbca028957b2eb6226387d7dacb40ca41d05e0d4"
+    },
+    {
+      "source_path": "kubejs/server_scripts/systems/ftb_events/commands.js",
+      "snapshot": "sources/kubejs/server_scripts/systems/ftb_events/commands.js",
+      "source_sha256": "c7627c90167589f7322d4db76d4b2ff3e0b85ee1f77e67faad60d487a3f86f2f",
+      "output_path": ".minecraft/kubejs/server_scripts/systems/ftb_events/commands.js",
+      "output_sha256": "325f234effb7a4581abe2cfd91983d50c1265bf90a005abd95357c379b6d1a4b"
+    },
+    {
+      "source_path": "kubejs/server_scripts/systems/spawn_pyramid/commands.js",
+      "snapshot": "sources/kubejs/server_scripts/systems/spawn_pyramid/commands.js",
+      "source_sha256": "2cd1d91bbb86125467f93b624bd0da6afb91537104349322756de27f2a2209f8",
+      "output_path": ".minecraft/kubejs/server_scripts/systems/spawn_pyramid/commands.js",
+      "output_sha256": "e0d4bca95b34ec04624bc05c4848c9e2560a9eee224cb285617386a1b05150c2"
+    },
+    {
+      "source_path": "kubejs/server_scripts/systems/ftb_events/events/event_treasure_goblin.js",
+      "snapshot": "sources/kubejs/server_scripts/systems/ftb_events/events/event_treasure_goblin.js",
+      "source_sha256": "ad4251be5a692867ba7487014a748e5e2cfca287212e58e7eae86b3380555170",
+      "output_path": ".minecraft/kubejs/server_scripts/systems/ftb_events/events/event_treasure_goblin.js",
+      "output_sha256": "8af9c8be8a3540d75cc14de5ccdcdfada9241e6a1d3cbe96a7cf9255ea2b5a5d"
+    },
+    {
+      "source_path": "kubejs/server_scripts/systems/echoes/echo_shop_villagers.js",
+      "snapshot": "sources/kubejs/server_scripts/systems/echoes/echo_shop_villagers.js",
+      "source_sha256": "184e3365ff993befa8e5d26dbe2c9d5d935cc20ff4f167676573a45a4d2c1966",
+      "output_path": ".minecraft/kubejs/server_scripts/systems/echoes/echo_shop_villagers.js",
+      "output_sha256": "184e3365ff993befa8e5d26dbe2c9d5d935cc20ff4f167676573a45a4d2c1966"
+    }
+  ],
+  "reused_language": [
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.trader.spawned",
+      "en": "A Wandering Merchant has set up shop at X: %s, Y: %s, Z: %s",
+      "zh": "一位流浪商人在 X: %s, Y: %s, Z: %s 摆起了摊位"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.spawn.not_found",
+      "en": "⚠ Spawn not found for %s Event",
+      "zh": "⚠ 未找到 %s 事件的生成位置"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.commands.disablefail",
+      "en": "You have not unlocked disabling this event yet!",
+      "zh": "你尚未解锁关闭此事件的权限!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.commands.force.success",
+      "en": "Forced %s Event for %s",
+      "zh": "已强制触发 %s 事件, 目标为 %s"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.commands.settings.set",
+      "en": "Set %s to %s",
+      "zh": "已将 %s 设为 %s"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.commands.statistics.reset",
+      "en": "Statistics reset",
+      "zh": "统计数据已重置"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.commands.toggle.off",
+      "en": "Toggled %s Event off",
+      "zh": "已关闭 %s 事件"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.commands.toggle.on",
+      "en": "Toggled %s Event on",
+      "zh": "已开启 %s 事件"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.spawn.warning",
+      "en": "⚠ You hear some rustling nearby as if some creature is approaching...",
+      "zh": "⚠ 你听见附近传来窸窣声, 仿佛有什么生物正在靠近..."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.frog.ribbit",
+      "en": "Ribbit.",
+      "zh": "呱."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.frog.splash",
+      "en": "*SPLASH*",
+      "zh": "*扑通*"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.names.quantum_goat",
+      "en": "Quantum Goat",
+      "zh": "量子山羊"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.names.fairy",
+      "en": "Fairy",
+      "zh": "精灵"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.goat.disablestage",
+      "en": "✔ Goat Events can now be disabled with /events toggle ftb:goat",
+      "zh": "✔ 现在可使用 /events toggle ftb:goat 关闭山羊事件"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.phantom.spawned",
+      "en": "This seems like an Air Attack!",
+      "zh": "似乎有空袭来袭!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.apotheosis.spawn",
+      "en": "⚠ Its an Apotheosis Boss! Quick, kill it!",
+      "zh": "⚠ 是神化首领! 快干掉它!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.text.dont_want",
+      "en": "I don't want this thingy!",
+      "zh": "我才不要这玩意儿!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.allay.spawned",
+      "en": "Spawned Allay with trade: %s for %s",
+      "zh": "已生成悦灵, 交易内容: 用 %s 换取 %s"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.allay.trade.success",
+      "en": "Trade successful! You received: %s",
+      "zh": "交易成功! 你获得了: %s"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.trade.sunny.name",
+      "en": "Sunny Trade",
+      "zh": "晴天交易"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.trade.sunny.spawn",
+      "en": "Trade me a sunflower for a clear blue sky!",
+      "zh": "给我一朵向日葵, 还你一片晴空!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.trade.sunny.success",
+      "en": "I wish you a sunny day!",
+      "zh": "祝你有个阳光明媚的好日子!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.trade.thunderstorm.name",
+      "en": "Thunderstorm Trade",
+      "zh": "雷暴交易"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.trade.thunderstorm.spawn",
+      "en": "Trade me a lapis for a thunderstorm!",
+      "zh": "给我一块青金石, 换你一场雷暴!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.trade.thunderstorm.success",
+      "en": "A thunderstorm has been summoned!",
+      "zh": "雷暴已召来!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.trader.black_market_spawned",
+      "en": "A shadowy figure has appeared at X: %s, Y: %s, Z: %s...",
+      "zh": "一个神秘身影出现在 X: %s, Y: %s, Z: %s..."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.gunslinger.challenge",
+      "en": "Reach for the sky!",
+      "zh": "举起手来!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.gunslinger.draw",
+      "en": "DRAW!",
+      "zh": "拔枪!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.gunslinger.win",
+      "en": "Nice shot, partner.",
+      "zh": "好枪法, 伙计."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.gunslinger.lose",
+      "en": "Nice try, kid.",
+      "zh": "不错的尝试, 小子."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.gunslinger.timeout",
+      "en": "Nice try, kid.",
+      "zh": "不错的尝试, 小子."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.gunslinger.reward",
+      "en": "You earned %s coins for winning the duel!",
+      "zh": "你赢得决斗, 获得了 %s 枚硬币!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.dolphin.spawned",
+      "en": "A friendly Dolphin swims up to you! You feel the power of the sea. Feed it a fish...",
+      "zh": "一只友善的海豚游向你! 你感受到了大海的力量. 喂它一条鱼吧..."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.dolphin.fed",
+      "en": "The Dolphin squeaks happily and brings you treasure from the deep!",
+      "zh": "海豚欢快地鸣叫, 为你带来了深海的宝藏!"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.event_system.trader.killed",
+      "en": "How could you?",
+      "zh": "你怎么能这样?"
+    }
+  ],
+  "synthetic_language": {
+    "source_path": ".minecraft/kubejs/assets/ftb_custom/lang/en_us.json",
+    "output_path": ".minecraft/kubejs/assets/ftb_custom/lang/zh_cn.json",
+    "entries": {
+      "ftb.custom.shops.not_ready": {
+        "en": "Shops are not ready yet - move around for a second and retry",
+        "zh": "商店尚未就绪, 请稍微走动后重试"
+      },
+      "ftb.custom.shops.unknown": {
+        "en": "Unknown shop id: %s",
+        "zh": "未知商店 ID: %s"
+      },
+      "ftb.custom.shops.spawned": {
+        "en": "Spawned %s",
+        "zh": "已生成 %s"
+      },
+      "ftb.custom.shops.cleared": {
+        "en": "Removed all shopkeepers in this dimension - they respawn on next visit once their cooldown passes (use /shops reset to force)",
+        "zh": "已移除此维度的全部商人. 冷却结束后再次到访时会重新生成(使用 /shops reset 强制重置)"
+      },
+      "ftb.custom.shops.reset": {
+        "en": "Cleared placement ledger and broker greeting flags",
+        "zh": "已清除放置记录和经纪人问候标记"
+      },
+      "ftb.custom.shops.setup_error": {
+        "en": "[here] detect setup error: %s",
+        "zh": "[here] 检测初始化错误: %s"
+      },
+      "ftb.custom.shops.structures_error": {
+        "en": "[here] getAllStructuresAt error: %s",
+        "zh": "[here] getAllStructuresAt 错误: %s"
+      },
+      "ftb.custom.shops.no_keeper": {
+        "en": "%s (no keeper)",
+        "zh": "%s (无商人)"
+      },
+      "ftb.custom.shops.no_structures": {
+        "en": "[here] no structures at your position",
+        "zh": "[here] 你的位置没有结构"
+      },
+      "ftb.custom.shops.detected": {
+        "en": "[here] detected:",
+        "zh": "[here] 检测到:"
+      },
+      "ftb.custom.events.name.frog": {
+        "en": "Frog and Squids",
+        "zh": "青蛙与鱿鱼"
+      },
+      "ftb.custom.events.name.treasure_goblin": {
+        "en": "Treasure Goblin",
+        "zh": "藏宝地精"
+      },
+      "ftb.custom.events.name.fairy": {
+        "en": "Fairy Event",
+        "zh": "精灵"
+      },
+      "ftb.custom.events.name.apotheosis": {
+        "en": "Apotheosis Boss Event",
+        "zh": "神化首领"
+      },
+      "ftb.custom.events.name.trader": {
+        "en": "Wandering Trader",
+        "zh": "流浪商人"
+      },
+      "ftb.custom.events.name.creeper": {
+        "en": "Creeper",
+        "zh": "苦力怕"
+      },
+      "ftb.custom.events.name.gunslinger": {
+        "en": "Gunslinger Duel",
+        "zh": "神枪手决斗"
+      },
+      "ftb.custom.events.name.phantom": {
+        "en": "Phantom Bomber Event",
+        "zh": "幻翼轰炸"
+      },
+      "ftb.custom.events.name.goat": {
+        "en": "Goat",
+        "zh": "山羊"
+      },
+      "ftb.custom.events.name.allay": {
+        "en": "Allay Trade Event",
+        "zh": "悦灵交易"
+      },
+      "ftb.custom.events.total": {
+        "en": "Total Events Triggered: %s",
+        "zh": "事件触发总数: %s"
+      },
+      "ftb.custom.events.failed": {
+        "en": "Total %s Events Failed: %s",
+        "zh": "%s 事件失败总数: %s"
+      },
+      "ftb.custom.events.succeeded": {
+        "en": "Total %s Events Succeeded: %s",
+        "zh": "%s 事件成功总数: %s"
+      },
+      "ftb.custom.spawn.state": {
+        "en": "state: %s",
+        "zh": "状态: %s"
+      },
+      "ftb.custom.spawn.attempts": {
+        "en": "attempts: %s",
+        "zh": "尝试次数: %s"
+      },
+      "ftb.custom.spawn.claimed": {
+        "en": "claimed: %s",
+        "zh": "已认领: %s"
+      },
+      "ftb.custom.spawn.verifies": {
+        "en": "verifies: %s",
+        "zh": "验证通过: %s"
+      },
+      "ftb.custom.spawn.origin": {
+        "en": "origin: %s %s %s",
+        "zh": "原点: %s %s %s"
+      },
+      "item.ftb.adamantite_capacitor": {
+        "en": "Adamantite Capacitor",
+        "zh": "精金电容"
+      },
+      "item.ftb.aeternium_capacitor": {
+        "en": "Aeternium Capacitor",
+        "zh": "永恒金属电容"
+      },
+      "item.ftb.aurichalcum_capacitor": {
+        "en": "Aurichalcum Capacitor",
+        "zh": "奥利哈刚电容"
+      },
+      "fluid_type.ftb.bio_resin": {
+        "en": "Bio Resin",
+        "zh": "生物树脂"
+      },
+      "block.ftb.bio_resin": {
+        "en": "Bio Resin",
+        "zh": "生物树脂"
+      },
+      "item.ftb.bio_resin_bucket": {
+        "en": "Bio Resin Bucket",
+        "zh": "生物树脂桶"
+      }
+    }
+  },
+  "preserved_english": [
+    "Event IDs and statistics keys",
+    "Structure IDs and shop IDs in /shops here output",
+    "Raw error strings passed as placeholders",
+    "Spawn state enum pending/placed and boolean true/false; diagnostic values, not prose"
+  ],
+  "remaining": "Actual client-server runtime and layout acceptance"
+}

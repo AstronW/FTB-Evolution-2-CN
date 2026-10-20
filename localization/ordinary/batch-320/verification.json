@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "320",
+  "namespace": "arsmagicalegacy",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1621,
+  "source_sha256": "221de9d1ab0e4b5153c267ab1f7c516b9e6f2024f09a38240cac57d1e944f5c2",
+  "in_game_tested": false
+}

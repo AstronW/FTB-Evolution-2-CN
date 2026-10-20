@@ -1,0 +1,50 @@
+[
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "old_fragment": 279,
+    "new_fragment": 280,
+    "source": "&eIron's Arms 'n Artifice&r arms you with black-powder firearms, from a crude &aFlintlock&r up to a &6Clockwork Rifle&r, and lets you rebuild each one with modifiers that change how it shoots."
+  },
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "old_fragment": 295,
+    "new_fragment": 296,
+    "source": "&eJust Hammers"
+  },
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "old_fragment": 298,
+    "new_fragment": 299,
+    "source": "&eJust Hammers&r mines a 3x3 area with every swing. The larger hammers reach further, up to the 5x5x5 Destructor."
+  },
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "old_fragment": 352,
+    "new_fragment": 353,
+    "source": "&aHearts&r are a key component of &eBaubley Heart Canisters&r."
+  },
+  {
+    "file": "localization/translations/chapters/logistics.json",
+    "old_fragment": 250,
+    "new_fragment": 258,
+    "source": "&cMore Red"
+  },
+  {
+    "file": "localization/translations/chapters/logistics.json",
+    "old_fragment": 325,
+    "new_fragment": 334,
+    "source": "&eMore Red&r is redstone taken seriously. Proper wiring, logic gates and mechanical power, all in flat panels rather than a room full of repeaters."
+  },
+  {
+    "file": "localization/translations/chapters/logistics.json",
+    "old_fragment": 327,
+    "new_fragment": 336,
+    "source": "Red Alloy here is the &aRedstone Alloy Ingot&r. More Red's hand recipe for it is turned off in this pack, so make it in an alloy machine such as the Energized Power &aAlloy Furnace&r."
+  },
+  {
+    "file": "localization/translations/chapters/logistics.json",
+    "old_fragment": 327,
+    "new_fragment": 336,
+    "source": "Red Alloy here is the &aRedstone Alloy Ingot&r. More Red's hand recipe for it is turned off in this pack, so make it in an alloy machine such as the Energized Power &aAlloy Furnace&r."
+  }
+]

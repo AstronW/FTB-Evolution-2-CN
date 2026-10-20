@@ -1,0 +1,7 @@
+{
+  "jecharacters.chat.help": "/jech [profile] / [verbose true/false]",
+  "jecharacters.chat.start": "开始分析",
+  "jecharacters.chat.saved": "完成! 结果已保存至 logs/jecharacters.txt.",
+  "jecharacters.chat.error": "糟糕! 写入文件时发生错误.",
+  "jecharacters.chat.taiwan": "内部错误."
+}

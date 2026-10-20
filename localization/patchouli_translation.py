@@ -14,9 +14,9 @@ BOOKS = {
     'mffs': [('handbook', ('jar', 'mffs-5.8.39.jar'), None)],
     'animal_pen': [('guide_book', ('jar', 'animal_pen-neoforge-26.1-2.5.1.jar'), None)],
     'apotheosis': [('apoth_chronicle', ('jar', 'Apotheosis-26.1.2-9.1.0.jar'), 'jar')],
-    'arsmagicalegacy': [('arcane_compendium', ('jar', 'arsmagicalegacy-26.1.2-1.7.0.jar'), None)],
+    'arsmagicalegacy': [('arcane_compendium', ('jar', 'arsmagicalegacy-26.1.2-1.7.1.jar'), None)],
     'modularrouters': [('book', ('jar', 'modular-routers-26.1.2.2.jar'), 'installed')],
-    'productivebees': [('guide', ('jar', 'productivebees-26.1.2-15.3.0.jar'), 'installed')],
+    'productivebees': [('guide', ('jar', 'productivebees-26.1.2-15.4.0.jar'), 'installed')],
     'justdirethings': [('justdirethingsbook', ('kubejs', None), 'jar')],
     'iceandfire': [('iceandfire', ('jar', 'iceandfire-2.2-beta.4.jar'), None)],
 }
@@ -61,7 +61,9 @@ def book_files(ns, book, source):
             prefix = f'assets/{ns}/patchouli_books/{book}/en_us/'
             for n in sorted(z.namelist()):
                 if n.startswith(prefix) and n.endswith('.json'):
-                    yield n.removeprefix(prefix), z.read(n).decode(), None
+                    overlay = ROOT / '.minecraft/kubejs' / n
+                    text = overlay.read_text() if overlay.is_file() else z.read(n).decode()
+                    yield n.removeprefix(prefix), text, None
     else:
         folder = ROOT / f'.minecraft/kubejs/assets/{ns}/patchouli_books/{book}/en_us'
         for p in sorted(folder.rglob('*.json')):
@@ -148,6 +150,8 @@ def build_one(cmd, ns, book, source, base):
         if isinstance(bj, dict):
             # adopt upstream/CFPA Chinese where the en structure has the same slot
             for path, value in walk(bj, ''):
+                if path not in seg:
+                    continue  # Keep current effective IDs/components and non-display fields.
                 if CJK.search(value):
                     value = normalize(value)
                 try:
