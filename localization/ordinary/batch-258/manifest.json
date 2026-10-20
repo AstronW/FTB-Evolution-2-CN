@@ -1,0 +1,21 @@
+{
+  "batch": "258",
+  "namespace": "ftblibrary",
+  "jar": ".minecraft/mods/ftb-library-neoforge-26.1.2.9.jar",
+  "language_path": "assets/ftblibrary/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftblibrary/lang/zh_cn.json",
+  "include_keys": [
+    "ftblibrary.select_item.list_mode.jei",
+    "ftblibrary.select_item.list_mode.rei",
+    "ftblibrary.select_item.list_mode.emi",
+    "ftblibrary.select_entity.hostiles",
+    "ftblibrary.select_entity.neutrals",
+    "ftblibrary.select_entity.animals"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "JEI",
+    "REI",
+    "EMI"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "080",
+  "namespace": "advanced_ae",
+  "source_keys": 5,
+  "unique_values": 5,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 5,
+  "installed_overlay_keys": 5,
+  "source_sha256": "5e51d65570442553dc00fe35d4fec9a2f9083a4fd519ca344692125238cb032e",
+  "in_game_tested": false
+}

@@ -1,0 +1,50 @@
+{
+  "block.drones.frame": {
+    "en": "Assembly Frame",
+    "zh": "组装框架"
+  },
+  "block.drones.controller": {
+    "en": "Drone Assembly Controller",
+    "zh": "无人机组装控制器"
+  },
+  "block.drones.wood_rotor": {
+    "en": "Wooden Rotor",
+    "zh": "木制旋翼"
+  },
+  "block.drones.iron_rotor": {
+    "en": "Advanced Rotor",
+    "zh": "高级旋翼"
+  },
+  "block.drones.ion_thruster": {
+    "en": "Ion Thruster",
+    "zh": "离子推进器"
+  },
+  "block.drones.drill": {
+    "en": "Drill",
+    "zh": "钻头"
+  },
+  "item.drones.frame": {
+    "en": "Assembly Frame",
+    "zh": "组装框架"
+  },
+  "item.drones.controller": {
+    "en": "Drone Assembly Controller",
+    "zh": "无人机组装控制器"
+  },
+  "item.drones.wood_rotor": {
+    "en": "Wooden Rotor",
+    "zh": "木制旋翼"
+  },
+  "item.drones.iron_rotor": {
+    "en": "Advanced Rotor",
+    "zh": "高级旋翼"
+  },
+  "item.drones.ion_thruster": {
+    "en": "Ion Thruster",
+    "zh": "离子推进器"
+  },
+  "item.drones.drill": {
+    "en": "Drill",
+    "zh": "钻头"
+  }
+}

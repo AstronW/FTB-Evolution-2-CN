@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "316",
+  "namespace": "sodium",
+  "source_keys": 105,
+  "unique_values": 101,
+  "chinese_values": 105,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 105,
+  "source_sha256": "86bd13ad78a86878c1cf6bd900ad076db2d471fab6058352e6ef66eb0b75618e",
+  "in_game_tested": false
+}

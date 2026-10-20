@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "193",
+  "namespace": "fastbench",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 7,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 7,
+  "source_sha256": "5e014a78409ccef6f1d616556c6eef438f56733361268089153e92c2c90c6647",
+  "in_game_tested": false
+}

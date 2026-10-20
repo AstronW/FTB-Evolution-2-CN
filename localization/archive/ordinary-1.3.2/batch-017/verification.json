@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "017",
+  "namespace": "jei",
+  "source_keys": 357,
+  "unique_values": 320,
+  "chinese_values": 351,
+  "reviewed_non_prose_values": 6,
+  "installed_overlay_keys": 357,
+  "source_sha256": "8bd91b9b8bbeebf114df69b3caf71b9992ac699f56424d79fcca37f0838911e4",
+  "in_game_tested": false
+}

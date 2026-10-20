@@ -1,0 +1,15 @@
+{
+  "batch": "205",
+  "namespace": "easy_villagers",
+  "jar": ".minecraft/mods/easy-villagers-neoforge-1.1.42+26.1.2.jar",
+  "language_path": "assets/easy_villagers/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/easy_villagers/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.easy_villagers.villager_profession",
+    "tooltip.easy_villagers.zombie_villager_profession"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s (%s)"
+  ]
+}

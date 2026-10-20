@@ -1,0 +1,62 @@
+{
+  "item.irons_jewelry.ring": {
+    "en": "Ring",
+    "zh": "戒指"
+  },
+  "item.irons_jewelry.necklace": {
+    "en": "Necklace",
+    "zh": "项链"
+  },
+  "item.irons_jewelry.invalid_jewelry": {
+    "en": "Invalid Jewelry",
+    "zh": "无效的饰品"
+  },
+  "item.irons_jewelry.recipe": {
+    "en": "Artisan Scroll",
+    "zh": "工匠卷轴"
+  },
+  "item.irons_jewelry.ruby": {
+    "en": "Ruby",
+    "zh": "红宝石"
+  },
+  "item.irons_jewelry.sapphire": {
+    "en": "Sapphire",
+    "zh": "蓝宝石"
+  },
+  "item.irons_jewelry.topaz": {
+    "en": "Topaz",
+    "zh": "黄玉"
+  },
+  "item.irons_jewelry.moonstone": {
+    "en": "Moonstone",
+    "zh": "月长石"
+  },
+  "item.irons_jewelry.peridot": {
+    "en": "Peridot",
+    "zh": "橄榄石"
+  },
+  "item.irons_jewelry.onyx": {
+    "en": "Onyx",
+    "zh": "缟玛瑙"
+  },
+  "item.irons_jewelry.garnet": {
+    "en": "Garnet",
+    "zh": "石榴石"
+  },
+  "item.irons_jewelry.jewelcrafting_guide": {
+    "en": "Jewelcrafting and You",
+    "zh": "珠宝工艺入门"
+  },
+  "item.irons_jewelry.jewelcrafting_guide.description": {
+    "en": "Guide to Gems 'n Jewelry",
+    "zh": "宝石与珠宝指南"
+  },
+  "block.irons_jewelry.jewelcrafting_station": {
+    "en": "Jewelcrafting Station",
+    "zh": "珠宝饰品工作台"
+  },
+  "entity.minecraft.villager.irons_jewelry.jeweler": {
+    "en": "Jeweler",
+    "zh": "珠宝商"
+  }
+}

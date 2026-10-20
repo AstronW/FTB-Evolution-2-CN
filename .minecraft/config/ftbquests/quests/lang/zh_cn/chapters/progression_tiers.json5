@@ -1,0 +1,48 @@
+{
+  "task.76F97B3E48680D61.title": "中阶魔法物品",
+  "task.4A9B1E1B7278EE88.title": "低阶魔法物品",
+  "task.58A48A70A96C16EE.title": "刷怪设施与农业",
+  "task.4C3551A7635B317A.title": "低阶电路部件",
+  "task.095A932703243BB1.title": "低阶探索物品",
+  "task.7B3B565885BAF5F2.title": "低阶超级合金",
+  "task.2A18EC060B4F4441.title": "代币",
+  "task.1F3E504FEA1E6A01.title": "魔法艺术精华吞吐量检查",
+  "task.48D624ABDA2E6A77.title": "高阶超级合金",
+  "task.636CC302496CD85B.title": "中阶超级合金",
+  "quest.13E227B43DE7FCE0.quest_desc": [
+    "初期混合坩埚配方"
+  ],
+  "task.23BDBCA5408F6FF9.title": "低阶生物物品",
+  "task.0269CABC48D40926.title": "突变生物物品",
+  "task.31B0743CD77F269E.title": "科技",
+  "quest.0EF62BE88B18476C.title": "农业(生物等)",
+  "quest.25CAC9620613F5F3.quest_desc": [
+    "&eNodeworks&r是一个完整的存储与自动合成网络模组.",
+    "",
+    "&b天青石&r是整个&eNodeworks&r网络的基础, 因此本任务路线首先要取得它.",
+    "",
+    "在地下寻找&a深层天青石矿石&r, 并留意&3天青石母岩&r.母岩上的晶芽会依次长成小型, 中型和大型, 最终成为可以反复收获的&b天青石簇&r.",
+    "",
+    "&7&o尽早建立晶簇农场.几乎所有Nodeworks组件都需要碎片.&r"
+  ],
+  "task.1602819C2F6181B0.title": "Fortron吞吐量",
+  "task.181B2193D1FCA403.title": "赛克瑞姆宝石",
+  "task.51AEC652675E2AF0.title": "中阶生物物品",
+  "task.4F301BA200DCAB29.title": "存储与物流",
+  "quest.5A808B209C7B4905.quest_desc": [
+    "重新加入Evolution中的棱彩宝石"
+  ],
+  "task.589788C47B1E29B7.title": "能量吞吐量检查",
+  "task.554C5C29572D5841.title": "高阶生物物品",
+  "task.6B260AADB482009D.title": "高阶维度物品",
+  "task.63E3FF8DCDD665D9.title": "中阶宝石物品",
+  "task.6C8EF29AC2620295.title": "魔法",
+  "task.789F5DED3A173AC0.title": "高阶机器中枢",
+  "task.08F5D81A49822E06.title": "中阶食物物品?",
+  "task.53075BE05DE12E1C.title": "高阶魔法亲和力",
+  "task.4C082181A7CA98E5.title": "能量吞吐量检查",
+  "task.1C481CB5E3C7DCBB.title": "探索与首领",
+  "task.01538675A40ACA1A.title": "中阶电路部件",
+  "quest.25CAC9620613F5F3.title": "&b天青石",
+  "task.1E4A81C8C5EB207B.title": "低阶宝石物品"
+}

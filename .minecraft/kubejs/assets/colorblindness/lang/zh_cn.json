@@ -1,0 +1,10 @@
+{
+  "effect.colorblindness.achromatomaly": "全色弱",
+  "effect.colorblindness.achromatopsia": "全色盲",
+  "effect.colorblindness.deuteranomaly": "绿色弱",
+  "effect.colorblindness.deuteranopia": "绿色盲",
+  "effect.colorblindness.protanomaly": "红色弱",
+  "effect.colorblindness.protanopia": "红色盲",
+  "effect.colorblindness.tritanomaly": "蓝色弱",
+  "effect.colorblindness.tritanopia": "蓝色盲"
+}

@@ -1,0 +1,66 @@
+{
+  "category": "arsmagicalegacy:blocks",
+  "icon": "arsmagicalegacy:chimerite_ore",
+  "name": "item.arsmagicalegacy.arcane_compendium.blocks.ores.name",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "item.arsmagicalegacy.arcane_compendium.blocks.ores.page0.text"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "chimerite",
+      "item": "arsmagicalegacy:chimerite_ore",
+      "text": "奇美拉石出现在岩层变动之处, 用于需要大量变换或幻术的法术."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "topaz",
+      "item": "arsmagicalegacy:topaz_ore",
+      "text": "黄玉见于最深的地下或最高的山峰, 常用作入门级魔法水晶."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "vinteum",
+      "item": "arsmagicalegacy:vinteum_ore",
+      "text": "温特姆粉在世界大多数地层中都相对常见, 很快便证明了自己是可用的魔法资源."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "moonstone",
+      "item": "arsmagicalegacy:moonstone_ore",
+      "text": "月长石罕见地出现在远古坠落的陨石中, 是一种拥有非凡魔力的天界材料."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "sunstone",
+      "item": "arsmagicalegacy:sunstone_ore",
+      "text": "日光石宝石是数千年来在下界熔岩海附近的黑曜石中形成的.尽管如此, 它并不防火, 采集时必须格外小心."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "arsmagicalegacy:chimerite_block",
+      "recipe2": "arsmagicalegacy:chimerite"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "arsmagicalegacy:topaz_block",
+      "recipe2": "arsmagicalegacy:topaz"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "arsmagicalegacy:vinteum_block",
+      "recipe2": "arsmagicalegacy:vinteum_dust"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "arsmagicalegacy:moonstone_block",
+      "recipe2": "arsmagicalegacy:moonstone"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "arsmagicalegacy:sunstone_block",
+      "recipe2": "arsmagicalegacy:sunstone"
+    }
+  ]
+}

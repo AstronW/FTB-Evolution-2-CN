@@ -1,0 +1,21 @@
+{
+  "batch": "125",
+  "namespace": "eclipseui",
+  "jar": ".minecraft/mods/EclipseUI-neoforge-1.0.4+mc26.1.jar",
+  "language_path": "assets/eclipseui/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/eclipseui/lang/zh_cn.json",
+  "include_keys": [
+    "eclipseui.toggle.on",
+    "eclipseui.toggle.off",
+    "eclipseui.confirm.unsaved_changes.title",
+    "eclipseui.confirm.unsaved_changes.message",
+    "eclipseui.confirm.yes",
+    "eclipseui.confirm.no",
+    "eclipseui.button.save",
+    "eclipseui.button.reset",
+    "eclipseui.button.done",
+    "eclipseui.colorpicker.title"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

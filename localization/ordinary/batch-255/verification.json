@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "255",
+  "namespace": "creativecore",
+  "source_keys": 6,
+  "unique_values": 6,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 6,
+  "source_sha256": "f6786ae7f3d08033443f059e34b689e6edb8348c97962ac994ec1dd0c0466461",
+  "in_game_tested": false
+}

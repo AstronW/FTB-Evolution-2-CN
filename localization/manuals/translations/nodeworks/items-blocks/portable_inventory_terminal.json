@@ -1,0 +1,22 @@
+{
+  "4": "  title: 便携式物品终端",
+  "12": "# 便携式物品终端",
+  "14": "随身携带的终端.",
+  "16": "<ItemLink id=\"inventory_terminal\" />的手持版本. 通过",
+  "17": "使用<ItemLink id=\"link_crystal\" />与<ItemLink id=\"broadcast_antenna\" />配对以无线连接,",
+  "18": "天线需放在<ItemLink id=\"network_controller\" />顶部.",
+  "22": "## 连接网络",
+  "24": "便携式物品终端通过三个组件访问网络,",
+  "25": "请先准备好:",
+  "31": "- 目标网络中的<ItemLink id=\"network_controller\" />",
+  "32": "- 放在该控制器顶部的<ItemLink id=\"broadcast_antenna\" />",
+  "33": "- 与该天线配对的<ItemLink id=\"link_crystal\" /> *(不要与加工配方存储器上的天线配对)*",
+  "38": "将配对后的链接水晶放入便携式物品终端右上角的槽位.",
+  "40": "连接建立后, 便携终端物品的纹理会亮起,",
+  "41": "颜色与网络相同.",
+  "45": "## 范围",
+  "47": "广播范围的更多信息见<ItemLink id=\"broadcast_antenna\" />页面.",
+  "49": "## 使用终端",
+  "51": "界面中的所有功能均与<ItemLink id=\"inventory_terminal\" />相同.",
+  "53": "## 配方"
+}

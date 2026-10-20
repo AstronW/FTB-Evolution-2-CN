@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "200",
+  "namespace": "rainshield",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 4,
+  "source_sha256": "ea5a3152d2eee1d4501dcd2e0b2298a347476fc163f939aae301428229481657",
+  "in_game_tested": false
+}

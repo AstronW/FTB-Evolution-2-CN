@@ -1,0 +1,2145 @@
+{
+  "target_pack_version": "1.4.0",
+  "pages": 305,
+  "translated_pages": 305,
+  "translated_words": 92805,
+  "total_words": 92805,
+  "errors": [],
+  "rows": [
+    {
+      "page": "assets/auroral/auroral/aurora/aurora_events.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/aurora/aurora_events.md",
+      "words": 256,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/aurora/creatures.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/aurora/creatures.md",
+      "words": 354,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/decorations/aurora_lantern.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/decorations/aurora_lantern.md",
+      "words": 117,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/decorations/hearthwood_log.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/decorations/hearthwood_log.md",
+      "words": 305,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/decorations/snow_angel.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/decorations/snow_angel.md",
+      "words": 166,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/flora/aurora_blooms.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/flora/aurora_blooms.md",
+      "words": 373,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/flora/ender_bloom.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/flora/ender_bloom.md",
+      "words": 197,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/flora/glow_leeks.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/flora/glow_leeks.md",
+      "words": 101,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/flora/shimmering_ice.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/flora/shimmering_ice.md",
+      "words": 205,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/food/frosted_cookies.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/food/frosted_cookies.md",
+      "words": 73,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/food/hot_cocoa.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/food/hot_cocoa.md",
+      "words": 71,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/food/index.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/food/index.md",
+      "words": 100,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/food/roasted_snowball.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/food/roasted_snowball.md",
+      "words": 182,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/food/snore.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/food/snore.md",
+      "words": 126,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/food/sugared_roasted_snowball.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/food/sugared_roasted_snowball.md",
+      "words": 151,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/getting_started/first_steps.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/getting_started/first_steps.md",
+      "words": 164,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/getting_started/introduction.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/getting_started/introduction.md",
+      "words": 156,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/index.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/index.md",
+      "words": 140,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmersteel/armor_trims.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmersteel/armor_trims.md",
+      "words": 170,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmersteel/bow.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmersteel/bow.md",
+      "words": 110,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmersteel/cold_brewing_stand.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmersteel/cold_brewing_stand.md",
+      "words": 152,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmersteel/glacial_basin.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmersteel/glacial_basin.md",
+      "words": 126,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmersteel/ingots.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmersteel/ingots.md",
+      "words": 180,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmersteel/spear.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmersteel/spear.md",
+      "words": 185,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmersteel/tools.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmersteel/tools.md",
+      "words": 272,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmerweave/fabric.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmerweave/fabric.md",
+      "words": 149,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmerweave/goggles.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmerweave/goggles.md",
+      "words": 90,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmerweave/leggings.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmerweave/leggings.md",
+      "words": 129,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmerweave/skates.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmerweave/skates.md",
+      "words": 183,
+      "translated": true
+    },
+    {
+      "page": "assets/auroral/auroral/shimmerweave/tunic.md",
+      "group": "auroral",
+      "target": "assets/auroral/auroral/_zh_cn/shimmerweave/tunic.md",
+      "words": 111,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/index.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/index.md",
+      "words": 40,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/machines/heating_coils/heating_coils-index.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/machines/heating_coils/heating_coils-index.md",
+      "words": 44,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/machines/heating_coils/heating_coils.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/machines/heating_coils/heating_coils.md",
+      "words": 158,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/machines/machines-index.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/machines/machines-index.md",
+      "words": 16,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/machines/melter.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/machines/melter.md",
+      "words": 95,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/getting_started.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/getting_started.md",
+      "words": 819,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/heat_sinks.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/heat_sinks.md",
+      "words": 453,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/multiblock-index.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/multiblock-index.md",
+      "words": 69,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/power_ports.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/power_ports.md",
+      "words": 270,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/reactor_builder.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/reactor_builder.md",
+      "words": 228,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/reactor_controller.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/reactor_controller.md",
+      "words": 262,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/reactor_instability.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/reactor_instability.md",
+      "words": 90,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/reactor_structure.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/reactor_structure.md",
+      "words": 342,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/redstone_port.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/redstone_port.md",
+      "words": 84,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/resource_port.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/resource_port.md",
+      "words": 561,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/shell_and_rods.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/multiblock/shell_and_rods.md",
+      "words": 390,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/radiation_and_instability/radiation_management.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/radiation_and_instability/radiation_management.md",
+      "words": 143,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/getting_started.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/getting_started.md",
+      "words": 1026,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine-index.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/turbine-index.md",
+      "words": 103,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_builder.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/turbine_builder.md",
+      "words": 249,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_controller.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/turbine_controller.md",
+      "words": 209,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_generation_and_coils.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/turbine_generation_and_coils.md",
+      "words": 411,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_power_ports.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/turbine_power_ports.md",
+      "words": 223,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_redstone_port.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/turbine_redstone_port.md",
+      "words": 99,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_resource_port.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/turbine_resource_port.md",
+      "words": 361,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_rod_and_blades.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/turbine_rod_and_blades.md",
+      "words": 342,
+      "translated": true
+    },
+    {
+      "page": "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_structure.md",
+      "group": "colossal_reactors",
+      "target": "assets/colossal_reactors/guides/colossal_reactors/guide/_zh_cn/turbine/turbine_structure.md",
+      "words": 354,
+      "translated": true
+    },
+    {
+      "page": "assets/dimresources/guides/dimresources/guide/index.md",
+      "group": "dimresources",
+      "target": "assets/dimresources/guides/dimresources/guide/_zh_cn/index.md",
+      "words": 119,
+      "translated": true
+    },
+    {
+      "page": "assets/dimresources/guides/dimresources/guide/laser.md",
+      "group": "dimresources",
+      "target": "assets/dimresources/guides/dimresources/guide/_zh_cn/laser.md",
+      "words": 88,
+      "translated": true
+    },
+    {
+      "page": "assets/energymeter/guides/energymeter/guide/index.md",
+      "group": "energymeter",
+      "target": "assets/energymeter/guides/energymeter/guide/_zh_cn/index.md",
+      "words": 197,
+      "translated": true
+    },
+    {
+      "page": "assets/energymeter/guides/energymeter/guide/interface.md",
+      "group": "energymeter",
+      "target": "assets/energymeter/guides/energymeter/guide/_zh_cn/interface.md",
+      "words": 1497,
+      "translated": true
+    },
+    {
+      "page": "assets/hephaestus/guides/hephaestus/guide/index.md",
+      "group": "hephaestus",
+      "target": "assets/hephaestus/guides/hephaestus/guide/_zh_cn/index.md",
+      "words": 43,
+      "translated": true
+    },
+    {
+      "page": "assets/hephaestus/guides/hephaestus/guide/smeltery.md",
+      "group": "hephaestus",
+      "target": "assets/hephaestus/guides/hephaestus/guide/_zh_cn/smeltery.md",
+      "words": 441,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/animal_trap.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/animal_trap.md",
+      "words": 756,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/chopping_block.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/chopping_block.md",
+      "words": 172,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/creative_battery.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/creative_battery.md",
+      "words": 141,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/drying_rack.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/drying_rack.md",
+      "words": 228,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/flint_and_tinder.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/flint_and_tinder.md",
+      "words": 151,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/granite_anvil.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/granite_anvil.md",
+      "words": 188,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/hand_grindstone.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/hand_grindstone.md",
+      "words": 271,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/horse_chopper.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/horse_chopper.md",
+      "words": 178,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/horse_generator.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/horse_generator.md",
+      "words": 226,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/horse_grindstone.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/horse_grindstone.md",
+      "words": 183,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/horse_path.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/horse_path.md",
+      "words": 302,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/horse_press.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/horse_press.md",
+      "words": 457,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/index.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/index.md",
+      "words": 360,
+      "translated": true
+    },
+    {
+      "page": "assets/horsepowered/guides/horsepowered/guide/work_saddle.md",
+      "group": "horsepowered",
+      "target": "assets/horsepowered/guides/horsepowered/guide/_zh_cn/work_saddle.md",
+      "words": 101,
+      "translated": true
+    },
+    {
+      "page": "assets/irons_jewelry/guides/irons_jewelry/guide/components/gems/fluix_crystal.md",
+      "group": "irons_jewelry",
+      "target": "assets/irons_jewelry/guides/irons_jewelry/guide/_zh_cn/components/gems/fluix_crystal.md",
+      "words": 31,
+      "translated": true
+    },
+    {
+      "page": "assets/irons_jewelry/guides/irons_jewelry/guide/components/gems/insanium_gemstone.md",
+      "group": "irons_jewelry",
+      "target": "assets/irons_jewelry/guides/irons_jewelry/guide/_zh_cn/components/gems/insanium_gemstone.md",
+      "words": 32,
+      "translated": true
+    },
+    {
+      "page": "assets/irons_jewelry/guides/irons_jewelry/guide/components/gems/nitro_crystal.md",
+      "group": "irons_jewelry",
+      "target": "assets/irons_jewelry/guides/irons_jewelry/guide/_zh_cn/components/gems/nitro_crystal.md",
+      "words": 34,
+      "translated": true
+    },
+    {
+      "page": "assets/irons_jewelry/guides/irons_jewelry/guide/components/metals/hellforged_ingot.md",
+      "group": "irons_jewelry",
+      "target": "assets/irons_jewelry/guides/irons_jewelry/guide/_zh_cn/components/metals/hellforged_ingot.md",
+      "words": 35,
+      "translated": true
+    },
+    {
+      "page": "assets/logisticsnetworks/guides/logisticsnetworks/guide/integrations/building-gadgets.md",
+      "group": "logisticsnetworks",
+      "target": "assets/logisticsnetworks/guides/logisticsnetworks/guide/_zh_cn/integrations/building-gadgets.md",
+      "words": 523,
+      "translated": true
+    },
+    {
+      "page": "assets/logisticsnetworks/guides/logisticsnetworks/guide/integrations/computercraft.md",
+      "group": "logisticsnetworks",
+      "target": "assets/logisticsnetworks/guides/logisticsnetworks/guide/_zh_cn/integrations/computercraft.md",
+      "words": 363,
+      "translated": true
+    },
+    {
+      "page": "assets/logisticsnetworks/guides/logisticsnetworks/guide/integrations/index.md",
+      "group": "logisticsnetworks",
+      "target": "assets/logisticsnetworks/guides/logisticsnetworks/guide/_zh_cn/integrations/index.md",
+      "words": 71,
+      "translated": true
+    },
+    {
+      "page": "assets/ltxi/guides/ltxi/guide/armor.md",
+      "group": "ltxi",
+      "target": "assets/ltxi/guides/ltxi/guide/_zh_cn/armor.md",
+      "words": 358,
+      "translated": true
+    },
+    {
+      "page": "assets/mystianapiary/guides/mystianapiary/guide/genes.md",
+      "group": "mystianapiary",
+      "target": "assets/mystianapiary/guides/mystianapiary/guide/_zh_cn/genes.md",
+      "words": 79,
+      "translated": true
+    },
+    {
+      "page": "assets/mystianapiary/guides/mystianapiary/guide/index.md",
+      "group": "mystianapiary",
+      "target": "assets/mystianapiary/guides/mystianapiary/guide/_zh_cn/index.md",
+      "words": 85,
+      "translated": true
+    },
+    {
+      "page": "assets/mystianapiary/guides/mystianapiary/guide/modules.md",
+      "group": "mystianapiary",
+      "target": "assets/mystianapiary/guides/mystianapiary/guide/_zh_cn/modules.md",
+      "words": 612,
+      "translated": true
+    },
+    {
+      "page": "assets/mystianapiary/guides/mystianapiary/guide/operation.md",
+      "group": "mystianapiary",
+      "target": "assets/mystianapiary/guides/mystianapiary/guide/_zh_cn/operation.md",
+      "words": 192,
+      "translated": true
+    },
+    {
+      "page": "assets/mystianapiary/guides/mystianapiary/guide/structure.md",
+      "group": "mystianapiary",
+      "target": "assets/mystianapiary/guides/mystianapiary/guide/_zh_cn/structure.md",
+      "words": 181,
+      "translated": true
+    },
+    {
+      "page": "assets/mystianapiary/guides/mystianapiary/guide/this_book.md",
+      "group": "mystianapiary",
+      "target": "assets/mystianapiary/guides/mystianapiary/guide/_zh_cn/this_book.md",
+      "words": 53,
+      "translated": true
+    },
+    {
+      "page": "assets/mystianapiary/guides/mystianapiary/guide/upgrades.md",
+      "group": "mystianapiary",
+      "target": "assets/mystianapiary/guides/mystianapiary/guide/_zh_cn/upgrades.md",
+      "words": 253,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/aquatic_biology-index.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/aquatic_biology-index.md",
+      "words": 22,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/bacteria_grafting.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/bacteria_grafting.md",
+      "words": 746,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/bacteria_introduction.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/bacteria_introduction.md",
+      "words": 545,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/bacteria_progression.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/bacteria_progression.md",
+      "words": 1430,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/bacteria_stats.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/bacteria_stats.md",
+      "words": 625,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/bacterial_analyzer.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/bacterial_analyzer.md",
+      "words": 589,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/bacterial_fuel_cell.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/bacterial_fuel_cell.md",
+      "words": 456,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/bio_reactor.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/bio_reactor.md",
+      "words": 1153,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/colony_feeding.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/colony_feeding.md",
+      "words": 848,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/colony_replicator.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/colony_replicator.md",
+      "words": 743,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/custom_bacteria.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/custom_bacteria.md",
+      "words": 252,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/dish_storage.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/dish_storage.md",
+      "words": 167,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/incubator.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/incubator.md",
+      "words": 749,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/industrial_bio_reactor.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/industrial_bio_reactor.md",
+      "words": 1111,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/mutator.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/mutator.md",
+      "words": 829,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/production_rates.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/production_rates.md",
+      "words": 653,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/reactor_upgrades.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/reactor_upgrades.md",
+      "words": 549,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/aquatic_biology/strain_tree.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/strain_tree.md",
+      "words": 823,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/atlantean_rifle.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/atlantean_rifle.md",
+      "words": 471,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/beam_optics.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/beam_optics.md",
+      "words": 356,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/crystal_cultivation.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/crystal_cultivation.md",
+      "words": 691,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/current_conduits.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/current_conduits.md",
+      "words": 680,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/deep_engineering-index.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/deep_engineering-index.md",
+      "words": 38,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/extradimensional_energy_storage.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/extradimensional_energy_storage.md",
+      "words": 495,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/fusion_plant.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/fusion_plant.md",
+      "words": 1115,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/gateway.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/gateway.md",
+      "words": 938,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/laser_purification_smelter.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/laser_purification_smelter.md",
+      "words": 820,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/materials.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/materials.md",
+      "words": 241,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/neptunes_trident.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/neptunes_trident.md",
+      "words": 393,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/pressure_forge.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/pressure_forge.md",
+      "words": 722,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/prism_satellite.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/prism_satellite.md",
+      "words": 451,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/resonance_chamber.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/resonance_chamber.md",
+      "words": 540,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/resonance_network.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/resonance_network.md",
+      "words": 806,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/deep_engineering/resonance_node.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/deep_engineering/resonance_node.md",
+      "words": 494,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/biome_tanks.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/biome_tanks.md",
+      "words": 338,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/bubble_anchor.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/bubble_anchor.md",
+      "words": 502,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/building_blocks.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/building_blocks.md",
+      "words": 176,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/combustion_dynamo.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/combustion_dynamo.md",
+      "words": 296,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/conduit_beacon.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/conduit_beacon.md",
+      "words": 294,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/deep_life.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/deep_life.md",
+      "words": 343,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/deep_oceans.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/deep_oceans.md",
+      "words": 689,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/distributor.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/distributor.md",
+      "words": 756,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/diving_gear.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/diving_gear.md",
+      "words": 580,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/etching.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/etching.md",
+      "words": 305,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/eye_of_the_sea.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/eye_of_the_sea.md",
+      "words": 340,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/fishing.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/fishing.md",
+      "words": 679,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/getting_started-index.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/getting_started-index.md",
+      "words": 27,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/introduction.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/introduction.md",
+      "words": 295,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/item_transformation.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/item_transformation.md",
+      "words": 509,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/laser_crafting_matrix.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/laser_crafting_matrix.md",
+      "words": 381,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/laser_power.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/laser_power.md",
+      "words": 1065,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/machine_part.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/machine_part.md",
+      "words": 453,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/monocle.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/monocle.md",
+      "words": 345,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/ocean_generators.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/ocean_generators.md",
+      "words": 326,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/salvage.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/salvage.md",
+      "words": 463,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/stronger_beams.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/stronger_beams.md",
+      "words": 582,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/structures.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/structures.md",
+      "words": 704,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/underwater_bases.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/underwater_bases.md",
+      "words": 301,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/getting_started/utilities.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/getting_started/utilities.md",
+      "words": 849,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/index.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/index.md",
+      "words": 99,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_augmentation/aquarine_steel_armor.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_augmentation/aquarine_steel_armor.md",
+      "words": 193,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_augmentation/augmentation.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_augmentation/augmentation.md",
+      "words": 429,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_augmentation/augmentation_station.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_augmentation/augmentation_station.md",
+      "words": 662,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_augmentation/crafted_augments.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_augmentation/crafted_augments.md",
+      "words": 467,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_augmentation/deep_fauna_augments.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_augmentation/deep_fauna_augments.md",
+      "words": 265,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_augmentation/laser_augmentation-index.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_augmentation/laser_augmentation-index.md",
+      "words": 27,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_augmentation/laser_augmentation_introduction.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_augmentation/laser_augmentation_introduction.md",
+      "words": 225,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_augmentation/mob_augments.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_augmentation/mob_augments.md",
+      "words": 279,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/budding_prismarine.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/budding_prismarine.md",
+      "words": 278,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/charger.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/charger.md",
+      "words": 170,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/chemistry_introduction.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/chemistry_introduction.md",
+      "words": 296,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/confined_spawner.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/confined_spawner.md",
+      "words": 771,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/crystal_shards.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/crystal_shards.md",
+      "words": 221,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/drain.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/drain.md",
+      "words": 658,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/energy_converter.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/energy_converter.md",
+      "words": 454,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/fishing_station.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/fishing_station.md",
+      "words": 161,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/laser_chemistry-index.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/laser_chemistry-index.md",
+      "words": 25,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/laser_manipulation.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/laser_manipulation.md",
+      "words": 1138,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/materials.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/materials.md",
+      "words": 382,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/mixer.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/mixer.md",
+      "words": 405,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/prismatic_battery.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/prismatic_battery.md",
+      "words": 127,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/laser_chemistry/tools.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/tools.md",
+      "words": 376,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/armor_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/armor_module.md",
+      "words": 143,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/booster_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/booster_module.md",
+      "words": 150,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/cargo_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/cargo_module.md",
+      "words": 189,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/flight_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/flight_module.md",
+      "words": 246,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/impulse_laser_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/impulse_laser_module.md",
+      "words": 255,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/shield_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/shield_module.md",
+      "words": 263,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/solar_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/solar_module.md",
+      "words": 151,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/sonar_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/sonar_module.md",
+      "words": 192,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/stealth_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/stealth_module.md",
+      "words": 158,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/submarine-index.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/submarine-index.md",
+      "words": 18,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/submarine.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/submarine.md",
+      "words": 354,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/submarine_controls.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/submarine_controls.md",
+      "words": 504,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/submarine_dock.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/submarine_dock.md",
+      "words": 304,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/submarine_hull.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/submarine_hull.md",
+      "words": 363,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/submarine_modules.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/submarine_modules.md",
+      "words": 407,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/submarine_power.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/submarine_power.md",
+      "words": 321,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/teleport_module.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/teleport_module.md",
+      "words": 368,
+      "translated": true
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/submarine/wave_jet.md",
+      "group": "nautec",
+      "target": "assets/nautec/guides/nautec/guide/_zh_cn/submarine/wave_jet.md",
+      "words": 473,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/commands.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/commands.md",
+      "words": 340,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/configuration.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/configuration.md",
+      "words": 189,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/getting_started.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/getting_started.md",
+      "words": 305,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/index.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/index.md",
+      "words": 162,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/mod_integration.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/mod_integration.md",
+      "words": 270,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/shell_constructor.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/shell_constructor.md",
+      "words": 273,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/shell_storage.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/shell_storage.md",
+      "words": 294,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/sync_core.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/sync_core.md",
+      "words": 49,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/syncing.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/syncing.md",
+      "words": 367,
+      "translated": true
+    },
+    {
+      "page": "assets/neosync/guides/neosync/guide/treadmill.md",
+      "group": "neosync",
+      "target": "assets/neosync/guides/neosync/guide/_zh_cn/treadmill.md",
+      "words": 162,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/drones/abilities.mdx",
+      "group": "drones",
+      "target": "assets/oracle_index/books/drones/translated/zh_cn/abilities.mdx",
+      "words": 257,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/drones/intro.mdx",
+      "group": "drones",
+      "target": "assets/oracle_index/books/drones/translated/zh_cn/intro.mdx",
+      "words": 426,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/abilities.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/abilities.mdx",
+      "words": 604,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/bond.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/bond.mdx",
+      "words": 456,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/commands.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/commands.mdx",
+      "words": 253,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/companion_bed.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/companion_bed.mdx",
+      "words": 220,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/equipment.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/equipment.mdx",
+      "words": 305,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/getting_started.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/getting_started.mdx",
+      "words": 391,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/kindred_charm.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/kindred_charm.mdx",
+      "words": 765,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/leveling.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/leveling.mdx",
+      "words": 439,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/spirits/baby_dragon.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/spirits/baby_dragon.mdx",
+      "words": 383,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/spirits/direwolf.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/spirits/direwolf.mdx",
+      "words": 475,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/spirits/gremlin.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/spirits/gremlin.mdx",
+      "words": 393,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/spirits/mini_player.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/spirits/mini_player.mdx",
+      "words": 513,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/spirits/nightfox.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/spirits/nightfox.mdx",
+      "words": 346,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/spirits/overview.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/spirits/overview.mdx",
+      "words": 429,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/spirits/quokka.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/spirits/quokka.mdx",
+      "words": 371,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/spirits/trex.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/spirits/trex.mdx",
+      "words": 542,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/stars.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/stars.mdx",
+      "words": 235,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/storage.mdx",
+      "group": "kindredspirits",
+      "target": "assets/oracle_index/books/kindredspirits/translated/zh_cn/docs/storage.mdx",
+      "words": 255,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/oracle-index/docs/search.mdx",
+      "group": "oracle-index",
+      "target": "assets/oracle_index/books/oracle-index/translated/zh_cn/docs/search.mdx",
+      "words": 281,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/oracle-index/docs/user_guide.mdx",
+      "group": "oracle-index",
+      "target": "assets/oracle_index/books/oracle-index/translated/zh_cn/docs/user_guide.mdx",
+      "words": 291,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/oritech/content/arcane/tainted_refinery.mdx",
+      "group": "oritech",
+      "target": "assets/oracle_index/books/oritech/translated/zh_cn/content/arcane/tainted_refinery.mdx",
+      "words": 648,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/oritech/content/equipment/geode_resonator.mdx",
+      "group": "oritech",
+      "target": "assets/oracle_index/books/oritech/translated/zh_cn/content/equipment/geode_resonator.mdx",
+      "words": 31,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/oritech/content/equipment/netherite_resonator.mdx",
+      "group": "oritech",
+      "target": "assets/oracle_index/books/oritech/translated/zh_cn/content/equipment/netherite_resonator.mdx",
+      "words": 31,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/oritech/content/equipment/oil_resonator.mdx",
+      "group": "oritech",
+      "target": "assets/oracle_index/books/oritech/translated/zh_cn/content/equipment/oil_resonator.mdx",
+      "words": 31,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/oritech/content/equipment/platinum_resonator.mdx",
+      "group": "oritech",
+      "target": "assets/oracle_index/books/oritech/translated/zh_cn/content/equipment/platinum_resonator.mdx",
+      "words": 31,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/oritech/content/equipment/resource_node_resonator.mdx",
+      "group": "oritech",
+      "target": "assets/oracle_index/books/oritech/translated/zh_cn/content/equipment/resource_node_resonator.mdx",
+      "words": 40,
+      "translated": true
+    },
+    {
+      "page": "assets/oracle_index/books/oritech/content/logistics/smart_splitter.mdx",
+      "group": "oritech",
+      "target": "assets/oracle_index/books/oritech/translated/zh_cn/content/logistics/smart_splitter.mdx",
+      "words": 410,
+      "translated": true
+    },
+    {
+      "page": "assets/recursiveae2patternprovider/ae2guide/recu_intro/recu_intro-index.md",
+      "group": "recursiveae2patternprovider",
+      "target": "assets/recursiveae2patternprovider/ae2guide/_zh_cn/recu_intro/recu_intro-index.md",
+      "words": 71,
+      "translated": true
+    },
+    {
+      "page": "assets/recursiveae2patternprovider/ae2guide/recu_intro/recursiveae2patternprovider_advanced_tips.md",
+      "group": "recursiveae2patternprovider",
+      "target": "assets/recursiveae2patternprovider/ae2guide/_zh_cn/recu_intro/recursiveae2patternprovider_advanced_tips.md",
+      "words": 175,
+      "translated": true
+    },
+    {
+      "page": "assets/recursiveae2patternprovider/ae2guide/recu_intro/recursiveae2patternprovider_example.md",
+      "group": "recursiveae2patternprovider",
+      "target": "assets/recursiveae2patternprovider/ae2guide/_zh_cn/recu_intro/recursiveae2patternprovider_example.md",
+      "words": 115,
+      "translated": true
+    },
+    {
+      "page": "assets/recursiveae2patternprovider/ae2guide/recu_intro/recursiveae2patternprovider_how_to_use.md",
+      "group": "recursiveae2patternprovider",
+      "target": "assets/recursiveae2patternprovider/ae2guide/_zh_cn/recu_intro/recursiveae2patternprovider_how_to_use.md",
+      "words": 269,
+      "translated": true
+    },
+    {
+      "page": "assets/recursiveae2patternprovider/ae2guide/recu_intro/recursiveae2patternprovider_key_features.md",
+      "group": "recursiveae2patternprovider",
+      "target": "assets/recursiveae2patternprovider/ae2guide/_zh_cn/recu_intro/recursiveae2patternprovider_key_features.md",
+      "words": 156,
+      "translated": true
+    },
+    {
+      "page": "assets/simpleteleporters/guides/simpleteleporters/guide/ender_shard.md",
+      "group": "simpleteleporters",
+      "target": "assets/simpleteleporters/guides/simpleteleporters/guide/_zh_cn/ender_shard.md",
+      "words": 219,
+      "translated": true
+    },
+    {
+      "page": "assets/simpleteleporters/guides/simpleteleporters/guide/enhanced_ender_shard.md",
+      "group": "simpleteleporters",
+      "target": "assets/simpleteleporters/guides/simpleteleporters/guide/_zh_cn/enhanced_ender_shard.md",
+      "words": 217,
+      "translated": true
+    },
+    {
+      "page": "assets/simpleteleporters/guides/simpleteleporters/guide/hearth_crystal.md",
+      "group": "simpleteleporters",
+      "target": "assets/simpleteleporters/guides/simpleteleporters/guide/_zh_cn/hearth_crystal.md",
+      "words": 300,
+      "translated": true
+    },
+    {
+      "page": "assets/simpleteleporters/guides/simpleteleporters/guide/index.md",
+      "group": "simpleteleporters",
+      "target": "assets/simpleteleporters/guides/simpleteleporters/guide/_zh_cn/index.md",
+      "words": 61,
+      "translated": true
+    },
+    {
+      "page": "assets/simpleteleporters/guides/simpleteleporters/guide/teleporter.md",
+      "group": "simpleteleporters",
+      "target": "assets/simpleteleporters/guides/simpleteleporters/guide/_zh_cn/teleporter.md",
+      "words": 350,
+      "translated": true
+    },
+    {
+      "page": "assets/trainingdummy/guides/trainingdummy/guide/easter-eggs.md",
+      "group": "trainingdummy",
+      "target": "assets/trainingdummy/guides/trainingdummy/guide/_zh_cn/easter-eggs.md",
+      "words": 105,
+      "translated": true
+    },
+    {
+      "page": "assets/trainingdummy/guides/trainingdummy/guide/index.md",
+      "group": "trainingdummy",
+      "target": "assets/trainingdummy/guides/trainingdummy/guide/_zh_cn/index.md",
+      "words": 270,
+      "translated": true
+    },
+    {
+      "page": "assets/trainingdummy/guides/trainingdummy/guide/scoreboard.md",
+      "group": "trainingdummy",
+      "target": "assets/trainingdummy/guides/trainingdummy/guide/_zh_cn/scoreboard.md",
+      "words": 279,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/blue_liquid.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/blue_liquid.md",
+      "words": 94,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/cans.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/cans.md",
+      "words": 147,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/desh.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/desh.md",
+      "words": 96,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/diesel.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/diesel.md",
+      "words": 132,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/flag.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/flag.md",
+      "words": 103,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/fluid_cell.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/fluid_cell.md",
+      "words": 108,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/friends_list.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/friends_list.md",
+      "words": 73,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/moon_berries.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/moon_berries.md",
+      "words": 81,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/oil.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/oil.md",
+      "words": 142,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/oil_finder.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/oil_finder.md",
+      "words": 155,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/oxygen_module.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/oxygen_module.md",
+      "words": 179,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/rover.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/rover.md",
+      "words": 249,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/sd_card.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/sd_card.md",
+      "words": 141,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/silicon.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/silicon.md",
+      "words": 59,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/space_suit.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/space_suit.md",
+      "words": 437,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/tablet.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/tablet.md",
+      "words": 178,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/titanium.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/titanium.md",
+      "words": 122,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/items/vaccine.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/vaccine.md",
+      "words": 183,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/antenna.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/antenna.md",
+      "words": 196,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/blender.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/blender.md",
+      "words": 221,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/cables.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/cables.md",
+      "words": 70,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/cargo_unloader.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/cargo_unloader.md",
+      "words": 133,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/coal_generator.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/coal_generator.md",
+      "words": 121,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/diesel_generator.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/diesel_generator.md",
+      "words": 95,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/electric_light.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/electric_light.md",
+      "words": 169,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/electrolyzer.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/electrolyzer.md",
+      "words": 173,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/energy.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/energy.md",
+      "words": 424,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/engineering_station.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/engineering_station.md",
+      "words": 189,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/fluid_tank.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/fluid_tank.md",
+      "words": 72,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/fuel_refinery.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/fuel_refinery.md",
+      "words": 136,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/gravity_manipulator.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/gravity_manipulator.md",
+      "words": 153,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/laboratory.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/laboratory.md",
+      "words": 211,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/oxygen.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/oxygen.md",
+      "words": 406,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/pipes.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/pipes.md",
+      "words": 72,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/power_bank.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/power_bank.md",
+      "words": 74,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/pumpjack.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/pumpjack.md",
+      "words": 182,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/solar_panel.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/solar_panel.md",
+      "words": 131,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/space_farm.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/space_farm.md",
+      "words": 205,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/star_light_panel.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/star_light_panel.md",
+      "words": 131,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/vacuumator.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/vacuumator.md",
+      "words": 195,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/machines/water_pump.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/machines/water_pump.md",
+      "words": 141,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/alien.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/alien.md",
+      "words": 107,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/blue_fish.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/blue_fish.md",
+      "words": 83,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/evolved_parasite_villager.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/evolved_parasite_villager.md",
+      "words": 123,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/heart_of_luna.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/heart_of_luna.md",
+      "words": 368,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/infection.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/infection.md",
+      "words": 429,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/luna_shadow.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/luna_shadow.md",
+      "words": 95,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/parasite.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/parasite.md",
+      "words": 103,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/parasite_villager.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/parasite_villager.md",
+      "words": 144,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/star_crawler.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/star_crawler.md",
+      "words": 156,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/mobs/star_crawler_boss.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/mobs/star_crawler_boss.md",
+      "words": 301,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/planets/earth.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/planets/earth.md",
+      "words": 46,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/planets/gravity.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/planets/gravity.md",
+      "words": 254,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/planets/moon.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/planets/moon.md",
+      "words": 253,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/rocket/lander.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/rocket/lander.md",
+      "words": 180,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/rocket/launch_pad_towers.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/rocket/launch_pad_towers.md",
+      "words": 82,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/rocket/planets.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/rocket/planets.md",
+      "words": 213,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/rocket/rocket.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/rocket/rocket.md",
+      "words": 227,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/rocket/rocket_launch_pad.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/rocket/rocket_launch_pad.md",
+      "words": 127,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/rocket/rocket_modules.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/rocket/rocket_modules.md",
+      "words": 228,
+      "translated": true
+    },
+    {
+      "page": "data/stellaris/wiki/infos/rocket/space_station.md",
+      "group": "stellaris",
+      "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/rocket/space_station.md",
+      "words": 215,
+      "translated": true
+    }
+  ]
+}

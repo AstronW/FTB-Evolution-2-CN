@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "201",
+  "namespace": "craftingtweaks",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 4,
+  "source_sha256": "adf319af661c6493b7201fae458e876992f26ce539d811df4febeddd9e50db11",
+  "in_game_tested": false
+}

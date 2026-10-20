@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "132",
+  "namespace": "emojiful",
+  "source_keys": 21,
+  "unique_values": 21,
+  "chinese_values": 20,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 21,
+  "source_sha256": "5a768643db272b823180f2ea5c3a7e70a79887bc86b971e16488d76fbb6dafa0",
+  "in_game_tested": false
+}

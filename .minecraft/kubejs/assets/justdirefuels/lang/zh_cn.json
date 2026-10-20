@@ -1,0 +1,9 @@
+{
+  "jei.justdirefuels.fluid_fuel.title": "流体发电机燃料",
+  "jei.justdirefuels.fluid_fuel.fe_per_mb": "%s FE / mB",
+  "jei.justdirefuels.item_fuel.title": "固体发电机燃料",
+  "jei.justdirefuels.item_fuel.fe_per_tick": "%s FE / tick",
+  "jei.justdirefuels.item_fuel.fe_per_tick_default": "默认 FE / tick",
+  "jei.justdirefuels.item_fuel.burn_speed": "燃烧速度 %s",
+  "jei.justdirefuels.item_fuel.burn_time": "%s 燃烧刻"
+}

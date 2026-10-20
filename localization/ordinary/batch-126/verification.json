@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "126",
+  "namespace": "colorblindness",
+  "source_keys": 8,
+  "unique_values": 8,
+  "chinese_values": 8,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 8,
+  "source_sha256": "e5576d3c6558514ef2ab449f9619ca8bae6f21f351f86994212348709810b89f",
+  "in_game_tested": false
+}

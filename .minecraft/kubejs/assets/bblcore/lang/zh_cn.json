@@ -1,0 +1,10 @@
+{
+  "tooltip.bblcore.shift": "按 SHIFT 查看更多信息",
+  "tooltip.bblcore.alt": "按 ALT 查看更多信息",
+  "tooltip.bblcore.ctrl": "按 CTRL 查看更多信息",
+  "tooltip.bblcore.whitelist_button.whitelist": "白名单",
+  "tooltip.bblcore.whitelist_button.blacklist": "黑名单",
+  "tooltip.bblcore.whitelist_button.mode": "模式: %s",
+  "tooltip.core.duration_tooltip": "%s / %s 刻",
+  "tooltip.core.ticks": "刻: %s"
+}

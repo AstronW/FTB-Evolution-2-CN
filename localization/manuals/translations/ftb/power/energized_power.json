@@ -1,0 +1,18 @@
+{
+  "3": "  title: Energized Power",
+  "8": "  # <Color id=\"light_purple\">Energized Power</Color>",
+  "18": "  ## <Color id=\"gold\">发电机</Color>",
+  "25": "  ### <Color id=\"aqua\">移除燃煤引擎</Color>",
+  "34": "  ### <Color id=\"aqua\">热力发电机</Color>",
+  "44": "  ## <Color id=\"gold\">太阳能板</Color>",
+  "51": "| 太阳能板 | 峰值输出 |",
+  "53": "| <ItemImage id=\"energizedpower:solar_panel_3\"/> 等级 III | 64 FE/t (128) |",
+  "54": "| <ItemImage id=\"energizedpower:solar_panel_4\"/> 等级 IV | 256 FE/t (2,048) |",
+  "55": "| <ItemImage id=\"energizedpower:solar_panel_5\"/> 等级 V | 512 FE/t (16,384) |",
+  "56": "| <ItemImage id=\"energizedpower:solar_panel_6\"/> 等级 VI | 4,096 FE/t (131,072) |",
+  "57": "| <ItemImage id=\"energizedpower:solar_panel_7\"/> 等级 VII | 16,000 FE/t (524,288) |",
+  "28": "燃煤引擎已移除.原本需要燃煤引擎的热能发电机,热力发电机和便携燃煤引擎,现改用 **基础机器框架** .原本售卖燃煤引擎的电工村民改卖热能发电机.",
+  "37": "每桶熔岩可产生10,000 FE(50,000),与奥瑞科技熔岩发电机一致;Powah岩浆发电机不在此列.",
+  "49": "高等级太阳能板的发电量远低于默认值.I级和II级没有改动.",
+  "59": "> <Color id=\"yellow\">III级和IV级太阳能板应直接连接储能设备.</Color>III级仅能传输64 FE/t(512),IV级仅能储存256 FE(81,920)."
+}

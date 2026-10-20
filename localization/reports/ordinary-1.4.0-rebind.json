@@ -1,0 +1,907 @@
+{
+  "target_pack_version": "1.4.0",
+  "scope": "Rebind ten existing batches only; not full ordinary-language adaptation",
+  "in_game_tested": false,
+  "batches": [
+    {
+      "batch": "002",
+      "old_jar": ".minecraft/mods/hephaestus_tools-neoforge-26.1.2-1.0.7.jar",
+      "current_jar": ".minecraft/mods/hephaestus_tools-neoforge-26.1.2-1.0.8.jar",
+      "jar_sha256": "6f41198cf8eb8e2b415bcaa5a6be41fa6718a51132b7a94919373c861e3453ed",
+      "language_path": "assets/hephaestus_tools/lang/en_us.json",
+      "language_sha256": "3f75aa0edb9c36cb53113df85038dfb36de96cdb0034024427df6de241f81ad1",
+      "previous_keys": 603,
+      "current_selected_keys": 603,
+      "unchanged_selected_keys": 603,
+      "reviewed_changes": {},
+      "pending_added_keys": {
+        "item.hephaestus_tools.paxel": "Paxel",
+        "layout.hephaestus_tools.paxel": "Paxel",
+        "layout.hephaestus_tools.paxel.description": "A pickaxe, shovel and axe in one tool. Breaks almost anything.",
+        "mastery.hephaestus_tools.pathfinder": "Pathfinder",
+        "mastery.hephaestus_tools.pathfinder.desc": "Faster on stone, logs and earth; later saves durability and rewards continuous use.",
+        "mastery.hephaestus_tools.trailblazer": "Trailblazer",
+        "mastery.hephaestus_tools.trailblazer.desc": "Digs dirt, sand, gravel and clay in an area; at Lv30 sneak to dig a straight tunnel instead.",
+        "mastery.hephaestus_tools.frontier": "Frontier",
+        "mastery.hephaestus_tools.frontier.desc": "Balanced gathering bonus; later saves durability, gives light extra drops and rewards streaks."
+      },
+      "compatibility_only_keys": {},
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-002"
+    },
+    {
+      "batch": "003",
+      "old_jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.13.jar",
+      "current_jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.14.jar",
+      "jar_sha256": "52a169bd0274a655fef96f52e5a9d7ce2a77ee0e32a04c51fca0c4fc7be488d4",
+      "language_path": "assets/nautec/lang/en_us.json",
+      "language_sha256": "350b37b0ef6cbc86b9df7bb919cc1d292a22493431df275f5bffcf69ea240670",
+      "previous_keys": 563,
+      "current_selected_keys": 563,
+      "unchanged_selected_keys": 563,
+      "reviewed_changes": {},
+      "pending_added_keys": {},
+      "compatibility_only_keys": {},
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-003"
+    },
+    {
+      "batch": "004",
+      "old_jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.13.jar",
+      "current_jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.14.jar",
+      "jar_sha256": "52a169bd0274a655fef96f52e5a9d7ce2a77ee0e32a04c51fca0c4fc7be488d4",
+      "language_path": "assets/nautec/lang/en_us.json",
+      "language_sha256": "350b37b0ef6cbc86b9df7bb919cc1d292a22493431df275f5bffcf69ea240670",
+      "previous_keys": 551,
+      "current_selected_keys": 551,
+      "unchanged_selected_keys": 551,
+      "reviewed_changes": {},
+      "pending_added_keys": {},
+      "compatibility_only_keys": {},
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-004"
+    },
+    {
+      "batch": "005",
+      "old_jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.13.jar",
+      "current_jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.14.jar",
+      "jar_sha256": "52a169bd0274a655fef96f52e5a9d7ce2a77ee0e32a04c51fca0c4fc7be488d4",
+      "language_path": "assets/nautec/lang/en_us.json",
+      "language_sha256": "350b37b0ef6cbc86b9df7bb919cc1d292a22493431df275f5bffcf69ea240670",
+      "previous_keys": 620,
+      "current_selected_keys": 620,
+      "unchanged_selected_keys": 620,
+      "reviewed_changes": {},
+      "pending_added_keys": {},
+      "compatibility_only_keys": {},
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-005"
+    },
+    {
+      "batch": "006",
+      "old_jar": ".minecraft/mods/stellaris-26.1.2-neoforge-2.0.7.jar",
+      "current_jar": ".minecraft/mods/stellaris-26.1.2-neoforge-2.0.8.jar",
+      "jar_sha256": "7e3823046fc202db023a65a17032058e0ddeaa1a38dadf09e0c7d80f4a91d1ee",
+      "language_path": "assets/stellaris/lang/en_us.json",
+      "language_sha256": "41f1d09b28dd993e13ad3ec82f73cc433e622c2221e9b20f1a0b46ce05f18a83",
+      "previous_keys": 947,
+      "current_selected_keys": 947,
+      "unchanged_selected_keys": 946,
+      "reviewed_changes": {
+        "sd_card.stellaris.stellaris_secrets.content": {
+          "old": "You.. You found this SD card ? This SD card contains a lot of Easter eggs hidden in Stellaris! Here a list of places where they are hidden : - The Home in the Earth wiki page - The other name of the moon on her wiki page - The parasite villager strikes back ? ",
+          "new": "You.. You found this SD card ? This SD card contains a lot of Easter eggs hidden in Stellaris! Here a list of places where they are hidden : - The Home in the Earth wiki page - The other name of the moon on her wiki page - The parasite villager strikes back ?"
+        }
+      },
+      "pending_added_keys": {
+        "jade.stellaris.energy_generation": "Generating: %s FE/t",
+        "jade.stellaris.energy_usage": "Using: %s FE/t",
+        "jade.stellaris.oxygenated_blocks": "Oxygenating %s blocks",
+        "config.jade.plugin_stellaris.energy_rate": "Energy Generation and Usage",
+        "config.jade.plugin_stellaris.oxygen_distributor": "Oxygen Distributor Status",
+        "config.stellaris.pumpjackFluid": "Pumpjack Output Fluid",
+        "config.stellaris.oilConfig.pumpjackFluid.desc": "The fluid the Pumpjack extracts, as a fluid ID. Defaults to stellaris:oil. The Fuel Refinery and the oil slots accept any fluid in the c:oil tag.",
+        "config.stellaris.energyConfig": "Energy Settings",
+        "config.stellaris.energyMultiplier": "Energy Multiplier",
+        "config.stellaris.energyConfig.desc": "Settings related to how much energy Stellaris produces, stores and consumes.",
+        "config.stellaris.energyConfig.energyMultiplier.desc": "Multiplies every Stellaris energy value: generator output, machine and item costs, storage capacities and cable throughput. Ratios between them stay the same. Changes apply to machines when they are next loaded.",
+        "painting.stellaris.the_milky_way.title": "The Milky Way",
+        "painting.stellaris.sun.title": "Sun",
+        "painting.stellaris.earth.title": "Earth",
+        "painting.stellaris.moon.title": "Moon",
+        "painting.stellaris.mars.title": "Mars",
+        "painting.stellaris.mercury.title": "Mercury",
+        "painting.stellaris.venus.title": "Venus",
+        "painting.stellaris.neptune.title": "Neptune",
+        "painting.stellaris.saturn.title": "Saturn",
+        "painting.stellaris.jupiter.title": "Jupiter",
+        "painting.stellaris.pluto.title": "Pluto",
+        "painting.stellaris.uranus.title": "Uranus",
+        "painting.stellaris.proxima_centaury.title": "Proxima Centauri",
+        "painting.stellaris.glacio.title": "Glacio",
+        "subtitles.stellaris.beep": "Lander warning beeps",
+        "subtitles.stellaris.sonic_boom": "Sonic boom"
+      },
+      "compatibility_only_keys": {},
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-006"
+    },
+    {
+      "batch": "007",
+      "old_jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.20.jar",
+      "current_jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.22.jar",
+      "jar_sha256": "94c521adb662cc339cc95c1f81c03625c9375ed7ad29cd3a8770f3c2af64f929",
+      "language_path": "assets/ftbevolutioncompanion/lang/en_us.json",
+      "language_sha256": "ecd386621add54121bb23843999956a5710d6308c62eb9ef418359b7f07af5ac",
+      "previous_keys": 516,
+      "current_selected_keys": 342,
+      "unchanged_selected_keys": 342,
+      "reviewed_changes": {},
+      "pending_added_keys": {},
+      "compatibility_only_keys": {
+        "fluid_type.ftb.molten_adamantite": {
+          "source": "Molten Adamantite",
+          "translation": "熔融精金"
+        },
+        "block.ftb.molten_adamantite_block": {
+          "source": "Molten Adamantite",
+          "translation": "熔融精金"
+        },
+        "item.ftb.molten_adamantite_bucket": {
+          "source": "Molten Adamantite Bucket",
+          "translation": "熔融精金桶"
+        },
+        "fluid_type.ftb.molten_aeternium": {
+          "source": "Molten Aeternium",
+          "translation": "熔融永恒金属"
+        },
+        "block.ftb.molten_aeternium_block": {
+          "source": "Molten Aeternium",
+          "translation": "熔融永恒金属"
+        },
+        "item.ftb.molten_aeternium_bucket": {
+          "source": "Molten Aeternium Bucket",
+          "translation": "熔融永恒金属桶"
+        },
+        "fluid_type.ftb.molten_aurichalcum": {
+          "source": "Molten Aurichalcum",
+          "translation": "熔融奥利哈刚"
+        },
+        "block.ftb.molten_aurichalcum_block": {
+          "source": "Molten Aurichalcum",
+          "translation": "熔融奥利哈刚"
+        },
+        "item.ftb.molten_aurichalcum_bucket": {
+          "source": "Molten Aurichalcum Bucket",
+          "translation": "熔融奥利哈刚桶"
+        },
+        "fluid_type.ftb.molten_titanium": {
+          "source": "Molten Titanium",
+          "translation": "熔融钛"
+        },
+        "block.ftb.molten_titanium_block": {
+          "source": "Molten Titanium",
+          "translation": "熔融钛"
+        },
+        "item.ftb.molten_titanium_bucket": {
+          "source": "Molten Titanium Bucket",
+          "translation": "熔融钛桶"
+        },
+        "fluid_type.ftb.molten_chromium": {
+          "source": "Molten Chromium",
+          "translation": "熔融铬"
+        },
+        "block.ftb.molten_chromium_block": {
+          "source": "Molten Chromium",
+          "translation": "熔融铬"
+        },
+        "item.ftb.molten_chromium_bucket": {
+          "source": "Molten Chromium Bucket",
+          "translation": "熔融铬桶"
+        },
+        "fluid_type.ftb.molten_wrought_iron": {
+          "source": "Molten Wrought Iron",
+          "translation": "熔融锻铁"
+        },
+        "block.ftb.molten_wrought_iron_block": {
+          "source": "Molten Wrought Iron",
+          "translation": "熔融锻铁"
+        },
+        "item.ftb.molten_wrought_iron_bucket": {
+          "source": "Molten Wrought Iron Bucket",
+          "translation": "熔融锻铁桶"
+        },
+        "fluid_type.ftb.molten_conductive_alloy": {
+          "source": "Molten Conductive Alloy",
+          "translation": "熔融导电合金"
+        },
+        "block.ftb.molten_conductive_alloy_block": {
+          "source": "Molten Conductive Alloy",
+          "translation": "熔融导电合金"
+        },
+        "item.ftb.molten_conductive_alloy_bucket": {
+          "source": "Molten Conductive Alloy Bucket",
+          "translation": "熔融导电合金桶"
+        },
+        "fluid_type.ftb.molten_redstone_alloy": {
+          "source": "Molten Redstone Alloy",
+          "translation": "熔融红石合金"
+        },
+        "block.ftb.molten_redstone_alloy_block": {
+          "source": "Molten Redstone Alloy",
+          "translation": "熔融红石合金"
+        },
+        "item.ftb.molten_redstone_alloy_bucket": {
+          "source": "Molten Redstone Alloy Bucket",
+          "translation": "熔融红石合金桶"
+        },
+        "fluid_type.ftb.molten_energetic_alloy": {
+          "source": "Molten Energetic Alloy",
+          "translation": "熔融充能合金"
+        },
+        "block.ftb.molten_energetic_alloy_block": {
+          "source": "Molten Energetic Alloy",
+          "translation": "熔融充能合金"
+        },
+        "item.ftb.molten_energetic_alloy_bucket": {
+          "source": "Molten Energetic Alloy Bucket",
+          "translation": "熔融充能合金桶"
+        },
+        "fluid_type.ftb.molten_pulsating_alloy": {
+          "source": "Molten Pulsating Alloy",
+          "translation": "熔融脉冲合金"
+        },
+        "block.ftb.molten_pulsating_alloy_block": {
+          "source": "Molten Pulsating Alloy",
+          "translation": "熔融脉冲合金"
+        },
+        "item.ftb.molten_pulsating_alloy_bucket": {
+          "source": "Molten Pulsating Alloy Bucket",
+          "translation": "熔融脉冲合金桶"
+        },
+        "fluid_type.ftb.molten_soularium": {
+          "source": "Molten Soularium",
+          "translation": "熔融魂金"
+        },
+        "block.ftb.molten_soularium_block": {
+          "source": "Molten Soularium",
+          "translation": "熔融魂金"
+        },
+        "item.ftb.molten_soularium_bucket": {
+          "source": "Molten Soularium Bucket",
+          "translation": "熔融魂金桶"
+        },
+        "fluid_type.ftb.molten_vibrant_alloy": {
+          "source": "Molten Vibrant Alloy",
+          "translation": "熔融振动合金"
+        },
+        "block.ftb.molten_vibrant_alloy_block": {
+          "source": "Molten Vibrant Alloy",
+          "translation": "熔融振动合金"
+        },
+        "item.ftb.molten_vibrant_alloy_bucket": {
+          "source": "Molten Vibrant Alloy Bucket",
+          "translation": "熔融振动合金桶"
+        },
+        "fluid_type.ftb.molten_dark_steel": {
+          "source": "Molten Dark Steel",
+          "translation": "熔融玄钢"
+        },
+        "block.ftb.molten_dark_steel_block": {
+          "source": "Molten Dark Steel",
+          "translation": "熔融玄钢"
+        },
+        "item.ftb.molten_dark_steel_bucket": {
+          "source": "Molten Dark Steel Bucket",
+          "translation": "熔融玄钢桶"
+        },
+        "fluid_type.ftb.molten_end_steel": {
+          "source": "Molten End Steel",
+          "translation": "熔融末地钢"
+        },
+        "block.ftb.molten_end_steel_block": {
+          "source": "Molten End Steel",
+          "translation": "熔融末地钢"
+        },
+        "item.ftb.molten_end_steel_bucket": {
+          "source": "Molten End Steel Bucket",
+          "translation": "熔融末地钢桶"
+        },
+        "fluid_type.ftb.molten_energetic_silver": {
+          "source": "Molten Energetic Silver",
+          "translation": "熔融充能银"
+        },
+        "block.ftb.molten_energetic_silver_block": {
+          "source": "Molten Energetic Silver",
+          "translation": "熔融充能银"
+        },
+        "item.ftb.molten_energetic_silver_bucket": {
+          "source": "Molten Energetic Silver Bucket",
+          "translation": "熔融充能银桶"
+        },
+        "fluid_type.ftb.molten_vivid_alloy": {
+          "source": "Molten Vivid Alloy",
+          "translation": "熔融生动合金"
+        },
+        "block.ftb.molten_vivid_alloy_block": {
+          "source": "Molten Vivid Alloy",
+          "translation": "熔融生动合金"
+        },
+        "item.ftb.molten_vivid_alloy_bucket": {
+          "source": "Molten Vivid Alloy Bucket",
+          "translation": "熔融生动合金桶"
+        },
+        "fluid_type.ftb.molten_energized_copper": {
+          "source": "Molten Energized Copper",
+          "translation": "熔融激能铜"
+        },
+        "block.ftb.molten_energized_copper_block": {
+          "source": "Molten Energized Copper",
+          "translation": "熔融激能铜"
+        },
+        "item.ftb.molten_energized_copper_bucket": {
+          "source": "Molten Energized Copper Bucket",
+          "translation": "熔融激能铜桶"
+        },
+        "fluid_type.ftb.molten_energized_gold": {
+          "source": "Molten Energized Gold",
+          "translation": "熔融激能金"
+        },
+        "block.ftb.molten_energized_gold_block": {
+          "source": "Molten Energized Gold",
+          "translation": "熔融激能金"
+        },
+        "item.ftb.molten_energized_gold_bucket": {
+          "source": "Molten Energized Gold Bucket",
+          "translation": "熔融激能金桶"
+        },
+        "fluid_type.ftb.molten_advanced_alloy": {
+          "source": "Molten Advanced Alloy",
+          "translation": "熔融高级合金"
+        },
+        "block.ftb.molten_advanced_alloy_block": {
+          "source": "Molten Advanced Alloy",
+          "translation": "熔融高级合金"
+        },
+        "item.ftb.molten_advanced_alloy_bucket": {
+          "source": "Molten Advanced Alloy Bucket",
+          "translation": "熔融高级合金桶"
+        },
+        "fluid_type.ftb.molten_energized_alloy": {
+          "source": "Molten Energized Alloy",
+          "translation": "熔融激能合金"
+        },
+        "block.ftb.molten_energized_alloy_block": {
+          "source": "Molten Energized Alloy",
+          "translation": "熔融激能合金"
+        },
+        "item.ftb.molten_energized_alloy_bucket": {
+          "source": "Molten Energized Alloy Bucket",
+          "translation": "熔融激能合金桶"
+        },
+        "fluid_type.ftb.molten_crystallized_alloy": {
+          "source": "Molten Crystallized Alloy",
+          "translation": "熔融结晶合金"
+        },
+        "block.ftb.molten_crystallized_alloy_block": {
+          "source": "Molten Crystallized Alloy",
+          "translation": "熔融结晶合金"
+        },
+        "item.ftb.molten_crystallized_alloy_bucket": {
+          "source": "Molten Crystallized Alloy Bucket",
+          "translation": "熔融结晶合金桶"
+        },
+        "fluid_type.ftb.molten_niobium": {
+          "source": "Molten Niobium",
+          "translation": "熔融铌"
+        },
+        "block.ftb.molten_niobium_block": {
+          "source": "Molten Niobium",
+          "translation": "熔融铌"
+        },
+        "item.ftb.molten_niobium_bucket": {
+          "source": "Molten Niobium Bucket",
+          "translation": "熔融铌桶"
+        },
+        "fluid_type.ftb.molten_slatesteel": {
+          "source": "Molten Slatesteel",
+          "translation": "熔融板岩钢"
+        },
+        "block.ftb.molten_slatesteel_block": {
+          "source": "Molten Slatesteel",
+          "translation": "熔融板岩钢"
+        },
+        "item.ftb.molten_slatesteel_bucket": {
+          "source": "Molten Slatesteel Bucket",
+          "translation": "熔融板岩钢桶"
+        },
+        "fluid_type.ftb.molten_tungsten_slatesteel": {
+          "source": "Molten Tungsten Slatesteel",
+          "translation": "熔融镀钨板岩钢"
+        },
+        "block.ftb.molten_tungsten_slatesteel_block": {
+          "source": "Molten Tungsten Slatesteel",
+          "translation": "熔融镀钨板岩钢"
+        },
+        "item.ftb.molten_tungsten_slatesteel_bucket": {
+          "source": "Molten Tungsten Slatesteel Bucket",
+          "translation": "熔融镀钨板岩钢桶"
+        },
+        "fluid_type.ftb.molten_desh": {
+          "source": "Molten Desh",
+          "translation": "熔融戴斯"
+        },
+        "block.ftb.molten_desh_block": {
+          "source": "Molten Desh",
+          "translation": "熔融戴斯"
+        },
+        "item.ftb.molten_desh_bucket": {
+          "source": "Molten Desh Bucket",
+          "translation": "熔融戴斯桶"
+        },
+        "fluid_type.ftb.molten_ferricore": {
+          "source": "Molten Ferricore",
+          "translation": "熔融铁核"
+        },
+        "block.ftb.molten_ferricore_block": {
+          "source": "Molten Ferricore",
+          "translation": "熔融铁核"
+        },
+        "item.ftb.molten_ferricore_bucket": {
+          "source": "Molten Ferricore Bucket",
+          "translation": "熔融铁核桶"
+        },
+        "fluid_type.ftb.molten_blazegold": {
+          "source": "Molten Blazegold",
+          "translation": "熔融烈焰金"
+        },
+        "block.ftb.molten_blazegold_block": {
+          "source": "Molten Blazegold",
+          "translation": "熔融烈焰金"
+        },
+        "item.ftb.molten_blazegold_bucket": {
+          "source": "Molten Blazegold Bucket",
+          "translation": "熔融烈焰金桶"
+        },
+        "fluid_type.ftb.molten_eclipse_alloy": {
+          "source": "Molten Eclipse Alloy",
+          "translation": "熔融蚀空合金"
+        },
+        "block.ftb.molten_eclipse_alloy_block": {
+          "source": "Molten Eclipse Alloy",
+          "translation": "熔融蚀空合金"
+        },
+        "item.ftb.molten_eclipse_alloy_bucket": {
+          "source": "Molten Eclipse Alloy Bucket",
+          "translation": "熔融蚀空合金桶"
+        },
+        "fluid_type.ftb.molten_thaumium": {
+          "source": "Molten Thaumium",
+          "translation": "熔融神秘金属"
+        },
+        "block.ftb.molten_thaumium_block": {
+          "source": "Molten Thaumium",
+          "translation": "熔融神秘金属"
+        },
+        "item.ftb.molten_thaumium_bucket": {
+          "source": "Molten Thaumium Bucket",
+          "translation": "熔融神秘金属桶"
+        },
+        "fluid_type.ftb.molten_void_metal": {
+          "source": "Molten Void Metal",
+          "translation": "熔融虚空金属"
+        },
+        "block.ftb.molten_void_metal_block": {
+          "source": "Molten Void Metal",
+          "translation": "熔融虚空金属"
+        },
+        "item.ftb.molten_void_metal_bucket": {
+          "source": "Molten Void Metal Bucket",
+          "translation": "熔融虚空金属桶"
+        },
+        "fluid_type.ftb.molten_hellforged": {
+          "source": "Molten Hellforged",
+          "translation": "熔融狱锻"
+        },
+        "block.ftb.molten_hellforged_block": {
+          "source": "Molten Hellforged",
+          "translation": "熔融狱锻"
+        },
+        "item.ftb.molten_hellforged_bucket": {
+          "source": "Molten Hellforged Bucket",
+          "translation": "熔融狱锻桶"
+        },
+        "fluid_type.ftb.molten_iesnium": {
+          "source": "Molten Iesnium",
+          "translation": "熔融艾瑟金属"
+        },
+        "block.ftb.molten_iesnium_block": {
+          "source": "Molten Iesnium",
+          "translation": "熔融艾瑟金属"
+        },
+        "item.ftb.molten_iesnium_bucket": {
+          "source": "Molten Iesnium Bucket",
+          "translation": "熔融艾瑟金属桶"
+        },
+        "fluid_type.ftb.molten_atlantic_gold": {
+          "source": "Molten Atlantic Gold",
+          "translation": "熔融海洋金"
+        },
+        "block.ftb.molten_atlantic_gold_block": {
+          "source": "Molten Atlantic Gold",
+          "translation": "熔融海洋金"
+        },
+        "item.ftb.molten_atlantic_gold_bucket": {
+          "source": "Molten Atlantic Gold Bucket",
+          "translation": "熔融海洋金桶"
+        },
+        "fluid_type.ftb.molten_aquarine_steel": {
+          "source": "Molten Aquarine Steel",
+          "translation": "熔融海蓝钢"
+        },
+        "block.ftb.molten_aquarine_steel_block": {
+          "source": "Molten Aquarine Steel",
+          "translation": "熔融海蓝钢"
+        },
+        "item.ftb.molten_aquarine_steel_bucket": {
+          "source": "Molten Aquarine Steel Bucket",
+          "translation": "熔融海蓝钢桶"
+        },
+        "fluid_type.ftb.molten_dragonsteel_fire": {
+          "source": "Molten Fire Dragonsteel",
+          "translation": "熔融炎龙钢"
+        },
+        "block.ftb.molten_dragonsteel_fire_block": {
+          "source": "Molten Fire Dragonsteel",
+          "translation": "熔融炎龙钢"
+        },
+        "item.ftb.molten_dragonsteel_fire_bucket": {
+          "source": "Molten Fire Dragonsteel Bucket",
+          "translation": "熔融炎龙钢桶"
+        },
+        "fluid_type.ftb.molten_dragonsteel_ice": {
+          "source": "Molten Ice Dragonsteel",
+          "translation": "熔融冰龙钢"
+        },
+        "block.ftb.molten_dragonsteel_ice_block": {
+          "source": "Molten Ice Dragonsteel",
+          "translation": "熔融冰龙钢"
+        },
+        "item.ftb.molten_dragonsteel_ice_bucket": {
+          "source": "Molten Ice Dragonsteel Bucket",
+          "translation": "熔融冰龙钢桶"
+        },
+        "fluid_type.ftb.molten_dragonsteel_lightning": {
+          "source": "Molten Lightning Dragonsteel",
+          "translation": "熔融雷龙钢"
+        },
+        "block.ftb.molten_dragonsteel_lightning_block": {
+          "source": "Molten Lightning Dragonsteel",
+          "translation": "熔融雷龙钢"
+        },
+        "item.ftb.molten_dragonsteel_lightning_bucket": {
+          "source": "Molten Lightning Dragonsteel Bucket",
+          "translation": "熔融雷龙钢桶"
+        },
+        "fluid_type.ftb.molten_adamant": {
+          "source": "Molten Adamant",
+          "translation": "熔融精金"
+        },
+        "block.ftb.molten_adamant_block": {
+          "source": "Molten Adamant",
+          "translation": "熔融精金"
+        },
+        "item.ftb.molten_adamant_bucket": {
+          "source": "Molten Adamant Bucket",
+          "translation": "熔融精金桶"
+        },
+        "fluid_type.ftb.molten_duratium": {
+          "source": "Molten Duratium",
+          "translation": "熔融昶铂"
+        },
+        "block.ftb.molten_duratium_block": {
+          "source": "Molten Duratium",
+          "translation": "熔融昶铂"
+        },
+        "item.ftb.molten_duratium_bucket": {
+          "source": "Molten Duratium Bucket",
+          "translation": "熔融昶铂桶"
+        },
+        "fluid_type.ftb.molten_prometheum": {
+          "source": "Molten Prometheum",
+          "translation": "熔融钷"
+        },
+        "block.ftb.molten_prometheum_block": {
+          "source": "Molten Prometheum",
+          "translation": "熔融钷"
+        },
+        "item.ftb.molten_prometheum_bucket": {
+          "source": "Molten Prometheum Bucket",
+          "translation": "熔融钷桶"
+        },
+        "fluid_type.ftb.molten_ruby": {
+          "source": "Molten Ruby",
+          "translation": "熔融红宝石"
+        },
+        "block.ftb.molten_ruby_block": {
+          "source": "Molten Ruby",
+          "translation": "熔融红宝石"
+        },
+        "item.ftb.molten_ruby_bucket": {
+          "source": "Molten Ruby Bucket",
+          "translation": "熔融红宝石桶"
+        },
+        "fluid_type.ftb.molten_sapphire": {
+          "source": "Molten Sapphire",
+          "translation": "熔融蓝宝石"
+        },
+        "block.ftb.molten_sapphire_block": {
+          "source": "Molten Sapphire",
+          "translation": "熔融蓝宝石"
+        },
+        "item.ftb.molten_sapphire_bucket": {
+          "source": "Molten Sapphire Bucket",
+          "translation": "熔融蓝宝石桶"
+        },
+        "fluid_type.ftb.molten_peridot": {
+          "source": "Molten Peridot",
+          "translation": "熔融橄榄石"
+        },
+        "block.ftb.molten_peridot_block": {
+          "source": "Molten Peridot",
+          "translation": "熔融橄榄石"
+        },
+        "item.ftb.molten_peridot_bucket": {
+          "source": "Molten Peridot Bucket",
+          "translation": "熔融橄榄石桶"
+        },
+        "fluid_type.ftb.molten_topaz": {
+          "source": "Molten Topaz",
+          "translation": "熔融黄玉"
+        },
+        "block.ftb.molten_topaz_block": {
+          "source": "Molten Topaz",
+          "translation": "熔融黄玉"
+        },
+        "item.ftb.molten_topaz_bucket": {
+          "source": "Molten Topaz Bucket",
+          "translation": "熔融黄玉桶"
+        },
+        "fluid_type.ftb.molten_onyx": {
+          "source": "Molten Onyx",
+          "translation": "熔融缟玛瑙"
+        },
+        "block.ftb.molten_onyx_block": {
+          "source": "Molten Onyx",
+          "translation": "熔融缟玛瑙"
+        },
+        "item.ftb.molten_onyx_bucket": {
+          "source": "Molten Onyx Bucket",
+          "translation": "熔融缟玛瑙桶"
+        },
+        "fluid_type.ftb.molten_garnet": {
+          "source": "Molten Garnet",
+          "translation": "熔融石榴石"
+        },
+        "block.ftb.molten_garnet_block": {
+          "source": "Molten Garnet",
+          "translation": "熔融石榴石"
+        },
+        "item.ftb.molten_garnet_bucket": {
+          "source": "Molten Garnet Bucket",
+          "translation": "熔融石榴石桶"
+        },
+        "fluid_type.ftb.molten_moonstone": {
+          "source": "Molten Moonstone",
+          "translation": "熔融月长石"
+        },
+        "block.ftb.molten_moonstone_block": {
+          "source": "Molten Moonstone",
+          "translation": "熔融月长石"
+        },
+        "item.ftb.molten_moonstone_bucket": {
+          "source": "Molten Moonstone Bucket",
+          "translation": "熔融月长石桶"
+        },
+        "fluid_type.ftb.molten_prismarine": {
+          "source": "Molten Prismarine",
+          "translation": "熔融海晶石"
+        },
+        "block.ftb.molten_prismarine_block": {
+          "source": "Molten Prismarine",
+          "translation": "熔融海晶石"
+        },
+        "item.ftb.molten_prismarine_bucket": {
+          "source": "Molten Prismarine Bucket",
+          "translation": "熔融海晶石桶"
+        },
+        "fluid_type.ftb.molten_certus_quartz": {
+          "source": "Molten Certus Quartz",
+          "translation": "熔融赛特斯石英"
+        },
+        "block.ftb.molten_certus_quartz_block": {
+          "source": "Molten Certus Quartz",
+          "translation": "熔融赛特斯石英"
+        },
+        "item.ftb.molten_certus_quartz_bucket": {
+          "source": "Molten Certus Quartz Bucket",
+          "translation": "熔融赛特斯石英桶"
+        },
+        "fluid_type.ftb.molten_fluix": {
+          "source": "Molten Fluix",
+          "translation": "熔融福鲁伊克斯"
+        },
+        "block.ftb.molten_fluix_block": {
+          "source": "Molten Fluix",
+          "translation": "熔融福鲁伊克斯"
+        },
+        "item.ftb.molten_fluix_bucket": {
+          "source": "Molten Fluix Bucket",
+          "translation": "熔融福鲁伊克斯桶"
+        },
+        "fluid_type.ftb.molten_entro": {
+          "source": "Molten Entro",
+          "translation": "熔融恩特罗"
+        },
+        "block.ftb.molten_entro_block": {
+          "source": "Molten Entro",
+          "translation": "熔融恩特罗"
+        },
+        "item.ftb.molten_entro_bucket": {
+          "source": "Molten Entro Bucket",
+          "translation": "熔融恩特罗桶"
+        },
+        "fluid_type.ftb.molten_fluxite": {
+          "source": "Molten Fluxite",
+          "translation": "熔融通量水晶"
+        },
+        "block.ftb.molten_fluxite_block": {
+          "source": "Molten Fluxite",
+          "translation": "熔融通量水晶"
+        },
+        "item.ftb.molten_fluxite_bucket": {
+          "source": "Molten Fluxite Bucket",
+          "translation": "熔融通量水晶桶"
+        },
+        "fluid_type.ftb.molten_xychorium": {
+          "source": "Molten Xychorium",
+          "translation": "熔融Xy晶"
+        },
+        "block.ftb.molten_xychorium_block": {
+          "source": "Molten Xychorium",
+          "translation": "熔融Xy晶"
+        },
+        "item.ftb.molten_xychorium_bucket": {
+          "source": "Molten Xychorium Bucket",
+          "translation": "熔融Xy晶桶"
+        },
+        "fluid_type.ftb.molten_spirit_attuned": {
+          "source": "Molten Spirit Attuned",
+          "translation": "熔融灵魂调谐"
+        },
+        "block.ftb.molten_spirit_attuned_block": {
+          "source": "Molten Spirit Attuned",
+          "translation": "熔融灵魂调谐"
+        },
+        "item.ftb.molten_spirit_attuned_bucket": {
+          "source": "Molten Spirit Attuned Bucket",
+          "translation": "熔融灵魂调谐桶"
+        },
+        "fluid_type.ftb.molten_dark_gem": {
+          "source": "Molten Dark Gem",
+          "translation": "熔融暗黑宝石"
+        },
+        "block.ftb.molten_dark_gem_block": {
+          "source": "Molten Dark Gem",
+          "translation": "熔融暗黑宝石"
+        },
+        "item.ftb.molten_dark_gem_bucket": {
+          "source": "Molten Dark Gem Bucket",
+          "translation": "熔融暗黑宝石桶"
+        },
+        "fluid_type.ftb.molten_celestine": {
+          "source": "Molten Celestine",
+          "translation": "熔融天青石"
+        },
+        "block.ftb.molten_celestine_block": {
+          "source": "Molten Celestine",
+          "translation": "熔融天青石"
+        },
+        "item.ftb.molten_celestine_bucket": {
+          "source": "Molten Celestine Bucket",
+          "translation": "熔融天青石桶"
+        },
+        "fluid_type.ftb.molten_olivine": {
+          "source": "Molten Olivine",
+          "translation": "熔融橄榄石"
+        },
+        "block.ftb.molten_olivine_block": {
+          "source": "Molten Olivine",
+          "translation": "熔融橄榄石"
+        },
+        "item.ftb.molten_olivine_bucket": {
+          "source": "Molten Olivine Bucket",
+          "translation": "熔融橄榄石桶"
+        },
+        "fluid_type.ftb.molten_dimensional_shard": {
+          "source": "Molten Dimensional Shard",
+          "translation": "熔融维度碎片"
+        },
+        "block.ftb.molten_dimensional_shard_block": {
+          "source": "Molten Dimensional Shard",
+          "translation": "熔融维度碎片"
+        },
+        "item.ftb.molten_dimensional_shard_bucket": {
+          "source": "Molten Dimensional Shard Bucket",
+          "translation": "熔融维度碎片桶"
+        }
+      },
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-007"
+    },
+    {
+      "batch": "010",
+      "old_jar": ".minecraft/mods/starcatcher-3.3.8.1-NEOFORGE-26.1.2.jar",
+      "current_jar": ".minecraft/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+      "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+      "language_path": "assets/starcatcher/lang/en_us.json",
+      "language_sha256": "ab3cc8a933b2974778430ba028037ae29c8be77d478895a59919d5d02320630d",
+      "previous_keys": 753,
+      "current_selected_keys": 753,
+      "unchanged_selected_keys": 753,
+      "reviewed_changes": {},
+      "pending_added_keys": {},
+      "compatibility_only_keys": {},
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-010"
+    },
+    {
+      "batch": "011",
+      "old_jar": ".minecraft/mods/starcatcher-3.3.8.1-NEOFORGE-26.1.2.jar",
+      "current_jar": ".minecraft/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+      "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+      "language_path": "assets/starcatcher/lang/en_us.json",
+      "language_sha256": "ab3cc8a933b2974778430ba028037ae29c8be77d478895a59919d5d02320630d",
+      "previous_keys": 592,
+      "current_selected_keys": 592,
+      "unchanged_selected_keys": 592,
+      "reviewed_changes": {},
+      "pending_added_keys": {},
+      "compatibility_only_keys": {},
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-011"
+    },
+    {
+      "batch": "016",
+      "old_jar": ".minecraft/mods/witchery-0.5.21+mc26.1.2.jar",
+      "current_jar": ".minecraft/mods/witchery-0.5.22+mc26.1.2.jar",
+      "jar_sha256": "1871960f830cd12651c8701f8c9fa56ec0f4e305ba6b28976a799b7995ceb146",
+      "language_path": "assets/witchery/lang/en_us.json",
+      "language_sha256": "2083aeca17b326f990ad8fac858c276c275403fea62ea79069a88cfd138f19a5",
+      "previous_keys": 434,
+      "current_selected_keys": 434,
+      "unchanged_selected_keys": 434,
+      "reviewed_changes": {},
+      "pending_added_keys": {},
+      "compatibility_only_keys": {},
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-016"
+    },
+    {
+      "batch": "017",
+      "old_jar": ".minecraft/mods/jei-26.1.2-neoforge-29.47.0.110.jar",
+      "current_jar": ".minecraft/mods/jei-26.1.2-neoforge-29.47.0.111.jar",
+      "jar_sha256": "06365155a29b06199aa2160489349948cb44072d335125e5f0a5003dcb76c386",
+      "language_path": "assets/jei/lang/en_us.json",
+      "language_sha256": "8bd91b9b8bbeebf114df69b3caf71b9992ac699f56424d79fcca37f0838911e4",
+      "previous_keys": 357,
+      "current_selected_keys": 357,
+      "unchanged_selected_keys": 357,
+      "reviewed_changes": {},
+      "pending_added_keys": {},
+      "compatibility_only_keys": {},
+      "scope": "Existing batch keys still present in target JAR; new keys tracked separately; compatibility keys retained in overlay, not counted as current JAR keys",
+      "archive": "localization/archive/ordinary-1.3.2/batch-017"
+    }
+  ]
+}

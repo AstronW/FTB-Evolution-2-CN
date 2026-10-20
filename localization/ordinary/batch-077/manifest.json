@@ -1,0 +1,29 @@
+{
+  "batch": "077",
+  "namespace": "integratedtunnels",
+  "jar": ".minecraft/mods/integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+  "language_path": "assets/integratedtunnels/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integratedtunnels/lang/zh_cn.json",
+  "include_keys": [
+    "gui.integratedtunnels.partsettings.channel.interface.pasted",
+    "aspect.aspecttypes.integratedtunnels.boolean.item.predicateslotbased",
+    "aspect.aspecttypes.integratedtunnels.boolean.item.predicateslotbased.info",
+    "aspect.aspecttypes.integratedtunnels.boolean.fluid.predicateslotbased",
+    "aspect.aspecttypes.integratedtunnels.boolean.fluid.predicateslotbased.info",
+    "aspect.aspecttypes.integratedtunnels.boolean.world.matchblock",
+    "aspect.aspecttypes.integratedtunnels.boolean.world.matchblock.info",
+    "aspect.aspecttypes.integratedtunnels.integer.player.rightclickduration",
+    "aspect.aspecttypes.integratedtunnels.integer.player.rightclickduration.info",
+    "aspect.aspecttypes.integratedtunnels.boolean.player.networkinventory",
+    "aspect.aspecttypes.integratedtunnels.boolean.player.networkinventory.info",
+    "aspect.aspecttypes.integratedtunnels.boolean.passiveioignorefilter",
+    "aspect.aspecttypes.integratedtunnels.boolean.passiveioignorefilter.info",
+    "aspect.integratedtunnels.write.integer.world.entity.item.slot.export",
+    "aspect.integratedtunnels.write.integer.world.entity.item.slot.export.info",
+    "aspect.integratedtunnels.write.long.world.entity.energy.export.info",
+    "aspect.integratedtunnels.write.integer.world.entity.item.slot.import",
+    "aspect.integratedtunnels.write.integer.world.entity.item.slot.import.info"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

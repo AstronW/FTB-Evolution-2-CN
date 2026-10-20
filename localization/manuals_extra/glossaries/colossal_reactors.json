@@ -1,0 +1,1610 @@
+{
+  "itemGroup.colossal_reactors": {
+    "en": "Colossal Reactors",
+    "zh": "巨型反应堆"
+  },
+  "block.colossal_reactors.reactor_glass": {
+    "en": "Reactor Glass",
+    "zh": "反应堆玻璃"
+  },
+  "block.colossal_reactors.reactor_casing": {
+    "en": "Reactor Casing",
+    "zh": "反应堆外壳"
+  },
+  "block.colossal_reactors.reactor_controller": {
+    "en": "Reactor Controller",
+    "zh": "反应堆控制器"
+  },
+  "block.colossal_reactors.reactor_builder": {
+    "en": "Reactor Builder",
+    "zh": "反应堆建造器"
+  },
+  "block.colossal_reactors.reactor_rod": {
+    "en": "Reactor Rod",
+    "zh": "反应堆燃料棒"
+  },
+  "block.colossal_reactors.power_port": {
+    "en": "Reactor Power Port",
+    "zh": "反应堆能量端口"
+  },
+  "block.colossal_reactors.high_cond_power_port": {
+    "en": "Reactor High Conduction Power Port",
+    "zh": "反应堆高传导能量端口"
+  },
+  "block.colossal_reactors.redstone_port": {
+    "en": "Reactor Redstone Port",
+    "zh": "反应堆红石端口"
+  },
+  "block.colossal_reactors.resource_port": {
+    "en": "Reactor Resource Port",
+    "zh": "反应堆资源端口"
+  },
+  "block.colossal_reactors.melter": {
+    "en": "Melter",
+    "zh": "熔化器"
+  },
+  "block.colossal_reactors.radiation_scrubber": {
+    "en": "Radiation Scrubber",
+    "zh": "辐射净化器"
+  },
+  "block.colossal_reactors.rod_controller": {
+    "en": "Reactor Rod Controller",
+    "zh": "反应堆燃料棒控制器"
+  },
+  "block.colossal_reactors.turbine_casing": {
+    "en": "Turbine Casing",
+    "zh": "涡轮机外壳"
+  },
+  "block.colossal_reactors.turbine_glass": {
+    "en": "Turbine Glass",
+    "zh": "涡轮机玻璃"
+  },
+  "block.colossal_reactors.turbine_controller": {
+    "en": "Turbine Controller",
+    "zh": "涡轮机控制器"
+  },
+  "block.colossal_reactors.turbine_builder": {
+    "en": "Turbine Builder",
+    "zh": "涡轮机建造器"
+  },
+  "block.colossal_reactors.turbine_rod": {
+    "en": "Turbine Rod",
+    "zh": "涡轮转轴"
+  },
+  "block.colossal_reactors.turbine_blade": {
+    "en": "Turbine Blade",
+    "zh": "涡轮叶片"
+  },
+  "block.colossal_reactors.turbine_rod_controller": {
+    "en": "Turbine Rod Controller",
+    "zh": "涡轮转轴控制器"
+  },
+  "block.colossal_reactors.turbine_power_port": {
+    "en": "Turbine Power Port",
+    "zh": "涡轮机能量端口"
+  },
+  "block.colossal_reactors.turbine_high_cond_power_port": {
+    "en": "Turbine High Conduction Power Port",
+    "zh": "涡轮机高传导能量端口"
+  },
+  "block.colossal_reactors.turbine_redstone_port": {
+    "en": "Turbine Redstone Port",
+    "zh": "涡轮机红石端口"
+  },
+  "block.colossal_reactors.turbine_resource_port": {
+    "en": "Turbine Resource Port",
+    "zh": "涡轮机资源端口"
+  },
+  "block.colossal_reactors.heating_coil": {
+    "en": "Heating Coil",
+    "zh": "加热线圈"
+  },
+  "block.colossal_reactors.heating_coil_resource_off": {
+    "en": "Resource Heating Coil",
+    "zh": "资源加热线圈"
+  },
+  "block.colossal_reactors.heating_coil_resource_on": {
+    "en": "Resource Heating Coil (On)",
+    "zh": "资源加热线圈(启用)"
+  },
+  "block.colossal_reactors.heating_coil_energy_off": {
+    "en": "Energy Heating Coil",
+    "zh": "能量加热线圈"
+  },
+  "block.colossal_reactors.heating_coil_energy_on": {
+    "en": "Energy Heating Coil (On)",
+    "zh": "能量加热线圈(启用)"
+  },
+  "gui.colossal_reactors.radiation_scrubber.tank_tooltip": {
+    "en": "Gas: %s / %s mB",
+    "zh": "气体: %s / %s mB"
+  },
+  "gui.colossal_reactors.radiation_scrubber.tank_empty": {
+    "en": "Radioactive gas tank",
+    "zh": "放射性气体储罐"
+  },
+  "block.colossal_reactors.uranium_ore": {
+    "en": "Uranium Ore",
+    "zh": "铀矿石"
+  },
+  "block.colossal_reactors.deep_uranium_ore": {
+    "en": "Deepslate Uranium Ore",
+    "zh": "深层铀矿石"
+  },
+  "block.colossal_reactors.uranium_block": {
+    "en": "Block of Uranium",
+    "zh": "铀块"
+  },
+  "block.colossal_reactors.uranium_raw_block": {
+    "en": "Block of Raw Uranium",
+    "zh": "粗铀块"
+  },
+  "block.colossal_reactors.lead_ore": {
+    "en": "Lead Ore",
+    "zh": "铅矿石"
+  },
+  "block.colossal_reactors.deep_lead_ore": {
+    "en": "Deepslate Lead Ore",
+    "zh": "深层铅矿石"
+  },
+  "item.colossal_reactors.uranium_ingot": {
+    "en": "Uranium Ingot",
+    "zh": "铀锭"
+  },
+  "item.colossal_reactors.raw_uranium": {
+    "en": "Raw Uranium",
+    "zh": "粗铀"
+  },
+  "item.colossal_reactors.uranium_dust": {
+    "en": "Uranium Dust",
+    "zh": "铀粉"
+  },
+  "block.colossal_reactors.boron_ore": {
+    "en": "Boron Ore",
+    "zh": "硼矿石"
+  },
+  "block.colossal_reactors.deep_boron_ore": {
+    "en": "Deepslate Boron Ore",
+    "zh": "深层硼矿石"
+  },
+  "block.colossal_reactors.lead_block": {
+    "en": "Block of Lead",
+    "zh": "铅块"
+  },
+  "block.colossal_reactors.raw_lead_block": {
+    "en": "Block of Raw Lead",
+    "zh": "粗铅块"
+  },
+  "block.colossal_reactors.boron_block": {
+    "en": "Block of Boron",
+    "zh": "硼块"
+  },
+  "block.colossal_reactors.raw_boron_block": {
+    "en": "Block of Raw Boron",
+    "zh": "粗硼块"
+  },
+  "block.colossal_reactors.graphite_block": {
+    "en": "Block of Graphite",
+    "zh": "石墨块"
+  },
+  "block.colossal_reactors.azurite_block": {
+    "en": "Block of Azurite",
+    "zh": "蓝铜块"
+  },
+  "block.colossal_reactors.tough_alloy_block": {
+    "en": "Block of Tough Alloy",
+    "zh": "坚韧合金块"
+  },
+  "block.colossal_reactors.molten_stainless_steel": {
+    "en": "Molten Stainless Steel",
+    "zh": "熔融不锈钢"
+  },
+  "block.colossal_reactors.molten_tough_alloy": {
+    "en": "Molten Tough Alloy",
+    "zh": "熔融坚韧合金"
+  },
+  "block.colossal_reactors.ender_goo": {
+    "en": "Ender Goo",
+    "zh": "末影黏液"
+  },
+  "block.colossal_reactors.gelid_breezium": {
+    "en": "Refrigerant Gelid Breezium",
+    "zh": "冰寒旋风冷媒"
+  },
+  "block.colossal_reactors.gas_steam": {
+    "en": "Steam",
+    "zh": "蒸汽"
+  },
+  "item.colossal_reactors.gas_steam_bucket": {
+    "en": "Steam Bucket",
+    "zh": "蒸汽桶"
+  },
+  "item.colossal_reactors.molten_stainless_steel_bucket": {
+    "en": "Molten Stainless Steel Bucket",
+    "zh": "熔融不锈钢桶"
+  },
+  "item.colossal_reactors.molten_tough_alloy_bucket": {
+    "en": "Molten Tough Alloy Bucket",
+    "zh": "熔融坚韧合金桶"
+  },
+  "item.colossal_reactors.ender_goo_bucket": {
+    "en": "Ender Goo Bucket",
+    "zh": "末影黏液桶"
+  },
+  "item.colossal_reactors.gelid_breezium_bucket": {
+    "en": "Refrigerant Gelid Breezium Bucket",
+    "zh": "冰寒旋风冷媒桶"
+  },
+  "item.colossal_reactors.nuclear_waste": {
+    "en": "Nuclear Waste",
+    "zh": "核废料"
+  },
+  "item.colossal_reactors.lead_raw": {
+    "en": "Raw Lead",
+    "zh": "粗铅"
+  },
+  "item.colossal_reactors.boron_raw": {
+    "en": "Raw Boron",
+    "zh": "粗硼"
+  },
+  "item.colossal_reactors.boron_ingot": {
+    "en": "Boron Ingot",
+    "zh": "硼锭"
+  },
+  "item.colossal_reactors.graphite_ingot": {
+    "en": "Graphite Ingot",
+    "zh": "石墨锭"
+  },
+  "item.colossal_reactors.azurite_ingot": {
+    "en": "Azurite Ingot",
+    "zh": "蓝铜锭"
+  },
+  "item.colossal_reactors.lead_ingot": {
+    "en": "Lead Ingot",
+    "zh": "铅锭"
+  },
+  "item.colossal_reactors.unrefined_tough_alloy": {
+    "en": "Unrefined Tough Alloy",
+    "zh": "未精炼坚韧合金"
+  },
+  "item.colossal_reactors.tough_alloy_ingot": {
+    "en": "Tough Alloy Ingot",
+    "zh": "坚韧合金锭"
+  },
+  "item.colossal_reactors.lead_dust": {
+    "en": "Lead Dust",
+    "zh": "铅粉"
+  },
+  "item.colossal_reactors.boron_dust": {
+    "en": "Boron Dust",
+    "zh": "硼粉"
+  },
+  "item.colossal_reactors.catalyst_breezium": {
+    "en": "Catalyst Breezium",
+    "zh": "旋风催化剂"
+  },
+  "item.colossal_reactors.radiation_cure": {
+    "en": "Radiation Cure",
+    "zh": "辐射治疗剂"
+  },
+  "gui.colossal_reactors.resource_port.title": {
+    "en": "Resource Port",
+    "zh": "资源端口"
+  },
+  "gui.colossal_reactors.redstone_port.title": {
+    "en": "Redstone Port",
+    "zh": "红石端口"
+  },
+  "gui.colossal_reactors.resource_port.tank_empty": {
+    "en": "Empty",
+    "zh": "空"
+  },
+  "gui.colossal_reactors.fluid_dump.tooltip": {
+    "en": "Dump: empty the internal fluid tank (fluid is discarded)",
+    "zh": "清空: 清空内部流体储罐(流体会被丢弃)"
+  },
+  "gui.colossal_reactors.gas_dump.tooltip": {
+    "en": "Dump: empty the gas tank (gas is discarded)",
+    "zh": "清空: 清空气体储罐(气体会被丢弃)"
+  },
+  "gui.colossal_reactors.gas_dump.tooltip.radioactive": {
+    "en": "Cannot dump: radioactive gas must not be vented from ports",
+    "zh": "无法清空: 不允许从端口排放放射性气体"
+  },
+  "gui.colossal_reactors.radiation_scrubber.slot.catalyst": {
+    "en": "Catalyst",
+    "zh": "催化剂"
+  },
+  "gui.colossal_reactors.radiation_scrubber.slot.catalyst.accepts": {
+    "en": "Accepts any catalyst from the datapack",
+    "zh": "接受数据包定义的任意催化剂"
+  },
+  "gui.colossal_reactors.radiation_scrubber.slot.modules": {
+    "en": "Modules: Production Modules (max 8)",
+    "zh": "模块: 生产模块(最多 8 个)"
+  },
+  "gui.colossal_reactors.radiation_scrubber.slot.modules.accepts": {
+    "en": "Accepts Iskandert's Utilities Production Module",
+    "zh": "接受 Iskandert's Utilities 的生产模块"
+  },
+  "gui.colossal_reactors.melter.tank_empty": {
+    "en": "Empty",
+    "zh": "空"
+  },
+  "gui.colossal_reactors.melter.show_recipes": {
+    "en": "Show Melter recipes",
+    "zh": "显示熔化器配方"
+  },
+  "gui.colossal_reactors.resource_port.mode.insert": {
+    "en": "Insert",
+    "zh": "插入"
+  },
+  "gui.colossal_reactors.resource_port.mode.extract": {
+    "en": "Extract",
+    "zh": "抽取"
+  },
+  "gui.colossal_reactors.resource_port.mode.eject": {
+    "en": "Eject",
+    "zh": "排出"
+  },
+  "gui.colossal_reactors.resource_port.mode.insert.tooltip": {
+    "en": "The reactor accepts solid fuel and a coolant fluid.",
+    "zh": "反应堆接收固体燃料与冷却剂流体."
+  },
+  "gui.colossal_reactors.resource_port.mode.extract.tooltip": {
+    "en": "The reactor extracts nuclear waste and spent coolant fluid.",
+    "zh": "反应堆抽取核废料与用过的冷却剂流体."
+  },
+  "gui.colossal_reactors.resource_port.mode.eject.tooltip": {
+    "en": "The reactor ejects the solid fuel it contains.",
+    "zh": "反应堆排出内部储存的固体燃料."
+  },
+  "gui.colossal_reactors.resource_port.insert.both": {
+    "en": "All",
+    "zh": "全部"
+  },
+  "gui.colossal_reactors.resource_port.insert.fuel_only": {
+    "en": "Fuel",
+    "zh": "燃料"
+  },
+  "gui.colossal_reactors.resource_port.insert.coolant_only": {
+    "en": "Coolant",
+    "zh": "冷却剂"
+  },
+  "gui.colossal_reactors.resource_port.insert.both.tooltip": {
+    "en": "Import: fuel and coolant.",
+    "zh": "输入: 燃料与冷却剂."
+  },
+  "gui.colossal_reactors.resource_port.insert.fuel_only.tooltip": {
+    "en": "Import: fuel only (items or fluid).",
+    "zh": "输入: 仅燃料(物品或流体)."
+  },
+  "gui.colossal_reactors.resource_port.insert.coolant_only.tooltip": {
+    "en": "Import: coolant fluid only.",
+    "zh": "输入: 仅冷却剂流体."
+  },
+  "gui.colossal_reactors.resource_port.output.both": {
+    "en": "All",
+    "zh": "全部"
+  },
+  "gui.colossal_reactors.resource_port.output.waste_only": {
+    "en": "Waste",
+    "zh": "废料"
+  },
+  "gui.colossal_reactors.resource_port.output.liquid_only": {
+    "en": "Coolant",
+    "zh": "冷却剂"
+  },
+  "gui.colossal_reactors.resource_port.output.both.tooltip": {
+    "en": "Output: solid waste and liquid coolant.",
+    "zh": "输出: 固体废料与液态冷却剂."
+  },
+  "gui.colossal_reactors.resource_port.output.waste_only.tooltip": {
+    "en": "Output: solid waste only.",
+    "zh": "输出: 仅固体废料."
+  },
+  "gui.colossal_reactors.resource_port.output.liquid_only.tooltip": {
+    "en": "Output: exhausted liquid coolant only.",
+    "zh": "输出: 仅用过的液态冷却剂."
+  },
+  "gui.colossal_reactors.resource_port.eject.both": {
+    "en": "Both",
+    "zh": "两者"
+  },
+  "gui.colossal_reactors.resource_port.eject.fuel_only": {
+    "en": "Fuel Only",
+    "zh": "仅燃料"
+  },
+  "gui.colossal_reactors.resource_port.eject.coolant_only": {
+    "en": "Coolant Only",
+    "zh": "仅冷却剂"
+  },
+  "gui.colossal_reactors.resource_port.eject.both.tooltip": {
+    "en": "Eject: fuel items and coolant fluid from rods.",
+    "zh": "排出: 燃料棒中的燃料物品与冷却剂流体."
+  },
+  "gui.colossal_reactors.resource_port.eject.fuel_only.tooltip": {
+    "en": "Eject: fuel items only (converted back at units-per-item rate).",
+    "zh": "排出: 仅燃料物品(按每件物品对应的燃料单位数换回物品)."
+  },
+  "gui.colossal_reactors.resource_port.eject.coolant_only.tooltip": {
+    "en": "Eject: coolant fluid only.",
+    "zh": "排出: 仅冷却剂流体."
+  },
+  "gui.colossal_reactors.resource_port.filter_btn.fuel": {
+    "en": "Fuel",
+    "zh": "燃料"
+  },
+  "gui.colossal_reactors.resource_port.filter_btn.waste": {
+    "en": "Waste",
+    "zh": "废料"
+  },
+  "gui.colossal_reactors.resource_port.filter_btn.coolant": {
+    "en": "Coolant",
+    "zh": "冷却剂"
+  },
+  "gui.colossal_reactors.resource_port.toggle.solid": {
+    "en": "Solid",
+    "zh": "固体"
+  },
+  "gui.colossal_reactors.resource_port.toggle.liquid": {
+    "en": "Liquid",
+    "zh": "液体"
+  },
+  "gui.colossal_reactors.resource_port.toggle.gas": {
+    "en": "Gas",
+    "zh": "气体"
+  },
+  "gui.colossal_reactors.resource_port.toggle.solid.tooltip": {
+    "en": "Click to cycle transport: Solid, Liquid, or Gas.",
+    "zh": "点击循环切换传输介质: 固体, 液体或气体."
+  },
+  "gui.colossal_reactors.resource_port.toggle.liquid.tooltip": {
+    "en": "Click to cycle transport: Solid, Liquid, or Gas.",
+    "zh": "点击循环切换传输介质: 固体, 液体或气体."
+  },
+  "gui.colossal_reactors.resource_port.toggle.gas.tooltip": {
+    "en": "Click to cycle transport: Solid, Liquid, or Gas.",
+    "zh": "点击循环切换传输介质: 固体, 液体或气体."
+  },
+  "gui.colossal_reactors.resource_port.medium.solid.tooltip": {
+    "en": "Transport: solid items only. Click to cycle medium.",
+    "zh": "传输: 仅固体物品. 点击切换介质."
+  },
+  "gui.colossal_reactors.resource_port.medium.liquid.tooltip": {
+    "en": "Transport: fluids only. Click to cycle medium.",
+    "zh": "传输: 仅流体. 点击切换介质."
+  },
+  "gui.colossal_reactors.resource_port.medium.gas.tooltip": {
+    "en": "Transport: Mekanism gases only. Click to cycle medium.",
+    "zh": "传输: 仅 Mekanism 气体. 点击切换介质."
+  },
+  "gui.colossal_reactors.resource_port.medium.turbine.liquid.tooltip": {
+    "en": "Transport: fluids only. Click to switch to Gas.",
+    "zh": "传输: 仅流体. 点击切换为气体."
+  },
+  "gui.colossal_reactors.resource_port.medium.turbine.gas.tooltip": {
+    "en": "Transport: gases only. Click to switch to Liquid.",
+    "zh": "传输: 仅气体. 点击切换为液体."
+  },
+  "gui.colossal_reactors.turbine_resource_port.mode.insert.tooltip": {
+    "en": "Pulls steam (and other allowed fluids) into the turbine.",
+    "zh": "将蒸汽及其他允许的流体抽入涡轮机."
+  },
+  "gui.colossal_reactors.turbine_resource_port.mode.extract.tooltip": {
+    "en": "Pushes water or exhaust fluid out to pipes.",
+    "zh": "将水或排出流体输送至管道."
+  },
+  "gui.colossal_reactors.turbine_resource_port.mode.eject.tooltip": {
+    "en": "Ejects stored fluid from the port tank to the outside.",
+    "zh": "将端口储罐内的流体排到外部."
+  },
+  "gui.colossal_reactors.resource_port.tank_tooltip.liquid": {
+    "en": "Liquid: %s / %s mB",
+    "zh": "液体: %s / %s mB"
+  },
+  "gui.colossal_reactors.resource_port.tank_tooltip.gas": {
+    "en": "Gas: %s / %s mB",
+    "zh": "气体: %s / %s mB"
+  },
+  "gui.colossal_reactors.redstone_port.mode.none": {
+    "en": "Ignore redstone",
+    "zh": "忽略红石"
+  },
+  "gui.colossal_reactors.redstone_port.mode.low": {
+    "en": "Active when redstone off",
+    "zh": "无红石信号时启用"
+  },
+  "gui.colossal_reactors.redstone_port.mode.high": {
+    "en": "Active when redstone on",
+    "zh": "有红石信号时启用"
+  },
+  "gui.colossal_reactors.redstone_port.mode.pulse": {
+    "en": "Active on redstone pulse (rising edge)",
+    "zh": "收到红石脉冲时启用(上升沿)"
+  },
+  "gui.colossal_reactors.redstone_port.mode.disabled": {
+    "en": "Disabled",
+    "zh": "禁用"
+  },
+  "gui.colossal_reactors.reactor_controller.status": {
+    "en": "Status: %s",
+    "zh": "状态: %s"
+  },
+  "gui.colossal_reactors.reactor_controller.status.label": {
+    "en": "Status: ",
+    "zh": "状态: "
+  },
+  "gui.colossal_reactors.reactor_controller.status.on": {
+    "en": "ON",
+    "zh": "开启"
+  },
+  "gui.colossal_reactors.reactor_controller.status.off": {
+    "en": "OFF",
+    "zh": "关闭"
+  },
+  "gui.colossal_reactors.reactor_controller.status.validating": {
+    "en": "Validating...",
+    "zh": "正在验证..."
+  },
+  "gui.colossal_reactors.reactor_controller.status.invalid": {
+    "en": "Invalid Reactor!",
+    "zh": "反应堆无效!"
+  },
+  "gui.colossal_reactors.reactor_controller.status.requires_redstone_port": {
+    "en": "(redstone port required)",
+    "zh": "(需要红石端口)"
+  },
+  "gui.colossal_reactors.reactor_controller.rods": {
+    "en": "Rods: %s (%s columns)",
+    "zh": "燃料棒: %s(%s 列)"
+  },
+  "gui.colossal_reactors.reactor_controller.rods.label": {
+    "en": "Rods:",
+    "zh": "燃料棒:"
+  },
+  "gui.colossal_reactors.reactor_controller.rods.value": {
+    "en": " %s (%s columns)",
+    "zh": " %s(%s 列)"
+  },
+  "gui.colossal_reactors.reactor_controller.coolant_blocks": {
+    "en": "Heat Sinks: %s",
+    "zh": "散热介质: %s"
+  },
+  "gui.colossal_reactors.reactor_controller.coolant_blocks.label": {
+    "en": "Heat Sinks:",
+    "zh": "散热介质:"
+  },
+  "gui.colossal_reactors.reactor_controller.stability": {
+    "en": "Stability: %s%%",
+    "zh": "稳定性: %s%%"
+  },
+  "gui.colossal_reactors.reactor_controller.stability.label": {
+    "en": "Stability: ",
+    "zh": "稳定性: "
+  },
+  "gui.colossal_reactors.reactor_controller.energy_production": {
+    "en": "Energy: %s RF/t",
+    "zh": "能量: %s RF/t"
+  },
+  "gui.colossal_reactors.reactor_controller.energy_production.label": {
+    "en": "Energy:",
+    "zh": "能量:"
+  },
+  "gui.colossal_reactors.reactor_controller.steam_production": {
+    "en": "Exhaust coolant: %s mB/t",
+    "zh": "排出冷却剂: %s mB/t"
+  },
+  "gui.colossal_reactors.reactor_controller.steam_production.label": {
+    "en": "Exhaust coolant:",
+    "zh": "排出冷却剂:"
+  },
+  "gui.colossal_reactors.reactor_controller.water_consume": {
+    "en": "Coolant: %s mB/t",
+    "zh": "冷却剂: %s mB/t"
+  },
+  "gui.colossal_reactors.reactor_controller.water_consume.label": {
+    "en": "Coolant:",
+    "zh": "冷却剂:"
+  },
+  "gui.colossal_reactors.reactor_controller.fuel_units": {
+    "en": "Fuel: %s fuel units/t",
+    "zh": "燃料: %s 燃料单位/t"
+  },
+  "gui.colossal_reactors.reactor_controller.fuel_units.label": {
+    "en": "Fuel:",
+    "zh": "燃料:"
+  },
+  "gui.colossal_reactors.reactor_controller.fuel_units.value": {
+    "en": " %s fuel units/t",
+    "zh": " %s 燃料单位/t"
+  },
+  "gui.colossal_reactors.reactor_controller.ratio.label": {
+    "en": "RF/Fuel:",
+    "zh": "RF/燃料:"
+  },
+  "gui.colossal_reactors.reactor_controller.fuel_capacity": {
+    "en": "Fuel capacity: %s (%s%%)",
+    "zh": "燃料容量: %s(%s%%)"
+  },
+  "gui.colossal_reactors.reactor_controller.fuel_capacity.label": {
+    "en": "Fuel capacity:",
+    "zh": "燃料容量:"
+  },
+  "gui.colossal_reactors.reactor_controller.fuel_capacity.value": {
+    "en": " %s fuel units (%s%%)",
+    "zh": " %s 燃料单位(%s%%)"
+  },
+  "gui.colossal_reactors.reactor_controller.waste_capacity": {
+    "en": "Waste: %s (%s%%)",
+    "zh": "废料: %s(%s%%)"
+  },
+  "gui.colossal_reactors.reactor_controller.waste_capacity.label": {
+    "en": "Waste:",
+    "zh": "废料:"
+  },
+  "gui.colossal_reactors.reactor_controller.waste_capacity.value": {
+    "en": " %s fuel units (%s%%)",
+    "zh": " %s 燃料单位(%s%%)"
+  },
+  "jei.colossal_reactors.fuel.units_per_fuel": {
+    "en": "Fuel units per input: %s",
+    "zh": "每份输入的燃料单位数: %s"
+  },
+  "jei.colossal_reactors.fuel.units_per_waste": {
+    "en": "Waste units per output: %s",
+    "zh": "每份输出的废料单位数: %s"
+  },
+  "jei.colossal_reactors.fuel.burn_to_waste": {
+    "en": "Burn %s fuel units → %s waste",
+    "zh": "燃烧 %s 燃料单位 → %s 废料"
+  },
+  "gui.colossal_reactors.reactor_controller.coolant_capacity": {
+    "en": "Coolant capacity: %s mB (%s%%)",
+    "zh": "冷却剂容量: %s mB(%s%%)"
+  },
+  "gui.colossal_reactors.reactor_controller.coolant_capacity.label": {
+    "en": "Coolant capacity:",
+    "zh": "冷却剂容量:"
+  },
+  "gui.colossal_reactors.reactor_controller.reboot": {
+    "en": "Reboot",
+    "zh": "重启"
+  },
+  "gui.colossal_reactors.reactor_controller.reboot.tooltip": {
+    "en": "Re-validate the reactor structure to detect changes",
+    "zh": "重新验证反应堆结构以检测变化"
+  },
+  "gui.colossal_reactors.reactor_controller.coolant": {
+    "en": "Coolant: %s",
+    "zh": "冷却剂: %s"
+  },
+  "gui.colossal_reactors.reactor_controller.fuel": {
+    "en": "Fuel: %s",
+    "zh": "燃料: %s"
+  },
+  "jei.colossal_reactors.reactor_coolant": {
+    "en": "Reactor Coolant",
+    "zh": "反应堆冷却剂"
+  },
+  "jei.colossal_reactors.reactor_fuel": {
+    "en": "Reactor Fuel",
+    "zh": "反应堆燃料"
+  },
+  "jei.colossal_reactors.reactor_heat_sink": {
+    "en": "Reactor Heat Sink",
+    "zh": "反应堆散热介质"
+  },
+  "jei.colossal_reactors.consume_fuel": {
+    "en": "Consume fuel: %s",
+    "zh": "消耗燃料: %s"
+  },
+  "jei.colossal_reactors.produce_waste": {
+    "en": "Produce waste: %s",
+    "zh": "产生废料: %s"
+  },
+  "jei.colossal_reactors.fuel.power": {
+    "en": "Fuel Power: %s",
+    "zh": "燃料功率: %s"
+  },
+  "jei.colossal_reactors.fuel.consume_factor": {
+    "en": "Consume factor: %s",
+    "zh": "消耗系数: %s"
+  },
+  "jei.colossal_reactors.coolant.rf_to_coolant": {
+    "en": "Coolant per RF (factor): %s",
+    "zh": "每 RF 冷却剂消耗(系数): %s"
+  },
+  "jei.colossal_reactors.consume_coolant": {
+    "en": "Consume coolant: %s",
+    "zh": "消耗冷却剂: %s"
+  },
+  "jei.colossal_reactors.produce_exhaust_coolant": {
+    "en": "Produce exhaust coolant: %s",
+    "zh": "产生排出冷却剂: %s"
+  },
+  "jei.colossal_reactors.coolant.heat_reduction": {
+    "en": "Heat reduction: ×%s",
+    "zh": "降热效果: ×%s"
+  },
+  "jei.colossal_reactors.coolant.suppress_rf_steam": {
+    "en": "Suppresses RF Production",
+    "zh": "抑制 RF 产出"
+  },
+  "jei.colossal_reactors.coolant.suppress_rf_none": {
+    "en": "RF multiplier: ×%s",
+    "zh": "RF 倍率: ×%s"
+  },
+  "jei.colossal_reactors.heat_sink.fuel_reduction": {
+    "en": "Fuel Reduction: %sx",
+    "zh": "燃料消耗缩减: %sx"
+  },
+  "jei.colossal_reactors.heat_sink.rf_increment": {
+    "en": "Energy Increment: %sx",
+    "zh": "能量产出增幅: %sx"
+  },
+  "jei.colossal_reactors.heat_sink.heat_reduction": {
+    "en": "Heat reduction: ×%s",
+    "zh": "降热效果: ×%s"
+  },
+  "jei.colossal_reactors.heat_sink.air_interior": {
+    "en": "Interior air (empty cells)",
+    "zh": "内部空气(空位)"
+  },
+  "jei.colossal_reactors.melter": {
+    "en": "Melter",
+    "zh": "熔化器"
+  },
+  "jei.colossal_reactors.melter.amount": {
+    "en": "Output: %s mB",
+    "zh": "输出: %s mB"
+  },
+  "jei.colossal_reactors.melter.default_time": {
+    "en": "Default time: %s",
+    "zh": "默认用时: %s"
+  },
+  "jei.colossal_reactors.melter.heat_required_1": {
+    "en": "Requires an external heat source.",
+    "zh": "需要外部热源."
+  },
+  "jei.colossal_reactors.melter.heat_required_2": {
+    "en": "The quantity and temperature of",
+    "zh": "热源的数量与温度"
+  },
+  "jei.colossal_reactors.melter.heat_required_3": {
+    "en": "heat sources affect the speed.",
+    "zh": "会影响处理速度."
+  },
+  "jei.colossal_reactors.melter_heat_source": {
+    "en": "Melter Heat Sources",
+    "zh": "熔化器热源"
+  },
+  "jei.colossal_reactors.melter_heat_source.factor": {
+    "en": "Heat factor: %sx",
+    "zh": "加热系数: %sx"
+  },
+  "jei.colossal_reactors.melter_heat_source.not_valid": {
+    "en": "(Does not start melter alone)",
+    "zh": "(无法单独启动熔化器)"
+  },
+  "jei.colossal_reactors.heating_coil": {
+    "en": "Heating Coil",
+    "zh": "加热线圈"
+  },
+  "jei.colossal_reactors.coil.duration": {
+    "en": "Cycle: %s t",
+    "zh": "周期: %s t"
+  },
+  "jei.colossal_reactors.coil.fluid": {
+    "en": "Fluid: activate %s mB, sustain %s mB",
+    "zh": "流体: 启动 %s mB, 维持 %s mB"
+  },
+  "jei.colossal_reactors.coil.item": {
+    "en": "Item: activate %s, sustain %s",
+    "zh": "物品: 启动 %s, 维持 %s"
+  },
+  "jei.colossal_reactors.coil.burnable_any": {
+    "en": "Burnable (any): activate %s t, sustain %s t",
+    "zh": "可燃物(任意): 启动 %s t, 维持 %s t"
+  },
+  "jei.colossal_reactors.coil.energy": {
+    "en": "Energy: activate %s RF, sustain %s RF",
+    "zh": "能量: 启动 %s RF, 维持 %s RF"
+  },
+  "jei.colossal_reactors.coil.activate": {
+    "en": "Activate: %s",
+    "zh": "启动: %s"
+  },
+  "jei.colossal_reactors.coil.substain": {
+    "en": "Sustain: %s",
+    "zh": "维持: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.up_value": {
+    "en": "Up: %s",
+    "zh": "上方: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.left_value": {
+    "en": "Left: %s",
+    "zh": "左方: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.right_value": {
+    "en": "Right: %s",
+    "zh": "右方: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.behind_value": {
+    "en": "Behind: %s",
+    "zh": "后方: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.left_click": {
+    "en": "Left click: increment",
+    "zh": "左键: 增加"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.right_click": {
+    "en": "Right click: decrement",
+    "zh": "右键: 减少"
+  },
+  "gui.colossal_reactors.reactor_builder.warning.invalid_blocks": {
+    "en": "One or more invalid blocks",
+    "zh": "存在一个或多个无效方块"
+  },
+  "gui.colossal_reactors.reactor_builder.building_progress": {
+    "en": "Building: %s%%",
+    "zh": "建造进度: %s%%"
+  },
+  "gui.colossal_reactors.reactor_builder.building_progress_label": {
+    "en": "Building: ",
+    "zh": "建造进度: "
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.fuel_capacity": {
+    "en": "Fuel capacity: %s",
+    "zh": "燃料容量: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.coolant_capacity": {
+    "en": "Coolant capacity: %s mB",
+    "zh": "冷却剂容量: %s mB"
+  },
+  "gui.colossal_reactors.reactor_builder.size": {
+    "en": "Size: (%s+%s)+1=%s x %s x %s",
+    "zh": "尺寸: (%s+%s)+1=%s x %s x %s"
+  },
+  "gui.colossal_reactors.reactor_builder.preview": {
+    "en": "Preview",
+    "zh": "预览"
+  },
+  "gui.colossal_reactors.reactor_builder.preview.hide": {
+    "en": "Hide",
+    "zh": "隐藏"
+  },
+  "gui.colossal_reactors.reactor_builder.preview.tooltip.line1": {
+    "en": "Toggle footprint preview in the world.",
+    "zh": "切换世界中的占地预览."
+  },
+  "gui.colossal_reactors.reactor_builder.preview.tooltip.line2": {
+    "en": "Purple: shell border",
+    "zh": "紫色: 外壳边框"
+  },
+  "gui.colossal_reactors.reactor_builder.preview.tooltip.line3": {
+    "en": "Yellow: rod positions",
+    "zh": "黄色: 燃料棒位置"
+  },
+  "gui.colossal_reactors.reactor_builder.preview.tooltip.line4": {
+    "en": "White: rod controllers",
+    "zh": "白色: 燃料棒控制器"
+  },
+  "gui.colossal_reactors.reactor_builder.preview.tooltip.line5": {
+    "en": "Red: occupied blocks",
+    "zh": "红色: 被占用的方块"
+  },
+  "gui.colossal_reactors.reactor_builder.mark_input": {
+    "en": "Mark input",
+    "zh": "标记输入"
+  },
+  "gui.colossal_reactors.reactor_builder.mark_input.tooltip.line1": {
+    "en": "Click: save slot filters from items currently in the buffer (empty slots keep their previous filter).",
+    "zh": "点击: 根据缓冲物品栏中的物品保存槽位过滤器(空槽保留原过滤器)."
+  },
+  "gui.colossal_reactors.reactor_builder.mark_input.tooltip.line2": {
+    "en": "Shift+click: clear all slot filters.",
+    "zh": "Shift+点击: 清除全部槽位过滤器."
+  },
+  "gui.colossal_reactors.reactor_builder.mark_input.tooltip.line3": {
+    "en": "Ctrl/Alt+click: clear filters for slots that are empty or no longer match.",
+    "zh": "Ctrl/Alt+点击: 清除空槽或物品不再匹配的槽位过滤器."
+  },
+  "gui.colossal_reactors.reactor_builder.pattern.0": {
+    "en": "Dots",
+    "zh": "点阵"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern.1": {
+    "en": "Checkerboard",
+    "zh": "棋盘"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern.2": {
+    "en": "Frame",
+    "zh": "回形"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern.3": {
+    "en": "Custom",
+    "zh": "自定义"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern.4": {
+    "en": "None",
+    "zh": "无"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.0": {
+    "en": "Rods are placed evenly spaced.\nExample:\n■□■□■\n□□□□□\n■□■□■\n□□□□□\n■□■□■\nApproximately: 30% rod, 70% heat sink.",
+    "zh": "均匀间隔放置燃料棒.\n示例:\n■□■□■\n□□□□□\n■□■□■\n□□□□□\n■□■□■\n大约: 30% 燃料棒, 70% 散热介质."
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.1": {
+    "en": "Rods are placed in a checkerboard pattern.\nExample:\n■□■□■\n□■□■□\n■□■□■\n□■□■□\n■□■□■\nApproximately: 50% rod, 50% heat sink.",
+    "zh": "以棋盘格放置燃料棒.\n示例:\n■□■□■\n□■□■□\n■□■□■\n□■□■□\n■□■□■\n大约: 50% 燃料棒, 50% 散热介质."
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.2": {
+    "en": "Rods are placed in expanding frames.\nExample:\n■■■■■\n■□□□■\n■□■□■\n■□□□■\n■■■■■\nApproximately: 90% rod, 10% heat sink.",
+    "zh": "以逐层扩展的回形放置燃料棒.\n示例:\n■■■■■\n■□□□■\n■□■□■\n■□□□■\n■■■■■\n大约: 90% 燃料棒, 10% 散热介质."
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.3": {
+    "en": "Places the frame and fills the interior with heat sinks only (no rods).",
+    "zh": "放置框架, 内部仅填充散热介质(不放置燃料棒)."
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.4": {
+    "en": "Places the frame only (no rods or heat sinks).",
+    "zh": "仅放置框架(不放置燃料棒或散热介质)."
+  },
+  "gui.colossal_reactors.reactor_builder.pattern_mode.0": {
+    "en": "Optimized",
+    "zh": "优化"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern_mode.1": {
+    "en": "Production",
+    "zh": "高产"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern_mode.2": {
+    "en": "Economy",
+    "zh": "节省"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern_mode.3": {
+    "en": "Super Economy",
+    "zh": "极致节省"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern_mode.0": {
+    "en": "Rods are not placed adjacent to the border. Ideal consumption-production ratio",
+    "zh": "燃料棒不紧邻边框放置. 消耗与产出比例理想"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern_mode.1": {
+    "en": "Rods are placed adjacent to the border. Recommended only with heat sinks that don't affect energy production. Higher energy output but not optimized",
+    "zh": "燃料棒紧邻边框放置. 仅推荐搭配不影响发电量的散热介质使用. 发电量更高, 但未优化消耗"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern_mode.2": {
+    "en": "Rods are not placed at the border; heat sinks only in cells adjacent to a rod (full interior).",
+    "zh": "边框不放置燃料棒; 散热介质仅放在与燃料棒相邻的格子中(整个内部空间)."
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern_mode.3": {
+    "en": "Like Economy but heat sinks only in rod space (extra -2 on X and Z) and only adjacent to a rod. Fewest refrigerants.",
+    "zh": "与节省模式类似, 但散热介质仅放在燃料棒区域内(X 和 Z 方向额外 -2), 且只放在与燃料棒相邻的位置. 所需散热介质最少."
+  },
+  "gui.colossal_reactors.reactor_builder.open_top.open": {
+    "en": "Open",
+    "zh": "开放"
+  },
+  "gui.colossal_reactors.reactor_builder.open_top.closed": {
+    "en": "Closed",
+    "zh": "封闭"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.open_top.closed": {
+    "en": "Complete reactor ready to use.",
+    "zh": "结构完整的反应堆, 可直接使用."
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.open_top.open": {
+    "en": "Incomplete reactor, open on top for modifications.",
+    "zh": "反应堆未封顶, 便于修改."
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.heat_sink_value": {
+    "en": "Heat Sink: %s",
+    "zh": "散热介质: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.heat_sink_left": {
+    "en": "Left click: next",
+    "zh": "左键: 下一个"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.heat_sink_right": {
+    "en": "Right click: previous",
+    "zh": "右键: 上一个"
+  },
+  "gui.colossal_reactors.reactor_builder.build": {
+    "en": "Build",
+    "zh": "建造"
+  },
+  "gui.colossal_reactors.reactor_builder.build.tooltip": {
+    "en": "Start building the reactor from buffer inventory and tank. Stops if red zones appear.",
+    "zh": "使用缓冲物品栏与储罐中的资源建造反应堆. 出现红色区域时停止."
+  },
+  "gui.colossal_reactors.reactor_builder.stop": {
+    "en": "Stop",
+    "zh": "停止"
+  },
+  "gui.colossal_reactors.reactor_builder.stop.tooltip": {
+    "en": "Stop building the reactor.",
+    "zh": "停止建造反应堆."
+  },
+  "gui.colossal_reactors.reactor_builder.simulation": {
+    "en": "Simulation",
+    "zh": "模拟"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.required_for_build": {
+    "en": "Required for Build:",
+    "zh": "建造所需:"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.frame_casings": {
+    "en": "Frame Casings: %s",
+    "zh": "框架外壳: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.frame_casings.label": {
+    "en": "Frame Casings:",
+    "zh": "框架外壳:"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.face_casings": {
+    "en": "Face Casings: %s",
+    "zh": "表面外壳: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.face_casings.label": {
+    "en": "Face Casings:",
+    "zh": "表面外壳:"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.rods": {
+    "en": "Rods: %s",
+    "zh": "燃料棒: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.rods.label": {
+    "en": "Rods:",
+    "zh": "燃料棒:"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.rod_controllers": {
+    "en": "Reactor Rod Controllers: %s",
+    "zh": "反应堆燃料棒控制器: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.rod_controllers.label": {
+    "en": "Reactor Rod Controllers:",
+    "zh": "反应堆燃料棒控制器:"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.heat_sinks": {
+    "en": "Heat Sinks: %s",
+    "zh": "散热介质: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.heat_sinks.label": {
+    "en": "Heat Sinks:",
+    "zh": "散热介质:"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.fluid_mb": {
+    "en": "Fluid Heat Sinks: %s mB",
+    "zh": "流体散热介质: %s mB"
+  },
+  "gui.colossal_reactors.reactor_builder.calculate.fluid_mb.label": {
+    "en": "Fluid Heat Sinks:",
+    "zh": "流体散热介质:"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.tooltip": {
+    "en": "Simulates reactor stats and estimates resources needed to build it.",
+    "zh": "模拟反应堆性能, 估算建造所需资源."
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.coolant_label": {
+    "en": "Coolant",
+    "zh": "冷却剂"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.coolant_none": {
+    "en": "None",
+    "zh": "无"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.coolant_tooltip": {
+    "en": "Consumes: %s\nProduces: %s",
+    "zh": "消耗: %s\n产出: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.fuel_label": {
+    "en": "Fuel",
+    "zh": "燃料"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.fuel_uranium": {
+    "en": "Uranium",
+    "zh": "铀"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.fuel_tooltip": {
+    "en": "Consumes: %s\nProduces: %s",
+    "zh": "消耗: %s\n产出: %s"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.click_hint": {
+    "en": "Left: next | Right: previous",
+    "zh": "左键: 下一个 | 右键: 上一个"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.stability_stable": {
+    "en": "Stable",
+    "zh": "稳定"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.stability_unstable": {
+    "en": "Unstable",
+    "zh": "不稳定"
+  },
+  "gui.colossal_reactors.reactor_builder.simulation.ratio.label": {
+    "en": "RF/Fuel:",
+    "zh": "RF/燃料:"
+  },
+  "jei.colossal_reactors.elec_coil": {
+    "en": "Electromagnetic Coil",
+    "zh": "电磁线圈"
+  },
+  "jei.colossal_reactors.elec_coil.eff_coe": {
+    "en": "Efficiency coefficient: %s",
+    "zh": "效率系数: %s"
+  },
+  "jei.colossal_reactors.elec_coil.eff_max": {
+    "en": "Efficiency limiter: %s",
+    "zh": "效率上限: %s"
+  },
+  "jei.colossal_reactors.turbine_generation": {
+    "en": "Turbine Generation",
+    "zh": "涡轮机发电"
+  },
+  "jei.colossal_reactors.turbine_generation.rf_per_bucket": {
+    "en": "RF per bucket: %s",
+    "zh": "每桶 RF: %s"
+  },
+  "jei.colossal_reactors.turbine_generation.rf_per_mb": {
+    "en": "RF per mB: %s",
+    "zh": "每 mB RF: %s"
+  },
+  "gui.colossal_reactors.turbine_controller.title": {
+    "en": "Turbine Controller",
+    "zh": "涡轮机控制器"
+  },
+  "gui.colossal_reactors.turbine_controller.valid": {
+    "en": "Structure valid",
+    "zh": "结构有效"
+  },
+  "gui.colossal_reactors.turbine_controller.invalid": {
+    "en": "Invalid Turbine!",
+    "zh": "涡轮机无效!"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.up_value": {
+    "en": "Up: %s",
+    "zh": "上方: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.left_value": {
+    "en": "Left: %s",
+    "zh": "左方: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.right_value": {
+    "en": "Right: %s",
+    "zh": "右方: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.behind_value": {
+    "en": "Behind: %s",
+    "zh": "后方: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.left_click": {
+    "en": "Left click: increment",
+    "zh": "左键: 增加"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.right_click": {
+    "en": "Right click: decrement",
+    "zh": "右键: 减少"
+  },
+  "gui.colossal_reactors.turbine_builder.warning.invalid_blocks": {
+    "en": "One or more invalid blocks",
+    "zh": "存在一个或多个无效方块"
+  },
+  "gui.colossal_reactors.turbine_builder.building_progress_label": {
+    "en": "Building: ",
+    "zh": "建造进度: "
+  },
+  "gui.colossal_reactors.turbine_builder.size": {
+    "en": "Size: (%s+%s)+1=%s x %s x %s",
+    "zh": "尺寸: (%s+%s)+1=%s x %s x %s"
+  },
+  "gui.colossal_reactors.turbine_builder.preview": {
+    "en": "Preview",
+    "zh": "预览"
+  },
+  "gui.colossal_reactors.turbine_builder.preview.hide": {
+    "en": "Hide",
+    "zh": "隐藏"
+  },
+  "gui.colossal_reactors.turbine_builder.preview.tooltip.line1": {
+    "en": "Toggle footprint preview in the world.",
+    "zh": "切换世界中的占地预览."
+  },
+  "gui.colossal_reactors.turbine_builder.preview.tooltip.line2": {
+    "en": "Purple: shell border",
+    "zh": "紫色: 外壳边框"
+  },
+  "gui.colossal_reactors.turbine_builder.preview.tooltip.line3": {
+    "en": "Yellow: turbine rod position",
+    "zh": "黄色: 涡轮转轴位置"
+  },
+  "gui.colossal_reactors.turbine_builder.preview.tooltip.line4": {
+    "en": "Cyan: partition wall between the coils and the rod",
+    "zh": "青色: 线圈与转轴之间的隔墙"
+  },
+  "gui.colossal_reactors.turbine_builder.preview.tooltip.line5": {
+    "en": "White: turbine rod controller",
+    "zh": "白色: 涡轮转轴控制器"
+  },
+  "gui.colossal_reactors.turbine_builder.preview.tooltip.line6": {
+    "en": "Red: occupied or invalid blocks",
+    "zh": "红色: 被占用或无效的方块"
+  },
+  "gui.colossal_reactors.turbine_builder.mark_input": {
+    "en": "Mark input",
+    "zh": "标记输入"
+  },
+  "gui.colossal_reactors.turbine_builder.mark_input.tooltip.line1": {
+    "en": "Click: save slot filters from items currently in the buffer (empty slots keep their previous filter).",
+    "zh": "点击: 根据缓冲物品栏中的物品保存槽位过滤器(空槽保留原过滤器)."
+  },
+  "gui.colossal_reactors.turbine_builder.mark_input.tooltip.line2": {
+    "en": "Shift+click: clear all slot filters.",
+    "zh": "Shift+点击: 清除全部槽位过滤器."
+  },
+  "gui.colossal_reactors.turbine_builder.mark_input.tooltip.line3": {
+    "en": "Ctrl/Alt+click: clear filters for slots that are empty or no longer match.",
+    "zh": "Ctrl/Alt+点击: 清除空槽或物品不再匹配的槽位过滤器."
+  },
+  "gui.colossal_reactors.turbine_builder.coil_layers": {
+    "en": "Coil layers: %s",
+    "zh": "线圈层数: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.coil_layers_short": {
+    "en": "Layers: %s",
+    "zh": "层数: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.coil_layers_capped": {
+    "en": "Capped to %s layers for current height (setting %s).",
+    "zh": "按当前高度限制为 %s 层(设置值 %s)."
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.coil_layers_applied": {
+    "en": "Build uses %s internal coil layers",
+    "zh": "建造时使用 %s 层内部线圈"
+  },
+  "gui.colossal_reactors.turbine_builder.pattern.0": {
+    "en": "Efficient",
+    "zh": "高效"
+  },
+  "gui.colossal_reactors.turbine_builder.pattern.1": {
+    "en": "Productive",
+    "zh": "高产"
+  },
+  "gui.colossal_reactors.turbine_builder.pattern.2": {
+    "en": "Custom",
+    "zh": "自定义"
+  },
+  "gui.colossal_reactors.turbine_builder.pattern.3": {
+    "en": "None",
+    "zh": "无"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.pattern.0": {
+    "en": "Blade rings on fewer layers (higher efficiency per blade).",
+    "zh": "叶片环分布在较少层数上(每片叶片效率更高)."
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.pattern.1": {
+    "en": "Blade rings on more layers (higher throughput).",
+    "zh": "叶片环分布在较多层数上(吞吐量更高)."
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.pattern.2": {
+    "en": "Places the shell, partition wall, and coils only (no rods or blades).",
+    "zh": "仅放置外壳, 隔墙与线圈(不放置转轴或叶片)."
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.pattern.3": {
+    "en": "Places the shell and partition wall only (no rods, blades, or coils).",
+    "zh": "仅放置外壳与隔墙(不放置转轴, 叶片或线圈)."
+  },
+  "gui.colossal_reactors.turbine_builder.open_top.open": {
+    "en": "Open",
+    "zh": "开放"
+  },
+  "gui.colossal_reactors.turbine_builder.open_top.closed": {
+    "en": "Closed",
+    "zh": "封闭"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.open_top.closed": {
+    "en": "Complete turbine with top casing closed.",
+    "zh": "结构完整, 顶部外壳封闭的涡轮机."
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.open_top.open": {
+    "en": "Top face left open for access; rod controller is still placed.",
+    "zh": "顶部保持开放以便进入; 仍会放置转轴控制器."
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.coil_value": {
+    "en": "Electromagnetic coil: %s",
+    "zh": "电磁线圈: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.coil_left": {
+    "en": "Left click: next",
+    "zh": "左键: 下一个"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.coil_right": {
+    "en": "Right click: previous",
+    "zh": "右键: 上一个"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.coil_layers": {
+    "en": "Coil zone height: %s interior layers",
+    "zh": "线圈区域高度: %s 层内部空间"
+  },
+  "gui.colossal_reactors.turbine_builder.build": {
+    "en": "Build",
+    "zh": "建造"
+  },
+  "gui.colossal_reactors.turbine_builder.build.tooltip": {
+    "en": "Start building the turbine from buffer inventory. Stops if red zones appear.",
+    "zh": "使用缓冲物品栏中的资源建造涡轮机. 出现红色区域时停止."
+  },
+  "gui.colossal_reactors.turbine_builder.stop": {
+    "en": "Stop",
+    "zh": "停止"
+  },
+  "gui.colossal_reactors.turbine_builder.stop.tooltip": {
+    "en": "Stop building the turbine.",
+    "zh": "停止建造涡轮机."
+  },
+  "gui.colossal_reactors.turbine_builder.simulation": {
+    "en": "Simulation",
+    "zh": "模拟"
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.required_for_build": {
+    "en": "Required for Build:",
+    "zh": "建造所需:"
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.tooltip": {
+    "en": "Estimates turbine stats and materials required to build.",
+    "zh": "估算涡轮机性能与建造所需材料."
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.steam_label": {
+    "en": "Steam generation",
+    "zh": "蒸汽生成"
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.steam_default": {
+    "en": "Processing:",
+    "zh": "处理:"
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.click_hint": {
+    "en": "Left: next | Right: previous",
+    "zh": "左键: 下一个 | 右键: 上一个"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.frame_casings": {
+    "en": "Frame casings: %s",
+    "zh": "框架外壳: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.frame_casings.label": {
+    "en": "Frame casings:",
+    "zh": "框架外壳:"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.face_casings": {
+    "en": "Face casings: %s",
+    "zh": "表面外壳: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.face_casings.label": {
+    "en": "Face casings:",
+    "zh": "表面外壳:"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.rods": {
+    "en": "Rods: %s",
+    "zh": "转轴: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.rods.label": {
+    "en": "Rods:",
+    "zh": "转轴:"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.rod_controllers": {
+    "en": "Turbine Rod Controllers: %s",
+    "zh": "涡轮转轴控制器: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.rod_controllers.label": {
+    "en": "Turbine Rod Controllers:",
+    "zh": "涡轮转轴控制器:"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.coils": {
+    "en": "Coil blocks: %s",
+    "zh": "线圈方块: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.coils.label": {
+    "en": "Coil blocks:",
+    "zh": "线圈方块:"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.closure_deck": {
+    "en": "Closure deck casings: %s",
+    "zh": "封闭平台外壳: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.closure_deck.label": {
+    "en": "Closure deck casings:",
+    "zh": "封闭平台外壳:"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.blades": {
+    "en": "Blades: %s",
+    "zh": "叶片: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.calculate.blades.label": {
+    "en": "Blades:",
+    "zh": "叶片:"
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.coil_blocks": {
+    "en": "Coil blocks: %s",
+    "zh": "线圈方块: %s"
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.rods": {
+    "en": "Rod blocks (if built): %s",
+    "zh": "转轴方块(若建造): %s"
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.blades_if_built": {
+    "en": "Balanced blades (if built): %s",
+    "zh": "平衡叶片(若建造): %s"
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.energy_cap": {
+    "en": "Energy cap: %s RF/t",
+    "zh": "能量上限: %s RF/t"
+  },
+  "gui.colossal_reactors.turbine_builder.simulation.steam_cap": {
+    "en": "Steam cap: %s mB/t",
+    "zh": "蒸汽上限: %s mB/t"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.coil_layers_shift": {
+    "en": "Shift+click: coil zone layers (%s)",
+    "zh": "Shift+点击: 线圈区域层数(%s)"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.placement_axis.header": {
+    "en": "Place the turbine rod",
+    "zh": "放置涡轮转轴"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.placement_axis.flow.down_up": {
+    "en": "Down to Up",
+    "zh": "由下至上"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.placement_axis.flow.up_down": {
+    "en": "Up to Down",
+    "zh": "由上至下"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.placement_axis.flow.north_south": {
+    "en": "North to South",
+    "zh": "由北至南"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.placement_axis.flow.south_north": {
+    "en": "South to North",
+    "zh": "由南至北"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.placement_axis.flow.east_west": {
+    "en": "East to West",
+    "zh": "由东至西"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.placement_axis.flow.west_east": {
+    "en": "West to East",
+    "zh": "由西至东"
+  },
+  "gui.colossal_reactors.turbine.stats.blades": {
+    "en": "Blades: %s",
+    "zh": "叶片: %s"
+  },
+  "gui.colossal_reactors.turbine_controller.blades_valid": {
+    "en": "Valid blades: %s",
+    "zh": "有效叶片: %s"
+  },
+  "gui.colossal_reactors.turbine_controller.blades_valid.label": {
+    "en": "Valid blades:",
+    "zh": "有效叶片:"
+  },
+  "gui.colossal_reactors.turbine_controller.energy_production": {
+    "en": "Energy: %s RF/t",
+    "zh": "能量: %s RF/t"
+  },
+  "gui.colossal_reactors.turbine_controller.energy_runtime": {
+    "en": "Energy: %s RF/t",
+    "zh": "能量: %s RF/t"
+  },
+  "gui.colossal_reactors.turbine_controller.energy_runtime.label": {
+    "en": "Energy:",
+    "zh": "能量:"
+  },
+  "gui.colossal_reactors.turbine_controller.steam_production": {
+    "en": "Processing: %s mB/t",
+    "zh": "处理: %s mB/t"
+  },
+  "gui.colossal_reactors.turbine_controller.steam_runtime": {
+    "en": "Processing: %s mB/t",
+    "zh": "处理: %s mB/t"
+  },
+  "gui.colossal_reactors.turbine_controller.steam_runtime.label": {
+    "en": "Processing:",
+    "zh": "处理:"
+  },
+  "gui.colossal_reactors.turbine_controller.turbine_capacity.label": {
+    "en": "Capacity:",
+    "zh": "容量:"
+  },
+  "gui.colossal_reactors.turbine_controller.efficiency.label": {
+    "en": "Efficiency:",
+    "zh": "效率:"
+  },
+  "gui.colossal_reactors.turbine_controller.status.requires_redstone_port": {
+    "en": "(redstone port required)",
+    "zh": "(需要红石端口)"
+  },
+  "block.colossal_reactors.chromium_ore": {
+    "en": "Chromium Ore",
+    "zh": "铬矿石"
+  },
+  "block.colossal_reactors.deep_chromium_ore": {
+    "en": "Deepslate Chromium Ore",
+    "zh": "深层铬矿石"
+  },
+  "block.colossal_reactors.chromium_block": {
+    "en": "Block of Chromium",
+    "zh": "铬块"
+  },
+  "block.colossal_reactors.chromium_raw_block": {
+    "en": "Block of Raw Chromium",
+    "zh": "粗铬块"
+  },
+  "block.colossal_reactors.stainless_steel_block": {
+    "en": "Block of Stainless Steel",
+    "zh": "不锈钢块"
+  },
+  "item.colossal_reactors.chromium_raw": {
+    "en": "Raw Chromium",
+    "zh": "粗铬"
+  },
+  "item.colossal_reactors.chromium_ingot": {
+    "en": "Chromium Ingot",
+    "zh": "铬锭"
+  },
+  "item.colossal_reactors.chromium_dust": {
+    "en": "Chromium Dust",
+    "zh": "铬粉"
+  },
+  "item.colossal_reactors.chromium_dust_dirty": {
+    "en": "Dirty Chromium Dust",
+    "zh": "污浊铬粉"
+  },
+  "item.colossal_reactors.unrefined_stainless_steel": {
+    "en": "Unrefined Stainless Steel",
+    "zh": "未精炼不锈钢"
+  },
+  "item.colossal_reactors.stainless_steel_ingot": {
+    "en": "Stainless Steel Ingot",
+    "zh": "不锈钢锭"
+  },
+  "item.colossal_reactors.boron_clump": {
+    "en": "Boron Clump",
+    "zh": "硼碎片"
+  },
+  "item.colossal_reactors.chromium_clump": {
+    "en": "Chromium Clump",
+    "zh": "铬碎片"
+  },
+  "item.colossal_reactors.boron_shard": {
+    "en": "Boron Shard",
+    "zh": "硼碎晶"
+  },
+  "item.colossal_reactors.boron_crystal": {
+    "en": "Boron Crystal",
+    "zh": "硼晶体"
+  },
+  "item.colossal_reactors.chromium_shard": {
+    "en": "Chromium Shard",
+    "zh": "铬碎晶"
+  },
+  "item.colossal_reactors.chromium_crystal": {
+    "en": "Chromium Crystal",
+    "zh": "铬晶体"
+  },
+  "item.colossal_reactors.boron_dirty_dust": {
+    "en": "Dirty Boron Dust",
+    "zh": "污浊硼粉"
+  },
+  "block.colossal_reactors.californium_end_ore": {
+    "en": "Californium Ore",
+    "zh": "锎矿石"
+  },
+  "item.colossal_reactors.californium_crystals": {
+    "en": "Californium Crystals",
+    "zh": "锎晶体"
+  },
+  "item.colossal_reactors.red_cake": {
+    "en": "Red Cake",
+    "zh": "红饼"
+  }
+}

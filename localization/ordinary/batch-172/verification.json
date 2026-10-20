@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "172",
+  "namespace": "apothic_spawners",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 2,
+  "source_sha256": "d72d965a9d28338d9669d6220c0dd13f1a04c00afbc17a42284d0bf464796471",
+  "in_game_tested": false
+}

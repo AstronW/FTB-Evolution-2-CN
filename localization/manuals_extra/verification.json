@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "pages_in_scope": 305,
+  "pages_translated": 305,
+  "pages_native_checked": 244,
+  "pages_token_checked": 305,
+  "outputs_missing_or_drifted": [],
+  "native_problems": [],
+  "reviewed_ast_differences": [
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/kindred_charm.mdx",
+      "missing": {
+        "list": 1,
+        "listItem": 1
+      },
+      "reason": "源文硬换行留下孤立的 10. 行, 原生解析器把它当成有序列表; 中文将数字并回句子."
+    },
+    {
+      "page": "assets/oracle_index/books/kindredspirits/docs/spirits/trex.mdx",
+      "missing": {
+        "paragraph": 1,
+        "list": 1,
+        "listItem": 1
+      },
+      "reason": "源文硬换行把 30. 留在列表项缩进内, 原生解析器把它当成嵌套列表; 中文将数字并回句子."
+    }
+  ],
+  "stellar_problems": [],
+  "in_game_tested": false
+}

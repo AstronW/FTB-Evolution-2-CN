@@ -1,0 +1,13 @@
+{
+  "batch": "275",
+  "namespace": "adrenaline",
+  "jar": ".minecraft/mods/adrenaline-26.1.2-1.0.2.jar",
+  "language_path": "assets/adrenaline/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/adrenaline/lang/zh_cn.json",
+  "include_keys": [
+    "message.adrenaline.not_effected",
+    "item.adrenaline.adrenaline_shot"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

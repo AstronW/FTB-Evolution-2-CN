@@ -1,0 +1,4278 @@
+{
+  "target_pack_version": "1.4.0",
+  "previous_mappings": 33,
+  "added_mappings": 112,
+  "total_mappings": 151,
+  "rows": [
+    {
+      "id": "ae2netanalyser",
+      "english": "AE2NetworkAnalyzer",
+      "jar": "AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.ae2netanalyser",
+          "zh": "AE2网络分析仪",
+          "path": "assets/ae2netanalyser/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "AE2网络分析仪",
+      "chosen_key": "itemGroup.ae2netanalyser",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "mr_ati_structuresfabricforge",
+      "english": "ATi Structures",
+      "jar": "ATi Structures V1.4.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "advanced_ae",
+      "english": "Advanced AE",
+      "jar": "AdvancedAE-26.1.7.jar",
+      "candidates": [
+        {
+          "key": "gui.advanced_ae.ModName",
+          "zh": "高级AE",
+          "path": "assets/advanced_ae/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.advanced_ae.category",
+          "zh": "高级AE",
+          "path": "assets/advanced_ae/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "高级AE",
+      "chosen_key": "gui.advanced_ae.ModName",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "aci",
+      "english": "AdvancedCoreInfo",
+      "jar": "AdvancedCoreInfo-neoforge-26.1.2-1.5.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ali",
+      "english": "AdvancedLootInfo",
+      "jar": "AdvancedLootInfo-neoforge-26.1.2-2.5.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ambientenvironment",
+      "english": "AmbientEnvironment",
+      "jar": "AmbientEnvironment-neoforge-26.1.2-26.1.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "anima",
+      "english": "Anima",
+      "jar": "Anima-1.0.3+Neoforge-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "apotheosis",
+      "english": "Apotheosis",
+      "jar": "Apotheosis-26.1.2-9.1.0.jar",
+      "candidates": [
+        {
+          "key": "key.categories.apotheosis",
+          "zh": "神化",
+          "path": "assets/apotheosis/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "神化",
+      "chosen_key": "key.categories.apotheosis",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "apothic_attributes",
+      "english": "Apothic Attributes",
+      "jar": "ApothicAttributes-26.1.2-3.1.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "apothic_enchanting",
+      "english": "Apothic Enchanting",
+      "jar": "ApothicEnchanting-26.1.2-2.1.0.jar",
+      "candidates": [
+        {
+          "key": "creative_tab.apothic_enchanting.all",
+          "zh": "神化附魔",
+          "path": "assets/apothic_enchanting/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "config.jade.plugin_apothic_enchanting.ench",
+          "zh": "神化附魔",
+          "path": "assets/apothic_enchanting/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "神化附魔",
+      "chosen_key": "creative_tab.apothic_enchanting.all",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "apothic_spawners",
+      "english": "Apothic Spawners",
+      "jar": "ApothicSpawners-26.1.2-2.0.1.jar",
+      "candidates": [
+        {
+          "key": "config.jade.plugin_apothic_spawners.spawner",
+          "zh": "神化刷怪笼",
+          "path": "assets/apothic_spawners/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "advancements.apothic_spawners.spawner",
+          "zh": "神化刷怪笼",
+          "path": "assets/apothic_spawners/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "神化刷怪笼",
+      "chosen_key": "config.jade.plugin_apothic_spawners.spawner",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "appflux",
+      "english": "AppliedFlux",
+      "jar": "AppliedFlux-26.1-1.0.2-neoforge.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.af",
+          "zh": "应用通量",
+          "path": "assets/appflux/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "应用通量",
+      "chosen_key": "itemGroup.af",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "attributefix",
+      "english": "AttributeFix",
+      "jar": "AttributeFix-neoforge-MC26.1.2-26.1.2.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "bhmenu",
+      "english": "BHMenu",
+      "jar": "BHMenu-NeoForge-26.1-2.4.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "betteradvancements",
+      "english": "Better Advancements",
+      "jar": "BetterAdvancements-NeoForge-26.1.2-0.6.0.76.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "buildguide",
+      "english": "Build Guide",
+      "jar": "BuildGuide-26.1.2-0.4.9.jar",
+      "candidates": [
+        {
+          "key": "key.category.buildguide.buildguide",
+          "zh": "建筑指南",
+          "path": "assets/buildguide/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "screen.buildguide.title",
+          "zh": "建筑指南",
+          "path": "assets/buildguide/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "建筑指南",
+      "chosen_key": "key.category.buildguide.buildguide",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "chunky",
+      "english": "Chunky",
+      "jar": "Chunky-NeoForge-1.5.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "contex",
+      "english": "ConTex",
+      "jar": "ConnectedTextures-13.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "controlling",
+      "english": "Controlling",
+      "jar": "Controlling-neoforge-26.1.2-26.1.2.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "creativecore",
+      "english": "CreativeCore",
+      "jar": "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "cucumber",
+      "english": "Cucumber Library",
+      "jar": "Cucumber-26.1.2-9.0.6.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "dimstorage",
+      "english": "DimStorage",
+      "jar": "DimStorage-26.1.2-10.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mr_dungeons_andtavernsancientcityoverhaul",
+      "english": "Dungeons and Taverns Ancient City Overhaul",
+      "jar": "DnT-ancient-city-overhaul-3.3 [NeoForge].jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "dungeoncrawl",
+      "english": "Dungeon Crawl",
+      "jar": "DungeonCrawl-NeoForge-26.1-2.3.17.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "eclipseui",
+      "english": "EclipseUI",
+      "jar": "EclipseUI-neoforge-1.0.4+mc26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "edivadlib",
+      "english": "EdivadLib",
+      "jar": "EdivadLib-26.1.2-4.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "emojiful",
+      "english": "Emojiful",
+      "jar": "Emojiful-Neoforge-26.1.2-5.3.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "enchdesc",
+      "english": "EnchantmentDescriptions",
+      "jar": "EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "enderthing",
+      "english": "Enderthing",
+      "jar": "Enderthing-26.1.2-1.10.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "euphoria_patcher",
+      "english": "Euphoria Patcher",
+      "jar": "EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "exoconfig",
+      "english": "ExoConfig",
+      "jar": "ExoConfig-26.1.2-neoforge-0.3.5.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "explorerscompass",
+      "english": "Explorer's Compass",
+      "jar": "ExplorersCompass-26.1-3.3.0-neoforge.jar",
+      "candidates": [
+        {
+          "key": "item.explorerscompass.explorerscompass",
+          "zh": "结构罗盘",
+          "path": "assets/explorerscompass/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "结构罗盘",
+      "chosen_key": "item.explorerscompass.explorerscompass",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "explorify",
+      "english": "Explorify",
+      "jar": "Explorify v1.6.5.mod.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "extendedae",
+      "english": "ExtendedAE",
+      "jar": "ExtendedAE-26.1-1.0.4-neoforge.jar",
+      "candidates": [
+        {
+          "key": "key.extendedae.category",
+          "zh": "AE2扩展",
+          "path": "assets/extendedae/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "AE2扩展",
+      "chosen_key": "key.extendedae.category",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "extrastorage",
+      "english": "ExtraStorage",
+      "jar": "ExtraStorage-26.1.2-6.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "extremesoundmuffler",
+      "english": "Extreme Sound Muffler",
+      "jar": "ExtremeSoundMuffler-4.04_NeoForge-26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "fastfurnace",
+      "english": "FastFurnace",
+      "jar": "FastFurnace-26.1.2-10.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "fastbench",
+      "english": "Fast Workbench",
+      "jar": "FastWorkbench-26.1.2-10.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "gateways",
+      "english": "Gateways To Eternity",
+      "jar": "GatewaysToEternity-26.1.2-6.0.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.gateways",
+          "zh": "永恒之门",
+          "path": "assets/gateways/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "永恒之门",
+      "chosen_key": "itemGroup.gateways",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "geore",
+      "english": "GeOre",
+      "jar": "GeOre-26.1.2-8.1.0.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.geore",
+          "zh": "矿石晶洞",
+          "path": "assets/geore/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "矿石晶洞",
+      "chosen_key": "itemGroup.geore",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "glitchcore",
+      "english": "GlitchCore",
+      "jar": "GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "glodium",
+      "english": "Glodium",
+      "jar": "Glodium-26.1-1.2-neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "highlighter",
+      "english": "Highlighter",
+      "jar": "Highlighter-26.1.2-neoforge-1.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "hopour",
+      "english": "HopoBetterUnderwaterRuins",
+      "jar": "HopoBetterUnderwaterRuins-[26.1]-1.2.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "horsingaround",
+      "english": "Horsing Around",
+      "jar": "HorsingAround-26.1.2-0.3.5.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "iceberg",
+      "english": "Iceberg",
+      "jar": "Iceberg-26.1.2-neoforge-1.4.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "immediatelyfast",
+      "english": "ImmediatelyFast",
+      "jar": "ImmediatelyFast-NeoForge-1.15.3+26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "incendium",
+      "english": "Incendium",
+      "jar": "Incendium_26.1_v5.4.12.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "itemborders",
+      "english": "Item Borders",
+      "jar": "ItemBorders-26.1.2-neoforge-1.3.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "jade",
+      "english": "Jade",
+      "jar": "Jade-mc26.1-NeoForge-26.1.12.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "justenoughprofessions",
+      "english": "Just Enough Professions (JEP)",
+      "jar": "JustEnoughProfessions-neoforge-26.1.2-11.0.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "magnumtorch",
+      "english": "Magnum Torch",
+      "jar": "MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.magnumtorch.main",
+          "zh": "卓越火炬",
+          "path": "assets/magnumtorch/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "卓越火炬",
+      "chosen_key": "itemGroup.magnumtorch.main",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "maxhealthfix",
+      "english": "MaxHealthFix",
+      "jar": "MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "measurements",
+      "english": "Measurements",
+      "jar": "Measurements-neoforge-26.1-4.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mes",
+      "english": "MoogsEndStructures",
+      "jar": "MoogsEndStructures-universal-1.21-2.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mns",
+      "english": "MoogsNetherStructures",
+      "jar": "MoogsNetherStructures-universal-1.21-3.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mss",
+      "english": "MoogsSoaringStructures",
+      "jar": "MoogsSoaringStructures-universal-1.21-2.2.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "moogs_structures",
+      "english": "Moog's Structure Lib",
+      "jar": "MoogsStructureLib-neoforge-26.1.2-3.4.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mtr",
+      "english": "MoogsTemplesReimagined",
+      "jar": "MoogsTemplesReimagined-universal-1.21-2.0.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mvs",
+      "english": "MoogsVoyagerStructures",
+      "jar": "MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mousetweaks",
+      "english": "Mouse Tweaks",
+      "jar": "MouseTweaks-neoforge-mc26.1-2.31.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mutantmonsters",
+      "english": "Mutant Monsters",
+      "jar": "MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar",
+      "candidates": [
+        {
+          "key": "advancements.mutantmonsters.root.title",
+          "zh": "变异怪物",
+          "path": "assets/mutantmonsters/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "itemGroup.mutantmonsters.main",
+          "zh": "突变生物",
+          "path": "assets/mutantmonsters/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "变异怪物",
+      "chosen_key": "advancements.mutantmonsters.root.title",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "mysticalagradditions",
+      "english": "Mystical Agradditions",
+      "jar": "MysticalAgradditions-26.1.2-9.0.4.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.mysticalagradditions",
+          "zh": "神秘农业扩展",
+          "path": "assets/mysticalagradditions/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "神秘农业扩展",
+      "chosen_key": "itemGroup.mysticalagradditions",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "mysticalagriculture",
+      "english": "Mystical Agriculture",
+      "jar": "MysticalAgriculture-26.1.2-9.0.10.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.mysticalagriculture",
+          "zh": "神秘农业",
+          "path": "assets/mysticalagriculture/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "book.mysticalagriculture.name",
+          "zh": "神秘农业",
+          "path": "assets/mysticalagriculture/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "神秘农业",
+      "chosen_key": "itemGroup.mysticalagriculture",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "mysticalautomation",
+      "english": "Mystical Automation",
+      "jar": "MysticalAutomation-26.1.2-2.0.7.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.mysticalautomation",
+          "zh": "神秘自动化",
+          "path": "assets/mysticalautomation/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "神秘自动化",
+      "chosen_key": "itemGroup.mysticalautomation",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "mysticalcustomization",
+      "english": "Mystical Customization",
+      "jar": "MysticalCustomization-26.1.2-7.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "naturescompass",
+      "english": "Nature's Compass",
+      "jar": "NaturesCompass-26.1-3.3.0-neoforge.jar",
+      "candidates": [
+        {
+          "key": "item.naturescompass.naturescompass",
+          "zh": "自然罗盘",
+          "path": "assets/naturescompass/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "自然罗盘",
+      "chosen_key": "item.naturescompass.naturescompass",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "neosync",
+      "english": "NeoSync",
+      "jar": "NeoSync-26.1.2-1.7.2.jar",
+      "candidates": [
+        {
+          "key": "creativetab.neosync",
+          "zh": "新克隆",
+          "path": "assets/neosync/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "reason": "Direct user decision; previous ambiguity resolved.",
+      "translation": "新克隆",
+      "chosen_key": "user-name-decisions.json"
+    },
+    {
+      "id": "nullscape",
+      "english": "Nullscape",
+      "jar": "Nullscape_26.1.2_v1.2.20.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "overflowingbars",
+      "english": "Overflowing Bars",
+      "jar": "OverflowingBars-v26.1.0-mc26.1.x-NeoForge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "paraglider",
+      "english": "Paraglider",
+      "jar": "Paraglider-neoforge-26.1.2.jar",
+      "candidates": [
+        {
+          "key": "advancement.paraglider",
+          "zh": "滑翔伞",
+          "path": "assets/paraglider/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.paraglider.paraglider",
+          "zh": "滑翔伞",
+          "path": "assets/paraglider/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "itemGroup.paraglider",
+          "zh": "滑翔伞",
+          "path": "assets/paraglider/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "paraglider.configuration.paraglider",
+          "zh": "滑翔伞",
+          "path": "assets/paraglider/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "滑翔伞",
+      "chosen_key": "advancement.paraglider",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "placebo",
+      "english": "Placebo",
+      "jar": "Placebo-26.1.2-10.0.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "player_animation_library",
+      "english": "Player Animation Library",
+      "jar": "PlayerAnimationLibMerged-1.2.8+mc.26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "powah",
+      "english": "Powah",
+      "jar": "Powah-7.0.4-alpha.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "prickle",
+      "english": "PrickleMC",
+      "jar": "PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "prism",
+      "english": "Prism",
+      "jar": "Prism-26.1.2-neoforge-1.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "bmaddon",
+      "english": "BloodMagic Additions",
+      "jar": "RBMAddon26.1.2-beta3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "rainshield",
+      "english": "Rain Shield",
+      "jar": "RainShield-26.1.2-2.0.0.jar",
+      "candidates": [
+        {
+          "key": "block.rainshield.rain_shield",
+          "zh": "驱雨盾",
+          "path": "assets/rainshield/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "驱雨盾",
+      "chosen_key": "block.rainshield.rain_shield",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "replication",
+      "english": "Replication",
+      "jar": "Replication-26.1.2-1.2.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "scannable",
+      "english": "Scannable Reforged",
+      "jar": "ScannableReforged-MC26.1.2-neoforge-1.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "searchables",
+      "english": "Searchables",
+      "jar": "Searchables-neoforge-26.1.2-1.0.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "sdrp",
+      "english": "Simple Discord Rich Presence",
+      "jar": "SimpleDiscordRichPresence-neoforge-26.1.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "simpleteleporters",
+      "english": "Simple Teleporters",
+      "jar": "SimpleTeleportersReforged-26.1.2-5.1.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "sfm",
+      "english": "Super Factory Manager (SFM)",
+      "jar": "Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "terrablender",
+      "english": "TerraBlender",
+      "jar": "TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "terralith",
+      "english": "Terralith",
+      "jar": "Terralith_26.1_v2.6.1_Neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "toolbelt",
+      "english": "Tool Belt",
+      "jar": "ToolBelt-26.1.2-2.9.5.jar",
+      "candidates": [
+        {
+          "key": "item.toolbelt.belt",
+          "zh": "工具皮带",
+          "path": "assets/toolbelt/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.toolbelt.category",
+          "zh": "工具皮带",
+          "path": "assets/toolbelt/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "text.toolbelt",
+          "zh": "工具皮带",
+          "path": "assets/toolbelt/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "工具皮带",
+      "chosen_key": "item.toolbelt.belt",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "travelerstitles",
+      "english": "Traveler's Titles",
+      "jar": "TravelersTitles-26.1.2-NeoForge-6.1.0.jar",
+      "candidates": [
+        {
+          "key": "text.autoconfig.travelerstitles-fabric-26_1.title",
+          "zh": "旅人标题",
+          "path": "assets/travelerstitles/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "旅人标题",
+      "chosen_key": "text.autoconfig.travelerstitles-fabric-26_1.title",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "whatthebucket",
+      "english": "WhatTheBucket",
+      "jar": "WhatTheBucket-neoforge-MC26.1.2-26.1.2.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "yungsapi",
+      "english": "YUNG's API",
+      "jar": "YungsApi-26.1.2-NeoForge-6.1.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "bettercaves",
+      "english": "YUNG's Better Caves",
+      "jar": "YungsBetterCaves-26.1.2-NeoForge-4.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "bettermineshafts",
+      "english": "YUNG's Better Mineshafts",
+      "jar": "YungsBetterMineshafts-26.1.2-NeoForge-6.1.1.jar",
+      "candidates": [
+        {
+          "key": "text.autoconfig.bettermineshafts-fabric-26_1.title",
+          "zh": "YUNG的矿井优化",
+          "path": "assets/bettermineshafts/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "YUNG的矿井优化",
+      "chosen_key": "text.autoconfig.bettermineshafts-fabric-26_1.title",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "betterfortresses",
+      "english": "YUNG's Better Nether Fortresses",
+      "jar": "YungsBetterNetherFortresses-26.1.2-NeoForge-4.1.1.jar",
+      "candidates": [
+        {
+          "key": "text.autoconfig.betterfortresses-fabric-26_1.title",
+          "zh": "YUNG的下界要塞优化",
+          "path": "assets/betterfortresses/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "YUNG的下界要塞优化",
+      "chosen_key": "text.autoconfig.betterfortresses-fabric-26_1.title",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "betterstrongholds",
+      "english": "YUNG's Better Strongholds",
+      "jar": "YungsBetterStrongholds-26.1.2-NeoForge-6.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "yungsbridges",
+      "english": "YUNG's Bridges",
+      "jar": "YungsBridges-26.1.2-NeoForge-6.1.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "yungscavebiomes",
+      "english": "YUNG's Cave Biomes",
+      "jar": "YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.yungscavebiomes.general",
+          "zh": "YUNG的洞穴生物群系",
+          "path": "assets/yungscavebiomes/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "yungscavebiomes.advancements.root.title",
+          "zh": "YUNG的洞穴生物群系",
+          "path": "assets/yungscavebiomes/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "YUNG的洞穴生物群系",
+      "chosen_key": "itemGroup.yungscavebiomes.general",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "yungsextras",
+      "english": "YUNG's Extras",
+      "jar": "YungsExtras-26.1.2-NeoForge-6.1.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ctov",
+      "english": "ChoiceTheorem's Overhauled Village",
+      "jar": "[Neoforge]ctov-26-4.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "accelerateddecay",
+      "english": "Accelerated Decay",
+      "jar": "accelerated-decay-neoforge-26.1.2.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "adrenaline",
+      "english": "Adrenaline",
+      "jar": "adrenaline-26.1.2-1.0.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ae2_pattern_restocker",
+      "english": "AE2 Pattern Restocker",
+      "jar": "ae2_pattern_restocker-neoforge-26.1-1.1.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ae2importexportcard",
+      "english": "AE2 Import Export Card",
+      "jar": "ae2importexportcard-26.1.2-2.3.1.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.ae2importexportcard",
+          "zh": "AE2输入输出卡",
+          "path": "assets/ae2importexportcard/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "AE2输入输出卡",
+      "chosen_key": "itemGroup.ae2importexportcard",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ae2wtlib",
+      "english": "AE2WTLib",
+      "jar": "ae2wtlib-26.1.2-beta.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "agritechevolved",
+      "english": "Agritech: Evolved",
+      "jar": "agritechevolved-2.2.0.6+neoforge-mc26.1.2.jar",
+      "candidates": [
+        {
+          "key": "creativetab.agritechevolved",
+          "zh": "农业科技: 进化",
+          "path": "assets/agritechevolved/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "农业科技: 进化",
+      "chosen_key": "creativetab.agritechevolved",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ancient_remnants",
+      "english": "Ancient Remnants",
+      "jar": "ancient_remnants-1.0.2.2-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "animal_pen",
+      "english": "Animal Pen",
+      "jar": "animal_pen-neoforge-26.1-2.5.1.jar",
+      "candidates": [
+        {
+          "key": "item.animal_pen.animal_pen_acacia",
+          "zh": "金合欢木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_bamboo",
+          "zh": "竹子动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_birch",
+          "zh": "白桦木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_cherry",
+          "zh": "樱花木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_crimson",
+          "zh": "绯红木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_dark_oak",
+          "zh": "深色橡木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_jungle",
+          "zh": "丛林木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_oak",
+          "zh": "橡木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_pale_oak",
+          "zh": "苍白橡木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_spruce",
+          "zh": "云杉木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_warped",
+          "zh": "诡异木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.animal_pen.animal_pen_mangrove",
+          "zh": "红树木动物围栏",
+          "path": "assets/animal_pen/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "reason": "Direct user decision; previous ambiguity resolved.",
+      "translation": "动物围栏",
+      "chosen_key": "user-name-decisions.json"
+    },
+    {
+      "id": "animalgarden_alligatorgar",
+      "english": "Animal Garden - Alligator Gar",
+      "jar": "animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "animalgarden_bullshark",
+      "english": "Animal Garden - Bull Shark",
+      "jar": "animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "animalgarden_crocodile",
+      "english": "Animal Garden - Crocodile",
+      "jar": "animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "animalgarden_seaotter",
+      "english": "Animal Garden - Sea Otter",
+      "jar": "animalgarden-seaotter-1.1.1-neoforge-26.2.0.6.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "animusnv",
+      "english": "Animus: NeoVitae",
+      "jar": "animusnv-26.1.2-5.2.19.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "another_config_manager",
+      "english": "Another Config Manager",
+      "jar": "another_config_manager-1.0.0.0.0-neoforge-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "apothic_compats",
+      "english": "Apothic Compats",
+      "jar": "apothic_compats-0.3.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "appleskin",
+      "english": "AppleSkin",
+      "jar": "appleskin-neoforge-mc26.1-3.0.9.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "applied_oritech",
+      "english": "Applied Oritech",
+      "jar": "applied_oritech-1.0.4+26.1.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.applied_oritech",
+          "zh": "应用奥瑞科技",
+          "path": "assets/applied_oritech/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "应用奥瑞科技",
+      "chosen_key": "itemGroup.applied_oritech",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "appliedcooking",
+      "english": "Applied Cooking",
+      "jar": "appliedcooking-7.2.0.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.appliedcooking",
+          "zh": "应用厨房",
+          "path": "assets/appliedcooking/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "category.appliedcooking.name",
+          "zh": "应用厨房",
+          "path": "assets/appliedcooking/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "应用厨房",
+      "chosen_key": "itemGroup.appliedcooking",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ae2",
+      "english": "Applied Energistics 2",
+      "jar": "appliedenergistics2-26.1.13-beta.jar",
+      "candidates": [
+        {
+          "key": "gui.ae2.CreativeTab",
+          "zh": "应用能源2",
+          "path": "assets/ae2/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.ae2.category",
+          "zh": "应用能源2",
+          "path": "assets/ae2/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "应用能源2",
+      "chosen_key": "gui.ae2.CreativeTab",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "aquarius_libs",
+      "english": "Aquarius Libs",
+      "jar": "aquariuslibs-1.2.0-neoforge-26.2.0.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "architectury",
+      "english": "Architectury",
+      "jar": "architectury-neoforge-20.1.17.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "armor_cosmetic",
+      "english": "Armor Cosmetic",
+      "jar": "armor_cosmetic-26.1.2-neoforge-1.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "artifacts",
+      "english": "Artifacts",
+      "jar": "artifacts-neoforge-15.1.3.jar",
+      "candidates": [
+        {
+          "key": "artifacts.creative_tab",
+          "zh": "奇异饰品",
+          "path": "assets/artifacts/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.artifacts.artifacts",
+          "zh": "奇异饰品",
+          "path": "assets/artifacts/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "tag.item.artifacts.artifacts",
+          "zh": "奇异饰品",
+          "path": "assets/artifacts/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "奇异饰品",
+      "chosen_key": "artifacts.creative_tab",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "athena",
+      "english": "Athena",
+      "jar": "athena-4.7.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "atlas_api",
+      "english": "Atlas API",
+      "jar": "atlas_api-26.1.2-1.2.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "authme",
+      "english": "Auth Me",
+      "jar": "authme-neoforge-9.2.1+26.1.jar",
+      "candidates": [
+        {
+          "key": "text.rconfig.authme.title",
+          "zh": "Auth Me 设置",
+          "path": "assets/authme/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "retain_english",
+      "reason": "User explicitly retains Auth Me in English."
+    },
+    {
+      "id": "baguettelib",
+      "english": "BaguetteLib",
+      "jar": "baguettelib-26.1.2-NeoForge-2.0.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "balm",
+      "english": "Balm",
+      "jar": "balm-neoforge-26.1.2-26.1.2.15.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "bhc",
+      "english": "Baubley Heart Canisters",
+      "jar": "baubley-heart-canisters-26.1.2-1.7.3.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.bhcTab",
+          "zh": "心之容器",
+          "path": "assets/bhc/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "心之容器",
+      "chosen_key": "itemGroup.bhcTab",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "bblcore",
+      "english": "BBL Core",
+      "jar": "bblcore-26.1.2-12.6.12.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "beer",
+      "english": "BEER",
+      "jar": "beer-26.1.2-1.4.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "belts",
+      "english": "Simple Belts",
+      "jar": "belts-neoforge-2.0.0-exp1.jar",
+      "candidates": [
+        {
+          "key": "itemgroup.belts.items",
+          "zh": "便捷传送带",
+          "path": "assets/belts/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "便捷传送带",
+      "chosen_key": "itemgroup.belts.items",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "betteradvancedtooltips",
+      "english": "Better Advanced Tooltips",
+      "jar": "better-advanced-tooltips-2601.1.0-build.11.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "bcc",
+      "english": "Better Compatibility Checker",
+      "jar": "better-compatability-checker-neoforge-26.1.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "betterfishtanks",
+      "english": "Better Fishtanks",
+      "jar": "betterfishtanks-1.3.0-26.1-NeoForge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "cable_facades",
+      "english": "Cable Facades",
+      "jar": "cable_facades-26.1.2-NeoForge-2.1.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "cabletiers",
+      "english": "Cable Tiers",
+      "jar": "cabletiers-neoforge-26.1.2-1.0.3.jar",
+      "candidates": [
+        {
+          "key": "mod.cabletiers",
+          "zh": "多级线缆",
+          "path": "assets/cabletiers/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "多级线缆",
+      "chosen_key": "mod.cabletiers",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "cakesticklib",
+      "english": "CakeStickLib",
+      "jar": "cakesticklib-1.17.5-hotfix-1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "carryon",
+      "english": "Carry On",
+      "jar": "carryon-neoforge-26.1.2-2.10.0.jar",
+      "candidates": [
+        {
+          "key": "key.category.carryon.key.carry.category",
+          "zh": "搬运",
+          "path": "assets/carryon/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "搬运",
+      "chosen_key": "key.category.carryon.key.carry.category",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "carryonextend",
+      "english": "CarryOnExtend",
+      "jar": "carryonextend-architectury-neoforge-26.1.2-1.5.1.jar",
+      "candidates": [
+        {
+          "key": "advancement.carryonextend.root.title",
+          "zh": "携带扩展",
+          "path": "assets/carryonextend/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "携带扩展",
+      "chosen_key": "advancement.carryonextend.root.title",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "computercraft",
+      "english": "CC: Tweaked",
+      "jar": "cc-tweaked-26.1.2-forge-1.120.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "cleanswing",
+      "english": "Clean Swing",
+      "jar": "cleanswing-1.9-26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "cleanview",
+      "english": "CleanView",
+      "jar": "cleanview 26.1 - 26.1.1 V1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "clickadv",
+      "english": "Clickable Advancements mod",
+      "jar": "clickadv-26.1-3.9.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "cloth_config",
+      "english": "Cloth Config v26.1 API",
+      "jar": "cloth-config-26.1.154.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "collapsible_groups",
+      "english": "Collapsible Groups",
+      "jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.jar",
+      "candidates": [
+        {
+          "key": "collapsible_groups.screen.title",
+          "zh": "可折叠分组",
+          "path": "assets/collapsible_groups/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "可折叠分组",
+      "chosen_key": "collapsible_groups.screen.title",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "collective",
+      "english": "Collective",
+      "jar": "collective-26.1.2-8.32.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "colorblindness",
+      "english": "Color Blindness",
+      "jar": "colorblindness-neoforge-26.1-5.0.0.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "combat_roll",
+      "english": "Combat Roll",
+      "jar": "combat_roll-neoforge-3.0.1+26.1.2.jar",
+      "candidates": [
+        {
+          "key": "combat_roll.mod_name",
+          "zh": "战术翻滚",
+          "path": "assets/combat_roll/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.combat_roll.main",
+          "zh": "战斗翻滚",
+          "path": "assets/combat_roll/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "text.autoconfig.combat_roll.title",
+          "zh": "战术翻滚",
+          "path": "assets/combat_roll/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "战术翻滚",
+      "chosen_key": "combat_roll.mod_name",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "comforts",
+      "english": "Comforts",
+      "jar": "comforts-neoforge-15.0.0+26.1.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.comforts",
+          "zh": "舒适用品",
+          "path": "assets/comforts/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "itemGroup.comforts.general",
+          "zh": "舒适用品",
+          "path": "assets/comforts/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "舒适用品",
+      "chosen_key": "itemGroup.comforts",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "commoncapabilities",
+      "english": "CommonCapabilities",
+      "jar": "commoncapabilities-26.1.2-neoforge-2.11.8.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "compressium",
+      "english": "Compressium",
+      "jar": "compressium-26.1.2.1.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.compressium",
+          "zh": "压缩工艺",
+          "path": "assets/compressium/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "压缩工艺",
+      "chosen_key": "itemGroup.compressium",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "configured",
+      "english": "Configured",
+      "jar": "configured-neoforge-26.1.2-2.7.5.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "configureddefaults",
+      "english": "Configured Defaults",
+      "jar": "configureddefaults-v26.1.1-mc26.1.x+neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "context_matters",
+      "english": "ConText Matters",
+      "jar": "context-matters-0.9.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "cookingforblockheads",
+      "english": "Cooking for Blockheads",
+      "jar": "cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
+      "candidates": [
+        {
+          "key": "item.cookingforblockheads.no_filter_edition",
+          "zh": "傻瓜烹饪手册",
+          "path": "assets/cookingforblockheads/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "itemGroup.cookingforblockheads.cookingforblockheads",
+          "zh": "傻瓜烹饪",
+          "path": "assets/cookingforblockheads/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "cookingforblockheads.configuration",
+          "zh": "傻瓜烹饪",
+          "path": "assets/cookingforblockheads/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "cookingforblockheads.configuration.title",
+          "zh": "懒人厨房",
+          "path": "assets/cookingforblockheads/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "傻瓜烹饪",
+      "chosen_key": "itemGroup.cookingforblockheads.cookingforblockheads",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "crafting_on_a_stick",
+      "english": "Crafting on a Stick",
+      "jar": "crafting_on_a_stick-neoforge-26.1-1.1.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.crafting_on_a_stick",
+          "zh": "便携式工具",
+          "path": "assets/crafting_on_a_stick/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "curios.identifier.crafting_on_a_stick",
+          "zh": "便携式工具",
+          "path": "assets/crafting_on_a_stick/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "便携式工具",
+      "chosen_key": "itemGroup.crafting_on_a_stick",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "craftingstation",
+      "english": "Crafting Station",
+      "jar": "craftingstationjei-26.1.1-NeoForge-2.2.0.jar",
+      "candidates": [
+        {
+          "key": "block.craftingstation.crafting_station",
+          "zh": "合成站",
+          "path": "assets/craftingstation/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "title.crafting_station",
+          "zh": "合成站",
+          "path": "assets/craftingstation/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "合成站",
+      "chosen_key": "block.craftingstation.crafting_station",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "craftingtweaks",
+      "english": "Crafting Tweaks",
+      "jar": "craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
+      "candidates": [
+        {
+          "key": "key.categories.craftingtweaks.default",
+          "zh": "合成辅助 (CraftingTweaks)",
+          "path": "assets/craftingtweaks/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "craftingtweaks.configuration.title",
+          "zh": "合成辅助",
+          "path": "assets/craftingtweaks/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "合成辅助 (CraftingTweaks)",
+      "chosen_key": "key.categories.craftingtweaks.default",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "crashutilities",
+      "english": "Crash Utilities",
+      "jar": "crashutilities-10.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "crawl",
+      "english": "Crawl",
+      "jar": "crawl-mc26.1.2-neoforge-0.15.0.jar",
+      "candidates": [
+        {
+          "key": "key.crawl",
+          "zh": "爬行",
+          "path": "assets/crawl/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "爬行",
+      "chosen_key": "key.crawl",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "crystalix",
+      "english": "Crystalix",
+      "jar": "crystalix-4.1.0+26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ctm",
+      "english": "CTM",
+      "jar": "ctm-26.1.2.11.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "cupboard",
+      "english": "Cupboard mod",
+      "jar": "cupboard-26.1-4.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "curios",
+      "english": "Curios API",
+      "jar": "curios-neoforge-15.0.0+26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "cyclopscore",
+      "english": "Cyclops Core",
+      "jar": "cyclopscore-26.1.2-neoforge-1.31.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "dankstorage",
+      "english": "Dank Storage",
+      "jar": "dankstorage-neoforge-26.1.2-1.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.dankstorage",
+          "zh": "黑盒存储",
+          "path": "assets/dankstorage/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.categories.dankstorage",
+          "zh": "储物黑盒",
+          "path": "assets/dankstorage/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "黑盒存储",
+      "chosen_key": "itemGroup.dankstorage",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "dsp",
+      "english": "Default Server Properties",
+      "jar": "default-server-properties-neoforge-26.1.0.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "deimos",
+      "english": "Deimos",
+      "jar": "deimos-26.1.2-neoforge-2.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "dimenergy",
+      "english": "Dim Energy",
+      "jar": "dimenergy-26.1.2-1.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "directorscamera",
+      "english": "Director's Camera",
+      "jar": "directorscamera-26.1.2-1.0.1.jar",
+      "candidates": [
+        {
+          "key": "item.directorscamera.directors_camera",
+          "zh": "导演摄像机",
+          "path": "assets/directorscamera/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "key.category.directorscamera.main",
+          "zh": "导演摄像机",
+          "path": "assets/directorscamera/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "directorscamera.configuration.title",
+          "zh": "导演摄像机",
+          "path": "assets/directorscamera/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "导演摄像机",
+      "chosen_key": "item.directorscamera.directors_camera",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "doubledoors",
+      "english": "Double Doors",
+      "jar": "doubledoors-26.1.2-7.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "dragon_egg_respawns",
+      "english": "Dragon Egg Respawns",
+      "jar": "dragon-egg-respawns-v1.0.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "drones",
+      "english": "Modular Drones",
+      "jar": "drones-neoforge-26.1.2-1.3.2.jar",
+      "candidates": [
+        {
+          "key": "category.drones.main_group",
+          "zh": "模块化无人机",
+          "path": "assets/drones/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "模块化无人机",
+      "chosen_key": "category.drones.main_group",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "easy_piglins",
+      "english": "Easy Piglins",
+      "jar": "easy-piglins-neoforge-1.1.7+26.1.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.easy_piglins",
+          "zh": "简易猪灵",
+          "path": "assets/easy_piglins/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "简易猪灵",
+      "chosen_key": "itemGroup.easy_piglins",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "easy_villagers",
+      "english": "Easy Villagers",
+      "jar": "easy-villagers-neoforge-1.1.42+26.1.2.jar",
+      "candidates": [
+        {
+          "key": "key.category.easy_villagers.easy_villagers",
+          "zh": "简易村民",
+          "path": "assets/easy_villagers/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "itemGroup.easy_villagers",
+          "zh": "简易村民",
+          "path": "assets/easy_villagers/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "简易村民",
+      "chosen_key": "key.category.easy_villagers.easy_villagers",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "easy_npc",
+      "english": "Easy NPC",
+      "jar": "easy_npc-neoforge-26.1.2-7.16.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "eccentrictome",
+      "english": "Eccentric Tome",
+      "jar": "eccentrictome-1.2.1.jar",
+      "candidates": [
+        {
+          "key": "item.eccentrictome.tome",
+          "zh": "怪奇宝典",
+          "path": "assets/eccentrictome/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "怪奇宝典",
+      "chosen_key": "item.eccentrictome.tome",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "elevatorid",
+      "english": "ElevatorMod",
+      "jar": "elevatorid-neoforge-26.1-1.16.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "energizedpower",
+      "english": "Energized Power",
+      "jar": "energizedpower-3.0.1+26.1.x-neoforge.jar",
+      "candidates": [
+        {
+          "key": "key.category.energizedpower.main",
+          "zh": "充能能源",
+          "path": "assets/energizedpower/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "充能能源",
+      "chosen_key": "key.category.energizedpower.main",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "energymeter",
+      "english": "Energy Meter",
+      "jar": "energymeter-neoforge-26.1.2-0.5.1.jar",
+      "candidates": [
+        {
+          "key": "block.energymeter.meter",
+          "zh": "电能表",
+          "path": "assets/energymeter/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.energymeter.meter",
+          "zh": "电能表",
+          "path": "assets/energymeter/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "tab.energymeter.main",
+          "zh": "电能表",
+          "path": "assets/energymeter/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "电能表",
+      "chosen_key": "block.energymeter.meter",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "entangled",
+      "english": "Entangled",
+      "jar": "entangled-1.3.21-neoforge-mc26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "entityculling",
+      "english": "EntityCulling",
+      "jar": "entityculling-neoforge-1.11.3-mc26.1.2.jar",
+      "candidates": [
+        {
+          "key": "text.entityculling.title",
+          "zh": "实体渲染机制优化",
+          "path": "assets/entityculling/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.minecraft.text.entityculling.title",
+          "zh": "实体渲染机制优化",
+          "path": "assets/entityculling/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "实体渲染机制优化",
+      "chosen_key": "text.entityculling.title",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "evilcraftcompat",
+      "english": "EvilCraft-Compat",
+      "jar": "evilcraft-26.1.2-neoforge-1.2.108.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "explosiveenhancement",
+      "english": "Explosive Enhancement",
+      "jar": "explosiveenhancement-neoforge-26.1.0-1.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "fancymenu",
+      "english": "FancyMenu",
+      "jar": "fancymenu_neoforge_3.9.14_MC_26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "fancytabsections",
+      "english": "Fancy Tab Sections",
+      "jar": "fancytabsections-6.2-NEOFORGE-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "farmingforblockheads",
+      "english": "Farming for Blockheads",
+      "jar": "farmingforblockheads-neoforge-26.1.2-26.1.2.5.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.farmingforblockheads.farmingforblockheads",
+          "zh": "农场贸易",
+          "path": "assets/farmingforblockheads/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "farmingforblockheads.configuration.title",
+          "zh": "农场贸易",
+          "path": "assets/farmingforblockheads/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "农场贸易",
+      "chosen_key": "itemGroup.farmingforblockheads.farmingforblockheads",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ferritecore",
+      "english": "Ferrite Core",
+      "jar": "ferritecore-9.0.0-neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "fertilization",
+      "english": "Fertilization",
+      "jar": "fertilization-neoforge-26.1.2-26.1.2.3.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.fertilization.fertilization",
+          "zh": "更多骨粉",
+          "path": "assets/fertilization/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "更多骨粉",
+      "chosen_key": "itemGroup.fertilization.fertilization",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "flatbedrock",
+      "english": "Flat Bedrock",
+      "jar": "flatbedrock-neoforge-99.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "flickerfix",
+      "english": "FlickerFix",
+      "jar": "flickerfix-26.1-7.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "flopper",
+      "english": "Flopper",
+      "jar": "flopper-26.1.2-neoforge-1.1.9.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.flopper",
+          "zh": "流体漏斗",
+          "path": "assets/flopper/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "block.flopper.flopper",
+          "zh": "流体漏斗",
+          "path": "assets/flopper/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "流体漏斗",
+      "chosen_key": "itemGroup.flopper",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "forgeendertech",
+      "english": "ForgeEndertech",
+      "jar": "forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "fragmentum",
+      "english": "Fragmentum",
+      "jar": "fragmentum-neoforge-26.1-4.1.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "framework",
+      "english": "Framework",
+      "jar": "framework-neoforge-26.1.2-0.13.23.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "frostbear",
+      "english": "FrostBear",
+      "jar": "frostbear-neoforge-26.1.2-2.0.0.jar",
+      "candidates": [
+        {
+          "key": "entity.frostbear.frost_bear",
+          "zh": "霜熊",
+          "path": "assets/frostbear/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "霜熊",
+      "chosen_key": "entity.frostbear.frost_bear",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ftbarmory",
+      "english": "FTB Armory",
+      "jar": "ftb-armory-26.1.2.8.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbauxilium",
+      "english": "FTB Auxilium",
+      "jar": "ftb-auxilium-neoforge-26.1.2.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbbackups3",
+      "english": "FTB Backups 3",
+      "jar": "ftb-backups-3-26.1.2.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbchunks",
+      "english": "FTB Chunks",
+      "jar": "ftb-chunks-neoforge-26.1.2.8.jar",
+      "candidates": [
+        {
+          "key": "ftbchunks",
+          "zh": "FTB区块声明",
+          "path": "assets/ftbchunks/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.ftbchunks.keys",
+          "zh": "FTB区块声明",
+          "path": "assets/ftbchunks/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "FTB区块声明",
+      "chosen_key": "ftbchunks",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ftbechoes",
+      "english": "FTB Echoes",
+      "jar": "ftb-echoes-26.1.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbessentials",
+      "english": "FTB Essentials",
+      "jar": "ftb-essentials-neoforge-26.1.2.5.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbevolutioncompanion",
+      "english": "FTB Evolution 2 Companion",
+      "jar": "ftb-evolution-companion-26.1.2.22.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbezcrystals",
+      "english": "FTB EZ Crystals",
+      "jar": "ftb-ez-crystals-26.1.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbfiltersystem",
+      "english": "FTB Filter System",
+      "jar": "ftb-filter-system-neoforge-26.1.2.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftblibrary",
+      "english": "FTB Library",
+      "jar": "ftb-library-neoforge-26.1.2.9.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbmaterials",
+      "english": "FTB Materials",
+      "jar": "ftb-materials-26.1.2.6.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.ftbmaterials.ftbmaterials_main",
+          "zh": "FTB材料",
+          "path": "assets/ftbmaterials/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "FTB材料",
+      "chosen_key": "itemGroup.ftbmaterials.ftbmaterials_main",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ftbobsidian",
+      "english": "FTB Obsidian",
+      "jar": "ftb-obsidian-26.1.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbpc",
+      "english": "FTB Pack Companion",
+      "jar": "ftb-pack-companion-26.1.2.5.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbquests",
+      "english": "FTB Quests",
+      "jar": "ftb-quests-neoforge-26.1.2.9.jar",
+      "candidates": [
+        {
+          "key": "ftbquests",
+          "zh": "FTB 任务",
+          "path": "assets/ftbquests/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "itemGroup.ftbquests.ftbquests",
+          "zh": "FTB 任务",
+          "path": "assets/ftbquests/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.ftbquests.keys",
+          "zh": "FTB 任务",
+          "path": "assets/ftbquests/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "FTB 任务",
+      "chosen_key": "ftbquests",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ftbranks",
+      "english": "FTB Ranks",
+      "jar": "ftb-ranks-neoforge-26.1.2.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftbteams",
+      "english": "FTB Teams",
+      "jar": "ftb-teams-neoforge-26.1.2.4.jar",
+      "candidates": [
+        {
+          "key": "key.category.ftbteams.ftbteams_key",
+          "zh": "FTB队伍",
+          "path": "assets/ftbteams/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "FTB队伍",
+      "chosen_key": "key.category.ftbteams.ftbteams_key",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ftbultimine",
+      "english": "FTB Ultimine",
+      "jar": "ftb-ultimine-neoforge-26.1.2.6.jar",
+      "candidates": [
+        {
+          "key": "key.category.ftbultimine.default",
+          "zh": "FTB连锁破坏",
+          "path": "assets/ftbultimine/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "FTB连锁破坏",
+      "chosen_key": "key.category.ftbultimine.default",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ftbxmodcompat",
+      "english": "FTB XMod Compat",
+      "jar": "ftb-xmod-compat-neoforge-26.1.2.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ftboceanmobs",
+      "english": "FTB Ocean Mobs",
+      "jar": "ftboceanmobs-26.1.2.1.jar",
+      "candidates": [
+        {
+          "key": "ftboceanmobs.itemGroup.tab",
+          "zh": "FTB海洋生物",
+          "path": "assets/ftboceanmobs/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "FTB海洋生物",
+      "chosen_key": "ftboceanmobs.itemGroup.tab",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "ftbpromoter",
+      "english": "FTB Promoter",
+      "jar": "ftbpromoter-26.1.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "functionalstorage",
+      "english": "Functional Storage",
+      "jar": "functionalstorage-26.1.2-1.6.4.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.functionalstorage",
+          "zh": "功能性存储",
+          "path": "assets/functionalstorage/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "功能性存储",
+      "chosen_key": "itemGroup.functionalstorage",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "fusion",
+      "english": "Fusion",
+      "jar": "fusion-1.3.16-neoforge-mc26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "fzzy_config",
+      "english": "Fzzy Config",
+      "jar": "fzzy_config-0.7.7+26.1+neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "geckolib",
+      "english": "GeckoLib 5",
+      "jar": "geckolib-neoforge-26.1.2-5.5.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "getittogetherdrops",
+      "english": "Get It Together, Drops!",
+      "jar": "getittogetherdrops-neoforge-26.1.1-1.5.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "goblintraders",
+      "english": "Goblin Traders",
+      "jar": "goblintraders-neoforge-26.1.2-1.12.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "graveless",
+      "english": "Graveless",
+      "jar": "graveless-neoforge-26.1.2-1.4.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "growthacceleratortiers",
+      "english": "Growth Accelerator Tiers",
+      "jar": "growthacceleratortiers-2.0.0+26.1.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.growthacceleratortiers",
+          "zh": "多级催生器",
+          "path": "assets/growthacceleratortiers/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "key.growthacceleratortiers.categories",
+          "zh": "多级催生器",
+          "path": "assets/growthacceleratortiers/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "多级催生器",
+      "chosen_key": "itemGroup.growthacceleratortiers",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "guideme",
+      "english": "GuideME",
+      "jar": "guideme-26.1.15-beta.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "hugestructureblocks",
+      "english": "Huge Structure Blocks",
+      "jar": "huge-structure-blocks-neoforge-1.1.9.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "imfast",
+      "english": "imfast",
+      "jar": "imfast-NEOFORGE-26.1.2-1.0.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "infinitystorage",
+      "english": "Infinity Storage",
+      "jar": "infinitystorage-26.1.2-2.0.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.infinitystorage",
+          "zh": "无限存储",
+          "path": "assets/infinitystorage/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "无限存储",
+      "chosen_key": "itemGroup.infinitystorage",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "interdimensionalwirelesstransmitter",
+      "english": "Interdimensional Wireless Transmitter",
+      "jar": "interdimensionalwirelesstransmitter-neoforge-26.1.2-1.0.1.jar",
+      "candidates": [
+        {
+          "key": "mod.interdimensional_wireless_transmitter",
+          "zh": "跨维度无线传输器",
+          "path": "assets/interdimensionalwirelesstransmitter/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "block.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter",
+          "zh": "跨维度无线传输器",
+          "path": "assets/interdimensionalwirelesstransmitter/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter",
+          "zh": "跨维度无线传输器",
+          "path": "assets/interdimensionalwirelesstransmitter/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "跨维度无线传输器",
+      "chosen_key": "mod.interdimensional_wireless_transmitter",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "inventoryessentials",
+      "english": "Inventory Essentials",
+      "jar": "inventoryessentials-neoforge-26.1.2-26.1.2.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "inventorytotem",
+      "english": "Inventory Totem",
+      "jar": "inventorytotem-26.1.2-3.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "iris",
+      "english": "Iris",
+      "jar": "iris-neoforge-1.11.4+mc26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "ironfurnaces",
+      "english": "Iron Furnaces",
+      "jar": "ironfurnaces-neoforge-26.1.2-4.4.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.ironfurnaces",
+          "zh": "更多熔炉",
+          "path": "assets/ironfurnaces/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "更多熔炉",
+      "chosen_key": "itemGroup.ironfurnaces",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "irons_artifice",
+      "english": "Iron's Arms 'n Artifice",
+      "jar": "irons_artifice-26.1.2-1.1.0.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.irons_artifice",
+          "zh": "Iron的武备与巧械",
+          "path": "assets/irons_artifice/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "advancements.irons_artifice.root.title",
+          "zh": "Iron的武备与巧械",
+          "path": "assets/irons_artifice/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "Iron的武备与巧械",
+      "chosen_key": "itemGroup.irons_artifice",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "irons_jewelry",
+      "english": "Iron's Gems 'n Jewelry",
+      "jar": "irons_jewelry-26.1.2-2.0.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "irons_lib",
+      "english": "Iron's Lib",
+      "jar": "irons_lib-26.1.2-2.2.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "iska_lib",
+      "english": "Iskandert Library",
+      "jar": "iska_lib-1.12.0.1.0-neoforge-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "itemcollectors",
+      "english": "Item Collectors",
+      "jar": "itemcollectors-1.1.12a-neoforge-mc26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "jamd",
+      "english": "Just Another Mining Dimension",
+      "jar": "jamd-neo-26.1.1.1+mc26.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "javd",
+      "english": "Just Another Void Dimension",
+      "jar": "javd-neo-26.1.1.0+mc26.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "jearchaeology",
+      "english": "Just Enough Archaeology",
+      "jar": "jearchaeology-26.1.2-1.3.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "jei",
+      "english": "Just Enough Items",
+      "jar": "jei-26.1.2-neoforge-29.47.0.111.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "jumpboat",
+      "english": "Jumpy Boats",
+      "jar": "jumpboat-26.1.2-1.0.6.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "jupiter",
+      "english": "Jupiter",
+      "jar": "jupiter-2.4.3-26.1.2-universal.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "justhammers",
+      "english": "Just Hammers",
+      "jar": "just-hammers-neoforge-26.1.2.1.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.justhammers.justhammers_tab",
+          "zh": "锤子合集",
+          "path": "assets/justhammers/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "锤子合集",
+      "chosen_key": "itemGroup.justhammers.justhammers_tab",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "justdirefuels",
+      "english": "Just Dire Fuels",
+      "jar": "justdirefuels-1.1.0-26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "justdirethings",
+      "english": "Just Dire Things",
+      "jar": "justdirethings-1.6.11.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "justdynathings",
+      "english": "Just Dyna Things",
+      "jar": "justdynathings-2.0-alpha-build-13.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "justzoom",
+      "english": "Just Zoom",
+      "jar": "justzoom_neoforge_3.0.1_MC_26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "keybindbundles",
+      "english": "KeyBind Bundles",
+      "jar": "keybindbundles-2.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "kindredspirits",
+      "english": "Kindred Spirits",
+      "jar": "kindredspirits-26.1.2-1.0.9.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "konkrete",
+      "english": "Konkrete",
+      "jar": "konkrete_neoforge_1.10.1_MC_26.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "kubejs",
+      "english": "KubeJS",
+      "jar": "kubejs-neoforge-26.1.2-8.0.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "laserbridges",
+      "english": "Laser Bridges",
+      "jar": "laserbridges-26.1.2-neoforge-6.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "laserio",
+      "english": "LaserIO",
+      "jar": "laserio-1.10.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "libtooltips",
+      "english": "wd's Tooltips Library",
+      "jar": "libtooltips-2.3.2-NEOFORGE-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "limacore",
+      "english": "LimaCore",
+      "jar": "limacore-26.1.2-2.11.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "lithostitched",
+      "english": "Lithostitched",
+      "jar": "lithostitched-1.8.1-neoforge-26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "little_big_redstone",
+      "english": "Little Big Redstone",
+      "jar": "little-big-redstone-1.9.10-alpha-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "littlejoys",
+      "english": "Little Joys",
+      "jar": "littlejoys-neoforge-26.1.2-26.1.2.5.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "logisticsnetworks",
+      "english": "LogisticsNetworks",
+      "jar": "logisticsnetworks-26.1.2-1.13.0.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.logisticsnetworks",
+          "zh": "物流网络",
+          "path": "assets/logisticsnetworks/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.categories.logisticsnetworks",
+          "zh": "物流网络",
+          "path": "assets/logisticsnetworks/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.logisticsnetworks.logisticsnetworks",
+          "zh": "物流网络",
+          "path": "assets/logisticsnetworks/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "advancement.logisticsnetworks.root.title",
+          "zh": "物流网络",
+          "path": "assets/logisticsnetworks/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "物流网络",
+      "chosen_key": "itemGroup.logisticsnetworks",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "loot_journal",
+      "english": "Loot Journal",
+      "jar": "loot_journal-neoforge-26.1-6.2.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "lootr",
+      "english": "Lootr",
+      "jar": "lootr-neoforge-26.1.2-1.23.38.123.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "malisisswitchesreborn",
+      "english": "Malisis Switches (Reborn)",
+      "jar": "malisisswitchesreborn-neoforge-26.1.2-1.0.9.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.malisisswitchesreborn",
+          "zh": "无线红石开关 (重制版)",
+          "path": "assets/malisisswitchesreborn/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "无线红石开关 (重制版)",
+      "chosen_key": "itemGroup.malisisswitchesreborn",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "matc",
+      "english": "Mystical Agriculture Tiered Crystals",
+      "jar": "matc-1.8.0.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.matc",
+          "zh": "神秘农业: 水晶拓展",
+          "path": "assets/matc/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "神秘农业: 水晶拓展",
+      "chosen_key": "itemGroup.matc",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "meinfinitycell",
+      "english": "MEInfinityCell",
+      "jar": "meinfinitycell-26.1-1.0.0.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.meinfinitycell",
+          "zh": "ME无限元件",
+          "path": "assets/meinfinitycell/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "ME无限元件",
+      "chosen_key": "itemGroup.meinfinitycell",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "melody",
+      "english": "Melody",
+      "jar": "melody_neoforge_1.0.16_MC_26.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mezz_config_gui",
+      "english": "MezzConfig GUI",
+      "jar": "mezz_config_gui-26.1.2-neoforge-mc26.1.2-0.5.10.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mffs",
+      "english": "Modular Force Field System",
+      "jar": "mffs-5.8.39.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.mffs.main",
+          "zh": "模块化力场系统",
+          "path": "assets/mffs/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "模块化力场系统",
+      "chosen_key": "itemGroup.mffs.main",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "mining_helmet",
+      "english": "Mining Helmet",
+      "jar": "mining_helmet-26.1.2-2.1.3.jar",
+      "candidates": [
+        {
+          "key": "item.mining_helmet.mining_helmet",
+          "zh": "矿工头盔",
+          "path": "assets/mining_helmet/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "矿工头盔",
+      "chosen_key": "item.mining_helmet.mining_helmet",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "mininggadgets",
+      "english": "Mining Gadgets",
+      "jar": "mininggadgets-1.19.3.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.mininggadgets",
+          "zh": "采掘小帮手",
+          "path": "assets/mininggadgets/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "采掘小帮手",
+      "chosen_key": "itemGroup.mininggadgets",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "mint_lib",
+      "english": "MINT Lib",
+      "jar": "mint_lib-0.4.0-26.1b.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "mobflowutilities",
+      "english": "Mob Flow Utilities",
+      "jar": "mobflowutilities-3.2.1.9-mc-26.1.2.jar",
+      "candidates": [
+        {
+          "key": "creativetab.mobflowutilities",
+          "zh": "生物流动工具",
+          "path": "assets/mobflowutilities/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "生物流动工具",
+      "chosen_key": "creativetab.mobflowutilities",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "modernfix",
+      "english": "ModernFix",
+      "jar": "modernfix-neoforge-5.27.24+mc26.1.2.jar",
+      "candidates": [
+        {
+          "key": "key.modernfix",
+          "zh": "现代化修复",
+          "path": "assets/modernfix/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "现代化修复",
+      "chosen_key": "key.modernfix",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "modifiedbiomesource",
+      "english": "Modified Biome Source",
+      "jar": "modifiedbiomesource-neoforge-0.0.3+26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "modonomicon",
+      "english": "Modonomicon",
+      "jar": "modonomicon-26.1.2-neoforge-2.17.1.jar",
+      "candidates": [
+        {
+          "key": "item.modonomicon.modonomicon",
+          "zh": "模组秘典",
+          "path": "assets/modonomicon/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "itemGroup.modonomicon",
+          "zh": "模组秘典",
+          "path": "assets/modonomicon/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "模组秘典",
+      "chosen_key": "item.modonomicon.modonomicon",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "modularrouters",
+      "english": "Modular Routers",
+      "jar": "modular-routers-26.1.2.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.modularrouters",
+          "zh": "模块化路由器",
+          "path": "assets/modularrouters/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "模块化路由器",
+      "chosen_key": "itemGroup.modularrouters",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "moreoverlays",
+      "english": "More Overlays Updated",
+      "jar": "moreoverlays-1.24.4-mc26.1.2-neoforge.jar",
+      "candidates": [
+        {
+          "key": "key.moreoverlays.category",
+          "zh": "更多叠加",
+          "path": "assets/moreoverlays/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "更多叠加",
+      "chosen_key": "key.moreoverlays.category",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "morered",
+      "english": "More Red",
+      "jar": "morered-26.1.2.3.jar",
+      "candidates": [
+        {
+          "key": "advancements.morered.morered.root.title",
+          "zh": "更多红石",
+          "path": "assets/morered/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "itemGroup.morered",
+          "zh": "更多红石电路",
+          "path": "assets/morered/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "更多红石电路",
+      "chosen_key": "itemGroup.morered",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "mystianapiary",
+      "english": "Mystian Apiary",
+      "jar": "mystianapiary-neoforge-1.10.jar",
+      "candidates": [
+        {
+          "key": "creativetab.mystianapiary",
+          "zh": "神秘蜂房",
+          "path": "assets/mystianapiary/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "jei.mystianapiary.category",
+          "zh": "神秘蜂房",
+          "path": "assets/mystianapiary/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "神秘蜂房",
+      "chosen_key": "creativetab.mystianapiary",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "nanitelibrary",
+      "english": "Nanite Library",
+      "jar": "nanite-library-neoforge-26.1.2.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "naturalsizes",
+      "english": "NaturalSizes",
+      "jar": "naturalsizes-1.2-neoforge-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "neovitae",
+      "english": "Neo Vitae",
+      "jar": "neovitae-26.1.2-1.1.43.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "nerb",
+      "english": "Not Enough Recipe Book",
+      "jar": "nerb-neoforge-0.4.3+26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "netherportalfix",
+      "english": "NetherPortalFix",
+      "jar": "netherportalfix-neoforge-26.1-26.1.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "nodeworks",
+      "english": "Nodeworks",
+      "jar": "nodeworks-0.9.21.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "obsidianboat",
+      "english": "Obsidian Boat",
+      "jar": "obsidianboat-neo-26.1.1.0+mc26.1.1.jar",
+      "candidates": [
+        {
+          "key": "entity.obsidianboat.obsidianboat",
+          "zh": "黑曜石船",
+          "path": "assets/obsidianboat/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.obsidianboat.obsidian_boat",
+          "zh": "黑曜石船",
+          "path": "assets/obsidianboat/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "黑曜石船",
+      "chosen_key": "entity.obsidianboat.obsidianboat",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "occultcooking",
+      "english": "Occult Cooking",
+      "jar": "occultcooking-2.0.0.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.occultcooking",
+          "zh": "神秘烹饪",
+          "path": "assets/occultcooking/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "category.occultcooking.name",
+          "zh": "神秘烹饪",
+          "path": "assets/occultcooking/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "神秘烹饪",
+      "chosen_key": "itemGroup.occultcooking",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "oracle_index",
+      "english": "Oracle Index",
+      "jar": "oracle_index-neoforge-2.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "oritechthings",
+      "english": "Oritech Things",
+      "jar": "oritechthings-0.1.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "patchful",
+      "english": "Patchful",
+      "jar": "patchful-26.1.2-1.1.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "patchouli",
+      "english": "Patchouli",
+      "jar": "patchouli-neoforge-26.1-94.jar",
+      "candidates": [
+        {
+          "key": "item.patchouli:intro_book.name",
+          "zh": "帕秋莉手册",
+          "path": "assets/patchouli/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "帕秋莉手册",
+      "chosen_key": "item.patchouli:intro_book.name",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "peekaboo",
+      "english": "Peekaboo!",
+      "jar": "peekaboo-1.0.0+26.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "pipe_graph",
+      "english": "Pipe Graph",
+      "jar": "pipe-graph-0.9.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "pipe_connector",
+      "english": "Pipe Connector",
+      "jar": "pipe_connector-neoforge-0.6.8.jar",
+      "candidates": [
+        {
+          "key": "item.pipe_connector.pipe_connector",
+          "zh": "管道连接器",
+          "path": "assets/pipe_connector/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "管道连接器",
+      "chosen_key": "item.pipe_connector.pipe_connector",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "pipez",
+      "english": "Pipez",
+      "jar": "pipez-neoforge-1.2.31+26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "pipezlagfix",
+      "english": "PipezLagFix",
+      "jar": "pipezlagfix-26.1.2-1.1.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "plonk",
+      "english": "Plonk",
+      "jar": "plonk-26.1.2-10.0.10-neo.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "polylib",
+      "english": "Polylib",
+      "jar": "polylib-neoforge-26.1.2-2.0.11.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "potentials",
+      "english": "Potentials",
+      "jar": "potentials-neoforge-26.1.2-0.11.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "productivebees",
+      "english": "Productive Bees",
+      "jar": "productivebees-26.1.2-15.3.0.jar",
+      "candidates": [
+        {
+          "key": "config.jade.plugin_productivebees.bee",
+          "zh": "资源蜜蜂",
+          "path": "assets/productivebees/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "itemGroup.productivebees",
+          "zh": "资源蜜蜂",
+          "path": "assets/productivebees/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "资源蜜蜂",
+      "chosen_key": "config.jade.plugin_productivebees.bee",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "puffish_attributes",
+      "english": "Pufferfish's Attributes",
+      "jar": "puffish_attributes-0.8.2-26.1-neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "puffish_skills",
+      "english": "Pufferfish's Skills",
+      "jar": "puffish_skills-0.19.2-26.1-neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "puzzleslib",
+      "english": "Puzzles Lib",
+      "jar": "puzzleslib-v26.1.16-mc26.1.x+neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "pylons",
+      "english": "Pylons",
+      "jar": "pylons-26.1-6.0.1.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.pylons",
+          "zh": "实用塔",
+          "path": "assets/pylons/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "实用塔",
+      "chosen_key": "itemGroup.pylons",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "quantumcubes",
+      "english": "Quantum Cubes",
+      "jar": "quantumcubes-neoforge-26.1.2-1.0.3.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.quantumcubes",
+          "zh": "量子方块",
+          "path": "assets/quantumcubes/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "量子方块",
+      "chosen_key": "itemGroup.quantumcubes",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "randombonemealflowers",
+      "english": "Random Bone Meal Flowers",
+      "jar": "randombonemealflowers-26.1.2-4.7.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "recursiveae2patternprovider",
+      "english": "Recursive AE2 Pattern Provider",
+      "jar": "recursiveae2patternprovider-1.1.1.jar",
+      "candidates": [
+        {
+          "key": "recursiveae2patternprovider.configuration.title",
+          "zh": "递归 AE2 样板供应器",
+          "path": "assets/recursiveae2patternprovider/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "递归 AE2 样板供应器",
+      "chosen_key": "recursiveae2patternprovider.configuration.title",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "refinedtypes",
+      "english": "Refined Types",
+      "jar": "refined-types-26.1.2-1.0.2.jar",
+      "candidates": [
+        {
+          "key": "refinedtypes.configuration.title",
+          "zh": "精致存储：类型扩展",
+          "path": "assets/refinedtypes/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "refinedtypes.configuration.section.refinedtypes.common.toml",
+          "zh": "精致存储：类型扩展",
+          "path": "assets/refinedtypes/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "refinedtypes.configuration.section.refinedtypes.common.toml.title",
+          "zh": "精致存储：类型扩展",
+          "path": "assets/refinedtypes/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "reason": "Direct user decision; previous ambiguity resolved.",
+      "translation": "精致存储: 类型扩展",
+      "chosen_key": "user-name-decisions.json"
+    },
+    {
+      "id": "refinedcooking",
+      "english": "Refined Cooking",
+      "jar": "refinedcooking-neoforge-26.1.2-7.3.1.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.refinedcooking.refinedcooking",
+          "zh": "精致厨房",
+          "path": "assets/refinedcooking/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "category.refinedcooking.name",
+          "zh": "精致厨房",
+          "path": "assets/refinedcooking/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "reason": "Direct user decision; previous ambiguity resolved.",
+      "translation": "精致厨房",
+      "chosen_key": "user-name-decisions.json"
+    },
+    {
+      "id": "refinedfluidsubstitution",
+      "english": "Refined Fluid Substitution",
+      "jar": "refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "refinedstorage_curios_integration",
+      "english": "Refined Storage - Curios Integration",
+      "jar": "refinedstorage-curios-integration-2.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "refinedstorage_jei_integration",
+      "english": "Refined Storage - JEI Integration",
+      "jar": "refinedstorage-jei-integration-neoforge-2.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "refinedstorage",
+      "english": "Refined Storage",
+      "jar": "refinedstorage-neoforge-3.2.1.jar",
+      "candidates": [
+        {
+          "key": "mod.refinedstorage",
+          "zh": "精致存储",
+          "path": "assets/refinedstorage/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.refinedstorage.keymappings",
+          "zh": "精致存储",
+          "path": "assets/refinedstorage/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "reason": "Direct user decision; previous ambiguity resolved.",
+      "translation": "精致存储",
+      "chosen_key": "user-name-decisions.json"
+    },
+    {
+      "id": "refinedstorage_quartz_arsenal",
+      "english": "Refined Storage - Quartz Arsenal",
+      "jar": "refinedstorage-quartz-arsenal-neoforge-2.0.6.jar",
+      "candidates": [
+        {
+          "key": "mod.refinedstorage_quartz_arsenal",
+          "zh": "精致存储-无线合成",
+          "path": "assets/refinedstorage_quartz_arsenal/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.refinedstorage_quartz_arsenal.keymappings",
+          "zh": "精致存储-无线合成",
+          "path": "assets/refinedstorage_quartz_arsenal/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "reason": "Latest user decision confirms 无线合成 matches this mod; previous English retention superseded.",
+      "translation": "精致存储 - 无线合成",
+      "chosen_key": "user-name-decisions.json"
+    },
+    {
+      "id": "resettable_trial_chambers",
+      "english": "Resettable Trial Vaults and Spawners",
+      "jar": "resettable_trial_chambers-1.0.5-neoforge-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "retrofactorymanager",
+      "english": "Retro Factory Manager",
+      "jar": "retrofactorymanager-26.1.2-1.0.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "rgp_client",
+      "english": "Rocket Game Platform Client",
+      "jar": "rgp-client-2.1.2+mc26.1.2-neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "rhino",
+      "english": "Rhino",
+      "jar": "rhino-2101.2.8-build.91.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "rsrreforged",
+      "english": "RSRRequestify: Reforged",
+      "jar": "rsrreforged-neoforge-26.1.2-1.0.3.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "selling_bin",
+      "english": "wd's Selling Bin",
+      "jar": "selling_bin-1.6-NEOFORGE-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "servercore",
+      "english": "ServerCore",
+      "jar": "servercore-neoforge-1.5.19+26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "sg_economy",
+      "english": "SG Economy API",
+      "jar": "sg_economy-26.1.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "shatterlib",
+      "english": "ShatterLib",
+      "jar": "shatterlib-neoforge-0.7.0+26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "shogi",
+      "english": "Shogi",
+      "jar": "shogi-neoforge-26.1.2-26.1.2.12.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "shrink",
+      "english": "Shrink",
+      "jar": "shrink-neoforge-26.1.2-2.1.1.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.shrink",
+          "zh": "缩放",
+          "path": "assets/shrink/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "key.shrink.category",
+          "zh": "缩放",
+          "path": "assets/shrink/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "缩放",
+      "chosen_key": "itemGroup.shrink",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "simple_weather",
+      "english": "Simple Weather",
+      "jar": "simple_weather-1.1.15.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "simplemagnets",
+      "english": "Simple Magnets",
+      "jar": "simplemagnets-1.1.12-neoforge-mc26.1.jar",
+      "candidates": [
+        {
+          "key": "simplemagnets.item_group",
+          "zh": "简易磁铁",
+          "path": "assets/simplemagnets/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "simplemagnets.keys.category",
+          "zh": "简易磁铁",
+          "path": "assets/simplemagnets/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "简易磁铁",
+      "chosen_key": "simplemagnets.item_group",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "in2bubble_simply_winged",
+      "english": "Simply Winged: Horse & Pegasus Flight",
+      "jar": "simply-winged-1.0.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "sky_aesthetics",
+      "english": "Sky Aesthetics",
+      "jar": "sky_aesthetics-neoforge-2.1.4.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "sodium",
+      "english": "Sodium",
+      "jar": "sodium-neoforge-0.9.2+mc26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "sophisticatedbackpacks",
+      "english": "Sophisticated Backpacks",
+      "jar": "sophisticatedbackpacks-26.1.2-3.26.11.2198.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.sophisticatedbackpacks",
+          "zh": "精妙背包",
+          "path": "assets/sophisticatedbackpacks/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "key.category.sophisticatedbackpacks.main",
+          "zh": "精妙背包",
+          "path": "assets/sophisticatedbackpacks/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "精妙背包",
+      "chosen_key": "itemGroup.sophisticatedbackpacks",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "sophisticatedcore",
+      "english": "Sophisticated Core",
+      "jar": "sophisticatedcore-26.1.2-1.5.14.2408.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.sophisticatedcore",
+          "zh": "精妙核心",
+          "path": "assets/sophisticatedcore/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "精妙核心",
+      "chosen_key": "itemGroup.sophisticatedcore",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "sophisticatedinventoryinteractions",
+      "english": "Sophisticated Inventory Interactions",
+      "jar": "sophisticatedinventoryinteractions-26.1.2-0.1.18.228.jar",
+      "candidates": [
+        {
+          "key": "key.category.sophisticatedinventoryinteractions.main",
+          "zh": "精妙物品栏操作（Sophisticated Inventory Interactions）",
+          "path": "assets/sophisticatedinventoryinteractions/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "精妙物品栏操作(Sophisticated Inventory Interactions)",
+      "chosen_key": "key.category.sophisticatedinventoryinteractions.main",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "sophisticateditemactions",
+      "english": "Sophisticated Item Actions",
+      "jar": "sophisticateditemactions-26.1.2-0.4.17.432.jar",
+      "candidates": [
+        {
+          "key": "key.category.sophisticateditemactions.main",
+          "zh": "精妙物品操作（Sophisticated Item Actions）",
+          "path": "assets/sophisticateditemactions/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "精妙物品操作(Sophisticated Item Actions)",
+      "chosen_key": "key.category.sophisticateditemactions.main",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "sophisticatedstorageinmotion",
+      "english": "Sophisticated Storage In Motion",
+      "jar": "sophisticatedstorageinmotion-26.1.2-0.10.37.378.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.sophisticatedstorageinmotion",
+          "zh": "精妙物流",
+          "path": "assets/sophisticatedstorageinmotion/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "精妙物流",
+      "chosen_key": "itemGroup.sophisticatedstorageinmotion",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "spark",
+      "english": "spark",
+      "jar": "spark-1.10.187-neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "squatgrow",
+      "english": "Squat Grow",
+      "jar": "squatgrow-neoforge-26.1.2.2.jar",
+      "candidates": [
+        {
+          "key": "key.category.squatgrow.keys",
+          "zh": "蹲下催熟",
+          "path": "assets/squatgrow/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "蹲下催熟",
+      "chosen_key": "key.category.squatgrow.keys",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "starcatcher",
+      "english": "Starcatcher",
+      "jar": "starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "stepcrafter",
+      "english": "Step Crafter",
+      "jar": "stepcrafter-neoforge-26.1.2-1.0.3.jar",
+      "candidates": [
+        {
+          "key": "mod.stepcrafter",
+          "zh": "分步合成器",
+          "path": "assets/stepcrafter/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "block.stepcrafter.step_crafter",
+          "zh": "分步合成器",
+          "path": "assets/stepcrafter/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "分步合成器",
+      "chosen_key": "mod.stepcrafter",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "structureessentials",
+      "english": "Structure Essentials mod",
+      "jar": "structureessentials-26.1-5.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "structurify",
+      "english": "Structurify",
+      "jar": "structurify-neoforge-2.0.43+mc26.1.2.jar",
+      "candidates": [
+        {
+          "key": "structurify",
+          "zh": "结构管理",
+          "path": "assets/structurify/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "结构管理",
+      "chosen_key": "structurify",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "supermartijn642configlib",
+      "english": "SuperMartijn642's Config Library",
+      "jar": "supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "supermartijn642corelib",
+      "english": "SuperMartijn642's Core Lib",
+      "jar": "supermartijn642corelib-1.1.25-neoforge-mc26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "tectonic",
+      "english": "Tectonic",
+      "jar": "tectonic-3.0.28-neoforge-26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "tesseract",
+      "english": "Tesseract",
+      "jar": "tesseract-1.0.39-neoforge-mc26.1.jar",
+      "candidates": [
+        {
+          "key": "tesseract.block.tesseract",
+          "zh": "超立方体",
+          "path": "assets/tesseract/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "gui.tesseract.title",
+          "zh": "超立方体",
+          "path": "assets/tesseract/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "超立方体",
+      "chosen_key": "tesseract.block.tesseract",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "tesseract_api",
+      "english": "Tesseract API",
+      "jar": "tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "thunderrelics",
+      "english": "Thunder Relics",
+      "jar": "thunderrelics-1.3.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.thunderrelics",
+          "zh": "雷霆遗迹",
+          "path": "assets/thunderrelics/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "雷霆遗迹",
+      "chosen_key": "itemGroup.thunderrelics",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "tiab",
+      "english": "Time In A Bottle",
+      "jar": "tiab-neoforge-8.0.0.jar",
+      "candidates": [
+        {
+          "key": "item.tiab.time_in_a_bottle",
+          "zh": "时间之瓶",
+          "path": "assets/tiab/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "时间之瓶",
+      "chosen_key": "item.tiab.time_in_a_bottle",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "titanium",
+      "english": "Titanium",
+      "jar": "titanium-26.1.2-4.0.12.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "torohealth",
+      "english": "ToroHealth-Continued",
+      "jar": "torohealth-continued-neoforge-26.1-1.5.1-beta.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "trainingdummy",
+      "english": "Training Dummy",
+      "jar": "trainingdummy-1.9.0+mc26.1.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.trainingdummy",
+          "zh": "训练假人",
+          "path": "assets/trainingdummy/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "item.trainingdummy.dummy_spawner",
+          "zh": "训练假人",
+          "path": "assets/trainingdummy/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "entity.trainingdummy.dummy",
+          "zh": "训练假人",
+          "path": "assets/trainingdummy/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "container.trainingdummy.dummy",
+          "zh": "训练假人",
+          "path": "assets/trainingdummy/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "训练假人",
+      "chosen_key": "itemGroup.trainingdummy",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "tramplestopper",
+      "english": "Trample Stopper",
+      "jar": "tramplestopper-neo-26.1.1.0+mc26.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "transparentae2",
+      "english": "Transparent AE2",
+      "jar": "transparentae2-26.1.2-1.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "trashcans",
+      "english": "Trash Cans",
+      "jar": "trashcans-1.1.1a-neoforge-mc26.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "trashslot",
+      "english": "TrashSlot",
+      "jar": "trashslot-neoforge-26.1.2-26.1.2.4.jar",
+      "candidates": [
+        {
+          "key": "key.category.trashslot.default",
+          "zh": "垃圾槽",
+          "path": "assets/trashslot/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "key.categories.trashslot.default",
+          "zh": "垃圾槽",
+          "path": "assets/trashslot/lang/zh_cn.json",
+          "origin": "release"
+        },
+        {
+          "key": "trashslot.configuration.title",
+          "zh": "垃圾桶",
+          "path": "assets/trashslot/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "垃圾槽",
+      "chosen_key": "key.category.trashslot.default",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "trenzalore",
+      "english": "Trenzalore",
+      "jar": "trenzalore-neo-26.1.2.1+mc26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "trimeffects",
+      "english": "TrimsEffects",
+      "jar": "trimeffects-neoforge-mc26.1.2-2.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "underwater_village",
+      "english": "Underwater Village",
+      "jar": "underwater_village-1.0.0 Neoforge 26.1.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "universalgrid",
+      "english": "Universal Grid",
+      "jar": "universalgrid-neoforge-26.1.2-1.0.2.jar",
+      "candidates": [
+        {
+          "key": "key.category.universalgrid.keymappings",
+          "zh": "通用终端",
+          "path": "assets/universalgrid/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "通用终端",
+      "chosen_key": "key.category.universalgrid.keymappings",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "uranus",
+      "english": "Uranus",
+      "jar": "uranus-3.0-alpha.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "utilitarian",
+      "english": "Utilitarian",
+      "jar": "utilitarian-26.1.2-0.22.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "volumetrics",
+      "english": "Volumetrics",
+      "jar": "volumetrics-1.0.17.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "wakes",
+      "english": "Wakes",
+      "jar": "wakes-26.1.2-NeoForge-1.4.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "waystones",
+      "english": "Waystones",
+      "jar": "waystones-neoforge-26.1.2-26.1.2.16.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.waystones.waystones",
+          "zh": "传送石碑",
+          "path": "assets/waystones/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "waystones.configuration.title",
+          "zh": "传送石碑",
+          "path": "assets/waystones/lang/zh_cn.json",
+          "origin": "native"
+        },
+        {
+          "key": "config.jade.plugin_waystones.waystone",
+          "zh": "传送石碑",
+          "path": "assets/waystones/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "传送石碑",
+      "chosen_key": "itemGroup.waystones.waystones",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "weathergate",
+      "english": "Weather Gate",
+      "jar": "weathergate-neo-26.1.1.0+mc26.1.1.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "witchery_forbidden_magic",
+      "english": "Witchery: Forbidden Magic",
+      "jar": "witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
+      "candidates": [
+        {
+          "key": "itemGroup.witchery_forbidden_magic.main",
+          "zh": "巫术: 禁忌魔法",
+          "path": "assets/witchery_forbidden_magic/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "巫术: 禁忌魔法",
+      "chosen_key": "itemGroup.witchery_forbidden_magic.main",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "wits",
+      "english": "Wits",
+      "jar": "wits-1.4.3+26.1-neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "xycraft_core",
+      "english": "XyCraft: Core",
+      "jar": "xycraft-core-0.9.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "xycraft_machines",
+      "english": "XyCraft: Machines",
+      "jar": "xycraft-machines-0.9.2.jar",
+      "candidates": [
+        {
+          "key": "item_group.xycraft_machines",
+          "zh": "XyCraft | 机器",
+          "path": "assets/xycraft_machines/lang/zh_cn.json",
+          "origin": "release"
+        }
+      ],
+      "status": "enabled",
+      "translation": "XyCraft | 机器",
+      "chosen_key": "item_group.xycraft_machines",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    },
+    {
+      "id": "xycraft_world",
+      "english": "XyCraft: World",
+      "jar": "xycraft-world-0.9.2.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "yeetusexperimentus",
+      "english": "Yeetus Experimentus",
+      "jar": "yeetusexperimentus-neoforge-99.0.0.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "yet_another_config_lib_v3",
+      "english": "YetAnotherConfigLib",
+      "jar": "yet_another_config_lib_v3-3.9.7+26.1-neoforge.jar",
+      "candidates": [],
+      "status": "no_exact_label_candidate"
+    },
+    {
+      "id": "z_core",
+      "english": "Z-Core",
+      "jar": "z_core-0.1.3-26.1.2-neoforge.jar",
+      "candidates": [
+        {
+          "key": "key.category.z_core.main",
+          "zh": "Z-核心",
+          "path": "assets/z_core/lang/zh_cn.json",
+          "origin": "native"
+        }
+      ],
+      "status": "enabled",
+      "translation": "Z-核心",
+      "chosen_key": "key.category.z_core.main",
+      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+    }
+  ],
+  "in_game_tested": false,
+  "user_resolved_candidates": 7,
+  "remaining_deferred": 0
+}

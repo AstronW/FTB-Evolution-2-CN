@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "263",
+  "namespace": "shogi",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 4,
+  "source_sha256": "12eb8424e7b0198f1bfd778d88c09f93cb2cb42dfdc0648df3258abfc011259d",
+  "in_game_tested": false
+}

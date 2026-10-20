@@ -1,0 +1,34 @@
+{
+  "batch": "119",
+  "namespace": "enchdesc",
+  "jar": ".minecraft/mods/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar",
+  "language_path": "assets/enchdesc/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/enchdesc/lang/zh_cn.json",
+  "include_keys": [
+    "__support_gofish",
+    "__support_shield+",
+    "__support_grapplemod",
+    "__support_hunterillager",
+    "__support_betterarcheology",
+    "__support_deeperdarker",
+    "__support_endlessbiomes",
+    "__support_stalwart_dungeons",
+    "__support_dungeonsenchantments",
+    "__support_create_stuff",
+    "__support_improved_exp"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Go Fish support https://www.curseforge.com/minecraft/mc-mods/go-fish",
+    "Shields+ https://www.curseforge.com/minecraft/mc-mods/shieldsplus",
+    "Grapple Mod https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod",
+    "https://www.curseforge.com/minecraft/mc-mods/huntersreturn",
+    "https://www.curseforge.com/minecraft/mc-mods/better-archeology",
+    "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
+    "https://www.curseforge.com/minecraft/mc-mods/endless-biomes",
+    "https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons",
+    "https://www.curseforge.com/minecraft/mc-mods/dungeons-enchantments",
+    "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
+    "https://www.curseforge.com/minecraft/mc-mods/improved-exp"
+  ]
+}

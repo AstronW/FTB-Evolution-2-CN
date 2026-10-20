@@ -1,0 +1,7 @@
+/name	球体模式
+/pages/0/text	默认情况下, $(2)球体模式$()让投射器产生厚度恰为 1 格的球体力场.每个$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()使力场扩大 1 格.
+/pages/1/text	合成$(2)球体模式$().
+/pages/2/title	力场调整
+/pages/2/text	向标有方向箭头的物品槽中加入$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$(), 每个模块使力场半径再扩大 1 格.
+/pages/3/title	投射展示
+/pages/3/text	缩放后的$(2)球体模式$()力场投射效果.

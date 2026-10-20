@@ -1,0 +1,22 @@
+[
+  {
+    "case": "missing_decision",
+    "status": "correctly_rejected",
+    "reason": "Missing or unexpected review decision"
+  },
+  {
+    "case": "changed_english",
+    "status": "correctly_rejected",
+    "reason": "('Current English changed', ('lang', 'ae2netanalyser', 'chat.ae2netanalyser.tick_analyser.begin'))"
+  },
+  {
+    "case": "changed_placeholder",
+    "status": "correctly_rejected",
+    "reason": "('Protected format changed', ('lang', 'ae2netanalyser', 'chat.ae2netanalyser.tick_analyser.begin'), ['printf placeholders'])"
+  },
+  {
+    "case": "invalid_yaml_title",
+    "status": "correctly_rejected",
+    "reason": "Actual GuideME embedded SnakeYAML rejects unescaped quotes in the real previously invalid navigation-title pattern."
+  }
+]

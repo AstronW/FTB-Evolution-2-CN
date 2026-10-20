@@ -1,0 +1,21 @@
+{
+  "batch": "120",
+  "namespace": "iris",
+  "jar": ".minecraft/mods/iris-neoforge-1.11.4+mc26.1.2.jar",
+  "language_path": "assets/iris/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/iris/lang/zh_cn.json",
+  "include_keys": [
+    "iris.shaders.debug.restartNoDebug",
+    "iris.load.failure.shader",
+    "iris.load.failure.generic",
+    "iris.keybind.wireframe",
+    "key.category.iris.keybinds",
+    "iris.unsupported.iris",
+    "options.iris.colorSpace",
+    "options.iris.colorSpace.sodium_tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Iris"
+  ]
+}

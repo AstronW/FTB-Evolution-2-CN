@@ -1,0 +1,14 @@
+{
+  "batch": "208",
+  "namespace": "measurements",
+  "jar": ".minecraft/mods/Measurements-neoforge-26.1-4.0.0.jar",
+  "language_path": "assets/measurements/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/measurements/lang/zh_cn.json",
+  "include_keys": [
+    "text.autoconfig.measurements.title"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Measurements"
+  ]
+}

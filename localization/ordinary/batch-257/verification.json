@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "257",
+  "namespace": "framework",
+  "source_keys": 6,
+  "unique_values": 6,
+  "chinese_values": 6,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 6,
+  "source_sha256": "13de9d6719cbff000a90d72dc3731cb1e09fe1124e0b8a379aa7e68ca6b724c1",
+  "in_game_tested": false
+}

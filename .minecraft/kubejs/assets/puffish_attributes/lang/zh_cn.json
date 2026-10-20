@@ -1,0 +1,12 @@
+{
+  "attribute.puffish_attributes.tamed_damage": "驯服生物伤害",
+  "attribute.puffish_attributes.sword_damage": "剑伤害",
+  "attribute.puffish_attributes.axe_damage": "斧伤害",
+  "attribute.puffish_attributes.trident_damage": "三叉戟伤害",
+  "attribute.puffish_attributes.breaking_speed": "破坏速度",
+  "attribute.puffish_attributes.mount_speed": "骑乘速度",
+  "attribute.puffish_attributes.consuming_speed": "食用速度",
+  "attribute.puffish_attributes.tamed_resistance": "驯服生物抗性",
+  "attribute.puffish_attributes.damage_reflection": "伤害反弹",
+  "attribute.puffish_attributes.experience": "经验"
+}

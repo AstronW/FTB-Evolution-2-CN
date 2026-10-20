@@ -1,0 +1,163 @@
+[
+  {
+    "page": "assets/auroral/auroral/_zh_cn/flora/ender_bloom.md",
+    "old": "<RecipeFor id=\"ender_pearl_from_shards\" />",
+    "new": "<Recipe id=\"auroral:ender_pearl_from_shards\" />",
+    "reason": "RecipeFor expects an item ID; current JAR confirms this is a recipe ID.",
+    "classification": "wrong_component"
+  },
+  {
+    "page": "assets/auroral/auroral/_zh_cn/food/roasted_snowball.md",
+    "old": "<RecipeFor id=\"roasted_snowball_from_smelting\" />",
+    "new": "<Recipe id=\"auroral:roasted_snowball_from_smelting\" />",
+    "reason": "RecipeFor expects an item ID; current JAR confirms this is a recipe ID.",
+    "classification": "wrong_component"
+  },
+  {
+    "page": "assets/auroral/auroral/_zh_cn/shimmersteel/bow.md",
+    "old": "<RecipeFor id=\"shimmersteel_bow_smithing\" />",
+    "new": "<Recipe id=\"auroral:shimmersteel_bow_smithing\" />",
+    "reason": "RecipeFor expects an item ID; current JAR confirms this is a recipe ID.",
+    "classification": "wrong_component"
+  },
+  {
+    "page": "assets/auroral/auroral/_zh_cn/shimmersteel/spear.md",
+    "old": "<RecipeFor id=\"shimmer_spear_smithing\" />",
+    "new": "<Recipe id=\"auroral:shimmer_spear_smithing\" />",
+    "reason": "RecipeFor expects an item ID; current JAR confirms this is a recipe ID.",
+    "classification": "wrong_component"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/goo/energized.md",
+    "old": "<RecipeFor id=\"justdynathings:energized_goo\" />",
+    "new": "<RecipeFor id=\"justdynathings:energized_goo\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+    "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+    "classification": "upstream_missing_recipe"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/paradox_mixer.md",
+    "old": "<Recipe id=\"justdynathings:paradox_mixer\" />",
+    "new": "<Recipe id=\"justdynathings:paradox_mixer\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+    "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+    "classification": "upstream_missing_recipe"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/reforger.md",
+    "old": "<Recipe id=\"justdynathings:reforger\" />",
+    "new": "<Recipe id=\"justdynathings:reforger\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+    "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+    "classification": "upstream_missing_recipe"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/thermogen.md",
+    "old": "<Recipe id=\"justdynathings:thermo_generator\" />",
+    "new": "<Recipe id=\"justdynathings:thermo_generator\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+    "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+    "classification": "upstream_missing_recipe"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/ticker.md",
+    "old": "<Recipe id=\"justdynathings:ticker\" />",
+    "new": "<Recipe id=\"justdynathings:ticker\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+    "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+    "classification": "upstream_missing_recipe"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/blazegold.md",
+    "old": "<Recipe id=\"justdynathings:blazegold_solar_panel\" />",
+    "new": "<Recipe id=\"justdynathings:blazegold_solar_panel\" fallbackText=\"本整合包禁用了此太阳能板的制作配方.\" />",
+    "reason": "Pack datapack overrides this exact recipe with neoforge:never.",
+    "classification": "pack_disabled"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/celestigem.md",
+    "old": "<Recipe id=\"justdynathings:celestigem_solar_panel\" />",
+    "new": "<Recipe id=\"justdynathings:celestigem_solar_panel\" fallbackText=\"本整合包禁用了此太阳能板的制作配方.\" />",
+    "reason": "Pack datapack overrides this exact recipe with neoforge:never.",
+    "classification": "pack_disabled"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/eclipsealloy.md",
+    "old": "<Recipe id=\"justdynathings:eclipse_alloy_solar_panel\" />",
+    "new": "<Recipe id=\"justdynathings:eclipse_alloy_solar_panel\" fallbackText=\"本整合包禁用了此太阳能板的制作配方.\" />",
+    "reason": "Pack datapack overrides this exact recipe with neoforge:never.",
+    "classification": "pack_disabled"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/ferricore.md",
+    "old": "<Recipe id=\"justdynathings:ferricore_solar_panel\" />",
+    "new": "<Recipe id=\"justdynathings:ferricore_solar_panel\" fallbackText=\"本整合包禁用了此太阳能板的制作配方.\" />",
+    "reason": "Pack datapack overrides this exact recipe with neoforge:never.",
+    "classification": "pack_disabled"
+  },
+  {
+    "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/wands/stupefy.md",
+    "old": "<Recipe id=\"justdynathings:temporal_stupefy_wand\" />",
+    "new": "<Recipe id=\"justdynathings:temporal_stupefy_wand\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+    "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+    "classification": "upstream_missing_recipe"
+  },
+  {
+    "page": "assets/powah/guides/powah/book/_zh_cn/generators/reactor.md",
+    "old": "<RecipesFor id=\"powah:reactor_starter\" />",
+    "new": "<RecipesFor id=\"powah:reactor_starter\" fallbackText=\"本整合包移除了此等级的制作配方.\" />",
+    "reason": "Explicit removal in kubejs/server_scripts/recipes/removals.js; reactors start at hardened tier per quest book.",
+    "classification": "pack_disabled"
+  },
+  {
+    "page": "assets/powah/guides/powah/book/_zh_cn/generators/reactor.md",
+    "old": "<RecipesFor id=\"powah:reactor_basic\" />",
+    "new": "<RecipesFor id=\"powah:reactor_basic\" fallbackText=\"本整合包移除了此等级的制作配方.\" />",
+    "reason": "Explicit removal in kubejs/server_scripts/recipes/removals.js; reactors start at hardened tier per quest book.",
+    "classification": "pack_disabled"
+  },
+  {
+    "page": "assets/powah/guides/powah/book/_zh_cn/generators/thermo_generator.md",
+    "old": "<RecipesFor id=\"powah:thermo_generator_starter\" />",
+    "new": "<RecipesFor id=\"powah:thermo_generator_starter\" fallbackText=\"本整合包移除了此等级的制作配方.\" />",
+    "reason": "Explicit removal in kubejs/server_scripts/recipes/removals.js; reactors start at hardened tier per quest book.",
+    "classification": "pack_disabled"
+  },
+  {
+    "page": "assets/powah/guides/powah/book/_zh_cn/generators/thermo_generator.md",
+    "old": "<RecipesFor id=\"powah:thermo_generator_basic\" />",
+    "new": "<RecipesFor id=\"powah:thermo_generator_basic\" fallbackText=\"本整合包移除了此等级的制作配方.\" />",
+    "reason": "Explicit removal in kubejs/server_scripts/recipes/removals.js; reactors start at hardened tier per quest book.",
+    "classification": "pack_disabled"
+  },
+  {
+    "page": "assets/powah/guides/powah/book/_zh_cn/items/binding_card_dim.md",
+    "old": "<RecipesFor id=\"powah:binding_card_dim\" />",
+    "new": "<RecipesFor id=\"powah:binding_card_dim\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+    "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+    "classification": "upstream_missing_recipe"
+  },
+  {
+    "page": "assets/powah/guides/powah/book/_zh_cn/items/lens_of_ender.md",
+    "old": "<RecipesFor id=\"powah:lens_of_ender\" />",
+    "new": "<RecipesFor id=\"powah:lens_of_ender\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+    "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+    "classification": "upstream_missing_recipe"
+  },
+  {
+    "page": "assets/powah/guides/powah/book/_zh_cn/items/player_aerial_pearl.md",
+    "old": "<RecipesFor id=\"powah:player_aerial_pearl\" />",
+    "new": "<RecipesFor id=\"powah:player_aerial_pearl\" fallbackText=\"对僵尸或尸壳使用天线珍珠即可获得, 无工作台配方.\" />",
+    "reason": "Current English source explicitly describes entity interaction acquisition; no current recipe.",
+    "classification": "interaction_acquisition"
+  },
+  {
+    "page": "assets/powah/guides/powah/book/_zh_cn/storage_transfer/energy_cell.md",
+    "old": "<RecipesFor id=\"powah:energy_cell_creative\" />",
+    "new": "<RecipesFor id=\"powah:energy_cell_creative\" fallbackText=\"创造模式物品, 无生存合成配方.\" />",
+    "reason": "Creative-only item; no current recipe result.",
+    "classification": "creative_only"
+  },
+  {
+    "page": "assets/powah/guides/powah/book/_zh_cn/items/charged_snowball.md",
+    "old": "<RecipesFor id=\"powah:charged_snowball\" />",
+    "new": "<RecipesFor id=\"powah:charged_snowball\" fallbackText=\"在充能台中为 1 个雪球提供 500,000 FE, 可得到 1 个带电雪球.\" />",
+    "classification": "renderer_not_registered",
+    "reason": "Current powah energizing/charged_snowball.json: snowball -> charged_snowball, 500000 FE. PowahTagCompiler only registers energy-stat tags, not energizing recipe renderers."
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "279",
+  "namespace": "polylib",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 2,
+  "source_sha256": "b820151e8ea8240b6ff8a0c2fa4d68ba82ad2c9b95c1ddbe38afcfa244d995b4",
+  "in_game_tested": false
+}

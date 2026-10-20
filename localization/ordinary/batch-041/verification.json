@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "041",
+  "namespace": "xycraft_machines",
+  "source_keys": 14,
+  "unique_values": 14,
+  "chinese_values": 13,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 14,
+  "source_sha256": "5dab715c5d103749035c79f2b86d260264054eeb1fbf652cdce0d32632e58528",
+  "in_game_tested": false
+}

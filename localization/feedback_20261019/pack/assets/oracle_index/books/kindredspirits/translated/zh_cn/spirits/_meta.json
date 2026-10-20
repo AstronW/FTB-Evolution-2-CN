@@ -1,0 +1,34 @@
+{
+  "overview.mdx": {
+    "name": "概览",
+    "icon": null
+  },
+  "nightfox.mdx": {
+    "name": "夜狐",
+    "icon": null
+  },
+  "trex.mdx": {
+    "name": "霸王龙",
+    "icon": null
+  },
+  "baby_dragon.mdx": {
+    "name": "幼龙",
+    "icon": null
+  },
+  "mini_player.mdx": {
+    "name": "迷你玩家",
+    "icon": null
+  },
+  "gremlin.mdx": {
+    "name": "格雷姆林",
+    "icon": null
+  },
+  "quokka.mdx": {
+    "name": "短尾矮袋鼠",
+    "icon": null
+  },
+  "direwolf.mdx": {
+    "name": "恐狼",
+    "icon": null
+  }
+}

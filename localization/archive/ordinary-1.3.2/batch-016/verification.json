@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "016",
+  "namespace": "witchery",
+  "source_keys": 434,
+  "unique_values": 405,
+  "chinese_values": 429,
+  "reviewed_non_prose_values": 5,
+  "installed_overlay_keys": 470,
+  "source_sha256": "1014fecbd07f9a78c1c9b7a501c7248c68ead563821916511ebcc80b49ab998c",
+  "in_game_tested": false
+}

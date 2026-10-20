@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "057",
+  "namespace": "powah",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "611f4e5bd92f347b3a554cf392a4c4ceb2fb94329ddd7be829aaa2760308a6c8",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "055",
+  "namespace": "computercraft",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 3,
+  "source_sha256": "56890b86ad13267b8f6a10d1f74660d32c146c188907f0d3c79ad2de95ef0e61",
+  "in_game_tested": false
+}

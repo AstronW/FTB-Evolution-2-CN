@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "272",
+  "namespace": "imfast",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 3,
+  "source_sha256": "38107ac9a4a64a137cbc5934cd98cec6aacb6f4dae944b7c469ddc6486986827",
+  "in_game_tested": false
+}

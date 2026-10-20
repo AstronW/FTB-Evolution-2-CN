@@ -1,0 +1,14 @@
+{
+  "batch": "295",
+  "namespace": "anima",
+  "jar": ".minecraft/mods/Anima-1.0.3+Neoforge-26.1.2.jar",
+  "language_path": "assets/anima/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/anima/lang/zh_cn.json",
+  "include_keys": [
+    "book.anima.codex.name",
+    "book.anima.codex.description",
+    "book.anima.codex.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

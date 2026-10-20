@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "253",
+  "namespace": "lollipop",
+  "source_keys": 8,
+  "unique_values": 8,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 8,
+  "installed_overlay_keys": 8,
+  "source_sha256": "71ce994cb9f7ac8626368116251491fe754c55511f0a7c5c8f791c1f620d2011",
+  "in_game_tested": false
+}

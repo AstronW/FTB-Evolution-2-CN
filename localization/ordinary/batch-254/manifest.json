@@ -1,0 +1,19 @@
+{
+  "batch": "254",
+  "namespace": "bblcore",
+  "jar": ".minecraft/mods/bblcore-26.1.2-12.6.12.jar",
+  "language_path": "assets/bblcore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/bblcore/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.bblcore.shift",
+    "tooltip.bblcore.alt",
+    "tooltip.bblcore.ctrl",
+    "tooltip.bblcore.whitelist_button.whitelist",
+    "tooltip.bblcore.whitelist_button.blacklist",
+    "tooltip.bblcore.whitelist_button.mode",
+    "tooltip.core.duration_tooltip",
+    "tooltip.core.ticks"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

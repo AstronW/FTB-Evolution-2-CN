@@ -1,0 +1,6 @@
+/name	哞菇
+/pages/1/text	用小麦喂哞菇进行繁殖, 增加围栏里的数量.
+/pages/2/text	对动物围栏使用剑或斧会杀死哞菇并掉落其战利品.
+/pages/3/text	对装着哞菇的动物围栏使用桶, 玩家会得到一桶奶. [redstone interaction 1]
+/pages/4/text	对装着哞菇的动物围栏使用碗, 玩家会得到蘑菇煲. [redstone interaction 2]
+/pages/5/text	对装着棕色哞菇的动物围栏使用任意小型花, 下一份蘑菇煲就会变成迷之炖菜.

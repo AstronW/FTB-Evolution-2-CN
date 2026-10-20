@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "254",
+  "namespace": "bblcore",
+  "source_keys": 8,
+  "unique_values": 8,
+  "chinese_values": 8,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 8,
+  "source_sha256": "e7bff6feaf3935df3486f1e699a4c345661386ca6c2441dba814ea5055d290bb",
+  "in_game_tested": false
+}

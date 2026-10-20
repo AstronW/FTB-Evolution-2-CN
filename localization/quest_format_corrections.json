@@ -1,0 +1,7 @@
+[
+  {
+    "source": "&eNote&r: in this pack the &eEnder IO&r &2Alloy Smelter&r makes steel from one iron and one coal. The Alloy Furnace uses three coal per ingot.",
+    "translation": "&e注意&r: 本整合包中, &e末影接口&r的&2合金炉&r用一个铁锭和一个煤炭炼钢; &eEnergized Power&r的&2合金炉&r同样只需一个铁锭和一个煤炭.",
+    "reason": "User-reported missing colors: match Ender IO mod and Alloy Smelter colors; remove redundant recipe word. English source remains immutable."
+  }
+]

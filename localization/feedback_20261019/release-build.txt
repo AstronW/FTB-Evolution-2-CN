@@ -1,0 +1,31 @@
+{
+  "status": "built",
+  "resourcepack": "/home/astronw/Projects/FTB-Evolution-2-CN/dist/FTB-Evolution-2-1.4.0-zh_CN.zip",
+  "install_bundle": "/home/astronw/Projects/FTB-Evolution-2-CN/dist/FTB-Evolution-2-1.4.0-zh_CN-install.zip",
+  "counts": [
+    [
+      "语言键",
+      31096
+    ],
+    [
+      "分组名称",
+      76
+    ],
+    [
+      "手册/书籍文件",
+      978
+    ],
+    [
+      "任务书文件",
+      51
+    ],
+    [
+      "整合包数据文件",
+      64
+    ],
+    [
+      "运行时脚本",
+      7
+    ]
+  ]
+}

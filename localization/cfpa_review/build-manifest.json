@@ -1,0 +1,2017 @@
+{
+  "stats": {
+    "target_pack": "1.4.0",
+    "language_keys": 7304,
+    "group_labels": 76,
+    "language_decisions": {
+      "accepted": 7380,
+      "rejected": 175
+    },
+    "manual_decisions": {
+      "accepted": 713,
+      "rejected": 1
+    },
+    "manual_accepted_units": {
+      "Markdown/MDX": 205,
+      "Patchouli": 508
+    },
+    "patchouli_output_documents": 151,
+    "resource_files": 468,
+    "validation_exceptions": [
+      {
+        "key": "book.witchery.guidebook.general.ender_bramble.ender_bramble.text",
+        "namespace": "witchery",
+        "findings": {
+          "numbers": "原文两处数字4分别对应四枚末影珍珠、四株松萝铁兰, 4/4 与 四/四数值相同."
+        }
+      },
+      {
+        "key": "book.witchery.guidebook.general.wild_bramble.wild_bramble.text",
+        "namespace": "witchery",
+        "findings": {
+          "numbers": "原文数字2/2/4分别对应两份烈焰粉、两份骨粉、四株松萝铁兰, 数值相同."
+        }
+      },
+      {
+        "key": "book.witchery.guidebook.tarot.the_hierophant.the_hierophant_upright.text",
+        "namespace": "witchery",
+        "findings": {
+          "numbers": "英文 Two absorption hearts 在中文写为2颗心的伤害吸收值, 10分钟不变."
+        }
+      },
+      {
+        "key": "item.witchery.tarot_deck.desc",
+        "namespace": "witchery",
+        "findings": {
+          "numbers": "英文 three cards 在中文写为3张牌, 持续3天不变."
+        }
+      },
+      {
+        "key": "aspect.aspecttypes.integratedtunnels.boolean.item.checkstacksize.info",
+        "namespace": "integratedtunnels",
+        "findings": {
+          "numbers": "当前源 one tick 与中文 1 刻为同一数值; 已逐项核对堆叠/流体/能量恰量输送条件, 未改变机制."
+        }
+      },
+      {
+        "key": "aspect.aspecttypes.integratedtunnels.boolean.fluid.checkamount.info",
+        "namespace": "integratedtunnels",
+        "findings": {
+          "numbers": "当前源 one tick 与中文 1 刻为同一数值; 已逐项核对堆叠/流体/能量恰量输送条件, 未改变机制."
+        }
+      },
+      {
+        "key": "aspect.aspecttypes.integratedtunnels.boolean.energy.checkamount.info",
+        "namespace": "integratedtunnels",
+        "findings": {
+          "numbers": "当前源 one tick 与中文 1 刻为同一数值; 已逐项核对堆叠/流体/能量恰量输送条件, 未改变机制."
+        }
+      },
+      {
+        "path": "assets/laserio/patchouli_books/laseriobook/en_us/entries/sensormode.json",
+        "field": "pages.4.text",
+        "findings": {
+          "numbers": "1 item 译为单个物品, 另一个 Only 1 sensor card 仍保留数字1, 数量等价"
+        }
+      },
+      {
+        "path": "assets/modularrouters/patchouli_books/book/en_us/entries/modules/breaker.json",
+        "field": "pages.0.text",
+        "findings": {
+          "Patchouli controls": "JAR 中 router/item_router 页面不存在, 修复为实际存在的 router/modular_router",
+          "resource IDs": "JAR 中 router/item_router 页面不存在, 修复为实际存在的 router/modular_router"
+        }
+      },
+      {
+        "path": "assets/modularrouters/patchouli_books/book/en_us/entries/router/modular_router.json",
+        "field": "pages.6.text",
+        "findings": {
+          "Patchouli controls": "仅 $(t:) 悬停可见正文汉化; ecoTimeout/lowPowerTickRate 配置键及其他宏完整保留"
+        }
+      },
+      {
+        "path": "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/coal.json",
+        "field": "pages.0.text",
+        "findings": {
+          "Patchouli controls": "当前 JAR data/productivebees/recipe/bee_breeding/coal_bee.json 亲本为 magmatic+leafcutter_bee, 修正英文 Blazing/redstone 错误",
+          "resource IDs": "当前 JAR data/productivebees/recipe/bee_breeding/coal_bee.json 亲本为 magmatic+leafcutter_bee, 修正英文 Blazing/redstone 错误"
+        }
+      },
+      {
+        "path": "assets/productivebees/patchouli_books/guide/en_us/entries/hives/nests.json",
+        "field": "pages.0.text",
+        "findings": {
+          "numbers": "1 solitary bee 译为一只独居蜜蜂, 数量等价"
+        }
+      }
+    ],
+    "in_game_tested": false,
+    "installed_to_game": false
+  },
+  "files": {
+    "ATTRIBUTION.md": "b728d0546e6f23e8f93f5fe8684c097e5d2160d1cfd42654486d0d66d660e9de",
+    "CFPA-LICENSE.txt": "cd9832c492786274823efa8d026ba57f45b51fabf37fc67b85069e1ed0c062b7",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/aae_intro-index.md": "85d090f86ef90be422a4f683321ffc40712490c6675a64ed154da6663696e46b",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/advanced_io_bus.md": "5592eeebbe717b381e40d2cf884e04c2e97aaedccc8e9f4fc69112c8fcd63884",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/advanced_pattern_encoder.md": "7a3a3b3af7d476713066b52a390748f0953f0c60ead5b94cb40dd92ef930ae8b",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/advanced_pattern_provider.md": "8579be0eecf9e1846f0acc02e2af076886bfabe192c40a3b7919434e6fd8e939",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/app_upgrade_items.md": "62a40b39a0616fc636db876e9cc45257e140b4b59a71599bcc6e9859313d2374",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/import_export_bus.md": "87c9af573a689e32394b1d2d748fcc8778c38f6242e043c737fdbf9999f5925c",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/quantum_armor.md": "39eb645b154d9d926c41aeafea546a7d5b7165934545a3c89caeb47d31872ac7",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/quantum_computer.md": "67eff033013b84aeb2c93ae0931a5786678a7a24263368fb3ca42e9cb8a844f0",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/quantum_crafter.md": "a33fcb0e5f1cc5e1cfbe2d9bd8b14235c0295621c91389f6f542d72c9e056113",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/reaction_chamber.md": "72d44c5281eafed11ddcb1151e388280a933350f4c781f13bdba3711cf62d9cd",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/stock_export_bus.md": "1120fb808b91648e10916ceeccbb4609fcca741c66de76a4ae338c0f88da63ab",
+    "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/throughput_monitor.md": "3decffb0145212940f6f87af1b11f6b4974f3f67a670999c5b47afd2e760d3cd",
+    "assets/advanced_ae/lang/zh_cn.json": "1c46af1300fdc14aedf5ea61f7050f697e080d127ac8bdf14080125cf7c7e05c",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/ae2-mechanics-index.md": "df858020084dddd40d42b4281525e23c07f5b8c10c80997d1687b9f7d342aa8a",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/autocrafting.md": "ed61f47dd979a0e081d383868a9d98a9f69f9030d731217c7ec355fdf2724b13",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/bytes-and-types.md": "d915e3e66e5b5c2965139801d7abaa227f6a4d0da487c0ea368814b3d89bff49",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/cable-subparts.md": "57232a6326944cf5775d4867c87b42e8a52eb569d797dbf5d67a9af4600d0196",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/certus-growth.md": "0050ba9a8f049da10e65cc24ca15355e1f8fc2be73740ae6039600dd94d1b907",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/channels.md": "a1da3fbf754a90b6528ae262031334983c85a1727c3c617579f00219fb5867e3",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/devices.md": "853f0756c03644b4a8a0ea92251a450d5f7d6cba9bae7c9f4e9162d7f4ac2d5b",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/energy.md": "3df56ff440ff3a603a91f53fb6506a6452edc721c9c5e2d9c4e58e2af355e705",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/import-export-storage.md": "e97f9cb3b63f0190a2b8537e72d4c11378804f19fbf017289b0d3c4f2a65d109",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/me-network-connections.md": "0d513078f9168db013ac3d319180232f6a6967c05d3e96c34842f4c9a20550ed",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/meteorites.md": "ff7005f4f9b19896f8995516645591950bf9184d91938e753a2548b78670939a",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/p2p-tunnels.md": "8c113124b2d6eb2d3ce8706232c8b6f9b17aadd0b76ada4b646bcc9f5bc18ef3",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/quantum-bridge.md": "201ca39b2b9f8b690e807642a1972b73eb1901720eb6a7cef0adda5161be3775",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/spatial-io.md": "f9b11426d256a56e10e15f944d708ad7b7badb0da79f828bd2c8a18b652e9a7f",
+    "assets/ae2/ae2guide/_zh_cn/ae2-mechanics/subnetworks.md": "0a1119954ccccf507d736ed431638c4d01a02a80ac8b0d40edbfc976216f1acf",
+    "assets/ae2/ae2guide/_zh_cn/ae2importexportcard-index.md": "5d80f44f82779b0617cde3c7e13af7cfce059dda8caaac701c80906b6883cdf9",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/advanced-certus-farm.md": "f5891f95246642b26c122d0ceae6bc99c9caa10dc7885c7a47606705ae67e712",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/amethyst-farm.md": "3179e126ff91b677a96ebf416d956974d4308e57f8f3acf346ab8170dc6c5221",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/bucket-emptier.md": "d1426fe146e2601c93641f2f6c1d8bf3978ca3762c56d3bdf4d1c4352eb7e23e",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/bucket-filler.md": "1582c33dee89a2cf676f9646b28adddece4558c16085547097c2a87277136f1b",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/cell-dumper-filler.md": "09310a77826fe94245d06a9b8d365fd0af32cea17ad2843cb3fa4c745260663f",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/charger-automation.md": "4edc61fbdffd2af17cff43c7dcf3d0398e9bec6d13ff818b7cbe0a426363bfe3",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/example-setups-index.md": "5f96f98325b8f04f9267de891e489e975d8f6c4243da96de873a33856d580bd6",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/furnace-automation.md": "d361ea3f006f4a8f2fd51cbf95df30929d85681bf715505a750abe319b85546d",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/interface-autostocking.md": "4debcca36382d9a431f8eb48fef4909bbf11c0390334c65cc23ad2cd375834cb",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/level-emitter-autostocking.md": "1569c78db922129595a62cec28418e97e8633197f424eabcc56f9bf987c14e03",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/main-network.md": "a16775289ffd7aac9a83c5ada32628a4a72a6d5322531846af6695706ad43ee7",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/ore-fortuner.md": "820fd15194b37ec815e4c462c2f5c9d48b9efae8e1976cec41c333ed16f13811",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/pipe-subnet.md": "ef9b1b9c4a4d55e4847f608b39780b98695bd647a8352a2156cff6dca32780e4",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/processor-automation.md": "d21b5adb7a54403129e4288b1a9e14d36aaf933fed351e0e7a21e873d7385664",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/recursive-crafting-setup.md": "32b15238d26b2caf24b851e09c5968ad050b2bd6cf3302be9c1d62d949f66ed0",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/regulated-cobble-gen.md": "f598645c3702ac502bd83be4a6acabcab61561c2a83b5df2883a63e87a91dd81",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/semiauto-certus-farm.md": "944e42da696fb20a51f97fbbe2094fedde43345abc48425110b5f0f2cfdd5b76",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/simple-certus-farm.md": "67bc192eb568b5d64140e10bd6483cb6dfbacb898fab1f81b4bc3ab6b803b38d",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/specialized-local-storage.md": "77b0df66e222a61eae62dd238594d42402a7411125b7c8c1a2583c8df3ba92f7",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/storage-types.md": "fd280b070389ef3a01dd88f635a2594528c1028a6f66f04e403392f754b1c4d4",
+    "assets/ae2/ae2guide/_zh_cn/example-setups/throw-in-water-automation.md": "3e08b15b6da928af11da4bd78a172ca54f3265e9b1939059960138d950670acd",
+    "assets/ae2/ae2guide/_zh_cn/getting-started.md": "377e0d753f20972dafd55c962a056d952bf565757d18855ccd832f1f923aeefd",
+    "assets/ae2/ae2guide/_zh_cn/index.md": "8b1301830559f938295c653bcd295b4cd16d3888ae396d2b2e5a1c3564ee7b26",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/annihilation_plane.md": "b9f4ed946b0474e5b8373e515dafa24cb880977b3d8f808030074e94a08eafeb",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/budding_certus.md": "d00851907b88c454fcb7388352b0825b59c54d8f49fea1da5f78dcd9801606a3",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/cable_anchor.md": "b2b085f6c51919f4a70e18709612bfc1cf9e360e4103e5c2b7071c8ff13fe6cd",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/cables.md": "83cf165dc71d49dedaba35a7c04ade5ecfc70eecd587bc55f4a41563ff4bdda4",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/cell_workbench.md": "81aa6e552169556808bca1444fb09ec5adf9482f6b3ccb206beea718d284bb3d",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/certus_quartz_crystal.md": "4cf9c1537ad2c2a4ae8eab54c8c24efc218162ceda1aef54aa6240ce0fa0fbbf",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/certus_quartz_crystal_charged.md": "4d3ab36c8dcde85d3717f2f936e5b273ea76762806a1d1ff14da733b6ba69cc7",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/certus_quartz_dust.md": "868c6483865feac4aaf2c19b0d470beddca50b1bb2db89b5069df87f7d80be91",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/charged_staff.md": "6063b90d7aab649a5c5a996557b246093d37a4c7c7ba1fdcd8fd29c072157c91",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/charger.md": "5d1a839517329c73e78038718bdfcfd363bc56a3f64691031e09fd7b05e36357",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/chest.md": "5fba32e8ace7969e1744bb093a955af9729149da3862430d793ee658a18de88b",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/color_applicator.md": "bd325f2b7037790528abb746cbfb9bd5659553d42cf992327ed8f20419e16a23",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/condenser.md": "94fc9758e67099bc3471a107e3c9ad722ad250ce39d3131b909260c6bd0ac60a",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/controller.md": "4da1031c656d1507d78f317139ef38ce40df0b48aeb7460b8ed3fb6ef14624d4",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/crafting_cpu_multiblock.md": "13febed684418e2713e265f8a58e8fb3ce52f65a78024abfeeb727b79e139dca",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/crank.md": "216948383eccf0004ee1af691e17cd2f661a0e6c7db84008a480b718efe5d38b",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/crystal_resonance_generator.md": "88c76ef3f6c24579a604a584fb8a6a2ea467ff5b281e4a3bf9696dce341a8fa5",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/cutting_knives.md": "d8a30aea75d17386a7efb46d742532c5774d11943e3439ca5df0e305ddcadbe5",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/decorative_certus.md": "4a47a88f1a28fccf3ae6ae723cda4a812792a9a4958dc0f863256cde622e8214",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/decorative_fluix.md": "1b701645799729e0bacb9d6ffa079bf17c503d624fced2b511f70ac0732d4a1e",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/decorative_sky_stone.md": "b6ff2fdca56e17e5cd7df2ee84df33047a08bcece46415e8dd25efe4cb1294ef",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/drive.md": "b5bb076ee5a6c63a66874553cef6ba33eba981f9739ad7ef22da774fb2048e8f",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/ender_dust.md": "9e5f2b3c1c519e2fc3d854274080375e9c7b015c2c656288cc90579e12cd75b2",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/energy_acceptor.md": "7163609e7010c65708f5a8ca4e247088d7ccf9908295b5b61e3f3a39f1ff9bf7",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/energy_cells.md": "e6bba045357b381e6ff4afd55a0ca12b8291abb70ab8e42a404bef488c1ee8ae",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/entropy_manipulator.md": "b574e064ee198276102bc8552c7a71d6ed737ff82242d5dae661c7877321ea86",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/export_bus.md": "f54c2d495462b63f81506a8142d3f4a17b4d8712bba314da22633c3f70ba354c",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/facades.md": "50eb588182ddd27fc0cb45f4360ecdd2ea5938507e7fd1ce6222bddde77cfd02",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/fluix_block.md": "2522d27c8bc1bde37ba5d514254bb2a9648931b08783cb9abdf817826b2c8c4b",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/fluix_crystal.md": "c751219dbfd4d06ac23920597b9b1c153d26e0d67f00281c2a7522f9c319b326",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/fluix_dust.md": "ee435bae2fa4e008f7978f606a1b6250deb942e5321c9ce9785eff5dd39ceaa3",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/fluix_pearl.md": "c1ad7cfd0e2ee64c9505bcc35a59a79b6f0f664ac622b59fcd11379e654e3c60",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/fluix_researcher.md": "a4e6acf4c15fd41d0a74c0705deb9ac2528c11b50664e049819ccc13e8c4e4ea",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/fluix_tools.md": "e9a60905ebe61624691ab7e12ae411fa3322b2d934cefbd615656598165cb38d",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/fluix_upgrade_smithing_template.md": "3037d61455705839e098e11784da0bc41e0f9890bbd1865a5cf65891d3e66e7f",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/formation_annihilation_core.md": "7cad70fd9e2780f87785fe0bbe4973f49370f95500cdd888b233909e3374c309",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/formation_plane.md": "c424d55c672ded5702eddd856203bdd92618f3c047325ffddafbf83b395a88b3",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/growth_accelerator.md": "7041d49c63a698f903341bc9b0988d84c813747c11b6ab56baa258b39a9834f7",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/guide.md": "3e0eaf2de684e72cb9d935991b2b1f8fa542d6d2af15ee75c169a0389a2730c5",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/illuminated_panels.md": "f79d60cbac3047ceadf39c4ab211110f4dd99ccfcf001570acc6f7765eeebbd5",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/import_bus.md": "8bf9fc4d0fe7bdd36bfde8f7fb90f4d81f57bfbb72c3e9cbba857c42d32c3c01",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/inscriber.md": "c74367c9692b85556e646fcc10fd07c86846b6a6edf649d99ea6f2ad016502e8",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/interface.md": "da4d37a2fc3baa388a916beb1837a2abc90827581379ca4781bd86c8226fd9b6",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/io_port.md": "3cc3f16d140cb3963ee4d10173f1d120fceab30883dca51d8d70868a954308c7",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/items-blocks-machines-index.md": "901bee52ead92832f8f9828bcc87d2a229f8f6f2b8cf59b67b3b084bfbd9d7cd",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/level_emitter.md": "15555472789ba501fa3b3d9d5c450a6af1c84078799f8cf087d01648826edc59",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/matter_ball.md": "f6ac3c85781435381475be7fd0e7b84261e7c318bc84d7ebd99c64b2591b4330",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/matter_cannon.md": "e1fb5f01f3e76202ce511dba5687e00f03b07342a283ba53ca7b45b6c720c3e9",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/memory_card.md": "219695890b17863784e0ab4227f8b1cde13b3d455b100e9f3208115c78424098",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/meteorite_compass.md": "d40016aa98682028c9391c43ba636928593242a08d850fa9a81ff21d2cac1f49",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/molecular_assembler.md": "54434a07f2bc8a6dd358f5243820b586222f2d80af8c6763b6c92256878a7f35",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/monitors.md": "ec0fbb96efefd1158879dc089ccd2992290a47e862048386453f0edcb4e8901c",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/mysterious_cube.md": "92c5ecbaf67f69bf6e9a52da501a23e80bc1f26fcbb934055790e40a5e1cab33",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/network_tool.md": "fc942fb38965371cc91f1c0637f4a3bb81cac391f712b9b89ade57e91d8daacd",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/p2p_tunnels.md": "0efaf692461428753a4e4a52de4635de0d22a15f1c6e1f2a6e471a784a3a752f",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/paintballs.md": "98d906ee1fcfcb3171c2377fe949b57b969bec081a8e5f90e9be7817f1211dd5",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/pattern_provider.md": "58dc6a311c729358451e02f1a7bd95d78d280e02eff439658cfad1b95751a19b",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/patterns.md": "7a51eecc6df540efef23d794323e55e0fb119fb31098ea34c38aa406ea4600d1",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/presses.md": "c7a3e374884f10af9e69855448aa1461756999161921f43bdb766539ebb63772",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/processors.md": "0c78d28ba31ad070df64250016d8c4c12eed4f4357f3c51e98585198e13b4710",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/quantum_bridge.md": "116de741d178e1b2e55d839120445afec6e3b5307988455507ee30dbfedcaa31",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/quartz_block.md": "a43c236fa3501a82c00e01019d9b0a83fb0e04ff7adc30862dc856dfc9f912ea",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/quartz_fiber.md": "9bbe6aa70cff1a009525247248dd6c66ee6402dfd7e0e46809e884ea5a18dd72",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/quartz_fixture.md": "d617a1e0f68b72900b63e7211410e352e112d8bd27afa60e35260bce769e14b0",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/quartz_glass.md": "813425a1729191c4f21560afab26ed31801bd9bf3b8e288fe95328b1de9eafb6",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/quartz_tools.md": "5a30c9159dd1e77371e5b1e88af4758662d9bc2655fceb7aba385e82aa7a8217",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/singularities.md": "1ecb6d2a8af4993f55aa4e33afe4511b88ea9a608d553197df940a3c8d867fd9",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/sky_dust.md": "b893c0688385f0dd0fc83c6dbb600503fe5cf158c0ebbc0cacea349979f96aa3",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/sky_stone.md": "f76fc26c73eb6599001878da58bd6bc754e07e0e887bae16e25df1b47a603ef0",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/sky_stone_tank.md": "0619f1a492e1bf25012d6f8b60582a0eb1a189911b77357016836d14339f2d33",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/spatial_anchor.md": "a5202db5c9945bd073a329264e6c795e12d57a272b546fc2bc6032537acae6ff",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/spatial_cells.md": "e1dd0fea6ee5c500318035f04ccf19db45216935a9f559a7be6fecf8803281df",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/spatial_io_port.md": "3e2d6ff67411e8c65cfd52875b24cc6442bad5b96ac7938309f847a0ece19042",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/spatial_pylon.md": "981dda3a0ad94d26fb98f72e9833b84b8121606f82db0da1ee8b381b22f2efd0",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/storage_bus.md": "99328b3412f7739c9e0a482f2aef851f8c0d3279bc77f3e5fa654b42c33243a7",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/storage_cells.md": "53a3f601bf6668b02d4261e0a88a2dff95b023cde02c7eb31ebf5fdfb7b60942",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/terminals.md": "714037f56fd71b3ab7839d422dd508b0798f2b538139e5081f9844771d5bcd8e",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/tiny_tnt.md": "3371a627a0f1ee06582a16e688f2f18e9bc299be4ade5921a01d52ad1eee0f79",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/toggle_bus.md": "61895168404867922b588fc6161e8c79501a30c7fbcfd199702344d00a407cde",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/upgrade_cards.md": "c09b3e20822a8899ab236313af4bb4a3dcd43d36399557a630ca7deb9c3c24fd",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/vibration_chamber.md": "22cd0390adda9cbdaa3230c41f63349733ecb9f5cbf911a200a8d92ce3f729ca",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/view_cell.md": "b78036a5e96acf3a4503465233f382a1e743263f41ba3367af33aadbf567a332",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/wireless_access_point.md": "01694279e2678c3f7d95cb5bf7b074f59ad0a8cdda1a3da44c8355414c33715d",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/wireless_receiver.md": "5ce4fadff0ed8189f7a008a1ba0bd1b1978a362e86e9e045959b98fa311574eb",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/wireless_terminals.md": "2ab12a9e995a8656d18c1163cf3b108d2967687d66a932b84811382cdcb483ba",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/wrench.md": "14291afd7251be26458acdc2e7a96226ee2c976bb6541d24600d5db23c028e47",
+    "assets/ae2/ae2guide/_zh_cn/tips-and-tricks.md": "9199818ae07eb2ee7638ecb03f00f400452eac554f116d23cdc788a8bce8dbd6",
+    "assets/ae2importexportcard/lang/zh_cn.json": "d00b17716294ef798447ee34f9c65e5129fefebc6c05a9b1bd2169f5b87f6c56",
+    "assets/ae2netanalyser/ae2guide/_zh_cn/ae2_network_analyser.md": "0a430b6af9d22788839e6bc7025fcae9f34088f50454d1e34d9a6f2b64930f32",
+    "assets/ae2netanalyser/ae2guide/_zh_cn/ae2_tick_profiler.md": "1d13a4cd1b4055a464f555fb5839d0be1c930d7ce4e0f639bb4b1949b95eb242",
+    "assets/ae2netanalyser/lang/zh_cn.json": "3ad569c5edf552bd5d4069d7fcae2b7e4e9c7e537b348a547554a39a2350ea66",
+    "assets/ae2wtlib/ae2guide/_zh_cn/ae2wtlib/ae2wtlib-index.md": "e8b62543de6980cba224bb5298b342634ff5d8942d47413ae2b96ea502a5982b",
+    "assets/ae2wtlib/ae2guide/_zh_cn/ae2wtlib/magnet_card.md": "2e634adbd0fea0cbb696f33a59038de460eee67b1f4f8efac1c5d3cfe1e281ba",
+    "assets/ae2wtlib/ae2guide/_zh_cn/ae2wtlib/quantum_bridge_card.md": "e46d871d6c91b6cacb05fe7e55a6bef1af30bfe295a002fde80679bdd279d895",
+    "assets/ae2wtlib/ae2guide/_zh_cn/ae2wtlib/restock.md": "2887d7b2a794cb6b59f13d8d1b2c855a75f0dbedc1ca1faf9c9f5189000962c6",
+    "assets/ae2wtlib/ae2guide/_zh_cn/ae2wtlib/wireless_crafting_terminal.md": "75dc3e103c075e0aa2ac76142129d4d05023f2077250b9a3d08176b8f3152ded",
+    "assets/ae2wtlib/ae2guide/_zh_cn/ae2wtlib/wireless_terminals.md": "be9c179b7961a2450ba38ec2317d59199f0a03e288181fd25eaf06bb3a59dda0",
+    "assets/ae2wtlib/ae2guide/_zh_cn/ae2wtlib/wireless_universal_terminal.md": "7498a01c61b29b1b6dfbf20aee57f1be97d753ee5caff38b8e96938887b3f643",
+    "assets/ae2wtlib/lang/zh_cn.json": "9d85e08714ffa591c0c59d2d7beaaf07ff48f6e1c2ef69a23b0791a5dfd566ec",
+    "assets/ali/lang/zh_cn.json": "3a5445826c5c42cd89bb29a00112bfd2251c41d054e02d9a5c899c3524e75849",
+    "assets/animal_pen/lang/zh_cn.json": "e778a46a92b9b8856c782e7361ded130147623571bd6186694d2c45aaa17ae3c",
+    "assets/animusnv/lang/zh_cn.json": "00edc107d1273e01ebe1a43205ef00e65f8ec93442e32bc12d5c307e3a62d605",
+    "assets/appflux/ae2guide/_zh_cn/appflux/appflux-index.md": "7a3231186c57da1335e453ba899b32c425d924ec8398dafd83181308ea2c67f4",
+    "assets/appflux/ae2guide/_zh_cn/appflux/diamond_dust.md": "c0aaa226918526ec0eb04b2e6ede1771a5952eead7a4371dba71174e199f4749",
+    "assets/appflux/ae2guide/_zh_cn/appflux/emerald_dust.md": "ba101ea32fb329b43323512f369f98e961a04a7363291be83177b3442fcb508c",
+    "assets/appflux/ae2guide/_zh_cn/appflux/energy_processor.md": "88b8927fd61e0e2bc88ccfe6b19f45ca9c619a3a8b21b9f8725811fa94ad0bad",
+    "assets/appflux/ae2guide/_zh_cn/appflux/flux_accessor.md": "8c584ce2035dc0450ffc89b20bcef03920269b1ae8c1f7ee8567ff8fe875d370",
+    "assets/appflux/ae2guide/_zh_cn/appflux/flux_cells.md": "8b77b98784e9e0390823a2a54d2ab8be29bf451b1e33dba9701024e0f5dfc118",
+    "assets/appflux/ae2guide/_zh_cn/appflux/induction_card.md": "31b08211c5e5e6e338d06bd25d60dc5593d0a93228c55aa3492426034daeb3d4",
+    "assets/appflux/ae2guide/_zh_cn/appflux/insulating_resin.md": "7cf9a09f91f0c952b9c1a2ae10cbae977c44b67e3f439ae76ac8416e80cf8029",
+    "assets/appflux/ae2guide/_zh_cn/appflux/mark_energy.md": "9420f374eb4daa4995a26b7eb714c0d9a7d2b4b2ebe90fb09e0537ec41a3316d",
+    "assets/appflux/ae2guide/_zh_cn/appflux/portable_flux_cells.md": "e05cf31bc3fac2d9329a4d4286222341e96a0162656e6df76d8830f0bcf73f76",
+    "assets/appflux/ae2guide/_zh_cn/appflux/redstone_crystal.md": "5c8608e9d20235abc6143bcdcbecd4014dd945284f315ae7b86cd53060246289",
+    "assets/appflux/ae2guide/_zh_cn/appflux/terminal_interact.md": "641b723cb349715b62047373de23eea5b33a15bbb2213447459e2f15594dad74",
+    "assets/appflux/lang/zh_cn.json": "90af80ebcc658e6fea68445db05c33356d149a9e98d486b4def169b56adf1f2c",
+    "assets/appliedcooking/lang/zh_cn.json": "65828c1bc38bdf3ef6d0aba04a793ec173147374fbd94e9b9465f61d17a74a50",
+    "assets/armor_cosmetic/lang/zh_cn.json": "0a9c986d312ba9aa1ad94bec840b72d178caf7e353011906e0ddf74a2bd7c3e9",
+    "assets/bblcore/lang/zh_cn.json": "ab9af8c9baeff0a3bef309eccead13c1760c404eaf373fb7e1809852128c9f52",
+    "assets/belts/lang/zh_cn.json": "e7d337e8f6d2dca1b05b4fc633083b1c9ad12e964b17f3024a99474443a645dd",
+    "assets/betterfortresses/lang/zh_cn.json": "3b5a8ed3059ce1636239247f3aefebd5dd646f6bfc7ecfe9da5e73793ae596da",
+    "assets/bettermineshafts/lang/zh_cn.json": "8b5bd517de875e3d29a1b51add19517f7d83a1c4a86652aa48e2ba1854062678",
+    "assets/betterstrongholds/lang/zh_cn.json": "a32674b491e814139fc18ceb9b89796632e1cfd264b5e9f0feb372cb1d08e4bd",
+    "assets/bhc/lang/zh_cn.json": "e9d5c224fc2c6382f58d1b86170a236e3e415b228cd2a7ea93001a838b1b9f34",
+    "assets/bmaddon/lang/zh_cn.json": "ead56beaa7a3f962e0f12b40d2b2b84fd0442ca9fe636df9b45b17185bb24b76",
+    "assets/cable_facades/lang/zh_cn.json": "584c32f17b3fd5e74f8ec9a7231a4b3e3698e40df14c0b465889e488191688a5",
+    "assets/cabletiers/lang/zh_cn.json": "0e982dbd9e70d638cda86101266e209cbf8d62af71613ac5dfcbf70ddf028d9c",
+    "assets/cloth-config2/lang/zh_cn.json": "776a7c2d8e5b6e3b748e62d89cb28ef640833e2db618814ede0ac88bd5bcc61c",
+    "assets/collapsible_groups/group_lang/zh_cn.json": "7fac2a432cffa0099abd3774f234b0456d15ae64c3b150c878bcf508537b767d",
+    "assets/collapsible_groups/lang/zh_cn.json": "7ec2ee25cb856ae5441e3f3d1cbe7f1599fd077c64cc0c70f2b44df82b94cc05",
+    "assets/combat_roll/lang/zh_cn.json": "3af374a31a5ba0590c7bc334db2bd756f2bc9c5bd86bb3904c35196af7abd7e8",
+    "assets/comforts/lang/zh_cn.json": "53e37ed5d501e73d131187fb0acf00b877a546b654fbdb35ce5184b862b60b12",
+    "assets/commoncapabilities/lang/zh_cn.json": "9ca2f66df9398cc5034190b98d4c4526e2dca7598bec0afc2b5df430b32b0daf",
+    "assets/compressium/lang/zh_cn.json": "e164d84f80ccf7ef184918a32074560412ede62f28f6fb3c24be043a49f9afc8",
+    "assets/configured/lang/zh_cn.json": "71f0c67f4eb27e61d6fedcd73ccad8086597986ff7431500b127c6aec8e44965",
+    "assets/craftingstation/lang/zh_cn.json": "23bd2049f37eeaf8e2d2d6d2e6935e0aa4b8913f72b212bc682503d8e91312c5",
+    "assets/creativecore/lang/zh_cn.json": "e89cd7e148182f7784569fdc6804f5a918a0d8cae53ae55f3a778ae053d1b941",
+    "assets/crystalix/lang/zh_cn.json": "82fd6e63c89366f3ce78bdd510fec25ae604c372468ce09bcb6954b1b30b30d1",
+    "assets/curios/lang/zh_cn.json": "45ae3d309c191107c79518621a05dacfa9b18c8be530df3a3ba99b523d09d649",
+    "assets/cyclopscore/lang/zh_cn.json": "580cfe0c69cbb60ac6fba59f79501ad99ab5a5a749153315b0055d832cca3939",
+    "assets/dankstorage/lang/zh_cn.json": "f8517eee68507b4cca591c92004c51a71c5c022db383a62d789495f04d59561e",
+    "assets/drones/lang/zh_cn.json": "fc270a540e9e57e41dba7752f0b84d7caf96edd2e45d8ededa2b0be8766dfc96",
+    "assets/elevatorid/lang/zh_cn.json": "106c68131f5639d2d633011ca5fa09da8b4473c5f1ed598279741dd613b6ef01",
+    "assets/enchdesc/lang/zh_cn.json": "290c22abaec089f7a2ea3ad14f52260febd5f61acfc0f62b9d527a888889533e",
+    "assets/enderthing/lang/zh_cn.json": "974eee17c586f8786f7fd20ca0463c4b15b34414393895b26f6fc5742a3e8b8a",
+    "assets/energymeter/lang/zh_cn.json": "fc6c540f4754acbe3d6b1fd7abdad70cce018f92b79ad5398c57151f1400a6ae",
+    "assets/evilcraft/lang/zh_cn.json": "d1135fd49c313285e7a04aac5199af9a7f5e6e22e206815334c4150139e8dfa6",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/active_formation_plane.md": "6c7da7dc212625be392ab115bf10d9359b9b6a7084245e2740c587d7355eb5d1",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/assembler_matrix.md": "fd47dad8f251999dbf43a2eb6494bdc8cce2de4ecc4c219150949afd7fe3d334",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/caner.md": "4918b75360bb7e8d1c889ec89f28440a23a9648763006d642d2906b7dd8db996",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/circuit_cutter.md": "9c701c4b94b3392fa40d282a031b6f542e52b263d016d11f3ba0adfcec0f39b7",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/concurrent_processor.md": "a0a0d013180a3ac7d2d4ec8dfc592ab4dde7436d192438cedd88232b079416db",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/config_modifier.md": "c8a0035bd35a688be3f7738174788cd0e314dc570cce79d13efc53464b364bd7",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/crystal_assembler.md": "2ed497b736299945a567bd4ea7d3cf692ca1975a166a59916ca05e1e07df362a",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/crystal_fixer.md": "0f600352faf39b302440293ffa241e26e6ae0394f35053865bc50f6ec64b8e25",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/entro_block.md": "c5b6bb33f26d45830a530364c5820a7d72009d8b60e36415c6610b108ba4ffb0",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/entro_budding.md": "e4c5b2506685022e4a805f290ceff0dcf8f4206f26a80c4ae94ac54d2b40dc13",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/entro_crystal.md": "5a015dff8e93fa9c7ae7708e4f227f5fab39156293428b7c21e08233ab95fc41",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/entro_dust.md": "8af7cc855f27221192d046f934c36f257cf87e05a97f9979b745977262a89f31",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/entro_ingot.md": "ca3155c9d11350665024ad0b2a129cc4c45e7227ed89e2ed02a85f6c5d8e2f92",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/entro_seed.md": "865fb9b2aa119e7b79d383854f8a17996f858ca192e28da2d01e40c6ba7df9ed",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/entro_shard.md": "961c80a52cdd1463fb3b65c83e88f37131296c32d0808c559157bfb00ef7034f",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/epp_intro-index.md": "073c6b3f7890b1f1c3ecef0297bb119f8c7fa0a1a6e2a5f30ddd3882ad8c4eef",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/extended_charger.md": "fe7fff15bcdcf352cf53ddebdb89e5d7e8c6e04e664e9f39712301baa9fa3218",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/extended_drive.md": "4899f3990b55045488eb8b4bdd83ee7ca3d5055ebdcb391334df92a93cad3bdc",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/extended_interface.md": "c0dfcc875d09b4efa1f09432b3c1f6cfd1972671ab8f4ceae8f790b28f33e2d7",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/extended_io_bus.md": "3daaf434a309eb4b7dd0f50388812f0e731e95b60e7311718167a1c96855bbfe",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/extended_io_port.md": "0e19e231ec4163d0c245a0487339ee95dd5b283ad82b9d53c5e5cd021e30b21c",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/extended_modecular_assembler.md": "6e3b7c488efbcab8711d97c0e8bd49bfa6ec66677ddc7c6e6f0f21beaf0c3be8",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/extended_pattern_provider.md": "730d31c2018c6ec12894f02d9849ed0292f9327d6ef2f84a3695a25ba70f116f",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/extended_pattern_terminal.md": "b149874efea9e99f086e1f8c18348e0c19a66925ceb43b91c0220716f6040556",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/infinity_cell.md": "b0c3a5f7dd49f677acc6c7718f9a8c13241a81e3ee31ecdda501e992836ad20e",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/ingredient_buffer.md": "f26c9a73e8b8bcceed696febb86df7e6d084451e90e720068852a7281846c277",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/machine_frame.md": "1e90481adc945088cada06fef05c4c5ea0f623057e61d51625719e96dcdd5e2b",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/mod_export_bus.md": "01927676af91150ca1e3d53828dfdcf5aca6386fc5642f0abda221a9b46d4e0e",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/mod_storage_bus.md": "22ff87a3c94e2aab2e187038f386e9c88987e5324f9bc77f8fc1926ff34fb50d",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/oversize_interface.md": "51b5a2828fc20e4d20ee9c2b0c3af7cf14ddcf4aac18439d962cd066f3b795c2",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/packing_tape.md": "6d5726c0245d7423072ae67a595f978eb2d714fa6ed703af631291cb48f231dc",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/pattern_modifier.md": "b4ea584530fa0e47277e41bc754ba5a21fe7d6eebe63b9b4f44c891e53ab5de7",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/precise_export_bus.md": "58078d780a70ac6598690f7c3ce7a87da28a9ddd2352f01face8afc2b1f8d9c1",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/precise_storage_bus.md": "582ccfb893053900043c3afc279ecaa0d593e5e10882b25e4cda719b500e4e2d",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/quartz_blend.md": "93fe5e5909dd5fe9aada2df2e335257303a71e680e6540b004478600aefe8d4c",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/silicon_block.md": "a91637223344518df7c451cfde6a7016a3cbd2f6e01da1c47c1f5bf7795c573c",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/smart_annihilation_plane.md": "00e3af0fb2243e89f2c0bd721747b2ab53a15f365c40864b0f9027f555168519",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/tag_export_bus.md": "2bb5f795e1f90f90f338a5e39d711fa5277408ea3492d329c3b0c13bfe4dd6f1",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/tag_storage_bus.md": "bc42609d07c21ced40041d0900bb5e560b771bd9d3d0d850e00cc6be0fb1936e",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/threshold_export_bus.md": "5fd3d8d4430f8f239b4ba861aafb05abc7f9ef0c849708fd9a6cf9714bddfc0c",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/threshold_level_emitter.md": "4be2ba0cf619ddd1012f6a42a3a921e1623877b9c8452a9d1b1d680ea3ac5af3",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/upgrade_items.md": "05b2979ca74ec2365989a113f2c4828ac8b86f6510cef20cb31a3e7afd1ccd1a",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/void_cell.md": "4b215a24fce62cf90615ac5728f41467840d47e54ef53af54963757c9655acdb",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/wireless_connector.md": "a368b061762ea3b72a45dde5a421b49d25080154f2b51862a9e7b3413947fa15",
+    "assets/extendedae/ae2guide/_zh_cn/epp_intro/wireless_hub.md": "7336cfae702634087547961b0af5f2ebaa7fd56ef66afa456700c9459b791384",
+    "assets/extrastorage/lang/zh_cn.json": "a5dda5d83ae49817595b694ea5d606e78914a086127b230f99948ef1131716aa",
+    "assets/extremesoundmuffler/lang/zh_cn.json": "2b82d06f45248e6760b6aa2a83997fb9f88baccf264fc1860699dd3887523ec2",
+    "assets/farmingforblockheads/lang/zh_cn.json": "3742b7b5d346f1204ef4456d036e636a35b4a9516adb9f91b28d9f2c5be20ccf",
+    "assets/ftbbackups3/lang/zh_cn.json": "57f49d3c4cc3f0ff09c98c083928b057104ca03876eb98366d326754f6edd8f7",
+    "assets/ftbic/lang/zh_cn.json": "0fb6823a1dcff9c704012d63eeb1a60832d7c6fa3b75f04995f24705dfaf64bf",
+    "assets/ftblibrary/lang/zh_cn.json": "89629141b153c94ae2d56ab46432fe7b9ebf2e782a92aa4fadb925171e500b96",
+    "assets/ftbquests/lang/zh_cn.json": "b94e9fcee646af0785bfdd9612e65019bc1cdca89c7b749aa7d5304c33a328ae",
+    "assets/ftbteams/lang/zh_cn.json": "312f1afdaebe8c257c6b433e3eba258230ec54694deb246594c6835ce9545a93",
+    "assets/geore/lang/zh_cn.json": "96ca02d75e21a1f12503fbce7c938a7316a961319e893ee30d115a8e2b917967",
+    "assets/growthacceleratortiers/lang/zh_cn.json": "27ddaa0bc260ecde69b29e9146f6023219077ab8060d163cacab06d6fd2d635b",
+    "assets/guideme/lang/zh_cn.json": "04adc8954fd75b7a1db9e011773b975f2fdea15e69e48cd782636afbb36f8894",
+    "assets/hostilenetworks/lang/zh_cn.json": "2ec26c09091f90e4ba324b598a4a1f4cb9af8ce12af1d05472cc90cdf2ce7a2f",
+    "assets/iceandfire/lang/zh_cn.json": "57080397f41aea8b40361c9152b8c13e4c8882f15ad54642515f4eb226818124",
+    "assets/integrateddynamics/lang/zh_cn.json": "5acf9e4e9bd0c312931d37c14a4e2f766384873934fb3e8dde4a30698f1b9b6a",
+    "assets/integrateddynamicscompat/lang/zh_cn.json": "030e195c1aebd6fa0e2c9295f6d0a7b33ed9ad78a70d949c1cf42d3d89602501",
+    "assets/integratedterminals/lang/zh_cn.json": "80bf18cc040ed3a1cffde0477f1f8503e27f261e290b652b8eb98228152c4f16",
+    "assets/integratedterminalscompat/lang/zh_cn.json": "ca4262bf3e669b2f274a17a5abf3609dedb39d019a88e86a142f831ae39c5a1b",
+    "assets/integratedtunnels/lang/zh_cn.json": "712582b9d1aca4b26978c4e10c095c219450294eb19d69716ef544663640fca0",
+    "assets/inventoryessentials/lang/zh_cn.json": "b3c2805c68f41c4a05169b6e9c5514c54153510c1bbea071506d951af46a5eba",
+    "assets/ironfurnaces/lang/zh_cn.json": "647e4d12814bfb1fad8aa0b5167368bdea484f74dd517e729352e99b9bda85db",
+    "assets/ironjetpacks/lang/zh_cn.json": "e20431fbeabcbf306dbcf6b92acd60852a23c3cdec55de25ea499d111629dd61",
+    "assets/jamd/lang/zh_cn.json": "c8947e321b56a533a5c2ef056c5243c76ea1445b3cd09fa385f03e5aa3557e3b",
+    "assets/javd/lang/zh_cn.json": "11c417ebcf57c42299618036a9ba0c3d4768f040be7f925952a9fbb2a7626a5c",
+    "assets/justdirethings/patchouli_books/justdirethingsbook/zh_cn/entries/justdynathings/solar_panels.json": "a826bcaf254b103260050f97b1c36e129d237b98ca89a9081138f0cc723762dd",
+    "assets/justdynathings/lang/zh_cn.json": "385c23384e153ec260d5aab5784132b11793a03bad12ddc11e884903c9f0eb9c",
+    "assets/laserio/lang/zh_cn.json": "b5c52727278a6f06c725abbe54107d48458d50e442e36664b04a71215334d529",
+    "assets/laserio/patchouli_books/laseriobook/zh_cn/entries/card_chemical.json": "d514af700d709f2a0c12e644e252c89ff29205193ceb0457a519ad6cb2d597ad",
+    "assets/laserio/patchouli_books/laseriobook/zh_cn/entries/card_cloner.json": "902d8ae7bd8bb06ba863b7e7e97ac0f5bff13d592d1db762b2157eeee1da4e60",
+    "assets/laserio/patchouli_books/laseriobook/zh_cn/entries/card_holder.json": "a1f15d6afaacfd4dd307e9821ed3a4626d3a2c9df8ad2db84d1bbb8e1f361c01",
+    "assets/laserio/patchouli_books/laseriobook/zh_cn/entries/filter_nbt.json": "e6a3fe19154f7608f67fdd9cb7fd39db501f8ea5e52a28cfeefa3e7fc499ea91",
+    "assets/laserio/patchouli_books/laseriobook/zh_cn/entries/laser_connector.json": "f8234c5b5e09a7eee3df25c36369cdc67a8c82c2ca0fbf089cf51d4ec1626005",
+    "assets/laserio/patchouli_books/laseriobook/zh_cn/entries/laser_connector_advanced.json": "32b27f691fb2e89af85b92ac8d3e61c15f147f95d3067e7dbc583571cd9808f1",
+    "assets/laserio/patchouli_books/laseriobook/zh_cn/entries/modes.json": "049c68868f27d3c822f3cd1533d0e19cbe32435318ad4d185534a48072859b12",
+    "assets/laserio/patchouli_books/laseriobook/zh_cn/entries/sensormode.json": "828a415421b9edaa84a7eb830db4d081512b23160b9da3de97008e5df8f79aad",
+    "assets/laserio/patchouli_books/laseriobook/zh_cn/entries/settings_screen.json": "9b5867659fd0661a309f2ab35d0ad5f95d2b60020b92bb5c88d6eb47f6ff5cbf",
+    "assets/little_big_redstone/guides/little_big_redstone/guide/_zh_cn/logic/battery.md": "d759c6b969165c69d13f43ba186dfbe144592d486dde4ffd79e381de01f8f25d",
+    "assets/little_big_redstone/lang/zh_cn.json": "a485c8ace09bca9d038a9627b3c876c1c4238023d99cd91e1d44414b519be4fe",
+    "assets/lootr/lang/zh_cn.json": "1b92a0d390e6a2a7e383664a4c6a5b8395970c4024734df10442f720debb6d5d",
+    "assets/magnumtorch/lang/zh_cn.json": "259bc0dbe8be6d8d6dba93643c82dbd1134d4ec51821b505c9d6cd138af112ac",
+    "assets/matc/lang/zh_cn.json": "35765924cd664cb4f97c3df117df2199ee950bb52f00f1c65784a77af27b87c0",
+    "assets/measurements/lang/zh_cn.json": "b2b2cc0d36d7c16e9a15b602dd232e2701dd17e459e9c16c7ccfeb15eebc28f0",
+    "assets/mffs/lang/zh_cn.json": "834751ab2cf022948a81d51bd6866c944c96db004e2e4f29b08e78296a2567cd",
+    "assets/mininggadgets/lang/zh_cn.json": "2ae34dbc942af178c2c8bde9afa7e18d9ecb7dab75430776751a74b53319f510",
+    "assets/modularrouters/lang/zh_cn.json": "82a4ee37db974107c507703fcbf5367fa6f6ba23c3135bbf37dd589b339608e6",
+    "assets/modularrouters/patchouli_books/book/zh_cn/categories/augments.json": "08e18be35b276499eacf3ce220ae0be55521fcf70ee23f62a071c49288428458",
+    "assets/modularrouters/patchouli_books/book/zh_cn/categories/filters.json": "c751ce410e8fb9979cea8839e279d33114845ce4d0644e24f681b2c4377bd5ab",
+    "assets/modularrouters/patchouli_books/book/zh_cn/categories/intro.json": "f2c1ae93735b7cdd060b8834e21ed918306c66f2b3e3d40a2bdaa30b2cc33295",
+    "assets/modularrouters/patchouli_books/book/zh_cn/categories/modules.json": "cef4b22bbd185d9cd619d75e2aa8cb3b71dbbc3c188f1e963c6cd5e103f045cd",
+    "assets/modularrouters/patchouli_books/book/zh_cn/categories/router.json": "1d2f72a87fc1075df413d305123a9314b953a4ad88771a4eb78034a68de26bfb",
+    "assets/modularrouters/patchouli_books/book/zh_cn/categories/upgrades.json": "798951927efa3c0ae3cafba53dcc528a7b1d3758a00c53a375f83281876100ed",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/fast_pickup.json": "eb7436f4753b9fb15afd1635835eb4a616f27470b18af61e38af2ba271308fbc",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/mimic.json": "c23ed62d270d3243ca6ed4578257366c913e61129ed88a06ce1d33c7d8adb66c",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/pickup_delay.json": "47e2e4973ec9d1d61bd0486efec93cf6f884c2a4ef76e32632392c85aa49c2f3",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/pushing.json": "1afeb3a4172fc685ef881b86d03763722ac6338b8561d8d5bd627a47195d23ad",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/range_down.json": "6ac8e72be06216bbb4b7606adedce9fd36dcb21bafc25fff97ec3c58ba10e6e3",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/range_up.json": "3d0d172581200e952027eefd7b1c10bdbe77f97cdbbb169dc04df194dcaebdae",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/redstone.json": "e34d17d41182f153129ae582875559602be44b83394607079b350226f5b733d9",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/regulator.json": "06ca730f26aad94aa221bf067fb575f8fa19b0901edd22a13b84d35f5b523b74",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/stack.json": "bc776be260b21f016339fc9a72f3e758346b77b5f4b25fe9d913d4ee0edf5afc",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/augments/xp_vacuum.json": "93ec93e9dc62935a0faf3ba05b97daeb33031436169f87aecf859227363f8b8e",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/filters/bulk_item.json": "fe5a1d0b08e647f17bb08d76a7ba3b851fd3d24bd547485f0afa33e6125878d7",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/filters/inspection.json": "f6c2aa39e93eb87c10a233f7fa0e50390438d5a8f4e4538a597340615f4b4236",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/filters/mod.json": "884a8fdb88159aad9e245a849dfe92536585fa674cd2347a6ac1888053d2fd04",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/filters/regex.json": "dea5c448e889c519b52d4030b717646343cfeaebc982e681619874aeb226a682",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/intro/augments.json": "6f3f3d2c26661019e2930d44d7d1b64269700ebd4efe54ac6425c9152f4bf268",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/intro/filters.json": "7d3ba20868f696d99654f36d27235a969a604db1e4c40da1cdfd12f395f83fcb",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/intro/misc.json": "dd8e613d0cc51f8866e25e4d9d04722ee9f68af8cb4c1dc9560cca6ac887ddc3",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/intro/modular_router.json": "f18277072f43feef5c86dde63f343aa3a744afeb3159780f88e54b57f62c160c",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/intro/modules.json": "cfbfa78a48be95dbd3e7c109754521c42ceef593f36d8dde882ee8fd684ed5d2",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/intro/overview.json": "968170767d154c3db1732a6cefcfea6690adddc75be6601f418a65a5d91c90b7",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/intro/upgrades.json": "d3ffc5229b5c6a8ea4326e96c2c2d044010e28c6bc25366b766e5bf23ef7f831",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/activator.json": "4143363ac10ccec8cbcc598e6790ab8e39d64b2ee35add65ef93e3925fc03c95",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/breaker.json": "acae07fb525fe042bc6a25002560deafc9f7d424afe2f1224f9d41ac8eee24f4",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/creative.json": "fd7cce324aff45ffde4088a737acad28284ea89c59345e8e1b3ff395f2fc4f55",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/detector.json": "54e6ce4482157c7b3955e6dc94e52189c46b8697a4d7d7b61f90eb0d744dc5f8",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/distributor.json": "e01b34cda50bdfbfb7d23f25f249a8c573fe53cec874b109aab5170eb9a0af28",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/dropper.json": "cb70cca8a01004a850440216d62757437e4e416e6d225f32e24378cff9b39ec6",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/energy_distributor.json": "ad97858c1b23c022858675c40bae8f99905f837b9dec47c2265781f89f485d4b",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/energy_output.json": "eb64aac42b501aec202b24a9768ddfe6f6433e8f0acafceae9ed4b4b61fa1d46",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/extruder_1.json": "c636a6360ede03209ebc40b37e82c3139020fa05003d79bb15c8fbaf73d270e8",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/extruder_2.json": "aee11909997f718a77ebc78ca418f980a6db218a74f87dac53d5210900647802",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/flinger.json": "95cb68e1260d4ceeababac8aa3128a20ffa411e6e5c4bbc75a23b23d2a979a1d",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/fluid.json": "6cb5ffee0d141ef1da98ead9a80a49b9dabb77cc070f10676bd4f1a509ac0c01",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/fluid_2.json": "8fa285f383e07868a822f5d555cc80cadf3751aa78a32bd8ea5dd64d45ef4448",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/placer.json": "d1f74cb80cf753410a33746cbbb563ad940d2ccd104ef32b3cdd97d8f7f77f80",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/player.json": "c57ff1ead1da9c300fbb2e6483b4841a74cd2e047d3434bac30f5ba17810f6a0",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/puller_1.json": "609f45524215cd19a4a2ab1b7b29f8a5ab41201be99d27f35ac33b2893502934",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/puller_2.json": "117d5ef60ccea15db4ca5602d035337769850b42d40e4cf8c0f7ea09191987b1",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/sender_1.json": "2ed626349b567b82823bed27997e5d16118d37e3c2949b53b60cceb8d63995fb",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/sender_2.json": "21ec0934a89776b39a61e3422eebda59010375b9c3f71d8e1a1ffcdad34e33b4",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/sender_3.json": "6341fcba20e6c5a2ab205d35a6dc583e24c3065022c2b1f092105234db40ee71",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/vacuum.json": "ff0c7ab91e1a85ea5c1328bdef56be78b5169a495485b1614589424da17dd683",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/modules/void.json": "21030c87b6097170bb824b84f4d7304815f619a1cc1559559efb66005c5d305d",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/router/modular_router.json": "10c72262569b740c5f8f220c6cd0d3c291a829638bda6c3097e8d90877ae504f",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/router/termination.json": "48c70a9b90efa6ba982b84e8c954835970b1ccb0d2bd825859aa483352a1b82c",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/upgrades/blast.json": "265edfa0f71cdc72fd6e878ac05ff25d5c73db881ff96a5bc41612e8baa3411d",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/upgrades/camouflage.json": "13647acfa9e25f67056e44762352c6d43cdc68ead58ea217b7189fe244d56e83",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/upgrades/energy.json": "b5ac4a64b170a14c49ca4d728703a21f9b1bd8dedc5fae42f1bb9d95a5e8eaed",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/upgrades/fluid.json": "8d469839c6a163814dc81e3f7e680b30bb3a70ce235d7cbb0928701db8c00a1c",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/upgrades/muffler.json": "2227165f9dcdf3f22fe1f9478e90603e16956966bc5466c44c51e138a6e68a2e",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/upgrades/security.json": "55bad2f2ff3d34ef326a43ed8fba665515604245e011c84959e50e35771507f5",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/upgrades/speed.json": "4cad397aef9f48e955bb08ea286007444f6906f95c3ac2c655c1e49cde5d605c",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/upgrades/stack.json": "64c0cc886b62ca1ba4a7a266d164884b807a7f852133a56094c16b42ce9535f3",
+    "assets/modularrouters/patchouli_books/book/zh_cn/entries/upgrades/sync.json": "b70178679549f3c324960d8b722c1e555efbdfd3490dccf57bc707d14f01e221",
+    "assets/moreoverlays/lang/zh_cn.json": "48b8ff02def0ae7c934f41ace9be5934bc4f91c1ec956af93d9819dd1a46614e",
+    "assets/morered/lang/zh_cn.json": "93f44617a2f98f9207ff0aef576e9386e86a1971ac5eb444f8579b5aed142b9d",
+    "assets/mysticalagriculture/lang/zh_cn.json": "7eba17b9dc968bf96372ae2a5c24e189f921a6495c42cc341e19acf4d0a324ed",
+    "assets/neovitae/lang/zh_cn.json": "c3499492d9f3d837135a3279da373353626a7be1b28060b9dffeb0f3657bfd54",
+    "assets/obsidianboat/lang/zh_cn.json": "780a3616cb3e91cec1d7d1c86f37d8a113f4c4f0194719e37f9dc1917c2a6160",
+    "assets/occultism/lang/zh_cn.json": "2e010bf51bd3d818fed3d65066f9ffa47d98e9e04b387f334543e56a729e2576",
+    "assets/paraglider/lang/zh_cn.json": "ebe2bf7327aff1b028861d591a65a638dc8c1f6d4d6a2995aee443f52db52771",
+    "assets/patchouli/lang/zh_cn.json": "24c459b549ff2a4d13b5383c0cb8c2ca907669cf19c51b75d7ec7be626b1d441",
+    "assets/plonk/lang/zh_cn.json": "b4d2fa2a45a999915ef7f658e90db9cd37341af8f838c1b9c1422299804fa23a",
+    "assets/polylib/lang/zh_cn.json": "7b3122ba36a5b5ec2b1aa1f25ad9c05ecbe2e874077697d52ed2d6dc322c30f1",
+    "assets/productivebees/lang/zh_cn.json": "2975bc4addea5f783506dfec8c419afb16c986b21ea2c196fba26ae6fa3a9a39",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/bees.json": "2302c65342feca8fc2a308aef45cf0ef69397d38ffe44e823e1830da7c49adf6",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/bees_hive.json": "f6173f96081f72f210c1d3e410675d8736fa1ba7f163fd0f25e55ff89954f836",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/bees_solitary.json": "c99696fb01a971ce3c0a34b1aec81f8f9e3e1d0b81ac22b70cb103f4ac5d36ce",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/bees_wild.json": "02cb1c5f10e03d208a2e97d8f587c8979019bc7dddb36779de0343ffa60cc041",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/bees_worker.json": "bf4fcc2e554a2ed6ede0e49aad9fe39f7fbc83b06b41e576d519f0034abfaa99",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/blocks.json": "2e016a5d21c59e7a123c43346764624fcd3a324231d2847cf03747bace3dea31",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/genetics.json": "6e1d5c9f4ee1e1d4e7bc8da34f1dfa788d9d98e3638df7900bf92a619133a2f8",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/guide.json": "2f054ee918a0abeb5cdaf50ec0745c504e0c2f3300ec130fe94e8071e1e5ed92",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/hives.json": "87c02b52dc2d93a3134fc45abb83b9fb3f1173e5de39f1e18e84b34d0fed8903",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/items.json": "9a167903b3c7f9036b74d60f758da8e5daf8ca5e837bfe309a0c8281c2ce0ad0",
+    "assets/productivebees/patchouli_books/guide/zh_cn/categories/misc.json": "0b6914488829736f41fedffd6e75f747b9a8abc6e57e3f574562ee6a501e3578",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/blazing.json": "c8cd27327ec8044f9997d525df7c6e0a38b69324843ee2afaa6b6039389e74bf",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/coal.json": "de410063e10f05acd7e2186c7395cff26667dba584490d1036eccba85047a655",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/creeper.json": "dad5d72cea9ff313725f9ba2e3083c002b0edb6fc7be48ad2aaa9e6308d9950b",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/diamond.json": "df3bda52660f6186bd5a7dfdb3f2aca387e1757d6d8fa0c0831d7e7d860df291",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/emerald.json": "640f2b95498833cb4d0a39ebbf263104d28fd3e97d88ed17caa06f493fab290e",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/experience.json": "e981a70122d08f0c09c26545abff36b7b2b5a8312077852ddadbf2cf2224eb09",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/gold.json": "1884195bd13e86f8d2ebb9d67b2da9aa50b87fa5e26a6a40be1a9965cea2a685",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/iron.json": "c7bae94e46023fce0b130e7c06505c3de159c28e67ff344b319178fdcdc4a8db",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/lapis.json": "62661cf5cf0ae685aae370f977c6c6a10d53e5dfe4c481a4aabf81929bec9e7a",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/netherite.json": "15a7fd37851e9816c765b38c8957cfc5a3004bdf17edf4883a5121604396fede",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/obsidian.json": "fd04404c0908e7f4a1c3976492bf8a6e8507e30018c5ebbb8c83b82e0baf2806",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/prismarine.json": "32bcc1186d228782b5f75fe7adf95cd510dd3c40f76be82101656edfe22eea4b",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/redstone.json": "8eb173f24e93cc3791c51b9c4c003f4aab34b195ee83a8c323139b57bc727f93",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/skeletal.json": "2ab4babda67ea70219715fb4449075f111bc472829fc941620170db66ecb7b00",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/withered.json": "6a687e0e7829aa91e890515df29d4169311d8eaff481c2d58bbb5f4ec770623c",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/hive/zombie.json": "c55790ca02b747ba3cd5394111e4bbb77aa5de5f58ebaf6c3971931a41bf7fe4",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/ashy_mining.json": "e36d50ba9c7bced8ccf704c21eb1ed154031801a45e7a4e0b224543d66428727",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/blue_banded.json": "3f7f5660d2182af86734d88cb70250b7cd4e7b4b70922f4e79fc2bcd66e4a6a5",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/chocolate_mining.json": "29cc6bb22c2edb5589060aff36581b8e0b6ac455a2c19dda8a84b2764e38a2cc",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/digger.json": "c5f82ab37a7c14bca34d1614b6ee7f2b54cb46b5d68a97ac1ecd70f2652df748",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/green_carpenter.json": "0f0dbd49178e2971fdeb53ea7474af890280f5224847eb38eb681442b1272762",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/leafcutter.json": "3a625c860bab2b4bbf08b42e2dbe34bf4ad03429b82e9b2d4e649a627a457dc2",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/mason.json": "fd17dd15251ba252599f47209261c05b12ccee7ef0b47b8061ac58ec9e813c16",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/neon_cuckoo.json": "9418ebee79d5d78b6fc48be13159d973d72be4b2d8b4ae03fd44a50b834fed14",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/nomad.json": "79a0101bee689f285c337c021f5e6033f1841845a1fbc6e441d5eb361162ac26",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/reed.json": "ba986993c5f2d2208cdaf2d84441914100f1c9a03ec81a3369b01dfafb46e8f7",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/resin.json": "fdbaef349bb20ef6263614d1fd5b21009bc8ed1746022eb38c2b58b98d67779f",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/sweat.json": "179bb6f83544297d7fee0d2dd5d0f992e67b8b1147fbd4220e467e377e99ef95",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/solitary/yellow_black_carpenter.json": "1e866fa99c70072be2a72dd00395d9734cb1ee2813754b95628ffcaa05660b6d",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/wild/crystalline.json": "66e37a3ec759dfcf4409c7fa87daac3e910feae53d2dc0636d6b29842047a03b",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/wild/draconic.json": "3ee24a65f83c772649d0576d4b5608e37385db14713d880b5447cee154f42fe6",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/wild/ender.json": "8d12b792f5e7679eaa8b5c3d9989f3a3732f92abf3dc2b35573b39df595b110c",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/wild/ghostly.json": "dc09aee7599295bf5174b4f211f572f3f0fa57cd241870ee539779f8de64ccba",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/wild/glowing.json": "b8c6ea4cb95d3b7e09813be6b30fec01da83681cd1541f4dca59852a8719c654",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/wild/magmatic.json": "444e4584dac11c9c0e4264198b8f41535a985cb4b6fac844a9e0ce54d19ff200",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/wild/slimy.json": "b02eddf79f15cb935a1566e08ca8d079f0a531fbc9dd7dfc910b36adee486286",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/wild/sugarbag.json": "6a139a2ca79b7a36aafa890339330120091c197fa03b6dd1b8ccdd382658f8d9",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/worker/collector.json": "eb2c2cc823bd4320baf1abf6a376f22b04edf0a16c2ec4382cb99c4a70067df2",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/worker/cubee.json": "2d4bbc7329e06eb312dbe4a904518151e4d66d482ac846d6b866bc9000d6e1a3",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/worker/dye.json": "f7240d328c74333068c934b0fe0ee9fb4ec6fcb3bd773dd1ccd36f6ec12c51d6",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/worker/farmer.json": "7be4489cadcaddf801e5ecedba3b37f457052a107758e456e8f4c63e5f6df905",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/worker/hoarder.json": "9e026c298edef20948858ead1a755185287e355277a7c22003fc537c552165b7",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/worker/lumber.json": "069274b3f8b8797799e11d7f4272cb52bef0b2fa7d204c003db28e932ebaaee8",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/worker/quarry.json": "49aadf601f3b0fb5e7de5300ed65737b3288869581d01fa59e7494bdd6e23342",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/bees/worker/rancher.json": "d9f9defff7b63db049fb02b57f1caf46b93072f4d27f44ebc94449ad2dca4fa1",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/bee_jar.json": "ac728dd5a5e80231946e464349adcaea0251d05f8233e60ffdb59f04244b20c3",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/bottler.json": "2d3c9f38db4b489adb2cfb6e503fbfc01a6be7f4c174f4f37e31c5241dbbce3e",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/breeding_chamber.json": "870aac1129f461b39f8b59b3b6ccec9832b2d68eba5ed65fc65e9084c7214365",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/catcher.json": "19b556f8e3b9e8ba88876a381a33a5f71baffa19dc420892c175ceb6bfff6bbe",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/centrifuge.json": "c75328d04e1d04f88f8f1af3344c6bbbb57e5eaa24e0d9d76b28d3d0a1a19897",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/feeder.json": "9cbf7f7ae66c9db819ad8b81e05b86625dcdd2ab2b18e1745407e79fbb335d3b",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/gene_indexer.json": "6be6ddf2589c496360e4f9f91fbd3bee2aa3469e8c081f53830c8049a395cb73",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/hive.json": "8e3201cd625b4505f3904da47b3c1a679aa033942079fc0fc45e4c35911d0045",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/honey_generator.json": "8d0f35fc0e39c29c06e88bf2f1ab8e2b60383e9ba1f36b52ff32fd678148eb08",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/blocks/incubator.json": "a34ed72445efb99ebceeab362c6e92fb9c36d25a1fdfc7b55d71f33d2d0f4d07",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/genetics/attributes.json": "19aa82cf27ade70bf4036d96c9dcc0b8751e4a0601495cf088832fd5a583601a",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/genetics/collecting.json": "d6854cd15bbb18c69da798bfc6bfaafedb316ccbf293d3a79e786c1fcc945b1b",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/genetics/transferring.json": "46a60c48f254d9b54c1f689cd20f1d750f857a46c716a6b3adf2e5c7592525f0",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/guide/start.json": "a47f4490e162b5c6acec594cb8761227e1df9ff1f3513a71cf8e5eeca444bfde",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/hives/advanced_hives.json": "5e6787c2bdc466d1a5c734d3c4aa4a4cb1863be1502251a45fc5b2c337fb596b",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/hives/dragon_egg_hive.json": "1051e4f88c58fe7f712c752da1cc7f5b3c905a5328d7f6b6ca3053ece29b5f89",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/hives/expansion_boxes.json": "2fb9606cb8782516d48080652506ad3dd534b2c7d596b9127be4962e492739b8",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/hives/nests.json": "c38566bbfcc229445aa9eb905c446f96dd7eb3172191617846847ae684134144",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/items/bee_cage.json": "10312f3d9238ce903335ed21818f65b03292f59598d30199cbbc8c2c258ab0ac",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/items/bee_helmet.json": "f0a4b2d242319f4e17593434131af21014c1f9919f47ced8373d3981e32c5933",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/items/combs.json": "1dea09c968afa6270db722d9bb8a90c8bcebef918a73643f8aac356775cbb22e",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/items/honey_treat.json": "5525ed26699b06c1bc2eb60b365d57ef47e61496d8dee031bee95820f76f304f",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/items/nest_locator.json": "388a7604ac86596767ef1bae052f5d2cc6706907db0e5c407bf800e07f665126",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/items/upgrades.json": "e92a2a5afeb21df90f42c8722a5547719c920f12ff82ba0e92cb777b84ac26d1",
+    "assets/productivebees/patchouli_books/guide/zh_cn/entries/misc/performance.json": "bcb83bcf2994ee85d12a23f23a2e2dc6e5c9fc5638443712c9b9bb396ec026a1",
+    "assets/productivefarming/lang/zh_cn.json": "1103b5b844285f3761339d05b22d0e8313bf4be9992cfb229e18270ef50b1bfc",
+    "assets/puffish_attributes/lang/zh_cn.json": "596cc5b8f1d57fdff92f2c86fd9310c82ccfc2aca885493cd8b8cc87f93cee13",
+    "assets/puffish_skills/lang/zh_cn.json": "aec91131b5840116e8dc1302b4c4ef7274e20cd16239e294196aa898d3feae89",
+    "assets/pylons/lang/zh_cn.json": "8f25e77c5e33f23df4aab1f731a56394f6a5f6a9624fe1c5a80f812ee5e7a36e",
+    "assets/rainshield/lang/zh_cn.json": "973136d2a7fb3dee69023008f79dc6a2258ece44aea6a0b869ebaea707aef0a5",
+    "assets/refinedcooking/lang/zh_cn.json": "f64634c43899bf185cc2a252a55d19c57445963f2767451002af8ac17230a56f",
+    "assets/refinedstorage/lang/zh_cn.json": "76a9aebab366b320edb7b6ecfb98398a7e9f5cb6589b96dcc21128c31d4df66b",
+    "assets/refinedstorage_curios_integration/lang/zh_cn.json": "f93367e1daced3eee999c493b48df623669f7a67dabd8ff30d927c669abcf604",
+    "assets/refinedtypes/lang/zh_cn.json": "75374244332c645e9215f0ae1f5a0c51b6bdf4c61aa82a4267e261c4336214bf",
+    "assets/reliquary/lang/zh_cn.json": "d0a88fbc0d1aa6fee95ec5a8131e939eca906b65911565bf56cd30fe6cdba2f3",
+    "assets/scannable/lang/zh_cn.json": "99069a4df283ec6b56d563f63cb854cb4e35f810c4b4b57fa016d9d7f9a9da60",
+    "assets/shrink/lang/zh_cn.json": "42b5e577db873aef9840d23d5b4f30adfbe4ec82c371cecd9157e7af4f919c2e",
+    "assets/terralith/lang/zh_cn.json": "eb817037de69f27e409586f332a6535b62e9ec473073aaabdd24b67706473db7",
+    "assets/tiab/lang/zh_cn.json": "d68a6b47374d7822ef1e0692c18d629759d80ac12cdc8d85b95dd48d9f11d4ec",
+    "assets/titanium/lang/zh_cn.json": "1342af4b9042e6f94ce779621cdf2abab73cfb0abd2fd5029793e11897c5f3cb",
+    "assets/torohealth/lang/zh_cn.json": "02b69763a6c26f6b24cb80721a88b9230e8b30e92b55e2bbfd9e27ce06e19747",
+    "assets/trashslot/lang/zh_cn.json": "42618710e8d23dad710f934e3187bedd3833f282880096fc8c04c958164d06d3",
+    "assets/travelerstitles/lang/zh_cn.json": "284f490860abcd089d2510910507f6d88dfcbc4c59746e61213c64bb5b47d05f",
+    "assets/utilitarian/lang/zh_cn.json": "66cfbd2f9d675cef19faabf1cf2315449aeed31c8dc1a81bacbe4ca07124dac9",
+    "assets/weathergate/lang/zh_cn.json": "bd3267f2ef16ca72f1c943f7e13217eac8da3421ff8d456e80ad08be9ad26983",
+    "assets/witchery/lang/zh_cn.json": "f17fd9cfb5aa287e5a2667b09be8492d1a3d6dd6d5a4fa8844ed3b2719446043",
+    "assets/witchery_forbidden_magic/lang/zh_cn.json": "59062650a9f6f07f49ac022ba5ccbdfa9ffb4b8ae24736fbce1f1d8b6bdfbd77",
+    "assets/xycraft_core/lang/zh_cn.json": "4b3fbdce45783fecd894b6a28a70718cc9dd9cc34121e3b3dbddc03a8c51d26f",
+    "assets/xycraft_machines/lang/zh_cn.json": "9d12bb32303f5a831f44cc182ebaf5f25340fdb9fb29d24cc5df0b8956306907",
+    "assets/xycraft_world/lang/zh_cn.json": "c2ad209cc7bd0c88ac8f6cb54c9ee54d48fe8e0daba6dc1ec6d874acd9128308",
+    "licenses/ANIMAL-PEN-LICENSE.txt": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809",
+    "pack.mcmeta": "3d0f9312b196e7f015fbf2a0d6b833898dfd84e11577fab7e917d6dd90caa432"
+  },
+  "reviewed_decisions_sha256": {
+    "primary.json": "9f6a85d07602069a0ff667c63db9ac2beff7aea840998b3a38a36e4eb2ce3bcc",
+    "witchery.json": "0d44c6f9b607dc86d9b9e48ca313f19dcc7839661460f01b6252ff900cdacbbc",
+    "mods.json": "ba17c6e0a8eee5f47f3d74ebc3d48808809f709724f6b906a278c18d8341ba7b",
+    "remaining-a.json": "937d448fbe1ed7eb6e81b6358bfffbfbfca573baa0a7e402f89eebc435919800",
+    "remaining-b.json": "3c488e979745cd5207043adf6097a3a0db81f5a7c56457b7340779ebd536b5cf",
+    "group-labels.json": "ed2ad9a706c64251767b8a7f2e9df317f372a027da2f68a95f042d4741be8536",
+    "manuals.json": "dd7379e702e919455fca15f3d5b896335d3273db2fae26abe179a36d43fd7a1a"
+  },
+  "manual_sources": {
+    "assets/advanced_ae/ae2guide/aae_intro/aae_intro-index.md": {
+      "sha256_raw": "7335eba267997b2587fe92535e346832c923cfc8fa7a5f36ce5cff6ae69904f9",
+      "sha256_lf": "7335eba267997b2587fe92535e346832c923cfc8fa7a5f36ce5cff6ae69904f9"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/advanced_io_bus.md": {
+      "sha256_raw": "00fd8d6be4c2de5ff160c6ef305d468172bad0ee4db6a8f9f646fd0faae0ab6b",
+      "sha256_lf": "00fd8d6be4c2de5ff160c6ef305d468172bad0ee4db6a8f9f646fd0faae0ab6b"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/advanced_pattern_encoder.md": {
+      "sha256_raw": "383b416e7c353dcc062dc71aa8eec1ead0e1aeee7a83f970fee97ee74083e472",
+      "sha256_lf": "383b416e7c353dcc062dc71aa8eec1ead0e1aeee7a83f970fee97ee74083e472"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/advanced_pattern_provider.md": {
+      "sha256_raw": "ed7c4e6bfc5e2ffb668ce1a2a73b276f605f899cb4bc5bcf0a4e57dde7067df4",
+      "sha256_lf": "ed7c4e6bfc5e2ffb668ce1a2a73b276f605f899cb4bc5bcf0a4e57dde7067df4"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/app_upgrade_items.md": {
+      "sha256_raw": "832ac549f200c4f4e1d6663a3e418676f937fd6e7b56d1fb37c6f40c8c3ed306",
+      "sha256_lf": "832ac549f200c4f4e1d6663a3e418676f937fd6e7b56d1fb37c6f40c8c3ed306"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/import_export_bus.md": {
+      "sha256_raw": "f4f110f3efb04ddb8e0b4d1aa0d555a1bbc5c8102489f8f721460a3dacba686a",
+      "sha256_lf": "f4f110f3efb04ddb8e0b4d1aa0d555a1bbc5c8102489f8f721460a3dacba686a"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/quantum_armor.md": {
+      "sha256_raw": "5dd9f3b5c54ae12a5e632fb227c670d928ba21aa18d4bdd33283ca070a2a1e66",
+      "sha256_lf": "5dd9f3b5c54ae12a5e632fb227c670d928ba21aa18d4bdd33283ca070a2a1e66"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/quantum_computer.md": {
+      "sha256_raw": "799c7e5c1c743b0fd79980b0600f9ae0138b3bb22bf051be5b3d6ef3374a25a8",
+      "sha256_lf": "799c7e5c1c743b0fd79980b0600f9ae0138b3bb22bf051be5b3d6ef3374a25a8"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/quantum_crafter.md": {
+      "sha256_raw": "6591b734c4644352f1953b79c63d744178e65140e4cecb6d50d3d7beab60d49f",
+      "sha256_lf": "6591b734c4644352f1953b79c63d744178e65140e4cecb6d50d3d7beab60d49f"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/reaction_chamber.md": {
+      "sha256_raw": "31823cc3bdd246f77732034a68b2bd304994b38d9119e23cc34c03ac041f3da5",
+      "sha256_lf": "31823cc3bdd246f77732034a68b2bd304994b38d9119e23cc34c03ac041f3da5"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/stock_export_bus.md": {
+      "sha256_raw": "dc86b39089b7a95bf9c7d88216d6369fd2ab869d8303dc84440ef67a4634f37c",
+      "sha256_lf": "dc86b39089b7a95bf9c7d88216d6369fd2ab869d8303dc84440ef67a4634f37c"
+    },
+    "assets/advanced_ae/ae2guide/aae_intro/throughput_monitor.md": {
+      "sha256_raw": "b58a4274b7a143246fafd6614e24a2eed634213c68bd0cea6a23165f08afe67e",
+      "sha256_lf": "b58a4274b7a143246fafd6614e24a2eed634213c68bd0cea6a23165f08afe67e"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/ae2-mechanics-index.md": {
+      "sha256_raw": "1ebdc23b37b701914bdf7bdd565d8b1170cce50efd931661e5253c3effe13ac9",
+      "sha256_lf": "1ebdc23b37b701914bdf7bdd565d8b1170cce50efd931661e5253c3effe13ac9"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/autocrafting.md": {
+      "sha256_raw": "330c88071c7c6d053ff705a4d730d4202630913ce57fb29862b58f7d2e991382",
+      "sha256_lf": "330c88071c7c6d053ff705a4d730d4202630913ce57fb29862b58f7d2e991382"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/bytes-and-types.md": {
+      "sha256_raw": "ada6d44e37b2d416d87dbd23d834339c8035354148c218d4a28715935d5160ff",
+      "sha256_lf": "ada6d44e37b2d416d87dbd23d834339c8035354148c218d4a28715935d5160ff"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/cable-subparts.md": {
+      "sha256_raw": "3ddf654ff09836d7c3d03523a7f6e4782c0ea825d0b5f586029157ac8d51edd1",
+      "sha256_lf": "3ddf654ff09836d7c3d03523a7f6e4782c0ea825d0b5f586029157ac8d51edd1"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/certus-growth.md": {
+      "sha256_raw": "56ddaedcd132f872234af94ec55e5786f0fa764b1579d233cdb70f96d01b461a",
+      "sha256_lf": "56ddaedcd132f872234af94ec55e5786f0fa764b1579d233cdb70f96d01b461a"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/channels.md": {
+      "sha256_raw": "70ed2eea2947afb7096bb5df5e649d82184a102250b85918f3c102e507f083f1",
+      "sha256_lf": "70ed2eea2947afb7096bb5df5e649d82184a102250b85918f3c102e507f083f1"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/devices.md": {
+      "sha256_raw": "f0a7b8497e86fc709c684dd3cce0fb4ab6ade1c5a5e1f71c270780777f3c56cb",
+      "sha256_lf": "f0a7b8497e86fc709c684dd3cce0fb4ab6ade1c5a5e1f71c270780777f3c56cb"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/energy.md": {
+      "sha256_raw": "0cd979a94145d84b08c58e9d7e9d5519f18cc5e2ad5e5be051a1ed61110bfe17",
+      "sha256_lf": "0cd979a94145d84b08c58e9d7e9d5519f18cc5e2ad5e5be051a1ed61110bfe17"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/import-export-storage.md": {
+      "sha256_raw": "e412e8c83f28d82c139ae40ea66c4b6f45c31a8320fb1a79b46747f075df731a",
+      "sha256_lf": "e412e8c83f28d82c139ae40ea66c4b6f45c31a8320fb1a79b46747f075df731a"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/me-network-connections.md": {
+      "sha256_raw": "e3ea3d710037c75ca6cc4c097e482d39c1e6b4016d84a4ba6444ea0af54a864a",
+      "sha256_lf": "e3ea3d710037c75ca6cc4c097e482d39c1e6b4016d84a4ba6444ea0af54a864a"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/meteorites.md": {
+      "sha256_raw": "cff2cfa8b57b19b3ac0b2fbe0c69bf183df67c43b869f343470ecbfffcd79974",
+      "sha256_lf": "cff2cfa8b57b19b3ac0b2fbe0c69bf183df67c43b869f343470ecbfffcd79974"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/p2p-tunnels.md": {
+      "sha256_raw": "70b6536e93dd59a84042ec241a48c4036d7d1e44ed09706dc4e27f314b67e8d6",
+      "sha256_lf": "70b6536e93dd59a84042ec241a48c4036d7d1e44ed09706dc4e27f314b67e8d6"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/quantum-bridge.md": {
+      "sha256_raw": "ddf0b0f7736ebed40aaa85a993ac492684c17fbf7852d568bb11848fcef85136",
+      "sha256_lf": "ddf0b0f7736ebed40aaa85a993ac492684c17fbf7852d568bb11848fcef85136"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/spatial-io.md": {
+      "sha256_raw": "efa19799fe9a4e95cc27d81f1eceab9fe05ef0150b261b016d01a59a09dc1f5c",
+      "sha256_lf": "efa19799fe9a4e95cc27d81f1eceab9fe05ef0150b261b016d01a59a09dc1f5c"
+    },
+    "assets/ae2/ae2guide/ae2-mechanics/subnetworks.md": {
+      "sha256_raw": "0c33016b9f96344c1c0c09db560a707fed53c7896a69e22fe98c92597b516a69",
+      "sha256_lf": "0c33016b9f96344c1c0c09db560a707fed53c7896a69e22fe98c92597b516a69"
+    },
+    "assets/ae2/ae2guide/ae2importexportcard-index.md": {
+      "sha256_raw": "9e1e400cb7944af1442ef524a665028555eb4f142a11dd1012adef2ef299ff69",
+      "sha256_lf": "03bd37b59ef4c66bbc575b97851861f9e94bd96dbaf06ec210a85245d9d3d617"
+    },
+    "assets/ae2/ae2guide/example-setups/advanced-certus-farm.md": {
+      "sha256_raw": "378609551b035aac7bb02970d1a37cd3d39dc55bf46136705156f467d1388d8a",
+      "sha256_lf": "378609551b035aac7bb02970d1a37cd3d39dc55bf46136705156f467d1388d8a"
+    },
+    "assets/ae2/ae2guide/example-setups/amethyst-farm.md": {
+      "sha256_raw": "d4463f8739b722c2296e3c3b8cc5a9f3004f59aa3c990def61205afb0fff56a0",
+      "sha256_lf": "d4463f8739b722c2296e3c3b8cc5a9f3004f59aa3c990def61205afb0fff56a0"
+    },
+    "assets/ae2/ae2guide/example-setups/bucket-emptier.md": {
+      "sha256_raw": "e0ca998e69cb11ce7d5882fde92c6ef02e2ac2f25e2674ff2c0b9d8ca7fae777",
+      "sha256_lf": "e0ca998e69cb11ce7d5882fde92c6ef02e2ac2f25e2674ff2c0b9d8ca7fae777"
+    },
+    "assets/ae2/ae2guide/example-setups/bucket-filler.md": {
+      "sha256_raw": "7e6f181b8e4e64127538d5e17470aae64ad22f33d2687d1fb5a290908442f0cb",
+      "sha256_lf": "7e6f181b8e4e64127538d5e17470aae64ad22f33d2687d1fb5a290908442f0cb"
+    },
+    "assets/ae2/ae2guide/example-setups/cell-dumper-filler.md": {
+      "sha256_raw": "51c507ac85f7a568ca9a274eed0f0aeabea5e3eca7dba8d15c1239581a0ae9f5",
+      "sha256_lf": "51c507ac85f7a568ca9a274eed0f0aeabea5e3eca7dba8d15c1239581a0ae9f5"
+    },
+    "assets/ae2/ae2guide/example-setups/charger-automation.md": {
+      "sha256_raw": "baaf64a5539c7fbb703f16b1b2da04c1c9dfae3e0f71036c95dbc7f6d245641e",
+      "sha256_lf": "baaf64a5539c7fbb703f16b1b2da04c1c9dfae3e0f71036c95dbc7f6d245641e"
+    },
+    "assets/ae2/ae2guide/example-setups/example-setups-index.md": {
+      "sha256_raw": "ffb5048bc20756e3ce5e589d9fffb07b27bbf8414c600c19fe583659a3680409",
+      "sha256_lf": "ffb5048bc20756e3ce5e589d9fffb07b27bbf8414c600c19fe583659a3680409"
+    },
+    "assets/ae2/ae2guide/example-setups/furnace-automation.md": {
+      "sha256_raw": "a659856851fb760bd641317ff4a3dd89da80fdb3019ebd27a8486e2244944b77",
+      "sha256_lf": "a659856851fb760bd641317ff4a3dd89da80fdb3019ebd27a8486e2244944b77"
+    },
+    "assets/ae2/ae2guide/example-setups/interface-autostocking.md": {
+      "sha256_raw": "25a0e0e5dfdddbce779c1905cd70c4fad6ca1285af41745c40626fb7f3189eca",
+      "sha256_lf": "25a0e0e5dfdddbce779c1905cd70c4fad6ca1285af41745c40626fb7f3189eca"
+    },
+    "assets/ae2/ae2guide/example-setups/level-emitter-autostocking.md": {
+      "sha256_raw": "ac2f1b93d0dae5dc38bb4b20e2e5ba6a9c732018d19888c248f89f3597827181",
+      "sha256_lf": "ac2f1b93d0dae5dc38bb4b20e2e5ba6a9c732018d19888c248f89f3597827181"
+    },
+    "assets/ae2/ae2guide/example-setups/main-network.md": {
+      "sha256_raw": "2a77dac2ce1396362887fbbd661d45dbeda1d16942cb9484f67219acda7d1ce7",
+      "sha256_lf": "2a77dac2ce1396362887fbbd661d45dbeda1d16942cb9484f67219acda7d1ce7"
+    },
+    "assets/ae2/ae2guide/example-setups/ore-fortuner.md": {
+      "sha256_raw": "20a37dafc93bfa82acdd9829ffbcd0c124d1e28526574f601cc19f3d750363df",
+      "sha256_lf": "20a37dafc93bfa82acdd9829ffbcd0c124d1e28526574f601cc19f3d750363df"
+    },
+    "assets/ae2/ae2guide/example-setups/pipe-subnet.md": {
+      "sha256_raw": "ac46719804d58cf2a94e699903239d505e81f987c8c55361ea7585699bfbc834",
+      "sha256_lf": "ac46719804d58cf2a94e699903239d505e81f987c8c55361ea7585699bfbc834"
+    },
+    "assets/ae2/ae2guide/example-setups/processor-automation.md": {
+      "sha256_raw": "0585610a741460b4cb5763267aca58427a988b8caa34a9e0c1b3ab9562361e29",
+      "sha256_lf": "0585610a741460b4cb5763267aca58427a988b8caa34a9e0c1b3ab9562361e29"
+    },
+    "assets/ae2/ae2guide/example-setups/recursive-crafting-setup.md": {
+      "sha256_raw": "d37d1609707a602fe0b2b51ccdc2fb1d4d2c5463918a1a41970b66deaae1c69a",
+      "sha256_lf": "d37d1609707a602fe0b2b51ccdc2fb1d4d2c5463918a1a41970b66deaae1c69a"
+    },
+    "assets/ae2/ae2guide/example-setups/regulated-cobble-gen.md": {
+      "sha256_raw": "94349e5fae13ded3075cbb05dcffc0bf6a3b735089e7841ee7cd68492718b580",
+      "sha256_lf": "94349e5fae13ded3075cbb05dcffc0bf6a3b735089e7841ee7cd68492718b580"
+    },
+    "assets/ae2/ae2guide/example-setups/semiauto-certus-farm.md": {
+      "sha256_raw": "1f5a62186ba49ebad9df1167c8825acdee7c6fd5c121eff4fde6dc8da64dce83",
+      "sha256_lf": "1f5a62186ba49ebad9df1167c8825acdee7c6fd5c121eff4fde6dc8da64dce83"
+    },
+    "assets/ae2/ae2guide/example-setups/simple-certus-farm.md": {
+      "sha256_raw": "7ac57f5aa22f5f81002dbd7a79e99b6465ba6231560a4212ccdb5adf3a45843e",
+      "sha256_lf": "7ac57f5aa22f5f81002dbd7a79e99b6465ba6231560a4212ccdb5adf3a45843e"
+    },
+    "assets/ae2/ae2guide/example-setups/specialized-local-storage.md": {
+      "sha256_raw": "e70b9191ac000c8dc8609624b769bc4b11a49880e508a15ae1600eef8d492f2e",
+      "sha256_lf": "e70b9191ac000c8dc8609624b769bc4b11a49880e508a15ae1600eef8d492f2e"
+    },
+    "assets/ae2/ae2guide/example-setups/storage-types.md": {
+      "sha256_raw": "d1cbd9de2cb28d1b5b2b41fbd699c329674531ae7425f3b0e61caf0bd649c253",
+      "sha256_lf": "d1cbd9de2cb28d1b5b2b41fbd699c329674531ae7425f3b0e61caf0bd649c253"
+    },
+    "assets/ae2/ae2guide/example-setups/throw-in-water-automation.md": {
+      "sha256_raw": "8138c304f0577cf0a7f4ea9414eb1dd1564df843134c3369651b9c0a56602c78",
+      "sha256_lf": "8138c304f0577cf0a7f4ea9414eb1dd1564df843134c3369651b9c0a56602c78"
+    },
+    "assets/ae2/ae2guide/getting-started.md": {
+      "sha256_raw": "76fd044f31f859bc6549d634650478a0af33d1ff44c22a97945e875f084ef5e6",
+      "sha256_lf": "76fd044f31f859bc6549d634650478a0af33d1ff44c22a97945e875f084ef5e6"
+    },
+    "assets/ae2/ae2guide/index.md": {
+      "sha256_raw": "c7b6b57ecb538a80be8b1a0eef9282dc31c369ce7ea7f2f806b836278d79ae97",
+      "sha256_lf": "c7b6b57ecb538a80be8b1a0eef9282dc31c369ce7ea7f2f806b836278d79ae97"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/annihilation_plane.md": {
+      "sha256_raw": "1d4385f6449fd3e699682bb843397d98672995526c66e0b5973566a409e378a2",
+      "sha256_lf": "1d4385f6449fd3e699682bb843397d98672995526c66e0b5973566a409e378a2"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/budding_certus.md": {
+      "sha256_raw": "9edefafd867fc2979d84de5fd83d02a43d5245f145e19cda2a5f150ba1fa4e07",
+      "sha256_lf": "9edefafd867fc2979d84de5fd83d02a43d5245f145e19cda2a5f150ba1fa4e07"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/cable_anchor.md": {
+      "sha256_raw": "cf04fe96af1c240f3127278878ebd2f3cc38057b8ce977abc89bb0f9f777aaee",
+      "sha256_lf": "cf04fe96af1c240f3127278878ebd2f3cc38057b8ce977abc89bb0f9f777aaee"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/cables.md": {
+      "sha256_raw": "0feea6758f6084747933c8b7de8ea0deddbcc672d432ec507d8ccfce1fdc2eee",
+      "sha256_lf": "0feea6758f6084747933c8b7de8ea0deddbcc672d432ec507d8ccfce1fdc2eee"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/cell_workbench.md": {
+      "sha256_raw": "1ba0306bd66531dd2a0bde8a174d10d26aad90bde33e66a8e50203a89d73d3c6",
+      "sha256_lf": "1ba0306bd66531dd2a0bde8a174d10d26aad90bde33e66a8e50203a89d73d3c6"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/certus_quartz_crystal.md": {
+      "sha256_raw": "3c652f12df9acf5b2bf2d3bc15616d894017ecc0e8fbd750785dcb3cdf45368e",
+      "sha256_lf": "3c652f12df9acf5b2bf2d3bc15616d894017ecc0e8fbd750785dcb3cdf45368e"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/certus_quartz_crystal_charged.md": {
+      "sha256_raw": "49a6b1e1b34440b7bacb81605adcd60789471f5640c70bb6b8546692cd338926",
+      "sha256_lf": "49a6b1e1b34440b7bacb81605adcd60789471f5640c70bb6b8546692cd338926"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/certus_quartz_dust.md": {
+      "sha256_raw": "f10e995858e2a6cf50bac51c055e17a0632bd230fa75a3f1af972415eae77f9a",
+      "sha256_lf": "f10e995858e2a6cf50bac51c055e17a0632bd230fa75a3f1af972415eae77f9a"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/charged_staff.md": {
+      "sha256_raw": "9ee39d70ed20f06ee4fa1f54ade70a8a05be676a987bd6645105b907e22caefa",
+      "sha256_lf": "9ee39d70ed20f06ee4fa1f54ade70a8a05be676a987bd6645105b907e22caefa"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/charger.md": {
+      "sha256_raw": "a3c401ded7c5a8343cb1940ba4f3f71724cb2dc85242c5fcf47d60e0d0301b71",
+      "sha256_lf": "a3c401ded7c5a8343cb1940ba4f3f71724cb2dc85242c5fcf47d60e0d0301b71"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/chest.md": {
+      "sha256_raw": "645bd33b71846cd97b54a8b1a889a68b0ebaf22a68f16b9b6ba7508849b712ad",
+      "sha256_lf": "645bd33b71846cd97b54a8b1a889a68b0ebaf22a68f16b9b6ba7508849b712ad"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/color_applicator.md": {
+      "sha256_raw": "49eb591e0bbafb3834666e70deee430e781b306b846c6412671c59c9be8b2e94",
+      "sha256_lf": "49eb591e0bbafb3834666e70deee430e781b306b846c6412671c59c9be8b2e94"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/condenser.md": {
+      "sha256_raw": "0724b38f9b9749860d65f09a5124dcc70db5538867d7d87c6a4e7425ae14d94b",
+      "sha256_lf": "0724b38f9b9749860d65f09a5124dcc70db5538867d7d87c6a4e7425ae14d94b"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/controller.md": {
+      "sha256_raw": "1555734621b7e8548aacc626a4e81a3285a7187ae0b68e38e1a3cef1f91d03e5",
+      "sha256_lf": "1555734621b7e8548aacc626a4e81a3285a7187ae0b68e38e1a3cef1f91d03e5"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/crafting_cpu_multiblock.md": {
+      "sha256_raw": "43eaf32f2e91c395b77381d11ed397d136de6a42c3d82d68a2a3197fb251ea95",
+      "sha256_lf": "43eaf32f2e91c395b77381d11ed397d136de6a42c3d82d68a2a3197fb251ea95"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/crank.md": {
+      "sha256_raw": "9751b9090327021b5e512c82cf98459c1df77f457714ad000b62f235d4aa1b94",
+      "sha256_lf": "9751b9090327021b5e512c82cf98459c1df77f457714ad000b62f235d4aa1b94"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/crystal_resonance_generator.md": {
+      "sha256_raw": "c153c4bc3660990c81a319a54d0c5e131e8e3da480559ef8f98d5d07e3e78391",
+      "sha256_lf": "c153c4bc3660990c81a319a54d0c5e131e8e3da480559ef8f98d5d07e3e78391"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/cutting_knives.md": {
+      "sha256_raw": "d2023f1d86754a585d0d3fca5c66d5858b31939c74c9b8f83d2b92357c289d6d",
+      "sha256_lf": "d2023f1d86754a585d0d3fca5c66d5858b31939c74c9b8f83d2b92357c289d6d"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/decorative_certus.md": {
+      "sha256_raw": "aa49ff388468399732e5706471ece174b31111166496502527d35c49cfb9505f",
+      "sha256_lf": "aa49ff388468399732e5706471ece174b31111166496502527d35c49cfb9505f"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/decorative_fluix.md": {
+      "sha256_raw": "25bb10d3782e411bb681272be8891dc07d17f9bde73da81f99e7c8fa440d9373",
+      "sha256_lf": "25bb10d3782e411bb681272be8891dc07d17f9bde73da81f99e7c8fa440d9373"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/decorative_sky_stone.md": {
+      "sha256_raw": "13db0338bcb7f8ff09bab3631f63721f1b131ab041b9e616b7e000eba474f36d",
+      "sha256_lf": "13db0338bcb7f8ff09bab3631f63721f1b131ab041b9e616b7e000eba474f36d"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/drive.md": {
+      "sha256_raw": "b189aab430e29be4f2a34c5e1b89a8d7dca6fa1077cde285bbfdd150d5d01c3f",
+      "sha256_lf": "b189aab430e29be4f2a34c5e1b89a8d7dca6fa1077cde285bbfdd150d5d01c3f"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/ender_dust.md": {
+      "sha256_raw": "6e57c00ad6172b78d28d88c5e94d0f1c7a639e1f9251e62fec2a4fa0131b78ce",
+      "sha256_lf": "6e57c00ad6172b78d28d88c5e94d0f1c7a639e1f9251e62fec2a4fa0131b78ce"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/energy_acceptor.md": {
+      "sha256_raw": "545c9dd49e419751eb71246344293643cecd423cb5fc637de0162adc0ab2b617",
+      "sha256_lf": "545c9dd49e419751eb71246344293643cecd423cb5fc637de0162adc0ab2b617"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/energy_cells.md": {
+      "sha256_raw": "3cb64172eb3085797eb564be14e68475dc7e4ce530abd0fa5684b76e7706e237",
+      "sha256_lf": "3cb64172eb3085797eb564be14e68475dc7e4ce530abd0fa5684b76e7706e237"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/entropy_manipulator.md": {
+      "sha256_raw": "cf51b84355a9b72562b5c34dd83c19f372242a79d12179404894b1dc36becf12",
+      "sha256_lf": "cf51b84355a9b72562b5c34dd83c19f372242a79d12179404894b1dc36becf12"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/export_bus.md": {
+      "sha256_raw": "68ac0a9e9d80580d153e36c88c912bd4c4d0951ee17c853f4881ace949882bf6",
+      "sha256_lf": "68ac0a9e9d80580d153e36c88c912bd4c4d0951ee17c853f4881ace949882bf6"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/facades.md": {
+      "sha256_raw": "746cb58e9dd8084bb73dfb537bdc34dfee6a192a03f22c171418cbd0b62a29ca",
+      "sha256_lf": "746cb58e9dd8084bb73dfb537bdc34dfee6a192a03f22c171418cbd0b62a29ca"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/fluix_block.md": {
+      "sha256_raw": "2d2d71c4b264b5d498ce8be88f24c65242d55b21d019d26fa10036f2e99af6d7",
+      "sha256_lf": "2d2d71c4b264b5d498ce8be88f24c65242d55b21d019d26fa10036f2e99af6d7"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/fluix_crystal.md": {
+      "sha256_raw": "319790023416a3ac17f9a11122e831aabb50b657a38008bcdcea1dd530098f13",
+      "sha256_lf": "319790023416a3ac17f9a11122e831aabb50b657a38008bcdcea1dd530098f13"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/fluix_dust.md": {
+      "sha256_raw": "0460f4d686bf079d6c22ca650f20930b4981a049686c7f891358a2443a9a87a3",
+      "sha256_lf": "0460f4d686bf079d6c22ca650f20930b4981a049686c7f891358a2443a9a87a3"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/fluix_pearl.md": {
+      "sha256_raw": "876becc287b06ad1e9cfde8c82c5f855ba16875d42203c43d2e407ebc7cec3aa",
+      "sha256_lf": "876becc287b06ad1e9cfde8c82c5f855ba16875d42203c43d2e407ebc7cec3aa"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/fluix_researcher.md": {
+      "sha256_raw": "786780d8fc681b813e286183a2ac58d500a0e4c977485f7e6db41a3292d5ca19",
+      "sha256_lf": "786780d8fc681b813e286183a2ac58d500a0e4c977485f7e6db41a3292d5ca19"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/fluix_tools.md": {
+      "sha256_raw": "333e28860fcb5d79ab741dff0771eab1837664eb99a5d35222b66fb1257f5ea1",
+      "sha256_lf": "333e28860fcb5d79ab741dff0771eab1837664eb99a5d35222b66fb1257f5ea1"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/fluix_upgrade_smithing_template.md": {
+      "sha256_raw": "c51bd06fe31818fcee35fa60755b9b7ab5cf051d28210b5f3ac2a945ae4f6318",
+      "sha256_lf": "c51bd06fe31818fcee35fa60755b9b7ab5cf051d28210b5f3ac2a945ae4f6318"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/formation_annihilation_core.md": {
+      "sha256_raw": "d0cf5755d0ef08ec63237f31166123cdd37864c4f4721a275542f234cf0d83fb",
+      "sha256_lf": "d0cf5755d0ef08ec63237f31166123cdd37864c4f4721a275542f234cf0d83fb"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/formation_plane.md": {
+      "sha256_raw": "8f47a8181eea998485d5ba88da6be9ca8610c0f8a421c62cbcc95c03a9363f1d",
+      "sha256_lf": "8f47a8181eea998485d5ba88da6be9ca8610c0f8a421c62cbcc95c03a9363f1d"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/growth_accelerator.md": {
+      "sha256_raw": "7360bbac55c33432b3343e6936d0267d13f4231547797dda4852e7053899687a",
+      "sha256_lf": "7360bbac55c33432b3343e6936d0267d13f4231547797dda4852e7053899687a"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/guide.md": {
+      "sha256_raw": "45f05528fe22c145c63ce8a5737c37c32670513456b0815c26ed3bb7dd264bee",
+      "sha256_lf": "45f05528fe22c145c63ce8a5737c37c32670513456b0815c26ed3bb7dd264bee"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/illuminated_panels.md": {
+      "sha256_raw": "1804a380faf961056a5f83ab43647e8eb1a1ddce3d4283f025d376dba559eaaa",
+      "sha256_lf": "1804a380faf961056a5f83ab43647e8eb1a1ddce3d4283f025d376dba559eaaa"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/import_bus.md": {
+      "sha256_raw": "b1b0d246ab7165710db1add9d59ad19de42dc6e98676ede6b10355ed5ff169b9",
+      "sha256_lf": "b1b0d246ab7165710db1add9d59ad19de42dc6e98676ede6b10355ed5ff169b9"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/inscriber.md": {
+      "sha256_raw": "46cffc492583445bcb61e4d8b14a64c7afc553e04efa775b43c5e01db16fc7d3",
+      "sha256_lf": "46cffc492583445bcb61e4d8b14a64c7afc553e04efa775b43c5e01db16fc7d3"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/interface.md": {
+      "sha256_raw": "16eeb4d2b9d8d3b49e4fe68f8bb9a57eca474211cf2f404927239f0fd90788c0",
+      "sha256_lf": "16eeb4d2b9d8d3b49e4fe68f8bb9a57eca474211cf2f404927239f0fd90788c0"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/io_port.md": {
+      "sha256_raw": "ab8cb479356290151c33c013e8c6b81956f25180a2f6eef9032f90de89b932f5",
+      "sha256_lf": "ab8cb479356290151c33c013e8c6b81956f25180a2f6eef9032f90de89b932f5"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/items-blocks-machines-index.md": {
+      "sha256_raw": "b45ffcca6c1f879b946f28290a1129770bf01a778117b452b1795c75f2db79fe",
+      "sha256_lf": "b45ffcca6c1f879b946f28290a1129770bf01a778117b452b1795c75f2db79fe"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/level_emitter.md": {
+      "sha256_raw": "809753de6eff7e369ec0c305e315a9ff179c3bd376dbc181f4a0993a86d7eed3",
+      "sha256_lf": "809753de6eff7e369ec0c305e315a9ff179c3bd376dbc181f4a0993a86d7eed3"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/matter_ball.md": {
+      "sha256_raw": "2ed493892def3137b67ce8a7d4ac510cf125a8144557f4f97f1d0f0f91fd4080",
+      "sha256_lf": "2ed493892def3137b67ce8a7d4ac510cf125a8144557f4f97f1d0f0f91fd4080"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/matter_cannon.md": {
+      "sha256_raw": "ff1fc717b9a546a6db91717f7a69d74c7e395c09b03fdb5ee188f3d0446faad5",
+      "sha256_lf": "ff1fc717b9a546a6db91717f7a69d74c7e395c09b03fdb5ee188f3d0446faad5"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/memory_card.md": {
+      "sha256_raw": "a43e18cbec6ec50f7bb69fd87ab47ec82ff35186f0b272cd7a803d4712299ab4",
+      "sha256_lf": "a43e18cbec6ec50f7bb69fd87ab47ec82ff35186f0b272cd7a803d4712299ab4"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/meteorite_compass.md": {
+      "sha256_raw": "a8012114740eff42f34f81846afa6089ee6100a5a50afc682736bdf1fd5b9f91",
+      "sha256_lf": "a8012114740eff42f34f81846afa6089ee6100a5a50afc682736bdf1fd5b9f91"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/molecular_assembler.md": {
+      "sha256_raw": "9b57a5bd1defc301a40bd8813f8e5e22bf4f874fadba1914a8288e0cc8241532",
+      "sha256_lf": "9b57a5bd1defc301a40bd8813f8e5e22bf4f874fadba1914a8288e0cc8241532"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/monitors.md": {
+      "sha256_raw": "f1f76a46dbfd2986fc21fbd74a5aee53466f68d8d0ea74ffab778af2248f56f7",
+      "sha256_lf": "f1f76a46dbfd2986fc21fbd74a5aee53466f68d8d0ea74ffab778af2248f56f7"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/mysterious_cube.md": {
+      "sha256_raw": "272cc56236da3708c0f30074659a4960fad5675e46e35f5896ab388d67449666",
+      "sha256_lf": "272cc56236da3708c0f30074659a4960fad5675e46e35f5896ab388d67449666"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/network_tool.md": {
+      "sha256_raw": "403f830c8096340efaadfd279bf9f0f53921273c5862509083d019aca232c753",
+      "sha256_lf": "403f830c8096340efaadfd279bf9f0f53921273c5862509083d019aca232c753"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/p2p_tunnels.md": {
+      "sha256_raw": "a7231fc974c34d91ec0026df743032e12af83ab16e788bc94fb9ac55eaf24435",
+      "sha256_lf": "a7231fc974c34d91ec0026df743032e12af83ab16e788bc94fb9ac55eaf24435"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/paintballs.md": {
+      "sha256_raw": "8fa8268f6f50481beb418dccf58c44621093b7e8bb1f35e1bef0d4f7437ba300",
+      "sha256_lf": "8fa8268f6f50481beb418dccf58c44621093b7e8bb1f35e1bef0d4f7437ba300"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/pattern_provider.md": {
+      "sha256_raw": "e5f1a84cce11b1abd8c39df5d2f1b18ea50dce843a11ac4b0658787d7da4f6d0",
+      "sha256_lf": "e5f1a84cce11b1abd8c39df5d2f1b18ea50dce843a11ac4b0658787d7da4f6d0"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/patterns.md": {
+      "sha256_raw": "97d30b9006ec8e44ccc3c422d990156350d4c50abb2d4c6388245d1ee3b9192a",
+      "sha256_lf": "97d30b9006ec8e44ccc3c422d990156350d4c50abb2d4c6388245d1ee3b9192a"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/presses.md": {
+      "sha256_raw": "761147bb67d087ce12f1d1266e63740388731cccb144d0e8e39e0291864823a4",
+      "sha256_lf": "761147bb67d087ce12f1d1266e63740388731cccb144d0e8e39e0291864823a4"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/processors.md": {
+      "sha256_raw": "0ee1c45340a505ee38beb914ec42fa77405a90c9f002109677364a2a0ba77d4b",
+      "sha256_lf": "0ee1c45340a505ee38beb914ec42fa77405a90c9f002109677364a2a0ba77d4b"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/quantum_bridge.md": {
+      "sha256_raw": "77da850756524ff8ff4e94497f513f17316e8d98930d282f59ced7d41a2a27fd",
+      "sha256_lf": "77da850756524ff8ff4e94497f513f17316e8d98930d282f59ced7d41a2a27fd"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/quartz_block.md": {
+      "sha256_raw": "c037e5cae93a507873c930371b0f1f3c903123d8c2d25e9a2a405e028bff17b7",
+      "sha256_lf": "c037e5cae93a507873c930371b0f1f3c903123d8c2d25e9a2a405e028bff17b7"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/quartz_fiber.md": {
+      "sha256_raw": "0df9a9dc2cd93d9962960ef708df984eaad033b771786dd27d80c3ffbd38fc8b",
+      "sha256_lf": "0df9a9dc2cd93d9962960ef708df984eaad033b771786dd27d80c3ffbd38fc8b"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/quartz_fixture.md": {
+      "sha256_raw": "4fcb794ab4cd3b883394ab7cd67d4cb6ca3d2083cadcd65f90817c0e35edcd46",
+      "sha256_lf": "4fcb794ab4cd3b883394ab7cd67d4cb6ca3d2083cadcd65f90817c0e35edcd46"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/quartz_glass.md": {
+      "sha256_raw": "5a7d59fd17eb391f378dc33f6b3004a2fb19b7a94c4deb26764d06c2377bbd5e",
+      "sha256_lf": "5a7d59fd17eb391f378dc33f6b3004a2fb19b7a94c4deb26764d06c2377bbd5e"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/quartz_tools.md": {
+      "sha256_raw": "b650f894c4951acb39dc6ba7b450c1df41aca4897f7d17b3c0a67e929a4e0d12",
+      "sha256_lf": "b650f894c4951acb39dc6ba7b450c1df41aca4897f7d17b3c0a67e929a4e0d12"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/singularities.md": {
+      "sha256_raw": "9474023ccccd6c65f5a05190363a3c5aedb988c27e6a710d0ba78b81eabec967",
+      "sha256_lf": "9474023ccccd6c65f5a05190363a3c5aedb988c27e6a710d0ba78b81eabec967"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/sky_dust.md": {
+      "sha256_raw": "ab4715683b045c68881f63262b07f4e8d642186c6a4cdd46a5c24b5d389fc70c",
+      "sha256_lf": "ab4715683b045c68881f63262b07f4e8d642186c6a4cdd46a5c24b5d389fc70c"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/sky_stone.md": {
+      "sha256_raw": "bb9a3a0d5d33713f38c249e8de460da97c7ec2e943673954bc31bc9e99a6373c",
+      "sha256_lf": "bb9a3a0d5d33713f38c249e8de460da97c7ec2e943673954bc31bc9e99a6373c"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/sky_stone_tank.md": {
+      "sha256_raw": "bf41e133d22a15bf0317bac2c39fc6f191d69ca9198297c6e8ae545484c84538",
+      "sha256_lf": "bf41e133d22a15bf0317bac2c39fc6f191d69ca9198297c6e8ae545484c84538"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/spatial_anchor.md": {
+      "sha256_raw": "65e6205b44c8a5faa0f64a7e4eff38ebda26a87b2f21d9bd523bfe1727e2b070",
+      "sha256_lf": "65e6205b44c8a5faa0f64a7e4eff38ebda26a87b2f21d9bd523bfe1727e2b070"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/spatial_cells.md": {
+      "sha256_raw": "eec072c1e7fc4fe6e224a7f0929d5c774d1ee12cc36f811402c88b0ed35c3baa",
+      "sha256_lf": "eec072c1e7fc4fe6e224a7f0929d5c774d1ee12cc36f811402c88b0ed35c3baa"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/spatial_io_port.md": {
+      "sha256_raw": "94ae71b5db61a35b1ad67c1cf3a5d13e7f1b63ddab1a96623c5253fbd369d608",
+      "sha256_lf": "94ae71b5db61a35b1ad67c1cf3a5d13e7f1b63ddab1a96623c5253fbd369d608"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/spatial_pylon.md": {
+      "sha256_raw": "4cf7637fb896850abbe277bc7506e92edc6d93740c521301a1e3343c45efa211",
+      "sha256_lf": "4cf7637fb896850abbe277bc7506e92edc6d93740c521301a1e3343c45efa211"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/storage_bus.md": {
+      "sha256_raw": "739e6d9aacb18d1b31d54433c9327e75fd0950fc8802ac6b8863228f211bdeac",
+      "sha256_lf": "739e6d9aacb18d1b31d54433c9327e75fd0950fc8802ac6b8863228f211bdeac"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/storage_cells.md": {
+      "sha256_raw": "81e6d603646b06631d4e3fcfa7ab118eccbbb84eac4867ed4b209823dffc2fae",
+      "sha256_lf": "81e6d603646b06631d4e3fcfa7ab118eccbbb84eac4867ed4b209823dffc2fae"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/terminals.md": {
+      "sha256_raw": "f78b062e3d0ef161046ee0940b57dbc8928dae596b2c97917f8043ab12d94109",
+      "sha256_lf": "f78b062e3d0ef161046ee0940b57dbc8928dae596b2c97917f8043ab12d94109"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/tiny_tnt.md": {
+      "sha256_raw": "722bb13801e73bd82b2624c6ae957493b66cd8e054de183fabe0346c03d1fb17",
+      "sha256_lf": "722bb13801e73bd82b2624c6ae957493b66cd8e054de183fabe0346c03d1fb17"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/toggle_bus.md": {
+      "sha256_raw": "d19076b5def960229a2e198512dd3209166c379fee4148fc83df55d0d8f9d800",
+      "sha256_lf": "d19076b5def960229a2e198512dd3209166c379fee4148fc83df55d0d8f9d800"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/upgrade_cards.md": {
+      "sha256_raw": "e1546379ca4d0db81fd4abf339540bf9d71664b64b4ea469e539652d73f40fae",
+      "sha256_lf": "e1546379ca4d0db81fd4abf339540bf9d71664b64b4ea469e539652d73f40fae"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/vibration_chamber.md": {
+      "sha256_raw": "aa5d74b971d808f5c4f811f20b470f909f9336dd06dbf05b791455b34b2cc4c2",
+      "sha256_lf": "aa5d74b971d808f5c4f811f20b470f909f9336dd06dbf05b791455b34b2cc4c2"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/view_cell.md": {
+      "sha256_raw": "c966855daf241fd2210e6aa20e192a4cb5a2e6998c81d5737b86acb319845ecd",
+      "sha256_lf": "c966855daf241fd2210e6aa20e192a4cb5a2e6998c81d5737b86acb319845ecd"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/wireless_access_point.md": {
+      "sha256_raw": "0e027418e30dcbdc5e68cee59002d758a905201ef2207414d07b402c928a6409",
+      "sha256_lf": "0e027418e30dcbdc5e68cee59002d758a905201ef2207414d07b402c928a6409"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/wireless_receiver.md": {
+      "sha256_raw": "2bfdb03893c3418336dd728e2f0bf1b88beaab3c6e330abf100c39ed4caeecc1",
+      "sha256_lf": "2bfdb03893c3418336dd728e2f0bf1b88beaab3c6e330abf100c39ed4caeecc1"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/wireless_terminals.md": {
+      "sha256_raw": "f56c14d97752d31936fec69e15846cfccc9e1936b0bc87f46c11ba2b9d139eba",
+      "sha256_lf": "f56c14d97752d31936fec69e15846cfccc9e1936b0bc87f46c11ba2b9d139eba"
+    },
+    "assets/ae2/ae2guide/items-blocks-machines/wrench.md": {
+      "sha256_raw": "77febf9723537a00c7126f9c543bcea3c4e4125ee5a67f5d12708630c45bbb20",
+      "sha256_lf": "77febf9723537a00c7126f9c543bcea3c4e4125ee5a67f5d12708630c45bbb20"
+    },
+    "assets/ae2/ae2guide/tips-and-tricks.md": {
+      "sha256_raw": "c485afb0d1b8145aec29bdf01d4f26d59e85bdd9b3450d78b84a4790ce7b677d",
+      "sha256_lf": "c485afb0d1b8145aec29bdf01d4f26d59e85bdd9b3450d78b84a4790ce7b677d"
+    },
+    "assets/ae2netanalyser/ae2guide/ae2_network_analyser.md": {
+      "sha256_raw": "ed96d39d6bd57123ea754a02e95710f8e96f17c4400db5ff4654a29f0d2dafdd",
+      "sha256_lf": "b77d6892cac78ff7aeb58974761d588c6ba2fcb152cc48d68950d2372ae9b819"
+    },
+    "assets/ae2netanalyser/ae2guide/ae2_tick_profiler.md": {
+      "sha256_raw": "887ce57f1101c7e91eb228573dfe7f5cf13a7c579f01f706306895278a659c34",
+      "sha256_lf": "dba519174cbc34458269ed02b091aa6a175129361a9252332cdd5cab2b978aa2"
+    },
+    "assets/ae2wtlib/ae2guide/ae2wtlib/ae2wtlib-index.md": {
+      "sha256_raw": "f03c51247e5adb94356a34b0a7a2dad3677696ca6d3b96d6769ba58cdfd3afde",
+      "sha256_lf": "f03c51247e5adb94356a34b0a7a2dad3677696ca6d3b96d6769ba58cdfd3afde"
+    },
+    "assets/ae2wtlib/ae2guide/ae2wtlib/magnet_card.md": {
+      "sha256_raw": "8d61630d98e52758af06db2fb8b9edd44ab960fee15ef9ee7d15634802ee413f",
+      "sha256_lf": "8d61630d98e52758af06db2fb8b9edd44ab960fee15ef9ee7d15634802ee413f"
+    },
+    "assets/ae2wtlib/ae2guide/ae2wtlib/quantum_bridge_card.md": {
+      "sha256_raw": "7a2f0cf7a0895f6da23dc6d98d7dc4831966a27de59d44bfbaf827f3ecf5e85a",
+      "sha256_lf": "7a2f0cf7a0895f6da23dc6d98d7dc4831966a27de59d44bfbaf827f3ecf5e85a"
+    },
+    "assets/ae2wtlib/ae2guide/ae2wtlib/restock.md": {
+      "sha256_raw": "6154dbbd8faaca04fae8b2d9bf8c37dbbf6e3e09343e38a1c50541896a0f4463",
+      "sha256_lf": "6154dbbd8faaca04fae8b2d9bf8c37dbbf6e3e09343e38a1c50541896a0f4463"
+    },
+    "assets/ae2wtlib/ae2guide/ae2wtlib/wireless_crafting_terminal.md": {
+      "sha256_raw": "8ac625a09f9df4d39d9f66d2ff602c1d2fcc3cebe4818a81b0b6050555ae7e94",
+      "sha256_lf": "8ac625a09f9df4d39d9f66d2ff602c1d2fcc3cebe4818a81b0b6050555ae7e94"
+    },
+    "assets/ae2wtlib/ae2guide/ae2wtlib/wireless_terminals.md": {
+      "sha256_raw": "8b656c85d7e7785a0c8868fb411794ea934f48e8c5327104ff8dbdefd3a06dcb",
+      "sha256_lf": "8b656c85d7e7785a0c8868fb411794ea934f48e8c5327104ff8dbdefd3a06dcb"
+    },
+    "assets/ae2wtlib/ae2guide/ae2wtlib/wireless_universal_terminal.md": {
+      "sha256_raw": "62b4fa7237cb17a1c0e23c6f4a9d1e0ff5a5e70a4e411c306f1323ada7c7e358",
+      "sha256_lf": "62b4fa7237cb17a1c0e23c6f4a9d1e0ff5a5e70a4e411c306f1323ada7c7e358"
+    },
+    "assets/appflux/ae2guide/appflux/appflux-index.md": {
+      "sha256_raw": "8a8895ea4b074e8ed113093e7cb0d6a69e1fdfed1371d0416b91edf7ee9aad10",
+      "sha256_lf": "276d3071b2cff8be39ea85c099ca69fdece40850a2fd9ec81059db99d6cb8fd6"
+    },
+    "assets/appflux/ae2guide/appflux/diamond_dust.md": {
+      "sha256_raw": "13d65b9484de65ff6f73825dc7c729354259953d3f59ec7a7177084132d9f5d8",
+      "sha256_lf": "33140ea94bf2461ffa9040de965539764d2059f385f6bec7c046c4fbaa28b195"
+    },
+    "assets/appflux/ae2guide/appflux/emerald_dust.md": {
+      "sha256_raw": "76e6f4c47e72172933bfff009cd01f3510cbd0f0995f084e3f17ef4e53daa7fe",
+      "sha256_lf": "6e936e9acf70ff666413f29917ea5542568fb6823852a4f05c00a68fbcfaf648"
+    },
+    "assets/appflux/ae2guide/appflux/energy_processor.md": {
+      "sha256_raw": "a0be1607e17b0f448a9cd8bd84962eb686f1c3bf92da4a53999d672103f9cb3a",
+      "sha256_lf": "5aabd4cef9dd6ee8926841b5df50d7df6c5c866adfdae43db0ce174a7490bd7a"
+    },
+    "assets/appflux/ae2guide/appflux/flux_accessor.md": {
+      "sha256_raw": "a75fc6f4c8a7b8beacedb132db2343ff1da88900cd81df97708190192a92cc5c",
+      "sha256_lf": "c55afe3043bea62ae24fc3b31b19a50c0d7af885a59f47ab5ac60bf8d025d1a4"
+    },
+    "assets/appflux/ae2guide/appflux/flux_cells.md": {
+      "sha256_raw": "d482a3b225040731ad6e9abd3afb1c07e624f1680379bbd4c616aff8d25bea69",
+      "sha256_lf": "d4fd458f4967a8b2f611519478d1aba313cc0e836b96bc614b7c6a0fada16922"
+    },
+    "assets/appflux/ae2guide/appflux/induction_card.md": {
+      "sha256_raw": "0ed2c8dad07f5100f75b5178c4e67d00c9ec3bcaab67c393ba317ef233a5e037",
+      "sha256_lf": "35c78a7b7cc75e3abd04455ad76fd30868f964b0e6f95640617f2fc534f25c28"
+    },
+    "assets/appflux/ae2guide/appflux/insulating_resin.md": {
+      "sha256_raw": "2318f3ca218182b0a10199ed6add038e00abd2ec1b587c10e94c0bca47bab6cd",
+      "sha256_lf": "e96e77e67dd8b9a34e0fd77b0dd32023241f27a0a2f5bc5a4a1896a0174bda74"
+    },
+    "assets/appflux/ae2guide/appflux/mark_energy.md": {
+      "sha256_raw": "486e38b9c4ae6384405a69817f77f88c489ceba44cfea8b30801be00795f5689",
+      "sha256_lf": "fd4ba166468e9b924d74e2a056498bd3aea1869d07a63d99270713b40fa162f5"
+    },
+    "assets/appflux/ae2guide/appflux/portable_flux_cells.md": {
+      "sha256_raw": "302781600648eb5b7c3528203d58070d9f12c2decb50684a7cf98e3ee13d9555",
+      "sha256_lf": "73ee3254cb3740d404d3ea2793672674ecb8553676c4d167f09629743a8796c0"
+    },
+    "assets/appflux/ae2guide/appflux/redstone_crystal.md": {
+      "sha256_raw": "7af0d1d78e8c569f10adf40f6b2220e10a4745f9be7b6366bebf9370af98357a",
+      "sha256_lf": "b017a16afa68d67f46bbfd1c72306bb63a520dc84ece463eb58bcf0558a86821"
+    },
+    "assets/appflux/ae2guide/appflux/terminal_interact.md": {
+      "sha256_raw": "077a4d8a4be7fa2e2989fafad6dc4644fd8940e199df476ba0e20a579e5fa7da",
+      "sha256_lf": "fee14f50418c6db212dcfe14abae3abce9c8281ce6ce6ebafae41629fe42628d"
+    },
+    "assets/extendedae/ae2guide/epp_intro/active_formation_plane.md": {
+      "sha256_raw": "cf38ddda4531debc28c497ed391a1256925fa82bc61164bf8aefed7426e9e5f9",
+      "sha256_lf": "440e8ed9ca3c4128ee6af7fcc609d612822b2f2a050ab326f44c95a480ef6150"
+    },
+    "assets/extendedae/ae2guide/epp_intro/assembler_matrix.md": {
+      "sha256_raw": "5e6fbf58b037c6453185128908ca169d3f9fb8a6b16b9f76919485a21c712e15",
+      "sha256_lf": "d586a7993e2ebb728417ddf4033052eae760dbad3acc7c9537c574eeb1e260db"
+    },
+    "assets/extendedae/ae2guide/epp_intro/caner.md": {
+      "sha256_raw": "6c9c7c17be49b617f0b6f2c3e20f185e2d833b94c98f589a869ee60e9967af16",
+      "sha256_lf": "5577b0acf28fa2953485aa2c68e2687376676d2982338d7e6e509e4bdf0a1b65"
+    },
+    "assets/extendedae/ae2guide/epp_intro/circuit_cutter.md": {
+      "sha256_raw": "4bdffd94a401e0872dd490dbd523702f16c09baec221d44bd747a9ee80f5d6c1",
+      "sha256_lf": "6cb6cafd5749c822e854a642d6d49162ad07dc2d2ca6011f420e3459adec8751"
+    },
+    "assets/extendedae/ae2guide/epp_intro/concurrent_processor.md": {
+      "sha256_raw": "f5febdd395658f12b7778c92df3769221c926c7c73e1137a2122574dd78b5437",
+      "sha256_lf": "e70e37cf5565f22aa2b65e855c6b982126010c85d1e266971a0d3dd747c70f6c"
+    },
+    "assets/extendedae/ae2guide/epp_intro/config_modifier.md": {
+      "sha256_raw": "b884579b00f07a0ec4674e41d674eb91285a5e0769b2ef7fb285db021995084d",
+      "sha256_lf": "57f5944d5f852605a8a29d4f91b52eba225c4c4fe88c37b646314baa410e8753"
+    },
+    "assets/extendedae/ae2guide/epp_intro/crystal_assembler.md": {
+      "sha256_raw": "eb2e887e760be35b07715ab6cfecbd1eb0c9c479e40c3b6c5c8dc8a8351c1927",
+      "sha256_lf": "547cee596bba49898ee962b15f24a397c55e73b205e051f7a9a504b902049d3f"
+    },
+    "assets/extendedae/ae2guide/epp_intro/crystal_fixer.md": {
+      "sha256_raw": "0a7f3ad92da60d34fb546e64a848998f3c2e7e4c15232700b160be0dfedfb32f",
+      "sha256_lf": "7a919f83d23956eea39a5c26d8db3ba7eb57c2b54bea926ce82a168fbc126240"
+    },
+    "assets/extendedae/ae2guide/epp_intro/entro_block.md": {
+      "sha256_raw": "355d9d550073d24ad760d02f9322e680d73c13949b57f4782f1ecfe8cafa744d",
+      "sha256_lf": "8bf746509b5d56d78800357562821abdbd04c57686d81f1a0dee4aa27234b84a"
+    },
+    "assets/extendedae/ae2guide/epp_intro/entro_budding.md": {
+      "sha256_raw": "60dc2a956dc618b4f691a86ab93b36d6387a59523f5cf2250fca713111772c3a",
+      "sha256_lf": "8f83dd4f21b5333244cf85255a2ecca22056a2b51add605dfe3ce2ecb7feaaf2"
+    },
+    "assets/extendedae/ae2guide/epp_intro/entro_crystal.md": {
+      "sha256_raw": "719b6ece770979a48f9a6b88aaceb1fca07285a4a61f13cebb7a963c7194e139",
+      "sha256_lf": "866b289a7c4ff1d333e2e148741879a7f064ca88057242d8f46353005cb423e9"
+    },
+    "assets/extendedae/ae2guide/epp_intro/entro_dust.md": {
+      "sha256_raw": "085e168df4d02de8810346623834aec4daf2255fa5b998f749e00064f0e26cc4",
+      "sha256_lf": "faafddb46a7d485ff16612d10b391a8c5436c62423a13703b130272b9d23d027"
+    },
+    "assets/extendedae/ae2guide/epp_intro/entro_ingot.md": {
+      "sha256_raw": "e0cf7dee38f7aa1b26155f70e0ec671f5ca94c84d622d68f469ffda2285032b0",
+      "sha256_lf": "299511803e09e726bece71bd5d19e77622cb578929ef04f8ddce36110e0e6b08"
+    },
+    "assets/extendedae/ae2guide/epp_intro/entro_seed.md": {
+      "sha256_raw": "94cdd8f8b759493326f07ad8a2710bf70dadc2845658d4baa03b3b8e43abfe0c",
+      "sha256_lf": "c6d90538fea8dfbb78c5749e933f65716fef2376010e758233e4f7051f465640"
+    },
+    "assets/extendedae/ae2guide/epp_intro/entro_shard.md": {
+      "sha256_raw": "4475088a33980c8d7f588d7129d99f96aadccae383e9e2a45922b4e284db4fe9",
+      "sha256_lf": "294078713bc581ef219768194273a2df3c628e25951aab4939b2507e76dce597"
+    },
+    "assets/extendedae/ae2guide/epp_intro/epp_intro-index.md": {
+      "sha256_raw": "dd0f91ab28a6826a4c030b7da144d77ae049cd45f545c46a3266342a26a75d1b",
+      "sha256_lf": "f15227d4811a9eba82135fdaf7741d077a6794f4c00585de5618507223a74026"
+    },
+    "assets/extendedae/ae2guide/epp_intro/extended_charger.md": {
+      "sha256_raw": "5c02083616bd7a57fa3bbf6715800674cbc00798e3452ed3158d75947531d916",
+      "sha256_lf": "b2e24a4d2db621d9b36e093754222c539872eef9b0d7db28fcca9f8602e87675"
+    },
+    "assets/extendedae/ae2guide/epp_intro/extended_drive.md": {
+      "sha256_raw": "48876fa09e3c8c5fe0009165861d95f19e589ea0f327d4b119c56fb62f403649",
+      "sha256_lf": "002dcb2e3d73ea2def18163688cd4edc6fdaaed61572bb02ffd5eb0ba1210d93"
+    },
+    "assets/extendedae/ae2guide/epp_intro/extended_interface.md": {
+      "sha256_raw": "42a0b662f8dfc646f366c028786a63ab20c23caeb130c3a8b3e623db6f6fd49c",
+      "sha256_lf": "a4a80901cd5e3db4341fdc9a1141de64dc9f0b38fceef4790930619ab8cdd44a"
+    },
+    "assets/extendedae/ae2guide/epp_intro/extended_io_bus.md": {
+      "sha256_raw": "fde6dcec08742c0df23c58f88289c52c4150d649bb87748c3343d47a177600e9",
+      "sha256_lf": "bf97080bd84fd1aa8687ac92e3e03781da36cf9267bc922b8c2029f419dcb561"
+    },
+    "assets/extendedae/ae2guide/epp_intro/extended_io_port.md": {
+      "sha256_raw": "a8db2ad3d24a5037838eb5a14e21c863deb5d9e6d4851e91f85c12841595a0a2",
+      "sha256_lf": "adb94d49faa572cdbb3c7392d713cf8fcb9f3e291e0e5b402003bf4d3249c973"
+    },
+    "assets/extendedae/ae2guide/epp_intro/extended_modecular_assembler.md": {
+      "sha256_raw": "6ecde456095c5d7dc9090cb2313a633396d7454a13765aeba9f1fb84fea1d6ee",
+      "sha256_lf": "747706b3d11a14d12e91162cc6497a0b423e9b4178a9abc74206c25a07a36802"
+    },
+    "assets/extendedae/ae2guide/epp_intro/extended_pattern_provider.md": {
+      "sha256_raw": "5c8b64882ed0a902dbddc9b34c3cfb52e4607a643554c3fe1c7cc26f16be6069",
+      "sha256_lf": "aca2e54a374f28a463c836c9e6244972aaf05b0da225012a2b7d75f9f8e8597b"
+    },
+    "assets/extendedae/ae2guide/epp_intro/extended_pattern_terminal.md": {
+      "sha256_raw": "0497c3b17a2d767517e00db03e2b346e976605bbd67ca1e6eabb5462828ff386",
+      "sha256_lf": "234e1b9b2ac29013b826ee6f2fd5e658595c336149a436542174e91eee19efc4"
+    },
+    "assets/extendedae/ae2guide/epp_intro/infinity_cell.md": {
+      "sha256_raw": "fb18d2289f424855e2e1522e05f7114d9073247fd3626bbb85a6f0e22c93127a",
+      "sha256_lf": "da8eaae8d7c0e11c23e2dc5e68fb978297d83e1e7c51388115cd70179f1ee611"
+    },
+    "assets/extendedae/ae2guide/epp_intro/ingredient_buffer.md": {
+      "sha256_raw": "11b2fb8cbb3e5052d77342abbfe7bb52b516488a83c1e57fec69794c2cba36f2",
+      "sha256_lf": "dee9472a1eedb0a141600a3082287ef1fbbecc15de0c7f4c040e2c5fe56776ce"
+    },
+    "assets/extendedae/ae2guide/epp_intro/machine_frame.md": {
+      "sha256_raw": "4c3d4bb36f70fe29b57fd644e26ddaad21847d2db333a42762f679116725f913",
+      "sha256_lf": "30c0fcbce0f00e4e6f7b1a6b46341b08cc22ee58db9b87984ac03e6046da58d9"
+    },
+    "assets/extendedae/ae2guide/epp_intro/mod_export_bus.md": {
+      "sha256_raw": "b74632d493bb61d7f002e8087fa8f46bfaecb668aa277bbfb69a0935cd346328",
+      "sha256_lf": "0025efbbcf63fc9f2c67276cb438b6a4db351a56a5fe9e0f999c92176ad46c92"
+    },
+    "assets/extendedae/ae2guide/epp_intro/mod_storage_bus.md": {
+      "sha256_raw": "f91b70b45ec04c00b28bcf5290bf2663c223caa2735f797eeb088177462916d0",
+      "sha256_lf": "56a97200eadaeef10160fce77076253df9940608b01a11f30a5b04e4f316c2dd"
+    },
+    "assets/extendedae/ae2guide/epp_intro/oversize_interface.md": {
+      "sha256_raw": "427aee2c9e8c32b38294dce4ffd06f19aa29a076abb4ba5ae5b232eba0d7404f",
+      "sha256_lf": "0994286252a0e9b9e4544f0b2e065ff7da7b20d3b5a992d74e891aa3a57afc9f"
+    },
+    "assets/extendedae/ae2guide/epp_intro/packing_tape.md": {
+      "sha256_raw": "0431c857b2ed8b1c20d00874ed6a1949814ddb3b86ad2af087f4df5c363d3174",
+      "sha256_lf": "6adf3a49846aa1b7c66a7ba4e4793c6485a4e97be467c120d9801446ea90acee"
+    },
+    "assets/extendedae/ae2guide/epp_intro/pattern_modifier.md": {
+      "sha256_raw": "eb09d7e107532142e3816c1754e92195ac6b75f55d873a3ee2219329b5e6c955",
+      "sha256_lf": "5ac307d4a1db6515f4dd0e0e9e6cd7b4b01bb6b47bf5ce6e7aeda02b589aa3c9"
+    },
+    "assets/extendedae/ae2guide/epp_intro/precise_export_bus.md": {
+      "sha256_raw": "a3637d1e1b70c8d7be8716284d155c0fd4548e70420f9d84723b289f23f1c4c2",
+      "sha256_lf": "6dbbce57f6ba91791ea3cc408cec0dc0860062023f49782ef6ef1296a686626b"
+    },
+    "assets/extendedae/ae2guide/epp_intro/precise_storage_bus.md": {
+      "sha256_raw": "fe42740773016d6484b38e151534061432a76529574f809390d083fe7eccfda3",
+      "sha256_lf": "2a44a0ccfca507cd60d9d839f2af785d156ef34cea97f2df6582b0c8c6ce55bd"
+    },
+    "assets/extendedae/ae2guide/epp_intro/quartz_blend.md": {
+      "sha256_raw": "e246330a7add96a1a40f26615dc1756a16ccd63f686e2c81ec9fb2a2c3fd959d",
+      "sha256_lf": "9c09d858ff854b57b0e3a95fadf7cb20260782805082ddcec58683695170d56c"
+    },
+    "assets/extendedae/ae2guide/epp_intro/silicon_block.md": {
+      "sha256_raw": "c57d16c55d029b704473e4c292fbe11c478070247939c636810295c7c7219b38",
+      "sha256_lf": "b9e4c9ae36084a576901f14f42f43b8b5da6041ab38804f388e8ddf51e197c08"
+    },
+    "assets/extendedae/ae2guide/epp_intro/smart_annihilation_plane.md": {
+      "sha256_raw": "15661f1e0b30b3aaba122530685f19d936f4ad5b7c9180e2dcc773aa9f5b7da2",
+      "sha256_lf": "9430e32363163ff628d19bb9b3012158863246aa21a162812d2774385de85ae9"
+    },
+    "assets/extendedae/ae2guide/epp_intro/tag_export_bus.md": {
+      "sha256_raw": "f087b1d906296ce9ab627b691d086c1a26a8634f29fe5a17759602b25203471f",
+      "sha256_lf": "da961bcb1a16beb272314a954097c202fac5d74604b3a86b53bfaa5ac85acd85"
+    },
+    "assets/extendedae/ae2guide/epp_intro/tag_storage_bus.md": {
+      "sha256_raw": "099d1e3f41b7a420539557ba3f19ef3dee7286505ac7df32a7050a937a72dd93",
+      "sha256_lf": "945e90d9655ffd8fef922a0874f4852139e1edd5d2cbc0ed44a5351d1ce5c7c7"
+    },
+    "assets/extendedae/ae2guide/epp_intro/threshold_export_bus.md": {
+      "sha256_raw": "437c30f06165e6f7fbe593ef974e5e02de3b58e6252e7fe0683e62f29e8d3cf4",
+      "sha256_lf": "eb24fe5a88cf19f65659495839dcb33853d8deebd3217802ca3251ee8edffb09"
+    },
+    "assets/extendedae/ae2guide/epp_intro/threshold_level_emitter.md": {
+      "sha256_raw": "2ce99cc869e31cefcdf79ac6b65dd131ee6736fa48f26666ea253d2c076e212c",
+      "sha256_lf": "54acf867ad0effa25e778551a94379aef7233a912b6928c86ae088832f957f20"
+    },
+    "assets/extendedae/ae2guide/epp_intro/upgrade_items.md": {
+      "sha256_raw": "a56ce171e3eeb68ef08705b56979a19d629965467824d0c21138f406c43203f7",
+      "sha256_lf": "c467a79bb302b6093bf826282f8108605e08b4aaa8e03b84f9014b0ea5e24b32"
+    },
+    "assets/extendedae/ae2guide/epp_intro/void_cell.md": {
+      "sha256_raw": "f0b8277e1b68176a3487e602c5c49fed72e79e54c27b1eeec711a7ea097b142a",
+      "sha256_lf": "c0a7ef7d6ccffa2c737a59c5c07340a3834c19d695678b4095e701333eaace05"
+    },
+    "assets/extendedae/ae2guide/epp_intro/wireless_connector.md": {
+      "sha256_raw": "d748bef0826dc979e8ab9592dec3828835e7fd8da91286c5551af0d0162ad9e3",
+      "sha256_lf": "0f7c6db86acc8c8e5c72e22ef763cf214038c82b5ff2b0d4b2d275ef799e2433"
+    },
+    "assets/extendedae/ae2guide/epp_intro/wireless_hub.md": {
+      "sha256_raw": "497968228f798bc625e3fd85d4dbad9fe0742ea195e4b15ef79138154922ddeb",
+      "sha256_lf": "4ef96e5b3afe1268028a0d8d426d79a6eb98789be8110a27643d582a1e8fea28"
+    },
+    "assets/justdirethings/patchouli_books/justdirethingsbook/en_us/entries/justdynathings/solar_panels.json": {
+      "sha256_raw": "6664433e2deef287de0f962ba117de4670763c19c958073b63dfd140558761f9",
+      "sha256_lf": "6664433e2deef287de0f962ba117de4670763c19c958073b63dfd140558761f9"
+    },
+    "assets/laserio/patchouli_books/laseriobook/en_us/entries/card_chemical.json": {
+      "sha256_raw": "70a7d1485d5711f75fbf64d599f959f11f9fc1290f0f67ca65c8980e2a74a6d2",
+      "sha256_lf": "42d523b7880fcb7e7dcb2a99070ee6a2f618de85d30a789be0b7e1516c1f7559"
+    },
+    "assets/laserio/patchouli_books/laseriobook/en_us/entries/card_cloner.json": {
+      "sha256_raw": "a190f99baca85eb37e28215a227d6160f02571d5899b168544c1918699d2671a",
+      "sha256_lf": "0ddad56944d2bf33cc0d671995a1075d1d74681ccfbc237915baae13427c0e76"
+    },
+    "assets/laserio/patchouli_books/laseriobook/en_us/entries/card_holder.json": {
+      "sha256_raw": "c979f548cfbb6d36dba101b84467bce21f8e39b09c8bd79d050d8112dc36246e",
+      "sha256_lf": "f0a2c3c34e65e079fcb6b3719ee89d99576d3fd0e507c0d5855a3c6c38c00dcf"
+    },
+    "assets/laserio/patchouli_books/laseriobook/en_us/entries/filter_nbt.json": {
+      "sha256_raw": "365f433b6c67880333414b9e7b62a21837d2ec65bc34a2ac12da4b8819c67cf0",
+      "sha256_lf": "e6682ded7390b1f7ec23341595c9a5e61e89c1f56fc6e652cd5a45a1fe62dd28"
+    },
+    "assets/laserio/patchouli_books/laseriobook/en_us/entries/laser_connector.json": {
+      "sha256_raw": "3c402a760edab8a644233b27da3c0168f062c14e43f3085abd8682cf76cf5515",
+      "sha256_lf": "bc76dc03aa3b27530352bdd07f6e4f43ec5c41cbc6424155b7f5f070feb30315"
+    },
+    "assets/laserio/patchouli_books/laseriobook/en_us/entries/laser_connector_advanced.json": {
+      "sha256_raw": "141427a683dfd656fbc2ed7a8e79d9c3e4b6703bf8fff803bf7de3cb27de55a5",
+      "sha256_lf": "050e872f9b69ded42ddd39a4e097daee1c99e42eb4222870af055c016047a7cd"
+    },
+    "assets/laserio/patchouli_books/laseriobook/en_us/entries/modes.json": {
+      "sha256_raw": "cb37dff73c104371285d20ee0fd93ac1c0f2903d0ae81b95f233ff509cff1426",
+      "sha256_lf": "939e1d55c05c72fe15735fff1f747f529cd2280b6abf31bee724ffe795c0df77"
+    },
+    "assets/laserio/patchouli_books/laseriobook/en_us/entries/sensormode.json": {
+      "sha256_raw": "d9315f8c6d58fd81084b055bd87e73bd06bba5baacae3d5fd5a1cd9f7612be72",
+      "sha256_lf": "46b3219005c6c5936d54d039523501525d3ba6688a135d14a75a950b75551b2d"
+    },
+    "assets/laserio/patchouli_books/laseriobook/en_us/entries/settings_screen.json": {
+      "sha256_raw": "a7132d8c0d9204146a69cddab43160920294ce406a7f7317e72ab80c939ef0d2",
+      "sha256_lf": "ab6801ae45b3e5816641d7a1364d5361d4303a7eb8df19a648464049569c39d6"
+    },
+    "assets/little_big_redstone/guides/little_big_redstone/guide/logic/battery.md": {
+      "sha256_raw": "464c713f4a7b9bd3e46cab709a3ff72fd839e446e289444b30179d7467dc7837",
+      "sha256_lf": "464c713f4a7b9bd3e46cab709a3ff72fd839e446e289444b30179d7467dc7837"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/categories/augments.json": {
+      "sha256_raw": "bd0438be468ad8e42b165ebd25a05c5ac5537004f9dbdc12dee87adc79f002f7",
+      "sha256_lf": "bd0438be468ad8e42b165ebd25a05c5ac5537004f9dbdc12dee87adc79f002f7"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/categories/filters.json": {
+      "sha256_raw": "b37abe22ee96e3c36e879dbfff36cd182c567fa549e6fc44b298dd4e11cdc359",
+      "sha256_lf": "b37abe22ee96e3c36e879dbfff36cd182c567fa549e6fc44b298dd4e11cdc359"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/categories/intro.json": {
+      "sha256_raw": "a2ebe500c0fcfddad6efed60140793d88d1a2b8ad41c24d8e3db2146f3e6f8d8",
+      "sha256_lf": "a2ebe500c0fcfddad6efed60140793d88d1a2b8ad41c24d8e3db2146f3e6f8d8"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/categories/modules.json": {
+      "sha256_raw": "415b32dae017c410ce67824fd40c580a46dd128e950eaf54680cefc0048b810c",
+      "sha256_lf": "415b32dae017c410ce67824fd40c580a46dd128e950eaf54680cefc0048b810c"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/categories/router.json": {
+      "sha256_raw": "1f1ed1ff44ed2ad1e23d2ddac4489181ee6532af69fbf4e301e734bc21f59466",
+      "sha256_lf": "1f1ed1ff44ed2ad1e23d2ddac4489181ee6532af69fbf4e301e734bc21f59466"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/categories/upgrades.json": {
+      "sha256_raw": "0f6e1ee5901fde9033eb52c08665a2c2ed42189c42722610539a001649729f53",
+      "sha256_lf": "0f6e1ee5901fde9033eb52c08665a2c2ed42189c42722610539a001649729f53"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/fast_pickup.json": {
+      "sha256_raw": "f3cb37f0105d5f33fd41dbaf017c9b332aa9376313a1bdc5341bd151d14aa737",
+      "sha256_lf": "f3cb37f0105d5f33fd41dbaf017c9b332aa9376313a1bdc5341bd151d14aa737"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/mimic.json": {
+      "sha256_raw": "0de291f76d945a4b6324845f71ba64c9d8d10de979c6ed6f7094725302d11916",
+      "sha256_lf": "0de291f76d945a4b6324845f71ba64c9d8d10de979c6ed6f7094725302d11916"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/pickup_delay.json": {
+      "sha256_raw": "9da510595f4d0267f0759c309bd15bc69d91db1141da4aa19ed2243916a9372d",
+      "sha256_lf": "9da510595f4d0267f0759c309bd15bc69d91db1141da4aa19ed2243916a9372d"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/pushing.json": {
+      "sha256_raw": "9bec767d3adee457b05f9572f9ac96e9d5640ff2dc51fc538e91200234e967e9",
+      "sha256_lf": "9bec767d3adee457b05f9572f9ac96e9d5640ff2dc51fc538e91200234e967e9"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/range_down.json": {
+      "sha256_raw": "9d4550b42c6f0aad530750e5d78dffb8092cce7687b684c22b9ca5a865b4db77",
+      "sha256_lf": "9d4550b42c6f0aad530750e5d78dffb8092cce7687b684c22b9ca5a865b4db77"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/range_up.json": {
+      "sha256_raw": "6a93a92c1e5ae454afacb07ab918f89981febb7d0f5b9965805498635bbb8deb",
+      "sha256_lf": "6a93a92c1e5ae454afacb07ab918f89981febb7d0f5b9965805498635bbb8deb"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/redstone.json": {
+      "sha256_raw": "ab7064c075389300bb1a8aecd2ab4bdd5ce3927c92bc902a567877d20717289e",
+      "sha256_lf": "ab7064c075389300bb1a8aecd2ab4bdd5ce3927c92bc902a567877d20717289e"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/regulator.json": {
+      "sha256_raw": "6cc22849e0618ebe4017496b88574ecc78016ab98fc857a4ba50fc0dd3f66a41",
+      "sha256_lf": "6cc22849e0618ebe4017496b88574ecc78016ab98fc857a4ba50fc0dd3f66a41"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/stack.json": {
+      "sha256_raw": "a533fba01e5d5f2902892de7dd0c214a1d4a7b60eb06c47a1e36f416ab5bb4ad",
+      "sha256_lf": "a533fba01e5d5f2902892de7dd0c214a1d4a7b60eb06c47a1e36f416ab5bb4ad"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/augments/xp_vacuum.json": {
+      "sha256_raw": "ba91e00154f1a22848a46714c2930756b0680a4f08cfd2075d11510006175955",
+      "sha256_lf": "ba91e00154f1a22848a46714c2930756b0680a4f08cfd2075d11510006175955"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/filters/bulk_item.json": {
+      "sha256_raw": "7247ee8a91995c412e6b5a40c5b7f5213e50c36d0ec0473bd1ef4f4d2fd39b21",
+      "sha256_lf": "7247ee8a91995c412e6b5a40c5b7f5213e50c36d0ec0473bd1ef4f4d2fd39b21"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/filters/inspection.json": {
+      "sha256_raw": "ac54431bbdadc34a9f1b6a5f9b5d7ca64a47d4457401d941cc31522c8a7e745b",
+      "sha256_lf": "ac54431bbdadc34a9f1b6a5f9b5d7ca64a47d4457401d941cc31522c8a7e745b"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/filters/mod.json": {
+      "sha256_raw": "dd75a7e5d2fcfdb320230c530465af9c632dbef584b097d22e56e96f50127c1b",
+      "sha256_lf": "dd75a7e5d2fcfdb320230c530465af9c632dbef584b097d22e56e96f50127c1b"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/filters/regex.json": {
+      "sha256_raw": "edb1ee2c48e89cad2a5deb7eb3baeec9fe424036a272dae2de2042bc424d1339",
+      "sha256_lf": "edb1ee2c48e89cad2a5deb7eb3baeec9fe424036a272dae2de2042bc424d1339"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/intro/augments.json": {
+      "sha256_raw": "04dc379bc0020eef261f4cac54d5696c4f15647834e0c3f08e0f63a539afbb6d",
+      "sha256_lf": "04dc379bc0020eef261f4cac54d5696c4f15647834e0c3f08e0f63a539afbb6d"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/intro/filters.json": {
+      "sha256_raw": "91ee5ffccdc788ff314ba7f4fd18f00520c386d96bbf16fc15508210ad66ceee",
+      "sha256_lf": "91ee5ffccdc788ff314ba7f4fd18f00520c386d96bbf16fc15508210ad66ceee"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/intro/misc.json": {
+      "sha256_raw": "cdf9a907f7028e561a4cb429a745f966bf1cdb327d38bd0f4e53f2b1a71fde96",
+      "sha256_lf": "cdf9a907f7028e561a4cb429a745f966bf1cdb327d38bd0f4e53f2b1a71fde96"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/intro/modular_router.json": {
+      "sha256_raw": "56603f8ee18226ecae941b693b9318747a07736b07a84704b5f0eaef80a112d7",
+      "sha256_lf": "56603f8ee18226ecae941b693b9318747a07736b07a84704b5f0eaef80a112d7"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/intro/modules.json": {
+      "sha256_raw": "2164ce09ee0eaafe789ba13372fe75cff551dc4ddf16ba48bae2660ed88e7fff",
+      "sha256_lf": "2164ce09ee0eaafe789ba13372fe75cff551dc4ddf16ba48bae2660ed88e7fff"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/intro/overview.json": {
+      "sha256_raw": "57212aa81bac84c55b4d45810ee84e1b790c7972f3eaa86204c6f9800e6fc344",
+      "sha256_lf": "57212aa81bac84c55b4d45810ee84e1b790c7972f3eaa86204c6f9800e6fc344"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/intro/upgrades.json": {
+      "sha256_raw": "5885b1fce8e51cfd027bd6d4e32ae39f26b138c5450cd408de98cab669f86854",
+      "sha256_lf": "5885b1fce8e51cfd027bd6d4e32ae39f26b138c5450cd408de98cab669f86854"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/activator.json": {
+      "sha256_raw": "b42f21957730a0398eb05bba4a4552075f5974bff10bedae23313a79261c6efa",
+      "sha256_lf": "b42f21957730a0398eb05bba4a4552075f5974bff10bedae23313a79261c6efa"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/breaker.json": {
+      "sha256_raw": "5e745534cdabb7b35cae3d0026e0bb562f8b7a24042d166b965f828e93731de9",
+      "sha256_lf": "5e745534cdabb7b35cae3d0026e0bb562f8b7a24042d166b965f828e93731de9"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/creative.json": {
+      "sha256_raw": "0ae0c6dc4b87b095f1ee549f48fc7c7b63902882aef9342d9c3c0217d3aa4a3b",
+      "sha256_lf": "0ae0c6dc4b87b095f1ee549f48fc7c7b63902882aef9342d9c3c0217d3aa4a3b"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/detector.json": {
+      "sha256_raw": "07857e64568fe82ed942ff352d5ce808c988574390aa1a776715b987426b22d5",
+      "sha256_lf": "07857e64568fe82ed942ff352d5ce808c988574390aa1a776715b987426b22d5"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/distributor.json": {
+      "sha256_raw": "862a20436dbf5ca99cb6d2d3920a3d7ccff5dd9f2224e07cfbd943e30baf62e5",
+      "sha256_lf": "862a20436dbf5ca99cb6d2d3920a3d7ccff5dd9f2224e07cfbd943e30baf62e5"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/dropper.json": {
+      "sha256_raw": "c38fc3015f02a1c9b75315c9b8f8fad5836abc788e00674eaa94a9b6a63d337b",
+      "sha256_lf": "c38fc3015f02a1c9b75315c9b8f8fad5836abc788e00674eaa94a9b6a63d337b"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/energy_distributor.json": {
+      "sha256_raw": "2346ab5989519451bdd618daf3e38fb4f140e9fda9dd66117d46c62c63ff42d1",
+      "sha256_lf": "2346ab5989519451bdd618daf3e38fb4f140e9fda9dd66117d46c62c63ff42d1"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/energy_output.json": {
+      "sha256_raw": "ee6782967a35f541d3309616aedb5c4348d13327f986b0897210faf7cf6686cd",
+      "sha256_lf": "ee6782967a35f541d3309616aedb5c4348d13327f986b0897210faf7cf6686cd"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/extruder_1.json": {
+      "sha256_raw": "c7a66792c503ff5971a3dfd3ec48ff11826ef9243421bfcd16e836bcca8a2b07",
+      "sha256_lf": "c7a66792c503ff5971a3dfd3ec48ff11826ef9243421bfcd16e836bcca8a2b07"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/extruder_2.json": {
+      "sha256_raw": "e7525cad675c9bf9cafa86aa63f1e702c534c811b2518c723360d26afe5bc43a",
+      "sha256_lf": "e7525cad675c9bf9cafa86aa63f1e702c534c811b2518c723360d26afe5bc43a"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/flinger.json": {
+      "sha256_raw": "a660646ca2c20419030704fdab8f675f9c2173b37f843721a7d3fe4880a549cd",
+      "sha256_lf": "a660646ca2c20419030704fdab8f675f9c2173b37f843721a7d3fe4880a549cd"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/fluid.json": {
+      "sha256_raw": "776ba79eef566fb4bf7d810a6433ddf5e155cc08841899deebe4476d181ae3a8",
+      "sha256_lf": "776ba79eef566fb4bf7d810a6433ddf5e155cc08841899deebe4476d181ae3a8"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/fluid_2.json": {
+      "sha256_raw": "65431cd026cfead2bd0cc6352dd9c69c22a84837d51451c2abbed3693a358172",
+      "sha256_lf": "65431cd026cfead2bd0cc6352dd9c69c22a84837d51451c2abbed3693a358172"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/placer.json": {
+      "sha256_raw": "fd4aa358e832b2bc02a9ccb98a0e9f754dd423d8d8ec3bf2bb2ee6d16acb9077",
+      "sha256_lf": "fd4aa358e832b2bc02a9ccb98a0e9f754dd423d8d8ec3bf2bb2ee6d16acb9077"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/player.json": {
+      "sha256_raw": "fd5978ec6e6d522bcdbf31e4bd97e46efbda465cc8cf8cb3cac88ba8ec2eb7b5",
+      "sha256_lf": "fd5978ec6e6d522bcdbf31e4bd97e46efbda465cc8cf8cb3cac88ba8ec2eb7b5"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/puller_1.json": {
+      "sha256_raw": "34b636f1bdecd8aa32dbc85c3e208c2bc623718869b4519e443943acc7c4da23",
+      "sha256_lf": "34b636f1bdecd8aa32dbc85c3e208c2bc623718869b4519e443943acc7c4da23"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/puller_2.json": {
+      "sha256_raw": "be1831278bd0aa39ff91852064dca1122b55e42a1f3712b36a1650394eb72872",
+      "sha256_lf": "be1831278bd0aa39ff91852064dca1122b55e42a1f3712b36a1650394eb72872"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/sender_1.json": {
+      "sha256_raw": "978a6dbc2f917c45f2c48bf68865751d84a2dc23bbd047f83f9053367b32ba17",
+      "sha256_lf": "978a6dbc2f917c45f2c48bf68865751d84a2dc23bbd047f83f9053367b32ba17"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/sender_2.json": {
+      "sha256_raw": "b5113815dc5b27fd5d40f3e537fab35a6db9bf2cca771c2bf9fe4274348439b2",
+      "sha256_lf": "b5113815dc5b27fd5d40f3e537fab35a6db9bf2cca771c2bf9fe4274348439b2"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/sender_3.json": {
+      "sha256_raw": "ac737966b46a1ff2af645a49473835dd05b9f758711619fe522ecaf15afab725",
+      "sha256_lf": "ac737966b46a1ff2af645a49473835dd05b9f758711619fe522ecaf15afab725"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/vacuum.json": {
+      "sha256_raw": "f47ce1b81335bc6ed204fa66e4be4134178ce00841922e5fc0d5738d3455146b",
+      "sha256_lf": "f47ce1b81335bc6ed204fa66e4be4134178ce00841922e5fc0d5738d3455146b"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/modules/void.json": {
+      "sha256_raw": "a152399ec4ee9d93d4e9f27d716fdafbc746b1beb0c79346f8cb2e6337275660",
+      "sha256_lf": "a152399ec4ee9d93d4e9f27d716fdafbc746b1beb0c79346f8cb2e6337275660"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/router/modular_router.json": {
+      "sha256_raw": "a6156f15281b7e98ac1587c954ec8564fb3ac67fe50bc989c6848fbed8f52918",
+      "sha256_lf": "a6156f15281b7e98ac1587c954ec8564fb3ac67fe50bc989c6848fbed8f52918"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/router/termination.json": {
+      "sha256_raw": "29dd32f4105955b09c14e8a3620025f5960fd0bc9471255c60f4f42291ddf882",
+      "sha256_lf": "29dd32f4105955b09c14e8a3620025f5960fd0bc9471255c60f4f42291ddf882"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/upgrades/blast.json": {
+      "sha256_raw": "d2b54486f03fb8e7bcffc49ef1b1ff2c27c55c158aadfcd1d91fd99c0a2d9090",
+      "sha256_lf": "d2b54486f03fb8e7bcffc49ef1b1ff2c27c55c158aadfcd1d91fd99c0a2d9090"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/upgrades/camouflage.json": {
+      "sha256_raw": "68405299cad45d9bb55514516462af60d262fe37dbd439a41ce108dd5b04abe9",
+      "sha256_lf": "68405299cad45d9bb55514516462af60d262fe37dbd439a41ce108dd5b04abe9"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/upgrades/energy.json": {
+      "sha256_raw": "d7c65ff153e08276284b3a939e7d3e299547eda450f1a97e577fae817a5bf863",
+      "sha256_lf": "d7c65ff153e08276284b3a939e7d3e299547eda450f1a97e577fae817a5bf863"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/upgrades/fluid.json": {
+      "sha256_raw": "ff68cbaa879fdc30e6fb7f5adb91906bf89c0e805e10d9970fab57655991b554",
+      "sha256_lf": "ff68cbaa879fdc30e6fb7f5adb91906bf89c0e805e10d9970fab57655991b554"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/upgrades/muffler.json": {
+      "sha256_raw": "72d2d3c614c35d47f0ddbbb52903db4b8c1b42eb3732437b76d81fcb4de80e65",
+      "sha256_lf": "72d2d3c614c35d47f0ddbbb52903db4b8c1b42eb3732437b76d81fcb4de80e65"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/upgrades/security.json": {
+      "sha256_raw": "ff95fb1d35dfe85b29a65c944c7cf4c39ee00398a74a3a8610a34a53358becea",
+      "sha256_lf": "ff95fb1d35dfe85b29a65c944c7cf4c39ee00398a74a3a8610a34a53358becea"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/upgrades/speed.json": {
+      "sha256_raw": "512ec5db82d4f1f2796e660b2888d24e21e06576bb258b61de2d1cd32ce33e12",
+      "sha256_lf": "512ec5db82d4f1f2796e660b2888d24e21e06576bb258b61de2d1cd32ce33e12"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/upgrades/stack.json": {
+      "sha256_raw": "c10bed09317fa331bbd36c9be6eabe06cfec4b020128b6854c6087f268096017",
+      "sha256_lf": "c10bed09317fa331bbd36c9be6eabe06cfec4b020128b6854c6087f268096017"
+    },
+    "assets/modularrouters/patchouli_books/book/en_us/entries/upgrades/sync.json": {
+      "sha256_raw": "062d2a4b400dab71f91caf8b3a0a508d386a9d2512320b5589a09bc89fb20340",
+      "sha256_lf": "062d2a4b400dab71f91caf8b3a0a508d386a9d2512320b5589a09bc89fb20340"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/bees.json": {
+      "sha256_raw": "18bfae4b03bcf37fe43217a9f0b3079d16fc7f608e266d75b4261f610d83a5a0",
+      "sha256_lf": "18bfae4b03bcf37fe43217a9f0b3079d16fc7f608e266d75b4261f610d83a5a0"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/bees_hive.json": {
+      "sha256_raw": "ac4003833f82f133ebe1288702ee879a1c5e1e98d5981666f3fb8644f14497c2",
+      "sha256_lf": "ac4003833f82f133ebe1288702ee879a1c5e1e98d5981666f3fb8644f14497c2"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/bees_solitary.json": {
+      "sha256_raw": "0dde0b388d6d746bbdd50ade97ad135b5baeec94a47f484f12abf457f8b9266d",
+      "sha256_lf": "0dde0b388d6d746bbdd50ade97ad135b5baeec94a47f484f12abf457f8b9266d"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/bees_wild.json": {
+      "sha256_raw": "54a4bab17442b068d9011b8bf47da82301efe1a9c4bff0d6457f3803c925c8d3",
+      "sha256_lf": "54a4bab17442b068d9011b8bf47da82301efe1a9c4bff0d6457f3803c925c8d3"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/bees_worker.json": {
+      "sha256_raw": "a22f194ed1e415a9aa063496c14f62c82becbfe30c17784c283300f34d7c2e48",
+      "sha256_lf": "a22f194ed1e415a9aa063496c14f62c82becbfe30c17784c283300f34d7c2e48"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/blocks.json": {
+      "sha256_raw": "b214d750bf3b746e548902815a8429138f72bcc5d4cb5ae2b36b44537c3805c5",
+      "sha256_lf": "b214d750bf3b746e548902815a8429138f72bcc5d4cb5ae2b36b44537c3805c5"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/genetics.json": {
+      "sha256_raw": "57b5e6d5b321d23a1a0e930b9c643d5e0a6f84407f05200852cc52412309d365",
+      "sha256_lf": "57b5e6d5b321d23a1a0e930b9c643d5e0a6f84407f05200852cc52412309d365"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/guide.json": {
+      "sha256_raw": "098fb3cd86bbca1443bb2b16a02e3c1281f2ec92493d37509157d7d1c738d911",
+      "sha256_lf": "098fb3cd86bbca1443bb2b16a02e3c1281f2ec92493d37509157d7d1c738d911"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/hives.json": {
+      "sha256_raw": "d449d5d03a5b638e621724430ddae8e0e7e2ba7e4916e0de4c1aba3106e6759e",
+      "sha256_lf": "c672d06ea8973e7913d0220dd1cb85c03bc42fb5ab8c77f1fd563abfe3e21484"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/items.json": {
+      "sha256_raw": "f11ad15ea4f827dd4769acb62990d6442f2aa7acb4d30858ebb9c1c4bd908d92",
+      "sha256_lf": "b11bb5cb484b58643af5d326c7632e8524e4cfc7cdc2a22d8028859055018dcf"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/categories/misc.json": {
+      "sha256_raw": "da16e73e5347161fe83884f18b6dd35a5489f519aa8fe9fab353182e622fee70",
+      "sha256_lf": "a41b4941bc3ac302299d80f09a3f292dbb9b7eb45f3c0496c9d83e8085da4a19"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/blazing.json": {
+      "sha256_raw": "95a51808963d0ae4a038bb33f7898204190a438d1db66f3df14e5b1e66c01f53",
+      "sha256_lf": "95a51808963d0ae4a038bb33f7898204190a438d1db66f3df14e5b1e66c01f53"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/coal.json": {
+      "sha256_raw": "ed2af0a3ebb28c746714e5e78347a401f70599a3f17a43311dd80dd5a7760c63",
+      "sha256_lf": "ed2af0a3ebb28c746714e5e78347a401f70599a3f17a43311dd80dd5a7760c63"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/creeper.json": {
+      "sha256_raw": "e14ed96130e586ca18f47eec48becee138ec37d15dc42efc5508e1825ae8bd08",
+      "sha256_lf": "e14ed96130e586ca18f47eec48becee138ec37d15dc42efc5508e1825ae8bd08"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/diamond.json": {
+      "sha256_raw": "5071f7c7dc5704eee9feed3ffde95d803441f2b3f3495134a763d154b999f145",
+      "sha256_lf": "5071f7c7dc5704eee9feed3ffde95d803441f2b3f3495134a763d154b999f145"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/emerald.json": {
+      "sha256_raw": "4db3045201d76f83f61f763bff0fd34cee2827b0975acc546d86ce69eb27e285",
+      "sha256_lf": "4db3045201d76f83f61f763bff0fd34cee2827b0975acc546d86ce69eb27e285"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/experience.json": {
+      "sha256_raw": "14a002224266ba8a49d8843f09bcd43887654374007bfcf81311a4146640351c",
+      "sha256_lf": "14a002224266ba8a49d8843f09bcd43887654374007bfcf81311a4146640351c"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/gold.json": {
+      "sha256_raw": "4b8ac2fcda77bfc3e1f530f58887f44843ea02702fcc5f0dc19d98a16cab2f93",
+      "sha256_lf": "4b8ac2fcda77bfc3e1f530f58887f44843ea02702fcc5f0dc19d98a16cab2f93"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/iron.json": {
+      "sha256_raw": "d1f6b13a798cb71137ac7a53970912d6121cb9588647b45668a380c41656b43d",
+      "sha256_lf": "d1f6b13a798cb71137ac7a53970912d6121cb9588647b45668a380c41656b43d"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/lapis.json": {
+      "sha256_raw": "565649b6f57388a626f4d7dcf8ed2a6bc93edba3d9431a35fe2200373240b38d",
+      "sha256_lf": "565649b6f57388a626f4d7dcf8ed2a6bc93edba3d9431a35fe2200373240b38d"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/netherite.json": {
+      "sha256_raw": "2bcc06d7f94b6b13edac110254649a0582b722a6512f647e53aa512353d04946",
+      "sha256_lf": "2bcc06d7f94b6b13edac110254649a0582b722a6512f647e53aa512353d04946"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/obsidian.json": {
+      "sha256_raw": "009d9eb82147658709f86bf29705a680fa952edd7f3a843bd0a0933b1f8d6604",
+      "sha256_lf": "009d9eb82147658709f86bf29705a680fa952edd7f3a843bd0a0933b1f8d6604"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/prismarine.json": {
+      "sha256_raw": "52261b37c9c8e8a77cf81e29c3f42078dbd564785c6ce05f6eb5389d513b21e3",
+      "sha256_lf": "52261b37c9c8e8a77cf81e29c3f42078dbd564785c6ce05f6eb5389d513b21e3"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/redstone.json": {
+      "sha256_raw": "c00f7b1c1906e4170524ea55565a195958ec3a4d8caa0b873b8f7e1a6b58930d",
+      "sha256_lf": "c00f7b1c1906e4170524ea55565a195958ec3a4d8caa0b873b8f7e1a6b58930d"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/skeletal.json": {
+      "sha256_raw": "cd9ce8a4f5ea7e32d61f06ea264beaf467c1a11a72e10176256815ee411133ad",
+      "sha256_lf": "cd9ce8a4f5ea7e32d61f06ea264beaf467c1a11a72e10176256815ee411133ad"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/withered.json": {
+      "sha256_raw": "e5f59226d884f9caae5435603ff22cb62659ee0d6f47ebc54bbb3a65e50ab805",
+      "sha256_lf": "e5f59226d884f9caae5435603ff22cb62659ee0d6f47ebc54bbb3a65e50ab805"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/zombie.json": {
+      "sha256_raw": "21a8026bed10f42f74b22c0c3ef43282664cfd6ee6b2214f3b65b7fdc47ce5b9",
+      "sha256_lf": "21a8026bed10f42f74b22c0c3ef43282664cfd6ee6b2214f3b65b7fdc47ce5b9"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/ashy_mining.json": {
+      "sha256_raw": "3237364d245a9dba94d670c29b83101e7c072184b6f21b1a6e6778070a8b8d89",
+      "sha256_lf": "3237364d245a9dba94d670c29b83101e7c072184b6f21b1a6e6778070a8b8d89"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/blue_banded.json": {
+      "sha256_raw": "d08b5eeada4f1a606dfca9b8b435c287bd5853de4083358f1e10c974268370c1",
+      "sha256_lf": "d08b5eeada4f1a606dfca9b8b435c287bd5853de4083358f1e10c974268370c1"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/chocolate_mining.json": {
+      "sha256_raw": "2acdcaf1c1bc9337f2323f6539a7e3cee1f096aadc3e3edf350f3200492e7bf0",
+      "sha256_lf": "2acdcaf1c1bc9337f2323f6539a7e3cee1f096aadc3e3edf350f3200492e7bf0"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/digger.json": {
+      "sha256_raw": "09639a915bad9eb2db3b372cf509e27cac30a881423489060a47505da71715cb",
+      "sha256_lf": "09639a915bad9eb2db3b372cf509e27cac30a881423489060a47505da71715cb"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/green_carpenter.json": {
+      "sha256_raw": "cbad8a394cbd57d0e2c2e35098520a56180c5621a230939cf25924fe5bfe3e34",
+      "sha256_lf": "cbad8a394cbd57d0e2c2e35098520a56180c5621a230939cf25924fe5bfe3e34"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/leafcutter.json": {
+      "sha256_raw": "e2ac5f217d0da2504139caa039d3c058a0f3dae4da091ee6678828b802ad2488",
+      "sha256_lf": "e2ac5f217d0da2504139caa039d3c058a0f3dae4da091ee6678828b802ad2488"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/mason.json": {
+      "sha256_raw": "9a19f150062ae2ed63922532824ee16ba439d665cbad779c9fdc5229b0a99c5c",
+      "sha256_lf": "9a19f150062ae2ed63922532824ee16ba439d665cbad779c9fdc5229b0a99c5c"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/neon_cuckoo.json": {
+      "sha256_raw": "e66b026a368b8bc67485cb129cd68434d6d5e9264ca38b8310a6b49f8413bb98",
+      "sha256_lf": "e66b026a368b8bc67485cb129cd68434d6d5e9264ca38b8310a6b49f8413bb98"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/nomad.json": {
+      "sha256_raw": "5a6a542653d5d89f42f8ff0083c909db7d590fd120b4c72f0b615dacadb597d0",
+      "sha256_lf": "5a6a542653d5d89f42f8ff0083c909db7d590fd120b4c72f0b615dacadb597d0"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/reed.json": {
+      "sha256_raw": "5584fefc76807a5a403250e276fb08a5c46aa7586c66de667ca14df482b3b76b",
+      "sha256_lf": "5584fefc76807a5a403250e276fb08a5c46aa7586c66de667ca14df482b3b76b"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/resin.json": {
+      "sha256_raw": "a41f5bea43261e32720b4931367a1b289f935703e83fc633752ccef16a993088",
+      "sha256_lf": "a41f5bea43261e32720b4931367a1b289f935703e83fc633752ccef16a993088"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/sweat.json": {
+      "sha256_raw": "1c180d1dfd38fab1593e65862b620c58be1a0d7dda8be4a6545f9f11eaa708b3",
+      "sha256_lf": "1c180d1dfd38fab1593e65862b620c58be1a0d7dda8be4a6545f9f11eaa708b3"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/solitary/yellow_black_carpenter.json": {
+      "sha256_raw": "0febff8dc7d3549c40423517ed4cbd164b9bc7a462e80ed55fa4dce93fa74d57",
+      "sha256_lf": "0febff8dc7d3549c40423517ed4cbd164b9bc7a462e80ed55fa4dce93fa74d57"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/wild/crystalline.json": {
+      "sha256_raw": "e6421199141e94aa16c3c4f70866e89cd14e51c869e6f94450e13c4e73475117",
+      "sha256_lf": "e6421199141e94aa16c3c4f70866e89cd14e51c869e6f94450e13c4e73475117"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/wild/draconic.json": {
+      "sha256_raw": "7bbd64a47a88aaf0c8fcfa6e44db21be21f1e5fd343aa9d9d6e9fdd8451d5b73",
+      "sha256_lf": "7bbd64a47a88aaf0c8fcfa6e44db21be21f1e5fd343aa9d9d6e9fdd8451d5b73"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/wild/ender.json": {
+      "sha256_raw": "1af17d72e9a699a8fcd3ff56fea9fb746dfeb488b84a7596a566a5bb45dbaf5c",
+      "sha256_lf": "1af17d72e9a699a8fcd3ff56fea9fb746dfeb488b84a7596a566a5bb45dbaf5c"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/wild/ghostly.json": {
+      "sha256_raw": "ee75ea0a02ba9e837319bd1778cb0feebe0c90a9dd7dba911133790b2d1be713",
+      "sha256_lf": "ee75ea0a02ba9e837319bd1778cb0feebe0c90a9dd7dba911133790b2d1be713"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/wild/glowing.json": {
+      "sha256_raw": "c4c3c712c3ca5986608de8db380528b986150fdb478359a306193788e20c8e39",
+      "sha256_lf": "c4c3c712c3ca5986608de8db380528b986150fdb478359a306193788e20c8e39"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/wild/magmatic.json": {
+      "sha256_raw": "137094fb7aef46b21a761f778b984a98a4ed760ec58ab393c25c9313fd46d9b6",
+      "sha256_lf": "05ffecbf32372f6eab8166f4d667a50bd7a09f7c1ecceb5c452a0ed9fe5dd362"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/wild/slimy.json": {
+      "sha256_raw": "9fffb459dcb43848bb356d0c8df7d7cce65dad6b38bbfc88b8e36854e0f771ea",
+      "sha256_lf": "9fffb459dcb43848bb356d0c8df7d7cce65dad6b38bbfc88b8e36854e0f771ea"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/wild/sugarbag.json": {
+      "sha256_raw": "bb33ec4e8679edd6183d7f70b35d8852781d7b73a0bc0180b31cdb3ac8831d7d",
+      "sha256_lf": "bb33ec4e8679edd6183d7f70b35d8852781d7b73a0bc0180b31cdb3ac8831d7d"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/worker/collector.json": {
+      "sha256_raw": "ee47102bcd2a34fb201024e368f0884176297c25dea9127b89c748addaaec353",
+      "sha256_lf": "ee47102bcd2a34fb201024e368f0884176297c25dea9127b89c748addaaec353"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/worker/cubee.json": {
+      "sha256_raw": "04fe276de578309ee44f7b39d56fe3a7be29726934c32b4a09777822af193b46",
+      "sha256_lf": "04fe276de578309ee44f7b39d56fe3a7be29726934c32b4a09777822af193b46"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/worker/dye.json": {
+      "sha256_raw": "419be378023535edab8c9f01b94bf0e4691e4399fd90c7d339f0a7407fcdcef5",
+      "sha256_lf": "419be378023535edab8c9f01b94bf0e4691e4399fd90c7d339f0a7407fcdcef5"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/worker/farmer.json": {
+      "sha256_raw": "3feb11721f5781f7ee0e0e7a7a1ed9ff370cd56028b317c3ae547acddd005fad",
+      "sha256_lf": "5e6f95907007a225e43272d9d0376f96a8a1c493cec3eeb79a438c046572c98e"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/worker/hoarder.json": {
+      "sha256_raw": "69fbe2595f971e452cc222c7fb258ef839a358f94d72a10c20b02209617f509e",
+      "sha256_lf": "69fbe2595f971e452cc222c7fb258ef839a358f94d72a10c20b02209617f509e"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/worker/lumber.json": {
+      "sha256_raw": "f373bc3472bd8e1c62b3c71e566c60da3a75c53cf721ed574f937fccedc54683",
+      "sha256_lf": "f373bc3472bd8e1c62b3c71e566c60da3a75c53cf721ed574f937fccedc54683"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/worker/quarry.json": {
+      "sha256_raw": "e219c7f2699df17fdbc59eadc70f5d114a10aff34cb925882a3f526933cc5fa0",
+      "sha256_lf": "e219c7f2699df17fdbc59eadc70f5d114a10aff34cb925882a3f526933cc5fa0"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/bees/worker/rancher.json": {
+      "sha256_raw": "fe6aac14a8281c825dcd4bc62e2d8a9db2531c5e14deadb9a90cc83ccc128cc1",
+      "sha256_lf": "fe6aac14a8281c825dcd4bc62e2d8a9db2531c5e14deadb9a90cc83ccc128cc1"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/bee_jar.json": {
+      "sha256_raw": "00bf7659954c9e92efce5a29e3dd9d1ad6efdc19e6ef91d359049099d4a72b68",
+      "sha256_lf": "00bf7659954c9e92efce5a29e3dd9d1ad6efdc19e6ef91d359049099d4a72b68"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/bottler.json": {
+      "sha256_raw": "bd97bba75de2c6dc3bf4c895b119853f5b64b1edeb764bee7decf54415c89641",
+      "sha256_lf": "bd97bba75de2c6dc3bf4c895b119853f5b64b1edeb764bee7decf54415c89641"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/breeding_chamber.json": {
+      "sha256_raw": "0a7025b35812d1461bd332b6c21fd953a4d721eafa6b97bb2b0e7221d9f3e9b9",
+      "sha256_lf": "cb8c14921f1903bbc1a4ab090cd812ad25e13aa989034e8f2be565dcb8b39e08"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/catcher.json": {
+      "sha256_raw": "f643de48dae777772a4d85faeceb6c2071586c8993eefaae9424e1eae0b6f6e1",
+      "sha256_lf": "f643de48dae777772a4d85faeceb6c2071586c8993eefaae9424e1eae0b6f6e1"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/centrifuge.json": {
+      "sha256_raw": "3bb1f9200c74492307c22d0eeabce6a1e55fb45413435ec81ce63ea7b340aab8",
+      "sha256_lf": "3bb1f9200c74492307c22d0eeabce6a1e55fb45413435ec81ce63ea7b340aab8"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/feeder.json": {
+      "sha256_raw": "de92c672a92a9f6b2a1d02d707530c0e9bf05a09b86de9c13edc2017e3c5b50e",
+      "sha256_lf": "b085991f21311bed6c4a3f72fc270e3084bf63bba9e1e1377a29e126d6a0bba8"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/gene_indexer.json": {
+      "sha256_raw": "5ff9af9e516c2b07eeaafafd1a8e4e9922b0b84a21e62ef505914e305baf9896",
+      "sha256_lf": "d1086db7c5c85668f462bdd46796392a48f43bd45cb15f3e8190e0436d37bea0"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/hive.json": {
+      "sha256_raw": "2a60428bdb5238edde49c278b312dfc407b075be1df9c667f0ca23ab4f320621",
+      "sha256_lf": "2a60428bdb5238edde49c278b312dfc407b075be1df9c667f0ca23ab4f320621"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/honey_generator.json": {
+      "sha256_raw": "4305b18880bec93b00317872b571f78f408d7e0ad1e68bfc8f9f7b0f86da2b57",
+      "sha256_lf": "4305b18880bec93b00317872b571f78f408d7e0ad1e68bfc8f9f7b0f86da2b57"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/blocks/incubator.json": {
+      "sha256_raw": "2ace27454cbfe99a495edb70af2c204ef3fce36e72168b5fff6399f3a57c7228",
+      "sha256_lf": "2ace27454cbfe99a495edb70af2c204ef3fce36e72168b5fff6399f3a57c7228"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/genetics/attributes.json": {
+      "sha256_raw": "86e7f713c8a6f15b492b3358fcb9940c50c1c7fae9141893030942ba1f6b5999",
+      "sha256_lf": "d030eacf38c0ec5601dd9eedc522e1e12fd99b428cf39c4aacb3215e6bf4ecec"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/genetics/collecting.json": {
+      "sha256_raw": "2c0e585d395cc4535304c4587bf523fbdcc14c0eb9fbd8c730397c05ca278d37",
+      "sha256_lf": "2c0e585d395cc4535304c4587bf523fbdcc14c0eb9fbd8c730397c05ca278d37"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/genetics/transferring.json": {
+      "sha256_raw": "fba9deb7d8855c43cbbd4ae42af01588bc59b96908938fa4f5a3f66e86975803",
+      "sha256_lf": "fba9deb7d8855c43cbbd4ae42af01588bc59b96908938fa4f5a3f66e86975803"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/guide/start.json": {
+      "sha256_raw": "d1d60afd90e40847883d73496f6a9ab66cc121d63b10cd42a33f03901d9f4c60",
+      "sha256_lf": "d1d60afd90e40847883d73496f6a9ab66cc121d63b10cd42a33f03901d9f4c60"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/hives/advanced_hives.json": {
+      "sha256_raw": "c379de62f23579e6928732b49dadc8ed80ee24a206a445338f58080c5bcc91e0",
+      "sha256_lf": "822e3ec59dcdef345c6c52d62dfd2bfe6af5a8f2e39fa10bf154d0a77e78fffc"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/hives/dragon_egg_hive.json": {
+      "sha256_raw": "2c855e8b06f4ff73e03e1747b1fffba621c97dd9b39640d567504e289b63061d",
+      "sha256_lf": "2c855e8b06f4ff73e03e1747b1fffba621c97dd9b39640d567504e289b63061d"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/hives/expansion_boxes.json": {
+      "sha256_raw": "1480ffcd480bd1fe320ed5581317c4257ee3ca0f91d07ca57df44c45af071916",
+      "sha256_lf": "4d40d89c7ba519a6cadd08d44ff27f3c9c9848cc2bc6b4da44b908bbd61f2b7b"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/hives/nests.json": {
+      "sha256_raw": "64f8af526b1803c0a0711ddafe4c165512aac9cdf371ce6e91f01b56482420ba",
+      "sha256_lf": "64f8af526b1803c0a0711ddafe4c165512aac9cdf371ce6e91f01b56482420ba"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/items/bee_cage.json": {
+      "sha256_raw": "6e40e52871b058aa56b01caf80fd50139c4723447151f23374011e97572a9064",
+      "sha256_lf": "6e40e52871b058aa56b01caf80fd50139c4723447151f23374011e97572a9064"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/items/bee_helmet.json": {
+      "sha256_raw": "faec3eeb07d6459a0dc3ef3b2b285449042deefacf643f3ca2851e3b409f3075",
+      "sha256_lf": "bdb61bc09e2551c864fc53933bc38a642e3e2884275ee80106e1cd620e907722"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/items/combs.json": {
+      "sha256_raw": "9437e8ccfecfbcf317392faecfa411b756e0604f2cc74eb3b88490e16af4586f",
+      "sha256_lf": "9437e8ccfecfbcf317392faecfa411b756e0604f2cc74eb3b88490e16af4586f"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/items/honey_treat.json": {
+      "sha256_raw": "f214d9f062a242be96e0855b325516df57cbea9c890bf60aad750fec217c663c",
+      "sha256_lf": "f214d9f062a242be96e0855b325516df57cbea9c890bf60aad750fec217c663c"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/items/nest_locator.json": {
+      "sha256_raw": "be111e7feb77609fd8d4d3638758f0d9fed884ab35bd033bf8d483ca762c5f0d",
+      "sha256_lf": "be111e7feb77609fd8d4d3638758f0d9fed884ab35bd033bf8d483ca762c5f0d"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/items/upgrades.json": {
+      "sha256_raw": "a69b09bf53bdab11fc569ee4af9d4129b23ae5a379a315419c2b59db913f2590",
+      "sha256_lf": "fe5629f894cb0fee8c05679654fe63d2d7e104178d38acfbb7a57c983ce662d4"
+    },
+    "assets/productivebees/patchouli_books/guide/en_us/entries/misc/performance.json": {
+      "sha256_raw": "8cdd9ae7daf680828e695b9dd10bf932c7095e4e543a79594cb7b121a464375a",
+      "sha256_lf": "745d078a51abb537cba1299fb8a50b905469970ff17c325dda30ffa72a6d6eeb"
+    }
+  },
+  "archive_content_sha256": "0388bf64eaa6fc352fffdfd29c32cd0d19d140983606d83e6ef7dd6176f8f34b"
+}

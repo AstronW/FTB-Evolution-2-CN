@@ -1,0 +1,38 @@
+{
+  "ftbchunks.gui.chunk_info.text": {
+    "status": "passed",
+    "lines": 12,
+    "separator_counts_per_line": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  "ftbchunks.gui.large_map_info.text": {
+    "status": "passed",
+    "lines": 12,
+    "separator_counts_per_line": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "我不想喂凝胶",
+  "sortnum": 10,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:stabilizer",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "稳定器",
+      "recipe": "justdynathings:stabilizer",
+      "text": "它可以使用 Forge 能量唤醒放在其顶部的任何凝胶$(br)也可以用来维持一台悖论混合器的运转"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "pattern": [
+          [
+            "G"
+          ],
+          [
+            "R"
+          ],
+          [
+            "0"
+          ]
+        ],
+        "mapping": {
+          "G": "justdirethings:gooblock_tier2[alive=true]",
+          "R": "justdynathings:stabilizer[active=true,facing=down,energized=false]"
+        }
+      },
+      "enable_visualize": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "208",
+  "namespace": "measurements",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "59ee60e9642c729a8f9458de17a739498d9574a7e9c59aa6a7bd06420143c2fe",
+  "in_game_tested": false
+}

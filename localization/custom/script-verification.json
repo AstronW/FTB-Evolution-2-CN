@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "syntax_checked": [
+    {
+      "path": ".minecraft/kubejs/server_scripts/systems/echoes/shop_keepers.js",
+      "before_sha256": "35e72acf02f76ddd476d8794d2292e2f347fee5a21767e6bf8f5f7658dcb5245",
+      "after_sha256": "25c8680cc941ecce415dd069bbca028957b2eb6226387d7dacb40ca41d05e0d4"
+    },
+    {
+      "path": ".minecraft/kubejs/server_scripts/systems/ftb_events/commands.js",
+      "before_sha256": "c7627c90167589f7322d4db76d4b2ff3e0b85ee1f77e67faad60d487a3f86f2f",
+      "after_sha256": "325f234effb7a4581abe2cfd91983d50c1265bf90a005abd95357c379b6d1a4b"
+    },
+    {
+      "path": ".minecraft/kubejs/server_scripts/systems/spawn_pyramid/commands.js",
+      "before_sha256": "2cd1d91bbb86125467f93b624bd0da6afb91537104349322756de27f2a2209f8",
+      "after_sha256": "e0d4bca95b34ec04624bc05c4848c9e2560a9eee224cb285617386a1b05150c2"
+    },
+    {
+      "path": ".minecraft/kubejs/server_scripts/systems/ftb_events/events/event_treasure_goblin.js",
+      "before_sha256": "ad4251be5a692867ba7487014a748e5e2cfca287212e58e7eae86b3380555170",
+      "after_sha256": "8af9c8be8a3540d75cc14de5ccdcdfada9241e6a1d3cbe96a7cf9255ea2b5a5d"
+    }
+  ]
+}

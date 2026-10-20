@@ -1,0 +1,26 @@
+{
+  "target_pack_version": "1.4.0",
+  "source_files_verified_against_target": 51,
+  "quest_keys": 4178,
+  "parser_jar": "ftb-library-neoforge-26.1.2.9.jar",
+  "parser_jar_sha256": "4b7108293d3a190b4a1e06055343143cfba740ca13b83794d9f8933c8de84851",
+  "fixed_segments": {
+    "chapters/gearing_up.json5": [
+      233,
+      347
+    ]
+  },
+  "fixed_keys": [
+    "quest.496903AB7E8A0A92.title",
+    "quest.496903AB7E8A0A92.quest_desc[0]"
+  ],
+  "invalid_plain_text_color_codes_after": 0,
+  "in_game_tested": false,
+  "release_check": "passed",
+  "installation_verified": true,
+  "installation_record": "dist/FTB-Evolution-2-1.4.0-zh_CN-installation.json",
+  "project_check": {
+    "status": "passed",
+    "checks": 334
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "自定义模式",
+  "icon": "mffs:custom_mode",
+  "category": "mffs:projector_modes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:custom_mode",
+      "link_recipe": true,
+      "text": "$(2)自定义模式$()是所有模式中最灵活的, 它允许投射任意形状或结构的力场.用户定义的方块图案被$(2)自定义模式$()物品分析并存储后, 投射器就能生成与原样$(9)完全一致$()的力场.如此一来, 力场可以被搭成$(9)任何能建造的东西$() - 一座桥, 一栋房, 甚至一整座堡垒!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:custom_mode",
+      "text": "合成$(2)自定义模式$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "用法",
+      "text": "手持$(2)自定义模式$()物品, 对世界中的两个方块使用.这两个 (主与次) 方块将界定一个$(2)自定义模式$()可以分析的 3D 空间.每点击一个方块, 其世界坐标会存为\"主坐标\"与\"次坐标\".潜行使用即可指示$(2)自定义模式$()分析并保存两点之间的所有方块."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "当投射器检测到$(2)自定义模式$()物品被放入正确槽位时, 其上方会持续出现随机全息图, 表示该力场图案与任何已知模式形状都不匹配 (这是特性, 不是错误).如有需要, 可以把$(l:mffs:projector_modules/translation_module)$(5)平移模块$()放入标有方向箭头的物品槽, 指定力场相对投射器的出现位置."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "力场调整",
+      "text": "与其他投射模式一样, $(2)自定义模式$()力场可以用$(l:mffs:projector_modules/rotation_module)$(5)旋转模块$()和$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()分别进行旋转与缩放."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/custom_mode.png"
+      ],
+      "border": true,
+      "title": "投射展示",
+      "text": "$(2)自定义模式$()力场的投射效果."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/custom_mode_camo.png"
+      ],
+      "border": true,
+      "title": "投射展示",
+      "text": "应用$(l:mffs:projector_modules/camouflage_module)$(5)伪装模块$()后的$(2)自定义模式$()力场投射效果."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "153",
+  "namespace": "animalgarden_crocodile",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "80c64ae3c1dd6cd5eeb6df2b010a02c89cadebb35b665f97607aa247dba55af3",
+  "in_game_tested": false
+}

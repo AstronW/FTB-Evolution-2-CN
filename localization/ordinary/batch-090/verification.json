@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "090",
+  "namespace": "appflux",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "5e3ab2615ae212efa0aff673a19bb551b52336ad0a75c4accbeb7037d78942d8",
+  "in_game_tested": false
+}

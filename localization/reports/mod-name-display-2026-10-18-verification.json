@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "target_pack_version": "1.4.0",
+  "mappings_before": 33,
+  "added": 112,
+  "mappings_after": 145,
+  "deferred_candidates": 7,
+  "project_checks": 329,
+  "script_generation_check": "passed",
+  "source_evidence_check": "passed",
+  "runtime_simulation_check": "passed",
+  "release_pack_check": "passed",
+  "installed_script_sha256": "a33dee5c4ff41005e8746bd9b48d6a6e49d05aef1f1893eacb08d5733265e5a8",
+  "installation_backup": "/home/astronw/.ftba/instances/ftb evolution 2/.cn-backup-20261018-170122",
+  "in_game_tested": false,
+  "latest_user_resolution": {
+    "all_seven_resolved": true,
+    "mappings": 151,
+    "retained_english": [
+      "Auth Me"
+    ],
+    "quartz_arsenal_label_overrides": 6,
+    "project_checks": 330,
+    "status": "passed",
+    "installation_backup": "/home/astronw/.ftba/instances/ftb evolution 2/.cn-backup-20261018-170828",
+    "in_game_tested": false,
+    "quartz_arsenal": "无线合成"
+  },
+  "latest_quartz_correction": {
+    "status": "passed",
+    "name": "精致存储 - 无线合成",
+    "language_keys": 6,
+    "checks": [
+      "batch-315 build/check",
+      "client source and generation checks",
+      "runtime mapping simulation",
+      "release build/check",
+      "installed file hashes"
+    ],
+    "in_game_tested": false
+  }
+}

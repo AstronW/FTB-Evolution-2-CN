@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "083",
+  "namespace": "belts",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 3,
+  "source_sha256": "d30440ecd604d0bbd7166e70d983b26a3d1468f8a9e6af61b43f7d917eba4b71",
+  "in_game_tested": false
+}

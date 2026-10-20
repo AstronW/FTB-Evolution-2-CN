@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "199",
+  "namespace": "trashcans",
+  "source_keys": 5,
+  "unique_values": 5,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 5,
+  "source_sha256": "ebbe0c4de427ed5037a6ce9ab75a6cde1e37bc8ab550d0d618cba6f3967a62c0",
+  "in_game_tested": false
+}

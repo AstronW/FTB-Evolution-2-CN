@@ -1,0 +1,21 @@
+{
+  "batch": "255",
+  "namespace": "creativecore",
+  "jar": ".minecraft/mods/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+  "language_path": "assets/creativecore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/creativecore/lang/zh_cn.json",
+  "include_keys": [
+    "gui.true",
+    "gui.false",
+    "gui.config.reset",
+    "gui.ingredient.latest",
+    "minecraft.blocks",
+    "minecraft.blocks.counting"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "true",
+    "false",
+    "r"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "035",
+  "namespace": "energymeter",
+  "source_keys": 42,
+  "unique_values": 41,
+  "chinese_values": 41,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 42,
+  "source_sha256": "9815529bf1415569c60e30c4b9be36214bbd8a8032a16718326e580f139a0e1c",
+  "in_game_tested": false
+}

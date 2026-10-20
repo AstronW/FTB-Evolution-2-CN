@@ -1,0 +1,22 @@
+{
+  "name": "炽足兽",
+  "icon": "minecraft:strider_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:strider",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:strider_food",
+      "text": "用诡异菌喂炽足兽进行繁殖, 增加围栏里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死炽足兽并掉落其战利品."
+    }
+  ]
+}

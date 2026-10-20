@@ -1,0 +1,21 @@
+{
+  "name": "发射器",
+  "icon": "minecraft:dispenser",
+  "category": "animal_pen:category_aviary",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "你可以通过发射器使用部分工具."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:shears",
+      "text": "可以对装着蜜蜂的围栏使用剪刀."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:glass_bottle",
+      "text": "可以对装着蜜蜂的围栏使用玻璃瓶."
+    }
+  ]
+}

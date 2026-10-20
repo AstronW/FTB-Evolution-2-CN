@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "223",
+  "namespace": "bettercaves",
+  "source_keys": 5,
+  "unique_values": 5,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 5,
+  "source_sha256": "3715545acd4a7a083ceeaa962128bf8f259fb31b811ef591976a7a1b8622f233",
+  "in_game_tested": false
+}

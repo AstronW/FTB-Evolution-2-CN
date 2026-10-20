@@ -1,0 +1,11 @@
+{
+  "2": "  title: 碳纤维护甲",
+  "13": "# <Color id=\"gold\">碳纤维护甲</Color>",
+  "26": "  ### <Color id=\"aqua\">碳纤维头盔</Color>",
+  "33": "  ### <Color id=\"aqua\">碳纤维胸甲</Color>",
+  "42": "  ### <Color id=\"aqua\">碳纤维护腿</Color>",
+  "49": "  ### <Color id=\"aqua\">碳纤维靴子</Color>",
+  "18": "  入门级动力护甲.每吸收一点伤害消耗<Energy config=\"equipment.armor_damage_energy\" />,而不是损失耐久.胸甲容量为 **<Energy config=\"equipment.carbon_armor_capacity\" />** .",
+  "36": "储存整套护甲所需的能量.",
+  "57": "未穿戴有电的对应胸甲时,其余部件不提供保护.电量不足时,只能吸收剩余电量足以抵消的伤害."
+}

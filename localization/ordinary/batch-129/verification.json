@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "129",
+  "namespace": "ae2netanalyser",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "0d3de4617d24f082e8e633e02e7884fea695449b3783d662cdc2dceb92bc4e5c",
+  "in_game_tested": false
+}

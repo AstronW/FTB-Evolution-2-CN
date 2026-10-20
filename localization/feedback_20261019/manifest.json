@@ -1,0 +1,299 @@
+{
+  "target_pack_version": "1.4.0",
+  "source_inputs": {
+    "mods/nodeworks-0.9.21.jar": "d47ddc9ec9041e4e476e779bc0769a33f2ba8c1588843018c880f30e5dcfd28b",
+    "mods/oracle_index-neoforge-2.0.0.jar": "2bb5a5e79e877c7032fa3c09f8dc2e32f00f3f6f9c447e941d0045ecbd6f978b",
+    "mods/kindredspirits-26.1.2-1.0.9.jar": "bfaad85e4d2fe2dbb4701722cdc291ea132590bf231e2b48f68b7d01f48d71bc",
+    "mods/patchouli-neoforge-26.1-94.jar": "00f9e611930614eacd565916c906a4341363e4a43e271c1a01bda8227707dd49",
+    "mods/guideme-26.1.15-beta.jar": "17acb84bff9320b237340b280415029ba950640895343fb2f9c35b7b4416e7d5",
+    "mods/ftb-industrial-contraptions-26.1.2.18.jar": "5f20175602302e51551d8c26d751c2cb9bbc68830c32a6301ab62eb388b9f3c9",
+    "mods/auroral-26.1.2-1.5.9.jar": "20f1f222137d2ea32b91b620abc3467a6d7039796bb6dec33f3e1afde041be51",
+    "mods/Powah-7.0.4-alpha.jar": "c91523449abef54d76f7f01ef6dd2b7ac7060524a49b524beb781617b7340fed",
+    "mods/justdynathings-2.0-alpha-build-13.jar": "7291a42d5e94c0495c1c9ec981a0d611cc1192e36d4574da658d4a052b59f0d9",
+    "config/ftbmaterials/unifier-db.json": "754fc9bcf63c1d2527cf8f37a176b51dd57c0a95e079f5cdb6f908397c390daf",
+    "kubejs/server_scripts/recipes/removals.js": "c82eb75a5d69764776a5503b1c432df88d58c400ef5171c494da4ee44327254a",
+    "mods/animal_pen-neoforge-26.1-2.5.1.jar": "7eb2272b515cf71c86057c11bc110f14043fbaca19c6cf4b03ff41e3e0da9f8c",
+    "mods/laserio-1.10.2.jar": "a23ede2b51180d9b19ee370ed4e0bece14dbc9a4c8055a6e2e6b77589b554e67",
+    "mods/justdirethings-1.6.11.jar": "27d26abcba9607b0c069de316541c781aebbbb167b1553aea6ca6934d3219436",
+    "mods/productivebees-26.1.2-15.3.0.jar": "d6e1582f76f5914f6cf5ff4abf7e90edbd4feaf3a751d0a333f6fcfcdf19df50",
+    "datapacks/ftb/data/justdynathings/recipe/blazegold_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6",
+    "datapacks/ftb/data/justdynathings/recipe/celestigem_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6",
+    "datapacks/ftb/data/justdynathings/recipe/eclipse_alloy_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6",
+    "datapacks/ftb/data/justdynathings/recipe/ferricore_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6"
+  },
+  "base_files": {
+    "assets/ftbic/ftbic/_zh_cn/machines/macerator.md": "f205448d39a2c28829037a93e02d46a6401b7efdfa2a94b90081a692c1936048",
+    "assets/ftbic/ftbic/_zh_cn/materials/alloys.md": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b",
+    "assets/ftbic/ftbic/_zh_cn/materials/dusts_and_shapes.md": "4f69dbab4ee52d40631cb04aee4d1d0fcf9e2ca45129562caf277ccfa71eaef7",
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/processors.md": "0c78d28ba31ad070df64250016d8c4c12eed4f4357f3c51e98585198e13b4710",
+    "assets/auroral/auroral/_zh_cn/flora/ender_bloom.md": "c9edc80c01607651cfd1a6ab50bcaeb15e3a3e1a64e033333c552566fe846fe8",
+    "assets/auroral/auroral/_zh_cn/food/roasted_snowball.md": "5ae5a3968e753fbf952739dacc53f0fcfde03782ada86abbfa91d7ead29c423a",
+    "assets/auroral/auroral/_zh_cn/shimmersteel/bow.md": "7af6982c2cd1284fb3c5aa7e5b3411594ab947f3e6e2a97c964051409df1576a",
+    "assets/auroral/auroral/_zh_cn/shimmersteel/spear.md": "0808c56daabceece63a353ca6548d1c7f8245cb67ec52b9097e6e0fc59fde95e"
+  },
+  "files": {
+    "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/processors.md": "c76b7013206beda524ae7cd3c5e31786104a06cfc2c37966041876c95d5073d6",
+    "assets/animal_pen/lang/zh_cn.json": "7187990be68d7f35ed262d9c96b727171fbbc9d22cd5b69f02cf11bba228e7ae",
+    "assets/auroral/auroral/_zh_cn/flora/ender_bloom.md": "5670d976af282f13daecb135c6f361c6bb63d43690fe2d3cc749027b69bc67d9",
+    "assets/auroral/auroral/_zh_cn/food/roasted_snowball.md": "156d7eb90ad648c3e8599e8e3481fa6dfa71ba246cd4002accff0ccaf56c37a5",
+    "assets/auroral/auroral/_zh_cn/shimmersteel/bow.md": "2fc7e08aae19ff6b5263603ee6edc3e97105f727791f10655c38e82f78696953",
+    "assets/auroral/auroral/_zh_cn/shimmersteel/spear.md": "0e88546e4860d2abfdece86d29c2081cc8bd2f1b860ccbe21e921638ffa4607e",
+    "assets/ftbic/ftbic/_zh_cn/machines/macerator.md": "896c8fb70f4d4663e504f7d82e0f82fc8d5908030c5c2e619e01537298bc924d",
+    "assets/ftbic/ftbic/_zh_cn/materials/alloys.md": "659ed818c6477f92bee0d0845e8759ced89efda90e3cd038da240e25ff16ffff",
+    "assets/ftbic/ftbic/_zh_cn/materials/dusts_and_shapes.md": "409d9d6bdc3198002bf8c2410081015eb9173791d97fae421714a65c373f74b9",
+    "assets/justdirethings/lang/zh_cn.json": "6e7f5b1b0bba82f45ed33fb495d00f4253712b69b64126046e4b034d442008b9",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/goo/energized.md": "57bad64bf606f75ef6ef15c7c6c2960be8f2966dad620a3292995609f83f758e",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/paradox_mixer.md": "8aaf81aa17d0ee3c3f6c0f888c71303c0c62ab1c068deed40e727d516f3bc2e8",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/reforger.md": "f3d534cb25bc5aeacd65023ec7fa70e8eb47c0d294470cb390085e1b6af0e158",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/thermogen.md": "131cf13e27f9a8902a3ef5bd697f79ac2d2eafb22a3d75cdfab7943719b425b3",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/ticker.md": "009466a582b399a82428bf4ec212bca9853da14115804aac07b8b38b6e81694b",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/blazegold.md": "a64338242907b130afaf25c431fbe22e21e10026d5e1461ecb3111319db7f0da",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/celestigem.md": "694c825e22ea32081b23f164711aba597399e735ee99d940cc74af5b818bf86c",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/eclipsealloy.md": "9e62fbf89046da1f3a545b5f5d938c7c9512c552bd6c498ef9c5e1edd0add256",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/ferricore.md": "f7781833f2b22052e8ede3ae024f8b9b7aebdfe6dea7bcedac0d7f7b30c2316a",
+    "assets/justdynathings/guides/justdynathings/guide/_zh_cn/wands/stupefy.md": "c13a922a8cac7d75fac05d7e0cd9b14ebefed91c90083c4f2ddfed3b6416a499",
+    "assets/laserio/lang/zh_cn.json": "c22881af93159490f094da1ed4627c0945b11e3487ea46543305493e31758804",
+    "assets/oracle_index/books/kindredspirits/translated/zh_cn/_meta.json": "c2555607deb7ae650836b9713e0153d116eae1c259405fb3f7578b9ea196682b",
+    "assets/oracle_index/books/kindredspirits/translated/zh_cn/spirits/_meta.json": "256f831302dc144ff42d393f714e771c1c4d362c99599391959aa6cb9149242a",
+    "assets/oracle_index/books/oracle-index/translated/zh_cn/_meta.json": "c3fcb78975c99bc75415cf068df136221afa6ba75dd50e14f59c28a2ebae6a4f",
+    "assets/oracle_index/books/oracle-index/translated/zh_cn/developer/_meta.json": "3d7be39580ea586ab9f93dc51a2574e5e9ae16e1e310bf9b8cbac9055fa71afb",
+    "assets/powah/guides/powah/book/_zh_cn/generators/reactor.md": "e8fe6cd8e91d0b49d6df5f400c7bab60ceaff02cac5645d7dd2ff8094c5f4323",
+    "assets/powah/guides/powah/book/_zh_cn/generators/thermo_generator.md": "af65f183bdb9eb50833f6d2d17f0b355827e9d14daba3d8942071aade80b7996",
+    "assets/powah/guides/powah/book/_zh_cn/items/binding_card_dim.md": "50944a1b8836e15fcf75f92ee38553dfc21e0c62cc0972d0fbb1313d133ccb77",
+    "assets/powah/guides/powah/book/_zh_cn/items/charged_snowball.md": "a3251adb402609419d5baaf0fbd2810fef9f216995e3dc86a0ff06dc525f03f9",
+    "assets/powah/guides/powah/book/_zh_cn/items/lens_of_ender.md": "4de21de5080ab3f133b1d40751e1d8645f2c747b24179f53981ecc4b9b62eae9",
+    "assets/powah/guides/powah/book/_zh_cn/items/player_aerial_pearl.md": "a0aa9d8124ce50cce794f87e20d3717156724fb347f70d0b04c68b375c99557b",
+    "assets/powah/guides/powah/book/_zh_cn/storage_transfer/energy_cell.md": "c4701304e5f1ae627c78575152a2f6a65d43a14391c76bf0c1e17ea161e8aabd",
+    "assets/productivebees/lang/zh_cn.json": "a62a04f4a309abef18b5650ab50be574efacedb13d609b7e6e1d7b1348ec702d"
+  },
+  "recipe_reference_changes": [
+    {
+      "page": "assets/ftbic/ftbic/_zh_cn/machines/macerator.md",
+      "tag": "RecipesFor",
+      "old": "ftbic:coal_dust",
+      "new": "ftbmaterials:coal_dust",
+      "origin": "manuals",
+      "base_sha256": "f205448d39a2c28829037a93e02d46a6401b7efdfa2a94b90081a692c1936048"
+    },
+    {
+      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
+      "tag": "RecipeFor",
+      "old": "ftbic:bronze_ingot",
+      "new": "ftbmaterials:bronze_ingot",
+      "origin": "manuals",
+      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
+    },
+    {
+      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
+      "tag": "RecipeFor",
+      "old": "ftbic:electrum_ingot",
+      "new": "ftbmaterials:electrum_ingot",
+      "origin": "manuals",
+      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
+    },
+    {
+      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
+      "tag": "RecipeFor",
+      "old": "ftbic:invar_ingot",
+      "new": "ftbmaterials:invar_ingot",
+      "origin": "manuals",
+      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
+    },
+    {
+      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
+      "tag": "RecipeFor",
+      "old": "ftbic:constantan_ingot",
+      "new": "ftbmaterials:constantan_ingot",
+      "origin": "manuals",
+      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
+    },
+    {
+      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
+      "tag": "RecipesFor",
+      "old": "ftbic:steel_ingot",
+      "new": "ftbmaterials:steel_ingot",
+      "origin": "manuals",
+      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
+    },
+    {
+      "page": "assets/ftbic/ftbic/_zh_cn/materials/dusts_and_shapes.md",
+      "tag": "RecipesFor",
+      "old": "ftbic:coal_dust",
+      "new": "ftbmaterials:coal_dust",
+      "origin": "manuals",
+      "base_sha256": "4f69dbab4ee52d40631cb04aee4d1d0fcf9e2ca45129562caf277ccfa71eaef7"
+    },
+    {
+      "page": "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/processors.md",
+      "tag": "RecipeFor",
+      "old": "ae2:silicon",
+      "new": "ftbmaterials:silicon_gem",
+      "origin": "cfpa_review",
+      "base_sha256": "0c78d28ba31ad070df64250016d8c4c12eed4f4357f3c51e98585198e13b4710"
+    }
+  ],
+  "component_corrections": [
+    {
+      "page": "assets/auroral/auroral/_zh_cn/flora/ender_bloom.md",
+      "old": "<RecipeFor id=\"ender_pearl_from_shards\" />",
+      "new": "<Recipe id=\"auroral:ender_pearl_from_shards\" />",
+      "reason": "RecipeFor expects an item ID; current JAR confirms this is a recipe ID.",
+      "classification": "wrong_component"
+    },
+    {
+      "page": "assets/auroral/auroral/_zh_cn/food/roasted_snowball.md",
+      "old": "<RecipeFor id=\"roasted_snowball_from_smelting\" />",
+      "new": "<Recipe id=\"auroral:roasted_snowball_from_smelting\" />",
+      "reason": "RecipeFor expects an item ID; current JAR confirms this is a recipe ID.",
+      "classification": "wrong_component"
+    },
+    {
+      "page": "assets/auroral/auroral/_zh_cn/shimmersteel/bow.md",
+      "old": "<RecipeFor id=\"shimmersteel_bow_smithing\" />",
+      "new": "<Recipe id=\"auroral:shimmersteel_bow_smithing\" />",
+      "reason": "RecipeFor expects an item ID; current JAR confirms this is a recipe ID.",
+      "classification": "wrong_component"
+    },
+    {
+      "page": "assets/auroral/auroral/_zh_cn/shimmersteel/spear.md",
+      "old": "<RecipeFor id=\"shimmer_spear_smithing\" />",
+      "new": "<Recipe id=\"auroral:shimmer_spear_smithing\" />",
+      "reason": "RecipeFor expects an item ID; current JAR confirms this is a recipe ID.",
+      "classification": "wrong_component"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/goo/energized.md",
+      "old": "<RecipeFor id=\"justdynathings:energized_goo\" />",
+      "new": "<RecipeFor id=\"justdynathings:energized_goo\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+      "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+      "classification": "upstream_missing_recipe"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/paradox_mixer.md",
+      "old": "<Recipe id=\"justdynathings:paradox_mixer\" />",
+      "new": "<Recipe id=\"justdynathings:paradox_mixer\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+      "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+      "classification": "upstream_missing_recipe"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/reforger.md",
+      "old": "<Recipe id=\"justdynathings:reforger\" />",
+      "new": "<Recipe id=\"justdynathings:reforger\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+      "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+      "classification": "upstream_missing_recipe"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/thermogen.md",
+      "old": "<Recipe id=\"justdynathings:thermo_generator\" />",
+      "new": "<Recipe id=\"justdynathings:thermo_generator\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+      "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+      "classification": "upstream_missing_recipe"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/ticker.md",
+      "old": "<Recipe id=\"justdynathings:ticker\" />",
+      "new": "<Recipe id=\"justdynathings:ticker\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+      "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+      "classification": "upstream_missing_recipe"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/blazegold.md",
+      "old": "<Recipe id=\"justdynathings:blazegold_solar_panel\" />",
+      "new": "<Recipe id=\"justdynathings:blazegold_solar_panel\" fallbackText=\"本整合包禁用了此太阳能板的制作配方.\" />",
+      "reason": "Pack datapack overrides this exact recipe with neoforge:never.",
+      "classification": "pack_disabled"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/celestigem.md",
+      "old": "<Recipe id=\"justdynathings:celestigem_solar_panel\" />",
+      "new": "<Recipe id=\"justdynathings:celestigem_solar_panel\" fallbackText=\"本整合包禁用了此太阳能板的制作配方.\" />",
+      "reason": "Pack datapack overrides this exact recipe with neoforge:never.",
+      "classification": "pack_disabled"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/eclipsealloy.md",
+      "old": "<Recipe id=\"justdynathings:eclipse_alloy_solar_panel\" />",
+      "new": "<Recipe id=\"justdynathings:eclipse_alloy_solar_panel\" fallbackText=\"本整合包禁用了此太阳能板的制作配方.\" />",
+      "reason": "Pack datapack overrides this exact recipe with neoforge:never.",
+      "classification": "pack_disabled"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/solar_panels/ferricore.md",
+      "old": "<Recipe id=\"justdynathings:ferricore_solar_panel\" />",
+      "new": "<Recipe id=\"justdynathings:ferricore_solar_panel\" fallbackText=\"本整合包禁用了此太阳能板的制作配方.\" />",
+      "reason": "Pack datapack overrides this exact recipe with neoforge:never.",
+      "classification": "pack_disabled"
+    },
+    {
+      "page": "assets/justdynathings/guides/justdynathings/guide/_zh_cn/wands/stupefy.md",
+      "old": "<Recipe id=\"justdynathings:temporal_stupefy_wand\" />",
+      "new": "<Recipe id=\"justdynathings:temporal_stupefy_wand\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+      "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+      "classification": "upstream_missing_recipe"
+    },
+    {
+      "page": "assets/powah/guides/powah/book/_zh_cn/generators/reactor.md",
+      "old": "<RecipesFor id=\"powah:reactor_starter\" />",
+      "new": "<RecipesFor id=\"powah:reactor_starter\" fallbackText=\"本整合包移除了此等级的制作配方.\" />",
+      "reason": "Explicit removal in kubejs/server_scripts/recipes/removals.js; reactors start at hardened tier per quest book.",
+      "classification": "pack_disabled"
+    },
+    {
+      "page": "assets/powah/guides/powah/book/_zh_cn/generators/reactor.md",
+      "old": "<RecipesFor id=\"powah:reactor_basic\" />",
+      "new": "<RecipesFor id=\"powah:reactor_basic\" fallbackText=\"本整合包移除了此等级的制作配方.\" />",
+      "reason": "Explicit removal in kubejs/server_scripts/recipes/removals.js; reactors start at hardened tier per quest book.",
+      "classification": "pack_disabled"
+    },
+    {
+      "page": "assets/powah/guides/powah/book/_zh_cn/generators/thermo_generator.md",
+      "old": "<RecipesFor id=\"powah:thermo_generator_starter\" />",
+      "new": "<RecipesFor id=\"powah:thermo_generator_starter\" fallbackText=\"本整合包移除了此等级的制作配方.\" />",
+      "reason": "Explicit removal in kubejs/server_scripts/recipes/removals.js; reactors start at hardened tier per quest book.",
+      "classification": "pack_disabled"
+    },
+    {
+      "page": "assets/powah/guides/powah/book/_zh_cn/generators/thermo_generator.md",
+      "old": "<RecipesFor id=\"powah:thermo_generator_basic\" />",
+      "new": "<RecipesFor id=\"powah:thermo_generator_basic\" fallbackText=\"本整合包移除了此等级的制作配方.\" />",
+      "reason": "Explicit removal in kubejs/server_scripts/recipes/removals.js; reactors start at hardened tier per quest book.",
+      "classification": "pack_disabled"
+    },
+    {
+      "page": "assets/powah/guides/powah/book/_zh_cn/items/binding_card_dim.md",
+      "old": "<RecipesFor id=\"powah:binding_card_dim\" />",
+      "new": "<RecipesFor id=\"powah:binding_card_dim\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+      "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+      "classification": "upstream_missing_recipe"
+    },
+    {
+      "page": "assets/powah/guides/powah/book/_zh_cn/items/lens_of_ender.md",
+      "old": "<RecipesFor id=\"powah:lens_of_ender\" />",
+      "new": "<RecipesFor id=\"powah:lens_of_ender\" fallbackText=\"当前模组版本未提供此条目对应的制作配方.\" />",
+      "reason": "No producing recipe in current JAR or pack datapacks; upstream page retains this legacy lookup. No speculative replacement.",
+      "classification": "upstream_missing_recipe"
+    },
+    {
+      "page": "assets/powah/guides/powah/book/_zh_cn/items/player_aerial_pearl.md",
+      "old": "<RecipesFor id=\"powah:player_aerial_pearl\" />",
+      "new": "<RecipesFor id=\"powah:player_aerial_pearl\" fallbackText=\"对僵尸或尸壳使用天线珍珠即可获得, 无工作台配方.\" />",
+      "reason": "Current English source explicitly describes entity interaction acquisition; no current recipe.",
+      "classification": "interaction_acquisition"
+    },
+    {
+      "page": "assets/powah/guides/powah/book/_zh_cn/storage_transfer/energy_cell.md",
+      "old": "<RecipesFor id=\"powah:energy_cell_creative\" />",
+      "new": "<RecipesFor id=\"powah:energy_cell_creative\" fallbackText=\"创造模式物品, 无生存合成配方.\" />",
+      "reason": "Creative-only item; no current recipe result.",
+      "classification": "creative_only"
+    },
+    {
+      "page": "assets/powah/guides/powah/book/_zh_cn/items/charged_snowball.md",
+      "old": "<RecipesFor id=\"powah:charged_snowball\" />",
+      "new": "<RecipesFor id=\"powah:charged_snowball\" fallbackText=\"在充能台中为 1 个雪球提供 500,000 FE, 可得到 1 个带电雪球.\" />",
+      "classification": "renderer_not_registered",
+      "reason": "Current powah energizing/charged_snowball.json: snowball -> charged_snowball, 500000 FE. PowahTagCompiler only registers energy-stat tags, not energizing recipe renderers."
+    }
+  ],
+  "in_game_tested": false
+}

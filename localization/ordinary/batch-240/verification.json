@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "240",
+  "namespace": "sky_aesthetics",
+  "source_keys": 36,
+  "unique_values": 35,
+  "chinese_values": 35,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 36,
+  "source_sha256": "c6546e1051a567196643a27a7f0053b7d987aa984f35206daf1775a3edabaa2a",
+  "in_game_tested": false
+}

@@ -1,0 +1,37 @@
+{
+  "name": "强制推导机",
+  "icon": "mffs:coercion_deriver",
+  "category": "mffs:machines",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:coercion_deriver",
+      "link_recipe": true,
+      "text": "$(9)强制推导机$()是 MFFS 机器家族的一员.它主要用于把 FE 能量转化为其他 MFFS 机器运转所需的$(l:mffs:getting_started/fortron)福特龙$().$(9)强制推导机$()设计为与$(l:mffs:machines/fortron_capacitor)福特龙电容$()配合工作, 为其充入$(l:mffs:getting_started/fortron)福特龙$(), 再由电容把$(l:mffs:getting_started/fortron)福特龙$()分配给其他机器."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:coercion_deriver",
+      "text": "合成$(9)强制推导机$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "用法",
+      "text": "要生成$(l:mffs:getting_started/fortron)福特龙$(), 把$(9)强制推导机$()接入 FE 电源并用红石信号激活.通电并激活后, $(9)强制推导机$()会由红变蓝并开始生成$(l:mffs:getting_started/fortron)福特龙$().$(9)强制推导机$()可以通过把频率号设为与其他机器一致来链接$(l:mffs:machines/fortron_capacitor)福特龙电容$()等 MFFS 机器."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "方法有二:$(li)右键点击推导机, 在其界面中输入目标频率号$(li)手持频率卡对强制推导机潜行右击$(p)$(9)强制推导机$()生成$(l:mffs:getting_started/fortron)福特龙$()的能力可以用$(2)青金石$()或$(2)下界石英$()放大.把其中一种放入箭头旁的槽位即可, 这应能使$(l:mffs:getting_started/fortron)福特龙$()的产量提高约 20 倍."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "运作模式",
+      "text": "$(9)强制推导机$()有两种运作模式: 推导与整合.默认为推导 - 稳定地把输入的 FE 转化为$(l:mffs:getting_started/fortron)福特龙$().点击界面中央的$(2)推导$()切换按钮可切换到$(2)整合$()模式, 反之亦然.整合模式下, 推导机反向运作, 把可用的$(l:mffs:getting_started/fortron)福特龙$()转换回 FE."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "升级能力",
+      "text": "强制推导机可以加装多种模块以提升性能.$(li)$(l:mffs:upgrade_modules/speed_module)$(5)速度模块$(): 提高插入$(2)青金石$()或$(2)下界石英$()时获得的增益效果.$(li)$(l:mffs:upgrade_modules/capacity_module)$(5)容量模块$(): 提高推导机可存储的$(l:mffs:getting_started/fortron)福特龙$()量.$()"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "315",
+  "namespace": "refinedstorage_quartz_arsenal",
+  "source_keys": 6,
+  "unique_values": 2,
+  "chinese_values": 6,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 6,
+  "source_sha256": "83bb43ab5a611522ace3a4ac70f099a28c82b1a70fea3ab571dfffad84eb5f39",
+  "in_game_tested": false
+}

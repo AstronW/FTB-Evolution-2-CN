@@ -1,0 +1,13 @@
+{
+  "name": "鹦鹉",
+  "icon": "minecraft:parrot_spawn_egg",
+  "category": "animal_pen:category_aviary",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:parrot",
+      "scale": 1,
+      "text": "鹦鹉仅作装饰."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "030",
+  "namespace": "auroral",
+  "source_keys": 160,
+  "unique_values": 152,
+  "chinese_values": 159,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 160,
+  "source_sha256": "5ee8e7b99ecb0a50a5e6c501d52ad4950695c5f9c8781e1bff1b32a4f3c36835",
+  "in_game_tested": false
+}

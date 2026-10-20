@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "219",
+  "namespace": "underwater_village",
+  "source_keys": 10,
+  "unique_values": 8,
+  "chinese_values": 10,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 10,
+  "source_sha256": "381ac5e031739d1d2fdb33bc3d1a8fefbdea27811c31518f16b62e61f1072142",
+  "in_game_tested": false
+}

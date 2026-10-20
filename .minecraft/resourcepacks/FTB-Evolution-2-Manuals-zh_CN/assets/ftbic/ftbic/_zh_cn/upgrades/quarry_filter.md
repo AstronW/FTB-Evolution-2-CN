@@ -1,0 +1,23 @@
+---
+navigation:
+  title: 采石场过滤
+  icon: ftbic:quarry_filter_upgrade
+  parent: upgrades/index.md
+  position: 6
+item_ids:
+  - ftbic:quarry_filter_upgrade
+---
+
+# <Color id="gold">采石场过滤升级</Color>
+
+<Column alignItems="center" fullWidth={true}>
+  <ItemImage id="quarry_filter_upgrade" scale="2" />
+
+  让<ItemLink id="quarry" />只开采选定方块,将不需要的方块留在世界中.
+</Column>
+
+<RecipeFor id="quarry_filter_upgrade" />
+
+在采石场升级槽安装 **一个** .点击采石场界面旁的 **F** 按钮选择方块样本或方块标签,并设置白名单或黑名单,也可启用仅矿石模式.可从JEI拖入方块物品作为样本,或拿着方块点击样本槽.输入方块标签后按Enter确认.
+
+仅矿石模式使用`#c:ores`.跳过的方块不消耗开采能量.配置卡可以将过滤设置复制到另一台采石场.详见<ItemLink id="quarry" />页面.

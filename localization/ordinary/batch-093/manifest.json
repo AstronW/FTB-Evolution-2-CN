@@ -1,0 +1,12 @@
+{
+  "batch": "093",
+  "namespace": "dimenergy",
+  "jar": ".minecraft/mods/dimenergy-26.1.2-1.0.1.jar",
+  "language_path": "assets/dimenergy/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/dimenergy/lang/zh_cn.json",
+  "include_keys": [
+    "block.dimenergy.dimensional_energy"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

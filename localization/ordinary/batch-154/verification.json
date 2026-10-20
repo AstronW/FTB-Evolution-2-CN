@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "154",
+  "namespace": "animalgarden_seaotter",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "f86b38888036ce746234ca9215244ceecfa5418f1e5c66f43268ccc408ea9822",
+  "in_game_tested": false
+}

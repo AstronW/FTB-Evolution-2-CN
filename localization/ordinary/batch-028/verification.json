@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "028",
+  "namespace": "retrofactorymanager",
+  "source_keys": 148,
+  "unique_values": 146,
+  "chinese_values": 145,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 148,
+  "source_sha256": "0f020b4b5d9052d6c3fd9b766bbd5be41ab7aad3469f06144c3fa45f7a9c723c",
+  "in_game_tested": false
+}

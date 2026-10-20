@@ -1,0 +1,16 @@
+{
+  "gui.authme.error.notPurchased": "该账号尚未购买 Minecraft!",
+  "gui.authme.method.button.microsoft.selectAccount": "Ctrl + 点击以选择账号",
+  "gui.authme.method.button.mojang.unavailable": "不可用, 点击了解更多",
+  "gui.authme.microsoft.warning.title": "警告!Microsoft 认证使用了非默认选项",
+  "gui.authme.microsoft.warning.body": "如果这不是你做的更改, 你的账号令牌可能会泄露.仍要继续吗?",
+  "gui.authme.microsoft.warning.accept": "我知道自己在做什么",
+  "gui.authme.microsoft.warning.cancel": "返回安全设置",
+  "text.rconfig.authme.description": "在 Minecraft 中完成认证并重新验证你的会话",
+  "text.rconfig.authme.option.authButton.description": "控制多人游戏界面中认证按钮的行为",
+  "text.rconfig.authme.option.methods.description": "控制可用登录方式的行为",
+  "text.rconfig.authme.option.methods.microsoft": "Microsoft",
+  "text.rconfig.authme.option.methods.microsoft.description": "控制 Microsoft 登录方式的行为",
+  "text.rconfig.authme.option.methods.offline": "离线",
+  "text.rconfig.authme.option.methods.offline.description": "控制离线登录方式的行为"
+}

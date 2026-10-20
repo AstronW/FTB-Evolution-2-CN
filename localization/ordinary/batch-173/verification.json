@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "173",
+  "namespace": "combat_roll",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "b3882ecdad2c29b3a977bcf4cf6c85e45c0cf4168f21dfda250c7e2d2e08257e",
+  "in_game_tested": false
+}

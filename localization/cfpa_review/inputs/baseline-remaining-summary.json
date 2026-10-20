@@ -1,0 +1,81 @@
+{
+  "ordinary": {
+    "existing_candidate_or_reviewed_english": 46420,
+    "source_matching_cfpa_candidates": 4609,
+    "source_matching_pr_candidates": 737,
+    "requires_mapping_review_or_repair": 689,
+    "no_chinese_candidate": 10030,
+    "distinct_no_candidate_english_within_namespace": 9450
+  },
+  "manual_keys": {
+    "existing_candidate_or_reviewed_english": 4982,
+    "source_matching_cfpa_candidates": 280,
+    "source_matching_pr_candidates": 910,
+    "requires_mapping_review_or_repair": 90,
+    "no_chinese_candidate": 1835,
+    "distinct_no_candidate_english_within_namespace": 1560
+  },
+  "group_labels": {
+    "source_matching_pr_candidates": 235,
+    "requires_mapping_review_or_repair": 5,
+    "no_chinese_candidate": 20
+  },
+  "manual_documents": {
+    "formats": [
+      {
+        "format": "Markdown/MDX",
+        "documents": 1054,
+        "units": 1054,
+        "uncovered_before_CFPA": 511,
+        "uncovered_before_CFPA_words": 134703,
+        "cfpa_exact_english_units": 74,
+        "cfpa_exact_english_words": 9947,
+        "cfpa_changed_english_units": 132,
+        "cfpa_changed_english_words": 31951,
+        "cfpa_no_english_source_units": 0,
+        "cfpa_no_english_source_words": 0,
+        "cfpa_none_units": 305,
+        "cfpa_none_words": 92805
+      },
+      {
+        "format": "Patchouli",
+        "documents": 607,
+        "units": 2311,
+        "uncovered_before_CFPA": 1065,
+        "uncovered_before_CFPA_words": 20104,
+        "cfpa_exact_english_units": 502,
+        "cfpa_exact_english_words": 11214,
+        "cfpa_changed_english_units": 6,
+        "cfpa_changed_english_words": 213,
+        "cfpa_no_english_source_units": 0,
+        "cfpa_no_english_source_words": 0,
+        "cfpa_none_units": 557,
+        "cfpa_none_words": 8677
+      },
+      {
+        "format": "Bestiary TXT",
+        "documents": 80,
+        "units": 80,
+        "uncovered_before_CFPA": 1,
+        "uncovered_before_CFPA_words": 3,
+        "cfpa_exact_english_units": 0,
+        "cfpa_exact_english_words": 0,
+        "cfpa_changed_english_units": 0,
+        "cfpa_changed_english_words": 0,
+        "cfpa_no_english_source_units": 0,
+        "cfpa_no_english_source_words": 0,
+        "cfpa_none_units": 1,
+        "cfpa_none_words": 3
+      }
+    ],
+    "remaining_words_after_exact_candidates": 133649,
+    "changed_source_words": 32164,
+    "no_candidate_words": 101485
+  },
+  "old_project_source_changed_keys": 16,
+  "project_manual_source_unchanged_pages": 164,
+  "no_candidate_language_keys_and_group_labels": 11885,
+  "source_matching_cfpa_and_pr_key_candidates": 6771,
+  "review_mapping_repair_key_candidates": 784,
+  "method_boundary": "Candidate inventory, not final semantic approval. Current local CFPA all versions, all current open PR changed-file lists, targeted historical closed-unmerged PRs. Exact key and English source matches remain subject to terminology, formatting, source-license and runtime checks. Unknown renamed namespaces/pages, hardcoded text, image text and all historical PRs are not exhaustive. Keys, pages and JSON fields are separate units, never added as pages. English word counts are approximate."
+}

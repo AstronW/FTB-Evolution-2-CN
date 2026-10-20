@@ -1,0 +1,27 @@
+{
+  "name": "发光模块",
+  "icon": "mffs:glow_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:glow_module",
+      "link_recipe": true,
+      "text": "$(5)发光模块$()可用于$(l:mffs:machines/projector)力场投射器$(), 照亮力场周围的区域.向投射器安装$(5)发光模块$()后, 力场会发光.加入的$(5)发光模块$()越多 (最多 64 个), 力场亮度越高 - 直至与萤石相当."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:glow_module",
+      "text": "合成$(5)发光模块$()."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/glow_module.png"
+      ],
+      "border": true,
+      "title": "投射展示",
+      "text": "力场投射器投射装有$(5)发光模块$()的力场."
+    }
+  ]
+}

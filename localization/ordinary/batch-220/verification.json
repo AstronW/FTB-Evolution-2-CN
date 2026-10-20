@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "220",
+  "namespace": "mes",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 5,
+  "installed_overlay_keys": 7,
+  "source_sha256": "83aac1ebbcdb4d143c83b131b85b03a03eb82bbda47f37ed70abb21f154a48a7",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "287",
+  "namespace": "volumetrics",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "730c8ac9beeb83fc57e81b679b8448975a01358c013983cea9be6b10e9a90675",
+  "in_game_tested": false
+}

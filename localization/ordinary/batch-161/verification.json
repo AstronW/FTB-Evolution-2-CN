@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "161",
+  "namespace": "apotheosis",
+  "source_keys": 46,
+  "unique_values": 40,
+  "chinese_values": 23,
+  "reviewed_non_prose_values": 23,
+  "installed_overlay_keys": 63,
+  "source_sha256": "a9a0fd0a271429168da992222721701114f1e5026646b307eb8dbbd63140a4ee",
+  "in_game_tested": false
+}

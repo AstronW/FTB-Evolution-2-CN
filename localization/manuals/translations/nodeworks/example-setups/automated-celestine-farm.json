@@ -1,0 +1,9 @@
+{
+  "4": "  title: 天青石农场",
+  "9": "# 天青石农场",
+  "11": "<ItemLink id=\"budding_celestine\" />可使用<ItemLink id=\"breaker\" />和<ItemLink id=\"terminal\" />轻松自动采收.",
+  "18": "也可选用聚焦节点将各部分相连.",
+  "25": "在破坏器界面中将红石模式设为低电平, 使其",
+  "26": "无需红石信号即可持续启用. 将各破坏器的目标设为<ItemLink id=\"celestine_cluster\" />.",
+  "28": "它们会破坏成熟天青石簇, 将产物送入[网络存储](../nodeworks-mechanics/network-storage.md)."
+}

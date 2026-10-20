@@ -1,0 +1,19 @@
+{
+  "2": "  title: FTB工业奇械",
+  "7": "# <Color id=\"gold\">FTB工业奇械</Color>",
+  "10": "  # <Color id=\"gold\">FTB工业奇械</Color>",
+  "21": "  ## <Color id=\"gold\">从这里开始</Color>",
+  "32": "  ## <Color id=\"gold\">目录</Color>",
+  "14": "  集发电,矿石加工,核工程和后期装备于一体的科技模组,以 **<EnergyUnit />** 为计量单位的独立电网为核心.",
+  "24": "* <ItemImage id=\"iron_furnace\" scale=\"0.75\"/> [入门指南](getting_started.md):第一块机器外壳,第一台发电机和第一条线缆",
+  "25": "* <ItemImage id=\"lv_cable\" scale=\"0.75\"/> [能源网络](energy/index.md):<EnergyUnit />,电压等级,布线和储能",
+  "26": "* <ItemImage id=\"basic_generator\" scale=\"0.75\"/> [发电机](generators/index.md):将燃料,热量,阳光和风能转化为<EnergyUnit />",
+  "39": "* <ItemImage id=\"advanced_alloy\" scale=\"0.75\"/> [材料](materials/index.md)",
+  "40": "* <ItemImage id=\"lv_cable\" scale=\"0.75\"/> [能源网络](energy/index.md)",
+  "41": "* <ItemImage id=\"basic_generator\" scale=\"0.75\"/> [发电机](generators/index.md)",
+  "42": "* <ItemImage id=\"macerator\" scale=\"0.75\"/> [机器](machines/index.md)",
+  "47": "* <ItemImage id=\"nuclear_reactor\" scale=\"0.75\"/> [核能](nuclear/index.md)",
+  "48": "* <ItemImage id=\"quantum_chestplate\" scale=\"0.75\"/> [动力护甲](armor/index.md)",
+  "49": "* <ItemImage id=\"overclocker_upgrade\" scale=\"0.75\"/> [升级](upgrades/index.md)",
+  "50": "* <ItemImage id=\"teleporter\" scale=\"0.75\"/> [实用设备](utilities/index.md)"
+}

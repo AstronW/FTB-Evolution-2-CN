@@ -1,0 +1,14 @@
+{
+  "batch": "090",
+  "namespace": "appflux",
+  "jar": ".minecraft/mods/AppliedFlux-26.1-1.0.2-neoforge.jar",
+  "language_path": "assets/appflux/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/appflux/lang/zh_cn.json",
+  "include_keys": [
+    "appflux.type.fe.name"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "FE"
+  ]
+}

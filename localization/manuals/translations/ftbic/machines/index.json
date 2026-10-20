@@ -1,0 +1,14 @@
+{
+  "2": "  title: 机器",
+  "7": "# <Color id=\"gold\">机器</Color>",
+  "19": "  ## <Color id=\"gold\">机器通用功能</Color>",
+  "36": "  ## <Color id=\"gold\">分节</Color>",
+  "12": "  FTB工业奇械的配方加工机器具有物品栏,配方处理循环,能量缓存及最多四个 **升级** 槽.高级版本的缓存更大,吞吐量更高.批次供料器等实用机器则有各自的控制方式.",
+  "22": "配方加工机器共有以下功能:",
+  "24": "* **能量缓存** :显示在界面右侧",
+  "25": "* **进度条** :随配方处理逐步填满,默认每配方200游戏刻",
+  "26": "* **升级槽** :可安装<ItemLink id=\"overclocker_upgrade\" />,<ItemLink id=\"energy_storage_upgrade\" />,<ItemLink id=\"transformer_upgrade\" />或<ItemLink id=\"ejector_upgrade\" />",
+  "27": "* **[侧面配置](side_configuration.md)** :通过I/O按钮分别设置物品,流体和能量的传输面",
+  "28": "* **[输入槽锁定](side_configuration.md)** :通过L按钮设置持久保存的虚拟物品过滤",
+  "30": "所有LV机器都以<ItemLink id=\"machine_block\" />为外壳,配合对应的核心原料(例如打粉机需要<ItemLink id=\"electronic_circuit\" />,燧石和石头)."
+}

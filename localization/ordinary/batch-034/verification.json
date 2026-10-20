@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "034",
+  "namespace": "drones",
+  "source_keys": 44,
+  "unique_values": 38,
+  "chinese_values": 44,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 45,
+  "source_sha256": "9a79de1e3c956641069904eb1209e1e5805bed59bbd2b8ed7e6ebd9b04c80e72",
+  "in_game_tested": false
+}

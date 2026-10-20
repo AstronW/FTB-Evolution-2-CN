@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "134",
+  "namespace": "ali",
+  "source_keys": 53,
+  "unique_values": 52,
+  "chinese_values": 44,
+  "reviewed_non_prose_values": 9,
+  "installed_overlay_keys": 53,
+  "source_sha256": "caad3e3d1be7f90b27d87583fe0fe7207dd34ebc1236ec3a158504e9c8c5244c",
+  "in_game_tested": false
+}

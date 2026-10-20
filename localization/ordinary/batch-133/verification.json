@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "133",
+  "namespace": "loot_journal",
+  "source_keys": 21,
+  "unique_values": 16,
+  "chinese_values": 18,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 21,
+  "source_sha256": "eceb3abeffc5fa17f1570c45c283f42e83d8e007e5e15ef9e9e44a244a00ffc8",
+  "in_game_tested": false
+}

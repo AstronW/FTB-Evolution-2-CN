@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "204",
+  "namespace": "crawl",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "88fb747a62780291cbbe0f50737c25195f7d444f9d310f6f008cfadbea200139",
+  "in_game_tested": false
+}

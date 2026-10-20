@@ -1,0 +1,118 @@
+{
+  "itemGroup.trainingdummy": {
+    "en": "Training Dummy",
+    "zh": "训练假人"
+  },
+  "item.trainingdummy.dummy_spawner": {
+    "en": "Training Dummy",
+    "zh": "训练假人"
+  },
+  "item.trainingdummy.dummy_spawner.tooltip.configure": {
+    "en": "Right-click with a Stick to open its inventory",
+    "zh": "手持木棍右键点击以打开其物品栏"
+  },
+  "item.trainingdummy.dummy_spawner.tooltip.remove": {
+    "en": "Hit with a Stick to remove it",
+    "zh": "用木棍敲击以移除"
+  },
+  "item.trainingdummy.dummy_spawner.tooltip.loaded": {
+    "en": "Remembers its name, health and gear",
+    "zh": "会记住名称, 生命与装备"
+  },
+  "item.trainingdummy.dummy_spawner.tooltip.holdCtrl": {
+    "en": "Hold Ctrl for customization details",
+    "zh": "按住 Ctrl 查看自定义详情"
+  },
+  "item.trainingdummy.dummy_spawner.tooltip.maxHealth": {
+    "en": "Max Health: %s",
+    "zh": "最大生命: %s"
+  },
+  "item.trainingdummy.dummy_spawner.tooltip.displayMetric": {
+    "en": "Damage Display: %s",
+    "zh": "伤害显示: %s"
+  },
+  "item.trainingdummy.dummy_spawner.tooltip.equipment": {
+    "en": "Equipment: %s",
+    "zh": "装备: %s"
+  },
+  "item.trainingdummy.dummy_spawner.tooltip.curios": {
+    "en": "Curios: %s",
+    "zh": "饰品: %s"
+  },
+  "item.trainingdummy.lure_bait": {
+    "en": "Lure Bait",
+    "zh": "诱饵"
+  },
+  "item.trainingdummy.lure_bait.tooltip": {
+    "en": "Hold in a dummy's main hand to lure nearby mobs into attacking it",
+    "zh": "放在假人主手中, 引诱附近生物攻击它"
+  },
+  "entity.trainingdummy.dummy": {
+    "en": "Training Dummy",
+    "zh": "训练假人"
+  },
+  "gui.trainingdummy.inventory": {
+    "en": "Inventory",
+    "zh": "物品栏"
+  },
+  "item.trainingdummy.scoreboard_dummy_spawner": {
+    "en": "Scoreboard Dummy",
+    "zh": "排行榜假人"
+  },
+  "item.trainingdummy.scoreboard_dummy.tooltip.configure": {
+    "en": "Right-click with a Stick to view the leaderboard",
+    "zh": "手持木棍右键点击以查看排行榜"
+  },
+  "item.trainingdummy.scoreboard_dummy.tooltip.remove": {
+    "en": "Hit with a Stick to remove it",
+    "zh": "用木棍敲击以移除"
+  },
+  "entity.trainingdummy.scoreboard_dummy": {
+    "en": "Scoreboard Dummy",
+    "zh": "排行榜假人"
+  },
+  "gui.trainingdummy.title": {
+    "en": "Biggest Hit Leaderboard",
+    "zh": "最高伤害排行榜"
+  },
+  "gui.trainingdummy.title.global": {
+    "en": "Global Leaderboard",
+    "zh": "全局排行榜"
+  },
+  "gui.trainingdummy.title.global.named": {
+    "en": "Global Leaderboard - %s",
+    "zh": "全局排行榜 - %s"
+  },
+  "gui.trainingdummy.title.local": {
+    "en": "Local Leaderboard (this server)",
+    "zh": "本地排行榜 (本服务器)"
+  },
+  "gui.trainingdummy.mode.global": {
+    "en": "Mode: Global",
+    "zh": "模式: 全局"
+  },
+  "gui.trainingdummy.mode.local": {
+    "en": "Mode: Local",
+    "zh": "模式: 本地"
+  },
+  "gui.trainingdummy.global_disabled.line1": {
+    "en": "The global leaderboard is disabled.",
+    "zh": "全局排行榜已关闭."
+  },
+  "gui.trainingdummy.global_disabled.line2": {
+    "en": "Set globalLeaderboardEnabled to true in the",
+    "zh": "在服务器配置中将 globalLeaderboardEnabled"
+  },
+  "gui.trainingdummy.global_disabled.line3": {
+    "en": "server config to turn it on.",
+    "zh": "设为 true 即可开启."
+  },
+  "gui.trainingdummy.empty": {
+    "en": "No records yet - be the first!",
+    "zh": "暂无记录 - 来当第一个吧!"
+  },
+  "gui.trainingdummy.entry": {
+    "en": "%s. %s - %s damage",
+    "zh": "%s. %s - %s 点伤害"
+  }
+}

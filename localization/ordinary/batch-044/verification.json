@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "044",
+  "namespace": "replication",
+  "source_keys": 12,
+  "unique_values": 11,
+  "chinese_values": 10,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 13,
+  "source_sha256": "c84cb1d21d5bc4a3587dc9ddd1b6052e409c2441d7da0736ff504156b0de8e3f",
+  "in_game_tested": false
+}

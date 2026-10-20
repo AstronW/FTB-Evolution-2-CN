@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "207",
+  "namespace": "trashslot",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "3195681aba176c2be2c84f1da6a4217e246fc3725fc67878e9566da9878d9e42",
+  "in_game_tested": false
+}

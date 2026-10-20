@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "196",
+  "namespace": "getittogetherdrops",
+  "source_keys": 6,
+  "unique_values": 6,
+  "chinese_values": 6,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 6,
+  "source_sha256": "261abd16e700885690e5a6703d703709f1b13d3d41f72f622b708bd01d7e004b",
+  "in_game_tested": false
+}

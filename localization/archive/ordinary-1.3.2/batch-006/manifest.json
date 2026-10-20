@@ -1,0 +1,26 @@
+{
+  "batch": "006",
+  "namespace": "stellaris",
+  "jar": ".minecraft/mods/stellaris-26.1.2-neoforge-2.0.7.jar",
+  "language_path": "assets/stellaris/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/stellaris/lang/zh_cn.json",
+  "context_overrides": {},
+  "unchanged_values": [
+    "Stellaris",
+    "AURA",
+    "42",
+    "- %s",
+    "%s / %smb",
+    "%s / %sFE",
+    "- %sx %s",
+    "%s : %s / %s",
+    "%s: 0 / %s",
+    "ID: %s",
+    "%s %s / %s mb",
+    "%s: ",
+    "%s%%",
+    "[%s] ",
+    "- %s (%s)",
+    "-----------------------"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "288",
+  "namespace": "anima",
+  "source_keys": 116,
+  "unique_values": 102,
+  "chinese_values": 116,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1296,
+  "source_sha256": "bb46902263d92c40cb672e0d1fbb086938f051288b940615481e6e42eecdc184",
+  "in_game_tested": false
+}

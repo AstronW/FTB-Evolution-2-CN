@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "175",
+  "namespace": "bhc",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "118fdf2ff34fd65d215dd64b09d65a1d52785b2a46f76f5003926b567c483ea2",
+  "in_game_tested": false
+}

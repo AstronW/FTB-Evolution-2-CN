@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "187",
+  "namespace": "authme",
+  "source_keys": 14,
+  "unique_values": 14,
+  "chinese_values": 13,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 14,
+  "source_sha256": "569da65f11f06b0ed718b95a807d1bbb5202acd1415895104236e00f65ab163b",
+  "in_game_tested": false
+}

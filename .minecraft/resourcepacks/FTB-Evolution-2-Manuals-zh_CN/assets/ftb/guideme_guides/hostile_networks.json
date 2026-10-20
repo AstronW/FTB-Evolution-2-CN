@@ -1,0 +1,14 @@
+{
+  "item_settings": {
+    "display_name": {
+      "translate": "guide.ftb.hostile_networks.name"
+    },
+    "tooltip_lines": [
+      {
+        "color": "dark_gray",
+        "translate": "guide.ftb.hostile_networks.tooltip"
+      }
+    ]
+  },
+  "default_language": "en_us"
+}

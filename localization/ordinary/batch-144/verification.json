@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "144",
+  "namespace": "productivebees",
+  "source_keys": 27,
+  "unique_values": 27,
+  "chinese_values": 26,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 29,
+  "source_sha256": "b82b2a38e78e3686dc05aa61ba7d315d6b5f1f6099c3520a18922a5b1a4fdc18",
+  "in_game_tested": false
+}

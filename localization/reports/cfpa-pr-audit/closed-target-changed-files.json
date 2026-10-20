@@ -1,0 +1,302 @@
+[
+  {
+    "number": 4077,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.18/assets/travelers-backpack/travelersbackpack/lang/en_us.json",
+          "projects/1.18/assets/travelers-backpack/travelersbackpack/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 5072,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": []
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 4177,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.16/assets/reliquary-v1-3/xreliquary/lang/en_us.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 4149,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.16/assets/reliquary-v1-3/xreliquary/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 4428,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.12.2/assets/ae2-fluid-crafting/ae2fc/lang/en_us.lang",
+          "projects/1.12.2/assets/ae2-fluid-crafting/ae2fc/lang/zh_cn.lang"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 2921,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.12.2/assets/applied-energistics-2/appliedenergistics2/lang/zh_cn.lang",
+          "projects/1.12.2/assets/ic2-classic/ic2/lang_ic2/zh_cn.properties"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 2305,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.18/assets/lazierae2/lazierae2/lang/en_us.json",
+          "projects/1.18/assets/lazierae2/lazierae2/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 1903,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.18/assets/applied-energistics-2/ae2/lang/zh_cn.json",
+          "projects/1.18/assets/applied-energistics-2/appliedenergistics2/lang/en_us.json",
+          "projects/1.18/assets/applied-energistics-2/appliedenergistics2/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 1930,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": []
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 6078,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/assets/create-aeronautics-ftb-chunks/1.21/create_aeronautics_ftb_chunks/lang/en_us.json",
+          "projects/assets/create-aeronautics-ftb-chunks/1.21/create_aeronautics_ftb_chunks/lang/zh_cn.json",
+          "projects/assets/integrated-crafting/1.21/integratedcrafting/lang/en_us.json",
+          "projects/assets/integrated-crafting/1.21/integratedcrafting/lang/zh_cn.json",
+          "projects/assets/integrated-terminals/1.21/integratedterminals/lang/en_us.json",
+          "projects/assets/integrated-terminals/1.21/integratedterminals/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 5122,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.21/assets/ftb-chunks-forge/ftbchunks/lang/en_us.json",
+          "projects/1.21/assets/ftb-chunks-forge/ftbchunks/lang/zh_cn.json",
+          "projects/1.21/assets/ftb-library-forge/ftblibrary/lang/en_us.json",
+          "projects/1.21/assets/ftb-library-forge/ftblibrary/lang/zh_cn.json",
+          "projects/1.21/assets/ftb-quests-forge/ftbquests/lang/en_us.json",
+          "projects/1.21/assets/ftb-quests-forge/ftbquests/lang/zh_cn.json",
+          "projects/1.21/assets/ftb-ultimine-forge/ftbultimine/lang/en_us.json",
+          "projects/1.21/assets/ftb-ultimine-forge/ftbultimine/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 4478,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.18/assets/ftb-essentials-forge/ftbessentials/lang/en_us.json",
+          "projects/1.18/assets/ftb-essentials-forge/ftbessentials/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 4192,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.18/assets/ftb-backups-2/ftbbackups/lang/en_us.json",
+          "projects/1.18/assets/ftb-backups-2/ftbbackups/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 2170,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.18/assets/ftb-industrial-contraptions-forge/ftbic/lang/en_us.json",
+          "projects/1.18/assets/ftb-industrial-contraptions-forge/ftbic/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 2754,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.18/assets/ftb-quests-forge/ftbquests/lang/en_us.json",
+          "projects/1.18/assets/ftb-quests-forge/ftbquests/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "number": 1189,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Action completed."
+        }
+      ],
+      "structuredContent": {
+        "filenames": [
+          "projects/1.16/assets/ftb-backups-forge/ftbbackups/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-backups/ftbbackups/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-chunks-forge/ftbchunks/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-chunks/ftbchunks/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-gui-library/ftbguilibrary/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-library-forge/ftbguilibrary/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-quests-forge/ftbquests/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-quests/ftbquests/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-teams-forge/ftbteams/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-teams/ftbteams/lang/zh_cn.json",
+          "projects/1.16/assets/ftb-ultimine/ftbultimine/lang/zh_cn.json"
+        ]
+      },
+      "isError": false
+    }
+  }
+]

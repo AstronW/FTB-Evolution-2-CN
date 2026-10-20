@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "036",
+  "namespace": "cabletiers",
+  "source_keys": 38,
+  "unique_values": 38,
+  "chinese_values": 38,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 38,
+  "source_sha256": "b92cf2e91ea301b330b36eb6b51268be55c9b0897f1e9f91fd336c6b37163ad6",
+  "in_game_tested": false
+}

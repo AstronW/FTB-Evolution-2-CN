@@ -1,0 +1,34 @@
+{
+  "gui.recursiveae2patternprovider.plan.hover_hint": {
+    "en": "Partial plan: hover missing items for help",
+    "zh": "不完整计划: 将鼠标悬停在缺少的物品上以查看帮助"
+  },
+  "gui.recursiveae2patternprovider.plan.source": {
+    "en": "Missing source in the selected recipe path",
+    "zh": "所选配方路径中缺少来源"
+  },
+  "gui.recursiveae2patternprovider.plan.produces": {
+    "en": "Used to make: %s",
+    "zh": "用于制作: %s"
+  },
+  "jei.category.recursiveae2patternprovider.recursive_pattern": {
+    "en": "Recursive Patterns",
+    "zh": "递归样板"
+  },
+  "gui.recursiveae2patternprovider.button.recursive_on": {
+    "en": "Recursive Pattern: ON",
+    "zh": "递归样板: 开"
+  },
+  "gui.recursiveae2patternprovider.button.recursive_off": {
+    "en": "Recursive Pattern: OFF",
+    "zh": "递归样板: 关"
+  },
+  "gui.recursiveae2patternprovider.button.recursive_desc_on": {
+    "en": "Automatic dependency pattern generation enabled",
+    "zh": "已启用自动依赖样板生成"
+  },
+  "gui.recursiveae2patternprovider.button.recursive_desc_off": {
+    "en": "Automatic dependency pattern generation disabled",
+    "zh": "已禁用自动依赖样板生成"
+  }
+}

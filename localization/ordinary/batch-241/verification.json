@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "241",
+  "namespace": "limacore",
+  "source_keys": 24,
+  "unique_values": 24,
+  "chinese_values": 24,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 24,
+  "source_sha256": "df2a963ed5c9c6032046b6cb8bc74e929a505751eb15e57429752ba17972cc1c",
+  "in_game_tested": false
+}

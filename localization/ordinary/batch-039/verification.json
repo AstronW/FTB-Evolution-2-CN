@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "039",
+  "namespace": "enderio",
+  "source_keys": 19,
+  "unique_values": 19,
+  "chinese_values": 17,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 19,
+  "source_sha256": "f3214dfd1012f1ae07f10663d8f79db733160994f562c642b23d1246be5b6c0d",
+  "in_game_tested": false
+}

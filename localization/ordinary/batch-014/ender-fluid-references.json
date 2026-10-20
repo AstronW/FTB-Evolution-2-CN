@@ -1,0 +1,30 @@
+{
+  "data/hephaestus/recipe/smeltery/melting/misc/ender_from_eye.json": {
+    "type": "hephaestus:melting",
+    "fuel": {
+      "amount": 50,
+      "id": "minecraft:lava"
+    },
+    "ingredient": "minecraft:ender_eye",
+    "result": {
+      "amount": 90,
+      "id": "hephaestus:molten_ender"
+    },
+    "temperature": 1000,
+    "time": 100
+  },
+  "data/hephaestus/recipe/smeltery/melting/misc/ender_from_pearl.json": {
+    "type": "hephaestus:melting",
+    "fuel": {
+      "amount": 50,
+      "id": "minecraft:lava"
+    },
+    "ingredient": "minecraft:ender_pearl",
+    "result": {
+      "amount": 90,
+      "id": "hephaestus:molten_ender"
+    },
+    "temperature": 1000,
+    "time": 100
+  }
+}

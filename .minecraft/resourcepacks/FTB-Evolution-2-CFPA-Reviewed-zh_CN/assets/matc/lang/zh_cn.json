@@ -1,0 +1,9 @@
+{
+  "item.matc.imperium_crystal": "§9高级水晶",
+  "item.matc.inferium_crystal": "§e下级水晶",
+  "item.matc.prudentium_crystal": "§2初级水晶",
+  "item.matc.supremium_crystal": "§c终极水晶",
+  "item.matc.tertium_crystal": "§6中级水晶",
+  "itemGroup.matc": "神秘农业: 水晶拓展",
+  "matc.configuration.durability": "启用耐久"
+}

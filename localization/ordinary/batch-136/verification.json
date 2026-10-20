@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "136",
+  "namespace": "productivefarming",
+  "source_keys": 171,
+  "unique_values": 160,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 167,
+  "installed_overlay_keys": 171,
+  "source_sha256": "d4723619857a33f5db4833c7be5b9b8ef2458385c1a82cafb88266b1d2e2848e",
+  "in_game_tested": false
+}

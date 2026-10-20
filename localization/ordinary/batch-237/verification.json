@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "237",
+  "namespace": "crystalix",
+  "source_keys": 64,
+  "unique_values": 62,
+  "chinese_values": 61,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 64,
+  "source_sha256": "42f108ee22b6d889d925348d90750bea42222f3a08cb72a9cdee39a62893f96f",
+  "in_game_tested": false
+}

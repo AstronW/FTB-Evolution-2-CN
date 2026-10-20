@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "210",
+  "namespace": "justzoom",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "8527cf42fed88cd40ca9a23ee42d37957503d44437133b3deb55ac75dbf19d07",
+  "in_game_tested": false
+}

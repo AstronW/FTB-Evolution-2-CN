@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "179",
+  "namespace": "directorscamera",
+  "source_keys": 57,
+  "unique_values": 55,
+  "chinese_values": 56,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 57,
+  "source_sha256": "616b3e1b482efe29e31cd4b8e86a662dc47f25bd419bda697170466e9b5a9f03",
+  "in_game_tested": false
+}

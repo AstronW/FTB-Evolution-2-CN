@@ -1,0 +1,6 @@
+{
+  "block.weathergate.snow_catcher": "除雪器",
+  "block.weathergate.terrain_controller.no_data": "未找到数据!请替换方块后重试!",
+  "item.weathergate.snow_catcher": "除雪器",
+  "weathergate.sun_in_a_box.tooltip": "使太阳始终处于正午状态(仅客户端)"
+}

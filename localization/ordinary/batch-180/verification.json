@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "180",
+  "namespace": "weathergate",
+  "source_keys": 50,
+  "unique_values": 50,
+  "chinese_values": 50,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 52,
+  "source_sha256": "a2e1aa5971d69f21b5f488cc695e787e98251119bfefb3abfd701294dd8276f6",
+  "in_game_tested": false
+}

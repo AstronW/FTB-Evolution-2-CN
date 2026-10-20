@@ -1,0 +1,378 @@
+{
+  "source_version": "1.3.2",
+  "target_version": "1.4.0",
+  "changes": [
+    {
+      "file": "chapter.json5",
+      "key": "chapter.7E57EDCD326988B3.title",
+      "old": null,
+      "new": "Replication"
+    },
+    {
+      "file": "chapters/oritech.json5",
+      "key": "quest.2A0BE00CE5037684.quest_desc",
+      "old": [
+        "Two blocks make a Particle Accelerator easier to run.",
+        "",
+        "The &aAccelerator Magnetic Field&r helps particles through tight turns. Place it inside the ring, then link it with an &2Advanced Target Designator&r saved on the accelerator. Only one field per accelerator counts.",
+        "",
+        "The &aParticle Accelerator Speed Sensor&r gives a redstone signal once particles pass a speed you set, and links the same way. Accelerator Motors also take Speed and Efficiency addons placed underneath them."
+      ],
+      "new": [
+        "Two blocks make a Particle Accelerator easier to run.",
+        "",
+        "The &aAccelerator Magnetic Field&r helps particles through tight turns. Place it inside the ring, then link it with an &2Advanced Target Designator&r saved on the accelerator. Only one field per accelerator counts.",
+        "",
+        "The &aParticle Accelerator Speed Sensor&r gives a redstone signal once particles pass a speed you set, and links the same way. Accelerator Motors also take Speed and Efficiency addons placed underneath them.",
+        "",
+        "&eNote&r: In this version the Magnetic Field does not help particles through turns, and the Speed Sensor gives no signal. This is a bug in the mod, so hold off on building them until an update fixes it."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.3857D3E57687D6D6.title",
+      "old": null,
+      "new": "&bInfinite Mode"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.565BD760506A6925.quest_desc",
+      "old": null,
+      "new": [
+        "Matter has to come from somewhere.",
+        "",
+        "Build a &aDisintegrator&r. It breaks any item with a matter value into matter, and the pipes carry that matter to your &2Matter Tanks&r.",
+        "",
+        "An item's tooltip shows its matter values. Plentiful items such as cobblestone, dirt and logs are the easiest way to fill your tanks."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.6FE443A5BA6370F0.quest_desc",
+      "old": null,
+      "new": [
+        "Replication machines do nothing on their own. They share power and matter through one network.",
+        "",
+        "Craft &aMatter Network Pipes&r and run them between your machines. Pipes carry power the same way a power cable does, so connect a generator or cable to any pipe and the network gets power.",
+        "",
+        "Each machine has to touch a pipe to join the network."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.68D8E953D622182C.title",
+      "old": null,
+      "new": "&aReplicator"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.29EC17CFDF5DD983.title",
+      "old": null,
+      "new": "Keeping &aMatter"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.29EC17CFDF5DD983.quest_desc",
+      "old": null,
+      "new": [
+        "A &2Disintegrator&r only holds a small amount of matter itself.",
+        "",
+        "Craft a &aMatter Tank&r and connect it to the network. Each tank holds 256,000 of one matter type, and Replicators draw from every tank on the network.",
+        "",
+        "&eNote&r: There are eight matter types, so a busy network will need several tanks. A tank can be locked to one type, given a priority, or set to void its excess."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.2509B9DB101B95CC.quest_desc",
+      "old": null,
+      "new": [
+        "A pattern on a chip in your inventory is no use to the network.",
+        "",
+        "Craft a &aChip Storage&r and connect it to the network, then put your &2Memory Chip&r in it. It holds 8 chips, and each chip holds 16 patterns."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.210570C85B4ADB84.title",
+      "old": null,
+      "new": "&bThe MatterOpedia"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.79D22A719DDB3E61.quest_desc",
+      "old": null,
+      "new": [
+        "This pack limits Replication to basic materials and the things crafted or smelted from them.",
+        "",
+        "That covers vanilla ingots, gems, quartz, prismarine, redstone, stone, wood, crops and mob drops, plus silicon, plastics and breeze rods."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.565BD760506A6925.title",
+      "old": null,
+      "new": "Breaking It &aDown"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.0AF48313E70D2BAB.title",
+      "old": null,
+      "new": "&6Copy That"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.3857D3E57687D6D6.quest_desc",
+      "old": null,
+      "new": [
+        "A Replicator can run in Infinite Mode, which you turn on from the Replicator's own screen.",
+        "",
+        "In Infinite Mode it keeps making the same item until it is full or the matter runs out, which suits bulk items you always need more of."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.202C04935B832587.title",
+      "old": null,
+      "new": "&bEight Kinds of Matter"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.210570C85B4ADB84.quest_desc",
+      "old": null,
+      "new": [
+        "The MatterOpedia lists every item's matter values, and you can search it. Open it with the button left of the Replication Terminal's search bar.",
+        "",
+        "Search for a type by name, or filter by amount with earth>10, nether=20 or quantum<6.",
+        "",
+        "An exclamation mark before a type hides items that carry it, and an asterisk shows items that carry only that type (!earth, *metallic)."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.6EB34D22191B3CD2.quest_desc",
+      "old": null,
+      "new": [
+        "A Replicator can be pushed a little harder.",
+        "",
+        "Craft a &aReplicator Enclosure&r and Sneak + Right-click a Replicator with it. The Replicator works 20% faster and uses 10% more power."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.68D8E953D622182C.quest_desc",
+      "old": null,
+      "new": [
+        "With matter in the tanks and patterns in storage, the network can build things.",
+        "",
+        "Build a &aReplicator&r and connect it to the network. It builds items from the matter in your tanks, and in this pack it uses 240 FE/t while it works."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.0E083BA63C24EF7F.quest_desc",
+      "old": null,
+      "new": [
+        "The network can only copy an item it has a pattern for.",
+        "",
+        "Build an &aIdentification Chamber&r. It scans an item and writes the pattern to a &2Memory Chip&r. Slow Mode only uses up the item when the scan reaches 100%, while Fast Mode is much quicker but can use up an item on each pass.",
+        "",
+        "&eNote&r: Place a &2Chip Storage&r directly on top of the chamber and new patterns go straight into it, with no chip needed in the chamber."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.0AF48313E70D2BAB.quest_subtitle",
+      "old": null,
+      "new": "Your first working network"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.2509B9DB101B95CC.title",
+      "old": null,
+      "new": "Pattern &aLibrary"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.0E083BA63C24EF7F.title",
+      "old": null,
+      "new": "Scan and &aLearn"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.6FE443A5BA6370F0.title",
+      "old": null,
+      "new": "Laying the &aNetwork"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.134EFEDDD83B24B0.title",
+      "old": null,
+      "new": "&bDigging for Replica"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.1598E1B720D0EFC5.quest_desc",
+      "old": null,
+      "new": [
+        "&2Raw Replica&r smelts into the metal every Replication machine is made from.",
+        "",
+        "Smelt &aReplica Ingots&r in a furnace or blast furnace. Every machine, pipe and chip in this chapter uses them, and the Disintegrator alone takes 13 counting the two &2Matter Tanks&r in its recipe."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.0898A63F00AC7E38.title",
+      "old": null,
+      "new": "&dFull Throttle"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.202C04935B832587.quest_desc",
+      "old": null,
+      "new": [
+        "Every item breaks down into a mix of eight matter types: Earth, Organic, Metallic, Precious, Living, Nether, Ender and Quantum.",
+        "",
+        "A Replicator uses every type in an item's value, so keep tanks of each type the items you copy need.",
+        "",
+        "Search the MatterOpedia in the Replication Terminal for a type to find cheap items that carry it."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.0AF48313E70D2BAB.quest_desc",
+      "old": null,
+      "new": [
+        "Everything is connected. Now ask the network for something.",
+        "",
+        "Build a &aReplication Terminal&r and connect it to the network. Pick a pattern, set an amount and press Replicate, and the Replicators build the item and send it back to the terminal.",
+        "",
+        "Try it on something cheap first, such as cobblestone, to check that the tanks, pipes and power all work."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.6EB34D22191B3CD2.title",
+      "old": null,
+      "new": "&aReplicator Enclosure"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.79D22A719DDB3E61.title",
+      "old": null,
+      "new": "&bWhat Can Be Copied"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.6867FE9E6EE4E60A.quest_desc",
+      "old": null,
+      "new": [
+        "One Replication upgrade cannot be crafted directly.",
+        "",
+        "Craft a &aMatter Blueprint&r, which holds the pattern for the &2Replicator Motor&r. Sneak + Right-click a Chip Storage with it to add that pattern to the network."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.095B11E487F642F2.title",
+      "old": null,
+      "new": "&dReplication"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.0898A63F00AC7E38.quest_desc",
+      "old": null,
+      "new": [
+        "With the motor's pattern stored, the network can build one.",
+        "",
+        "Replicate a &aReplicator Motor&r from the Terminal, then Sneak + Right-click a Replicator with it. It adds a speed setting, where 100% is normal speed and 20% is the fastest.",
+        "",
+        "&eNote&r: The faster it runs, the higher the chance a print fails. A failed print runs again without using more matter."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.095B11E487F642F2.quest_desc",
+      "old": null,
+      "new": [
+        "&eReplication&r ptinyd items out of raw matter. Break cheap items down, scan the ones you want, and the network can print copies on request.",
+        "",
+        "Everything here is made from one ore that only generates in the &6Mining Dimension&r. Finish the &bMining Dimension&r quest in &6Generating Resources&r and build a &aMining Portal&r before you start.",
+        "",
+        "&eNote&r: In this pack Replication only copies basic materials. Read the What Can Be Copied quest before you plan around an item."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.1598E1B720D0EFC5.title",
+      "old": null,
+      "new": "&aReplica Ingots"
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.134EFEDDD83B24B0.quest_desc",
+      "old": null,
+      "new": [
+        "Replica Ore does not generate in the Overworld or any other dimension. It only forms naturally in the deepslate layer of the &6Mining Dimension&r.",
+        "",
+        "Mine &aRaw Replica&r from &2Deepslate Replica Ore&r with an iron pickaxe or better. Veins get more common the deeper you dig, and the most are around Y -63.",
+        "",
+        "A first network takes around 45 ingots, so bring back more than you think you need.",
+        "",
+        "&eNote&r: Later on, Replica also comes from Occultism miners of Afrit tier and above, NauTec's &2Replicophiles&r bacteria and the Asteroid planet of the Interdimensional Laser."
+      ]
+    },
+    {
+      "file": "chapters/replication.json5",
+      "key": "quest.6867FE9E6EE4E60A.title",
+      "old": null,
+      "new": "&aMatter Blueprint"
+    },
+    {
+      "file": "chapters/witchery.json5",
+      "key": "quest.4DC258DC240CB01A.quest_desc",
+      "old": null,
+      "new": [
+        "&bCoven Witches&r are the witches who join your coven. Each one you recruit with a signed &aCoven Contract&r counts toward the bigger rites.",
+        "",
+        "A coven rite counts the coven witches within 16 blocks of the &6Golden Ritual Chalk&r. If you carry a &aSeer Stone&r, any recruited witches who are missing are called to the circle.",
+        "{@pagebreak}",
+        " Coven huts are rare, so the &bSummon Coven Witch&r rite makes one instead. It needs an ordinary witch as a sacrifice, and &bSummon Witch&r ritual can easily bring a witch to you.",
+        "",
+        "&cUse a blank contract.&r The rite eats the one you put in, and losing the signed one disbands your coven."
+      ]
+    },
+    {
+      "file": "chapters/witchery.json5",
+      "key": "quest.4DC258DC240CB01A.title",
+      "old": null,
+      "new": "The Coven"
+    }
+  ],
+  "removed": [
+    {
+      "file": "chapters/gearing_up.json5",
+      "key": "quest.315810E48F0849F5.quest_desc",
+      "old": [
+        "&bPower Armor&r is a powered four-piece set that you build up rather than enchant.",
+        "",
+        "The &aCompressor&r presses ingots into plates, but it does not make &2Copper Wire&r. In this pack the wire comes from an Energized Power &aCutter&r, a hand tool, used on Copper Plates. Then take the finished pieces to the &aArmor Modification Table&r and start fitting modules.",
+        "{@pagebreak}",
+        "What you can slot in:",
+        "- &aEnergy&r and &2Solar&r keep the suit charged.",
+        "- &2Jetpack&r gets you off the ground.",
+        "- &aSpeed&r moves you faster.",
+        "- &2Plating&r soaks more damage.",
+        "- &aNight Vision&r lights up the dark.",
+        "- &2Laser&r gives the suit a weapon.",
+        "",
+        "A Battery in the suit is what everything else runs on. Fit Solar early and you'll rarely have to think about charging it again."
+      ]
+    },
+    {
+      "file": "chapters/gearing_up.json5",
+      "key": "quest.315810E48F0849F5.title",
+      "old": "&bPower Armor"
+    }
+  ]
+}

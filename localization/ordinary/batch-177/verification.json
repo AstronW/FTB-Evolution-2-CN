@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "177",
+  "namespace": "easy_npc",
+  "source_keys": 79,
+  "unique_values": 78,
+  "chinese_values": 75,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 80,
+  "source_sha256": "44c57ac604617e51739ef201bef63bc38039b6a950453b691b90a8151d937fd4",
+  "in_game_tested": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "合成",
+  "icon": "minecraft:crafting_table",
+  "category": "animal_pen:category_aquarium",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "水族箱的合成材料很简单: 玻璃, 一桶水和石头."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "animal_pen:aquarium_block"
+    }
+  ]
+}

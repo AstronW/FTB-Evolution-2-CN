@@ -1,0 +1,34 @@
+{
+  "batch": "001",
+  "namespace": "colossal_reactors",
+  "jar": ".minecraft/mods/colossal_reactors-2.4.1.0.0-neoforge-26.1.2.jar",
+  "language_path": "assets/colossal_reactors/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/colossal_reactors/lang/zh_cn.json",
+  "preserve_existing": true,
+  "context_overrides": {
+    "gui.colossal_reactors.turbine_builder.calculate.rods": "转轴: %s",
+    "gui.colossal_reactors.turbine_builder.calculate.rods.label": "转轴:",
+    "gui.colossal_reactors.turbine_builder.calculate.rods.value": " %s"
+  },
+  "unchanged_values": [
+    "%s / %s RF",
+    "%s / %s mB",
+    " %s",
+    " %s RF/t",
+    " %s mB/t",
+    "%s / %s FE",
+    " %s mB (%s%%)",
+    "Shift: ±10",
+    "Alt/Ctrl: ±5",
+    "",
+    " %s mB",
+    "RF/mB:",
+    "D-U",
+    "U-D",
+    "N-S",
+    "S-N",
+    "E-W",
+    "W-E",
+    " %s / %s mB (%s%%)"
+  ]
+}

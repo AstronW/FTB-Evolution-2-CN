@@ -1,0 +1,66 @@
+{
+  "block.dimresources.deepslate_dimensional_ore": {
+    "en": "Deepslate Dimensional Ore",
+    "zh": "深层维度矿石"
+  },
+  "block.dimresources.dimensional_ore": {
+    "en": "Dimensional Ore",
+    "zh": "维度矿石"
+  },
+  "block.dimresources.dimensional_stone": {
+    "en": "Dimensional Stone",
+    "zh": "维度石"
+  },
+  "block.dimresources.dimensional_stone_brick_slab": {
+    "en": "Dimensional Stone Brick Slab",
+    "zh": "维度石砖台阶"
+  },
+  "block.dimresources.dimensional_stone_brick_stairs": {
+    "en": "Dimensional Stone Brick Stairs",
+    "zh": "维度石砖楼梯"
+  },
+  "block.dimresources.dimensional_stone_brick_wall": {
+    "en": "Dimensional Stone Brick Wall",
+    "zh": "维度石砖墙"
+  },
+  "block.dimresources.dimensional_stone_bricks": {
+    "en": "Dimensional Stone Bricks",
+    "zh": "维度石砖"
+  },
+  "block.dimresources.dimensional_stone_slab": {
+    "en": "Dimensional Stone Slab",
+    "zh": "维度石台阶"
+  },
+  "block.dimresources.dimensional_stone_stairs": {
+    "en": "Dimensional Stone Stairs",
+    "zh": "维度石楼梯"
+  },
+  "block.dimresources.dimensional_stone_wall": {
+    "en": "Dimensional Stone Wall",
+    "zh": "维度石墙"
+  },
+  "block.dimresources.laser": {
+    "en": "Interdimensional Laser",
+    "zh": "跨维度激光器"
+  },
+  "item.dimresources.dimensional_shard": {
+    "en": "Dimensional Shard",
+    "zh": "维度碎片"
+  },
+  "item.dimresources.planet_locator": {
+    "en": "Planet Locator",
+    "zh": "行星定位器"
+  },
+  "itemGroup.dimresources": {
+    "en": "Dimensional Resources",
+    "zh": "维度资源"
+  },
+  "jei.dimensionalresources.laser": {
+    "en": "Laser Mining",
+    "zh": "激光采矿"
+  },
+  "jei.dimresource.weight": {
+    "en": "Weight: %s%%",
+    "zh": "权重: %s%%"
+  }
+}

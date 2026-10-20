@@ -1,0 +1,15 @@
+{
+  "name": "大地之力",
+  "sortnum": 11,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:thermo_generator",
+  "flag": "!mod:justdynathings",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "热力发电机",
+      "recipe": "justdynathings:thermo_generator",
+      "text": "一种新式发电机, 依据热源方块与冷却流体产生 Forge 能量"
+    }
+  ]
+}

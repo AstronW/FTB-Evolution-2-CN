@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "225",
+  "namespace": "bettermineshafts",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 3,
+  "source_sha256": "06c2ca2bad41ca6022dab1441a188c1d4ae9c6cda631a1c75339b35c2b308b11",
+  "in_game_tested": false
+}

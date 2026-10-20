@@ -1,0 +1,1846 @@
+{
+  "bacteria.nautec.acaciophyles": {
+    "en": "Acaciophyles",
+    "zh": "金合欢嗜植菌"
+  },
+  "bacteria.nautec.acidophiles": {
+    "en": "Acidophiles",
+    "zh": "嗜酸菌"
+  },
+  "bacteria.nautec.adamantiophiles": {
+    "en": "Adamantiophiles",
+    "zh": "嗜Allthemodium菌"
+  },
+  "bacteria.nautec.adamantophiles": {
+    "en": "Adamantophiles",
+    "zh": "嗜金刚菌"
+  },
+  "bacteria.nautec.algaeformers": {
+    "en": "Algaeformers",
+    "zh": "成藻菌"
+  },
+  "bacteria.nautec.aluminophiles": {
+    "en": "Aluminophiles",
+    "zh": "嗜铝菌"
+  },
+  "bacteria.nautec.ambrophiles": {
+    "en": "Ambrophiles",
+    "zh": "嗜琥珀菌"
+  },
+  "bacteria.nautec.amethystobronzophiles": {
+    "en": "Amethystobronzophiles",
+    "zh": "嗜紫水晶青铜菌"
+  },
+  "bacteria.nautec.antimonophiles": {
+    "en": "Antimonophiles",
+    "zh": "嗜锑菌"
+  },
+  "bacteria.nautec.apatitophiles": {
+    "en": "Apatitophiles",
+    "zh": "嗜磷灰石菌"
+  },
+  "bacteria.nautec.argentophiles": {
+    "en": "Argentophiles",
+    "zh": "嗜银菌"
+  },
+  "bacteria.nautec.aurrophiles": {
+    "en": "Aurrophiles",
+    "zh": "嗜金菌"
+  },
+  "bacteria.nautec.azuritophiles": {
+    "en": "Azuritophiles",
+    "zh": "嗜青金菌"
+  },
+  "bacteria.nautec.bamboophages": {
+    "en": "Bamboophages",
+    "zh": "噬竹菌"
+  },
+  "bacteria.nautec.bauxitophiles": {
+    "en": "Bauxitophiles",
+    "zh": "嗜铝土菌"
+  },
+  "bacteria.nautec.beryllophiles": {
+    "en": "Beryllophiles",
+    "zh": "嗜铍菌"
+  },
+  "bacteria.nautec.beta_phylobacteria": {
+    "en": "Beta Phylobacteria",
+    "zh": "甜菜嗜植菌"
+  },
+  "bacteria.nautec.betulophiles": {
+    "en": "Betulophiles",
+    "zh": "嗜白桦菌"
+  },
+  "bacteria.nautec.bismuthophiles": {
+    "en": "Bismuthophiles",
+    "zh": "嗜铋菌"
+  },
+  "bacteria.nautec.blutonophiles": {
+    "en": "Blutonophiles",
+    "zh": "嗜Blutonium菌"
+  },
+  "bacteria.nautec.boreophiles": {
+    "en": "Boreophiles",
+    "zh": "嗜寒林菌"
+  },
+  "bacteria.nautec.borophiles": {
+    "en": "Borophiles",
+    "zh": "嗜硼菌"
+  },
+  "bacteria.nautec.brassophiles": {
+    "en": "Brassophiles",
+    "zh": "嗜黄铜菌"
+  },
+  "bacteria.nautec.bronzophiles": {
+    "en": "Bronzophiles",
+    "zh": "嗜青铜菌"
+  },
+  "bacteria.nautec.brown_mycotrophic_bacteria": {
+    "en": "Brown Mycotrophic Bacteria",
+    "zh": "棕色蕈养菌"
+  },
+  "bacteria.nautec.bryophytophiles": {
+    "en": "Bryophytophiles",
+    "zh": "嗜苔藓菌"
+  },
+  "bacteria.nautec.cactophyles": {
+    "en": "Cactophyles",
+    "zh": "仙人掌嗜植菌"
+  },
+  "bacteria.nautec.calciophiles": {
+    "en": "Calciophiles",
+    "zh": "嗜钙菌"
+  },
+  "bacteria.nautec.calorophiles": {
+    "en": "Calorophiles",
+    "zh": "嗜卡洛里菌"
+  },
+  "bacteria.nautec.carbophages": {
+    "en": "Carbophages",
+    "zh": "噬碳菌"
+  },
+  "bacteria.nautec.carnivorous_bacteria": {
+    "en": "Carnivorous Bacteria",
+    "zh": "食肉细菌"
+  },
+  "bacteria.nautec.carotophyles": {
+    "en": "Carotophyles",
+    "zh": "胡萝卜嗜植菌"
+  },
+  "bacteria.nautec.certusophiles": {
+    "en": "Certusophiles",
+    "zh": "嗜赛特斯菌"
+  },
+  "bacteria.nautec.chromophiles": {
+    "en": "Chromophiles",
+    "zh": "嗜铬菌"
+  },
+  "bacteria.nautec.chrysorosophiles": {
+    "en": "Chrysorosophiles",
+    "zh": "嗜玫瑰金菌"
+  },
+  "bacteria.nautec.cinnabarophiles": {
+    "en": "Cinnabarophiles",
+    "zh": "嗜朱砂菌"
+  },
+  "bacteria.nautec.cobaltophiles": {
+    "en": "Cobaltophiles",
+    "zh": "嗜钴菌"
+  },
+  "bacteria.nautec.cocoaphiles": {
+    "en": "Cocoaphiles",
+    "zh": "嗜可可菌"
+  },
+  "bacteria.nautec.constantophiles": {
+    "en": "Constantophiles",
+    "zh": "嗜康铜菌"
+  },
+  "bacteria.nautec.crimson_lignocytes": {
+    "en": "Crimson Lignocytes",
+    "zh": "绯红木细胞"
+  },
+  "bacteria.nautec.crimson_microbes": {
+    "en": "Crimson Microbes",
+    "zh": "绯红微生物"
+  },
+  "bacteria.nautec.cryobionts": {
+    "en": "Cryobionts",
+    "zh": "冰生菌"
+  },
+  "bacteria.nautec.cucurbitophiles": {
+    "en": "Cucurbitophiles",
+    "zh": "嗜南瓜菌"
+  },
+  "bacteria.nautec.cyanobacteria": {
+    "en": "Cyanobacteria",
+    "zh": "蓝细菌"
+  },
+  "bacteria.nautec.cyanophiles": {
+    "en": "Cyanophiles",
+    "zh": "嗜Cyanite菌"
+  },
+  "bacteria.nautec.dark_lignocytes": {
+    "en": "Dark Lignocytes",
+    "zh": "深色木细胞"
+  },
+  "bacteria.nautec.desmophiles": {
+    "en": "Desmophiles",
+    "zh": "嗜戴斯菌"
+  },
+  "bacteria.nautec.draconophiles": {
+    "en": "Draconophiles",
+    "zh": "嗜龙菌"
+  },
+  "bacteria.nautec.electrophiles": {
+    "en": "Electrophiles",
+    "zh": "嗜琥珀金菌"
+  },
+  "bacteria.nautec.elementophiles": {
+    "en": "Elementophiles",
+    "zh": "嗜源质钢菌"
+  },
+  "bacteria.nautec.empty": {
+    "en": "Empty",
+    "zh": "空"
+  },
+  "bacteria.nautec.enderophiles": {
+    "en": "Enderophiles",
+    "zh": "嗜末影菌"
+  },
+  "bacteria.nautec.equitophiles": {
+    "en": "Equitophiles",
+    "zh": "嗜骑士史莱姆菌"
+  },
+  "bacteria.nautec.ferrophiles": {
+    "en": "Ferrophiles",
+    "zh": "嗜铁菌"
+  },
+  "bacteria.nautec.ferrosuinophiles": {
+    "en": "Ferrosuinophiles",
+    "zh": "嗜生铁菌"
+  },
+  "bacteria.nautec.fluorophiles": {
+    "en": "Fluorophiles",
+    "zh": "嗜氟石菌"
+  },
+  "bacteria.nautec.graphitophiles": {
+    "en": "Graphitophiles",
+    "zh": "嗜石墨菌"
+  },
+  "bacteria.nautec.halobacteria": {
+    "en": "Halobacteria",
+    "zh": "盐细菌"
+  },
+  "bacteria.nautec.halotrophs": {
+    "en": "Halotrophs",
+    "zh": "盐养菌"
+  },
+  "bacteria.nautec.heliophiles": {
+    "en": "Heliophiles",
+    "zh": "嗜日光石菌"
+  },
+  "bacteria.nautec.hepatizophiles": {
+    "en": "Hepatizophiles",
+    "zh": "嗜黑色科林斯青铜菌"
+  },
+  "bacteria.nautec.iesniophiles": {
+    "en": "Iesniophiles",
+    "zh": "嗜艾瑟金属菌"
+  },
+  "bacteria.nautec.inoxophiles": {
+    "en": "Inoxophiles",
+    "zh": "嗜不锈钢菌"
+  },
+  "bacteria.nautec.invarophiles": {
+    "en": "Invarophiles",
+    "zh": "嗜殷钢菌"
+  },
+  "bacteria.nautec.iridophiles": {
+    "en": "Iridophiles",
+    "zh": "嗜铱菌"
+  },
+  "bacteria.nautec.jadophiles": {
+    "en": "Jadophiles",
+    "zh": "嗜玉菌"
+  },
+  "bacteria.nautec.junglophiles": {
+    "en": "Junglophiles",
+    "zh": "嗜丛林菌"
+  },
+  "bacteria.nautec.lignocytes": {
+    "en": "Lignocytes",
+    "zh": "木细胞"
+  },
+  "bacteria.nautec.limosiderophiles": {
+    "en": "Limosiderophiles",
+    "zh": "嗜黏钢菌"
+  },
+  "bacteria.nautec.lipophiles": {
+    "en": "Lipophiles",
+    "zh": "嗜脂菌"
+  },
+  "bacteria.nautec.lithophiles": {
+    "en": "Lithophiles",
+    "zh": "嗜岩石菌"
+  },
+  "bacteria.nautec.lucernophiles": {
+    "en": "Lucernophiles",
+    "zh": "嗜强化荧石菌"
+  },
+  "bacteria.nautec.lumiophiles": {
+    "en": "Lumiophiles",
+    "zh": "嗜流明菌"
+  },
+  "bacteria.nautec.manastelophiles": {
+    "en": "Manastelophiles",
+    "zh": "嗜魔力钢菌"
+  },
+  "bacteria.nautec.manganophiles": {
+    "en": "Manganophiles",
+    "zh": "嗜锰菌"
+  },
+  "bacteria.nautec.manyullophiles": {
+    "en": "Manyullophiles",
+    "zh": "嗜玛玉灵菌"
+  },
+  "bacteria.nautec.melanoquartzophiles": {
+    "en": "Melanoquartzophiles",
+    "zh": "嗜黑石英菌"
+  },
+  "bacteria.nautec.melophages": {
+    "en": "Melophages",
+    "zh": "噬西瓜菌"
+  },
+  "bacteria.nautec.metallophiles": {
+    "en": "Metallophiles",
+    "zh": "嗜金属菌"
+  },
+  "bacteria.nautec.methanogens": {
+    "en": "Methanogens",
+    "zh": "甲烷菌"
+  },
+  "bacteria.nautec.molybdophiles": {
+    "en": "Molybdophiles",
+    "zh": "嗜钼菌"
+  },
+  "bacteria.nautec.monazitophiles": {
+    "en": "Monazitophiles",
+    "zh": "嗜独居石菌"
+  },
+  "bacteria.nautec.neodymophiles": {
+    "en": "Neodymophiles",
+    "zh": "嗜钕菌"
+  },
+  "bacteria.nautec.neutronophiles": {
+    "en": "Neutronophiles",
+    "zh": "嗜中子菌"
+  },
+  "bacteria.nautec.niccolophiles": {
+    "en": "Niccolophiles",
+    "zh": "嗜镍菌"
+  },
+  "bacteria.nautec.nigrophiles": {
+    "en": "Nigrophiles",
+    "zh": "嗜下界合金菌"
+  },
+  "bacteria.nautec.niobophiles": {
+    "en": "Niobophiles",
+    "zh": "嗜铌菌"
+  },
+  "bacteria.nautec.nyctophiles": {
+    "en": "Nyctophiles",
+    "zh": "嗜暗黑宝石菌"
+  },
+  "bacteria.nautec.obsidianophiles": {
+    "en": "Obsidianophiles",
+    "zh": "嗜强化黑曜石菌"
+  },
+  "bacteria.nautec.osmophiles": {
+    "en": "Osmophiles",
+    "zh": "嗜锇菌"
+  },
+  "bacteria.nautec.ostrophiles": {
+    "en": "Ostrophiles",
+    "zh": "嗜紫金菌"
+  },
+  "bacteria.nautec.palladophiles": {
+    "en": "Palladophiles",
+    "zh": "嗜钯菌"
+  },
+  "bacteria.nautec.peridotophiles": {
+    "en": "Peridotophiles",
+    "zh": "嗜橄榄石菌"
+  },
+  "bacteria.nautec.phototrophs": {
+    "en": "Phototrophs",
+    "zh": "光养菌"
+  },
+  "bacteria.nautec.platinophiles": {
+    "en": "Platinophiles",
+    "zh": "嗜铂菌"
+  },
+  "bacteria.nautec.plumbophiles": {
+    "en": "Plumbophiles",
+    "zh": "嗜铅菌"
+  },
+  "bacteria.nautec.plutonophiles": {
+    "en": "Plutonophiles",
+    "zh": "嗜钚菌"
+  },
+  "bacteria.nautec.prunus_lignocytes": {
+    "en": "Prunus Lignocytes",
+    "zh": "樱李木细胞"
+  },
+  "bacteria.nautec.red_mycotrophic_bacteria": {
+    "en": "Red Mycotrophic Bacteria",
+    "zh": "红色蕈养菌"
+  },
+  "bacteria.nautec.reginophiles": {
+    "en": "Reginophiles",
+    "zh": "嗜皇后史莱姆菌"
+  },
+  "bacteria.nautec.rhizobacteria": {
+    "en": "Rhizobacteria",
+    "zh": "根际细菌"
+  },
+  "bacteria.nautec.rhizophora_lignocytes": {
+    "en": "Rhizophora Lignocytes",
+    "zh": "红树木细胞"
+  },
+  "bacteria.nautec.rubellophiles": {
+    "en": "Rubellophiles",
+    "zh": "嗜红宝石菌"
+  },
+  "bacteria.nautec.sapphirophiles": {
+    "en": "Sapphirophiles",
+    "zh": "嗜蓝宝石菌"
+  },
+  "bacteria.nautec.selenophiles": {
+    "en": "Selenophiles",
+    "zh": "嗜月长石菌"
+  },
+  "bacteria.nautec.signalophiles": {
+    "en": "Signalophiles",
+    "zh": "嗜信素菌"
+  },
+  "bacteria.nautec.silicophiles": {
+    "en": "Silicophiles",
+    "zh": "嗜硅菌"
+  },
+  "bacteria.nautec.smaragdophiles": {
+    "en": "Smaragdophiles",
+    "zh": "嗜绿宝石菌"
+  },
+  "bacteria.nautec.solanophiles": {
+    "en": "Solanophiles",
+    "zh": "嗜薯茄菌"
+  },
+  "bacteria.nautec.stannophiles": {
+    "en": "Stannophiles",
+    "zh": "嗜锡菌"
+  },
+  "bacteria.nautec.steelophiles": {
+    "en": "Steelophiles",
+    "zh": "嗜钢菌"
+  },
+  "bacteria.nautec.sulfurophiles": {
+    "en": "Sulfurophiles",
+    "zh": "嗜硫菌"
+  },
+  "bacteria.nautec.terrastelophiles": {
+    "en": "Terrastelophiles",
+    "zh": "嗜泰拉钢菌"
+  },
+  "bacteria.nautec.thermophiles": {
+    "en": "Thermophiles",
+    "zh": "嗜热菌"
+  },
+  "bacteria.nautec.thoriophiles": {
+    "en": "Thoriophiles",
+    "zh": "嗜钍菌"
+  },
+  "bacteria.nautec.titanophiles": {
+    "en": "Titanophiles",
+    "zh": "嗜钛菌"
+  },
+  "bacteria.nautec.topazophiles": {
+    "en": "Topazophiles",
+    "zh": "嗜黄玉菌"
+  },
+  "bacteria.nautec.tungstophiles": {
+    "en": "Tungstophiles",
+    "zh": "嗜钨菌"
+  },
+  "bacteria.nautec.unobtainophiles": {
+    "en": "Unobtainophiles",
+    "zh": "嗜Unobtainium菌"
+  },
+  "bacteria.nautec.uranophiles": {
+    "en": "Uranophiles",
+    "zh": "嗜铀菌"
+  },
+  "bacteria.nautec.vanadophiles": {
+    "en": "Vanadophiles",
+    "zh": "嗜钒菌"
+  },
+  "bacteria.nautec.vibranophiles": {
+    "en": "Vibranophiles",
+    "zh": "嗜Vibranium菌"
+  },
+  "bacteria.nautec.warped_lignocytes": {
+    "en": "Warped Lignocytes",
+    "zh": "诡异木细胞"
+  },
+  "bacteria.nautec.warped_microbes": {
+    "en": "Warped Microbes",
+    "zh": "诡异微生物"
+  },
+  "bacteria.nautec.zincophiles": {
+    "en": "Zincophiles",
+    "zh": "嗜锌菌"
+  },
+  "biome.nautec.abyssal_trench": {
+    "en": "Abyssal Trench",
+    "zh": "深渊海沟"
+  },
+  "biome.nautec.bioluminescent_grove": {
+    "en": "Bioluminescent Grove",
+    "zh": "荧光海林"
+  },
+  "biome.nautec.hydrothermal_vents": {
+    "en": "Hydrothermal Vents",
+    "zh": "海底热泉"
+  },
+  "biome.nautec.prismarine_reef": {
+    "en": "Prismarine Reef",
+    "zh": "海晶礁"
+  },
+  "block.nautec.abyssal_containment_frame": {
+    "en": "Abyssal Containment Frame",
+    "zh": "深渊约束框架"
+  },
+  "block.nautec.abyssal_coral": {
+    "en": "Abyssal Coral",
+    "zh": "深渊珊瑚"
+  },
+  "block.nautec.advanced_aquatic_catalyst": {
+    "en": "Advanced Aquatic Catalyst",
+    "zh": "高级海蓝催化器"
+  },
+  "block.nautec.advanced_bacterial_analyzer": {
+    "en": "Advanced Bacterial Analyzer",
+    "zh": "高级细菌分析机"
+  },
+  "block.nautec.air_pocket": {
+    "en": "Air Pocket",
+    "zh": "气囊空间"
+  },
+  "block.nautec.anchor": {
+    "en": "Anchor",
+    "zh": "锚"
+  },
+  "block.nautec.aquamarine_structural_glass": {
+    "en": "Aquamarine Structural Glass",
+    "zh": "海蓝宝石结构玻璃"
+  },
+  "block.nautec.aquarine_copper_block": {
+    "en": "Aquarine Copper Block",
+    "zh": "海蓝铜块"
+  },
+  "block.nautec.aquarine_dish_storage": {
+    "en": "Aquarine Dish Storage",
+    "zh": "海蓝培养皿存储架"
+  },
+  "block.nautec.aquarine_steel_block": {
+    "en": "Aquarine Steel Block",
+    "zh": "海蓝钢块"
+  },
+  "block.nautec.aquatic_catalyst": {
+    "en": "Aquatic Catalyst",
+    "zh": "海蓝催化器"
+  },
+  "block.nautec.atlantic_gold_dish_storage": {
+    "en": "Atlantic Gold Dish Storage",
+    "zh": "海洋金培养皿存储架"
+  },
+  "block.nautec.augmentation_station": {
+    "en": "Augmentation Station",
+    "zh": "强化站"
+  },
+  "block.nautec.augmentation_station_extension": {
+    "en": "Augmentation Station Extension",
+    "zh": "强化站扩展单元"
+  },
+  "block.nautec.augmentation_station_part": {
+    "en": "Augmentation Station",
+    "zh": "强化站"
+  },
+  "block.nautec.bacterial_analyzer": {
+    "en": "Bacterial Analyzer",
+    "zh": "细菌分析机"
+  },
+  "block.nautec.bacterial_analyzer_top": {
+    "en": "Bacterial Analyzer",
+    "zh": "细菌分析机"
+  },
+  "block.nautec.bacterial_containment_shield": {
+    "en": "Bacteria Containment Shield",
+    "zh": "细菌防护罩"
+  },
+  "block.nautec.bacterial_fuel_cell": {
+    "en": "Bacterial Fuel Cell",
+    "zh": "细菌燃料电池"
+  },
+  "block.nautec.bio_reactor": {
+    "en": "Bio Reactor",
+    "zh": "生物反应机"
+  },
+  "block.nautec.bio_reactor_part": {
+    "en": "Bio Reactor",
+    "zh": "生物反应机"
+  },
+  "block.nautec.biome_tank": {
+    "en": "Biome Tank",
+    "zh": "生态缸"
+  },
+  "block.nautec.brown_polymer_block": {
+    "en": "Brown Polymer Block",
+    "zh": "棕色聚合物块"
+  },
+  "block.nautec.bubble_anchor": {
+    "en": "Bubble Anchor",
+    "zh": "气泡锚"
+  },
+  "block.nautec.budding_prismarine": {
+    "en": "Budding Prismarine",
+    "zh": "海晶母岩"
+  },
+  "block.nautec.cast_iron_block": {
+    "en": "Cast Iron Block",
+    "zh": "铸铁块"
+  },
+  "block.nautec.charger": {
+    "en": "Charger",
+    "zh": "充能器"
+  },
+  "block.nautec.chiseled_dark_prismarine": {
+    "en": "Chiseled Dark Prismarine",
+    "zh": "雕纹暗海晶石"
+  },
+  "block.nautec.colony_replicator": {
+    "en": "Colony Replicator",
+    "zh": "菌落复制机"
+  },
+  "block.nautec.combustion_dynamo": {
+    "en": "Combustion Dynamo",
+    "zh": "内燃发电机"
+  },
+  "block.nautec.conduit_beacon": {
+    "en": "Conduit Beacon",
+    "zh": "潮涌信标"
+  },
+  "block.nautec.conduit_tap": {
+    "en": "Conduit Tap",
+    "zh": "导管接口"
+  },
+  "block.nautec.confined_spawner": {
+    "en": "Confined Spawner",
+    "zh": "约束刷怪笼"
+  },
+  "block.nautec.containment_coil": {
+    "en": "Containment Coil",
+    "zh": "约束线圈"
+  },
+  "block.nautec.crate": {
+    "en": "Crate",
+    "zh": "板条箱"
+  },
+  "block.nautec.creative_energy_source": {
+    "en": "Creative Energy Source",
+    "zh": "创造能量源"
+  },
+  "block.nautec.creative_power_source": {
+    "en": "Creative Power Source",
+    "zh": "创造能量源"
+  },
+  "block.nautec.crystal_cradle": {
+    "en": "Crystal Cradle",
+    "zh": "晶体培育座"
+  },
+  "block.nautec.current_conduit": {
+    "en": "Current Conduit",
+    "zh": "水流导管"
+  },
+  "block.nautec.dark_prismarine_pillar": {
+    "en": "Dark Prismarine Pillar",
+    "zh": "暗海晶石柱"
+  },
+  "block.nautec.decorative_prismarine_crystal": {
+    "en": "Decorative Prismarine Crystal",
+    "zh": "装饰性海棱水晶"
+  },
+  "block.nautec.decorative_prismarine_crystal_part": {
+    "en": "Decorative Prismarine Crystal",
+    "zh": "装饰性海棱水晶"
+  },
+  "block.nautec.deep_kelp": {
+    "en": "Deep Kelp",
+    "zh": "深海海带"
+  },
+  "block.nautec.deep_kelp_plant": {
+    "en": "Deep Kelp Plant",
+    "zh": "深海海带植株"
+  },
+  "block.nautec.deep_sea_drain": {
+    "en": "Deep Sea Drain",
+    "zh": "深海排水口"
+  },
+  "block.nautec.deep_sea_drain_part": {
+    "en": "Deep Sea Drain",
+    "zh": "深海排水口"
+  },
+  "block.nautec.deep_sea_drain_wall": {
+    "en": "Deep Sea Drain Wall",
+    "zh": "深海排水口壁"
+  },
+  "block.nautec.deep_steel_dish_storage": {
+    "en": "Deep Steel Dish Storage",
+    "zh": "深海钢培养皿存储架"
+  },
+  "block.nautec.eas_fluid": {
+    "en": "Electrolyte Algae Serum",
+    "zh": "电解藻类浆液"
+  },
+  "block.nautec.energy_converter": {
+    "en": "Energy Converter",
+    "zh": "能量转换器"
+  },
+  "block.nautec.etching_acid_fluid": {
+    "en": "Etching Acid",
+    "zh": "蚀刻酸"
+  },
+  "block.nautec.event_horizon_containment_frame": {
+    "en": "Event Horizon Containment Frame",
+    "zh": "视界约束框架"
+  },
+  "block.nautec.experience_algae_fluid": {
+    "en": "Experience Algae",
+    "zh": "经验藻液"
+  },
+  "block.nautec.extradimensional_energy_storage": {
+    "en": "Extradimensional Energy Storage",
+    "zh": "超维能量存储器"
+  },
+  "block.nautec.fishing_station": {
+    "en": "Fishing Station",
+    "zh": "钓鱼站"
+  },
+  "block.nautec.focusing_lens": {
+    "en": "Focusing Lens",
+    "zh": "聚焦透镜"
+  },
+  "block.nautec.fusion_casing": {
+    "en": "Fusion Casing",
+    "zh": "聚变外壳"
+  },
+  "block.nautec.fusion_collector": {
+    "en": "Fusion Collector",
+    "zh": "聚变收集器"
+  },
+  "block.nautec.fusion_controller": {
+    "en": "Fusion Controller",
+    "zh": "聚变控制器"
+  },
+  "block.nautec.fusion_port": {
+    "en": "Fusion Port",
+    "zh": "聚变端口"
+  },
+  "block.nautec.gateway": {
+    "en": "Gateway",
+    "zh": "传送门"
+  },
+  "block.nautec.gateway_ring": {
+    "en": "Gateway Ring Segment",
+    "zh": "传送门环节段"
+  },
+  "block.nautec.gateway_ring_part": {
+    "en": "Gateway Ring",
+    "zh": "传送门环"
+  },
+  "block.nautec.glow_polyp": {
+    "en": "Glow Polyp",
+    "zh": "荧光珊瑚虫"
+  },
+  "block.nautec.grafting_station": {
+    "en": "Grafting Station",
+    "zh": "移植站"
+  },
+  "block.nautec.held_water": {
+    "en": "Held Water",
+    "zh": "固定水体"
+  },
+  "block.nautec.hydrothermal_vent": {
+    "en": "Hydrothermal Vent",
+    "zh": "海底热泉口"
+  },
+  "block.nautec.incubator": {
+    "en": "Incubator",
+    "zh": "培养机"
+  },
+  "block.nautec.industrial_bio_reactor": {
+    "en": "Industrial Bio Reactor",
+    "zh": "工业生物反应机"
+  },
+  "block.nautec.industrial_bio_reactor_part": {
+    "en": "Industrial Bio Reactor",
+    "zh": "工业生物反应机"
+  },
+  "block.nautec.large_prismarine_bud": {
+    "en": "Large Prismarine Bud",
+    "zh": "大型海晶芽"
+  },
+  "block.nautec.laser_crafting_matrix": {
+    "en": "Laser Crafting Matrix",
+    "zh": "激光合成矩阵"
+  },
+  "block.nautec.laser_injector": {
+    "en": "Laser Injector",
+    "zh": "激光注入器"
+  },
+  "block.nautec.laser_junction": {
+    "en": "Laser Junction",
+    "zh": "激光转接器"
+  },
+  "block.nautec.laser_purification_smelter": {
+    "en": "Laser Purification Smelter",
+    "zh": "激光提纯熔炉"
+  },
+  "block.nautec.luminescent_algae": {
+    "en": "Luminescent Algae",
+    "zh": "荧光藻"
+  },
+  "block.nautec.medium_prismarine_bud": {
+    "en": "Medium Prismarine Bud",
+    "zh": "中型海晶芽"
+  },
+  "block.nautec.mixer": {
+    "en": "Mixer",
+    "zh": "搅拌机"
+  },
+  "block.nautec.mutator": {
+    "en": "Mutator",
+    "zh": "诱变机"
+  },
+  "block.nautec.nautechnical_distributor": {
+    "en": "Nautechnical Distributor",
+    "zh": "海蓝科技分配器"
+  },
+  "block.nautec.oil_barrel": {
+    "en": "Oil Barrel",
+    "zh": "油桶"
+  },
+  "block.nautec.oil_fluid": {
+    "en": "Oil",
+    "zh": "原油"
+  },
+  "block.nautec.oxygen_diffuser": {
+    "en": "Oxygen Diffuser",
+    "zh": "氧气扩散器"
+  },
+  "block.nautec.polished_prismarine": {
+    "en": "Polished Prismarine",
+    "zh": "磨制海晶石"
+  },
+  "block.nautec.pressure_forge": {
+    "en": "Abyssal Pressure Forge",
+    "zh": "深海压力锻炉"
+  },
+  "block.nautec.pressure_hatch": {
+    "en": "Pressure Hatch",
+    "zh": "压力舱门"
+  },
+  "block.nautec.prismarine_cluster": {
+    "en": "Prismarine Cluster",
+    "zh": "海晶簇"
+  },
+  "block.nautec.prismarine_crystal": {
+    "en": "Prismarine Crystal",
+    "zh": "海棱水晶"
+  },
+  "block.nautec.prismarine_crystal_part": {
+    "en": "Prismarine Crystal",
+    "zh": "海棱水晶"
+  },
+  "block.nautec.prismarine_frond": {
+    "en": "Prismarine Frond",
+    "zh": "海晶叶丛"
+  },
+  "block.nautec.prismarine_laser_relay": {
+    "en": "Prismarine Laser Relay",
+    "zh": "海晶石激光中继器"
+  },
+  "block.nautec.prismarine_sand": {
+    "en": "Prismarine Sand",
+    "zh": "海晶沙"
+  },
+  "block.nautec.prismatic_emitter": {
+    "en": "Prismatic Emitter",
+    "zh": "海晶发射器"
+  },
+  "block.nautec.resonance_chamber": {
+    "en": "Resonance Chamber",
+    "zh": "共鸣室"
+  },
+  "block.nautec.resonance_node": {
+    "en": "Resonance Node",
+    "zh": "共鸣节点"
+  },
+  "block.nautec.resonant_cistern": {
+    "en": "Resonant Cistern",
+    "zh": "共鸣储液罐"
+  },
+  "block.nautec.resonant_vault": {
+    "en": "Resonant Vault",
+    "zh": "共鸣储物库"
+  },
+  "block.nautec.rift_containment_frame": {
+    "en": "Rift Containment Frame",
+    "zh": "裂隙约束框架"
+  },
+  "block.nautec.rusty_crate": {
+    "en": "Rusty Crate",
+    "zh": "生锈的板条箱"
+  },
+  "block.nautec.saltwater_fluid": {
+    "en": "Salt Water",
+    "zh": "盐水"
+  },
+  "block.nautec.satellite_array_top": {
+    "en": "Satellite Array",
+    "zh": "卫星阵列"
+  },
+  "block.nautec.small_prismarine_bud": {
+    "en": "Small Prismarine Bud",
+    "zh": "小型海晶芽"
+  },
+  "block.nautec.submarine_dock": {
+    "en": "Sea Scout Dock",
+    "zh": "海洋侦察艇船坞"
+  },
+  "block.nautec.thermal_vent_tap": {
+    "en": "Thermal Vent Tap",
+    "zh": "热泉汲取器"
+  },
+  "block.nautec.tidal_rotor": {
+    "en": "Tidal Rotor",
+    "zh": "潮汐转子"
+  },
+  "block.nautec.uplink_array": {
+    "en": "Uplink Array",
+    "zh": "上行链路阵列"
+  },
+  "block.nautec.vent_tubeworm": {
+    "en": "Vent Tubeworm",
+    "zh": "热泉管虫"
+  },
+  "block.nautec.void_containment_frame": {
+    "en": "Void Containment Frame",
+    "zh": "虚空约束框架"
+  },
+  "config.jade.plugin_nautec.aquatic_catalyst": {
+    "en": "Aquatic Catalyst",
+    "zh": "海蓝催化器"
+  },
+  "config.jade.plugin_nautec.beam_speed": {
+    "en": "Machine Speed From Beam Power",
+    "zh": "光束功率提供的机器速度"
+  },
+  "config.jade.plugin_nautec.confined_spawner": {
+    "en": "Confined Spawner",
+    "zh": "约束刷怪笼"
+  },
+  "config.jade.plugin_nautec.crystal_cradle": {
+    "en": "Crystal Cradle",
+    "zh": "晶体培育座"
+  },
+  "config.jade.plugin_nautec.drain": {
+    "en": "Deep Sea Drain",
+    "zh": "深海排水口"
+  },
+  "config.jade.plugin_nautec.energy_converter": {
+    "en": "Energy Converter",
+    "zh": "能量转换器"
+  },
+  "config.jade.plugin_nautec.fe_generator": {
+    "en": "FE Generators",
+    "zh": "FE 发电机"
+  },
+  "config.jade.plugin_nautec.fusion_controller": {
+    "en": "Fusion Plant",
+    "zh": "聚变电站"
+  },
+  "config.jade.plugin_nautec.laser_crafting_matrix": {
+    "en": "Laser Crafting Matrix",
+    "zh": "激光合成矩阵"
+  },
+  "config.jade.plugin_nautec.laser_junction": {
+    "en": "Laser Junction",
+    "zh": "激光转接器"
+  },
+  "config.jade.plugin_nautec.laser_power": {
+    "en": "Beam Power (AP)",
+    "zh": "光束功率(AP)"
+  },
+  "config.jade.plugin_nautec.mixer": {
+    "en": "Mixer",
+    "zh": "搅拌机"
+  },
+  "config.jade.plugin_nautec.prismarine_crystal": {
+    "en": "Prismarine Crystal",
+    "zh": "海棱水晶"
+  },
+  "death.attack.nautec.particle_beam": {
+    "en": "%1$s was vaporized by a particle beam.",
+    "zh": "%1$s 被粒子束汽化了."
+  },
+  "death.attack.nautec.particle_beam.item": {
+    "en": "%1$s was vaporized by a particle beam.",
+    "zh": "%1$s 被粒子束汽化了."
+  },
+  "death.attack.nautec.particle_beam.player": {
+    "en": "%1$s was vaporized by a particle beam.",
+    "zh": "%1$s 被粒子束汽化了."
+  },
+  "death.attack.nautec.tidal_shockwave": {
+    "en": "%1$s was swept away by %2$s's tidal shockwave",
+    "zh": "%1$s 被 %2$s 的潮汐冲击波卷走了"
+  },
+  "death.attack.nautec.tidal_shockwave.item": {
+    "en": "%1$s was swept away by %2$s wielding %3$s",
+    "zh": "%1$s 被 %2$s 用 %3$s 卷走了"
+  },
+  "death.attack.nautec.tidal_shockwave.player": {
+    "en": "%1$s was swept away by a tidal shockwave",
+    "zh": "%1$s 被潮汐冲击波卷走了"
+  },
+  "effect.nautec.stunned": {
+    "en": "Stunned",
+    "zh": "眩晕"
+  },
+  "entity.nautec.abyssal_maw": {
+    "en": "Abyssal Maw",
+    "zh": "深渊巨口"
+  },
+  "entity.nautec.eye_of_the_sea": {
+    "en": "Eye of the Sea",
+    "zh": "海洋之眼"
+  },
+  "entity.nautec.lantern_jelly": {
+    "en": "Lantern Jelly",
+    "zh": "灯笼水母"
+  },
+  "entity.nautec.neptunes_trident": {
+    "en": "Neptune's Trident",
+    "zh": "海王三叉戟"
+  },
+  "entity.nautec.silt_skipper": {
+    "en": "Silt Skipper",
+    "zh": "淤泥跳鱼"
+  },
+  "entity.nautec.submarine": {
+    "en": "Sea Scout",
+    "zh": "海洋侦察艇"
+  },
+  "entity.nautec.vent_crawler": {
+    "en": "Vent Crawler",
+    "zh": "热泉爬行者"
+  },
+  "fluid_type.nautec.eas": {
+    "en": "Electrolyte Algae Serum",
+    "zh": "电解藻类浆液"
+  },
+  "fluid_type.nautec.etching_acid": {
+    "en": "Etching Acid",
+    "zh": "蚀刻酸"
+  },
+  "fluid_type.nautec.experience_algae": {
+    "en": "Experience Algae",
+    "zh": "经验藻液"
+  },
+  "fluid_type.nautec.oil": {
+    "en": "Oil",
+    "zh": "原油"
+  },
+  "fluid_type.nautec.saltwater": {
+    "en": "Salt Water",
+    "zh": "盐水"
+  },
+  "item.nautec.abyssal_maw_spawn_egg": {
+    "en": "Abyssal Maw Spawn Egg",
+    "zh": "深渊巨口刷怪蛋"
+  },
+  "item.nautec.abyssal_organ": {
+    "en": "Abyssal Organ",
+    "zh": "深渊器官"
+  },
+  "item.nautec.advanced_energy_conversion_upgrade": {
+    "en": "Advanced Energy Conversion Upgrade",
+    "zh": "高级能量转换升级"
+  },
+  "item.nautec.advanced_grafting_anchor": {
+    "en": "Advanced Grafting Anchor",
+    "zh": "高级移植锚"
+  },
+  "item.nautec.air_bottle": {
+    "en": "Pressurized Air Bottle",
+    "zh": "压缩空气瓶"
+  },
+  "item.nautec.algal_lipid": {
+    "en": "Algal Lipid",
+    "zh": "藻类脂质"
+  },
+  "item.nautec.ancient_valve": {
+    "en": "Ancient Valve",
+    "zh": "远古阀门"
+  },
+  "item.nautec.aquarine_copper_compound": {
+    "en": "Aquarine Copper Compound",
+    "zh": "海蓝铜混合物"
+  },
+  "item.nautec.aquarine_copper_ingot": {
+    "en": "Aquarine Copper Ingot",
+    "zh": "海蓝铜锭"
+  },
+  "item.nautec.aquarine_copper_nugget": {
+    "en": "Aquarine Copper Nugget",
+    "zh": "海蓝铜粒"
+  },
+  "item.nautec.aquarine_steel_axe": {
+    "en": "Aquarine Steel Axe",
+    "zh": "海蓝钢斧"
+  },
+  "item.nautec.aquarine_steel_boots": {
+    "en": "Aquarine Steel Boots",
+    "zh": "海蓝钢靴子"
+  },
+  "item.nautec.aquarine_steel_chestplate": {
+    "en": "Aquarine Steel Chestplate",
+    "zh": "海蓝钢胸甲"
+  },
+  "item.nautec.aquarine_steel_compound": {
+    "en": "Aquarine Steel Compound",
+    "zh": "海蓝钢混合物"
+  },
+  "item.nautec.aquarine_steel_helmet": {
+    "en": "Aquarine Steel Helmet",
+    "zh": "海蓝钢头盔"
+  },
+  "item.nautec.aquarine_steel_hoe": {
+    "en": "Aquarine Steel Hoe",
+    "zh": "海蓝钢锄"
+  },
+  "item.nautec.aquarine_steel_ingot": {
+    "en": "Aquarine Steel Ingot",
+    "zh": "海蓝钢锭"
+  },
+  "item.nautec.aquarine_steel_leggings": {
+    "en": "Aquarine Steel Leggings",
+    "zh": "海蓝钢护腿"
+  },
+  "item.nautec.aquarine_steel_pickaxe": {
+    "en": "Aquarine Steel Pickaxe",
+    "zh": "海蓝钢镐"
+  },
+  "item.nautec.aquarine_steel_shovel": {
+    "en": "Aquarine Steel Shovel",
+    "zh": "海蓝钢锹"
+  },
+  "item.nautec.aquarine_steel_sword": {
+    "en": "Aquarine Steel Sword",
+    "zh": "海蓝钢剑"
+  },
+  "item.nautec.aquarine_steel_wrench": {
+    "en": "Aquarine Steel Wrench",
+    "zh": "海蓝钢扳手"
+  },
+  "item.nautec.aquatic_chip": {
+    "en": "Aquatic Chip",
+    "zh": "海蓝芯片"
+  },
+  "item.nautec.armor_module": {
+    "en": "Armour Module",
+    "zh": "护甲模块"
+  },
+  "item.nautec.atlantean_pressure_synthesizer": {
+    "en": "Atlantean Pressure Synthesizer",
+    "zh": "亚特兰蒂斯压力合成器"
+  },
+  "item.nautec.atlantean_rifle": {
+    "en": "Atlantean Rifle",
+    "zh": "亚特兰蒂斯步枪"
+  },
+  "item.nautec.atlantic_gold_ingot": {
+    "en": "Atlantic Gold Ingot",
+    "zh": "海洋金锭"
+  },
+  "item.nautec.atlantic_gold_nugget": {
+    "en": "Atlantic Gold Nugget",
+    "zh": "海洋金粒"
+  },
+  "item.nautec.auxiliary_ventricle": {
+    "en": "Auxiliary Ventricle",
+    "zh": "辅助心室"
+  },
+  "item.nautec.booster_module": {
+    "en": "Booster Module",
+    "zh": "推进模块"
+  },
+  "item.nautec.broken_whisk": {
+    "en": "Broken Whisk",
+    "zh": "破损的搅拌器"
+  },
+  "item.nautec.brown_polymer": {
+    "en": "Brown Polymer",
+    "zh": "棕色聚合物"
+  },
+  "item.nautec.bubble_capsule": {
+    "en": "Bubble Capsule",
+    "zh": "气泡胶囊"
+  },
+  "item.nautec.buoyancy_tank": {
+    "en": "Buoyancy Tank",
+    "zh": "浮力罐"
+  },
+  "item.nautec.burnt_coil": {
+    "en": "Burnt Coil",
+    "zh": "烧坏的线圈"
+  },
+  "item.nautec.cargo_module": {
+    "en": "Cargo Hold Module",
+    "zh": "货舱模块"
+  },
+  "item.nautec.cast_iron_compound": {
+    "en": "Cast Iron Compound",
+    "zh": "铸铁混合物"
+  },
+  "item.nautec.cast_iron_ingot": {
+    "en": "Cast Iron Ingot",
+    "zh": "铸铁锭"
+  },
+  "item.nautec.cast_iron_nugget": {
+    "en": "Cast Iron Nugget",
+    "zh": "铸铁粒"
+  },
+  "item.nautec.cast_iron_rod": {
+    "en": "Cast Iron Rod",
+    "zh": "铸铁棒"
+  },
+  "item.nautec.chitin_plate": {
+    "en": "Chitin Plate",
+    "zh": "甲壳板"
+  },
+  "item.nautec.claw_robot_arm": {
+    "en": "Claw Robot Arm",
+    "zh": "爪式机械臂"
+  },
+  "item.nautec.clay_gasket": {
+    "en": "Clay Gasket",
+    "zh": "黏土垫圈"
+  },
+  "item.nautec.configuration_card": {
+    "en": "Configuration Card",
+    "zh": "配置卡"
+  },
+  "item.nautec.damaged_aquatic_chip": {
+    "en": "Damaged Aquatic Chip",
+    "zh": "损坏的海蓝芯片"
+  },
+  "item.nautec.deep_steel_plating": {
+    "en": "Deep Steel Plating",
+    "zh": "深海钢镀板"
+  },
+  "item.nautec.diving_boots": {
+    "en": "Diving Boots",
+    "zh": "潜水靴子"
+  },
+  "item.nautec.diving_chestplate": {
+    "en": "Diving Chestplate",
+    "zh": "潜水胸甲"
+  },
+  "item.nautec.diving_helmet": {
+    "en": "Diving Helmet",
+    "zh": "潜水头盔"
+  },
+  "item.nautec.diving_leggings": {
+    "en": "Diving Leggings",
+    "zh": "潜水护腿"
+  },
+  "item.nautec.dolphin_fin": {
+    "en": "Dolphin Fin",
+    "zh": "海豚鳍"
+  },
+  "item.nautec.dormant_crystal_seed": {
+    "en": "Dormant Crystal Seed",
+    "zh": "休眠晶种"
+  },
+  "item.nautec.drowned_lungs": {
+    "en": "Drowned Lungs",
+    "zh": "溺尸之肺"
+  },
+  "item.nautec.eas_bucket": {
+    "en": "Electrolyte Algae Serum (EAS) Bucket",
+    "zh": "电解藻类浆液(EAS)桶"
+  },
+  "item.nautec.eas_vial": {
+    "en": "Electrolyte Algae Serum (EAS) Vial",
+    "zh": "电解藻类浆液(EAS)试管"
+  },
+  "item.nautec.eddy_upgrade": {
+    "en": "Eddy Upgrade",
+    "zh": "涡流升级"
+  },
+  "item.nautec.eldritch_heart": {
+    "en": "Eldritch Heart",
+    "zh": "邪能之心"
+  },
+  "item.nautec.ender_coil_arm": {
+    "en": "Ender Coil Arm",
+    "zh": "末影线圈臂"
+  },
+  "item.nautec.energy_conversion_upgrade": {
+    "en": "Energy Conversion Upgrade",
+    "zh": "能量转换升级"
+  },
+  "item.nautec.etching_acid_bucket": {
+    "en": "Etching Acid Bucket",
+    "zh": "蚀刻酸桶"
+  },
+  "item.nautec.experience_algae_bucket": {
+    "en": "Experience Algae Bucket",
+    "zh": "经验藻液桶"
+  },
+  "item.nautec.eye_of_the_sea": {
+    "en": "Eye of the Sea",
+    "zh": "海洋之眼"
+  },
+  "item.nautec.filter": {
+    "en": "Filter",
+    "zh": "过滤器"
+  },
+  "item.nautec.flawless_prismarine_crystal": {
+    "en": "Flawless Prismarine Crystal",
+    "zh": "无瑕海棱水晶"
+  },
+  "item.nautec.flight_module": {
+    "en": "Flight Module",
+    "zh": "飞行模块"
+  },
+  "item.nautec.gear": {
+    "en": "Gear",
+    "zh": "齿轮"
+  },
+  "item.nautec.glass_vial": {
+    "en": "Glass Vial",
+    "zh": "玻璃试管"
+  },
+  "item.nautec.grafting_anchor": {
+    "en": "Grafting Anchor",
+    "zh": "移植锚"
+  },
+  "item.nautec.grafting_tool": {
+    "en": "Grafting Tool",
+    "zh": "移植工具"
+  },
+  "item.nautec.guardian_eye": {
+    "en": "Guardian Eye",
+    "zh": "守卫者之眼"
+  },
+  "item.nautec.hydraulic_leg": {
+    "en": "Hydraulic Leg",
+    "zh": "液压腿"
+  },
+  "item.nautec.hydro_drill_arm": {
+    "en": "Hydro Drill Arm",
+    "zh": "水力钻臂"
+  },
+  "item.nautec.impulse_laser_module": {
+    "en": "Impulse Laser Module",
+    "zh": "脉冲激光模块"
+  },
+  "item.nautec.intricate_filter": {
+    "en": "Intricate Filter",
+    "zh": "精密过滤器"
+  },
+  "item.nautec.kelp_slurry": {
+    "en": "Kelp Slurry",
+    "zh": "海带浆"
+  },
+  "item.nautec.lantern_jelly_spawn_egg": {
+    "en": "Lantern Jelly Spawn Egg",
+    "zh": "灯笼水母刷怪蛋"
+  },
+  "item.nautec.laser_channeling_coil": {
+    "en": "Laser Channeling Coil",
+    "zh": "激光引导线圈"
+  },
+  "item.nautec.luminous_membrane": {
+    "en": "Luminous Membrane",
+    "zh": "发光膜"
+  },
+  "item.nautec.maelstrom_upgrade": {
+    "en": "Maelstrom Upgrade",
+    "zh": "大漩涡升级"
+  },
+  "item.nautec.magnetic_coil_arm": {
+    "en": "Magnetic Coil Arm",
+    "zh": "磁力线圈臂"
+  },
+  "item.nautec.nautec_fishing_rod": {
+    "en": "Prismatic Fishing Rod",
+    "zh": "海晶钓鱼竿"
+  },
+  "item.nautec.nautec_guide": {
+    "en": "NauTec 2 Guide",
+    "zh": "海蓝科技 2 指南"
+  },
+  "item.nautec.neptunes_trident": {
+    "en": "Neptune's Trident",
+    "zh": "海王三叉戟"
+  },
+  "item.nautec.oil_bucket": {
+    "en": "Oil Bucket",
+    "zh": "原油桶"
+  },
+  "item.nautec.petri_dish": {
+    "en": "Petri Dish",
+    "zh": "培养皿"
+  },
+  "item.nautec.pressure_synthesizer": {
+    "en": "Pressure Synthesizer",
+    "zh": "压力合成器"
+  },
+  "item.nautec.prism_monocle": {
+    "en": "Prism Monocle",
+    "zh": "海晶单片镜"
+  },
+  "item.nautec.prism_satellite": {
+    "en": "Prism Satellite",
+    "zh": "棱镜卫星"
+  },
+  "item.nautec.prismarine_crystal_seed": {
+    "en": "Prismarine Crystal Seed",
+    "zh": "海晶晶种"
+  },
+  "item.nautec.prismarine_crystal_shard": {
+    "en": "Prismarine Crystal Shard",
+    "zh": "海棱水晶碎片"
+  },
+  "item.nautec.prismarine_lens": {
+    "en": "Prismarine Lens",
+    "zh": "海晶透镜"
+  },
+  "item.nautec.prismatic_battery": {
+    "en": "Prismatic Battery",
+    "zh": "海晶电池"
+  },
+  "item.nautec.reactor_efficiency_upgrade": {
+    "en": "Reactor Efficiency Upgrade",
+    "zh": "反应机效率升级"
+  },
+  "item.nautec.reactor_fusion_upgrade": {
+    "en": "Reactor Fusion Upgrade",
+    "zh": "反应机融合升级"
+  },
+  "item.nautec.reactor_speed_upgrade": {
+    "en": "Reactor Speed Upgrade",
+    "zh": "反应机速度升级"
+  },
+  "item.nautec.reactor_yield_upgrade": {
+    "en": "Reactor Yield Upgrade",
+    "zh": "反应机产量升级"
+  },
+  "item.nautec.resonance_charm": {
+    "en": "Resonance Charm",
+    "zh": "共鸣护符"
+  },
+  "item.nautec.resonant_expansion": {
+    "en": "Resonant Expansion",
+    "zh": "共鸣扩容组件"
+  },
+  "item.nautec.resonant_shard": {
+    "en": "Resonant Shard",
+    "zh": "共鸣碎片"
+  },
+  "item.nautec.riptide_upgrade": {
+    "en": "Riptide Upgrade",
+    "zh": "激流升级"
+  },
+  "item.nautec.rusty_gear": {
+    "en": "Rusty Gear",
+    "zh": "生锈的齿轮"
+  },
+  "item.nautec.salt": {
+    "en": "Salt",
+    "zh": "盐"
+  },
+  "item.nautec.saltwater_bucket": {
+    "en": "Salt Water Bucket",
+    "zh": "盐水桶"
+  },
+  "item.nautec.servo_knee": {
+    "en": "Servo Knee",
+    "zh": "伺服膝关节"
+  },
+  "item.nautec.shield_module": {
+    "en": "Shield Module",
+    "zh": "护盾模块"
+  },
+  "item.nautec.shock_absorber": {
+    "en": "Shock Absorber",
+    "zh": "减震器"
+  },
+  "item.nautec.silt_skipper": {
+    "en": "Silt Skipper",
+    "zh": "淤泥跳鱼"
+  },
+  "item.nautec.silt_skipper_bucket": {
+    "en": "Bucket of Silt Skipper",
+    "zh": "淤泥跳鱼桶"
+  },
+  "item.nautec.silt_skipper_spawn_egg": {
+    "en": "Silt Skipper Spawn Egg",
+    "zh": "淤泥跳鱼刷怪蛋"
+  },
+  "item.nautec.solar_module": {
+    "en": "Solar Module",
+    "zh": "太阳能模块"
+  },
+  "item.nautec.sonar_module": {
+    "en": "Sonar Module",
+    "zh": "声呐模块"
+  },
+  "item.nautec.spawner_confinement_matrix": {
+    "en": "Spawner Confinement Matrix",
+    "zh": "刷怪笼约束矩阵"
+  },
+  "item.nautec.stealth_module": {
+    "en": "Stealth Module",
+    "zh": "隐形模块"
+  },
+  "item.nautec.submarine": {
+    "en": "Sea Scout",
+    "zh": "海洋侦察艇"
+  },
+  "item.nautec.surge_upgrade": {
+    "en": "Surge Upgrade",
+    "zh": "涌流升级"
+  },
+  "item.nautec.syringe_robot_arm": {
+    "en": "Syringe Robot Arm",
+    "zh": "注射器机械臂"
+  },
+  "item.nautec.teleport_module": {
+    "en": "Teleport Module",
+    "zh": "传送模块"
+  },
+  "item.nautec.tendon_weave": {
+    "en": "Tendon Weave",
+    "zh": "肌腱编织物"
+  },
+  "item.nautec.trident_launcher_arm": {
+    "en": "Trident Launcher Arm",
+    "zh": "三叉戟发射臂"
+  },
+  "item.nautec.tuning_fork": {
+    "en": "Tuning Fork",
+    "zh": "音叉"
+  },
+  "item.nautec.ultimate_energy_conversion_upgrade": {
+    "en": "Ultimate Energy Conversion Upgrade",
+    "zh": "终极能量转换升级"
+  },
+  "item.nautec.valve": {
+    "en": "Valve",
+    "zh": "阀门"
+  },
+  "item.nautec.vent_crawler_spawn_egg": {
+    "en": "Vent Crawler Spawn Egg",
+    "zh": "热泉爬行者刷怪蛋"
+  },
+  "item.nautec.volley_trident_arm": {
+    "en": "Volley Trident Arm",
+    "zh": "三叉戟齐射臂"
+  },
+  "item.nautec.wave_jet": {
+    "en": "Wave Jet",
+    "zh": "水流喷射器"
+  },
+  "item.nautec.whisk": {
+    "en": "Whisk",
+    "zh": "搅拌器"
+  },
+  "multiblock.info.actual_block": {
+    "en": "Block: %s",
+    "zh": "方块: %s"
+  },
+  "multiblock.info.block_pos": {
+    "en": "Coordinates: %d, %d, %d",
+    "zh": "坐标: %d, %d, %d"
+  },
+  "multiblock.info.expected_block": {
+    "en": "Expected: %s",
+    "zh": "应为: %s"
+  },
+  "multiblock.info.failed_to_construct": {
+    "en": "Missing or invalid block",
+    "zh": "方块缺失或无效"
+  },
+  "nautec.conduit.filter.item.how": {
+    "en": "Click with an item or drag one in from JEI",
+    "zh": "手持物品点击, 或从 JEI 拖入物品"
+  },
+  "nautec.conduit.filter_item.hint": {
+    "en": "Goes in a Conduit Tap to turn on 9 item and 9 fluid filter slots per face",
+    "zh": "放入导管接口后, 每个面开放 9 个物品和 9 个流体过滤槽"
+  },
+  "nautec.conduit.filter_item.intricate": {
+    "en": "Opens all 27 item filter slots",
+    "zh": "开放全部 27 个物品过滤槽"
+  },
+  "nautec.distributor.request.item.empty": {
+    "en": "Item request",
+    "zh": "物品请求"
+  },
+  "nautec.distributor.request.item.how": {
+    "en": "Click with an item, or drag one from JEI, to keep this block stocked with it through the linked face.",
+    "zh": "手持物品点击, 或从 JEI 拖入物品, 可通过连接面使此方块持续储备该物品."
+  },
+  "nautec.distributor.request.item.keep": {
+    "en": "Keeps %s in the block",
+    "zh": "使方块保持 %s 的储量"
+  },
+  "nautec.distributor.request.item.scroll": {
+    "en": "Scroll to change the amount, hold Shift for steps of 16.",
+    "zh": "滚动调整数量, 按住 Shift 时步进为 16."
+  },
+  "nautec.replicator.slot.fodder_item.desc": {
+    "en": "The item the template's strain makes, or its storage block. They are broken down into biomass, and rarer items give more.",
+    "zh": "模板菌株产出的物品或其存储块. 会分解为生物质, 较稀有的物品提供更多生物质."
+  },
+  "subtitles.nautec.abyssal_maw.ambient": {
+    "en": "Abyssal Maw rumbles",
+    "zh": "深渊巨口低鸣"
+  },
+  "subtitles.nautec.abyssal_maw.attack": {
+    "en": "Abyssal Maw bites",
+    "zh": "深渊巨口撕咬"
+  },
+  "subtitles.nautec.abyssal_maw.death": {
+    "en": "Abyssal Maw dies",
+    "zh": "深渊巨口死亡"
+  },
+  "subtitles.nautec.abyssal_maw.hurt": {
+    "en": "Abyssal Maw hurts",
+    "zh": "深渊巨口受伤"
+  },
+  "subtitles.nautec.atlantean_rifle.charge": {
+    "en": "Atlantean Rifle spins up",
+    "zh": "亚特兰蒂斯步枪蓄能"
+  },
+  "subtitles.nautec.atlantean_rifle.fire": {
+    "en": "Particle beam burns",
+    "zh": "粒子束灼烧"
+  },
+  "subtitles.nautec.atlantean_rifle.spark": {
+    "en": "Atlantean Rifle crackles",
+    "zh": "亚特兰蒂斯步枪噼啪作响"
+  },
+  "subtitles.nautec.dock.clamp": {
+    "en": "Dock clamps hull",
+    "zh": "船坞夹紧艇体"
+  },
+  "subtitles.nautec.dock.release": {
+    "en": "Dock releases hull",
+    "zh": "船坞释放艇体"
+  },
+  "subtitles.nautec.extradimensional_storage.hum": {
+    "en": "Singularity hums",
+    "zh": "奇点嗡鸣"
+  },
+  "subtitles.nautec.fuel_cell.burn": {
+    "en": "Colony feeds the cell",
+    "zh": "菌落为电池供能"
+  },
+  "subtitles.nautec.gateway.ambient": {
+    "en": "Gateway hums",
+    "zh": "传送门嗡鸣"
+  },
+  "subtitles.nautec.gateway.recode": {
+    "en": "Gateway address set",
+    "zh": "传送门地址已设置"
+  },
+  "subtitles.nautec.gateway.travel": {
+    "en": "Gateway swallows",
+    "zh": "传送门吞没"
+  },
+  "subtitles.nautec.gateway.unlinked": {
+    "en": "Gateway finds no pair",
+    "zh": "传送门未找到配对目标"
+  },
+  "subtitles.nautec.lantern_jelly.ambient": {
+    "en": "Lantern Jelly burbles",
+    "zh": "灯笼水母咕嘟作响"
+  },
+  "subtitles.nautec.lantern_jelly.death": {
+    "en": "Lantern Jelly dies",
+    "zh": "灯笼水母死亡"
+  },
+  "subtitles.nautec.lantern_jelly.hurt": {
+    "en": "Lantern Jelly hurts",
+    "zh": "灯笼水母受伤"
+  },
+  "subtitles.nautec.lantern_jelly.pulse": {
+    "en": "Lantern Jelly pulses",
+    "zh": "灯笼水母脉动"
+  },
+  "subtitles.nautec.optics.hum": {
+    "en": "Optics hum",
+    "zh": "光学设备嗡鸣"
+  },
+  "subtitles.nautec.pressure_forge.complete": {
+    "en": "Pressure Forge finishes",
+    "zh": "压力锻炉完成加工"
+  },
+  "subtitles.nautec.pressure_forge.work": {
+    "en": "Pressure Forge works",
+    "zh": "压力锻炉运作"
+  },
+  "subtitles.nautec.resonance.charge": {
+    "en": "Resonance Chamber rings",
+    "zh": "共鸣室鸣响"
+  },
+  "subtitles.nautec.resonance.craft": {
+    "en": "Resonance settles",
+    "zh": "共鸣平息"
+  },
+  "subtitles.nautec.resonance.vent": {
+    "en": "Resonance Chamber vents",
+    "zh": "共鸣室排气"
+  },
+  "subtitles.nautec.resonant_cistern.open": {
+    "en": "Resonant Cistern sloshes",
+    "zh": "共鸣储液罐水声晃荡"
+  },
+  "subtitles.nautec.resonant_storage.recode": {
+    "en": "Resonant channel set",
+    "zh": "共鸣频道已设置"
+  },
+  "subtitles.nautec.resonant_vault.close": {
+    "en": "Resonant Vault closes",
+    "zh": "共鸣储物库关闭"
+  },
+  "subtitles.nautec.resonant_vault.open": {
+    "en": "Resonant Vault opens",
+    "zh": "共鸣储物库开启"
+  },
+  "subtitles.nautec.silt_skipper.ambient": {
+    "en": "Silt Skipper bubbles",
+    "zh": "淤泥跳鱼吐泡"
+  },
+  "subtitles.nautec.silt_skipper.death": {
+    "en": "Silt Skipper dies",
+    "zh": "淤泥跳鱼死亡"
+  },
+  "subtitles.nautec.silt_skipper.flop": {
+    "en": "Silt Skipper flops",
+    "zh": "淤泥跳鱼扑腾"
+  },
+  "subtitles.nautec.silt_skipper.hurt": {
+    "en": "Silt Skipper hurts",
+    "zh": "淤泥跳鱼受伤"
+  },
+  "subtitles.nautec.submarine.ambient": {
+    "en": "Sea Scout hull hums",
+    "zh": "海洋侦察艇艇体嗡鸣"
+  },
+  "subtitles.nautec.submarine.boost": {
+    "en": "Thrusters surge",
+    "zh": "推进器喷涌"
+  },
+  "subtitles.nautec.submarine.deploy": {
+    "en": "Sea Scout canopy seals",
+    "zh": "海洋侦察艇舱罩密闭"
+  },
+  "subtitles.nautec.submarine.engine": {
+    "en": "Sea Scout thrusters churn",
+    "zh": "海洋侦察艇推进器轰鸣"
+  },
+  "subtitles.nautec.submarine.hull_damage": {
+    "en": "Hull takes a hit",
+    "zh": "艇体受到冲击"
+  },
+  "subtitles.nautec.submarine.laser_loop": {
+    "en": "Impulse lasers burn",
+    "zh": "脉冲激光灼烧"
+  },
+  "subtitles.nautec.submarine.low_power": {
+    "en": "Power reserve warning",
+    "zh": "储备能量警报"
+  },
+  "subtitles.nautec.submarine.module_install": {
+    "en": "Module seats home",
+    "zh": "模块安装到位"
+  },
+  "subtitles.nautec.submarine.shield_pulse": {
+    "en": "Shield discharges",
+    "zh": "护盾放电"
+  },
+  "subtitles.nautec.submarine.sonar_ping": {
+    "en": "Sonar pings",
+    "zh": "声呐鸣响"
+  },
+  "subtitles.nautec.submarine.stealth": {
+    "en": "Hull goes quiet",
+    "zh": "艇体进入静默"
+  },
+  "subtitles.nautec.submarine.stow": {
+    "en": "Sea Scout canopy opens",
+    "zh": "海洋侦察艇舱罩打开"
+  },
+  "subtitles.nautec.submarine.teleport_charge": {
+    "en": "Sea Scout folds the water",
+    "zh": "海洋侦察艇折叠水体"
+  },
+  "subtitles.nautec.submarine.teleport_whoosh": {
+    "en": "Sea Scout jumps",
+    "zh": "海洋侦察艇跃迁"
+  },
+  "subtitles.nautec.vent_crawler.ambient": {
+    "en": "Vent Crawler clicks",
+    "zh": "热泉爬行者咔哒作响"
+  },
+  "subtitles.nautec.vent_crawler.death": {
+    "en": "Vent Crawler dies",
+    "zh": "热泉爬行者死亡"
+  },
+  "subtitles.nautec.vent_crawler.hurt": {
+    "en": "Vent Crawler hurts",
+    "zh": "热泉爬行者受伤"
+  },
+  "subtitles.nautec.vent_crawler.step": {
+    "en": "Vent Crawler scuttles",
+    "zh": "热泉爬行者爬行"
+  },
+  "subtitles.nautec.wave_jet.loop": {
+    "en": "Wave Jet drives",
+    "zh": "水流喷射器运作"
+  },
+  "subtitles.nautec.wave_jet.start": {
+    "en": "Wave Jet spins up",
+    "zh": "水流喷射器启动"
+  },
+  "subtitles.nautec.wave_jet.stop": {
+    "en": "Wave Jet winds down",
+    "zh": "水流喷射器停转"
+  }
+}

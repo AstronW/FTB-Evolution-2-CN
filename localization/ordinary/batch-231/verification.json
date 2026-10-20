@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "231",
+  "namespace": "reliquary",
+  "source_keys": 156,
+  "unique_values": 152,
+  "chinese_values": 151,
+  "reviewed_non_prose_values": 5,
+  "installed_overlay_keys": 156,
+  "source_sha256": "b6ddea26889e108ddd22bb99b062e7fbb77de195ece92a2e7adb0d66ea428a4e",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "190",
+  "namespace": "waystones",
+  "source_keys": 11,
+  "unique_values": 8,
+  "chinese_values": 6,
+  "reviewed_non_prose_values": 5,
+  "installed_overlay_keys": 11,
+  "source_sha256": "e246fd08f772d97c6bd1f5fee3de7063532f5607c4459451cf471857f912858c",
+  "in_game_tested": false
+}

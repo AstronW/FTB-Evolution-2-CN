@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "205",
+  "namespace": "easy_villagers",
+  "source_keys": 2,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 2,
+  "source_sha256": "fdeafe4791a61a3ec069fe6be2d7cd58591d7ca0f1ff8462e6e82af9eacbb730",
+  "in_game_tested": false
+}

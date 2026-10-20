@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "202",
+  "namespace": "squatgrow",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 4,
+  "source_sha256": "3c1efc1c94abb26c3a03e08b7e960791bd0372e3b179bcb11cadcd62fb770618",
+  "in_game_tested": false
+}

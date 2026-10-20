@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "186",
+  "namespace": "simple_weather",
+  "source_keys": 24,
+  "unique_values": 20,
+  "chinese_values": 24,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 24,
+  "source_sha256": "8d3ea59a005d8589b1fe4b737caac37579d692ca9b03efa7165d9d0dfec801a7",
+  "in_game_tested": false
+}

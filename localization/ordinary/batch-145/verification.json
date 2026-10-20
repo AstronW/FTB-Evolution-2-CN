@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "145",
+  "namespace": "horsingaround",
+  "source_keys": 25,
+  "unique_values": 25,
+  "chinese_values": 24,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 25,
+  "source_sha256": "64944a1066ce83b0bd44cda80def36f5c35bb1b249454c15270c5072204ba1d6",
+  "in_game_tested": false
+}

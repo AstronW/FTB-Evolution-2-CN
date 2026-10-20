@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "022",
+  "namespace": "logisticsnetworks",
+  "source_keys": 277,
+  "unique_values": 266,
+  "chinese_values": 256,
+  "reviewed_non_prose_values": 21,
+  "installed_overlay_keys": 277,
+  "source_sha256": "a0cc31c4b397a6e8a661ba27e6ce5b19148e951376af948d147b034b0bea35c8",
+  "in_game_tested": false
+}

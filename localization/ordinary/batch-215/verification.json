@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "215",
+  "namespace": "dimresources",
+  "source_keys": 20,
+  "unique_values": 20,
+  "chinese_values": 20,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 20,
+  "source_sha256": "2565cc319db4c6b15b14e8278d3ee0b852c94a931c5c62ebdda75dae8e7e2964",
+  "in_game_tested": false
+}

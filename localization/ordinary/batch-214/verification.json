@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "214",
+  "namespace": "structurify",
+  "source_keys": 50,
+  "unique_values": 46,
+  "chinese_values": 50,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 50,
+  "source_sha256": "065a7eb5d660160512a41c03a8cc2d51f00d63778ba2d128351f5eb1846992c9",
+  "in_game_tested": false
+}

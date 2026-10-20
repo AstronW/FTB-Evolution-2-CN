@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "218",
+  "namespace": "betterstrongholds",
+  "source_keys": 10,
+  "unique_values": 9,
+  "chinese_values": 8,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 10,
+  "source_sha256": "94ae9d1bf3fe32f1a90e81db9a055efe7069a6da0311b97662f9c134c12382ae",
+  "in_game_tested": false
+}

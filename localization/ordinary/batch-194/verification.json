@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "194",
+  "namespace": "sophisticateditemactions",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 7,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 7,
+  "source_sha256": "4ca390f3993d2925a716d31bc6ebc699bbf5fae41012c30cd7e43b97f86ce1c2",
+  "in_game_tested": false
+}

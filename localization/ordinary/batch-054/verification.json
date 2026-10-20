@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "054",
+  "namespace": "ltxi",
+  "source_keys": 7,
+  "unique_values": 6,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 7,
+  "source_sha256": "e8987c14acd0506473f0f36fd4d7a3c409cfd508d2b20310113392fdf022affd",
+  "in_game_tested": false
+}

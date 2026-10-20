@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "242",
+  "namespace": "modernfix",
+  "source_keys": 22,
+  "unique_values": 22,
+  "chinese_values": 22,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 22,
+  "source_sha256": "aeab85d3fd1d8edbbd277e8a665e97c4e98ba0a813c8ba46f009f80ea6b4e0d8",
+  "in_game_tested": false
+}

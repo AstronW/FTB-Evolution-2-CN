@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "117",
+  "namespace": "resourcefulconfig",
+  "source_keys": 32,
+  "unique_values": 32,
+  "chinese_values": 31,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 32,
+  "source_sha256": "477bdad1482cddac869c98c2e1570ff2e348334e974feb24e1b8f5c298b848cd",
+  "in_game_tested": false
+}

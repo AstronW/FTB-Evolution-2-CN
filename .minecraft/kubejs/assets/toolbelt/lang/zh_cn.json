@@ -1,0 +1,15 @@
+{
+  "text.toolbelt.config.category.common_general": "通用设置",
+  "text.toolbelt.config.category.client_display": "显示设置",
+  "text.toolbelt.config.category.client_menu": "轮盘菜单设置",
+  "text.toolbelt.config.enable_sewing_kit_support": "启用 SewingKit 配方",
+  "text.toolbelt.config.anvil_upgrading": "启用铁砧升级配方",
+  "text.toolbelt.config.enable_grid_crafting": "启用合成网格配方",
+  "text.toolbelt.config.custom_belt_slot_mode": "自定义腰带槽位",
+  "text.toolbelt.config.show_belt_on_players": "在玩家身上显示腰带",
+  "text.toolbelt.config.belt_item_scale": "腰带物品缩放",
+  "text.toolbelt.config.release_to_swap": "松开以交换",
+  "text.toolbelt.config.clip_mouse_to_circle": "将鼠标限制在圆内",
+  "text.toolbelt.config.click_outside_bounds": "允许在边界外点击",
+  "text.toolbelt.config.display_empty_slots": "显示空槽位"
+}

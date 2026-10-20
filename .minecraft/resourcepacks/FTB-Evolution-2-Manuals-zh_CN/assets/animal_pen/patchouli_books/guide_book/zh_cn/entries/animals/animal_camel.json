@@ -1,0 +1,22 @@
+{
+  "name": "骆驼",
+  "icon": "minecraft:camel_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:camel",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:camel_food",
+      "text": "用仙人掌喂骆驼进行繁殖, 增加围栏里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死骆驼并掉落其战利品."
+    }
+  ]
+}

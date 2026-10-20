@@ -1,0 +1,430 @@
+{
+  "advancement.auroral.aurora_lantern.description": {
+    "en": "Craft an Aurora Lantern",
+    "zh": "合成一盏极光灯"
+  },
+  "advancement.auroral.aurora_lantern.title": {
+    "en": "Guiding Light",
+    "zh": "指引之光"
+  },
+  "advancement.auroral.aurora_shard.description": {
+    "en": "Collect an Aurora Shard",
+    "zh": "收集一枚极光碎片"
+  },
+  "advancement.auroral.aurora_shard.title": {
+    "en": "Celestial Gift",
+    "zh": "天赐之物"
+  },
+  "advancement.auroral.auroral_snowlette.description": {
+    "en": "Tame an Auroral Snowlette",
+    "zh": "驯服一只极光雪灵"
+  },
+  "advancement.auroral.auroral_snowlette.title": {
+    "en": "Frozen Companion",
+    "zh": "冰封伙伴"
+  },
+  "advancement.auroral.cold_brewing_stand.description": {
+    "en": "Craft a Cold Brewing Stand",
+    "zh": "合成低温酿造台"
+  },
+  "advancement.auroral.cold_brewing_stand.title": {
+    "en": "Cold Alchemy",
+    "zh": "低温炼金"
+  },
+  "advancement.auroral.glacial_basin.description": {
+    "en": "Craft a Glacial Basin to harness aurora energy",
+    "zh": "合成冰川之盆以汇聚极光能量"
+  },
+  "advancement.auroral.glacial_basin.title": {
+    "en": "Frozen Forge",
+    "zh": "冰封熔炉"
+  },
+  "advancement.auroral.glow_leek.description": {
+    "en": "Harvest a Glow-Leek",
+    "zh": "收获发光韭葱"
+  },
+  "advancement.auroral.glow_leek.title": {
+    "en": "Night Vision",
+    "zh": "夜视"
+  },
+  "advancement.auroral.hearthwood_log.description": {
+    "en": "Obtain a Hearthwood Log",
+    "zh": "获得炉木原木"
+  },
+  "advancement.auroral.hearthwood_log.title": {
+    "en": "Hearth and Home",
+    "zh": "炉火与家"
+  },
+  "advancement.auroral.ride_nautilus.description": {
+    "en": "Ride an Auroral Nautilus",
+    "zh": "骑乘极光鹦鹉螺"
+  },
+  "advancement.auroral.ride_nautilus.title": {
+    "en": "Sky Sailor",
+    "zh": "天穹航者"
+  },
+  "advancement.auroral.root.description": {
+    "en": "Enter a world touched by the aurora",
+    "zh": "进入一个被极光眷顾的世界"
+  },
+  "advancement.auroral.shimmer_spear.description": {
+    "en": "Craft a Shimmer Spear",
+    "zh": "合成微光矛"
+  },
+  "advancement.auroral.shimmer_spear.title": {
+    "en": "Northern Star",
+    "zh": "北极星"
+  },
+  "advancement.auroral.shimmersteel_ingot.description": {
+    "en": "Create a Shimmersteel Ingot through aurora infusion",
+    "zh": "通过极光灌注制作微光钢锭"
+  },
+  "advancement.auroral.shimmersteel_ingot.title": {
+    "en": "Celestial Metal",
+    "zh": "天界金属"
+  },
+  "advancement.auroral.shimmersteel_tools.description": {
+    "en": "Craft all Shimmersteel tools",
+    "zh": "合成全部微光钢工具"
+  },
+  "advancement.auroral.shimmersteel_tools.title": {
+    "en": "Ice Armory",
+    "zh": "寒冰军械"
+  },
+  "advancement.auroral.shimmerweave_armor.description": {
+    "en": "Craft a full set of Shimmerweave armor",
+    "zh": "合成一整套微光编织护甲"
+  },
+  "advancement.auroral.shimmerweave_armor.title": {
+    "en": "Aurora Clad",
+    "zh": "极光披身"
+  },
+  "advancement.auroral.shimmerweave_fabric.description": {
+    "en": "Create Shimmerweave Fabric through aurora infusion",
+    "zh": "通过极光灌注制作微光布"
+  },
+  "advancement.auroral.shimmerweave_fabric.title": {
+    "en": "Woven Light",
+    "zh": "织光"
+  },
+  "advancement.auroral.warden_slayer.description": {
+    "en": "Slay a Warden while holding an Aurora Lantern",
+    "zh": "手持极光灯击杀监守者"
+  },
+  "advancement.auroral.warden_slayer.title": {
+    "en": "Light in the Darkness",
+    "zh": "黑暗中的光"
+  },
+  "block.auroral.aurora_bloom": {
+    "en": "Aurora Bloom",
+    "zh": "极光花"
+  },
+  "block.auroral.aurora_bloom_decorative": {
+    "en": "Aurora Bloom",
+    "zh": "极光花"
+  },
+  "block.auroral.aurora_lantern": {
+    "en": "Aurora Lantern",
+    "zh": "极光灯"
+  },
+  "block.auroral.cold_brewing_stand": {
+    "en": "Cold Brewing Stand",
+    "zh": "低温酿造台"
+  },
+  "block.auroral.ender_bloom": {
+    "en": "Ender Bloom",
+    "zh": "末影花"
+  },
+  "block.auroral.glacial_basin": {
+    "en": "Glacial Basin",
+    "zh": "冰川之盆"
+  },
+  "block.auroral.glacial_basin.aura_level": {
+    "en": "Aura Level: %d/%d",
+    "zh": "灵气等级: %d/%d"
+  },
+  "block.auroral.glacial_basin.aurora_active": {
+    "en": "Aurora Active - Collecting Aura",
+    "zh": "极光活跃 - 正在收集灵气"
+  },
+  "block.auroral.glacial_basin.aurora_inactive": {
+    "en": "Waiting for Aurora...",
+    "zh": "等待极光..."
+  },
+  "block.auroral.glacial_basin.infusion_hint": {
+    "en": "Right-click with items during Aurora to infuse",
+    "zh": "极光期间手持物品右击以灌注"
+  },
+  "block.auroral.glacial_basin.not_enough_aura": {
+    "en": "Requires %d aura levels",
+    "zh": "需要 %d 级灵气"
+  },
+  "block.auroral.glow_leek": {
+    "en": "Glow-Leek",
+    "zh": "发光韭葱"
+  },
+  "block.auroral.glow_leek_seeds": {
+    "en": "Glow-Leek Seeds",
+    "zh": "发光韭葱种子"
+  },
+  "block.auroral.hearthwood_log": {
+    "en": "Hearthwood Log",
+    "zh": "炉木原木"
+  },
+  "block.auroral.potted_aurora_bloom_decorative": {
+    "en": "Aurora Bloom",
+    "zh": "极光花"
+  },
+  "block.auroral.shimmer_soil": {
+    "en": "Shimmer Soil",
+    "zh": "微光土壤"
+  },
+  "block.auroral.shimmering_ice": {
+    "en": "Shimmering Ice",
+    "zh": "微光冰"
+  },
+  "block.auroral.snow_angel": {
+    "en": "Snow Angel",
+    "zh": "雪天使"
+  },
+  "config.jade.plugin_auroral.glacial_basin": {
+    "en": "Glacial Basin",
+    "zh": "冰川之盆"
+  },
+  "effect.auroral.frostbite": {
+    "en": "Frostbite",
+    "zh": "霜噬"
+  },
+  "effect.auroral.frostbite_immunity": {
+    "en": "Frostbite Immunity",
+    "zh": "霜噬免疫"
+  },
+  "entity.auroral.auroral_nautilus": {
+    "en": "Auroral Nautilus",
+    "zh": "极光鹦鹉螺"
+  },
+  "entity.auroral.auroral_snowlette": {
+    "en": "Auroral Snowlette",
+    "zh": "极光雪灵"
+  },
+  "entity.auroral.star_shot": {
+    "en": "Star-Shot",
+    "zh": "星弹"
+  },
+  "entity.auroral.thrown_shimmer_spear": {
+    "en": "Shimmer Spear",
+    "zh": "微光矛"
+  },
+  "item.auroral.aurora_ender_shard": {
+    "en": "Aurora Ender Shard",
+    "zh": "极光末影碎片"
+  },
+  "item.auroral.aurora_shard": {
+    "en": "Aurora Shard",
+    "zh": "极光碎片"
+  },
+  "item.auroral.auroral_nautilus_spawn_egg": {
+    "en": "Auroral Nautilus Spawn Egg",
+    "zh": "极光鹦鹉螺刷怪蛋"
+  },
+  "item.auroral.auroral_snowlette_spawn_egg": {
+    "en": "Auroral Snowlette Spawn Egg",
+    "zh": "极光雪灵刷怪蛋"
+  },
+  "item.auroral.candied_glow_leek": {
+    "en": "Candied Glow-Leek",
+    "zh": "糖渍发光韭葱"
+  },
+  "item.auroral.frosted_cookies": {
+    "en": "Frosted Cookies",
+    "zh": "霜糖饼干"
+  },
+  "item.auroral.frozen_petals": {
+    "en": "Frozen Petals",
+    "zh": "冻结花瓣"
+  },
+  "item.auroral.glow_leek": {
+    "en": "Glow-Leek",
+    "zh": "发光韭葱"
+  },
+  "item.auroral.guide": {
+    "en": "The Auroral Guidebook",
+    "zh": "极光指南"
+  },
+  "item.auroral.guide.missing_guideme": {
+    "en": "Install GuideME to read the Auroral guide",
+    "zh": "安装 GuideME 以阅读极光指南"
+  },
+  "item.auroral.hot_cocoa": {
+    "en": "Hot Cocoa",
+    "zh": "热可可"
+  },
+  "item.auroral.roasted_snowball": {
+    "en": "Roasted Snowball",
+    "zh": "烤雪球"
+  },
+  "item.auroral.roasted_snowball.eaten": {
+    "en": "The Magestic Nautili will no longer Soar In your skies",
+    "zh": "威严的鹦鹉螺将不再翱翔于你的天空"
+  },
+  "item.auroral.roasted_snowball.tooltip.line1": {
+    "en": "A toasted snowball. Delicious, lightly filling.",
+    "zh": "烤过的雪球.美味, 略微充饥."
+  },
+  "item.auroral.roasted_snowball.tooltip.line2": {
+    "en": "Eating one offends the Auroral Nautili. Wild Nautili will no longer spawn near you.",
+    "zh": "食用会冒犯极光鹦鹉螺.野生鹦鹉螺将不再在你附近生成."
+  },
+  "item.auroral.shimmer_spear": {
+    "en": "Shimmer Spear",
+    "zh": "微光矛"
+  },
+  "item.auroral.shimmersteel_axe": {
+    "en": "Shimmersteel Axe",
+    "zh": "微光钢斧"
+  },
+  "item.auroral.shimmersteel_bow": {
+    "en": "Shimmersteel Bow",
+    "zh": "微光钢弓"
+  },
+  "item.auroral.shimmersteel_hoe": {
+    "en": "Shimmersteel Hoe",
+    "zh": "微光钢锄"
+  },
+  "item.auroral.shimmersteel_ingot": {
+    "en": "Shimmersteel Ingot",
+    "zh": "微光钢锭"
+  },
+  "item.auroral.shimmersteel_pickaxe": {
+    "en": "Shimmersteel Pickaxe",
+    "zh": "微光钢镐"
+  },
+  "item.auroral.shimmersteel_shovel": {
+    "en": "Shimmersteel Shovel",
+    "zh": "微光钢锹"
+  },
+  "item.auroral.shimmersteel_sword": {
+    "en": "Shimmersteel Sword",
+    "zh": "微光钢剑"
+  },
+  "item.auroral.shimmersteel_upgrade_smithing_template": {
+    "en": "Smithing Template",
+    "zh": "锻造模板"
+  },
+  "item.auroral.shimmerweave_fabric": {
+    "en": "Shimmerweave Fabric",
+    "zh": "微光布"
+  },
+  "item.auroral.shimmerweave_goggles": {
+    "en": "Shimmerweave Goggles",
+    "zh": "微光护目镜"
+  },
+  "item.auroral.shimmerweave_leggings": {
+    "en": "Shimmerweave Leggings",
+    "zh": "微光护腿"
+  },
+  "item.auroral.shimmerweave_skates": {
+    "en": "Shimmerweave Skates",
+    "zh": "微光冰刀靴"
+  },
+  "item.auroral.shimmerweave_tunic": {
+    "en": "Shimmerweave Tunic",
+    "zh": "微光外衣"
+  },
+  "item.auroral.smithing_template.shimmersteel_upgrade.additions_slot_description": {
+    "en": "Add Shimmersteel Ingot or Shimmerweave Fabric",
+    "zh": "放入微光钢锭或微光布"
+  },
+  "item.auroral.smithing_template.shimmersteel_upgrade.applies_to": {
+    "en": "Iron Equipment",
+    "zh": "铁制装备"
+  },
+  "item.auroral.smithing_template.shimmersteel_upgrade.base_slot_description": {
+    "en": "Add iron armor, weapon, or tool",
+    "zh": "放入铁制护甲, 武器或工具"
+  },
+  "item.auroral.smithing_template.shimmersteel_upgrade.ingredients": {
+    "en": "Shimmersteel Ingot or Shimmerweave Fabric",
+    "zh": "微光钢锭或微光布"
+  },
+  "item.auroral.sugared_roasted_snowball": {
+    "en": "Sugared Roasted Snowball",
+    "zh": "糖霜烤雪球"
+  },
+  "item.auroral.sugared_roasted_snowball.eaten": {
+    "en": "The Majestic Nautili fly once again!",
+    "zh": "威严的鹦鹉螺再次飞翔!"
+  },
+  "item.auroral.sugared_roasted_snowball.tooltip.line1": {
+    "en": "A Roasted Snowball rolled in sugar. Light snack, shiny coating.",
+    "zh": "裹上糖的烤雪球.轻盈的小食, 闪亮的外壳."
+  },
+  "item.auroral.sugared_roasted_snowball.tooltip.line2": {
+    "en": "Eating one apologizes to the Auroral Nautili so they grace your skies again.",
+    "zh": "食用即向极光鹦鹉螺致歉, 它们将再次降临你的天空."
+  },
+  "item.auroral.unrefined_shimmersteel": {
+    "en": "Unrefined Shimmersteel",
+    "zh": "未精炼微光钢"
+  },
+  "item.auroral.woven_leather": {
+    "en": "Woven Leather",
+    "zh": "编织皮革"
+  },
+  "subtitles.auroral.aurora_ambient": {
+    "en": "Aurora hums",
+    "zh": "极光低鸣"
+  },
+  "subtitles.auroral.aurora_end": {
+    "en": "Aurora fades",
+    "zh": "极光消退"
+  },
+  "subtitles.auroral.aurora_start": {
+    "en": "Aurora begins",
+    "zh": "极光浮现"
+  },
+  "subtitles.auroral.basin_fill": {
+    "en": "Basin fills with aura",
+    "zh": "冰川之盆充满灵气"
+  },
+  "subtitles.auroral.basin_infuse": {
+    "en": "Basin infuses",
+    "zh": "冰川之盆灌注"
+  },
+  "subtitles.auroral.hearthwood_log_crackle": {
+    "en": "Hearthwood Log crackles",
+    "zh": "炉木噼啪作响"
+  },
+  "subtitles.auroral.hearthwood_log_ignite": {
+    "en": "Hearthwood Log ignites",
+    "zh": "炉木点燃"
+  },
+  "subtitles.auroral.nautilus_ambient": {
+    "en": "Auroral Nautilus chimes",
+    "zh": "极光鹦鹉螺鸣响"
+  },
+  "subtitles.auroral.nautilus_death": {
+    "en": "Auroral Nautilus fades",
+    "zh": "极光鹦鹉螺消散"
+  },
+  "subtitles.auroral.nautilus_spawn": {
+    "en": "Auroral Nautilus appears",
+    "zh": "极光鹦鹉螺出现"
+  },
+  "subtitles.auroral.skates_slide": {
+    "en": "Skates slide",
+    "zh": "冰刀滑行"
+  },
+  "subtitles.auroral.star_shot_fire": {
+    "en": "Star-Shot fires",
+    "zh": "星弹发射"
+  },
+  "subtitles.auroral.star_shot_impact": {
+    "en": "Star-Shot explodes",
+    "zh": "星弹爆裂"
+  },
+  "trim_material.auroral.shimmersteel": {
+    "en": "Shimmersteel Material",
+    "zh": "微光钢材质"
+  }
+}

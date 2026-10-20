@@ -1,0 +1,135 @@
+{
+  "name": "刷怪笼符文",
+  "icon": "apotheosis:spawner_rune",
+  "category": "apotheosis:spawner/spawner",
+  "flag": "apotheosis:spawner",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "读完$(l:apotheosis:spawner/stats)刷怪笼属性$()后, 你可能想知道如何修改它们.$(p)请看$(9)刷怪笼符文$().手持符文右键点击$(9)刷怪笼$()即可施加.$(p)每种符文及其效果都可以在 JEI 中刷怪笼的用途一栏查看."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:spawner_chain",
+      "title": "刷怪笼锁链",
+      "text": "符文由$(9)刷怪笼锁链$()锻造而成, 后者在刷怪笼被爆炸摧毁时掉落.$(p)初始爆炸会引发连锁反应.几秒后它会再次爆炸, 把储存的生物和大量锁链撒落一地."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "apotheosis:spawner_rune",
+      "title": "空白符文",
+      "text": "拿到锁链后, 首先要合成一些空白$(9)刷怪笼符文$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "升级符文",
+      "text": "共有四种核心升级符文, 对应居所之上的每个世界层级.$(p)这些符文修改核心属性: 最小/最大生成延迟, 生成数量, 最大实体数与激活范围."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "拓荒者符文",
+      "recipe": "apotheosis:frontier_spawner_upgrade_rune",
+      "text": "每种层级符文都以该层级的$(9)稀有材料$()为核心合成."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "旅行者符文",
+      "recipe": "apotheosis:ascent_spawner_upgrade_rune",
+      "text": "核心属性的提升幅度随符文层级提高."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "登山者符文",
+      "recipe": "apotheosis:summit_spawner_upgrade_rune",
+      "text": "更高层级的符文需要$(9)灌注刷怪笼符文$()和更稀有的材料."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "雷霆符文",
+      "recipe": "apotheosis:pinnacle_spawner_upgrade_rune",
+      "text": "最终符文将造出一台永不停止的造怪引擎."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "属性符文",
+      "text": "修改其他 (非核心) 属性需要专用于该属性的符文.每种属性各有一枚符文, 造价取决于效果的强度."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "生成范围",
+      "recipe": "apotheosis:spawn_range_spawner_rune",
+      "text": "这种符文改变刷怪笼的生成范围."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "控制",
+      "recipe": "apotheosis:redstone_control_spawner_rune",
+      "text": "这种符文为刷怪笼提供红石控制.没有红石信号时刷怪笼不会运作."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "永夜",
+      "recipe": "apotheosis:ignore_light_spawner_rune",
+      "text": "这种符文使刷怪过程无视光照等级.$(p)黑暗生物可以在亮处生成, 反之亦然."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "肃静!",
+      "recipe": "apotheosis:silent_spawner_rune",
+      "text": "这种符文让所有生成的生物不再发出声音.$(p)没有受伤声, 没有环境音, 什么都没有."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "青春之泉",
+      "recipe": "apotheosis:youthful_spawner_rune",
+      "text": "这种符文会让生成的生物变回幼年形态.$(p)前提是它有幼年形态.没有的话就什么也不会发生."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "燃尽一切!",
+      "recipe": "apotheosis:burning_spawner_rune",
+      "text": "这种符文会让生成的生物着火.$(p)显然, 如果生物免疫火焰就没有效果."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "apotheosis:infused_spawner_rune",
+      "title": "灌注符文",
+      "text": "更强的符文需要$(9)灌注刷怪笼符文$(), 它通过灌注附魔制作."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "脑力抽空",
+      "recipe": "apotheosis:no_ai_spawner_rune",
+      "text": "这种灌注符文使生成的生物没有实体 AI.$(p)与\"真正的\"无 AI 生物不同, 它们仍然可以被推动."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "无视常理",
+      "recipe": "apotheosis:ignore_conditions_spawner_rune",
+      "text": "这种灌注符文是$(9)永夜符文$()的直接升级版.$(p)一切生成条件 (包括光照) 都会被无视.但仍需要空余空间."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "孑然一世",
+      "recipe": "apotheosis:ignore_players_spawner_rune",
+      "text": "这种灌注符文让刷怪笼在没有玩家靠近时也能运作.$(p)生物们也许会孤单."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "一次又一次",
+      "recipe": "apotheosis:echoing_spawner_rune",
+      "text": "这种灌注符文赋予回响, 使生成的生物额外掉落一份战利品表.$(p)可以叠加多次."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "反转符文",
+      "text": "施加符文时副手持有$(9)下界石英$()即可反转其效果.$(p)石英不会被消耗.$(p)层级符文无法反转."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "注意事项",
+      "text": "属性符文遵守 JEI 中显示的上限, 层级符文则直接设定数值.$(p)对着刷怪笼物品按住 Shift 可查看其属性."
+    }
+  ]
+}

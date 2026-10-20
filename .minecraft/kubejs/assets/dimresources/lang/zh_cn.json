@@ -1,0 +1,22 @@
+{
+  "block.dimresources.deepslate_dimensional_ore": "深层维度矿石",
+  "block.dimresources.dimensional_ore": "维度矿石",
+  "block.dimresources.dimensional_stone": "维度石",
+  "block.dimresources.dimensional_stone_brick_slab": "维度石砖台阶",
+  "block.dimresources.dimensional_stone_brick_stairs": "维度石砖楼梯",
+  "block.dimresources.dimensional_stone_brick_wall": "维度石砖墙",
+  "block.dimresources.dimensional_stone_bricks": "维度石砖",
+  "block.dimresources.dimensional_stone_slab": "维度石台阶",
+  "block.dimresources.dimensional_stone_stairs": "维度石楼梯",
+  "block.dimresources.dimensional_stone_wall": "维度石墙",
+  "block.dimresources.laser": "跨维度激光器",
+  "chat.dimresources.discovered_planet": "已发现行星: %s",
+  "item.dimresources.dimensional_shard": "维度碎片",
+  "item.dimresources.planet_locator": "行星定位器",
+  "itemGroup.dimresources": "维度资源",
+  "jei.dimensionalresources.laser": "激光采矿",
+  "jei.dimresource.weight": "权重: %s%%",
+  "tooltip.dimresources.laser_level": "最低激光等级: %s",
+  "tooltip.dimresources.planet": "行星: %s",
+  "tooltip.dimresources.rf_per_tick": "每刻 RF: %s"
+}

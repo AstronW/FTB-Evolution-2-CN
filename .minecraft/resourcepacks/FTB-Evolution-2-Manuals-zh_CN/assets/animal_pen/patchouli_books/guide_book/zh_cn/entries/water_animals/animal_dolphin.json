@@ -1,0 +1,22 @@
+{
+  "name": "海豚",
+  "icon": "minecraft:dolphin_spawn_egg",
+  "category": "animal_pen:category_aquarium",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:dolphin",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:fishes",
+      "text": "用任意鱼喂海豚进行繁殖, 增加水族箱里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对水族箱使用剑或斧会杀死海豚并掉落其战利品."
+    }
+  ]
+}

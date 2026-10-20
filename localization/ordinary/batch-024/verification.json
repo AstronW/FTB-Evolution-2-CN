@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "024",
+  "namespace": "collapsible_groups",
+  "source_keys": 246,
+  "unique_values": 237,
+  "chinese_values": 237,
+  "reviewed_non_prose_values": 9,
+  "installed_overlay_keys": 246,
+  "source_sha256": "4019461b496cd7de96643c81933f486c0c02345f7319fa95185189857d006704",
+  "in_game_tested": false
+}

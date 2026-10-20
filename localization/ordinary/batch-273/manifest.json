@@ -1,0 +1,14 @@
+{
+  "batch": "273",
+  "namespace": "pipezlagfix",
+  "jar": ".minecraft/mods/pipezlagfix-26.1.2-1.1.0.jar",
+  "language_path": "assets/pipezlagfix/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/pipezlagfix/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.pipezlagfix",
+    "block.pipezlagfix.example_block",
+    "item.pipezlagfix.example_item"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

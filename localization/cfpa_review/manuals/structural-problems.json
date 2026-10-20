@@ -1,0 +1,79 @@
+[
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/export_bus.md",
+    "type": "tags",
+    "en": [
+      "<GameScene zoom=\"8\" background=\"transparent\">",
+      "<ImportStructure src=\"../assets/blocks/export_bus.snbt\" />",
+      "</GameScene>",
+      "<ItemLink id=\"capacity_card\" />",
+      "<ItemLink id=\"speed_card\" />",
+      "<ItemLink id=\"fuzzy_card\" />",
+      "<ItemLink id=\"crafting_card\" />",
+      "<ItemLink id=\"redstone_card\" />",
+      "<RecipeFor id=\"import_bus\" />"
+    ],
+    "zh": [
+      "<a name=\"the-export-bus\">",
+      "</a>",
+      "<GameScene zoom=\"8\" background=\"transparent\">",
+      "<ImportStructure src=\"../assets/blocks/export_bus.snbt\" />",
+      "</GameScene>",
+      "<a name=\"filtering\">",
+      "</a>",
+      "<a name=\"upgrades\">",
+      "</a>",
+      "<ItemLink id=\"capacity_card\" />",
+      "<ItemLink id=\"speed_card\" />",
+      "<ItemLink id=\"fuzzy_card\" />",
+      "<ItemLink id=\"crafting_card\" />",
+      "<ItemLink id=\"redstone_card\" />",
+      "<a name=\"speeds\">",
+      "</a>",
+      "<a name=\"recipe\">",
+      "</a>",
+      "<RecipeFor id=\"export_bus\" />"
+    ]
+  },
+  {
+    "path": "assets/modularrouters/patchouli_books/book/en_us/entries/modules/breaker.json",
+    "field": "pages.0.text",
+    "type": "patchouli_macros",
+    "en": {
+      "l:router/item_router": 1,
+      "l:intro/modules#direction": 1
+    },
+    "zh": {
+      "l:router/modular_router": 1,
+      "l:intro/modules#direction": 1
+    }
+  },
+  {
+    "path": "assets/modularrouters/patchouli_books/book/en_us/entries/router/modular_router.json",
+    "field": "pages.6.text",
+    "type": "patchouli_macros",
+    "en": {
+      "t:Adjustable in mod config - 'ecoTimeout'": 1,
+      "t:Adjustable in mod config - 'lowPowerTickRate'": 1,
+      "l:upgrades/speed": 1
+    },
+    "zh": {
+      "t:在模组配置中可调 - 'ecoTimeout'": 1,
+      "t:在模组配置中可调 - 'lowPowerTickRate'": 1,
+      "l:upgrades/speed": 1
+    }
+  },
+  {
+    "path": "assets/productivebees/patchouli_books/guide/en_us/entries/bees/hive/coal.json",
+    "field": "pages.0.text",
+    "type": "patchouli_macros",
+    "en": {
+      "l:bees/hive/redstone": 1,
+      "l:bees/solitary/leafcutter": 1
+    },
+    "zh": {
+      "l:bees/solitary/magmatic": 1,
+      "l:bees/solitary/leafcutter": 1
+    }
+  }
+]

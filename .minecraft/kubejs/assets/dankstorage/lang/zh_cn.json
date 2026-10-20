@@ -1,0 +1,5 @@
+{
+  "dankstorage.sorting_type.modid": "排序, 模组 ID",
+  "dankstorage.sorting_type.modid.desc": "模组 ID, 先按模组 ID 排序, 再按注册名排序",
+  "text.dankstorage.formatcontaineditems": "%s %s"
+}

@@ -1,0 +1,12 @@
+{
+  "eclipseui.toggle.on": "开",
+  "eclipseui.toggle.off": "关",
+  "eclipseui.confirm.unsaved_changes.title": "未保存的更改",
+  "eclipseui.confirm.unsaved_changes.message": "你有未保存的更改.要放弃吗?",
+  "eclipseui.confirm.yes": "放弃",
+  "eclipseui.confirm.no": "取消",
+  "eclipseui.button.save": "保存",
+  "eclipseui.button.reset": "重置",
+  "eclipseui.button.done": "完成",
+  "eclipseui.colorpicker.title": "取色器"
+}

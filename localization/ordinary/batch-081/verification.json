@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "081",
+  "namespace": "refinedfluidsubstitution",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 3,
+  "source_sha256": "ef3a9a703cd02aa7ec427c2095ba5d1fe451684647f3f724883cbfdd24951470",
+  "in_game_tested": false
+}

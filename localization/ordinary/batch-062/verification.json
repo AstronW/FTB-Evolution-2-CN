@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "062",
+  "namespace": "stepcrafter",
+  "source_keys": 80,
+  "unique_values": 69,
+  "chinese_values": 80,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 80,
+  "source_sha256": "2184445666a7b0571b923e0f090a8359e9153dfd2408f41c263a8ee71694c293",
+  "in_game_tested": false
+}

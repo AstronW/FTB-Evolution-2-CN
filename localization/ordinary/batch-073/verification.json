@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "073",
+  "namespace": "functionalstorage",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 7,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 7,
+  "source_sha256": "2b1c7483a10a3711a4acbbd605b420b0acc90ab066e1bd5532402308d9b9591e",
+  "in_game_tested": false
+}

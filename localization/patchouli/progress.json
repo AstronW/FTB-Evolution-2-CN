@@ -1,0 +1,4450 @@
+[
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "categories/getting_started.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "categories/interdiction_modules.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "categories/machines.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "categories/projector_modes.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "categories/projector_modules.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "categories/tools.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "categories/upgrade_modules.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/getting_started/crafting_components.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/getting_started/fortron.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/getting_started/gathering_resources.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/getting_started/introduction.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/interdiction_modules/anti_friendly_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/interdiction_modules/anti_hostile_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/interdiction_modules/anti_personnel_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/interdiction_modules/anti_spawn_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/interdiction_modules/block_access_module.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/interdiction_modules/block_alter_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/interdiction_modules/confiscation_module.json",
+  "segments": 9,
+  "translated": 9,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/interdiction_modules/warn_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/machines/biometric_identifier.json",
+  "segments": 13,
+  "translated": 13,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/machines/coercion_deriver.json",
+  "segments": 10,
+  "translated": 10,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/machines/fortron_capacitor.json",
+  "segments": 9,
+  "translated": 9,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/machines/interdiction_matrix.json",
+  "segments": 6,
+  "translated": 6,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/machines/projector.json",
+  "segments": 9,
+  "translated": 9,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modes/cube_mode.json",
+  "segments": 7,
+  "translated": 7,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modes/custom_mode.json",
+  "segments": 12,
+  "translated": 12,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modes/cyllinder_mode.json",
+  "segments": 7,
+  "translated": 7,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modes/pyramid_mode.json",
+  "segments": 8,
+  "translated": 8,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modes/sphere_mode.json",
+  "segments": 7,
+  "translated": 7,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modes/tube_mode.json",
+  "segments": 7,
+  "translated": 7,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/camouflage_module.json",
+  "segments": 7,
+  "translated": 7,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/collection_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/disintegration_module.json",
+  "segments": 7,
+  "translated": 7,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/dome_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/fusion_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/glow_module.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/inverter_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/reinforcement_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/rotation_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/shock_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/silence_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/sponge_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/stabilization_module.json",
+  "segments": 12,
+  "translated": 12,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/projector_modules/translation_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/tools/frequency_card.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/tools/id_card.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/tools/remote_controller.json",
+  "segments": 7,
+  "translated": 7,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/upgrade_modules/capacity_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/upgrade_modules/scale_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "mffs",
+  "book": "handbook",
+  "file": "entries/upgrade_modules/speed_module.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "categories/category_animal_pen.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "categories/category_aquarium.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "categories/category_aviary.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "categories/category_items.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_armadillo.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_camel.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_cat.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_chicken.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_cow.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_donkey.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_fox.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_frog.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_goat.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_hoglin.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_horse.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_llama.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_mule.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_mushroom_cow.json",
+  "segments": 6,
+  "translated": 6,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_ocelot.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_panda.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_parrot.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_pig.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_polar_bear.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_rabbit.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_sheep.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_skeleton_horse.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_sniffer.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_strider.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_trader_llama.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_wolf.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/animals/animal_zombie_horse.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/crafting/crafting_animal_cage.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/crafting/crafting_animal_pen.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/crafting/crafting_aquarium.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/crafting/crafting_aviary.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/crafting/crafting_bird_catcher.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/crafting/crafting_water_animal_container.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/flying_animals/animal_allay.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/flying_animals/animal_bat.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/flying_animals/animal_bee.json",
+  "segments": 6,
+  "translated": 6,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/flying_animals/animal_parrot.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/other/comparator_animal_pen.json",
+  "segments": 10,
+  "translated": 10,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/other/comparator_aquarium.json",
+  "segments": 10,
+  "translated": 10,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/other/comparator_aviary.json",
+  "segments": 10,
+  "translated": 10,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/other/dispenser_animal_pen.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/other/dispenser_aquarium.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/other/dispenser_aviary.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/animal_axolotl.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/animal_dolphin.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/animal_frog.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/animal_glow_squid.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/animal_squid.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/animal_turtle.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/fish_cod.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/fish_pufferfish.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/fish_salmon.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/fish_tadpole.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "animal_pen",
+  "book": "guide_book",
+  "file": "entries/water_animals/fish_tropical_fish.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/adventure/adventure.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/adventure/affix_loot.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/adventure/attributes.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/adventure/gems.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/adventure/mobs.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/adventure/rogue_spawners.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/adventure/world_tiers.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/enchanting/changes.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/enchanting/enchanting.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/enchanting/enchantments.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/enchanting/progression.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/enchanting/table.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/enchanting/utility.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/potion/charms.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/potion/effects.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/potion/potion.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/potion/recipes.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "categories/spawner/spawner.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/affix_loot/affixes.json",
+  "segments": 14,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/affix_loot/augmenting.json",
+  "segments": 11,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/affix_loot/rarities.json",
+  "segments": 12,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/affix_loot/reforging.json",
+  "segments": 14,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/affix_loot/salvaging.json",
+  "segments": 7,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/affix_loot/wandering_trader.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/armor.json",
+  "segments": 5,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/armor_pierce.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/armor_shred.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/armor_toughness.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/attack_damage.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/attack_range.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/attack_speed.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/cold_damage.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/crit_chance.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/crit_damage.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/current_hp_damage.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/draw_speed.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/fire_damage.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/gravity.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/knockback.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/knockback_resistance.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/life_steal.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/luck.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/max_health.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/mining_speed.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/movement_speed.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/overheal.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/prot_pierce.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/prot_shred.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/reach_distance.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/step_height.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/attributes/swim_speed.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/gems/gem_case.json",
+  "segments": 8,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/gems/gem_cutting.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/gems/gem_dust.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/gems/gems.json",
+  "segments": 12,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/mobs/elites.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/mobs/invader_dungeons.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/mobs/invader_items.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/mobs/invaders.json",
+  "segments": 10,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/rogue_spawners/brutal_spawners.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/rogue_spawners/swarm_spawners.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/world_tiers/select_screen.json",
+  "segments": 10,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/world_tiers/unlocking_tiers.json",
+  "segments": 14,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/adventure/world_tiers/world_tiers.json",
+  "segments": 12,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/changes/enchantability.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/changes/experience_costs.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/changes/protection.json",
+  "segments": 5,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/changes/sharpness.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/changes/shears.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/changes/tridents.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/berserkers_fury.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/chainsaw.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/chromatic.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/crescendo.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/earths_boon.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/endless_quiver.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/exploitation.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/growth_serum.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/icy_thorns.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/knowledge.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/life_mending.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/miners_fervor.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/natures_blessing.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/rebounding.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/reflective.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/scavenger.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/shield_bash.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/stable_footing.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/tempting.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/enchantments/types.json",
+  "segments": 8,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/progression/levels1_30.json",
+  "segments": 5,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/progression/levels30_60.json",
+  "segments": 13,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/progression/levels60_80.json",
+  "segments": 11,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/progression/levels80_100.json",
+  "segments": 8,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/table/enchantability.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/table/info.json",
+  "segments": 15,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/table/infusion.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/table/power.json",
+  "segments": 5,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/table/seed.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/table/stats.json",
+  "segments": 17,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/utility/cobwebs.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/utility/filtering.json",
+  "segments": 6,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/utility/library.json",
+  "segments": 7,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/utility/scrapping.json",
+  "segments": 6,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/utility/tomes.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/enchanting/utility/treasure.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/charms/charm.json",
+  "segments": 7,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/charms/curios.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/charms/unbreakable.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/effects/bleeding.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/effects/grievous.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/effects/knowledge.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/effects/sundering.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/effects/vitality.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/recipes/absorption.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/recipes/fatigue.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/recipes/haste.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/recipes/resistance.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/potion/recipes/wither.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/spawner/capturing.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/spawner/runes.json",
+  "segments": 44,
+  "translated": 44,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/spawner/spawners.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "apotheosis",
+  "book": "apoth_chronicle",
+  "file": "entries/spawner/stats.json",
+  "segments": 23,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/affinities.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/blocks.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/bosses.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/components.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/entities.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/items.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/mechanics.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/modifiers.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/shapes.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "categories/talents.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/affinities.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/air.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/arcane.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/earth.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/ender.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/fire.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/ice.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/life.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/lightning.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/nature.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/affinities/water.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/black_aurem.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/celestial_prism.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/flowers.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/inlays.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/inscription_table.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/obelisk.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/occulus.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/ores.json",
+  "segments": 5,
+  "translated": 5,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/vinteum_torch.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/witchwood.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/blocks/wizards_chalk.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/air_guardian.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/arcane_guardian.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/earth_guardian.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/ender_guardian.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/fire_guardian.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/ice_guardian.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/life_guardian.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/lightning_guardian.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/nature_guardian.json",
+  "segments": 2,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/bosses/water_guardian.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/absorption.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/astral_distortion.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/attract.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/banish_rain.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/blindness.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/blink.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/blizzard.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/charm.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/create_water.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/daylight.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/dig.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/disarm.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/dispel.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/divine_intervention.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/drought.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/drowning_damage.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/ender_intervention.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/entangle.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/explosion.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/falling_star.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/fire_damage.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/fire_rain.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/flight.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/fling.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/forge.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/frost.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/frost_damage.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/fury.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/gravity_well.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/grow.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/harvest.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/haste.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/heal.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/health_boost.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/ignition.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/invisibility.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/jump_boost.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/knockback.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/levitation.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/life_drain.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/life_tap.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/light.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/lightning_damage.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/magic_damage.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/mana_blast.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/mana_drain.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/moonrise.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/night_vision.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/physical_damage.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/place_block.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/plow.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/random_teleport.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/recall.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/reflect.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/regeneration.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/repel.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/replant.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/resistance.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/rift.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/shrink.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/silence.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/slow_falling.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/slowness.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/storm.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/summon.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/swift_swim.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/swiftness.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/temporal_anchor.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/transplace.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/true_sight.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/water_breathing.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/watery_grave.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/components/wizards_autumn.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/entities/mana_creeper.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/affinity_tome.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/arcane_ash.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/arcane_compound.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/mage_armor.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/magitech_goggles.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/mana_food.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/purified_vinteum_dust.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/rune_bag.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/runes.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/spell_book.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/items/spell_parchment.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/mechanics/crafting_altar.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/mechanics/etherium.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/mechanics/getting_started.json",
+  "segments": 4,
+  "translated": 4,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/mechanics/liquid_etherium.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/mechanics/shape_groups.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/mechanics/silver_spell_parts.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/bounce.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/color.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/damage.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/dismembering.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/duration.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/effect_power.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/gravity.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/healing.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/lunar.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/mining_power.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/piercing.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/prosperity.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/range.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/rune_power.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/silk_touch.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/solar.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/target_non_solid.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/modifiers/velocity.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/area_of_effect.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/beam.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/chain.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/channel.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/contingency_damage.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/contingency_death.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/contingency_fall.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/contingency_fire.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/contingency_health.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/projectile.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/rune.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/self.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/touch.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/wall.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/wave.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/shapes/zone.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/talents/affinity_gains_boost.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/talents/augmented_casting.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/talents/extra_summons.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/talents/mana_regeneration_boost_1.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/talents/mana_regeneration_boost_2.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/talents/mana_regeneration_boost_3.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/talents/shield_overload.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "arsmagicalegacy",
+  "book": "arcane_compendium",
+  "file": "entries/talents/spell_motion.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "categories/augments.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "categories/filters.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "categories/intro.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "categories/modules.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "categories/router.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "categories/upgrades.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/fast_pickup.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/mimic.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/pickup_delay.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/pushing.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/range_down.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/range_up.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/redstone.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/regulator.json",
+  "segments": 5,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/stack.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/augments/xp_vacuum.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/filters/bulk_item.json",
+  "segments": 5,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/filters/ftb_filter_system.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/filters/inspection.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/filters/mod.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/filters/regex.json",
+  "segments": 9,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/intro/augments.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/intro/filters.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/intro/misc.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/intro/modular_router.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/intro/modules.json",
+  "segments": 14,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/intro/overview.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/intro/upgrades.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/activator.json",
+  "segments": 9,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/breaker.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/creative.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/detector.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/distributor.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/dropper.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/energy_distributor.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/energy_output.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/extruder_1.json",
+  "segments": 6,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/extruder_2.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/flinger.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/fluid.json",
+  "segments": 6,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/fluid_2.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/placer.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/player.json",
+  "segments": 6,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/puller_1.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/puller_2.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/sender_1.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/sender_2.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/sender_3.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/vacuum.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/modules/void.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/router/modular_router.json",
+  "segments": 17,
+  "translated": 2,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/router/termination.json",
+  "segments": 5,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/upgrades/blast.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/upgrades/camouflage.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/upgrades/energy.json",
+  "segments": 10,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/upgrades/fluid.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/upgrades/muffler.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/upgrades/security.json",
+  "segments": 8,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/upgrades/speed.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/upgrades/stack.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "modularrouters",
+  "book": "book",
+  "file": "entries/upgrades/sync.json",
+  "segments": 5,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/bees.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/bees_hive.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/bees_solitary.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/bees_wild.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/bees_worker.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/blocks.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/genetics.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/guide.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/hives.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/items.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "categories/misc.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/blazing.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/coal.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/creeper.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/diamond.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/emerald.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/experience.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/gold.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/iron.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/lapis.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/netherite.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/obsidian.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/prismarine.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/redstone.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/skeletal.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/withered.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/hive/zombie.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/ashy_mining.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/blue_banded.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/chocolate_mining.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/digger.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/green_carpenter.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/leafcutter.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/mason.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/neon_cuckoo.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/nomad.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/reed.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/resin.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/sweat.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/solitary/yellow_black_carpenter.json",
+  "segments": 3,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/wild/crystalline.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/wild/draconic.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/wild/ender.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/wild/ghostly.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/wild/glowing.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/wild/magmatic.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/wild/slimy.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/wild/sugarbag.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/worker/collector.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/worker/cubee.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/worker/dye.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/worker/farmer.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/worker/hoarder.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/worker/lumber.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/worker/quarry.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/bees/worker/rancher.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/bee_jar.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/bottler.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/breeding_chamber.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/catcher.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/centrifuge.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/feeder.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/gene_indexer.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/hive.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/honey_generator.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/blocks/incubator.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/genetics/attributes.json",
+  "segments": 16,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/genetics/collecting.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/genetics/transferring.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/guide/start.json",
+  "segments": 6,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/hives/advanced_hives.json",
+  "segments": 5,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/hives/dragon_egg_hive.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/hives/expansion_boxes.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/hives/nests.json",
+  "segments": 3,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/items/bee_cage.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/items/bee_helmet.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/items/combs.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/items/honey_treat.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/items/nest_locator.json",
+  "segments": 2,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/items/upgrades.json",
+  "segments": 14,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "productivebees",
+  "book": "guide",
+  "file": "entries/misc/performance.json",
+  "segments": 4,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "justdirethings",
+  "book": "justdirethingsbook",
+  "file": "entries/justdynathings/buddings.json",
+  "segments": 7,
+  "translated": 7,
+  "complete": true
+ },
+ {
+  "ns": "justdirethings",
+  "book": "justdirethingsbook",
+  "file": "entries/justdynathings/paradox_mixer.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "justdirethings",
+  "book": "justdirethingsbook",
+  "file": "entries/justdynathings/reforger.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "justdirethings",
+  "book": "justdirethingsbook",
+  "file": "entries/justdynathings/solar_panels.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ },
+ {
+  "ns": "justdirethings",
+  "book": "justdirethingsbook",
+  "file": "entries/justdynathings/stabilizer.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "justdirethings",
+  "book": "justdirethingsbook",
+  "file": "entries/justdynathings/thermogen.json",
+  "segments": 3,
+  "translated": 3,
+  "complete": true
+ },
+ {
+  "ns": "iceandfire",
+  "book": "iceandfire",
+  "file": "categories/introduction.json",
+  "segments": 0,
+  "translated": 0,
+  "complete": true
+ },
+ {
+  "ns": "iceandfire",
+  "book": "iceandfire",
+  "file": "entries/introduction.json",
+  "segments": 1,
+  "translated": 1,
+  "complete": true
+ }
+]

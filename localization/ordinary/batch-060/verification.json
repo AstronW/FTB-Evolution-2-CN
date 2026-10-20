@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "060",
+  "namespace": "energizedpower",
+  "source_keys": 60,
+  "unique_values": 55,
+  "chinese_values": 58,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 455,
+  "source_sha256": "ea6c89354bef21f0355a4b3f6c7e16720f6054b6ac7c56394603a0b22d466036",
+  "in_game_tested": false
+}

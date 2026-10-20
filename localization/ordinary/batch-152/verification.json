@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "152",
+  "namespace": "animalgarden_alligatorgar",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 3,
+  "source_sha256": "9979c7cd24b946ca56a7f5fa929125f437ceafbb5ad540c859b7d7ea89038dbb",
+  "in_game_tested": false
+}

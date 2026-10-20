@@ -1,0 +1,14 @@
+{
+  "batch": "271",
+  "namespace": "evilcraftcompat",
+  "jar": ".minecraft/mods/evilcraft-26.1.2-neoforge-1.2.108.jar",
+  "language_path": "assets/evilcraftcompat/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/evilcraftcompat/lang/zh_cn.json",
+  "include_keys": [
+    "item.items.evilcraft.veined_scribing_tools",
+    "config.jade.plugin_evilcraft.broom",
+    "config.jade.plugin_evilcraft.box_of_eternal_closure"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

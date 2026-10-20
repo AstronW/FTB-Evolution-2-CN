@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "303",
+  "namespace": "occultism",
+  "source_keys": 147,
+  "unique_values": 100,
+  "chinese_values": 147,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 402,
+  "source_sha256": "a075c595b19f7275814381aaa740c6792254d7c900c86e237b312c1b5066fc4b",
+  "in_game_tested": false
+}

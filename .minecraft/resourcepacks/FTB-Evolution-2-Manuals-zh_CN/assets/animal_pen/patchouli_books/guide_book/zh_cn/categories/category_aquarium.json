@@ -1,0 +1,6 @@
+{
+  "name": "水族箱",
+  "description": "水族箱是一个简单的方块, 让玩家能在一格空间内与水生动物互动.它可以与发射器配合, 并通过比较器输出红石信号.",
+  "icon": "animal_pen:aquarium_block",
+  "sortnum": 2
+}

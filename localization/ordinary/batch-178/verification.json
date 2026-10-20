@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "178",
+  "namespace": "extremesoundmuffler",
+  "source_keys": 64,
+  "unique_values": 64,
+  "chinese_values": 60,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 64,
+  "source_sha256": "a0aa6a4b217441b0978b9c3112070c00dcb1921ab0c0fdbfbb7bc2fae669c8a9",
+  "in_game_tested": false
+}

@@ -1,0 +1,15 @@
+{
+  "cos.gui.tooltip.buttonnormal": "关闭装饰物品栏",
+  "cos.config.CosArmorGuiButton_Hidden": "隐藏装饰盔甲按钮",
+  "cos.config.CosArmorGuiButton_Left": "装饰盔甲按钮 X 位置",
+  "cos.config.CosArmorGuiButton_Top": "装饰盔甲按钮 Y 位置",
+  "cos.config.CosArmorToggleButton_Hidden": "隐藏切换按钮",
+  "cos.config.CosArmorToggleButton_Left": "切换按钮 X 位置",
+  "cos.config.CosArmorToggleButton_Top": "切换按钮 Y 位置",
+  "cos.config.CosArmorCreativeGuiButton_Hidden": "隐藏创造模式装饰盔甲按钮",
+  "cos.config.CosArmorCreativeGuiButton_Left": "创造模式装饰盔甲按钮 X 位置",
+  "cos.config.CosArmorCreativeGuiButton_Top": "创造模式装饰盔甲按钮 Y 位置",
+  "cos.config.CosArmorKeepThroughDeath": "死亡时保留装饰盔甲",
+  "cos.config.CosArmorDisableRecipeBook": "在装饰盔甲物品栏中禁用配方书",
+  "cos.config.CosArmorDisableCosHatCommand": "禁用 /coshat 命令"
+}

@@ -1,0 +1,8 @@
+{
+  "inventoryessentials.configuration.allowBulkTransferAllOnEmptySlot": "允许在空槽位中移动所有物品",
+  "inventoryessentials.configuration.enableBulkDrop": "启用批量丢弃",
+  "inventoryessentials.configuration.enableBulkTransfer": "启用批量快速移动物品",
+  "inventoryessentials.configuration.enableShiftDrag": "启用Shift拖动鼠标以移动物品",
+  "inventoryessentials.configuration.enableSingleTransfer": "启用快速移动单个物品",
+  "inventoryessentials.configuration.forceClientImplementation": "强制客户端执行(仅限开发人员)"
+}

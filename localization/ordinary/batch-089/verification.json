@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "089",
+  "namespace": "modularrouters",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 2,
+  "source_sha256": "5e20150a2391be3d2b460a7bd5f21574b5da77f17de0ff0f7b75db9710605db4",
+  "in_game_tested": false
+}

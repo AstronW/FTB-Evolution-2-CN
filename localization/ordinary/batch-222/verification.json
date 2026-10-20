@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "222",
+  "namespace": "mvs",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 5,
+  "installed_overlay_keys": 7,
+  "source_sha256": "2fff198d3c0e936f3124b74dc62835d7da6a2431893ad2b45d2e959552ffc7d9",
+  "in_game_tested": false
+}

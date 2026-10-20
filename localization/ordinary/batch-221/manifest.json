@@ -1,0 +1,24 @@
+{
+  "batch": "221",
+  "namespace": "mns",
+  "jar": ".minecraft/mods/MoogsNetherStructures-universal-1.21-3.1.1.jar",
+  "language_path": "assets/mns/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mns/lang/zh_cn.json",
+  "include_keys": [
+    "modmenu.nameTranslation.mns",
+    "modmenu.summaryTranslation.mns",
+    "modmenu.descriptionTranslation.mns",
+    "mns.releases",
+    "mns.kofi",
+    "mns.curseforge",
+    "mns.modrinth"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "MNS - Moog's Nether Structures",
+    "GitHub Releases",
+    "Ko-fi",
+    "CurseForge",
+    "Modrinth"
+  ]
+}

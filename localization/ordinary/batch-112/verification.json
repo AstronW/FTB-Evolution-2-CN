@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "112",
+  "namespace": "bhmenu",
+  "source_keys": 57,
+  "unique_values": 54,
+  "chinese_values": 57,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 57,
+  "source_sha256": "73b16e5c7374bf010cc6e478e905ee662b80c51f9f0962ab56c1e07ed5d2327e",
+  "in_game_tested": false
+}

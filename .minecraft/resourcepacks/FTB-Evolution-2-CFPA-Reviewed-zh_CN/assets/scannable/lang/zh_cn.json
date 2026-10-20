@@ -1,0 +1,8 @@
+{
+  "gui.scannable.block_module.list": "方块",
+  "gui.scannable.entity_module.list": "实体",
+  "gui.scannable.scanner.active_modules.desc": "执行扫描时被使用的已激活模块.",
+  "gui.scannable.scanner.inactive_modules": "未激活",
+  "gui.scannable.scanner.inactive_modules.desc": "待用模块的存放槽.执行扫描时不被使用.",
+  "message.scannable.no_free_slots": "无空余槽位."
+}

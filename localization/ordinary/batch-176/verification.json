@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "176",
+  "namespace": "littlejoys",
+  "source_keys": 106,
+  "unique_values": 94,
+  "chinese_values": 105,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 106,
+  "source_sha256": "5cf0381d57ff08f1a47aed82fcbe8405ae8cdeab318e16204d672f8b5db7d289",
+  "in_game_tested": false
+}

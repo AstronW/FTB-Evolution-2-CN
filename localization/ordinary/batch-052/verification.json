@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "052",
+  "namespace": "justdirefuels",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 5,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 7,
+  "source_sha256": "d800f6b433c217eb4cea2a6c33e9428b8433dbde01598033673fdb9c783203ec",
+  "in_game_tested": false
+}

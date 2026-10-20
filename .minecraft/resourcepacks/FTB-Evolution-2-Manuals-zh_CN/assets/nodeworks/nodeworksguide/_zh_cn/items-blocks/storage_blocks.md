@@ -1,0 +1,54 @@
+---
+navigation:
+  parent: items-blocks/index.md
+  icon: instruction_storage
+  title: 配方存储方块
+categories:
+  - autocrafting
+description: houses Recipe Sets so Crafting CPUs can see them
+item_ids:
+- nodeworks:instruction_storage
+- nodeworks:processing_storage
+---
+
+# <a name="recipe-storage-blocks" /> 配方存储方块
+
+将编写完成的[配方集](./recipe_sets.md)保存在配方存储方块中,
+供<ItemLink id="crafting_core" />读取. 右击
+打开界面, 将配方集放入槽位即可.
+
+每种配方集都有对应的存储方块:
+
+- **合成指令存储器:** 保存合成指令集
+- **加工配方存储器:** 保存加工配方集
+
+## <a name="how-they-work" /> 工作原理
+
+将存储方块连接到节点, 其中的所有配方集
+便可被CPU读取.
+
+<GameScene zoom="3.5" interactive={true} paddingTop="20" paddingLeft="50" paddingRight="60">
+  <ImportStructure src="../assets/assemblies/processing_storage_cluster.snbt" />
+  <BoxAnnotation min="0 0 0" max="3 1 1">
+    相互 **连接** 的加工配方存储器会共同广播全部配方.
+  </BoxAnnotation>
+</GameScene>
+
+存储方块相邻放置时会形成集群.
+只需将其中 **一个** 接入网络, 其余方块便会通过
+相接的面一起加入. 拆掉连接两半的桥接方块后,
+集群会重新拆为两组, 各自判断是否仍能
+连接到网络. 方块发光颜色与所属网络
+一致, 因此可以直观看出各组的归属.
+
+## <a name="clustering-recipe-storage-blocks" /> 配方存储方块集群
+
+只要一个配方存储方块接入网络, 与其相邻的其他配方存储方块
+就会形成集群, 一起连接该网络.
+
+## <a name="Recipes" /> <a name="recipes" /> 配方
+
+<Row>
+    <RecipeFor id="instruction_storage" />
+    <RecipeFor id="processing_storage" />
+</Row>

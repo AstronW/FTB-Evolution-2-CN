@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "167",
+  "namespace": "puffish_skills",
+  "source_keys": 8,
+  "unique_values": 8,
+  "chinese_values": 8,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 8,
+  "source_sha256": "d9bea9c2d19f70a3d2d4f22352903e062c4d7b188d024a59be47901117792449",
+  "in_game_tested": false
+}

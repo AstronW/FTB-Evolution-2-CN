@@ -1,0 +1,822 @@
+{
+  "assets/advanced_ae/ae2guide/aae_intro/aae_intro-index.md": {
+    "source_lf": "7335eba267997b2587fe92535e346832c923cfc8fa7a5f36ce5cff6ae69904f9",
+    "chinese": "85d090f86ef90be422a4f683321ffc40712490c6675a64ed154da6663696e46b"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/advanced_io_bus.md": {
+    "source_lf": "00fd8d6be4c2de5ff160c6ef305d468172bad0ee4db6a8f9f646fd0faae0ab6b",
+    "chinese": "5592eeebbe717b381e40d2cf884e04c2e97aaedccc8e9f4fc69112c8fcd63884"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/advanced_pattern_encoder.md": {
+    "source_lf": "383b416e7c353dcc062dc71aa8eec1ead0e1aeee7a83f970fee97ee74083e472",
+    "chinese": "7a3a3b3af7d476713066b52a390748f0953f0c60ead5b94cb40dd92ef930ae8b"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/advanced_pattern_provider.md": {
+    "source_lf": "ed7c4e6bfc5e2ffb668ce1a2a73b276f605f899cb4bc5bcf0a4e57dde7067df4",
+    "chinese": "8579be0eecf9e1846f0acc02e2af076886bfabe192c40a3b7919434e6fd8e939"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/app_upgrade_items.md": {
+    "source_lf": "832ac549f200c4f4e1d6663a3e418676f937fd6e7b56d1fb37c6f40c8c3ed306",
+    "chinese": "62a40b39a0616fc636db876e9cc45257e140b4b59a71599bcc6e9859313d2374"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/import_export_bus.md": {
+    "source_lf": "f4f110f3efb04ddb8e0b4d1aa0d555a1bbc5c8102489f8f721460a3dacba686a",
+    "chinese": "87c9af573a689e32394b1d2d748fcc8778c38f6242e043c737fdbf9999f5925c"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/quantum_armor.md": {
+    "source_lf": "5dd9f3b5c54ae12a5e632fb227c670d928ba21aa18d4bdd33283ca070a2a1e66",
+    "chinese": "39eb645b154d9d926c41aeafea546a7d5b7165934545a3c89caeb47d31872ac7"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/quantum_computer.md": {
+    "source_lf": "799c7e5c1c743b0fd79980b0600f9ae0138b3bb22bf051be5b3d6ef3374a25a8",
+    "chinese": "67eff033013b84aeb2c93ae0931a5786678a7a24263368fb3ca42e9cb8a844f0"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/quantum_crafter.md": {
+    "source_lf": "6591b734c4644352f1953b79c63d744178e65140e4cecb6d50d3d7beab60d49f",
+    "chinese": "a33fcb0e5f1cc5e1cfbe2d9bd8b14235c0295621c91389f6f542d72c9e056113"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/reaction_chamber.md": {
+    "source_lf": "31823cc3bdd246f77732034a68b2bd304994b38d9119e23cc34c03ac041f3da5",
+    "chinese": "72d44c5281eafed11ddcb1151e388280a933350f4c781f13bdba3711cf62d9cd"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/stock_export_bus.md": {
+    "source_lf": "dc86b39089b7a95bf9c7d88216d6369fd2ab869d8303dc84440ef67a4634f37c",
+    "chinese": "1120fb808b91648e10916ceeccbb4609fcca741c66de76a4ae338c0f88da63ab"
+  },
+  "assets/advanced_ae/ae2guide/aae_intro/throughput_monitor.md": {
+    "source_lf": "b58a4274b7a143246fafd6614e24a2eed634213c68bd0cea6a23165f08afe67e",
+    "chinese": "3decffb0145212940f6f87af1b11f6b4974f3f67a670999c5b47afd2e760d3cd"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/ae2-mechanics-index.md": {
+    "source_lf": "1ebdc23b37b701914bdf7bdd565d8b1170cce50efd931661e5253c3effe13ac9",
+    "chinese": "df858020084dddd40d42b4281525e23c07f5b8c10c80997d1687b9f7d342aa8a"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/autocrafting.md": {
+    "source_lf": "330c88071c7c6d053ff705a4d730d4202630913ce57fb29862b58f7d2e991382",
+    "chinese": "ed61f47dd979a0e081d383868a9d98a9f69f9030d731217c7ec355fdf2724b13"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/bytes-and-types.md": {
+    "source_lf": "ada6d44e37b2d416d87dbd23d834339c8035354148c218d4a28715935d5160ff",
+    "chinese": "d915e3e66e5b5c2965139801d7abaa227f6a4d0da487c0ea368814b3d89bff49"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/cable-subparts.md": {
+    "source_lf": "3ddf654ff09836d7c3d03523a7f6e4782c0ea825d0b5f586029157ac8d51edd1",
+    "chinese": "57232a6326944cf5775d4867c87b42e8a52eb569d797dbf5d67a9af4600d0196"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/certus-growth.md": {
+    "source_lf": "56ddaedcd132f872234af94ec55e5786f0fa764b1579d233cdb70f96d01b461a",
+    "chinese": "0050ba9a8f049da10e65cc24ca15355e1f8fc2be73740ae6039600dd94d1b907"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/channels.md": {
+    "source_lf": "70ed2eea2947afb7096bb5df5e649d82184a102250b85918f3c102e507f083f1",
+    "chinese": "a1da3fbf754a90b6528ae262031334983c85a1727c3c617579f00219fb5867e3"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/devices.md": {
+    "source_lf": "f0a7b8497e86fc709c684dd3cce0fb4ab6ade1c5a5e1f71c270780777f3c56cb",
+    "chinese": "853f0756c03644b4a8a0ea92251a450d5f7d6cba9bae7c9f4e9162d7f4ac2d5b"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/energy.md": {
+    "source_lf": "0cd979a94145d84b08c58e9d7e9d5519f18cc5e2ad5e5be051a1ed61110bfe17",
+    "chinese": "3df56ff440ff3a603a91f53fb6506a6452edc721c9c5e2d9c4e58e2af355e705"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/import-export-storage.md": {
+    "source_lf": "e412e8c83f28d82c139ae40ea66c4b6f45c31a8320fb1a79b46747f075df731a",
+    "chinese": "e97f9cb3b63f0190a2b8537e72d4c11378804f19fbf017289b0d3c4f2a65d109"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/me-network-connections.md": {
+    "source_lf": "e3ea3d710037c75ca6cc4c097e482d39c1e6b4016d84a4ba6444ea0af54a864a",
+    "chinese": "0d513078f9168db013ac3d319180232f6a6967c05d3e96c34842f4c9a20550ed"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/meteorites.md": {
+    "source_lf": "cff2cfa8b57b19b3ac0b2fbe0c69bf183df67c43b869f343470ecbfffcd79974",
+    "chinese": "ff7005f4f9b19896f8995516645591950bf9184d91938e753a2548b78670939a"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/p2p-tunnels.md": {
+    "source_lf": "70b6536e93dd59a84042ec241a48c4036d7d1e44ed09706dc4e27f314b67e8d6",
+    "chinese": "8c113124b2d6eb2d3ce8706232c8b6f9b17aadd0b76ada4b646bcc9f5bc18ef3"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/quantum-bridge.md": {
+    "source_lf": "ddf0b0f7736ebed40aaa85a993ac492684c17fbf7852d568bb11848fcef85136",
+    "chinese": "201ca39b2b9f8b690e807642a1972b73eb1901720eb6a7cef0adda5161be3775"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/spatial-io.md": {
+    "source_lf": "efa19799fe9a4e95cc27d81f1eceab9fe05ef0150b261b016d01a59a09dc1f5c",
+    "chinese": "f9b11426d256a56e10e15f944d708ad7b7badb0da79f828bd2c8a18b652e9a7f"
+  },
+  "assets/ae2/ae2guide/ae2-mechanics/subnetworks.md": {
+    "source_lf": "0c33016b9f96344c1c0c09db560a707fed53c7896a69e22fe98c92597b516a69",
+    "chinese": "0a1119954ccccf507d736ed431638c4d01a02a80ac8b0d40edbfc976216f1acf"
+  },
+  "assets/ae2/ae2guide/ae2importexportcard-index.md": {
+    "source_lf": "03bd37b59ef4c66bbc575b97851861f9e94bd96dbaf06ec210a85245d9d3d617",
+    "chinese": "5d80f44f82779b0617cde3c7e13af7cfce059dda8caaac701c80906b6883cdf9"
+  },
+  "assets/ae2/ae2guide/example-setups/advanced-certus-farm.md": {
+    "source_lf": "378609551b035aac7bb02970d1a37cd3d39dc55bf46136705156f467d1388d8a",
+    "chinese": "f5891f95246642b26c122d0ceae6bc99c9caa10dc7885c7a47606705ae67e712"
+  },
+  "assets/ae2/ae2guide/example-setups/amethyst-farm.md": {
+    "source_lf": "d4463f8739b722c2296e3c3b8cc5a9f3004f59aa3c990def61205afb0fff56a0",
+    "chinese": "3179e126ff91b677a96ebf416d956974d4308e57f8f3acf346ab8170dc6c5221"
+  },
+  "assets/ae2/ae2guide/example-setups/bucket-emptier.md": {
+    "source_lf": "e0ca998e69cb11ce7d5882fde92c6ef02e2ac2f25e2674ff2c0b9d8ca7fae777",
+    "chinese": "d1426fe146e2601c93641f2f6c1d8bf3978ca3762c56d3bdf4d1c4352eb7e23e"
+  },
+  "assets/ae2/ae2guide/example-setups/bucket-filler.md": {
+    "source_lf": "7e6f181b8e4e64127538d5e17470aae64ad22f33d2687d1fb5a290908442f0cb",
+    "chinese": "1582c33dee89a2cf676f9646b28adddece4558c16085547097c2a87277136f1b"
+  },
+  "assets/ae2/ae2guide/example-setups/cell-dumper-filler.md": {
+    "source_lf": "51c507ac85f7a568ca9a274eed0f0aeabea5e3eca7dba8d15c1239581a0ae9f5",
+    "chinese": "09310a77826fe94245d06a9b8d365fd0af32cea17ad2843cb3fa4c745260663f"
+  },
+  "assets/ae2/ae2guide/example-setups/charger-automation.md": {
+    "source_lf": "baaf64a5539c7fbb703f16b1b2da04c1c9dfae3e0f71036c95dbc7f6d245641e",
+    "chinese": "4edc61fbdffd2af17cff43c7dcf3d0398e9bec6d13ff818b7cbe0a426363bfe3"
+  },
+  "assets/ae2/ae2guide/example-setups/example-setups-index.md": {
+    "source_lf": "ffb5048bc20756e3ce5e589d9fffb07b27bbf8414c600c19fe583659a3680409",
+    "chinese": "5f96f98325b8f04f9267de891e489e975d8f6c4243da96de873a33856d580bd6"
+  },
+  "assets/ae2/ae2guide/example-setups/furnace-automation.md": {
+    "source_lf": "a659856851fb760bd641317ff4a3dd89da80fdb3019ebd27a8486e2244944b77",
+    "chinese": "d361ea3f006f4a8f2fd51cbf95df30929d85681bf715505a750abe319b85546d"
+  },
+  "assets/ae2/ae2guide/example-setups/interface-autostocking.md": {
+    "source_lf": "25a0e0e5dfdddbce779c1905cd70c4fad6ca1285af41745c40626fb7f3189eca",
+    "chinese": "4debcca36382d9a431f8eb48fef4909bbf11c0390334c65cc23ad2cd375834cb"
+  },
+  "assets/ae2/ae2guide/example-setups/level-emitter-autostocking.md": {
+    "source_lf": "ac2f1b93d0dae5dc38bb4b20e2e5ba6a9c732018d19888c248f89f3597827181",
+    "chinese": "1569c78db922129595a62cec28418e97e8633197f424eabcc56f9bf987c14e03"
+  },
+  "assets/ae2/ae2guide/example-setups/main-network.md": {
+    "source_lf": "2a77dac2ce1396362887fbbd661d45dbeda1d16942cb9484f67219acda7d1ce7",
+    "chinese": "a16775289ffd7aac9a83c5ada32628a4a72a6d5322531846af6695706ad43ee7"
+  },
+  "assets/ae2/ae2guide/example-setups/ore-fortuner.md": {
+    "source_lf": "20a37dafc93bfa82acdd9829ffbcd0c124d1e28526574f601cc19f3d750363df",
+    "chinese": "820fd15194b37ec815e4c462c2f5c9d48b9efae8e1976cec41c333ed16f13811"
+  },
+  "assets/ae2/ae2guide/example-setups/pipe-subnet.md": {
+    "source_lf": "ac46719804d58cf2a94e699903239d505e81f987c8c55361ea7585699bfbc834",
+    "chinese": "ef9b1b9c4a4d55e4847f608b39780b98695bd647a8352a2156cff6dca32780e4"
+  },
+  "assets/ae2/ae2guide/example-setups/processor-automation.md": {
+    "source_lf": "0585610a741460b4cb5763267aca58427a988b8caa34a9e0c1b3ab9562361e29",
+    "chinese": "d21b5adb7a54403129e4288b1a9e14d36aaf933fed351e0e7a21e873d7385664"
+  },
+  "assets/ae2/ae2guide/example-setups/recursive-crafting-setup.md": {
+    "source_lf": "d37d1609707a602fe0b2b51ccdc2fb1d4d2c5463918a1a41970b66deaae1c69a",
+    "chinese": "32b15238d26b2caf24b851e09c5968ad050b2bd6cf3302be9c1d62d949f66ed0"
+  },
+  "assets/ae2/ae2guide/example-setups/regulated-cobble-gen.md": {
+    "source_lf": "94349e5fae13ded3075cbb05dcffc0bf6a3b735089e7841ee7cd68492718b580",
+    "chinese": "f598645c3702ac502bd83be4a6acabcab61561c2a83b5df2883a63e87a91dd81"
+  },
+  "assets/ae2/ae2guide/example-setups/semiauto-certus-farm.md": {
+    "source_lf": "1f5a62186ba49ebad9df1167c8825acdee7c6fd5c121eff4fde6dc8da64dce83",
+    "chinese": "944e42da696fb20a51f97fbbe2094fedde43345abc48425110b5f0f2cfdd5b76"
+  },
+  "assets/ae2/ae2guide/example-setups/simple-certus-farm.md": {
+    "source_lf": "7ac57f5aa22f5f81002dbd7a79e99b6465ba6231560a4212ccdb5adf3a45843e",
+    "chinese": "67bc192eb568b5d64140e10bd6483cb6dfbacb898fab1f81b4bc3ab6b803b38d"
+  },
+  "assets/ae2/ae2guide/example-setups/specialized-local-storage.md": {
+    "source_lf": "e70b9191ac000c8dc8609624b769bc4b11a49880e508a15ae1600eef8d492f2e",
+    "chinese": "77b0df66e222a61eae62dd238594d42402a7411125b7c8c1a2583c8df3ba92f7"
+  },
+  "assets/ae2/ae2guide/example-setups/storage-types.md": {
+    "source_lf": "d1cbd9de2cb28d1b5b2b41fbd699c329674531ae7425f3b0e61caf0bd649c253",
+    "chinese": "fd280b070389ef3a01dd88f635a2594528c1028a6f66f04e403392f754b1c4d4"
+  },
+  "assets/ae2/ae2guide/example-setups/throw-in-water-automation.md": {
+    "source_lf": "8138c304f0577cf0a7f4ea9414eb1dd1564df843134c3369651b9c0a56602c78",
+    "chinese": "3e08b15b6da928af11da4bd78a172ca54f3265e9b1939059960138d950670acd"
+  },
+  "assets/ae2/ae2guide/getting-started.md": {
+    "source_lf": "76fd044f31f859bc6549d634650478a0af33d1ff44c22a97945e875f084ef5e6",
+    "chinese": "377e0d753f20972dafd55c962a056d952bf565757d18855ccd832f1f923aeefd"
+  },
+  "assets/ae2/ae2guide/index.md": {
+    "source_lf": "c7b6b57ecb538a80be8b1a0eef9282dc31c369ce7ea7f2f806b836278d79ae97",
+    "chinese": "8b1301830559f938295c653bcd295b4cd16d3888ae396d2b2e5a1c3564ee7b26"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/annihilation_plane.md": {
+    "source_lf": "1d4385f6449fd3e699682bb843397d98672995526c66e0b5973566a409e378a2",
+    "chinese": "b9f4ed946b0474e5b8373e515dafa24cb880977b3d8f808030074e94a08eafeb"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/budding_certus.md": {
+    "source_lf": "9edefafd867fc2979d84de5fd83d02a43d5245f145e19cda2a5f150ba1fa4e07",
+    "chinese": "d00851907b88c454fcb7388352b0825b59c54d8f49fea1da5f78dcd9801606a3"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/cable_anchor.md": {
+    "source_lf": "cf04fe96af1c240f3127278878ebd2f3cc38057b8ce977abc89bb0f9f777aaee",
+    "chinese": "b2b085f6c51919f4a70e18709612bfc1cf9e360e4103e5c2b7071c8ff13fe6cd"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/cables.md": {
+    "source_lf": "0feea6758f6084747933c8b7de8ea0deddbcc672d432ec507d8ccfce1fdc2eee",
+    "chinese": "83cf165dc71d49dedaba35a7c04ade5ecfc70eecd587bc55f4a41563ff4bdda4"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/cell_workbench.md": {
+    "source_lf": "1ba0306bd66531dd2a0bde8a174d10d26aad90bde33e66a8e50203a89d73d3c6",
+    "chinese": "81aa6e552169556808bca1444fb09ec5adf9482f6b3ccb206beea718d284bb3d"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/certus_quartz_crystal.md": {
+    "source_lf": "3c652f12df9acf5b2bf2d3bc15616d894017ecc0e8fbd750785dcb3cdf45368e",
+    "chinese": "4cf9c1537ad2c2a4ae8eab54c8c24efc218162ceda1aef54aa6240ce0fa0fbbf"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/certus_quartz_crystal_charged.md": {
+    "source_lf": "49a6b1e1b34440b7bacb81605adcd60789471f5640c70bb6b8546692cd338926",
+    "chinese": "4d3ab36c8dcde85d3717f2f936e5b273ea76762806a1d1ff14da733b6ba69cc7"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/certus_quartz_dust.md": {
+    "source_lf": "f10e995858e2a6cf50bac51c055e17a0632bd230fa75a3f1af972415eae77f9a",
+    "chinese": "868c6483865feac4aaf2c19b0d470beddca50b1bb2db89b5069df87f7d80be91"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/charged_staff.md": {
+    "source_lf": "9ee39d70ed20f06ee4fa1f54ade70a8a05be676a987bd6645105b907e22caefa",
+    "chinese": "6063b90d7aab649a5c5a996557b246093d37a4c7c7ba1fdcd8fd29c072157c91"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/charger.md": {
+    "source_lf": "a3c401ded7c5a8343cb1940ba4f3f71724cb2dc85242c5fcf47d60e0d0301b71",
+    "chinese": "5d1a839517329c73e78038718bdfcfd363bc56a3f64691031e09fd7b05e36357"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/chest.md": {
+    "source_lf": "645bd33b71846cd97b54a8b1a889a68b0ebaf22a68f16b9b6ba7508849b712ad",
+    "chinese": "5fba32e8ace7969e1744bb093a955af9729149da3862430d793ee658a18de88b"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/color_applicator.md": {
+    "source_lf": "49eb591e0bbafb3834666e70deee430e781b306b846c6412671c59c9be8b2e94",
+    "chinese": "bd325f2b7037790528abb746cbfb9bd5659553d42cf992327ed8f20419e16a23"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/condenser.md": {
+    "source_lf": "0724b38f9b9749860d65f09a5124dcc70db5538867d7d87c6a4e7425ae14d94b",
+    "chinese": "94fc9758e67099bc3471a107e3c9ad722ad250ce39d3131b909260c6bd0ac60a"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/controller.md": {
+    "source_lf": "1555734621b7e8548aacc626a4e81a3285a7187ae0b68e38e1a3cef1f91d03e5",
+    "chinese": "4da1031c656d1507d78f317139ef38ce40df0b48aeb7460b8ed3fb6ef14624d4"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/crafting_cpu_multiblock.md": {
+    "source_lf": "43eaf32f2e91c395b77381d11ed397d136de6a42c3d82d68a2a3197fb251ea95",
+    "chinese": "13febed684418e2713e265f8a58e8fb3ce52f65a78024abfeeb727b79e139dca"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/crank.md": {
+    "source_lf": "9751b9090327021b5e512c82cf98459c1df77f457714ad000b62f235d4aa1b94",
+    "chinese": "216948383eccf0004ee1af691e17cd2f661a0e6c7db84008a480b718efe5d38b"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/crystal_resonance_generator.md": {
+    "source_lf": "c153c4bc3660990c81a319a54d0c5e131e8e3da480559ef8f98d5d07e3e78391",
+    "chinese": "88c76ef3f6c24579a604a584fb8a6a2ea467ff5b281e4a3bf9696dce341a8fa5"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/cutting_knives.md": {
+    "source_lf": "d2023f1d86754a585d0d3fca5c66d5858b31939c74c9b8f83d2b92357c289d6d",
+    "chinese": "d8a30aea75d17386a7efb46d742532c5774d11943e3439ca5df0e305ddcadbe5"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/decorative_certus.md": {
+    "source_lf": "aa49ff388468399732e5706471ece174b31111166496502527d35c49cfb9505f",
+    "chinese": "4a47a88f1a28fccf3ae6ae723cda4a812792a9a4958dc0f863256cde622e8214"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/decorative_fluix.md": {
+    "source_lf": "25bb10d3782e411bb681272be8891dc07d17f9bde73da81f99e7c8fa440d9373",
+    "chinese": "1b701645799729e0bacb9d6ffa079bf17c503d624fced2b511f70ac0732d4a1e"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/decorative_sky_stone.md": {
+    "source_lf": "13db0338bcb7f8ff09bab3631f63721f1b131ab041b9e616b7e000eba474f36d",
+    "chinese": "b6ff2fdca56e17e5cd7df2ee84df33047a08bcece46415e8dd25efe4cb1294ef"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/drive.md": {
+    "source_lf": "b189aab430e29be4f2a34c5e1b89a8d7dca6fa1077cde285bbfdd150d5d01c3f",
+    "chinese": "b5bb076ee5a6c63a66874553cef6ba33eba981f9739ad7ef22da774fb2048e8f"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/ender_dust.md": {
+    "source_lf": "6e57c00ad6172b78d28d88c5e94d0f1c7a639e1f9251e62fec2a4fa0131b78ce",
+    "chinese": "9e5f2b3c1c519e2fc3d854274080375e9c7b015c2c656288cc90579e12cd75b2"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/energy_acceptor.md": {
+    "source_lf": "545c9dd49e419751eb71246344293643cecd423cb5fc637de0162adc0ab2b617",
+    "chinese": "7163609e7010c65708f5a8ca4e247088d7ccf9908295b5b61e3f3a39f1ff9bf7"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/energy_cells.md": {
+    "source_lf": "3cb64172eb3085797eb564be14e68475dc7e4ce530abd0fa5684b76e7706e237",
+    "chinese": "e6bba045357b381e6ff4afd55a0ca12b8291abb70ab8e42a404bef488c1ee8ae"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/entropy_manipulator.md": {
+    "source_lf": "cf51b84355a9b72562b5c34dd83c19f372242a79d12179404894b1dc36becf12",
+    "chinese": "b574e064ee198276102bc8552c7a71d6ed737ff82242d5dae661c7877321ea86"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/export_bus.md": {
+    "source_lf": "68ac0a9e9d80580d153e36c88c912bd4c4d0951ee17c853f4881ace949882bf6",
+    "chinese": "f54c2d495462b63f81506a8142d3f4a17b4d8712bba314da22633c3f70ba354c"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/facades.md": {
+    "source_lf": "746cb58e9dd8084bb73dfb537bdc34dfee6a192a03f22c171418cbd0b62a29ca",
+    "chinese": "50eb588182ddd27fc0cb45f4360ecdd2ea5938507e7fd1ce6222bddde77cfd02"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/fluix_block.md": {
+    "source_lf": "2d2d71c4b264b5d498ce8be88f24c65242d55b21d019d26fa10036f2e99af6d7",
+    "chinese": "2522d27c8bc1bde37ba5d514254bb2a9648931b08783cb9abdf817826b2c8c4b"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/fluix_crystal.md": {
+    "source_lf": "319790023416a3ac17f9a11122e831aabb50b657a38008bcdcea1dd530098f13",
+    "chinese": "c751219dbfd4d06ac23920597b9b1c153d26e0d67f00281c2a7522f9c319b326"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/fluix_dust.md": {
+    "source_lf": "0460f4d686bf079d6c22ca650f20930b4981a049686c7f891358a2443a9a87a3",
+    "chinese": "ee435bae2fa4e008f7978f606a1b6250deb942e5321c9ce9785eff5dd39ceaa3"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/fluix_pearl.md": {
+    "source_lf": "876becc287b06ad1e9cfde8c82c5f855ba16875d42203c43d2e407ebc7cec3aa",
+    "chinese": "c1ad7cfd0e2ee64c9505bcc35a59a79b6f0f664ac622b59fcd11379e654e3c60"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/fluix_researcher.md": {
+    "source_lf": "786780d8fc681b813e286183a2ac58d500a0e4c977485f7e6db41a3292d5ca19",
+    "chinese": "a4e6acf4c15fd41d0a74c0705deb9ac2528c11b50664e049819ccc13e8c4e4ea"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/fluix_tools.md": {
+    "source_lf": "333e28860fcb5d79ab741dff0771eab1837664eb99a5d35222b66fb1257f5ea1",
+    "chinese": "e9a60905ebe61624691ab7e12ae411fa3322b2d934cefbd615656598165cb38d"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/fluix_upgrade_smithing_template.md": {
+    "source_lf": "c51bd06fe31818fcee35fa60755b9b7ab5cf051d28210b5f3ac2a945ae4f6318",
+    "chinese": "3037d61455705839e098e11784da0bc41e0f9890bbd1865a5cf65891d3e66e7f"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/formation_annihilation_core.md": {
+    "source_lf": "d0cf5755d0ef08ec63237f31166123cdd37864c4f4721a275542f234cf0d83fb",
+    "chinese": "7cad70fd9e2780f87785fe0bbe4973f49370f95500cdd888b233909e3374c309"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/formation_plane.md": {
+    "source_lf": "8f47a8181eea998485d5ba88da6be9ca8610c0f8a421c62cbcc95c03a9363f1d",
+    "chinese": "c424d55c672ded5702eddd856203bdd92618f3c047325ffddafbf83b395a88b3"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/growth_accelerator.md": {
+    "source_lf": "7360bbac55c33432b3343e6936d0267d13f4231547797dda4852e7053899687a",
+    "chinese": "7041d49c63a698f903341bc9b0988d84c813747c11b6ab56baa258b39a9834f7"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/guide.md": {
+    "source_lf": "45f05528fe22c145c63ce8a5737c37c32670513456b0815c26ed3bb7dd264bee",
+    "chinese": "3e0eaf2de684e72cb9d935991b2b1f8fa542d6d2af15ee75c169a0389a2730c5"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/illuminated_panels.md": {
+    "source_lf": "1804a380faf961056a5f83ab43647e8eb1a1ddce3d4283f025d376dba559eaaa",
+    "chinese": "f79d60cbac3047ceadf39c4ab211110f4dd99ccfcf001570acc6f7765eeebbd5"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/import_bus.md": {
+    "source_lf": "b1b0d246ab7165710db1add9d59ad19de42dc6e98676ede6b10355ed5ff169b9",
+    "chinese": "8bf9fc4d0fe7bdd36bfde8f7fb90f4d81f57bfbb72c3e9cbba857c42d32c3c01"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/inscriber.md": {
+    "source_lf": "46cffc492583445bcb61e4d8b14a64c7afc553e04efa775b43c5e01db16fc7d3",
+    "chinese": "c74367c9692b85556e646fcc10fd07c86846b6a6edf649d99ea6f2ad016502e8"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/interface.md": {
+    "source_lf": "16eeb4d2b9d8d3b49e4fe68f8bb9a57eca474211cf2f404927239f0fd90788c0",
+    "chinese": "da4d37a2fc3baa388a916beb1837a2abc90827581379ca4781bd86c8226fd9b6"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/io_port.md": {
+    "source_lf": "ab8cb479356290151c33c013e8c6b81956f25180a2f6eef9032f90de89b932f5",
+    "chinese": "3cc3f16d140cb3963ee4d10173f1d120fceab30883dca51d8d70868a954308c7"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/items-blocks-machines-index.md": {
+    "source_lf": "b45ffcca6c1f879b946f28290a1129770bf01a778117b452b1795c75f2db79fe",
+    "chinese": "901bee52ead92832f8f9828bcc87d2a229f8f6f2b8cf59b67b3b084bfbd9d7cd"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/level_emitter.md": {
+    "source_lf": "809753de6eff7e369ec0c305e315a9ff179c3bd376dbc181f4a0993a86d7eed3",
+    "chinese": "15555472789ba501fa3b3d9d5c450a6af1c84078799f8cf087d01648826edc59"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/matter_ball.md": {
+    "source_lf": "2ed493892def3137b67ce8a7d4ac510cf125a8144557f4f97f1d0f0f91fd4080",
+    "chinese": "f6ac3c85781435381475be7fd0e7b84261e7c318bc84d7ebd99c64b2591b4330"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/matter_cannon.md": {
+    "source_lf": "ff1fc717b9a546a6db91717f7a69d74c7e395c09b03fdb5ee188f3d0446faad5",
+    "chinese": "e1fb5f01f3e76202ce511dba5687e00f03b07342a283ba53ca7b45b6c720c3e9"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/memory_card.md": {
+    "source_lf": "a43e18cbec6ec50f7bb69fd87ab47ec82ff35186f0b272cd7a803d4712299ab4",
+    "chinese": "219695890b17863784e0ab4227f8b1cde13b3d455b100e9f3208115c78424098"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/meteorite_compass.md": {
+    "source_lf": "a8012114740eff42f34f81846afa6089ee6100a5a50afc682736bdf1fd5b9f91",
+    "chinese": "d40016aa98682028c9391c43ba636928593242a08d850fa9a81ff21d2cac1f49"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/molecular_assembler.md": {
+    "source_lf": "9b57a5bd1defc301a40bd8813f8e5e22bf4f874fadba1914a8288e0cc8241532",
+    "chinese": "54434a07f2bc8a6dd358f5243820b586222f2d80af8c6763b6c92256878a7f35"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/monitors.md": {
+    "source_lf": "f1f76a46dbfd2986fc21fbd74a5aee53466f68d8d0ea74ffab778af2248f56f7",
+    "chinese": "ec0fbb96efefd1158879dc089ccd2992290a47e862048386453f0edcb4e8901c"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/mysterious_cube.md": {
+    "source_lf": "272cc56236da3708c0f30074659a4960fad5675e46e35f5896ab388d67449666",
+    "chinese": "92c5ecbaf67f69bf6e9a52da501a23e80bc1f26fcbb934055790e40a5e1cab33"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/network_tool.md": {
+    "source_lf": "403f830c8096340efaadfd279bf9f0f53921273c5862509083d019aca232c753",
+    "chinese": "fc942fb38965371cc91f1c0637f4a3bb81cac391f712b9b89ade57e91d8daacd"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/p2p_tunnels.md": {
+    "source_lf": "a7231fc974c34d91ec0026df743032e12af83ab16e788bc94fb9ac55eaf24435",
+    "chinese": "0efaf692461428753a4e4a52de4635de0d22a15f1c6e1f2a6e471a784a3a752f"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/paintballs.md": {
+    "source_lf": "8fa8268f6f50481beb418dccf58c44621093b7e8bb1f35e1bef0d4f7437ba300",
+    "chinese": "98d906ee1fcfcb3171c2377fe949b57b969bec081a8e5f90e9be7817f1211dd5"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/pattern_provider.md": {
+    "source_lf": "e5f1a84cce11b1abd8c39df5d2f1b18ea50dce843a11ac4b0658787d7da4f6d0",
+    "chinese": "58dc6a311c729358451e02f1a7bd95d78d280e02eff439658cfad1b95751a19b"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/patterns.md": {
+    "source_lf": "97d30b9006ec8e44ccc3c422d990156350d4c50abb2d4c6388245d1ee3b9192a",
+    "chinese": "7a51eecc6df540efef23d794323e55e0fb119fb31098ea34c38aa406ea4600d1"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/presses.md": {
+    "source_lf": "761147bb67d087ce12f1d1266e63740388731cccb144d0e8e39e0291864823a4",
+    "chinese": "c7a3e374884f10af9e69855448aa1461756999161921f43bdb766539ebb63772"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/processors.md": {
+    "source_lf": "0ee1c45340a505ee38beb914ec42fa77405a90c9f002109677364a2a0ba77d4b",
+    "chinese": "0c78d28ba31ad070df64250016d8c4c12eed4f4357f3c51e98585198e13b4710"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/quantum_bridge.md": {
+    "source_lf": "77da850756524ff8ff4e94497f513f17316e8d98930d282f59ced7d41a2a27fd",
+    "chinese": "116de741d178e1b2e55d839120445afec6e3b5307988455507ee30dbfedcaa31"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/quartz_block.md": {
+    "source_lf": "c037e5cae93a507873c930371b0f1f3c903123d8c2d25e9a2a405e028bff17b7",
+    "chinese": "a43c236fa3501a82c00e01019d9b0a83fb0e04ff7adc30862dc856dfc9f912ea"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/quartz_fiber.md": {
+    "source_lf": "0df9a9dc2cd93d9962960ef708df984eaad033b771786dd27d80c3ffbd38fc8b",
+    "chinese": "9bbe6aa70cff1a009525247248dd6c66ee6402dfd7e0e46809e884ea5a18dd72"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/quartz_fixture.md": {
+    "source_lf": "4fcb794ab4cd3b883394ab7cd67d4cb6ca3d2083cadcd65f90817c0e35edcd46",
+    "chinese": "d617a1e0f68b72900b63e7211410e352e112d8bd27afa60e35260bce769e14b0"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/quartz_glass.md": {
+    "source_lf": "5a7d59fd17eb391f378dc33f6b3004a2fb19b7a94c4deb26764d06c2377bbd5e",
+    "chinese": "813425a1729191c4f21560afab26ed31801bd9bf3b8e288fe95328b1de9eafb6"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/quartz_tools.md": {
+    "source_lf": "b650f894c4951acb39dc6ba7b450c1df41aca4897f7d17b3c0a67e929a4e0d12",
+    "chinese": "5a30c9159dd1e77371e5b1e88af4758662d9bc2655fceb7aba385e82aa7a8217"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/singularities.md": {
+    "source_lf": "9474023ccccd6c65f5a05190363a3c5aedb988c27e6a710d0ba78b81eabec967",
+    "chinese": "1ecb6d2a8af4993f55aa4e33afe4511b88ea9a608d553197df940a3c8d867fd9"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/sky_dust.md": {
+    "source_lf": "ab4715683b045c68881f63262b07f4e8d642186c6a4cdd46a5c24b5d389fc70c",
+    "chinese": "b893c0688385f0dd0fc83c6dbb600503fe5cf158c0ebbc0cacea349979f96aa3"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/sky_stone.md": {
+    "source_lf": "bb9a3a0d5d33713f38c249e8de460da97c7ec2e943673954bc31bc9e99a6373c",
+    "chinese": "f76fc26c73eb6599001878da58bd6bc754e07e0e887bae16e25df1b47a603ef0"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/sky_stone_tank.md": {
+    "source_lf": "bf41e133d22a15bf0317bac2c39fc6f191d69ca9198297c6e8ae545484c84538",
+    "chinese": "0619f1a492e1bf25012d6f8b60582a0eb1a189911b77357016836d14339f2d33"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/spatial_anchor.md": {
+    "source_lf": "65e6205b44c8a5faa0f64a7e4eff38ebda26a87b2f21d9bd523bfe1727e2b070",
+    "chinese": "a5202db5c9945bd073a329264e6c795e12d57a272b546fc2bc6032537acae6ff"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/spatial_cells.md": {
+    "source_lf": "eec072c1e7fc4fe6e224a7f0929d5c774d1ee12cc36f811402c88b0ed35c3baa",
+    "chinese": "e1dd0fea6ee5c500318035f04ccf19db45216935a9f559a7be6fecf8803281df"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/spatial_io_port.md": {
+    "source_lf": "94ae71b5db61a35b1ad67c1cf3a5d13e7f1b63ddab1a96623c5253fbd369d608",
+    "chinese": "3e2d6ff67411e8c65cfd52875b24cc6442bad5b96ac7938309f847a0ece19042"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/spatial_pylon.md": {
+    "source_lf": "4cf7637fb896850abbe277bc7506e92edc6d93740c521301a1e3343c45efa211",
+    "chinese": "981dda3a0ad94d26fb98f72e9833b84b8121606f82db0da1ee8b381b22f2efd0"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/storage_bus.md": {
+    "source_lf": "739e6d9aacb18d1b31d54433c9327e75fd0950fc8802ac6b8863228f211bdeac",
+    "chinese": "99328b3412f7739c9e0a482f2aef851f8c0d3279bc77f3e5fa654b42c33243a7"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/storage_cells.md": {
+    "source_lf": "81e6d603646b06631d4e3fcfa7ab118eccbbb84eac4867ed4b209823dffc2fae",
+    "chinese": "53a3f601bf6668b02d4261e0a88a2dff95b023cde02c7eb31ebf5fdfb7b60942"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/terminals.md": {
+    "source_lf": "f78b062e3d0ef161046ee0940b57dbc8928dae596b2c97917f8043ab12d94109",
+    "chinese": "714037f56fd71b3ab7839d422dd508b0798f2b538139e5081f9844771d5bcd8e"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/tiny_tnt.md": {
+    "source_lf": "722bb13801e73bd82b2624c6ae957493b66cd8e054de183fabe0346c03d1fb17",
+    "chinese": "3371a627a0f1ee06582a16e688f2f18e9bc299be4ade5921a01d52ad1eee0f79"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/toggle_bus.md": {
+    "source_lf": "d19076b5def960229a2e198512dd3209166c379fee4148fc83df55d0d8f9d800",
+    "chinese": "61895168404867922b588fc6161e8c79501a30c7fbcfd199702344d00a407cde"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/upgrade_cards.md": {
+    "source_lf": "e1546379ca4d0db81fd4abf339540bf9d71664b64b4ea469e539652d73f40fae",
+    "chinese": "c09b3e20822a8899ab236313af4bb4a3dcd43d36399557a630ca7deb9c3c24fd"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/vibration_chamber.md": {
+    "source_lf": "aa5d74b971d808f5c4f811f20b470f909f9336dd06dbf05b791455b34b2cc4c2",
+    "chinese": "22cd0390adda9cbdaa3230c41f63349733ecb9f5cbf911a200a8d92ce3f729ca"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/view_cell.md": {
+    "source_lf": "c966855daf241fd2210e6aa20e192a4cb5a2e6998c81d5737b86acb319845ecd",
+    "chinese": "b78036a5e96acf3a4503465233f382a1e743263f41ba3367af33aadbf567a332"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/wireless_access_point.md": {
+    "source_lf": "0e027418e30dcbdc5e68cee59002d758a905201ef2207414d07b402c928a6409",
+    "chinese": "01694279e2678c3f7d95cb5bf7b074f59ad0a8cdda1a3da44c8355414c33715d"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/wireless_receiver.md": {
+    "source_lf": "2bfdb03893c3418336dd728e2f0bf1b88beaab3c6e330abf100c39ed4caeecc1",
+    "chinese": "5ce4fadff0ed8189f7a008a1ba0bd1b1978a362e86e9e045959b98fa311574eb"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/wireless_terminals.md": {
+    "source_lf": "f56c14d97752d31936fec69e15846cfccc9e1936b0bc87f46c11ba2b9d139eba",
+    "chinese": "2ab12a9e995a8656d18c1163cf3b108d2967687d66a932b84811382cdcb483ba"
+  },
+  "assets/ae2/ae2guide/items-blocks-machines/wrench.md": {
+    "source_lf": "77febf9723537a00c7126f9c543bcea3c4e4125ee5a67f5d12708630c45bbb20",
+    "chinese": "14291afd7251be26458acdc2e7a96226ee2c976bb6541d24600d5db23c028e47"
+  },
+  "assets/ae2/ae2guide/tips-and-tricks.md": {
+    "source_lf": "c485afb0d1b8145aec29bdf01d4f26d59e85bdd9b3450d78b84a4790ce7b677d",
+    "chinese": "9199818ae07eb2ee7638ecb03f00f400452eac554f116d23cdc788a8bce8dbd6"
+  },
+  "assets/ae2netanalyser/ae2guide/ae2_network_analyser.md": {
+    "source_lf": "b77d6892cac78ff7aeb58974761d588c6ba2fcb152cc48d68950d2372ae9b819",
+    "chinese": "0a430b6af9d22788839e6bc7025fcae9f34088f50454d1e34d9a6f2b64930f32"
+  },
+  "assets/ae2netanalyser/ae2guide/ae2_tick_profiler.md": {
+    "source_lf": "dba519174cbc34458269ed02b091aa6a175129361a9252332cdd5cab2b978aa2",
+    "chinese": "1d13a4cd1b4055a464f555fb5839d0be1c930d7ce4e0f639bb4b1949b95eb242"
+  },
+  "assets/ae2wtlib/ae2guide/ae2wtlib/ae2wtlib-index.md": {
+    "source_lf": "f03c51247e5adb94356a34b0a7a2dad3677696ca6d3b96d6769ba58cdfd3afde",
+    "chinese": "e8b62543de6980cba224bb5298b342634ff5d8942d47413ae2b96ea502a5982b"
+  },
+  "assets/ae2wtlib/ae2guide/ae2wtlib/magnet_card.md": {
+    "source_lf": "8d61630d98e52758af06db2fb8b9edd44ab960fee15ef9ee7d15634802ee413f",
+    "chinese": "2e634adbd0fea0cbb696f33a59038de460eee67b1f4f8efac1c5d3cfe1e281ba"
+  },
+  "assets/ae2wtlib/ae2guide/ae2wtlib/quantum_bridge_card.md": {
+    "source_lf": "7a2f0cf7a0895f6da23dc6d98d7dc4831966a27de59d44bfbaf827f3ecf5e85a",
+    "chinese": "e46d871d6c91b6cacb05fe7e55a6bef1af30bfe295a002fde80679bdd279d895"
+  },
+  "assets/ae2wtlib/ae2guide/ae2wtlib/restock.md": {
+    "source_lf": "6154dbbd8faaca04fae8b2d9bf8c37dbbf6e3e09343e38a1c50541896a0f4463",
+    "chinese": "2887d7b2a794cb6b59f13d8d1b2c855a75f0dbedc1ca1faf9c9f5189000962c6"
+  },
+  "assets/ae2wtlib/ae2guide/ae2wtlib/wireless_crafting_terminal.md": {
+    "source_lf": "8ac625a09f9df4d39d9f66d2ff602c1d2fcc3cebe4818a81b0b6050555ae7e94",
+    "chinese": "75dc3e103c075e0aa2ac76142129d4d05023f2077250b9a3d08176b8f3152ded"
+  },
+  "assets/ae2wtlib/ae2guide/ae2wtlib/wireless_terminals.md": {
+    "source_lf": "8b656c85d7e7785a0c8868fb411794ea934f48e8c5327104ff8dbdefd3a06dcb",
+    "chinese": "be9c179b7961a2450ba38ec2317d59199f0a03e288181fd25eaf06bb3a59dda0"
+  },
+  "assets/ae2wtlib/ae2guide/ae2wtlib/wireless_universal_terminal.md": {
+    "source_lf": "62b4fa7237cb17a1c0e23c6f4a9d1e0ff5a5e70a4e411c306f1323ada7c7e358",
+    "chinese": "7498a01c61b29b1b6dfbf20aee57f1be97d753ee5caff38b8e96938887b3f643"
+  },
+  "assets/appflux/ae2guide/appflux/appflux-index.md": {
+    "source_lf": "276d3071b2cff8be39ea85c099ca69fdece40850a2fd9ec81059db99d6cb8fd6",
+    "chinese": "7a3231186c57da1335e453ba899b32c425d924ec8398dafd83181308ea2c67f4"
+  },
+  "assets/appflux/ae2guide/appflux/diamond_dust.md": {
+    "source_lf": "33140ea94bf2461ffa9040de965539764d2059f385f6bec7c046c4fbaa28b195",
+    "chinese": "c0aaa226918526ec0eb04b2e6ede1771a5952eead7a4371dba71174e199f4749"
+  },
+  "assets/appflux/ae2guide/appflux/emerald_dust.md": {
+    "source_lf": "6e936e9acf70ff666413f29917ea5542568fb6823852a4f05c00a68fbcfaf648",
+    "chinese": "ba101ea32fb329b43323512f369f98e961a04a7363291be83177b3442fcb508c"
+  },
+  "assets/appflux/ae2guide/appflux/energy_processor.md": {
+    "source_lf": "5aabd4cef9dd6ee8926841b5df50d7df6c5c866adfdae43db0ce174a7490bd7a",
+    "chinese": "88b8927fd61e0e2bc88ccfe6b19f45ca9c619a3a8b21b9f8725811fa94ad0bad"
+  },
+  "assets/appflux/ae2guide/appflux/flux_accessor.md": {
+    "source_lf": "c55afe3043bea62ae24fc3b31b19a50c0d7af885a59f47ab5ac60bf8d025d1a4",
+    "chinese": "8c584ce2035dc0450ffc89b20bcef03920269b1ae8c1f7ee8567ff8fe875d370"
+  },
+  "assets/appflux/ae2guide/appflux/flux_cells.md": {
+    "source_lf": "d4fd458f4967a8b2f611519478d1aba313cc0e836b96bc614b7c6a0fada16922",
+    "chinese": "8b77b98784e9e0390823a2a54d2ab8be29bf451b1e33dba9701024e0f5dfc118"
+  },
+  "assets/appflux/ae2guide/appflux/induction_card.md": {
+    "source_lf": "35c78a7b7cc75e3abd04455ad76fd30868f964b0e6f95640617f2fc534f25c28",
+    "chinese": "31b08211c5e5e6e338d06bd25d60dc5593d0a93228c55aa3492426034daeb3d4"
+  },
+  "assets/appflux/ae2guide/appflux/insulating_resin.md": {
+    "source_lf": "e96e77e67dd8b9a34e0fd77b0dd32023241f27a0a2f5bc5a4a1896a0174bda74",
+    "chinese": "7cf9a09f91f0c952b9c1a2ae10cbae977c44b67e3f439ae76ac8416e80cf8029"
+  },
+  "assets/appflux/ae2guide/appflux/mark_energy.md": {
+    "source_lf": "fd4ba166468e9b924d74e2a056498bd3aea1869d07a63d99270713b40fa162f5",
+    "chinese": "9420f374eb4daa4995a26b7eb714c0d9a7d2b4b2ebe90fb09e0537ec41a3316d"
+  },
+  "assets/appflux/ae2guide/appflux/portable_flux_cells.md": {
+    "source_lf": "73ee3254cb3740d404d3ea2793672674ecb8553676c4d167f09629743a8796c0",
+    "chinese": "e05cf31bc3fac2d9329a4d4286222341e96a0162656e6df76d8830f0bcf73f76"
+  },
+  "assets/appflux/ae2guide/appflux/redstone_crystal.md": {
+    "source_lf": "b017a16afa68d67f46bbfd1c72306bb63a520dc84ece463eb58bcf0558a86821",
+    "chinese": "5c8608e9d20235abc6143bcdcbecd4014dd945284f315ae7b86cd53060246289"
+  },
+  "assets/appflux/ae2guide/appflux/terminal_interact.md": {
+    "source_lf": "fee14f50418c6db212dcfe14abae3abce9c8281ce6ce6ebafae41629fe42628d",
+    "chinese": "641b723cb349715b62047373de23eea5b33a15bbb2213447459e2f15594dad74"
+  },
+  "assets/extendedae/ae2guide/epp_intro/active_formation_plane.md": {
+    "source_lf": "440e8ed9ca3c4128ee6af7fcc609d612822b2f2a050ab326f44c95a480ef6150",
+    "chinese": "6c7da7dc212625be392ab115bf10d9359b9b6a7084245e2740c587d7355eb5d1"
+  },
+  "assets/extendedae/ae2guide/epp_intro/assembler_matrix.md": {
+    "source_lf": "d586a7993e2ebb728417ddf4033052eae760dbad3acc7c9537c574eeb1e260db",
+    "chinese": "fd47dad8f251999dbf43a2eb6494bdc8cce2de4ecc4c219150949afd7fe3d334"
+  },
+  "assets/extendedae/ae2guide/epp_intro/caner.md": {
+    "source_lf": "5577b0acf28fa2953485aa2c68e2687376676d2982338d7e6e509e4bdf0a1b65",
+    "chinese": "4918b75360bb7e8d1c889ec89f28440a23a9648763006d642d2906b7dd8db996"
+  },
+  "assets/extendedae/ae2guide/epp_intro/circuit_cutter.md": {
+    "source_lf": "6cb6cafd5749c822e854a642d6d49162ad07dc2d2ca6011f420e3459adec8751",
+    "chinese": "9c701c4b94b3392fa40d282a031b6f542e52b263d016d11f3ba0adfcec0f39b7"
+  },
+  "assets/extendedae/ae2guide/epp_intro/concurrent_processor.md": {
+    "source_lf": "e70e37cf5565f22aa2b65e855c6b982126010c85d1e266971a0d3dd747c70f6c",
+    "chinese": "a0a0d013180a3ac7d2d4ec8dfc592ab4dde7436d192438cedd88232b079416db"
+  },
+  "assets/extendedae/ae2guide/epp_intro/config_modifier.md": {
+    "source_lf": "57f5944d5f852605a8a29d4f91b52eba225c4c4fe88c37b646314baa410e8753",
+    "chinese": "c8a0035bd35a688be3f7738174788cd0e314dc570cce79d13efc53464b364bd7"
+  },
+  "assets/extendedae/ae2guide/epp_intro/crystal_assembler.md": {
+    "source_lf": "547cee596bba49898ee962b15f24a397c55e73b205e051f7a9a504b902049d3f",
+    "chinese": "2ed497b736299945a567bd4ea7d3cf692ca1975a166a59916ca05e1e07df362a"
+  },
+  "assets/extendedae/ae2guide/epp_intro/crystal_fixer.md": {
+    "source_lf": "7a919f83d23956eea39a5c26d8db3ba7eb57c2b54bea926ce82a168fbc126240",
+    "chinese": "0f600352faf39b302440293ffa241e26e6ae0394f35053865bc50f6ec64b8e25"
+  },
+  "assets/extendedae/ae2guide/epp_intro/entro_block.md": {
+    "source_lf": "8bf746509b5d56d78800357562821abdbd04c57686d81f1a0dee4aa27234b84a",
+    "chinese": "c5b6bb33f26d45830a530364c5820a7d72009d8b60e36415c6610b108ba4ffb0"
+  },
+  "assets/extendedae/ae2guide/epp_intro/entro_budding.md": {
+    "source_lf": "8f83dd4f21b5333244cf85255a2ecca22056a2b51add605dfe3ce2ecb7feaaf2",
+    "chinese": "e4c5b2506685022e4a805f290ceff0dcf8f4206f26a80c4ae94ac54d2b40dc13"
+  },
+  "assets/extendedae/ae2guide/epp_intro/entro_crystal.md": {
+    "source_lf": "866b289a7c4ff1d333e2e148741879a7f064ca88057242d8f46353005cb423e9",
+    "chinese": "5a015dff8e93fa9c7ae7708e4f227f5fab39156293428b7c21e08233ab95fc41"
+  },
+  "assets/extendedae/ae2guide/epp_intro/entro_dust.md": {
+    "source_lf": "faafddb46a7d485ff16612d10b391a8c5436c62423a13703b130272b9d23d027",
+    "chinese": "8af7cc855f27221192d046f934c36f257cf87e05a97f9979b745977262a89f31"
+  },
+  "assets/extendedae/ae2guide/epp_intro/entro_ingot.md": {
+    "source_lf": "299511803e09e726bece71bd5d19e77622cb578929ef04f8ddce36110e0e6b08",
+    "chinese": "ca3155c9d11350665024ad0b2a129cc4c45e7227ed89e2ed02a85f6c5d8e2f92"
+  },
+  "assets/extendedae/ae2guide/epp_intro/entro_seed.md": {
+    "source_lf": "c6d90538fea8dfbb78c5749e933f65716fef2376010e758233e4f7051f465640",
+    "chinese": "865fb9b2aa119e7b79d383854f8a17996f858ca192e28da2d01e40c6ba7df9ed"
+  },
+  "assets/extendedae/ae2guide/epp_intro/entro_shard.md": {
+    "source_lf": "294078713bc581ef219768194273a2df3c628e25951aab4939b2507e76dce597",
+    "chinese": "961c80a52cdd1463fb3b65c83e88f37131296c32d0808c559157bfb00ef7034f"
+  },
+  "assets/extendedae/ae2guide/epp_intro/epp_intro-index.md": {
+    "source_lf": "f15227d4811a9eba82135fdaf7741d077a6794f4c00585de5618507223a74026",
+    "chinese": "073c6b3f7890b1f1c3ecef0297bb119f8c7fa0a1a6e2a5f30ddd3882ad8c4eef"
+  },
+  "assets/extendedae/ae2guide/epp_intro/extended_charger.md": {
+    "source_lf": "b2e24a4d2db621d9b36e093754222c539872eef9b0d7db28fcca9f8602e87675",
+    "chinese": "fe7fff15bcdcf352cf53ddebdb89e5d7e8c6e04e664e9f39712301baa9fa3218"
+  },
+  "assets/extendedae/ae2guide/epp_intro/extended_drive.md": {
+    "source_lf": "002dcb2e3d73ea2def18163688cd4edc6fdaaed61572bb02ffd5eb0ba1210d93",
+    "chinese": "4899f3990b55045488eb8b4bdd83ee7ca3d5055ebdcb391334df92a93cad3bdc"
+  },
+  "assets/extendedae/ae2guide/epp_intro/extended_interface.md": {
+    "source_lf": "a4a80901cd5e3db4341fdc9a1141de64dc9f0b38fceef4790930619ab8cdd44a",
+    "chinese": "c0dfcc875d09b4efa1f09432b3c1f6cfd1972671ab8f4ceae8f790b28f33e2d7"
+  },
+  "assets/extendedae/ae2guide/epp_intro/extended_io_bus.md": {
+    "source_lf": "bf97080bd84fd1aa8687ac92e3e03781da36cf9267bc922b8c2029f419dcb561",
+    "chinese": "3daaf434a309eb4b7dd0f50388812f0e731e95b60e7311718167a1c96855bbfe"
+  },
+  "assets/extendedae/ae2guide/epp_intro/extended_io_port.md": {
+    "source_lf": "adb94d49faa572cdbb3c7392d713cf8fcb9f3e291e0e5b402003bf4d3249c973",
+    "chinese": "0e19e231ec4163d0c245a0487339ee95dd5b283ad82b9d53c5e5cd021e30b21c"
+  },
+  "assets/extendedae/ae2guide/epp_intro/extended_modecular_assembler.md": {
+    "source_lf": "747706b3d11a14d12e91162cc6497a0b423e9b4178a9abc74206c25a07a36802",
+    "chinese": "6e3b7c488efbcab8711d97c0e8bd49bfa6ec66677ddc7c6e6f0f21beaf0c3be8"
+  },
+  "assets/extendedae/ae2guide/epp_intro/extended_pattern_provider.md": {
+    "source_lf": "aca2e54a374f28a463c836c9e6244972aaf05b0da225012a2b7d75f9f8e8597b",
+    "chinese": "730d31c2018c6ec12894f02d9849ed0292f9327d6ef2f84a3695a25ba70f116f"
+  },
+  "assets/extendedae/ae2guide/epp_intro/extended_pattern_terminal.md": {
+    "source_lf": "234e1b9b2ac29013b826ee6f2fd5e658595c336149a436542174e91eee19efc4",
+    "chinese": "b149874efea9e99f086e1f8c18348e0c19a66925ceb43b91c0220716f6040556"
+  },
+  "assets/extendedae/ae2guide/epp_intro/infinity_cell.md": {
+    "source_lf": "da8eaae8d7c0e11c23e2dc5e68fb978297d83e1e7c51388115cd70179f1ee611",
+    "chinese": "b0c3a5f7dd49f677acc6c7718f9a8c13241a81e3ee31ecdda501e992836ad20e"
+  },
+  "assets/extendedae/ae2guide/epp_intro/ingredient_buffer.md": {
+    "source_lf": "dee9472a1eedb0a141600a3082287ef1fbbecc15de0c7f4c040e2c5fe56776ce",
+    "chinese": "f26c9a73e8b8bcceed696febb86df7e6d084451e90e720068852a7281846c277"
+  },
+  "assets/extendedae/ae2guide/epp_intro/machine_frame.md": {
+    "source_lf": "30c0fcbce0f00e4e6f7b1a6b46341b08cc22ee58db9b87984ac03e6046da58d9",
+    "chinese": "1e90481adc945088cada06fef05c4c5ea0f623057e61d51625719e96dcdd5e2b"
+  },
+  "assets/extendedae/ae2guide/epp_intro/mod_export_bus.md": {
+    "source_lf": "0025efbbcf63fc9f2c67276cb438b6a4db351a56a5fe9e0f999c92176ad46c92",
+    "chinese": "01927676af91150ca1e3d53828dfdcf5aca6386fc5642f0abda221a9b46d4e0e"
+  },
+  "assets/extendedae/ae2guide/epp_intro/mod_storage_bus.md": {
+    "source_lf": "56a97200eadaeef10160fce77076253df9940608b01a11f30a5b04e4f316c2dd",
+    "chinese": "22ff87a3c94e2aab2e187038f386e9c88987e5324f9bc77f8fc1926ff34fb50d"
+  },
+  "assets/extendedae/ae2guide/epp_intro/oversize_interface.md": {
+    "source_lf": "0994286252a0e9b9e4544f0b2e065ff7da7b20d3b5a992d74e891aa3a57afc9f",
+    "chinese": "51b5a2828fc20e4d20ee9c2b0c3af7cf14ddcf4aac18439d962cd066f3b795c2"
+  },
+  "assets/extendedae/ae2guide/epp_intro/packing_tape.md": {
+    "source_lf": "6adf3a49846aa1b7c66a7ba4e4793c6485a4e97be467c120d9801446ea90acee",
+    "chinese": "6d5726c0245d7423072ae67a595f978eb2d714fa6ed703af631291cb48f231dc"
+  },
+  "assets/extendedae/ae2guide/epp_intro/pattern_modifier.md": {
+    "source_lf": "5ac307d4a1db6515f4dd0e0e9e6cd7b4b01bb6b47bf5ce6e7aeda02b589aa3c9",
+    "chinese": "b4ea584530fa0e47277e41bc754ba5a21fe7d6eebe63b9b4f44c891e53ab5de7"
+  },
+  "assets/extendedae/ae2guide/epp_intro/precise_export_bus.md": {
+    "source_lf": "6dbbce57f6ba91791ea3cc408cec0dc0860062023f49782ef6ef1296a686626b",
+    "chinese": "58078d780a70ac6598690f7c3ce7a87da28a9ddd2352f01face8afc2b1f8d9c1"
+  },
+  "assets/extendedae/ae2guide/epp_intro/precise_storage_bus.md": {
+    "source_lf": "2a44a0ccfca507cd60d9d839f2af785d156ef34cea97f2df6582b0c8c6ce55bd",
+    "chinese": "582ccfb893053900043c3afc279ecaa0d593e5e10882b25e4cda719b500e4e2d"
+  },
+  "assets/extendedae/ae2guide/epp_intro/quartz_blend.md": {
+    "source_lf": "9c09d858ff854b57b0e3a95fadf7cb20260782805082ddcec58683695170d56c",
+    "chinese": "93fe5e5909dd5fe9aada2df2e335257303a71e680e6540b004478600aefe8d4c"
+  },
+  "assets/extendedae/ae2guide/epp_intro/silicon_block.md": {
+    "source_lf": "b9e4c9ae36084a576901f14f42f43b8b5da6041ab38804f388e8ddf51e197c08",
+    "chinese": "a91637223344518df7c451cfde6a7016a3cbd2f6e01da1c47c1f5bf7795c573c"
+  },
+  "assets/extendedae/ae2guide/epp_intro/smart_annihilation_plane.md": {
+    "source_lf": "9430e32363163ff628d19bb9b3012158863246aa21a162812d2774385de85ae9",
+    "chinese": "00e3af0fb2243e89f2c0bd721747b2ab53a15f365c40864b0f9027f555168519"
+  },
+  "assets/extendedae/ae2guide/epp_intro/tag_export_bus.md": {
+    "source_lf": "da961bcb1a16beb272314a954097c202fac5d74604b3a86b53bfaa5ac85acd85",
+    "chinese": "2bb5f795e1f90f90f338a5e39d711fa5277408ea3492d329c3b0c13bfe4dd6f1"
+  },
+  "assets/extendedae/ae2guide/epp_intro/tag_storage_bus.md": {
+    "source_lf": "945e90d9655ffd8fef922a0874f4852139e1edd5d2cbc0ed44a5351d1ce5c7c7",
+    "chinese": "bc42609d07c21ced40041d0900bb5e560b771bd9d3d0d850e00cc6be0fb1936e"
+  },
+  "assets/extendedae/ae2guide/epp_intro/threshold_export_bus.md": {
+    "source_lf": "eb24fe5a88cf19f65659495839dcb33853d8deebd3217802ca3251ee8edffb09",
+    "chinese": "5fd3d8d4430f8f239b4ba861aafb05abc7f9ef0c849708fd9a6cf9714bddfc0c"
+  },
+  "assets/extendedae/ae2guide/epp_intro/threshold_level_emitter.md": {
+    "source_lf": "54acf867ad0effa25e778551a94379aef7233a912b6928c86ae088832f957f20",
+    "chinese": "4be2ba0cf619ddd1012f6a42a3a921e1623877b9c8452a9d1b1d680ea3ac5af3"
+  },
+  "assets/extendedae/ae2guide/epp_intro/upgrade_items.md": {
+    "source_lf": "c467a79bb302b6093bf826282f8108605e08b4aaa8e03b84f9014b0ea5e24b32",
+    "chinese": "05b2979ca74ec2365989a113f2c4828ac8b86f6510cef20cb31a3e7afd1ccd1a"
+  },
+  "assets/extendedae/ae2guide/epp_intro/void_cell.md": {
+    "source_lf": "c0a7ef7d6ccffa2c737a59c5c07340a3834c19d695678b4095e701333eaace05",
+    "chinese": "4b215a24fce62cf90615ac5728f41467840d47e54ef53af54963757c9655acdb"
+  },
+  "assets/extendedae/ae2guide/epp_intro/wireless_connector.md": {
+    "source_lf": "0f7c6db86acc8c8e5c72e22ef763cf214038c82b5ff2b0d4b2d275ef799e2433",
+    "chinese": "a368b061762ea3b72a45dde5a421b49d25080154f2b51862a9e7b3413947fa15"
+  },
+  "assets/extendedae/ae2guide/epp_intro/wireless_hub.md": {
+    "source_lf": "4ef96e5b3afe1268028a0d8d426d79a6eb98789be8110a27643d582a1e8fea28",
+    "chinese": "7336cfae702634087547961b0af5f2ebaa7fd56ef66afa456700c9459b791384"
+  },
+  "assets/little_big_redstone/guides/little_big_redstone/guide/logic/battery.md": {
+    "source_lf": "464c713f4a7b9bd3e46cab709a3ff72fd839e446e289444b30179d7467dc7837",
+    "chinese": "d759c6b969165c69d13f43ba186dfbe144592d486dde4ffd79e381de01f8f25d"
+  }
+}

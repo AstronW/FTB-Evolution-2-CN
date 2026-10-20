@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "184",
+  "namespace": "utilitarian",
+  "source_keys": 32,
+  "unique_values": 32,
+  "chinese_values": 32,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 33,
+  "source_sha256": "e7a1f5269f7f75fca523c0179d624f8420a803704a44ace833009e7abaef8824",
+  "in_game_tested": false
+}

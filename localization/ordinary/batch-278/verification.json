@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "278",
+  "namespace": "plonk",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 2,
+  "source_sha256": "61804197bc35023175bfc6cf121b05e7231c36e4ff73604879157413e183a9a2",
+  "in_game_tested": false
+}

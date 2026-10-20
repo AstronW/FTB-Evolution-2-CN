@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "001",
+  "namespace": "colossal_reactors",
+  "source_keys": 491,
+  "unique_values": 398,
+  "chinese_values": 446,
+  "reviewed_non_prose_values": 45,
+  "installed_overlay_keys": 492,
+  "source_sha256": "3c969713a19682fa5a383ca3697a478279c409818d0c4d7460f5deeee768fbbe",
+  "in_game_tested": false
+}

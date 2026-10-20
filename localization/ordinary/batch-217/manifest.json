@@ -1,0 +1,23 @@
+{
+  "batch": "217",
+  "namespace": "jamd",
+  "jar": ".minecraft/mods/jamd-neo-26.1.1.1+mc26.1.1.jar",
+  "language_path": "assets/jamd/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/jamd/lang/zh_cn.json",
+  "include_keys": [
+    "advancements.jamd.mining.description",
+    "advancements.jamd.mining.title",
+    "biome.jamd.end",
+    "biome.jamd.nether",
+    "block.jamd.end_portal",
+    "block.jamd.nether_portal",
+    "dimension.jamd.end",
+    "dimension.jamd.nether",
+    "item.jamd.end_portal",
+    "item.jamd.nether_portal",
+    "item.jamd.portal_block",
+    "jamd.argument.world_type.invalid"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

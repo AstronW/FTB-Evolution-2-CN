@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "109",
+  "namespace": "jearchaeology",
+  "source_keys": 156,
+  "unique_values": 149,
+  "chinese_values": 156,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 156,
+  "source_sha256": "55205a2767d343af1ddafb8f4b8420cb581cde256b400dff15ed37bf8fdfee55",
+  "in_game_tested": false
+}

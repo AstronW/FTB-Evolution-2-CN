@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:multi_action",
+  "external_title": "获取支持",
+  "title": "获取支持",
+  "body": {
+    "type": "minecraft:plain_message",
+    "contents": ""
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "加入 Discord",
+      "action": {
+        "type": "minecraft:open_url",
+        "url": "https://go.ftb.team/discord"
+      }
+    },
+    {
+      "label": "反馈问题",
+      "action": {
+        "type": "minecraft:open_url",
+        "url": "https://go.ftb.team/support-modpack"
+      }
+    },
+    {
+      "label": "取消 "
+    }
+  ]
+}

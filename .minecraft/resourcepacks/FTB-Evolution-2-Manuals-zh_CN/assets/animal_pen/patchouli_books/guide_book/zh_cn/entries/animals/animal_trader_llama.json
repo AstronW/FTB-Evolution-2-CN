@@ -1,0 +1,22 @@
+{
+  "name": "流浪商人羊驼",
+  "icon": "minecraft:trader_llama_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:trader_llama",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:llama_food",
+      "text": "用小麦喂流浪商人羊驼进行繁殖, 增加围栏里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死流浪商人羊驼并掉落其战利品."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "227",
+  "namespace": "geore",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "24350c7a19751d748fd6a2096d8aa71184b0633bf3632f3e9ab108668cfb31a9",
+  "in_game_tested": false
+}

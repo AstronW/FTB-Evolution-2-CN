@@ -1,0 +1,17 @@
+{
+  "ordinary_language_keys": 25840,
+  "manual_language_keys": 3475,
+  "all_language_keys": 29315,
+  "group_labels": 95,
+  "manual_pages": 369,
+  "patchouli_visible_fields": 508,
+  "original_batches": 312,
+  "original_batch_keys": 22011,
+  "reviewed_cfpa_language_keys": 7304,
+  "batch_cfpa_key_overlap": 0,
+  "original_manual_pages": 164,
+  "reviewed_manual_pages": 205,
+  "manual_page_overlap": 0,
+  "batch_keys_classified_as_manual": 2199,
+  "batch_keys_outside_latin_inventory_retained_as_ordinary": 187
+}

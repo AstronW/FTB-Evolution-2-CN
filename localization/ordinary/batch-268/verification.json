@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "268",
+  "namespace": "aquarius_libs",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 3,
+  "source_sha256": "83d3245db0215364a07386cc0a47ff96134d01115293fbef8e36660235b35955",
+  "in_game_tested": false
+}

@@ -1,0 +1,19 @@
+{
+  "entity.irons_artifice.soul": "灵魂",
+  "item.irons_artifice.bullet_box": "子弹盒",
+  "item.irons_artifice.soulfire_coin_modifier": "魂火硬币",
+  "irons_artifice.component_type.explosion_radius": "+%s 爆炸半径",
+  "irons_artifice.component_type.soul_chance_on_hit": "+%s%% 命中时释放魂火硬币的几率",
+  "irons_artifice.modifier.soulfire_coin": "魂火硬币会强化子弹, 并使其射出后跳弹",
+  "irons_artifice.modifier.soulfire_coin_empower": "强化状态提供 +%s%% 的伤害, 作为无视护甲的魂伤",
+  "irons_artifice.value_modifier.plus": "+%s %s",
+  "irons_artifice.value_modifier.minus": "-%s %s",
+  "irons_artifice.value_modifier.plus_percent": "%s%% %s",
+  "irons_artifice.value_modifier.minus_percent": "%s%% %s",
+  "irons_artifice.tooltip.bullet_pouch": "%s / %s 发子弹",
+  "irons_artifice.tooltip.bullet_container.description": "最多可容纳 %s 发子弹",
+  "death.attack.irons_artifice.soul": "%1$s 的灵魂被 %2$s 摘走了",
+  "death.attack.irons_artifice.soul.item": "%1$s 的灵魂被 %2$s 用 %3$s 摘走了",
+  "advancements.irons_artifice.over_over_overkill.title": "超超超杀",
+  "advancements.irons_artifice.ultrakill.title": "极限杀戮"
+}

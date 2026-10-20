@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "107",
+  "namespace": "travelerstitles",
+  "source_keys": 196,
+  "unique_values": 187,
+  "chinese_values": 154,
+  "reviewed_non_prose_values": 42,
+  "installed_overlay_keys": 196,
+  "source_sha256": "d00d1799eeca09d92970ff4577f5e6e362f70bc642a45e85238bd5f766b3ffaa",
+  "in_game_tested": false
+}

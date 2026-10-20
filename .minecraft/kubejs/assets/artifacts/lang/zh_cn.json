@@ -1,0 +1,9 @@
+{
+  "artifacts.config.client.showArtifactsOnPlayers.description.0": "是否在玩家身上显示佩戴的饰品",
+  "artifacts.config.client.showArtifactsOnPlayers.description.1": "该配置项仅在客户端生效, 不会改变其他玩家看到的内容",
+  "artifacts.config.client.showArtifactsOnPlayers.title": "显示玩家身上的饰品",
+  "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.description": "隐身围巾是否应阻止所有状态效果产生粒子",
+  "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.title": "隐藏效果粒子",
+  "artifacts.tooltip.plus_mob_effect": "+%s",
+  "artifacts.tooltip.plus_mob_effect_chance": "+%s (%s%%)"
+}

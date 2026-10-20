@@ -1,0 +1,60 @@
+{
+  "target_pack_version": "1.4.0",
+  "scope": "Pause-menu support dialog, all five visible non-empty text fields",
+  "files": [
+    {
+      "source_path": "datapacks/ftb/data/ftb/dialog/issues.json",
+      "snapshot": "sources/issues.json",
+      "sha256": "1e09508e6059dfe972a088f5c0418da048e2e20bba45d51ce896c579d367a83d",
+      "output_path": ".minecraft/datapacks/ftb/data/ftb/dialog/issues.json",
+      "changes": [
+        {
+          "path": [
+            "external_title"
+          ],
+          "en": "Get Support",
+          "zh": "获取支持"
+        },
+        {
+          "path": [
+            "title"
+          ],
+          "en": "Get Support",
+          "zh": "获取支持"
+        },
+        {
+          "path": [
+            "actions",
+            0,
+            "label"
+          ],
+          "en": "Join Discord",
+          "zh": "加入 Discord"
+        },
+        {
+          "path": [
+            "actions",
+            1,
+            "label"
+          ],
+          "en": "Report Issue",
+          "zh": "反馈问题"
+        },
+        {
+          "path": [
+            "actions",
+            2,
+            "label"
+          ],
+          "en": "Cancel ",
+          "zh": "取消 "
+        }
+      ]
+    }
+  ],
+  "terms": {
+    "Discord": "Discord",
+    "reason": "Existing project retained proper name; blank body retained; trailing label space retained"
+  },
+  "remaining": "Other pack custom interfaces and runtime messages handled separately"
+}

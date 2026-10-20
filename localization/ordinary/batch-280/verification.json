@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "280",
+  "namespace": "witchery_forbidden_magic",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 3,
+  "source_sha256": "614abb3b9f606a7b0f530611c1b5d771fea506d6d4ba6a3d7b1a300b46f51fbc",
+  "in_game_tested": false
+}

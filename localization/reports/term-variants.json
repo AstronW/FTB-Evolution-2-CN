@@ -1,0 +1,139 @@
+{
+  "Hold ": {
+    "按住": [
+      "chapters/auroral.json5:49",
+      "chapters/oritech.json5:55"
+    ],
+    "第二次点击时按住": [
+      "chapters/xycraft.json5:48"
+    ]
+  },
+  "The ": {
+    "这座": [
+      "chapters/gearing_up.json5:105"
+    ],
+    "这张": [
+      "chapters/gearing_up.json5:191",
+      "chapters/gearing_up.json5:212"
+    ],
+    "关于": [
+      "chapters/getting_started.json5:232"
+    ],
+    "将": [
+      "chapters/integrated_dynamics.json5:36"
+    ],
+    "使用": [
+      "chapters/just_dire_things.json5:71"
+    ],
+    "Nautec指南中的": [
+      "chapters/nautec.json5:172",
+      "chapters/nautec.json5:264",
+      "chapters/nautec.json5:529",
+      "chapters/nautec.json5:821"
+    ],
+    "查看": [
+      "chapters/tips_and_tricks.json5:38"
+    ],
+    "探索章节中的": [
+      "chapters/welcome.json5:24"
+    ]
+  },
+  " and ": {
+    "和": [
+      "chapters/gearing_up.json5:111",
+      "chapters/nautec.json5:763",
+      "chapters/occultism.json5:60",
+      "chapters/occultism.json5:104",
+      "chapters/occultism.json5:206",
+      "chapters/occultism.json5:236",
+      "chapters/occultism.json5:261",
+      "chapters/occultism.json5:357"
+    ],
+    "与": [
+      "chapters/general_storage.json5:508",
+      "chapters/ltx_industries.json5:142",
+      "chapters/ltx_industries.json5:164"
+    ],
+    "以及": [
+      "chapters/tips_and_tricks.json5:29"
+    ]
+  },
+  "&7&oCheck the item's tooltip for exact speeds.": {
+    "&7&o具体速度见物品提示。": [
+      "chapters/general_storage.json5:140"
+    ],
+    "&7&o具体速度请查看物品提示。": [
+      "chapters/general_storage.json5:362"
+    ]
+  },
+  "At level 10 each tool picks one of three mastery paths:": {
+    "每种工具达到10级时，都可从三条精通路线中选择一条：": [
+      "chapters/hephaestus.json5:32"
+    ],
+    "每件工具达到10级时，可从三条精通路线中选择一条：": [
+      "chapters/hephaestus.json5:159"
+    ]
+  },
+  "&eNodeworks&r is a full storage and autocrafting network mod.": {
+    "&eNodeworks&r提供完整的存储和自动合成网络。": [
+      "chapters/logistics.json5:196"
+    ],
+    "&eNodeworks&r是一个完整的存储与自动合成网络模组。": [
+      "chapters/progression_tiers.json5:15"
+    ]
+  },
+  "Check the ": {
+    "更多详情见": [
+      "chapters/ltx_industries.json5:28",
+      "chapters/ltx_industries.json5:137"
+    ],
+    "射程、伤害和弹药详情见": [
+      "chapters/ltx_industries.json5:161"
+    ]
+  },
+  "Light Gray": {
+    "淡灰色": [
+      "chapters/occultism.json5:22",
+      "chapters/occultism.json5:32",
+      "chapters/occultism.json5:105",
+      "chapters/occultism.json5:142",
+      "chapters/occultism.json5:358"
+    ],
+    "淡灰色、": [
+      "chapters/occultism.json5:38"
+    ]
+  },
+  "Most &bRituals&r using this &bPentacle&r are optional.": {
+    "大多数使用这个&b五芒星阵&r的&b仪式&r可选。": [
+      "chapters/occultism.json5:112"
+    ],
+    "使用这个&b五芒星阵&r的大多数&b仪式&r可选。": [
+      "chapters/occultism.json5:176"
+    ]
+  },
+  ", and ": {
+    "和": [
+      "chapters/occultism.json5:194"
+    ],
+    "，以及": [
+      "chapters/occultism.json5:239"
+    ]
+  },
+  " with ": {
+    "配合": [
+      "chapters/occultism.json5:204"
+    ],
+    "，使用": [
+      "chapters/occultism.json5:234"
+    ]
+  },
+  "Using ": {
+    "使用": [
+      "chapters/occultism.json5:259",
+      "chapters/occultism.json5:355"
+    ],
+    "通过": [
+      "chapters/occultism.json5:327"
+    ]
+  }
+}

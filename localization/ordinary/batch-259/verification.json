@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "259",
+  "namespace": "bmaddon",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 4,
+  "source_sha256": "944e87852a846defb7f37d7ed0006cdd1bd9f073b79db851d5fdb51f5294c10a",
+  "in_game_tested": false
+}

@@ -1,0 +1,2446 @@
+{
+  "tag.item.c.buckets.oil": {
+    "en": "Oil Buckets",
+    "zh": "原油桶"
+  },
+  "tag.item.c.buckets.fuel": {
+    "en": "Fuel Buckets",
+    "zh": "燃料桶"
+  },
+  "tag.item.c.buckets.diesel": {
+    "en": "Diesel Buckets",
+    "zh": "柴油桶"
+  },
+  "tag.item.c.buckets.hydrogen": {
+    "en": "Hydrogen Buckets",
+    "zh": "氢气桶"
+  },
+  "tag.item.c.buckets.blue_liquid": {
+    "en": "Blue Liquid Buckets",
+    "zh": "蓝色液体桶"
+  },
+  "tag.item.c.buckets.astrum_liquidus": {
+    "en": "Astrum Liquidus Buckets",
+    "zh": "星液桶"
+  },
+  "tag.item.c.ingots.desh": {
+    "en": "Desh Ingots",
+    "zh": "戴斯锭"
+  },
+  "tag.item.c.ingots.novite": {
+    "en": "Novite Ingots",
+    "zh": "诺维特锭"
+  },
+  "tag.item.c.ingots.titanium": {
+    "en": "Titanium Ingots",
+    "zh": "钛锭"
+  },
+  "tag.item.c.nuggets.titanium": {
+    "en": "Titanium Nuggets",
+    "zh": "钛粒"
+  },
+  "tag.item.c.ores.desh": {
+    "en": "Desh Ores",
+    "zh": "戴斯矿石"
+  },
+  "tag.item.c.ores.novite": {
+    "en": "Novite Ores",
+    "zh": "诺维特矿石"
+  },
+  "tag.item.c.ores.titanium": {
+    "en": "Titanium Ores",
+    "zh": "钛矿石"
+  },
+  "tag.item.c.raw_materials.desh": {
+    "en": "Raw Desh",
+    "zh": "粗戴斯"
+  },
+  "tag.item.c.raw_materials.novite": {
+    "en": "Raw Novite",
+    "zh": "粗诺维特"
+  },
+  "tag.item.c.raw_materials.titanium": {
+    "en": "Raw Titanium",
+    "zh": "粗钛"
+  },
+  "tag.item.c.silicon": {
+    "en": "Silicon",
+    "zh": "硅"
+  },
+  "tag.item.c.storage_blocks.desh": {
+    "en": "Desh Blocks",
+    "zh": "戴斯块"
+  },
+  "tag.item.c.storage_blocks.novite": {
+    "en": "Novite Blocks",
+    "zh": "诺维特块"
+  },
+  "tag.item.c.storage_blocks.raw_desh": {
+    "en": "Raw Desh Blocks",
+    "zh": "粗戴斯块"
+  },
+  "tag.item.c.storage_blocks.raw_novite": {
+    "en": "Raw Novite Blocks",
+    "zh": "粗诺维特块"
+  },
+  "tag.item.c.storage_blocks.raw_titanium": {
+    "en": "Raw Titanium Blocks",
+    "zh": "粗钛块"
+  },
+  "tag.item.c.storage_blocks.titanium": {
+    "en": "Titanium Blocks",
+    "zh": "钛块"
+  },
+  "tag.item.c.titanium_materials": {
+    "en": "Titanium Materials",
+    "zh": "钛材料"
+  },
+  "tag.item.c.leaves": {
+    "en": "Leaves",
+    "zh": "树叶"
+  },
+  "tag.item.c.logs": {
+    "en": "Logs",
+    "zh": "原木"
+  },
+  "tag.item.c.logs.lunar": {
+    "en": "Lunar Logs",
+    "zh": "月华原木"
+  },
+  "tag.item.c.planks": {
+    "en": "Planks",
+    "zh": "木板"
+  },
+  "tag.item.c.planks.lunar": {
+    "en": "Lunar Planks",
+    "zh": "月华木板"
+  },
+  "tag.item.c.sand": {
+    "en": "Sand",
+    "zh": "沙子"
+  },
+  "tag.item.c.sand.moon": {
+    "en": "Moon Sand",
+    "zh": "月沙"
+  },
+  "entity.stellaris.heart_of_luna": {
+    "en": "Heart of Luna",
+    "zh": "月神之心"
+  },
+  "item.stellaris.heart_of_luna_spawn_egg": {
+    "en": "Heart of Luna Spawn Egg",
+    "zh": "月神之心刷怪蛋"
+  },
+  "death.attack.lunar_pulse": {
+    "en": "%1$s was consumed by the Heart of Luna",
+    "zh": "%1$s 被月神之心吞噬了"
+  },
+  "death.attack.lunar_pulse.player": {
+    "en": "%1$s was consumed by the Heart of Luna while fighting %2$s",
+    "zh": "%1$s 在与 %2$s 战斗时被月神之心吞噬了"
+  },
+  "death.attack.stellaris.oxygen_deprivation": {
+    "en": "%1$s ran out of oxygen",
+    "zh": "%1$s 耗尽了氧气"
+  },
+  "death.attack.stellaris.oxygen_deprivation.player": {
+    "en": "%1$s ran out of oxygen while fighting %2$s",
+    "zh": "%1$s 在与 %2$s 战斗时耗尽了氧气"
+  },
+  "death.attack.stellaris.rover_impact": {
+    "en": "%1$s was run over by %2$s",
+    "zh": "%1$s 被 %2$s 碾过了"
+  },
+  "death.attack.stellaris.corrosion": {
+    "en": "%1$s corroded away",
+    "zh": "%1$s 被腐蚀殆尽了"
+  },
+  "death.attack.stellaris.corrosion.player": {
+    "en": "%1$s corroded away while fighting %2$s",
+    "zh": "%1$s 在与 %2$s 战斗时被腐蚀殆尽了"
+  },
+  "death.attack.stellaris.infection": {
+    "en": "%1$s succumbed to the infection",
+    "zh": "%1$s 死于感染"
+  },
+  "death.attack.stellaris.infection.player": {
+    "en": "%1$s succumbed to the infection while fighting %2$s",
+    "zh": "%1$s 在与 %2$s 战斗时死于感染"
+  },
+  "config.jade.plugin_stellaris.proxy_as_main": {
+    "en": "Multiblock Proxy as Main Block",
+    "zh": "将多方块结构代理方块作为主方块"
+  },
+  "config.jade.plugin_stellaris.flag_owner": {
+    "en": "Flag Owner",
+    "zh": "旗帜所有者"
+  },
+  "config.jade.plugin_stellaris.energy_rate": {
+    "en": "Energy Generation and Usage",
+    "zh": "能量产出与消耗"
+  },
+  "config.jade.plugin_stellaris.oxygen_distributor": {
+    "en": "Oxygen Distributor Status",
+    "zh": "氧气分配器状态"
+  },
+  "itemGroup.stellaris.stellaris_blocks": {
+    "en": "Stellaris Blocks",
+    "zh": "Stellaris 方块"
+  },
+  "item.stellaris.meteorite": {
+    "en": "Meteorite",
+    "zh": "陨石"
+  },
+  "item.stellaris.moon_stone": {
+    "en": "Moon Stone",
+    "zh": "月石"
+  },
+  "item.stellaris.moon_stone_slab": {
+    "en": "Moon Stone Slab",
+    "zh": "月石台阶"
+  },
+  "item.stellaris.moon_stone_stairs": {
+    "en": "Moon Stone Stairs",
+    "zh": "月石楼梯"
+  },
+  "item.stellaris.vertical_moon_stone_slab": {
+    "en": "Vertical Moon Stone Slab",
+    "zh": "竖直月石台阶"
+  },
+  "item.stellaris.moon_cobblestone": {
+    "en": "Moon Cobblestone",
+    "zh": "月球圆石"
+  },
+  "item.stellaris.moon_deepslate": {
+    "en": "Moon Deepslate",
+    "zh": "月球深板岩"
+  },
+  "item.stellaris.moon_stone_iron_ore": {
+    "en": "Moon Iron Ore",
+    "zh": "月球铁矿石"
+  },
+  "item.stellaris.moon_sand": {
+    "en": "Moon Sand",
+    "zh": "月沙"
+  },
+  "item.stellaris.moon_stone_dust": {
+    "en": "Moon Stone Dust",
+    "zh": "月石粉"
+  },
+  "item.stellaris.moon_stone_bricks": {
+    "en": "Moon Stone Bricks",
+    "zh": "月石砖"
+  },
+  "item.stellaris.moon_stone_brick_slab": {
+    "en": "Moon Stone Bricks Slab",
+    "zh": "月石砖台阶"
+  },
+  "item.stellaris.moon_stone_brick_stairs": {
+    "en": "Moon Stone Bricks Stairs",
+    "zh": "月石砖楼梯"
+  },
+  "item.stellaris.moon_cracked_stone_bricks": {
+    "en": "Moon Cracked Stone Bricks",
+    "zh": "裂纹月石砖"
+  },
+  "item.stellaris.moon_stone_pillar": {
+    "en": "Moon Stone Pillar",
+    "zh": "月石柱"
+  },
+  "item.stellaris.polished_moon_stone": {
+    "en": "Polished Moon Stone",
+    "zh": "磨制月石"
+  },
+  "item.stellaris.moon_polished_stone_brick_slab": {
+    "en": "Polished Moon Stone Slab",
+    "zh": "磨制月石台阶"
+  },
+  "item.stellaris.moon_polished_stone_brick_stairs": {
+    "en": "Polished Moon Stone Stairs",
+    "zh": "磨制月石楼梯"
+  },
+  "item.stellaris.chiseled_moon_stone": {
+    "en": "Chiseled Moon Stone",
+    "zh": "錾制月石"
+  },
+  "item.stellaris.moon_pillar": {
+    "en": "Moon Pillar",
+    "zh": "月柱"
+  },
+  "item.stellaris.iced_magma_block": {
+    "en": "Iced Magma Block",
+    "zh": "冰封岩浆块"
+  },
+  "item.stellaris.packed_ice_bricks": {
+    "en": "Packed Ice Bricks",
+    "zh": "浮冰砖"
+  },
+  "item.stellaris.packed_ice_pillar": {
+    "en": "Packed Ice Pillar",
+    "zh": "浮冰柱"
+  },
+  "item.stellaris.polished_packed_ice": {
+    "en": "Polished Packed Ice",
+    "zh": "磨制浮冰"
+  },
+  "item.stellaris.coal_torch": {
+    "en": "Coal Torch",
+    "zh": "煤炭火把"
+  },
+  "item.stellaris.coal_lantern": {
+    "en": "Coal Lantern",
+    "zh": "煤炭灯笼"
+  },
+  "item.stellaris.lunar_stoned_wood_log": {
+    "en": "Lunar Stoned Wood Log",
+    "zh": "月华石化原木"
+  },
+  "item.stellaris.ash_layer": {
+    "en": "Ash Layer",
+    "zh": "灰烬层"
+  },
+  "item.stellaris.ash_stone": {
+    "en": "Ash Stone",
+    "zh": "灰烬石"
+  },
+  "item.stellaris.moon_desh_ore": {
+    "en": "Moon Desh Ore",
+    "zh": "月球戴斯矿石"
+  },
+  "item.stellaris.desh_ingot": {
+    "en": "Desh Ingot",
+    "zh": "戴斯锭"
+  },
+  "item.stellaris.raw_desh": {
+    "en": "Raw Desh",
+    "zh": "粗戴斯"
+  },
+  "item.stellaris.raw_desh_block": {
+    "en": "Raw Desh Block",
+    "zh": "粗戴斯块"
+  },
+  "item.stellaris.desh_plating_block": {
+    "en": "Desh Plating Block",
+    "zh": "戴斯镀板方块"
+  },
+  "item.stellaris.desh_plating_slab": {
+    "en": "Desh Plating Slab",
+    "zh": "戴斯镀板台阶"
+  },
+  "item.stellaris.desh_plating_stairs": {
+    "en": "Desh Plating Stairs",
+    "zh": "戴斯镀板楼梯"
+  },
+  "item.stellaris.vertical_desh_plating_slab": {
+    "en": "Vertical Desh Plating Slab",
+    "zh": "竖直戴斯镀板台阶"
+  },
+  "item.stellaris.vertical_desh_slab": {
+    "en": "Vertical Desh Slab",
+    "zh": "竖直戴斯台阶"
+  },
+  "item.stellaris.desh_pillar": {
+    "en": "Desh Pillar",
+    "zh": "戴斯柱"
+  },
+  "item.stellaris.novite_ingot": {
+    "en": "Novite Ingot",
+    "zh": "诺维特锭"
+  },
+  "item.stellaris.raw_novite": {
+    "en": "Raw Novite",
+    "zh": "粗诺维特"
+  },
+  "item.stellaris.novite_ore": {
+    "en": "Novite Ore",
+    "zh": "诺维特矿石"
+  },
+  "item.stellaris.novite_block": {
+    "en": "Novite Block",
+    "zh": "诺维特块"
+  },
+  "item.stellaris.raw_novite_block": {
+    "en": "Raw Novite Block",
+    "zh": "粗诺维特块"
+  },
+  "item.stellaris.silicon": {
+    "en": "Silicon",
+    "zh": "硅"
+  },
+  "item.stellaris.titanium_ingot": {
+    "en": "Titanium Ingot",
+    "zh": "钛锭"
+  },
+  "item.stellaris.titanium_nugget": {
+    "en": "Titanium Nugget",
+    "zh": "钛粒"
+  },
+  "item.stellaris.raw_titanium": {
+    "en": "Raw Titanium",
+    "zh": "粗钛"
+  },
+  "item.stellaris.raw_titanium_block": {
+    "en": "Raw Titanium Block",
+    "zh": "粗钛块"
+  },
+  "item.stellaris.titanium_ore": {
+    "en": "Titanium Ore",
+    "zh": "钛矿石"
+  },
+  "item.stellaris.moon_titanium_ore": {
+    "en": "Moon Titanium Ore",
+    "zh": "月球钛矿石"
+  },
+  "item.stellaris.deepslate_titanium_ore": {
+    "en": "Deepslate Titanium Ore",
+    "zh": "深层钛矿石"
+  },
+  "item.stellaris.titanium_block": {
+    "en": "Titanium Block",
+    "zh": "钛块"
+  },
+  "item.stellaris.titanium_slab": {
+    "en": "Titanium Slab",
+    "zh": "钛台阶"
+  },
+  "item.stellaris.titanium_stairs": {
+    "en": "Titanium Stairs",
+    "zh": "钛楼梯"
+  },
+  "item.stellaris.vertical_titanium_slab": {
+    "en": "Vertical Titanium Slab",
+    "zh": "竖直钛台阶"
+  },
+  "item.stellaris.titanium_pillar": {
+    "en": "Titanium Pillar",
+    "zh": "钛柱"
+  },
+  "item.stellaris.titanium_plating_block": {
+    "en": "Titanium Plating Block",
+    "zh": "钛镀板方块"
+  },
+  "item.stellaris.titanium_plating_slab": {
+    "en": "Titanium Plating Slab",
+    "zh": "钛镀板台阶"
+  },
+  "item.stellaris.titanium_plating_stairs": {
+    "en": "Titanium Plating Stairs",
+    "zh": "钛镀板楼梯"
+  },
+  "item.stellaris.vertical_titanium_plating_slab": {
+    "en": "Vertical Titanium Plating Slab",
+    "zh": "竖直钛镀板台阶"
+  },
+  "item.stellaris.titanium_door": {
+    "en": "Titanium Door",
+    "zh": "钛门"
+  },
+  "item.stellaris.iron_plating_block": {
+    "en": "Iron Plating Block",
+    "zh": "铁镀板方块"
+  },
+  "item.stellaris.iron_plating_slab": {
+    "en": "Iron Plating Slab",
+    "zh": "铁镀板台阶"
+  },
+  "item.stellaris.iron_plating_stairs": {
+    "en": "Iron Plating Stairs",
+    "zh": "铁镀板楼梯"
+  },
+  "item.stellaris.vertical_iron_plating_slab": {
+    "en": "Vertical Iron Plating Slab",
+    "zh": "竖直铁镀板台阶"
+  },
+  "item.stellaris.iron_pillar": {
+    "en": "Iron Pillar",
+    "zh": "铁柱"
+  },
+  "item.stellaris.casus_astrum_stone": {
+    "en": "Casus Astrum Stone",
+    "zh": "星陨石"
+  },
+  "item.stellaris.casus_astrum_stone_slab": {
+    "en": "Casus Astrum Stone Slab",
+    "zh": "星陨石台阶"
+  },
+  "item.stellaris.casus_astrum_stone_stairs": {
+    "en": "Casus Astrum Stone Stairs",
+    "zh": "星陨石楼梯"
+  },
+  "item.stellaris.astrum_vitreus_block": {
+    "en": "Astrum Vitreus Block",
+    "zh": "星晶块"
+  },
+  "item.stellaris.astrum_vitreus_cluster": {
+    "en": "Astrum Vitreus Cluster",
+    "zh": "星晶簇"
+  },
+  "item.stellaris.casus_astrum_grass": {
+    "en": "Casus Astrum Grass",
+    "zh": "星陨草方块"
+  },
+  "item.stellaris.casus_astrum_dirt": {
+    "en": "Casus Astrum Dirt",
+    "zh": "星陨泥土"
+  },
+  "item.stellaris.astrum_liquidus_bucket": {
+    "en": "Astrum Liquidus Bucket",
+    "zh": "星液桶"
+  },
+  "item.stellaris.dark_cobblestone": {
+    "en": "Dark Cobblestone",
+    "zh": "暗色圆石"
+  },
+  "item.stellaris.dark_infected_dirt": {
+    "en": "Dark Infected Dirt",
+    "zh": "暗色感染泥土"
+  },
+  "item.stellaris.lunar_log": {
+    "en": "Lunar Log",
+    "zh": "月华原木"
+  },
+  "item.stellaris.lunar_wood": {
+    "en": "Lunar Wood",
+    "zh": "月华木"
+  },
+  "item.stellaris.stripped_lunar_log": {
+    "en": "Stripped Lunar Log",
+    "zh": "去皮月华原木"
+  },
+  "item.stellaris.stripped_lunar_wood": {
+    "en": "Stripped Lunar Wood",
+    "zh": "去皮月华木"
+  },
+  "item.stellaris.lunar_planks": {
+    "en": "Lunar Planks",
+    "zh": "月华木板"
+  },
+  "item.stellaris.lunar_stairs": {
+    "en": "Lunar Stairs",
+    "zh": "月华木楼梯"
+  },
+  "item.stellaris.lunar_slab": {
+    "en": "Lunar Slab",
+    "zh": "月华木台阶"
+  },
+  "item.stellaris.lunar_fence": {
+    "en": "Lunar Fence",
+    "zh": "月华木栅栏"
+  },
+  "item.stellaris.lunar_fence_gate": {
+    "en": "Lunar Fence Gate",
+    "zh": "月华木栅栏门"
+  },
+  "item.stellaris.lunar_door": {
+    "en": "Lunar Door",
+    "zh": "月华木门"
+  },
+  "item.stellaris.lunar_trapdoor": {
+    "en": "Lunar Trapdoor",
+    "zh": "月华木活板门"
+  },
+  "item.stellaris.lunar_pressure_plate": {
+    "en": "Lunar Pressure Plate",
+    "zh": "月华木压力板"
+  },
+  "item.stellaris.lunar_button": {
+    "en": "Lunar Button",
+    "zh": "月华木按钮"
+  },
+  "item.stellaris.lunar_leaves": {
+    "en": "Lunar Leaves",
+    "zh": "月华树叶"
+  },
+  "item.stellaris.lunar_sapling": {
+    "en": "Lunar Sapling",
+    "zh": "月华树苗"
+  },
+  "item.stellaris.lunar_vines": {
+    "en": "Lunar Vines",
+    "zh": "月华藤蔓"
+  },
+  "item.stellaris.lunar_sign": {
+    "en": "Lunar Sign",
+    "zh": "月华木告示牌"
+  },
+  "item.stellaris.lunar_hanging_sign": {
+    "en": "Lunar Hanging Sign",
+    "zh": "悬挂式月华木告示牌"
+  },
+  "item.stellaris.lunar_boat": {
+    "en": "Lunar Boat",
+    "zh": "月华木船"
+  },
+  "item.stellaris.lunar_chest_boat": {
+    "en": "Lunar Chest Boat",
+    "zh": "月华木运输船"
+  },
+  "item.stellaris.lunar_dirt": {
+    "en": "Lunar Dirt",
+    "zh": "月华泥土"
+  },
+  "item.stellaris.lunar_rock": {
+    "en": "Lunar Rock",
+    "zh": "月华岩石"
+  },
+  "item.stellaris.lunar_grass": {
+    "en": "Lunar Grass",
+    "zh": "月华草地"
+  },
+  "item.stellaris.dustbloom": {
+    "en": "Dustbloom",
+    "zh": "尘花"
+  },
+  "item.stellaris.eclipse_tulip": {
+    "en": "Eclipse Tulip",
+    "zh": "月食郁金香"
+  },
+  "item.stellaris.starlight_bush": {
+    "en": "Starlight Bush",
+    "zh": "星光灌木"
+  },
+  "item.stellaris.titanium_pickaxe": {
+    "en": "Titanium Pickaxe",
+    "zh": "钛镐"
+  },
+  "item.stellaris.titanium_axe": {
+    "en": "Titanium Axe",
+    "zh": "钛斧"
+  },
+  "item.stellaris.titanium_shovel": {
+    "en": "Titanium Shovel",
+    "zh": "钛锹"
+  },
+  "item.stellaris.titanium_sword": {
+    "en": "Titanium Sword",
+    "zh": "钛剑"
+  },
+  "item.stellaris.titanium_hoe": {
+    "en": "Titanium Hoe",
+    "zh": "钛锄"
+  },
+  "item.stellaris.moon_berries": {
+    "en": "Moon Berries",
+    "zh": "月莓"
+  },
+  "item.stellaris.desh_block": {
+    "en": "Desh Block",
+    "zh": "戴斯块"
+  },
+  "item.stellaris.desh_slab": {
+    "en": "Desh Slab",
+    "zh": "戴斯台阶"
+  },
+  "item.stellaris.solar_panel": {
+    "en": "Solar Panel",
+    "zh": "太阳能板"
+  },
+  "item.stellaris.star_light_panel": {
+    "en": "Star Light Panel",
+    "zh": "星光板"
+  },
+  "item.stellaris.coal_generator": {
+    "en": "Coal Generator",
+    "zh": "燃煤发电机"
+  },
+  "item.stellaris.diesel_generator": {
+    "en": "Diesel Generator",
+    "zh": "柴油发电机"
+  },
+  "item.stellaris.vacuumator": {
+    "en": "Vacuumator",
+    "zh": "真空封装机"
+  },
+  "item.stellaris.blender": {
+    "en": "Blender",
+    "zh": "搅拌器"
+  },
+  "item.stellaris.electrolyzer": {
+    "en": "Electrolyzer",
+    "zh": "电解器"
+  },
+  "item.stellaris.pumpjack": {
+    "en": "Pumpjack",
+    "zh": "抽油机"
+  },
+  "item.stellaris.water_pump": {
+    "en": "Water Pump",
+    "zh": "水泵"
+  },
+  "item.stellaris.fuel_refinery": {
+    "en": "Fuel Refinery",
+    "zh": "燃料精炼厂"
+  },
+  "item.stellaris.gravity_manipulator": {
+    "en": "Gravity Manipulator",
+    "zh": "重力操纵器"
+  },
+  "item.stellaris.electric_light": {
+    "en": "Electric Light",
+    "zh": "电灯"
+  },
+  "item.stellaris.engineering_station": {
+    "en": "Engineering Station",
+    "zh": "工程站"
+  },
+  "item.stellaris.laboratory": {
+    "en": "Laboratory",
+    "zh": "实验室"
+  },
+  "item.stellaris.cargo_unloader": {
+    "en": "Cargo Unloader",
+    "zh": "货物卸载器"
+  },
+  "item.stellaris.oxygen_distributor": {
+    "en": "Oxygen Distributor",
+    "zh": "氧气分配器"
+  },
+  "item.stellaris.oxygen_propagator": {
+    "en": "Oxygen Propagator",
+    "zh": "氧气扩散器"
+  },
+  "item.stellaris.power_bank_t1": {
+    "en": "Tier 1 Power Bank",
+    "zh": "1 级储能电池"
+  },
+  "item.stellaris.fluid_tank_t1": {
+    "en": "Tier 1 Fluid Tank",
+    "zh": "1 级流体储罐"
+  },
+  "item.stellaris.hydrogen_bucket": {
+    "en": "Hydrogen Bucket",
+    "zh": "氢气桶"
+  },
+  "item.stellaris.fuel_bucket": {
+    "en": "Fuel Bucket",
+    "zh": "燃料桶"
+  },
+  "item.stellaris.oil_bucket": {
+    "en": "Oil Bucket",
+    "zh": "原油桶"
+  },
+  "item.stellaris.diesel_bucket": {
+    "en": "Diesel Bucket",
+    "zh": "柴油桶"
+  },
+  "item.stellaris.blue_liquid_bucket": {
+    "en": "Blue Liquid Bucket",
+    "zh": "蓝色液体桶"
+  },
+  "item.stellaris.rocket_launch_pad": {
+    "en": "Rocket Launch Pad",
+    "zh": "火箭发射台"
+  },
+  "item.stellaris.launch_pad_towers": {
+    "en": "Launch Pad Towers",
+    "zh": "发射台塔架"
+  },
+  "item.stellaris.cable_t1": {
+    "en": "Cable",
+    "zh": "线缆"
+  },
+  "item.stellaris.pipe_t1": {
+    "en": "Pipe",
+    "zh": "管道"
+  },
+  "item.stellaris.tablet": {
+    "en": "Tablet",
+    "zh": "平板电脑"
+  },
+  "item.stellaris.sd_card": {
+    "en": "SD Card",
+    "zh": "SD 卡"
+  },
+  "item.stellaris.rover": {
+    "en": "Rover",
+    "zh": "月球车"
+  },
+  "item.stellaris.rocket": {
+    "en": "Rocket",
+    "zh": "火箭"
+  },
+  "item.stellaris.creative_rocket": {
+    "en": "Creative Rocket",
+    "zh": "创造模式火箭"
+  },
+  "item.stellaris.engine_fan": {
+    "en": "Engine Fan",
+    "zh": "引擎风扇"
+  },
+  "item.stellaris.rocket_engine": {
+    "en": "Rocket Engine",
+    "zh": "火箭引擎"
+  },
+  "item.stellaris.rocket_fin": {
+    "en": "Rocket Fin",
+    "zh": "火箭尾翼"
+  },
+  "item.stellaris.rocket_nose_cone": {
+    "en": "Rocket Nose Cone",
+    "zh": "火箭鼻锥"
+  },
+  "item.stellaris.tiny_rocket_model": {
+    "en": "Tiny Rocket Model",
+    "zh": "微型火箭模型"
+  },
+  "item.stellaris.small_rocket_model": {
+    "en": "Small Rocket Model",
+    "zh": "小型火箭模型"
+  },
+  "item.stellaris.big_rocket_model": {
+    "en": "Big Rocket Model",
+    "zh": "大型火箭模型"
+  },
+  "item.stellaris.hydrogen_motor": {
+    "en": "Hydrogen Motor",
+    "zh": "氢气引擎"
+  },
+  "item.stellaris.shield_module": {
+    "en": "Shield Module",
+    "zh": "护盾模块"
+  },
+  "item.stellaris.autopilot_module": {
+    "en": "Autopilot Module",
+    "zh": "自动驾驶模块"
+  },
+  "item.stellaris.cargo_module": {
+    "en": "Cargo Module",
+    "zh": "货舱模块"
+  },
+  "item.stellaris.rover_tank_module": {
+    "en": "Rover Tank Module",
+    "zh": "月球车储罐模块"
+  },
+  "item.stellaris.rover_speed_module": {
+    "en": "Rover Speed Module",
+    "zh": "月球车速度模块"
+  },
+  "item.stellaris.skin_galaxy": {
+    "en": "Galaxy Skin",
+    "zh": "银河涂装"
+  },
+  "item.stellaris.skin_frost": {
+    "en": "Frost Skin",
+    "zh": "冰霜涂装"
+  },
+  "item.stellaris.skin_military": {
+    "en": "Military Skin",
+    "zh": "军用涂装"
+  },
+  "item.stellaris.space_suit_helmet": {
+    "en": "Space Suit Helmet",
+    "zh": "航天服头盔"
+  },
+  "item.stellaris.creative_space_suit_helmet": {
+    "en": "Creative Space Suit Helmet",
+    "zh": "创造模式航天服头盔"
+  },
+  "item.stellaris.space_suit_chestplate": {
+    "en": "Space Suit Chestplate",
+    "zh": "航天服胸甲"
+  },
+  "item.stellaris.space_suit_leggings": {
+    "en": "Space Suit Leggings",
+    "zh": "航天服护腿"
+  },
+  "item.stellaris.space_suit_boots": {
+    "en": "Space Suit Boots",
+    "zh": "航天服靴子"
+  },
+  "item.stellaris.space_suit_oxygen_module_tier_1": {
+    "en": "Oxygen Module T1",
+    "zh": "氧气模块 T1"
+  },
+  "item.stellaris.space_suit_oxygen_module_tier_2": {
+    "en": "Oxygen Module T2",
+    "zh": "氧气模块 T2"
+  },
+  "item.stellaris.space_suit_oxygen_module_tier_3": {
+    "en": "Oxygen Module T3",
+    "zh": "氧气模块 T3"
+  },
+  "item.stellaris.space_suit_oil_finder_module_tier_1": {
+    "en": "Oil Finder Module T1",
+    "zh": "石油探测模块 T1"
+  },
+  "item.stellaris.space_suit_oil_finder_module_tier_2": {
+    "en": "Oil Finder Module T2",
+    "zh": "石油探测模块 T2"
+  },
+  "item.stellaris.space_suit_oil_finder_module_tier_3": {
+    "en": "Oil Finder Module T3",
+    "zh": "石油探测模块 T3"
+  },
+  "item.stellaris.space_suit_diesel_tank_module_tier_1": {
+    "en": "Diesel Tank Module T1",
+    "zh": "柴油罐模块 T1"
+  },
+  "item.stellaris.space_suit_diesel_tank_module_tier_2": {
+    "en": "Diesel Tank Module T2",
+    "zh": "柴油罐模块 T2"
+  },
+  "item.stellaris.space_suit_diesel_tank_module_tier_3": {
+    "en": "Diesel Tank Module T3",
+    "zh": "柴油罐模块 T3"
+  },
+  "item.stellaris.space_suit_hydrogen_tank_module_tier_1": {
+    "en": "Hydrogen Tank Module T1",
+    "zh": "氢气罐模块 T1"
+  },
+  "item.stellaris.space_suit_hydrogen_tank_module_tier_2": {
+    "en": "Hydrogen Tank Module T2",
+    "zh": "氢气罐模块 T2"
+  },
+  "item.stellaris.space_suit_hydrogen_tank_module_tier_3": {
+    "en": "Hydrogen Tank Module T3",
+    "zh": "氢气罐模块 T3"
+  },
+  "item.stellaris.space_suit_jet_module_tier_1": {
+    "en": "Jet Module T1",
+    "zh": "喷气模块 T1"
+  },
+  "item.stellaris.space_suit_jet_module_tier_2": {
+    "en": "Jet Module T2",
+    "zh": "喷气模块 T2"
+  },
+  "item.stellaris.space_suit_jet_module_tier_3": {
+    "en": "Jet Module T3",
+    "zh": "喷气模块 T3"
+  },
+  "item.stellaris.space_suit_damage_protection_module_tier_1": {
+    "en": "Damage Protection Module T1",
+    "zh": "伤害防护模块 T1"
+  },
+  "item.stellaris.space_suit_damage_protection_module_tier_2": {
+    "en": "Damage Protection Module T2",
+    "zh": "伤害防护模块 T2"
+  },
+  "item.stellaris.space_suit_damage_protection_module_tier_3": {
+    "en": "Damage Protection Module T3",
+    "zh": "伤害防护模块 T3"
+  },
+  "item.stellaris.space_suit_night_vision_module": {
+    "en": "Night Vision Module",
+    "zh": "夜视模块"
+  },
+  "item.stellaris.fluid_cell": {
+    "en": "Fluid Cell",
+    "zh": "流体胶囊"
+  },
+  "item.stellaris.black_can": {
+    "en": "Black Can",
+    "zh": "黑色罐头"
+  },
+  "item.stellaris.blue_can": {
+    "en": "Blue Can",
+    "zh": "蓝色罐头"
+  },
+  "item.stellaris.brown_can": {
+    "en": "Brown Can",
+    "zh": "棕色罐头"
+  },
+  "item.stellaris.cyan_can": {
+    "en": "Cyan Can",
+    "zh": "青色罐头"
+  },
+  "item.stellaris.gray_can": {
+    "en": "Gray Can",
+    "zh": "灰色罐头"
+  },
+  "item.stellaris.green_can": {
+    "en": "Green Can",
+    "zh": "绿色罐头"
+  },
+  "item.stellaris.light_blue_can": {
+    "en": "Light Blue Can",
+    "zh": "淡蓝色罐头"
+  },
+  "item.stellaris.light_gray_can": {
+    "en": "Light Gray Can",
+    "zh": "淡灰色罐头"
+  },
+  "item.stellaris.lime_can": {
+    "en": "Lime Can",
+    "zh": "黄绿色罐头"
+  },
+  "item.stellaris.magenta_can": {
+    "en": "Magenta Can",
+    "zh": "品红色罐头"
+  },
+  "item.stellaris.orange_can": {
+    "en": "Orange Can",
+    "zh": "橙色罐头"
+  },
+  "item.stellaris.pink_can": {
+    "en": "Pink Can",
+    "zh": "粉红色罐头"
+  },
+  "item.stellaris.purple_can": {
+    "en": "Purple Can",
+    "zh": "紫色罐头"
+  },
+  "item.stellaris.red_can": {
+    "en": "Red Can",
+    "zh": "红色罐头"
+  },
+  "item.stellaris.white_can": {
+    "en": "White Can",
+    "zh": "白色罐头"
+  },
+  "item.stellaris.yellow_can": {
+    "en": "Yellow Can",
+    "zh": "黄色罐头"
+  },
+  "item.stellaris.big_black_can": {
+    "en": "Big Black Can",
+    "zh": "大型黑色罐头"
+  },
+  "item.stellaris.big_blue_can": {
+    "en": "Big Blue Can",
+    "zh": "大型蓝色罐头"
+  },
+  "item.stellaris.big_brown_can": {
+    "en": "Big Brown Can",
+    "zh": "大型棕色罐头"
+  },
+  "item.stellaris.big_cyan_can": {
+    "en": "Big Cyan Can",
+    "zh": "大型青色罐头"
+  },
+  "item.stellaris.big_gray_can": {
+    "en": "Big Gray Can",
+    "zh": "大型灰色罐头"
+  },
+  "item.stellaris.big_green_can": {
+    "en": "Big Green Can",
+    "zh": "大型绿色罐头"
+  },
+  "item.stellaris.big_light_blue_can": {
+    "en": "Big Light Blue Can",
+    "zh": "大型淡蓝色罐头"
+  },
+  "item.stellaris.big_light_gray_can": {
+    "en": "Big Light Gray Can",
+    "zh": "大型淡灰色罐头"
+  },
+  "item.stellaris.big_lime_can": {
+    "en": "Big Lime Can",
+    "zh": "大型黄绿色罐头"
+  },
+  "item.stellaris.big_magenta_can": {
+    "en": "Big Magenta Can",
+    "zh": "大型品红色罐头"
+  },
+  "item.stellaris.big_orange_can": {
+    "en": "Big Orange Can",
+    "zh": "大型橙色罐头"
+  },
+  "item.stellaris.big_pink_can": {
+    "en": "Big Pink Can",
+    "zh": "大型粉红色罐头"
+  },
+  "item.stellaris.big_purple_can": {
+    "en": "Big Purple Can",
+    "zh": "大型紫色罐头"
+  },
+  "item.stellaris.big_red_can": {
+    "en": "Big Red Can",
+    "zh": "大型红色罐头"
+  },
+  "item.stellaris.big_white_can": {
+    "en": "Big White Can",
+    "zh": "大型白色罐头"
+  },
+  "item.stellaris.big_yellow_can": {
+    "en": "Big Yellow Can",
+    "zh": "大型黄色罐头"
+  },
+  "item.stellaris.flag": {
+    "en": "Flag",
+    "zh": "旗帜"
+  },
+  "item.stellaris.earth_globe": {
+    "en": "Earth Globe",
+    "zh": "地球仪"
+  },
+  "item.stellaris.moon_globe": {
+    "en": "Moon Globe",
+    "zh": "月球仪"
+  },
+  "item.stellaris.heart_of_luna_trophy": {
+    "en": "Heart of Luna Trophy",
+    "zh": "月神之心战利品"
+  },
+  "item.stellaris.star_crawler_boss_trophy": {
+    "en": "Star Crawler Trophy",
+    "zh": "星界爬行者战利品"
+  },
+  "item.stellaris.parasite": {
+    "en": "Parasite",
+    "zh": "寄生虫"
+  },
+  "item.stellaris.pathogen_storage_cell": {
+    "en": "Pathogen Storage Cell",
+    "zh": "病原体存储元件"
+  },
+  "item.stellaris.vaccine": {
+    "en": "Vaccine",
+    "zh": "疫苗"
+  },
+  "item.stellaris.blue_plasma": {
+    "en": "Blue Plasma",
+    "zh": "蓝色等离子体"
+  },
+  "item.stellaris.lunar_parasite_tooth": {
+    "en": "Lunar Parasite Tooth",
+    "zh": "月球寄生虫牙齿"
+  },
+  "item.stellaris.lunar_crawler_spike_cluster": {
+    "en": "Lunar Crawler Spike Cluster",
+    "zh": "月球爬行者尖刺簇"
+  },
+  "item.stellaris.neural_fiber": {
+    "en": "Neural Fiber",
+    "zh": "神经纤维"
+  },
+  "item.stellaris.neural_tissue": {
+    "en": "Neural Tissue",
+    "zh": "神经组织"
+  },
+  "item.stellaris.blue_fish_spawn_egg": {
+    "en": "Blue Fish Spawn Egg",
+    "zh": "蓝鱼刷怪蛋"
+  },
+  "item.stellaris.lunar_parasite_spawn_egg": {
+    "en": "Lunar Parasite Spawn Egg",
+    "zh": "月球寄生虫刷怪蛋"
+  },
+  "item.stellaris.parasite_affected_villager_spawn_egg": {
+    "en": "Parasite-Affected Villager Spawn Egg",
+    "zh": "寄生村民刷怪蛋"
+  },
+  "item.stellaris.parasite_affected_villager_evolved_spawn_egg": {
+    "en": "Evolved Parasite-Affected Villager Spawn Egg",
+    "zh": "进化寄生村民刷怪蛋"
+  },
+  "item.stellaris.luna_shadow_spawn_egg": {
+    "en": "Luna Shadow Spawn Egg",
+    "zh": "月影刷怪蛋"
+  },
+  "item.stellaris.star_crawler_spawn_egg": {
+    "en": "Star Crawler Spawn Egg",
+    "zh": "星界爬行者刷怪蛋"
+  },
+  "item.stellaris.star_crawler_boss_spawn_egg": {
+    "en": "Star Crawler Boss Spawn Egg",
+    "zh": "星界爬行者首领刷怪蛋"
+  },
+  "item.stellaris.alien_spawn_egg": {
+    "en": "Alien Spawn Egg",
+    "zh": "外星人刷怪蛋"
+  },
+  "item.stellaris.space_farm": {
+    "en": "Space Farm",
+    "zh": "太空农场"
+  },
+  "entity.stellaris.alien": {
+    "en": "Alien",
+    "zh": "外星人"
+  },
+  "item.stellaris.oil_finder": {
+    "en": "Oil Finder",
+    "zh": "石油探测器"
+  },
+  "item.stellaris.friends_list": {
+    "en": "Friends List",
+    "zh": "好友列表"
+  },
+  "item.stellaris.antenna": {
+    "en": "Antenna",
+    "zh": "天线"
+  },
+  "item.stellaris.space_station_blueprint": {
+    "en": "Space Station Blueprint",
+    "zh": "空间站蓝图"
+  },
+  "block.stellaris.blender_proxy": {
+    "en": "Blender",
+    "zh": "搅拌器"
+  },
+  "block.stellaris.flag_proxy": {
+    "en": "Flag",
+    "zh": "旗帜"
+  },
+  "block.stellaris.lunar_sign": {
+    "en": "Lunar Sign",
+    "zh": "月华木告示牌"
+  },
+  "block.stellaris.lunar_wall_sign": {
+    "en": "Lunar Wall Sign",
+    "zh": "墙上的月华木告示牌"
+  },
+  "block.stellaris.lunar_hanging_sign": {
+    "en": "Lunar Hanging Sign",
+    "zh": "悬挂式月华木告示牌"
+  },
+  "block.stellaris.lunar_wall_hanging_sign": {
+    "en": "Lunar Wall Hanging Sign",
+    "zh": "墙上的悬挂式月华木告示牌"
+  },
+  "block.stellaris.lunar_vines_plant": {
+    "en": "Lunar Vines Plant",
+    "zh": "月华藤蔓植株"
+  },
+  "block.stellaris.moon_vines": {
+    "en": "Moon Vines",
+    "zh": "月球藤蔓"
+  },
+  "block.stellaris.moon_vines_plant": {
+    "en": "Moon Vines Plant",
+    "zh": "月球藤蔓植株"
+  },
+  "block.stellaris.pumpjack_proxy": {
+    "en": "Pumpjack Proxy",
+    "zh": "抽油机代理方块"
+  },
+  "block.stellaris.rocket_launch_pad_proxy": {
+    "en": "Rocket Launch Pad",
+    "zh": "火箭发射台"
+  },
+  "block.stellaris.space_farm": {
+    "en": "Space Farm",
+    "zh": "太空农场"
+  },
+  "block.stellaris.wall_coal_torch": {
+    "en": "Wall Coal Torch",
+    "zh": "墙上的煤炭火把"
+  },
+  "block.stellaris.hydrogen_block": {
+    "en": "Hydrogen",
+    "zh": "氢气"
+  },
+  "block.stellaris.oxygen_block": {
+    "en": "Oxygen",
+    "zh": "氧气"
+  },
+  "block.stellaris.fuel_block": {
+    "en": "Fuel",
+    "zh": "燃料"
+  },
+  "block.stellaris.oil": {
+    "en": "Oil",
+    "zh": "原油"
+  },
+  "block.stellaris.diesel": {
+    "en": "Diesel",
+    "zh": "柴油"
+  },
+  "block.stellaris.blue_liquid": {
+    "en": "Blue Liquid",
+    "zh": "蓝色液体"
+  },
+  "block.stellaris.astrum_liquidus": {
+    "en": "Astrum Liquidus",
+    "zh": "星液"
+  },
+  "biome.stellaris.burnt_forest": {
+    "en": "Burnt Forest",
+    "zh": "焦灼森林"
+  },
+  "biome.stellaris.lunar_blue_lake": {
+    "en": "Lunar Blue Lake",
+    "zh": "月球蓝湖"
+  },
+  "biome.stellaris.lunar_desert": {
+    "en": "Lunar Desert",
+    "zh": "月球沙漠"
+  },
+  "biome.stellaris.lunar_forest": {
+    "en": "Lunar Forest",
+    "zh": "月球森林"
+  },
+  "biome.stellaris.moon_craters": {
+    "en": "Moon Craters",
+    "zh": "月球环形山"
+  },
+  "biome.stellaris.space": {
+    "en": "Space",
+    "zh": "太空"
+  },
+  "gui.stellaris.launchpad_creator.name": {
+    "en": "Antenna Name",
+    "zh": "天线名称"
+  },
+  "gui.stellaris.launchpad_creator.public_checkbox": {
+    "en": "Make this antenna public (allows anyone to use this launch pad)",
+    "zh": "将此天线设为公开(允许所有人使用此发射台)"
+  },
+  "gui.stellaris.oxygen_distributor.status.breathable_atmosphere": {
+    "en": "Atmosphere already breathable",
+    "zh": "大气已可呼吸"
+  },
+  "gui.stellaris.oxygen_distributor.status.no_energy": {
+    "en": "No energy",
+    "zh": "无能量"
+  },
+  "gui.stellaris.oxygen_distributor.status.no_oxygen": {
+    "en": "No oxygen",
+    "zh": "无氧气"
+  },
+  "gui.stellaris.oxygen_distributor.status.not_enough_oxygen": {
+    "en": "Not enough oxygen",
+    "zh": "氧气不足"
+  },
+  "gui.stellaris.oxygen_distributor.status.sky_leak": {
+    "en": "Room open to the sky",
+    "zh": "房间与露天天空连通"
+  },
+  "gui.stellaris.oxygen_distributor.status.room_too_large": {
+    "en": "Room too large",
+    "zh": "房间过大"
+  },
+  "gui.stellaris.oxygen_distributor.status.too_many_blocks": {
+    "en": "Too many blocks",
+    "zh": "方块过多"
+  },
+  "tooltip.item.stellaris.can.empty": {
+    "en": "Empty",
+    "zh": "空"
+  },
+  "tooltip.item.stellaris.can.nutrition": {
+    "en": "Nutrition: %s/%s",
+    "zh": "营养: %s/%s"
+  },
+  "tooltip.item.stellaris.can.saturation": {
+    "en": "Saturation: %s",
+    "zh": "饱和度: %s"
+  },
+  "tooltip.item.stellaris.pathogen_storage_cell_info": {
+    "en": "A sealed containment cell used to store parasites and support research toward an infection cure.",
+    "zh": "密封的收容元件, 用于存储寄生虫, 并支持感染治疗研究."
+  },
+  "tooltip.item.stellaris.energy": {
+    "en": "⚡ Energy: §e%s§r§f/§r§e%s§r FE",
+    "zh": "⚡ 能量: §e%s§r§f/§r§e%s§r FE"
+  },
+  "tooltip.item.stellaris.energy.unlimited": {
+    "en": "⚡ Energy: §e∞§r FE",
+    "zh": "⚡ 能量: §e∞§r FE"
+  },
+  "tooltip.item.stellaris.oil_finder": {
+    "en": "Right click on a block to check if there is oil.",
+    "zh": "右击方块以检测是否有石油."
+  },
+  "tooltip.item.stellaris.tablet": {
+    "en": "Right click to open the wiki.",
+    "zh": "右击打开百科."
+  },
+  "tooltip.item.stellaris.tablet.lookup": {
+    "en": "Shift + right click a block, or drop an item on the tablet, to jump to its page.",
+    "zh": "Shift+右击方块, 或将物品放到平板电脑上, 可跳转到对应页面."
+  },
+  "tooltip.item.stellaris.night_vision_module": {
+    "en": "Toggle night vision with the Night Vision key.",
+    "zh": "使用夜视按键切换夜视."
+  },
+  "tooltip.item.stellaris.can_be_applied_to_space_suit_boots_module": {
+    "en": "This module can be applied to the space suit boots.",
+    "zh": "此模块可安装到航天服靴子上."
+  },
+  "tooltip.item.stellaris.can_be_applied_to_space_suit_leggings_module": {
+    "en": "This module can be applied to the space suit leggings.",
+    "zh": "此模块可安装到航天服护腿上."
+  },
+  "tooltip.item.stellaris.can_be_applied_to_space_suit_chestplate_module": {
+    "en": "This module can be applied to the space suit chestplate.",
+    "zh": "此模块可安装到航天服胸甲上."
+  },
+  "tooltip.item.stellaris.can_be_applied_to_space_suit_helmet_module": {
+    "en": "This module can be applied to the space suit helmet.",
+    "zh": "此模块可安装到航天服头盔上."
+  },
+  "tooltip.item.stellaris.can_be_applied_to_space_suit_module": {
+    "en": "This module can be applied to any space suit part.",
+    "zh": "此模块可安装到任意航天服部件上."
+  },
+  "tooltip.item.stellaris.can_be_applied_to_rocket_module": {
+    "en": "This module can be applied to the rocket.",
+    "zh": "此模块可安装到火箭上."
+  },
+  "tooltip.item.stellaris.can_be_applied_to_rover_module": {
+    "en": "This module can be applied to the rover.",
+    "zh": "此模块可安装到月球车上."
+  },
+  "tooltip.item.stellaris.antenna": {
+    "en": "Right-click a rocket launch pad with this to install it under the pad.",
+    "zh": "手持此物品右击火箭发射台, 可将其安装到发射台下方."
+  },
+  "tooltip.item.stellaris.space_station_blueprint": {
+    "en": "Blueprint : ",
+    "zh": "蓝图: "
+  },
+  "tooltip.item.stellaris.space_station_blueprint.in_rocket": {
+    "en": "Put it in the rocket inventory to build the station on arrival.",
+    "zh": "放入火箭物品栏, 即可在抵达时建造空间站."
+  },
+  "tooltip.item.stellaris.space_station_blueprint.plan_first": {
+    "en": "Plan a station in the Engineering Station to use this blueprint.",
+    "zh": "在工程站中规划空间站后才能使用此蓝图."
+  },
+  "config.stellaris.parasiteConfig": {
+    "en": "Parasite Settings",
+    "zh": "寄生虫设置"
+  },
+  "config.stellaris.enableParasiteDrop": {
+    "en": "Enable Parasite Drops in Blue Liquid",
+    "zh": "启用蓝色液体中的寄生虫掉落"
+  },
+  "config.stellaris.minDropIntervalTicks": {
+    "en": "Minimum Ticks Before Dropping",
+    "zh": "掉落前最少刻数"
+  },
+  "config.stellaris.randomDropIntervalMaxTicks": {
+    "en": "Random Ticks Variance",
+    "zh": "随机刻数浮动"
+  },
+  "config.stellaris.oilConfig": {
+    "en": "Oil Settings",
+    "zh": "石油设置"
+  },
+  "config.stellaris.chunkOilChance": {
+    "en": "Chunk Oil Chance",
+    "zh": "区块含油概率"
+  },
+  "config.stellaris.minOil": {
+    "en": "Minimum Oil",
+    "zh": "最少石油量"
+  },
+  "config.stellaris.maxOil": {
+    "en": "Maximum Oil",
+    "zh": "最多石油量"
+  },
+  "config.stellaris.oilExtractionPerTick": {
+    "en": "Oil Extraction Per Tick",
+    "zh": "每刻石油抽取量"
+  },
+  "config.stellaris.pumpjackFluid": {
+    "en": "Pumpjack Output Fluid",
+    "zh": "抽油机输出流体"
+  },
+  "config.stellaris.oilConfig.pumpjackFluid.desc": {
+    "en": "The fluid the Pumpjack extracts, as a fluid ID. Defaults to stellaris:oil. The Fuel Refinery and the oil slots accept any fluid in the c:oil tag.",
+    "zh": "抽油机抽取的流体, 以流体 ID 表示.默认为 stellaris:oil.燃料精炼厂与油槽接受 c:oil 标签中的任意流体."
+  },
+  "config.stellaris.gravityConfig": {
+    "en": "Gravity Settings",
+    "zh": "重力设置"
+  },
+  "config.stellaris.enableGravityEffects": {
+    "en": "Enable Gravity Effects",
+    "zh": "启用重力效果"
+  },
+  "config.stellaris.gravityUpdateInterval": {
+    "en": "Gravity Update Interval",
+    "zh": "重力更新间隔"
+  },
+  "config.stellaris.minGravityManipulatorValue": {
+    "en": "Min Gravity Manipulator Value",
+    "zh": "重力操纵器最小值"
+  },
+  "config.stellaris.maxGravityManipulatorValue": {
+    "en": "Max Gravity Manipulator Value",
+    "zh": "重力操纵器最大值"
+  },
+  "config.stellaris.gravityConfig.desc": {
+    "en": "Settings related to planetary gravity simulation.",
+    "zh": "与行星重力模拟有关的设置."
+  },
+  "config.stellaris.gravityConfig.enableGravityEffects.desc": {
+    "en": "Enable or disable gravity effects on players.",
+    "zh": "启用或禁用玩家的重力效果."
+  },
+  "config.stellaris.gravityConfig.gravityUpdateInterval.desc": {
+    "en": "How often (in ticks) gravity is recalculated.",
+    "zh": "重新计算重力的间隔(单位: 刻)."
+  },
+  "config.stellaris.gravityConfig.minGravityManipulatorValue.desc": {
+    "en": "The minimum gravity value the Gravity Manipulator block can set. Values below 0.5 trigger vanilla Minecraft movement bugs.",
+    "zh": "重力操纵器方块可设置的最小重力值. 低于 0.5 会触发原版 Minecraft 的移动错误."
+  },
+  "config.stellaris.gravityConfig.maxGravityManipulatorValue.desc": {
+    "en": "The maximum gravity value the Gravity Manipulator block can set.",
+    "zh": "重力操纵器方块可设置的最大重力值."
+  },
+  "config.stellaris.gravityManipulatorEnergyPerTick": {
+    "en": "Gravity Manipulator Energy Per Tick",
+    "zh": "重力操纵器每刻能耗"
+  },
+  "config.stellaris.gravityConfig.gravityManipulatorEnergyPerTick.desc": {
+    "en": "Energy consumed per tick while the Gravity Manipulator is active.",
+    "zh": "重力操纵器工作时每刻消耗的能量."
+  },
+  "config.stellaris.oxygenConfig": {
+    "en": "Oxygen Settings",
+    "zh": "氧气设置"
+  },
+  "config.stellaris.enableOxygenSystem": {
+    "en": "Enable Oxygen System",
+    "zh": "启用氧气系统"
+  },
+  "config.stellaris.oxygenUpdateInterval": {
+    "en": "Oxygen Update Interval",
+    "zh": "氧气更新间隔"
+  },
+  "config.stellaris.oxygenDamageInterval": {
+    "en": "Oxygen Damage Interval",
+    "zh": "缺氧伤害间隔"
+  },
+  "config.stellaris.noOxygenDamage": {
+    "en": "No-Oxygen Damage",
+    "zh": "缺氧伤害"
+  },
+  "config.stellaris.baseOxygenDrain": {
+    "en": "Base Oxygen Drain",
+    "zh": "基础耗氧量"
+  },
+  "config.stellaris.sprintOxygenDrainMultiplier": {
+    "en": "Sprint Oxygen Drain Multiplier",
+    "zh": "疾跑耗氧倍率"
+  },
+  "config.stellaris.jetOxygenDrainMultiplier": {
+    "en": "Jetpack Oxygen Drain Multiplier",
+    "zh": "喷气背包耗氧倍率"
+  },
+  "config.stellaris.oxygenConfig.desc": {
+    "en": "Settings related to the oxygen system.",
+    "zh": "与氧气系统有关的设置."
+  },
+  "config.stellaris.oxygenConfig.enableOxygenSystem.desc": {
+    "en": "Enable or disable the oxygen system.",
+    "zh": "启用或禁用氧气系统."
+  },
+  "config.stellaris.oxygenConfig.oxygenUpdateInterval.desc": {
+    "en": "How often (in ticks) oxygen levels are recalculated.",
+    "zh": "重新计算氧气量的间隔(单位: 刻)."
+  },
+  "config.stellaris.oxygenConfig.oxygenDamageInterval.desc": {
+    "en": "How often (in ticks) damage is applied when oxygen is depleted.",
+    "zh": "氧气耗尽时造成伤害的间隔(单位: 刻)."
+  },
+  "config.stellaris.oxygenConfig.noOxygenDamage.desc": {
+    "en": "Amount of damage dealt per interval when the player has no oxygen.",
+    "zh": "玩家缺氧时每个间隔受到的伤害量."
+  },
+  "config.stellaris.oxygenConfig.baseOxygenDrain.desc": {
+    "en": "Oxygen (in mB) drained from the space suit per interval while standing or walking in vacuum.",
+    "zh": "在真空中站立或行走时, 每个间隔从航天服中消耗的氧气量(单位: mB)."
+  },
+  "config.stellaris.oxygenConfig.sprintOxygenDrainMultiplier.desc": {
+    "en": "Multiplies the base oxygen drain while sprinting.",
+    "zh": "疾跑时基础耗氧量的倍率."
+  },
+  "config.stellaris.oxygenConfig.jetOxygenDrainMultiplier.desc": {
+    "en": "Multiplies the base oxygen drain while the jetpack is firing.",
+    "zh": "喷气背包喷射时基础耗氧量的倍率."
+  },
+  "config.stellaris.parasiteConfig.desc": {
+    "en": "Settings related to the parasite infection system.",
+    "zh": "与寄生虫感染系统有关的设置."
+  },
+  "config.stellaris.researchDelay": {
+    "en": "Research Delay",
+    "zh": "研究延迟"
+  },
+  "config.stellaris.alienConfig": {
+    "en": "Alien Settings",
+    "zh": "外星人设置"
+  },
+  "config.stellaris.enableAlienSpawn": {
+    "en": "Enable Alien Spawn",
+    "zh": "启用外星人生成"
+  },
+  "config.stellaris.alienConfig.desc": {
+    "en": "Settings related to Aliens.",
+    "zh": "与外星人有关的设置."
+  },
+  "config.stellaris.alienConfig.enableAlienSpawn.desc": {
+    "en": "Enable or disable Aliens. When disabled, existing Aliens despawn.",
+    "zh": "启用或禁用外星人. 禁用后已有的外星人会消失."
+  },
+  "config.stellaris.vehicleConfig": {
+    "en": "Vehicle Settings",
+    "zh": "载具设置"
+  },
+  "config.stellaris.rocketTpHeight": {
+    "en": "Rocket Teleport Height",
+    "zh": "火箭传送高度"
+  },
+  "config.stellaris.shouldLanderExplode": {
+    "en": "Lander Explodes on Impact",
+    "zh": "着陆舱撞击时爆炸"
+  },
+  "config.stellaris.landerMaxExplosionRadius": {
+    "en": "Lander Max Explosion Radius",
+    "zh": "着陆舱最大爆炸半径"
+  },
+  "config.stellaris.cargoUnloadingRadius": {
+    "en": "Cargo Unloading Radius",
+    "zh": "货物卸载范围"
+  },
+  "config.stellaris.orbitTeleportationYCoord": {
+    "en": "Orbit Teleportation Y Coord",
+    "zh": "轨道传送 Y 坐标"
+  },
+  "config.stellaris.vehicleConfig.desc": {
+    "en": "Settings related to vehicles (rockets, rovers, landers).",
+    "zh": "与载具(火箭, 月球车, 着陆舱)有关的设置."
+  },
+  "config.stellaris.effectsConfig": {
+    "en": "Effects Settings",
+    "zh": "效果设置"
+  },
+  "config.stellaris.infectionTickChance": {
+    "en": "Infection Tick Chance",
+    "zh": "感染每刻触发概率"
+  },
+  "config.stellaris.infectionDamage": {
+    "en": "Infection Damage",
+    "zh": "感染伤害"
+  },
+  "config.stellaris.corrosionTickInterval": {
+    "en": "Corrosion Tick Interval",
+    "zh": "腐蚀触发间隔"
+  },
+  "config.stellaris.corrosionDamage": {
+    "en": "Corrosion Damage",
+    "zh": "腐蚀伤害"
+  },
+  "config.stellaris.effectsConfig.desc": {
+    "en": "Settings related to harmful status effects (infection, corrosion).",
+    "zh": "与有害状态效果(感染, 腐蚀)有关的设置."
+  },
+  "config.stellaris.effectsConfig.infectionTickChance.desc": {
+    "en": "Chance per tick that the Infection effect deals damage, expressed as 1 in N (set to 0 to disable).",
+    "zh": "感染效果每刻造成伤害的概率, 表示为 1/N(设为 0 则禁用)."
+  },
+  "config.stellaris.effectsConfig.infectionDamage.desc": {
+    "en": "Base damage dealt by the Infection effect (amplifier adds half a point per level).",
+    "zh": "感染效果造成的基础伤害(每级效果额外增加半点)."
+  },
+  "config.stellaris.effectsConfig.corrosionTickInterval.desc": {
+    "en": "How often (in ticks) the Corrosion effect deals damage (set to 0 to disable).",
+    "zh": "腐蚀效果造成伤害的间隔(单位: 刻, 设为 0 则禁用)."
+  },
+  "config.stellaris.effectsConfig.corrosionDamage.desc": {
+    "en": "Base damage dealt by the Corrosion effect (amplifier adds half a point per level).",
+    "zh": "腐蚀效果造成的基础伤害(每级效果额外增加半点)."
+  },
+  "config.stellaris.assistantConfig": {
+    "en": "Assistant Settings",
+    "zh": "助手设置"
+  },
+  "config.stellaris.enableAssistant": {
+    "en": "Enable Assistant",
+    "zh": "启用助手"
+  },
+  "config.stellaris.assistantConfig.desc": {
+    "en": "Settings related to the on-board assistant that comments on your exploration.",
+    "zh": "与随探索进度发表评论的机载助手有关的设置."
+  },
+  "config.stellaris.assistantConfig.enableAssistant.desc": {
+    "en": "Enable or disable the assistant messages sent in chat.",
+    "zh": "启用或禁用助手发送到聊天栏的消息."
+  },
+  "config.stellaris.energyConfig": {
+    "en": "Energy Settings",
+    "zh": "能量设置"
+  },
+  "config.stellaris.energyMultiplier": {
+    "en": "Energy Multiplier",
+    "zh": "能量倍率"
+  },
+  "config.stellaris.energyConfig.desc": {
+    "en": "Settings related to how much energy Stellaris produces, stores and consumes.",
+    "zh": "与 Stellaris 能量产出, 存储和消耗相关的设置."
+  },
+  "config.stellaris.energyConfig.energyMultiplier.desc": {
+    "en": "Multiplies every Stellaris energy value: generator output, machine and item costs, storage capacities and cable throughput. Ratios between them stay the same. Changes apply to machines when they are next loaded.",
+    "zh": "对所有 Stellaris 能量数值进行乘算: 发电机产出, 机器与物品消耗, 存储容量和线缆吞吐.各数值之间的比例保持不变.更改会在机器下次加载时生效."
+  },
+  "config.stellaris.machineConfig": {
+    "en": "Machine Settings",
+    "zh": "机器设置"
+  },
+  "config.stellaris.vacuumatorEnergyPerCraft": {
+    "en": "Vacuumator Energy Per Craft",
+    "zh": "真空封装机每次加工能耗"
+  },
+  "config.stellaris.vacuumatorDurationMultiplier": {
+    "en": "Vacuumator Duration Multiplier",
+    "zh": "真空封装机耗时倍率"
+  },
+  "config.stellaris.vacuumatorWaterPerCraft": {
+    "en": "Vacuumator Water Per Craft",
+    "zh": "真空封装机每次加工产水量"
+  },
+  "config.stellaris.blenderEnergyPerCraft": {
+    "en": "Blender Energy Per Craft",
+    "zh": "搅拌器每次加工能耗"
+  },
+  "config.stellaris.blenderTicksPerCraft": {
+    "en": "Blender Ticks Per Craft",
+    "zh": "搅拌器每次加工刻数"
+  },
+  "config.stellaris.machineConfig.desc": {
+    "en": "Settings related to machine processing and energy use.",
+    "zh": "与机器加工和能耗有关的设置."
+  },
+  "config.stellaris.machineConfig.vacuumatorEnergyPerCraft.desc": {
+    "en": "Energy consumed by the Vacuumator each time it fills a can, taken up front when the craft starts.",
+    "zh": "真空封装机每次装填罐头消耗的能量, 在加工开始时预先扣除."
+  },
+  "config.stellaris.machineConfig.vacuumatorDurationMultiplier.desc": {
+    "en": "Multiplier applied to a food's nutrition to determine vacuumation duration (in ticks).",
+    "zh": "乘以食物营养值后, 得到真空封装耗时(单位: 刻)."
+  },
+  "config.stellaris.machineConfig.vacuumatorWaterPerCraft.desc": {
+    "en": "Amount of water (in mB) condensed into the Vacuumator's tank each time a can is filled.",
+    "zh": "每次装填罐头时, 冷凝到真空封装机储罐中的水量(单位: mB)."
+  },
+  "config.stellaris.machineConfig.blenderEnergyPerCraft.desc": {
+    "en": "Energy consumed by the Blender each craft, taken up front. Blending recipes may override it with their own \"energy\" field.",
+    "zh": "搅拌器每次加工消耗的能量, 在开始时预先扣除. 搅拌配方可用自身的 \"energy\" 字段覆盖该值."
+  },
+  "config.stellaris.machineConfig.blenderTicksPerCraft.desc": {
+    "en": "How long the Blender takes per craft, in ticks. Blending recipes may override it with their own \"duration\" field.",
+    "zh": "搅拌器每次加工所需的刻数. 搅拌配方可用自身的 \"duration\" 字段覆盖该值."
+  },
+  "config.stellaris.showOxygenDebug": {
+    "en": "Show Oxygen Debug",
+    "zh": "显示氧气调试信息"
+  },
+  "config.stellaris.showOxygenDebug.desc": {
+    "en": "Show oxygen debug information on the HUD.",
+    "zh": "在 HUD 上显示氧气调试信息."
+  },
+  "config.stellaris.fluidOutputConfig": {
+    "en": "Fluid Output Settings",
+    "zh": "流体输出设置"
+  },
+  "config.stellaris.showNeighborsBlock": {
+    "en": "Show Neighbour Blocks",
+    "zh": "显示相邻方块"
+  },
+  "config.stellaris.fluidsColors": {
+    "en": "Fluid Colors",
+    "zh": "流体颜色"
+  },
+  "config.stellaris.fluidOutputConfig.desc": {
+    "en": "Settings for the fluid output visualisation.",
+    "zh": "流体输出可视化的设置."
+  },
+  "config.stellaris.fluidOutputConfig.showNeighborsBlock.desc": {
+    "en": "Highlight neighbour blocks when configuring fluid output.",
+    "zh": "配置流体输出时高亮相邻方块."
+  },
+  "config.stellaris.fluidOutputConfig.fluidsColors.desc": {
+    "en": "Colors used to identify each fluid output side.",
+    "zh": "用于标识各个流体输出面的颜色."
+  },
+  "config.stellaris_client.showOxygenDebug": {
+    "en": "Show Oxygen Debug.",
+    "zh": "显示氧气调试信息."
+  },
+  "config.stellaris_client.fluidOutputConfig": {
+    "en": "Fluid Output Settings.",
+    "zh": "流体输出设置."
+  },
+  "config.stellaris_client.showNeighborsBlock": {
+    "en": "Show Neighbour Blocks",
+    "zh": "显示相邻方块"
+  },
+  "config.stellaris_client.fluidsColors": {
+    "en": "Fluid Colors",
+    "zh": "流体颜色"
+  },
+  "config.stellaris_client.emissiveTextures": {
+    "en": "Show Emissive Textures",
+    "zh": "显示自发光纹理"
+  },
+  "config.stellaris_client.temperatureOverlay": {
+    "en": "Show Temperature Overlay",
+    "zh": "显示温度叠层"
+  },
+  "config.stellaris_client.landerThirdPerson": {
+    "en": "Automatic Third Person in Lander",
+    "zh": "着陆舱自动第三人称视角"
+  },
+  "config.stellaris_client.emissiveTextures.desc": {
+    "en": "Show emissive textures on entities.",
+    "zh": "显示实体的自发光纹理."
+  },
+  "config.stellaris.temperatureOverlay.desc": {
+    "en": "Show the current temperature",
+    "zh": "显示当前温度"
+  },
+  "config.stellaris.landerThirdPerson.desc": {
+    "en": "Switch to third person automatically while riding a lander.",
+    "zh": "乘坐着陆舱时自动切换为第三人称视角."
+  },
+  "config.stellaris.temperatureOverlay": {
+    "en": "Show Temperature Overlay",
+    "zh": "显示温度叠层"
+  },
+  "effect.stellaris.infected": {
+    "en": "Infected",
+    "zh": "感染"
+  },
+  "effect.stellaris.corrosion": {
+    "en": "Corrosion",
+    "zh": "腐蚀"
+  },
+  "entity.stellaris.rocket": {
+    "en": "Rocket",
+    "zh": "火箭"
+  },
+  "entity.stellaris.lander": {
+    "en": "Lander",
+    "zh": "着陆舱"
+  },
+  "entity.stellaris.rover": {
+    "en": "Rover",
+    "zh": "月球车"
+  },
+  "entity.stellaris.lunar_boat": {
+    "en": "Lunar Boat",
+    "zh": "月华木船"
+  },
+  "entity.stellaris.lunar_chest_boat": {
+    "en": "Lunar Chest Boat",
+    "zh": "月华木运输船"
+  },
+  "entity.stellaris.blue_fish": {
+    "en": "Blue Fish",
+    "zh": "蓝鱼"
+  },
+  "entity.stellaris.lunar_parasite": {
+    "en": "Lunar Parasite",
+    "zh": "月球寄生虫"
+  },
+  "entity.stellaris.parasite_affected_villager": {
+    "en": "Parasite-Affected Villager",
+    "zh": "寄生村民"
+  },
+  "entity.stellaris.parasite_affected_villager_evolved": {
+    "en": "Evolved Parasite-Affected Villager",
+    "zh": "进化寄生村民"
+  },
+  "entity.stellaris.luna_shadow": {
+    "en": "Luna Shadow",
+    "zh": "月影"
+  },
+  "entity.stellaris.star_crawler": {
+    "en": "Star Crawler",
+    "zh": "星界爬行者"
+  },
+  "entity.stellaris.star_crawler_boss": {
+    "en": "Star Crawler Mother",
+    "zh": "星界爬行者母体"
+  },
+  "block.stellaris.meteorite": {
+    "en": "Meteorite",
+    "zh": "陨石"
+  },
+  "block.stellaris.earth_globe": {
+    "en": "Earth Globe",
+    "zh": "地球仪"
+  },
+  "block.stellaris.moon_globe": {
+    "en": "Moon Globe",
+    "zh": "月球仪"
+  },
+  "block.stellaris.heart_of_luna_trophy": {
+    "en": "Heart of Luna Trophy",
+    "zh": "月神之心战利品"
+  },
+  "block.stellaris.star_crawler_boss_trophy": {
+    "en": "Star Crawler Trophy",
+    "zh": "星界爬行者战利品"
+  },
+  "block.stellaris.titanium_ore": {
+    "en": "Titanium Ore",
+    "zh": "钛矿石"
+  },
+  "block.stellaris.deepslate_titanium_ore": {
+    "en": "Deepslate Titanium Ore",
+    "zh": "深层钛矿石"
+  },
+  "block.stellaris.raw_titanium_block": {
+    "en": "Raw Titanium Block",
+    "zh": "粗钛块"
+  },
+  "block.stellaris.titanium_block": {
+    "en": "Titanium Block",
+    "zh": "钛块"
+  },
+  "block.stellaris.titanium_slab": {
+    "en": "Titanium Slab",
+    "zh": "钛台阶"
+  },
+  "block.stellaris.titanium_stairs": {
+    "en": "Titanium Stairs",
+    "zh": "钛楼梯"
+  },
+  "block.stellaris.titanium_pillar": {
+    "en": "Titanium Pillar",
+    "zh": "钛柱"
+  },
+  "block.stellaris.titanium_plating_block": {
+    "en": "Titanium Plating Block",
+    "zh": "钛镀板方块"
+  },
+  "block.stellaris.titanium_plating_slab": {
+    "en": "Titanium Plating Slab",
+    "zh": "钛镀板台阶"
+  },
+  "block.stellaris.titanium_plating_stairs": {
+    "en": "Titanium Plating Stairs",
+    "zh": "钛镀板楼梯"
+  },
+  "block.stellaris.vertical_titanium_slab": {
+    "en": "Vertical Titanium Slab",
+    "zh": "竖直钛台阶"
+  },
+  "block.stellaris.vertical_titanium_plating_slab": {
+    "en": "Vertical Titanium Plating Slab",
+    "zh": "竖直钛镀板台阶"
+  },
+  "block.stellaris.titanium_door": {
+    "en": "Titanium Door",
+    "zh": "钛门"
+  },
+  "block.stellaris.iron_plating_block": {
+    "en": "Iron Plating Block",
+    "zh": "铁镀板方块"
+  },
+  "block.stellaris.iron_plating_slab": {
+    "en": "Iron Plating Slab",
+    "zh": "铁镀板台阶"
+  },
+  "block.stellaris.iron_plating_stairs": {
+    "en": "Iron Plating Stairs",
+    "zh": "铁镀板楼梯"
+  },
+  "block.stellaris.iron_pillar": {
+    "en": "Iron Pillar",
+    "zh": "铁柱"
+  },
+  "block.stellaris.vertical_iron_plating_slab": {
+    "en": "Vertical Iron Plating Slab",
+    "zh": "竖直铁镀板台阶"
+  },
+  "block.stellaris.moon_sand": {
+    "en": "Moon Sand",
+    "zh": "月沙"
+  },
+  "block.stellaris.moon_stone": {
+    "en": "Moon Stone",
+    "zh": "月石"
+  },
+  "block.stellaris.moon_cobblestone": {
+    "en": "Moon Cobblestone",
+    "zh": "月球圆石"
+  },
+  "block.stellaris.moon_deepslate": {
+    "en": "Moon Deepslate",
+    "zh": "月球深板岩"
+  },
+  "block.stellaris.moon_stone_dust": {
+    "en": "Moon Stone Dust",
+    "zh": "月石粉"
+  },
+  "block.stellaris.moon_stone_bricks": {
+    "en": "Moon Stone Bricks",
+    "zh": "月石砖"
+  },
+  "block.stellaris.moon_stone_brick_slab": {
+    "en": "Moon Stone Bricks Slab",
+    "zh": "月石砖台阶"
+  },
+  "block.stellaris.moon_stone_brick_stairs": {
+    "en": "Moon Stone Bricks Stairs",
+    "zh": "月石砖楼梯"
+  },
+  "block.stellaris.moon_cracked_stone_bricks": {
+    "en": "Moon Cracked Stone Bricks",
+    "zh": "裂纹月石砖"
+  },
+  "block.stellaris.moon_stone_pillar": {
+    "en": "Moon Stone Pillar",
+    "zh": "月石柱"
+  },
+  "block.stellaris.moon_stone_slab": {
+    "en": "Moon Stone Slab",
+    "zh": "月石台阶"
+  },
+  "block.stellaris.moon_stone_stairs": {
+    "en": "Moon Stone Stairs",
+    "zh": "月石楼梯"
+  },
+  "block.stellaris.vertical_moon_stone_slab": {
+    "en": "Vertical Moon Stone Slab",
+    "zh": "竖直月石台阶"
+  },
+  "block.stellaris.polished_moon_stone": {
+    "en": "Polished Moon Stone",
+    "zh": "磨制月石"
+  },
+  "block.stellaris.moon_polished_stone_brick_slab": {
+    "en": "Polished Moon Stone Slab",
+    "zh": "磨制月石台阶"
+  },
+  "block.stellaris.moon_polished_stone_brick_stairs": {
+    "en": "Polished Moon Stone Stairs",
+    "zh": "磨制月石楼梯"
+  },
+  "block.stellaris.chiseled_moon_stone": {
+    "en": "Chiseled Moon Stone",
+    "zh": "錾制月石"
+  },
+  "block.stellaris.moon_pillar": {
+    "en": "Moon Pillar",
+    "zh": "月柱"
+  },
+  "block.stellaris.moon_titanium_ore": {
+    "en": "Moon Titanium Ore",
+    "zh": "月球钛矿石"
+  },
+  "block.stellaris.moon_desh_ore": {
+    "en": "Moon Desh Ore",
+    "zh": "月球戴斯矿石"
+  },
+  "block.stellaris.moon_stone_iron_ore": {
+    "en": "Moon Iron Ore",
+    "zh": "月球铁矿石"
+  },
+  "block.stellaris.desh_block": {
+    "en": "Desh Block",
+    "zh": "戴斯块"
+  },
+  "block.stellaris.desh_slab": {
+    "en": "Desh Slab",
+    "zh": "戴斯台阶"
+  },
+  "block.stellaris.raw_desh_block": {
+    "en": "Raw Desh Block",
+    "zh": "粗戴斯块"
+  },
+  "block.stellaris.desh_plating_block": {
+    "en": "Desh Plating Block",
+    "zh": "戴斯镀板方块"
+  },
+  "block.stellaris.desh_plating_slab": {
+    "en": "Desh Plating Slab",
+    "zh": "戴斯镀板台阶"
+  },
+  "block.stellaris.desh_plating_stairs": {
+    "en": "Desh Plating Stairs",
+    "zh": "戴斯镀板楼梯"
+  },
+  "block.stellaris.desh_pillar": {
+    "en": "Desh Pillar",
+    "zh": "戴斯柱"
+  },
+  "block.stellaris.vertical_desh_slab": {
+    "en": "Vertical Desh Slab",
+    "zh": "竖直戴斯台阶"
+  },
+  "block.stellaris.vertical_desh_plating_slab": {
+    "en": "Vertical Desh Plating Slab",
+    "zh": "竖直戴斯镀板台阶"
+  },
+  "block.stellaris.novite_ore": {
+    "en": "Novite Ore",
+    "zh": "诺维特矿石"
+  },
+  "block.stellaris.novite_block": {
+    "en": "Novite Block",
+    "zh": "诺维特块"
+  },
+  "block.stellaris.raw_novite_block": {
+    "en": "Raw Novite Block",
+    "zh": "粗诺维特块"
+  },
+  "block.stellaris.lunar_stoned_wood_log": {
+    "en": "Lunar Stoned Wood Log",
+    "zh": "月华石化原木"
+  },
+  "block.stellaris.lunar_dirt": {
+    "en": "Lunar Dirt",
+    "zh": "月华泥土"
+  },
+  "block.stellaris.lunar_rock": {
+    "en": "Lunar Rock",
+    "zh": "月华岩石"
+  },
+  "block.stellaris.lunar_grass": {
+    "en": "Lunar Grass",
+    "zh": "月华草地"
+  },
+  "block.stellaris.dustbloom": {
+    "en": "Dustbloom",
+    "zh": "尘花"
+  },
+  "block.stellaris.eclipse_tulip": {
+    "en": "Eclipse Tulip",
+    "zh": "月食郁金香"
+  },
+  "block.stellaris.lunar_log": {
+    "en": "Lunar Log",
+    "zh": "月华原木"
+  },
+  "block.stellaris.lunar_wood": {
+    "en": "Lunar Wood",
+    "zh": "月华木"
+  },
+  "block.stellaris.stripped_lunar_log": {
+    "en": "Stripped Lunar Log",
+    "zh": "去皮月华原木"
+  },
+  "block.stellaris.stripped_lunar_wood": {
+    "en": "Stripped Lunar Wood",
+    "zh": "去皮月华木"
+  },
+  "block.stellaris.lunar_planks": {
+    "en": "Lunar Planks",
+    "zh": "月华木板"
+  },
+  "block.stellaris.lunar_stairs": {
+    "en": "Lunar Stairs",
+    "zh": "月华木楼梯"
+  },
+  "block.stellaris.lunar_slab": {
+    "en": "Lunar Slab",
+    "zh": "月华木台阶"
+  },
+  "block.stellaris.lunar_fence": {
+    "en": "Lunar Fence",
+    "zh": "月华木栅栏"
+  },
+  "block.stellaris.lunar_fence_gate": {
+    "en": "Lunar Fence Gate",
+    "zh": "月华木栅栏门"
+  },
+  "block.stellaris.lunar_door": {
+    "en": "Lunar Door",
+    "zh": "月华木门"
+  },
+  "block.stellaris.lunar_trapdoor": {
+    "en": "Lunar Trapdoor",
+    "zh": "月华木活板门"
+  },
+  "block.stellaris.lunar_pressure_plate": {
+    "en": "Lunar Pressure Plate",
+    "zh": "月华木压力板"
+  },
+  "block.stellaris.lunar_button": {
+    "en": "Lunar Button",
+    "zh": "月华木按钮"
+  },
+  "block.stellaris.lunar_leaves": {
+    "en": "Lunar Leaves",
+    "zh": "月华树叶"
+  },
+  "block.stellaris.lunar_sapling": {
+    "en": "Lunar Sapling",
+    "zh": "月华树苗"
+  },
+  "block.stellaris.lunar_vines": {
+    "en": "Lunar Vines",
+    "zh": "月华藤蔓"
+  },
+  "block.stellaris.coal_torch": {
+    "en": "Coal Torch",
+    "zh": "煤炭火把"
+  },
+  "block.stellaris.coal_lantern": {
+    "en": "Coal Lantern",
+    "zh": "煤炭灯笼"
+  },
+  "block.stellaris.ash_stone": {
+    "en": "Ash Stone",
+    "zh": "灰烬石"
+  },
+  "block.stellaris.ash_layer": {
+    "en": "Ash Layer",
+    "zh": "灰烬层"
+  },
+  "block.stellaris.iced_magma_block": {
+    "en": "Iced Magma Block",
+    "zh": "冰封岩浆块"
+  },
+  "block.stellaris.packed_ice_bricks": {
+    "en": "Packed Ice Bricks",
+    "zh": "浮冰砖"
+  },
+  "block.stellaris.packed_ice_pillar": {
+    "en": "Packed Ice Pillar",
+    "zh": "浮冰柱"
+  },
+  "block.stellaris.polished_packed_ice": {
+    "en": "Polished Packed Ice",
+    "zh": "磨制浮冰"
+  },
+  "block.stellaris.casus_astrum_stone": {
+    "en": "Casus Astrum Stone",
+    "zh": "星陨石"
+  },
+  "block.stellaris.casus_astrum_stone_slab": {
+    "en": "Casus Astrum Stone Slab",
+    "zh": "星陨石台阶"
+  },
+  "block.stellaris.casus_astrum_stone_stairs": {
+    "en": "Casus Astrum Stone Stairs",
+    "zh": "星陨石楼梯"
+  },
+  "block.stellaris.astrum_vitreus_block": {
+    "en": "Astrum Vitreus Block",
+    "zh": "星晶块"
+  },
+  "block.stellaris.astrum_vitreus_cluster": {
+    "en": "Astrum Vitreus Cluster",
+    "zh": "星晶簇"
+  },
+  "block.stellaris.casus_astrum_dirt": {
+    "en": "Casus Astrum Dirt",
+    "zh": "星陨泥土"
+  },
+  "block.stellaris.casus_astrum_grass": {
+    "en": "Casus Astrum Grass",
+    "zh": "星陨草方块"
+  },
+  "block.stellaris.dark_cobblestone": {
+    "en": "Dark Cobblestone",
+    "zh": "暗色圆石"
+  },
+  "block.stellaris.dark_infected_dirt": {
+    "en": "Dark Infected Dirt",
+    "zh": "暗色感染泥土"
+  },
+  "block.stellaris.solar_panel": {
+    "en": "Solar Panel",
+    "zh": "太阳能板"
+  },
+  "block.stellaris.star_light_panel": {
+    "en": "Star Light Panel",
+    "zh": "星光板"
+  },
+  "block.stellaris.coal_generator": {
+    "en": "Coal Generator",
+    "zh": "燃煤发电机"
+  },
+  "block.stellaris.diesel_generator": {
+    "en": "Diesel Generator",
+    "zh": "柴油发电机"
+  },
+  "block.stellaris.vacuumator": {
+    "en": "Vacuumator",
+    "zh": "真空封装机"
+  },
+  "block.stellaris.blender": {
+    "en": "Blender",
+    "zh": "搅拌器"
+  },
+  "block.stellaris.pumpjack": {
+    "en": "Pumpjack",
+    "zh": "抽油机"
+  },
+  "block.stellaris.power_bank_t1": {
+    "en": "Tier 1 Power Bank",
+    "zh": "1 级储能电池"
+  },
+  "block.stellaris.cable_t1": {
+    "en": "Cable",
+    "zh": "线缆"
+  },
+  "block.stellaris.pipe_t1": {
+    "en": "Pipe",
+    "zh": "管道"
+  },
+  "block.stellaris.fluid_tank_t1": {
+    "en": "Tier 1 Fluid Tank",
+    "zh": "1 级流体储罐"
+  },
+  "block.stellaris.electrolyzer": {
+    "en": "Electrolyzer",
+    "zh": "电解器"
+  },
+  "block.stellaris.gravity_manipulator": {
+    "en": "Gravity Manipulator",
+    "zh": "重力操纵器"
+  },
+  "block.stellaris.electric_light": {
+    "en": "Electric Light",
+    "zh": "电灯"
+  },
+  "block.stellaris.fuel_refinery": {
+    "en": "Fuel Refinery",
+    "zh": "燃料精炼厂"
+  },
+  "block.stellaris.water_pump": {
+    "en": "Water Pump",
+    "zh": "水泵"
+  },
+  "block.stellaris.oxygen_distributor": {
+    "en": "Oxygen Distributor",
+    "zh": "氧气分配器"
+  },
+  "block.stellaris.oxygen_propagator": {
+    "en": "Oxygen Propagator",
+    "zh": "氧气扩散器"
+  },
+  "block.stellaris.engineering_station": {
+    "en": "Engineering Station",
+    "zh": "工程站"
+  },
+  "block.stellaris.rocket_launch_pad": {
+    "en": "Rocket Launch Pad",
+    "zh": "火箭发射台"
+  },
+  "block.stellaris.antenna": {
+    "en": "Antenna",
+    "zh": "天线"
+  },
+  "block.stellaris.starlight_bush": {
+    "en": "Starlight Bush",
+    "zh": "星光灌木"
+  },
+  "block.stellaris.cargo_unloader": {
+    "en": "Cargo Unloader",
+    "zh": "货物卸载器"
+  },
+  "block.stellaris.laboratory": {
+    "en": "Laboratory",
+    "zh": "实验室"
+  },
+  "block.stellaris.flag": {
+    "en": "Flag",
+    "zh": "旗帜"
+  },
+  "tooltip.item.stellaris.friends_list.title": {
+    "en": "Friends: ",
+    "zh": "好友: "
+  },
+  "tooltip.item.stellaris.parasite.propagation_min": {
+    "en": "Propagation in %smin %ss",
+    "zh": "距扩散 %s分 %s秒"
+  },
+  "tooltip.item.stellaris.parasite.propagation_sec": {
+    "en": "Propagation in %s",
+    "zh": "距扩散 %s"
+  },
+  "tooltip.item.stellaris.pathogen_storage_cell.stored": {
+    "en": "Parasites %s / %s",
+    "zh": "寄生虫 %s / %s"
+  },
+  "tooltip.item.stellaris.autopilot.change_destination": {
+    "en": "Right-click to change destination",
+    "zh": "右击更改目的地"
+  },
+  "tooltip.item.stellaris.autopilot.set_destination": {
+    "en": "Right-click to set destination",
+    "zh": "右击设置目的地"
+  },
+  "tooltip.item.stellaris.damage_protection.equivalent": {
+    "en": "Equivalent to %s armor",
+    "zh": "相当于%s盔甲"
+  },
+  "tooltip.item.stellaris.diesel_tank_module": {
+    "en": "Store up to %smb of diesel on your space suit.",
+    "zh": "在航天服上最多存储 %smb 柴油."
+  },
+  "tooltip.item.stellaris.hydrogen_tank_module": {
+    "en": "Store up to %smb of hydrogen on your space suit.",
+    "zh": "在航天服上最多存储 %smb 氢气."
+  },
+  "tooltip.item.stellaris.oxygen_module.capacity": {
+    "en": "Store up to %smb of oxygen on your space suit.",
+    "zh": "在航天服上最多存储 %smb 氧气."
+  },
+  "tooltip.item.stellaris.jet_module.consumption": {
+    "en": "Consumes %smb of fuel per second to allow you to fly.",
+    "zh": "每秒消耗 %smb 燃料以供飞行."
+  },
+  "tooltip.item.stellaris.jet_module.climb": {
+    "en": "Climbs at up to %s blocks per tick.",
+    "zh": "最高每刻上升 %s 格."
+  },
+  "tooltip.item.stellaris.oil_finder_module.range": {
+    "en": "Find oil in a %s x %s chunks area.",
+    "zh": "在 %s x %s 区块范围内探测石油."
+  },
+  "tooltip.item.stellaris.space_suit.oxygen_module.header": {
+    "en": "-- Oxygen Module --",
+    "zh": "-- 氧气模块 --"
+  },
+  "tooltip.item.stellaris.space_suit.oxygen_module.amount": {
+    "en": "Oxygen %s / %s mb",
+    "zh": "氧气 %s / %s mb"
+  },
+  "tooltip.item.stellaris.space_suit.oxygen_module.unlimited": {
+    "en": "Oxygen ∞",
+    "zh": "氧气 ∞"
+  },
+  "tooltip.item.stellaris.space_suit.oil_finder_module.header": {
+    "en": "-- Oil Finder Module --",
+    "zh": "-- 石油探测模块 --"
+  },
+  "tooltip.item.stellaris.space_suit.oil_finder_module.info": {
+    "en": "Allows detection of oil deposits in the surrounding %s x %s area",
+    "zh": "可探测周围 %s x %s 范围内的油藏"
+  },
+  "tooltip.item.stellaris.space_suit.jet_module.header": {
+    "en": "-- Jet Module --",
+    "zh": "-- 喷气模块 --"
+  },
+  "tooltip.item.stellaris.space_suit.jet_module.consumption": {
+    "en": "Consumption: %s mb/s",
+    "zh": "消耗: %s mb/s"
+  },
+  "tooltip.item.stellaris.space_suit.jet_module.climb_speed": {
+    "en": "Flight climb speed: %s blocks/tick",
+    "zh": "飞行上升速度: %s 格/刻"
+  },
+  "tooltip.item.stellaris.space_suit.tank_module.header": {
+    "en": "-- %s Tank Module --",
+    "zh": "-- %s罐模块 --"
+  },
+  "tooltip.item.stellaris.space_suit.damage_protection_module.header": {
+    "en": "-- Damage Protection Module --",
+    "zh": "-- 伤害防护模块 --"
+  },
+  "gui.stellaris.antenna.whitelisted": {
+    "en": "Whitelisted",
+    "zh": "已加入白名单"
+  },
+  "gui.stellaris.antenna.create": {
+    "en": "Create",
+    "zh": "创建"
+  },
+  "gui.stellaris.antenna.save": {
+    "en": "Save",
+    "zh": "保存"
+  },
+  "gui.stellaris.sd_card.decode": {
+    "en": "DECODE",
+    "zh": "解码"
+  },
+  "subtitles.stellaris.beep": {
+    "en": "Lander warning beeps",
+    "zh": "着陆器警告蜂鸣"
+  },
+  "subtitles.stellaris.sonic_boom": {
+    "en": "Sonic boom",
+    "zh": "音爆"
+  }
+}

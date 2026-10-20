@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "119",
+  "namespace": "enchdesc",
+  "source_keys": 11,
+  "unique_values": 11,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 11,
+  "installed_overlay_keys": 11,
+  "source_sha256": "ff1e03874d39f9e3011bf30afc3e88b754a9b3544470459c38b9b0603faf3591",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "127",
+  "namespace": "fzzy_config",
+  "source_keys": 17,
+  "unique_values": 17,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 17,
+  "installed_overlay_keys": 17,
+  "source_sha256": "91033c2d8652e9702f752c5403e350805a6339d29e96b3974103b409c4138935",
+  "in_game_tested": false
+}

@@ -1,0 +1,23 @@
+{
+  "pickup.loot_journal.item": "%s",
+  "config.loot_journal.category.itemIdFilters": "物品 ID 过滤",
+  "config.loot_journal.category.itemTagFilters": "物品标签过滤",
+  "config.loot_journal.category.modIdFilters": "模组 ID 过滤",
+  "config.loot_journal.group.filters": "过滤",
+  "config.loot_journal.option.mergeMode": "合并模式",
+  "config.loot_journal.option.mergeMode.desc": "决定拾取记录如何合并.\n\n§fTYPE_NAMED§7 - 按类型合并物品, 但带自定义名称的物品永不合并.\n\n§fTYPE§7 - 按类型合并, 忽略 NBT 与自定义名称.\n\n§fSTRICT§7 - 只合并完全相同的物品, 包括 NBT.\n\n§fNONE§7 - 关闭合并.每条拾取记录单独显示.",
+  "config.loot_journal.option.itemIdFilters": "物品 ID 过滤",
+  "config.loot_journal.option.itemIdFilters.desc": "打开物品 ID 黑名单与白名单设置.",
+  "config.loot_journal.option.itemIdFilters.button": "编辑...",
+  "config.loot_journal.option.itemIdFilters.label": "物品 ID 的格式为 §fnamespace:item_name§7, 例如 §fminecraft:diamond§7 或 §fmod_id:custom_item§7.",
+  "config.loot_journal.option.itemTagFilters": "物品标签过滤",
+  "config.loot_journal.option.itemTagFilters.desc": "打开物品标签黑名单与白名单设置.",
+  "config.loot_journal.option.itemTagFilters.button": "编辑...",
+  "config.loot_journal.option.itemTagFilters.label": "为获得最佳体验, 请§f在已加载世界时§7打开此界面.大多数物品标签是动态注册的, 在主菜单中无法自动补全.",
+  "config.loot_journal.option.modIdFilters": "模组 ID 过滤",
+  "config.loot_journal.option.modIdFilters.desc": "打开模组 ID 黑名单与白名单设置.",
+  "config.loot_journal.option.modIdFilters.button": "编辑...",
+  "config.loot_journal.option.modIdFilters.label": "自动补全仅包含§f至少注册了一个物品的模组.§7没有物品的模组不会出现在列表中.",
+  "config.loot_journal.format.percent": "%s %%",
+  "config.loot_journal.format.pixels": "%s px"
+}

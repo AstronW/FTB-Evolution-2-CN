@@ -1,0 +1,14 @@
+{
+  "batch": "057",
+  "namespace": "powah",
+  "jar": ".minecraft/mods/Powah-7.0.4-alpha.jar",
+  "language_path": "assets/powah/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/powah/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.powah.tab"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Powah"
+  ]
+}

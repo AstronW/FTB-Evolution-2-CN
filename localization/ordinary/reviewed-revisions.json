@@ -1,0 +1,258 @@
+[
+  {
+    "batch": "007",
+    "key": "item.ftb.beast_component.part.tooltip",
+    "source": "Feed The Beast part. Used to make its branch item in the FTB Fabricator.",
+    "previous": "喂养巨兽零件.用于在FTB制造机中制作对应分支组件.",
+    "translation": "Feed The Beast零件.用于在FTB制造机中制作对应分支组件.",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "item.ftb.beast_component.assembly.tooltip",
+    "source": "Feed The Beast assembly. Used to make the Heart of the Beast.",
+    "previous": "喂养巨兽装配组件.用于制作巨兽之心.",
+    "translation": "Feed The Beast装配组件.用于制作巨兽之心.",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "item.ftb.beast_component.first_tier.tooltip",
+    "source": "Feed The Beast branch item. Made from its branch's parts, and used in the combinations, the assemblies and the Heart of the Beast.",
+    "previous": "喂养巨兽分支组件.由该分支的零件制成, 用于组合组件, 装配组件和巨兽之心.",
+    "translation": "Feed The Beast分支组件.由该分支的零件制成, 用于组合组件, 装配组件和巨兽之心.",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "item.ftb.beast_component.second_tier.tooltip",
+    "source": "Feed The Beast combination. Used in the Beast Core, Beast Mind and Beast Soul.",
+    "previous": "喂养巨兽组合组件. 用于巨兽核心, 巨兽心智和巨兽之魂.",
+    "translation": "Feed The Beast组合组件. 用于巨兽核心, 巨兽心智和巨兽之魂.",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "item.ftb.beast_heart.tooltip",
+    "source": "The final delivery of Feed The Beast.",
+    "previous": "喂养巨兽的最终交付物.",
+    "translation": "Feed The Beast的最终交付物.",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "block.ftbevolutioncompanion.challenge_board.title",
+    "source": "Feed The Beast",
+    "previous": "喂养巨兽",
+    "translation": "Feed The Beast",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "ftbevolutioncompanion.challenge_board.announce.changed",
+    "source": "The Feed The Beast leaderboard has changed",
+    "previous": "喂养巨兽排行榜已更新",
+    "translation": "Feed The Beast排行榜已更新",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "ftbevolutioncompanion.challenge_board.announce.standings",
+    "source": "Feed The Beast leaderboard",
+    "previous": "喂养巨兽排行榜",
+    "translation": "Feed The Beast排行榜",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "ftbevolutioncompanion.ftb_skyline.no_chapter",
+    "source": "The Feed The Beast chapter is missing from the quest book",
+    "previous": "任务书中缺少喂养巨兽章节",
+    "translation": "任务书中缺少Feed The Beast章节",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "ftbevolutioncompanion.ftb_skyline.unknown_chapter",
+    "source": "Feed The Beast",
+    "previous": "喂养巨兽",
+    "translation": "Feed The Beast",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "ftbevolutioncompanion.ftb_skyline.nothing_available",
+    "source": "No Feed The Beast quests are available right now",
+    "previous": "当前没有可用的喂养巨兽任务",
+    "translation": "当前没有可用的Feed The Beast任务",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "stage.ftbevolutioncompanion.ftb_beast_hunt",
+    "source": "Complete the three Hunt trials in Feed The Beast",
+    "previous": "完成喂养巨兽中的三项狩猎试炼",
+    "translation": "完成Feed The Beast中的三项狩猎试炼",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "stage.ftbevolutioncompanion.ftb_beast_phase2",
+    "source": "Claim Phase Two in Feed The Beast",
+    "previous": "领取喂养巨兽第二阶段奖励",
+    "translation": "领取Feed The Beast第二阶段奖励",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "stage.ftbevolutioncompanion.ftb_beast_phase3",
+    "source": "Claim Phase Three in Feed The Beast",
+    "previous": "领取喂养巨兽第三阶段奖励",
+    "translation": "领取Feed The Beast第三阶段奖励",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "007",
+    "key": "stage.ftbevolutioncompanion.ftb_beast_phase4",
+    "source": "Claim Phase Four in Feed The Beast",
+    "previous": "领取喂养巨兽第四阶段奖励",
+    "translation": "领取Feed The Beast第四阶段奖励",
+    "reason": "用户要求 Feed The Beast 保留原文, 2026-10-18."
+  },
+  {
+    "batch": "002",
+    "key": "itemGroup.hephaestus_tools.tools",
+    "source": "Hephaestus Tools",
+    "previous": "Hephaestus工具",
+    "translation": "匠神工具",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "002",
+    "key": "gui.hephaestus_tools.part_builder.metal",
+    "source": "Metals are cast in the Foundry (Hephaestus)",
+    "previous": "金属部件需在 Hephaestus 的铸造炉中浇铸",
+    "translation": "金属部件需在 匠神 的铸造炉中浇铸",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "002",
+    "key": "hephaestus_tools.configuration.title",
+    "source": "Hephaestus Tools Config",
+    "previous": "Hephaestus工具配置",
+    "translation": "匠神工具配置",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "003",
+    "key": "advancements.nautec.deep_survey.description",
+    "source": "Visit every NauTec ocean biome",
+    "previous": "探索全部 NauTec 海洋生物群系",
+    "translation": "探索全部 海蓝科技 海洋生物群系",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "003",
+    "key": "advancements.nautec.root.title",
+    "source": "NauTec 2",
+    "previous": "NauTec 2",
+    "translation": "海蓝科技 2",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "003",
+    "key": "key.category.nautec.main",
+    "source": "Nautec",
+    "previous": "Nautec",
+    "translation": "海蓝科技",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "004",
+    "key": "nautec.creative_tab.main",
+    "source": "NauTec 2",
+    "previous": "NauTec 2",
+    "translation": "海蓝科技 2",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "005",
+    "key": "nautec.eye_of_the_sea.target.nautec_ruins",
+    "source": "NauTec Ruins",
+    "previous": "NauTec 遗迹",
+    "translation": "海蓝科技 遗迹",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "005",
+    "key": "nautec.showcase.done",
+    "source": "Built the NauTec showcase: %s blocks and %s items over %s by %s blocks",
+    "previous": "已建造 NauTec 展示区: %s 个方块与 %s 个物品, 占地 %s x %s 格",
+    "translation": "已建造 海蓝科技 展示区: %s 个方块与 %s 个物品, 占地 %s x %s 格",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "006",
+    "key": "itemGroup.stellaris.stellaris",
+    "source": "Stellaris",
+    "previous": "Stellaris",
+    "translation": "群星",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "006",
+    "key": "itemGroup.stellaris.stellaris_blocks",
+    "source": "Stellaris Blocks",
+    "previous": "Stellaris 方块",
+    "translation": "群星 方块",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "006",
+    "key": "application.stellaris.wiki.description",
+    "source": "Access information about space exploration and Stellaris mod features.",
+    "previous": "查阅太空探索及 Stellaris 模组功能的信息.",
+    "translation": "查阅太空探索及 群星 模组功能的信息.",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "006",
+    "key": "key.category.stellaris.stellaris",
+    "source": "Stellaris",
+    "previous": "Stellaris",
+    "translation": "群星",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "006",
+    "key": "advancements.stellaris.root.title",
+    "source": "Stellaris",
+    "previous": "Stellaris",
+    "translation": "群星",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "006",
+    "key": "wiki.stellaris.mobs.description",
+    "source": "Discover all the mobs of Stellaris.",
+    "previous": "认识 Stellaris 的所有生物.",
+    "translation": "认识 群星 的所有生物.",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "006",
+    "key": "sd_card.stellaris.stellaris_secrets.name",
+    "source": "Stellaris Easter Eggs",
+    "previous": "Stellaris 彩蛋",
+    "translation": "群星 彩蛋",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  },
+  {
+    "batch": "006",
+    "key": "sd_card.stellaris.stellaris_secrets.content",
+    "source": "You.. You found this SD card ? This SD card contains a lot of Easter eggs hidden in Stellaris! Here a list of places where they are hidden : - The Home in the Earth wiki page - The other name of the moon on her wiki page - The parasite villager strikes back ? ",
+    "previous": "你... 你找到这张 SD 卡了? 里面记录了许多藏在 Stellaris 中的彩蛋! 以下是它们藏身的地方: - 地球百科页面中的家 - 月球百科页面中的另一个名字 - 寄生村民的反击?",
+    "translation": "你... 你找到这张 SD 卡了? 里面记录了许多藏在 群星 中的彩蛋! 以下是它们藏身的地方: - 地球百科页面中的家 - 月球百科页面中的另一个名字 - 寄生村民的反击?",
+    "reason": "2026-10-18 user terminology correction; cross-scope synchronization."
+  }
+]

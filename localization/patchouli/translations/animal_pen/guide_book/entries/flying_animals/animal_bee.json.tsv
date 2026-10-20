@@ -1,0 +1,6 @@
+/name	蜜蜂
+/pages/0/text	蜜蜂会在围栏里随时间采集花粉.
+/pages/1/text	用小型花喂蜜蜂进行繁殖, 增加围栏里的数量.
+/pages/2/text	对动物围栏使用剑或斧会杀死蜜蜂.
+/pages/3/text	使用剪刀会移除已采集的花粉并掉落蜜脾. [redstone interaction 1]
+/pages/4/text	使用玻璃瓶会移除已采集的花粉, 并把瓶子装满蜂蜜. [redstone interaction 1]

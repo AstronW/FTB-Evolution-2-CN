@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "123",
+  "namespace": "moreoverlays",
+  "source_keys": 5,
+  "unique_values": 5,
+  "chinese_values": 5,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 5,
+  "source_sha256": "f6c8ec1067f04b3db1ca5ef560ea6b135358266bf5035cd31e16f8c02d25d946",
+  "in_game_tested": false
+}

@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "counts": [
+    [
+      "语言键",
+      31201
+    ],
+    [
+      "分组名称",
+      76
+    ],
+    [
+      "手册/书籍文件",
+      978
+    ],
+    [
+      "任务书文件",
+      51
+    ],
+    [
+      "整合包数据文件",
+      64
+    ],
+    [
+      "运行时脚本",
+      7
+    ]
+  ],
+  "resourcepack_members": 1345,
+  "bundle_members": 1468,
+  "installation_verified": true
+}

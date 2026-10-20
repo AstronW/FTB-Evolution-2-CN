@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "064",
+  "namespace": "ftbfiltersystem",
+  "source_keys": 65,
+  "unique_values": 64,
+  "chinese_values": 64,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 65,
+  "source_sha256": "9ad4820070ad0e5d9ebdfa142af5dd63d148224516542a44eb109fc886567c60",
+  "in_game_tested": false
+}

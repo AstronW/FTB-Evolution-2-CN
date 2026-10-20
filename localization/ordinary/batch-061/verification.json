@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "061",
+  "namespace": "compressium",
+  "source_keys": 180,
+  "unique_values": 180,
+  "chinese_values": 180,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 180,
+  "source_sha256": "bfdafcdfa2f8a6efa2c4a7a30f724688c4451c70b97f02bad8ba9ed5c6cb2c30",
+  "in_game_tested": false
+}

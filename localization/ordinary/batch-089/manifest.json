@@ -1,0 +1,16 @@
+{
+  "batch": "089",
+  "namespace": "modularrouters",
+  "jar": ".minecraft/mods/modular-routers-26.1.2.2.jar",
+  "language_path": "assets/modularrouters/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/modularrouters/lang/zh_cn.json",
+  "include_keys": [
+    "modularrouters._comment",
+    "modularrouters.guiText.tooltip.regulator.labelFluidmB"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "JEI text",
+    "%d mB"
+  ]
+}

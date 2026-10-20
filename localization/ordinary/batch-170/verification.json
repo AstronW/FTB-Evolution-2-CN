@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "170",
+  "namespace": "artifacts",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 5,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 7,
+  "source_sha256": "77ebe64b0965413b968ea6c21b83618f72244438e4dd8196b12e5288a3902c1a",
+  "in_game_tested": false
+}

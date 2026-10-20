@@ -1,0 +1,19 @@
+{
+  "name": "合成组件",
+  "icon": "mffs:focus_matrix",
+  "category": "mffs:getting_started",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:focus_matrix",
+      "link_recipe": true,
+      "text": "一种坚固的钢板, 用于合成$(l:mffs:projector_modes)投射模式$(), $(l:mffs:projector_modules)投射模块$()和$(l:mffs:machines)机器$().手头常备几块总是有好处的."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:focus_matrix",
+      "text": "合成聚焦矩阵."
+    }
+  ]
+}

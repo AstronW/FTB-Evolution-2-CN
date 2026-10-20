@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "276",
+  "namespace": "mint_lib",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "6b4b579d0cc2cc7bbba5c1a90b86bce8f7be203335f5f7b3efa96680ad630818",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "config.buildguide.asyncEnabled": "异步形状生成",
+  "config.buildguide.asyncEnabledComment": "启用异步 (多线程) 形状生成.",
+  "config.buildguide.persistenceEnabled": "形状持久化",
+  "config.buildguide.persistenceEnabledComment": "允许将形状保存到文件, 以便重启客户端后恢复.",
+  "config.buildguide.shapeListRandomColorsDefaultEnabled": "形状列表随机颜色",
+  "config.buildguide.shapeListRandomColorsDefaultEnabledComment": "默认情况下为加入形状列表的新形状启用随机颜色.",
+  "property.buildguide.degrees": "角度",
+  "screen.buildguide.cubesize": "立方体尺寸",
+  "shape.buildguide.helix": "螺旋",
+  "shape.buildguide.polygonalpyramid": "多棱锥"
+}

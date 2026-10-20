@@ -1,0 +1,21 @@
+{
+  "batch": "052",
+  "namespace": "justdirefuels",
+  "jar": ".minecraft/mods/justdirefuels-1.1.0-26.1.jar",
+  "language_path": "assets/justdirefuels/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/justdirefuels/lang/zh_cn.json",
+  "include_keys": [
+    "jei.justdirefuels.fluid_fuel.title",
+    "jei.justdirefuels.fluid_fuel.fe_per_mb",
+    "jei.justdirefuels.item_fuel.title",
+    "jei.justdirefuels.item_fuel.fe_per_tick",
+    "jei.justdirefuels.item_fuel.fe_per_tick_default",
+    "jei.justdirefuels.item_fuel.burn_speed",
+    "jei.justdirefuels.item_fuel.burn_time"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s FE / mB",
+    "%s FE / tick"
+  ]
+}

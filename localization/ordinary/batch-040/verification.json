@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "040",
+  "namespace": "xycraft_core",
+  "source_keys": 19,
+  "unique_values": 19,
+  "chinese_values": 18,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 19,
+  "source_sha256": "fadffc21c4177239a516b3de00850ba27cd56b8dfc5a3094f0f2e5f604c8d614",
+  "in_game_tested": false
+}

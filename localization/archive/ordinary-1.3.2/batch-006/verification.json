@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "006",
+  "namespace": "stellaris",
+  "source_keys": 947,
+  "unique_values": 730,
+  "chinese_values": 925,
+  "reviewed_non_prose_values": 22,
+  "installed_overlay_keys": 947,
+  "source_sha256": "3b54a370e7b2fcafedafc7a6635865c445a95e7b4eeee107034111c227569ee5",
+  "in_game_tested": false
+}

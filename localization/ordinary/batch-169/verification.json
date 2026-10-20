@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "169",
+  "namespace": "goblintraders",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 7,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 7,
+  "source_sha256": "6e75d6a8513aae605b23edbc8682c26dc1265d1ee17732e38391bdf041c7bc34",
+  "in_game_tested": false
+}

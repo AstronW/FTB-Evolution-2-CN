@@ -1,0 +1,9 @@
+{
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.error.title": "合成任务错误",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.started_only": "自动合成开始",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.failed_only": "自动合成失败",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.mixed": "自动合成部分失败",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.started_only": "已开始为 %s 自动合成",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.failed_only": "为 %s 自动合成失败",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.mixed": "已开始为 %s 自动合成, 但 %s 失败"
+}

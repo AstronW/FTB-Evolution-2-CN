@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "084",
+  "namespace": "pipez",
+  "source_keys": 3,
+  "unique_values": 2,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 3,
+  "source_sha256": "ef6a09f3a803e454bd9429eb1f6d31facb9641c81086d58017ff5f187d4acfab",
+  "in_game_tested": false
+}

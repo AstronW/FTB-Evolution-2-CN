@@ -1,0 +1,12 @@
+{
+  "batch": "286",
+  "namespace": "supermartijn642corelib",
+  "jar": ".minecraft/mods/supermartijn642corelib-1.1.25-neoforge-mc26.1.jar",
+  "language_path": "assets/supermartijn642corelib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/supermartijn642corelib/lang/zh_cn.json",
+  "include_keys": [
+    "supermartijn642corelib.widgets.scrollbar.narration"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

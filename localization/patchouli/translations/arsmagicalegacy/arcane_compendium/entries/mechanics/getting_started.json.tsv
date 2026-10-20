@@ -1,0 +1,4 @@
+/pages/1/text	洞察之眼有五个页面, 前四个是技能树页面.
+/pages/9/text	名称栏可以用来给你的法术配方命名, 不过这不是必需的.
+/pages/10/text	把技能拖到下方的形态组与法术语法区.
+/pages/11/text	图中展示的法术配方是$(l:shapes/projectile)投射物$()-$(l:components/dig)挖掘$(), 推荐新手使用.

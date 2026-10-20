@@ -1,0 +1,3 @@
+/name	海绵模块
+/pages/0/text	把$(5)海绵模块$()放入$(l:mffs:machines/projector)力场投射器$(), 它会持续侦测并清除力场内的流体.加装$(l:mffs:upgrade_modules/speed_module)$(5)速度模块$()可以提高清除流体的速率.清除水这类无限流体时可能需要更高的速率.
+/pages/1/text	合成$(5)海绵模块$().

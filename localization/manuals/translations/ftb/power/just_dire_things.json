@@ -1,0 +1,16 @@
+{
+  "3": "  title: Just Dire Things",
+  "8": "  # <Color id=\"light_purple\">Just Dire Things</Color>",
+  "20": "  ## <Color id=\"gold\">发电机</Color>",
+  "27": "  ### <Color id=\"aqua\">简易燃煤发电机</Color>",
+  "36": "  ### <Color id=\"aqua\">简易燃料发电机</Color>",
+  "41": "| 燃料 | 能量 |",
+  "43": "| <ItemImage id=\"justdirethings:refined_t2_fluid_bucket\"/> 烈焰燃液 | 960 FE/mB (450) |",
+  "44": "| <ItemImage id=\"justdirethings:refined_t3_fluid_bucket\"/> 虚炎燃液 | 5,280 FE/mB (1,300) |",
+  "45": "| <ItemImage id=\"justdirethings:refined_t4_fluid_bucket\"/> 蚀空燃液 | 18,080 FE/mB (4,000) |",
+  "52": "  ## <Color id=\"gold\">煤炭的其他用途</Color>",
+  "12": "  Just Dire Things的发电机和精炼燃料比默认设置产生更多能量.",
+  "30": "燃料每燃烧一游戏刻可产生40 FE(15),因此一块煤炭可产生64,000 FE,原为24,000.",
+  "39": "每mB精炼燃料产生的能量大幅增加:",
+  "57": "Just Dire Things的煤炭和煤炭块也可用于FTB工业奇械的基础发电机.详见[FTB工业奇械](industrial_contraptions.md)."
+}

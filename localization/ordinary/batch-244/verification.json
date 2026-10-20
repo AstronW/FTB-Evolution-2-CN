@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "244",
+  "namespace": "libtooltips",
+  "source_keys": 21,
+  "unique_values": 21,
+  "chinese_values": 17,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 21,
+  "source_sha256": "46c699db363118a3ecdb0904eb24bc1baddbaf8375ac8e11f2a6864a7a12dc6f",
+  "in_game_tested": false
+}

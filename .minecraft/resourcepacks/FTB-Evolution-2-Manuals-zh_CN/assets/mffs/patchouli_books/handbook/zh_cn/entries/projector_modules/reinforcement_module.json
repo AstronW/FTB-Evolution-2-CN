@@ -1,0 +1,18 @@
+{
+  "name": "加固模块",
+  "icon": "mffs:reinforcement_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:reinforcement_module",
+      "link_recipe": true,
+      "text": "把$(5)加固模块$()放入$(l:mffs:machines/projector)力场投射器$(), 可使投射出的力场方块免疫凋灵的破坏."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:reinforcement_module",
+      "text": "合成$(5)加固模块$()."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "batch": "218",
+  "namespace": "betterstrongholds",
+  "jar": ".minecraft/mods/YungsBetterStrongholds-26.1.2-NeoForge-6.1.1.jar",
+  "language_path": "assets/betterstrongholds/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/betterstrongholds/lang/zh_cn.json",
+  "include_keys": [
+    "Use /locate structure betterstrongholds:stronghold instead!",
+    "text.autoconfig.betterstrongholds-fabric-1_21.title",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "YUNG's Better Strongholds"
+  ]
+}

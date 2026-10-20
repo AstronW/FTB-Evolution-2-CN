@@ -1,0 +1,13 @@
+{
+  "batch": "206",
+  "namespace": "tiab",
+  "jar": ".minecraft/mods/tiab-neoforge-8.0.0.jar",
+  "language_path": "assets/tiab/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/tiab/lang/zh_cn.json",
+  "include_keys": [
+    "item.tiab.time_in_a_bottle.tooltip.creative",
+    "tiab.category.integration.blacklisted"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

@@ -1,0 +1,16 @@
+{
+  "batch": "278",
+  "namespace": "plonk",
+  "jar": ".minecraft/mods/plonk-26.1.2-10.0.10-neo.jar",
+  "language_path": "assets/plonk/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/plonk/lang/zh_cn.json",
+  "include_keys": [
+    "key.category.plonk.main",
+    "placeholder.plonk"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Plonk",
+    "PLACEHOLDER"
+  ]
+}

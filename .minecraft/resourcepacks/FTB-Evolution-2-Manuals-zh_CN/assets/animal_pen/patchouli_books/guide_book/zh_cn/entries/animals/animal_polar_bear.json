@@ -1,0 +1,17 @@
+{
+  "name": "北极熊",
+  "icon": "minecraft:polar_bear_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:polar_bear",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死北极熊并掉落其战利品."
+    }
+  ]
+}

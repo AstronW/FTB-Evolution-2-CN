@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "236",
+  "namespace": "iska_lib",
+  "source_keys": 66,
+  "unique_values": 59,
+  "chinese_values": 66,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 66,
+  "source_sha256": "15e5fcbcc1cba9cfcee76c8d0b2da5f8c04693a9b0a3da0f1780dc85635b444d",
+  "in_game_tested": false
+}

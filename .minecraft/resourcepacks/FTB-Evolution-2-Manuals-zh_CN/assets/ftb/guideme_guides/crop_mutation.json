@@ -1,0 +1,14 @@
+{
+  "item_settings": {
+    "display_name": {
+      "translate": "guide.ftb.crop_mutation.name"
+    },
+    "tooltip_lines": [
+      {
+        "color": "dark_gray",
+        "translate": "guide.ftb.crop_mutation.tooltip"
+      }
+    ]
+  },
+  "default_language": "en_us"
+}

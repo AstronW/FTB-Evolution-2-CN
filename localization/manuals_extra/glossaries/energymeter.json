@@ -1,0 +1,22 @@
+{
+  "block.energymeter.meter": {
+    "en": "Energy Meter",
+    "zh": "电能表"
+  },
+  "block.energymeter.monitor": {
+    "en": "External Monitor",
+    "zh": "外部显示器"
+  },
+  "item.energymeter.guide": {
+    "en": "Energy Meter Guide",
+    "zh": "能量计指南"
+  },
+  "item.energymeter.meter": {
+    "en": "Energy Meter",
+    "zh": "电能表"
+  },
+  "item.energymeter.monitor": {
+    "en": "External Monitor",
+    "zh": "外部显示器"
+  }
+}

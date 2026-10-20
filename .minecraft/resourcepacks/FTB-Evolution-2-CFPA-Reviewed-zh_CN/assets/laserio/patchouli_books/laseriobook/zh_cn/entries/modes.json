@@ -1,0 +1,32 @@
+{
+  "name": "模式",
+  "sortnum": 1,
+  "category": "laserio:mechanics",
+  "icon": "laserio:textures/gui/buttons/modestocker.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "模式决定卡的行为。下面的内容描述目前可用的模式。$(br2)每种卡（物品/流体/能量）都支持以下 3 种模式，以物品卡为例。$(br2)红石卡支持的是一套不同的模式。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "laserio:card_item[laserio:card_transfer_mode=0b]",
+      "text": "输入模式卡是抽取模式卡的有效目标。$(br2)存储模式卡会试图从输入模式卡拉取。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "laserio:card_item[laserio:card_transfer_mode=1b]",
+      "text": "抽取模式卡试图从相邻的方块提取对象。以物品为例，物品会从箱子被抽取并发送到一个输入卡。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "laserio:card_item[laserio:card_transfer_mode=2b]",
+      "text": "存储模式卡试图寻找它们过滤器中设定的物品，并从网络中其他输入模式节点拉取物品。$(br2)存储模式卡需要过滤器才能起效。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "laserio:card_item[laserio:card_transfer_mode=3b]",
+      "text": "传感模式物流卡不会移动事物, 而是会检查毗邻存储空间.若其中内容匹配过滤器, 则在设定的红石频道上发出红石信号.$(br2)传感卡的运行需要过滤器."
+    }
+  ]
+}

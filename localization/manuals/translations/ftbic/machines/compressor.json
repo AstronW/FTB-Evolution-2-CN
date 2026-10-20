@@ -1,0 +1,14 @@
+{
+  "2": "  title: 压缩机",
+  "12": "# <Color id=\"gold\">压缩机</Color>",
+  "28": "  ## <Color id=\"gold\">常用压缩配方</Color>",
+  "44": "  ### <Color id=\"aqua\">高级压缩机</Color>",
+  "17": "  将材料压缩成更致密的形态:碳材料压成<ItemLink id=\"carbon_plate\" />,铜板压成<ItemLink id=\"dense_copper_plate\" />,雪球压成冰,多份粉压成宝石.",
+  "32": "* 9块铜板→<ItemLink id=\"dense_copper_plate\" />(用于<ItemLink id=\"nuclear_reactor\" />)",
+  "33": "* <ItemLink id=\"industrial_grade_metal\" />(由<ItemLink id=\"mixed_metal_blend\" />制得)",
+  "34": "* 雪球→冰",
+  "35": "* 钻石粉→钻石",
+  "36": "* <ItemLink id=\"compressed_coal_ball\" />(钻石回收流程中耗时5分钟的一步)",
+  "37": "* 由牛肉制作<ItemLink id=\"protein_bar\" />",
+  "47": "MV级,耗能128 FE/t,缓存320,000 FE.配方相同,速度更快."
+}

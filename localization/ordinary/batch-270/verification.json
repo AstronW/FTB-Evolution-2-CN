@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "270",
+  "namespace": "evilcraft",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 4,
+  "source_sha256": "a3d8b58c556e1fb4d3df203a5bc11ba88331cd676d5ae100213edd2904690e52",
+  "in_game_tested": false
+}

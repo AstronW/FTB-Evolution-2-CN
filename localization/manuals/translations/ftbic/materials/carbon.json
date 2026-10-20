@@ -1,0 +1,11 @@
+{
+  "2": "  title: 碳",
+  "12": "# <Color id=\"gold\">碳材料</Color>",
+  "25": "  ### <Color id=\"aqua\">碳纤维</Color>",
+  "34": "  ### <Color id=\"aqua\">碳纤维网</Color>",
+  "43": "  ### <Color id=\"aqua\">碳纤维板</Color>",
+  "17": "  制作<ItemLink id=\"carbon_helmet\" />等护甲所用的轻质吸能材料.",
+  "28": "在合成网格中用煤粉制作.",
+  "37": "由碳纤维编织而成.",
+  "46": "将碳纤维网放入<ItemLink id=\"compressor\" />压制,得到可用于护甲的材料."
+}

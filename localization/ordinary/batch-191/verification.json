@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "191",
+  "namespace": "buildguide",
+  "source_keys": 10,
+  "unique_values": 10,
+  "chinese_values": 10,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 10,
+  "source_sha256": "278bf83cd566a673b1373b9ee8e3f34c337dc6174cd3c3d5a93a16721ed1c77b",
+  "in_game_tested": false
+}

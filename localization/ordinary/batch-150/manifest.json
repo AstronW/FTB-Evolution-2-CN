@@ -1,0 +1,27 @@
+{
+  "batch": "150",
+  "namespace": "growthacceleratortiers",
+  "jar": ".minecraft/mods/growthacceleratortiers-2.0.0+26.1.2.jar",
+  "language_path": "assets/growthacceleratortiers/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/growthacceleratortiers/lang/zh_cn.json",
+  "include_keys": [
+    "command.growthacceleratortiers.boosted_position",
+    "command.growthacceleratortiers.directional_position",
+    "command.growthacceleratortiers.info",
+    "command.growthacceleratortiers.modify",
+    "command.growthacceleratortiers.no_data",
+    "growthacceleratortiers.configuration.boosted_idle_power_consumption",
+    "growthacceleratortiers.configuration.boosted_internal_energy_multiplier",
+    "growthacceleratortiers.configuration.boosted_speed_multiplier",
+    "growthacceleratortiers.configuration.cranked_idle_power_consumption",
+    "growthacceleratortiers.configuration.cranked_internal_energy_multiplier",
+    "growthacceleratortiers.configuration.cranked_speed_multiplier",
+    "growthacceleratortiers.configuration.directional_idle_power_consumption",
+    "growthacceleratortiers.configuration.directional_internal_energy_multiplier",
+    "growthacceleratortiers.configuration.directional_speed_multiplier",
+    "growthacceleratortiers.configuration.enable_conflicts",
+    "growthacceleratortiers.configuration.general"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

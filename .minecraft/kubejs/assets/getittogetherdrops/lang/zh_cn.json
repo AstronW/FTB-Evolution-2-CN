@@ -1,0 +1,8 @@
+{
+  "getittogetherdrops.configuration.checkY": "检查 Y 轴",
+  "getittogetherdrops.configuration.checkY.tooltip": "若希望掉落物品同时检查其上下方, 设为 true, 否则设为 false (\"false\" 为原版行为).",
+  "getittogetherdrops.configuration.radius": "半径",
+  "getittogetherdrops.configuration.radius.tooltip": "掉落物品在其周围寻找其他掉落物合并的半径 (格) (\"0.5\" 为原版行为).",
+  "tag.item.getittogetherdrops.do_not_combine": "掉落物不合并",
+  "tag.item.getittogetherdrops.ignore": "掉落物正常合并"
+}

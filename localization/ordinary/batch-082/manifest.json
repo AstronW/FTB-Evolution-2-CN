@@ -1,0 +1,16 @@
+{
+  "batch": "082",
+  "namespace": "dankstorage",
+  "jar": ".minecraft/mods/dankstorage-neoforge-26.1.2-1.jar",
+  "language_path": "assets/dankstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/dankstorage/lang/zh_cn.json",
+  "include_keys": [
+    "dankstorage.sorting_type.modid",
+    "dankstorage.sorting_type.modid.desc",
+    "text.dankstorage.formatcontaineditems"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s %s"
+  ]
+}

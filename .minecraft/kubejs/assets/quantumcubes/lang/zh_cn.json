@@ -1,0 +1,15 @@
+{
+  "itemGroup.quantumcubes": "量子方块",
+  "block.quantumcubes.quantum_cube_tier_1": "1 级量子方块",
+  "block.quantumcubes.quantum_cube_tier_2": "2 级量子方块",
+  "block.quantumcubes.quantum_cube_tier_3": "3 级量子方块",
+  "block.quantumcubes.quantum_cube_tier_4": "4 级量子方块",
+  "block.quantumcubes.quantum_cube_tier_5": "5 级量子方块",
+  "block.quantumcubes.quantum_block": "量子块",
+  "item.quantumcubes.quantum_remote": "量子遥控器",
+  "tooltip.quantumcubes.interior": "内部空间: %s",
+  "tooltip.quantumcubes.desc": "此方块中包含的个人维度",
+  "tooltip.quantumcubes.bound": "已绑定到方块 %s",
+  "tooltip.quantumcubes.enter": "使用 %s 进出",
+  "gui.quantumcubes.dim_missing": "量子维度未加载."
+}

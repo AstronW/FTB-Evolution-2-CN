@@ -1,0 +1,2158 @@
+{
+  "itemGroup.logisticsnetworks": {
+    "en": "Logistics Networks",
+    "zh": "物流网络"
+  },
+  "block.logisticsnetworks.computer": {
+    "en": "Computer",
+    "zh": "电脑"
+  },
+  "block.logisticsnetworks.server_rack": {
+    "en": "Logistics Server",
+    "zh": "物流服务器"
+  },
+  "gui.logisticsnetworks.server_rack.select_network": {
+    "en": "Select network",
+    "zh": "选择网络"
+  },
+  "gui.logisticsnetworks.server_rack.unknown_network": {
+    "en": "Unknown network",
+    "zh": "未知网络"
+  },
+  "gui.logisticsnetworks.server_rack.channel_empty": {
+    "en": "Empty",
+    "zh": "空"
+  },
+  "gui.logisticsnetworks.server_rack.link": {
+    "en": "Click to link these channels",
+    "zh": "点击以链接这些频道"
+  },
+  "gui.logisticsnetworks.server_rack.unlink": {
+    "en": "Click to unlink",
+    "zh": "点击以解除链接"
+  },
+  "gui.logisticsnetworks.server_rack.status.pick_networks": {
+    "en": "Pick a different network on each side",
+    "zh": "两侧各选择一个不同的网络"
+  },
+  "gui.logisticsnetworks.server_rack.status.unknown_network": {
+    "en": "One of these networks no longer exists",
+    "zh": "其中一个网络已不存在"
+  },
+  "gui.logisticsnetworks.server_rack.status.empty": {
+    "en": "%s channel %s has no active nodes",
+    "zh": "%s 频道 %s 没有活动节点"
+  },
+  "gui.logisticsnetworks.server_rack.status.no_shared_type": {
+    "en": "No shared resource type (%s vs %s)",
+    "zh": "没有共用的资源类型 (%s 与 %s)"
+  },
+  "gui.logisticsnetworks.server_rack.status.no_flow": {
+    "en": "Neither side exports %s to the other",
+    "zh": "两侧都没有向对方输出 %s"
+  },
+  "gui.logisticsnetworks.computer.no_networks": {
+    "en": "No networks available",
+    "zh": "无可用网络"
+  },
+  "gui.logisticsnetworks.computer.search_hint": {
+    "en": "Search networks...",
+    "zh": "搜索网络..."
+  },
+  "gui.logisticsnetworks.computer.status.online": {
+    "en": "ONLINE",
+    "zh": "在线"
+  },
+  "gui.logisticsnetworks.computer.status.idle": {
+    "en": "IDLE",
+    "zh": "空闲"
+  },
+  "gui.logisticsnetworks.computer.status.ready": {
+    "en": "READY",
+    "zh": "就绪"
+  },
+  "gui.logisticsnetworks.computer.status.synced": {
+    "en": "SYNCED",
+    "zh": "已同步"
+  },
+  "gui.logisticsnetworks.computer.network_directory": {
+    "en": "Network Directory",
+    "zh": "网络目录"
+  },
+  "gui.logisticsnetworks.computer.active_session": {
+    "en": "Active Session",
+    "zh": "活动会话"
+  },
+  "gui.logisticsnetworks.computer.no_signal": {
+    "en": "NO SIGNAL",
+    "zh": "无信号"
+  },
+  "gui.logisticsnetworks.computer.mounted": {
+    "en": "%s MOUNTED",
+    "zh": "%s 已挂载"
+  },
+  "gui.logisticsnetworks.computer.no_networks_online": {
+    "en": "No networks online",
+    "zh": "无在线网络"
+  },
+  "gui.logisticsnetworks.computer.insert_wrench": {
+    "en": "Insert wrench to link",
+    "zh": "插入扳手进行链接"
+  },
+  "gui.logisticsnetworks.computer.no_network_mounted": {
+    "en": "NO NETWORK MOUNTED",
+    "zh": "未挂载网络"
+  },
+  "gui.logisticsnetworks.computer.select_directory": {
+    "en": "Select a directory entry",
+    "zh": "选择一个目录条目"
+  },
+  "gui.logisticsnetworks.computer.open_workstation": {
+    "en": "to open this workstation.",
+    "zh": "以打开该工作站。"
+  },
+  "gui.logisticsnetworks.computer.total_networks_badge": {
+    "en": "%s NETWORKS",
+    "zh": "%s 个网络"
+  },
+  "gui.logisticsnetworks.computer.hint.dir": {
+    "en": "DIR  Browse networks",
+    "zh": "DIR  浏览网络"
+  },
+  "gui.logisticsnetworks.computer.hint.tab": {
+    "en": "TAB  Select session",
+    "zh": "TAB  选择会话"
+  },
+  "gui.logisticsnetworks.computer.hint.run": {
+    "en": "RUN  Open subsystem",
+    "zh": "RUN  打开子系统"
+  },
+  "gui.logisticsnetworks.computer.network": {
+    "en": "NETWORK",
+    "zh": "网络"
+  },
+  "gui.logisticsnetworks.computer.nodes_badge": {
+    "en": "%s NODES",
+    "zh": "%s 节点"
+  },
+  "gui.logisticsnetworks.computer.choose_subsystem": {
+    "en": "Choose a subsystem",
+    "zh": "选择一个子系统"
+  },
+  "gui.logisticsnetworks.computer.inspect_network": {
+    "en": "to inspect this network.",
+    "zh": "以检查该网络。"
+  },
+  "gui.logisticsnetworks.computer.open_io_monitor": {
+    "en": "OPEN I/O MONITOR",
+    "zh": "打开 I/O 监视器"
+  },
+  "gui.logisticsnetworks.computer.throughput_timeline": {
+    "en": "Throughput timeline",
+    "zh": "吞吐量时间轴"
+  },
+  "gui.logisticsnetworks.computer.open_node_table": {
+    "en": "OPEN NODE TABLE",
+    "zh": "打开节点表"
+  },
+  "gui.logisticsnetworks.computer.device_topology": {
+    "en": "Device topology",
+    "zh": "设备拓扑"
+  },
+  "gui.logisticsnetworks.computer.open_lnet_files": {
+    "en": "SAVE NETWORK",
+    "zh": "保存网络"
+  },
+  "gui.logisticsnetworks.computer.lnet_file_ops": {
+    "en": "Write .lnet file",
+    "zh": "写入 .lnet 文件"
+  },
+  "gui.logisticsnetworks.computer.load_network": {
+    "en": "LOAD NETWORK",
+    "zh": "加载网络"
+  },
+  "gui.logisticsnetworks.computer.load_network_detail": {
+    "en": "Read .lnet file",
+    "zh": "读取 .lnet 文件"
+  },
+  "gui.logisticsnetworks.computer.lnet_title": {
+    "en": "FILES :: %s",
+    "zh": "文件 :: %s"
+  },
+  "gui.logisticsnetworks.computer.lnet_refresh": {
+    "en": "REFRESH",
+    "zh": "刷新"
+  },
+  "gui.logisticsnetworks.computer.lnet_files": {
+    "en": "FILES",
+    "zh": "文件"
+  },
+  "gui.logisticsnetworks.computer.lnet_labels": {
+    "en": "LABELS",
+    "zh": "标签"
+  },
+  "gui.logisticsnetworks.computer.lnet_preview": {
+    "en": "PREVIEW",
+    "zh": "预览"
+  },
+  "gui.logisticsnetworks.computer.lnet_no_files": {
+    "en": "No .lnet files",
+    "zh": "无 .lnet 文件"
+  },
+  "gui.logisticsnetworks.computer.lnet_select_file": {
+    "en": "Select file",
+    "zh": "选择文件"
+  },
+  "gui.logisticsnetworks.computer.lnet_select_label": {
+    "en": "Select label",
+    "zh": "选择标签"
+  },
+  "gui.logisticsnetworks.computer.lnet_invalid_label": {
+    "en": "Invalid label data",
+    "zh": "无效的标签数据"
+  },
+  "gui.logisticsnetworks.computer.lnet_copy_wrench": {
+    "en": "COPY TO WRENCH",
+    "zh": "复制到扳手"
+  },
+  "gui.logisticsnetworks.computer.lnet_preview_channels": {
+    "en": "Channels: %s",
+    "zh": "频道：%s"
+  },
+  "gui.logisticsnetworks.computer.lnet_preview_filters": {
+    "en": "Filters: %s",
+    "zh": "过滤器：%s"
+  },
+  "gui.logisticsnetworks.computer.lnet_preview_upgrades": {
+    "en": "Upgrades: %s",
+    "zh": "升级：%s"
+  },
+  "gui.logisticsnetworks.computer.lnet_preview_required": {
+    "en": "Required: %s",
+    "zh": "所需：%s"
+  },
+  "gui.logisticsnetworks.computer.lnet_saving": {
+    "en": "Exporting network...",
+    "zh": "正在导出网络..."
+  },
+  "gui.logisticsnetworks.computer.lnet_files_refreshed": {
+    "en": "%s .lnet files found",
+    "zh": "找到 %s 个 .lnet 文件"
+  },
+  "gui.logisticsnetworks.computer.lnet_file_error": {
+    "en": "Could not read .lnet folder",
+    "zh": "无法读取 .lnet 文件夹"
+  },
+  "gui.logisticsnetworks.computer.lnet_file_loaded": {
+    "en": "Loaded %s",
+    "zh": "已加载 %s"
+  },
+  "gui.logisticsnetworks.computer.lnet_invalid_file": {
+    "en": "Invalid .lnet file",
+    "zh": "无效的 .lnet 文件"
+  },
+  "gui.logisticsnetworks.computer.lnet_label_selected": {
+    "en": "Selected label %s",
+    "zh": "已选择标签 %s"
+  },
+  "gui.logisticsnetworks.computer.lnet_copy_sent": {
+    "en": "Copy request sent for %s",
+    "zh": "已为 %s 发送复制请求"
+  },
+  "gui.logisticsnetworks.computer.lnet_saved": {
+    "en": "Saved network",
+    "zh": "已保存网络"
+  },
+  "gui.logisticsnetworks.computer.lnet_save_failed": {
+    "en": "Failed to save .lnet file",
+    "zh": "保存 .lnet 文件失败"
+  },
+  "gui.logisticsnetworks.computer.lnet_missing_labels": {
+    "en": "Missing labels: %s nodes",
+    "zh": "缺失标签：%s 个节点"
+  },
+  "gui.logisticsnetworks.computer.lnet_duplicate_labels": {
+    "en": "Duplicate labels: %s",
+    "zh": "重复标签：%s"
+  },
+  "gui.logisticsnetworks.computer.lnet_export_failed": {
+    "en": "Network export failed",
+    "zh": "网络导出失败"
+  },
+  "gui.logisticsnetworks.computer.node_table_title": {
+    "en": "NODE TABLE :: %s",
+    "zh": "节点表 :: %s"
+  },
+  "gui.logisticsnetworks.computer.telemetry.items": {
+    "en": "Items",
+    "zh": "物品"
+  },
+  "gui.logisticsnetworks.computer.telemetry.fluids": {
+    "en": "Fluids",
+    "zh": "流体"
+  },
+  "gui.logisticsnetworks.computer.telemetry.energy": {
+    "en": "Energy",
+    "zh": "能量"
+  },
+  "gui.logisticsnetworks.computer.telemetry.chemicals": {
+    "en": "Chemicals",
+    "zh": "化学品"
+  },
+  "gui.logisticsnetworks.computer.telemetry.source": {
+    "en": "Source",
+    "zh": "魔源"
+  },
+  "gui.logisticsnetworks.computer.telemetry.live": {
+    "en": "LIVE",
+    "zh": "实时"
+  },
+  "gui.logisticsnetworks.computer.no_channels": {
+    "en": "No channels active.",
+    "zh": "无活动频道。"
+  },
+  "gui.logisticsnetworks.computer.enable_channels_hint": {
+    "en": "Enable channels to monitor.",
+    "zh": "启用频道以进行监控。"
+  },
+  "gui.logisticsnetworks.computer.channel_nodes": {
+    "en": "%s nodes",
+    "zh": "%s 个节点"
+  },
+  "gui.logisticsnetworks.computer.telemetry.total.items": {
+    "en": "items",
+    "zh": "物品"
+  },
+  "gui.logisticsnetworks.computer.flow.back": {
+    "en": "Back",
+    "zh": "返回"
+  },
+  "gui.logisticsnetworks.computer.flow.title": {
+    "en": "I/O Monitor",
+    "zh": "I/O 监视器"
+  },
+  "gui.logisticsnetworks.computer.flow.channel": {
+    "en": "Channel %s",
+    "zh": "频道 %s"
+  },
+  "gui.logisticsnetworks.computer.flow.channel_short": {
+    "en": "CH%s",
+    "zh": "频道%s"
+  },
+  "gui.logisticsnetworks.computer.flow.no_nodes": {
+    "en": "no nodes",
+    "zh": "无节点"
+  },
+  "gui.logisticsnetworks.computer.flow.throughput": {
+    "en": "Throughput / second",
+    "zh": "吞吐量 / 秒"
+  },
+  "gui.logisticsnetworks.computer.flow.avg_peak": {
+    "en": "Avg %s · Peak %s",
+    "zh": "平均 %s · 峰值 %s"
+  },
+  "gui.logisticsnetworks.computer.flow.average": {
+    "en": "Average",
+    "zh": "平均"
+  },
+  "gui.logisticsnetworks.computer.flow.peak": {
+    "en": "Peak",
+    "zh": "峰值"
+  },
+  "gui.logisticsnetworks.computer.flow.moved": {
+    "en": "Moved %s",
+    "zh": "已传输 %s"
+  },
+  "gui.logisticsnetworks.computer.flow.window.30": {
+    "en": "30s",
+    "zh": "30 秒"
+  },
+  "gui.logisticsnetworks.computer.flow.window.60": {
+    "en": "1m",
+    "zh": "1 分"
+  },
+  "gui.logisticsnetworks.computer.flow.window.120": {
+    "en": "2m",
+    "zh": "2 分"
+  },
+  "gui.logisticsnetworks.computer.flow.now": {
+    "en": "now",
+    "zh": "现在"
+  },
+  "gui.logisticsnetworks.computer.flow.ago": {
+    "en": "-%ss",
+    "zh": "-%s 秒"
+  },
+  "gui.logisticsnetworks.computer.flow.other": {
+    "en": "Other",
+    "zh": "其他"
+  },
+  "gui.logisticsnetworks.computer.flow.scroll": {
+    "en": "%s-%s of %s · scroll",
+    "zh": "%s-%s / %s · 滚动"
+  },
+  "gui.logisticsnetworks.computer.flow.rate_tooltip": {
+    "en": "Rate: %s %s",
+    "zh": "速率: %s %s"
+  },
+  "gui.logisticsnetworks.computer.flow.moved_tooltip": {
+    "en": "Moved: %s %s",
+    "zh": "已传输: %s %s"
+  },
+  "gui.logisticsnetworks.computer.no_nodes": {
+    "en": "No nodes in this network.",
+    "zh": "该网络中没有节点。"
+  },
+  "gui.logisticsnetworks.computer.attach_device": {
+    "en": "Attach a device to populate the table.",
+    "zh": "连接设备以填充表格。"
+  },
+  "gui.logisticsnetworks.computer.highlight_tooltip": {
+    "en": "Highlight",
+    "zh": "高亮"
+  },
+  "gui.logisticsnetworks.computer.settings_tooltip": {
+    "en": "Settings",
+    "zh": "设置"
+  },
+  "gui.logisticsnetworks.computer.show": {
+    "en": "SHOW",
+    "zh": "显示"
+  },
+  "gui.logisticsnetworks.computer.hide": {
+    "en": "HIDE",
+    "zh": "隐藏"
+  },
+  "gui.logisticsnetworks.computer.device": {
+    "en": "DEVICE",
+    "zh": "设备"
+  },
+  "gui.logisticsnetworks.computer.location": {
+    "en": "LOCATION",
+    "zh": "位置"
+  },
+  "gui.logisticsnetworks.computer.devices_badge": {
+    "en": "%s DEV",
+    "zh": "%s 设备"
+  },
+  "gui.logisticsnetworks.computer.exit": {
+    "en": "EXIT",
+    "zh": "退出"
+  },
+  "gui.logisticsnetworks.computer.dimension.overworld": {
+    "en": "OVR",
+    "zh": "主世界"
+  },
+  "gui.logisticsnetworks.computer.dimension.nether": {
+    "en": "NTH",
+    "zh": "下界"
+  },
+  "gui.logisticsnetworks.computer.dimension.end": {
+    "en": "END",
+    "zh": "末地"
+  },
+  "item.logisticsnetworks.logistics_node": {
+    "en": "Logistics Node",
+    "zh": "物流节点"
+  },
+  "item.logisticsnetworks.wrench": {
+    "en": "Wrench",
+    "zh": "扳手"
+  },
+  "item.logisticsnetworks.small_filter": {
+    "en": "Filter",
+    "zh": "过滤器"
+  },
+  "item.logisticsnetworks.medium_filter": {
+    "en": "Medium Filter",
+    "zh": "中型过滤器"
+  },
+  "item.logisticsnetworks.big_filter": {
+    "en": "Big Filter",
+    "zh": "大型过滤器"
+  },
+  "item.logisticsnetworks.mod_filter": {
+    "en": "Mod Filter",
+    "zh": "模组过滤器"
+  },
+  "item.logisticsnetworks.iron_upgrade": {
+    "en": "Iron Upgrade",
+    "zh": "铁级升级"
+  },
+  "item.logisticsnetworks.gold_upgrade": {
+    "en": "Gold Upgrade",
+    "zh": "金级升级"
+  },
+  "item.logisticsnetworks.diamond_upgrade": {
+    "en": "Diamond Upgrade",
+    "zh": "钻石级升级"
+  },
+  "item.logisticsnetworks.netherite_upgrade": {
+    "en": "Netherite Upgrade",
+    "zh": "下界合金级升级"
+  },
+  "item.logisticsnetworks.dimensional_upgrade": {
+    "en": "Dimensional Upgrade",
+    "zh": "跨维度升级"
+  },
+  "entity.logisticsnetworks.logistics_node": {
+    "en": "Logistics Node",
+    "zh": "物流节点"
+  },
+  "gui.logisticsnetworks.node_config": {
+    "en": "Node Configuration",
+    "zh": "节点配置"
+  },
+  "gui.logisticsnetworks.clipboard": {
+    "en": "Clipboard",
+    "zh": "剪贴板"
+  },
+  "gui.logisticsnetworks.clipboard.editor": {
+    "en": "Clipboard Editor",
+    "zh": "剪贴板编辑器"
+  },
+  "gui.logisticsnetworks.clipboard.clear": {
+    "en": "Clear",
+    "zh": "清空"
+  },
+  "gui.logisticsnetworks.clipboard.visual_slots_hint": {
+    "en": "Visual slots: click item to set, empty hand to clear",
+    "zh": "可视化槽位：左键点击物品以设置，空手点击以清除"
+  },
+  "gui.logisticsnetworks.mass_placement": {
+    "en": "Mass Placement",
+    "zh": "批量放置"
+  },
+  "gui.logisticsnetworks.mass_placement.selected": {
+    "en": "Selected blocks: %s",
+    "zh": "已选方块：%s"
+  },
+  "gui.logisticsnetworks.mass_placement.nodes_required": {
+    "en": "Nodes required: %s",
+    "zh": "所需节点：%s"
+  },
+  "gui.logisticsnetworks.mass_placement.upgrades_required": {
+    "en": "Upgrades required: %s",
+    "zh": "所需升级：%s"
+  },
+  "gui.logisticsnetworks.mass_placement.filters_required": {
+    "en": "Filters required: %s",
+    "zh": "所需过滤器：%s"
+  },
+  "gui.logisticsnetworks.mass_placement.status_ok": {
+    "en": "Placement possible",
+    "zh": "允许放置"
+  },
+  "gui.logisticsnetworks.mass_placement.status_blocked": {
+    "en": "Placement blocked",
+    "zh": "放置受阻"
+  },
+  "gui.logisticsnetworks.mass_placement.block_choices": {
+    "en": "Target block",
+    "zh": "目标方块"
+  },
+  "gui.logisticsnetworks.mass_placement.block_choices_empty": {
+    "en": "Select two corners, then choose a capability block",
+    "zh": "选定两个对角点位，再选择功能方块"
+  },
+  "gui.logisticsnetworks.mass_placement.block_choices_more": {
+    "en": "... and %s more block types",
+    "zh": "……以及另外 %s 种方块"
+  },
+  "gui.logisticsnetworks.mass_placement.requirements": {
+    "en": "Required items",
+    "zh": "所需物品"
+  },
+  "gui.logisticsnetworks.mass_placement.requirement_empty": {
+    "en": "No extra filters or upgrades in clipboard",
+    "zh": "剪贴板内无额外的过滤器或升级"
+  },
+  "gui.logisticsnetworks.mass_placement.requirement_more": {
+    "en": "... and %s more",
+    "zh": "... 以及另外 %s 个"
+  },
+  "gui.logisticsnetworks.mass_placement.place": {
+    "en": "Place Nodes",
+    "zh": "放置节点"
+  },
+  "gui.logisticsnetworks.mass_placement.clear": {
+    "en": "Clear",
+    "zh": "清除"
+  },
+  "gui.logisticsnetworks.mass_placement.hint": {
+    "en": "Use %s on two corners, then choose the target block here.",
+    "zh": "右键点击切换单个方块。Ctrl + 右键切换连接的方块。"
+  },
+  "gui.logisticsnetworks.select_network": {
+    "en": "Select or Create Network",
+    "zh": "选择或创建网络"
+  },
+  "gui.logisticsnetworks.create_network": {
+    "en": "Create Network",
+    "zh": "创建网络"
+  },
+  "gui.logisticsnetworks.no_networks": {
+    "en": "No networks yet",
+    "zh": "暂无网络"
+  },
+  "gui.logisticsnetworks.rename": {
+    "en": "Rename",
+    "zh": "重命名"
+  },
+  "gui.logisticsnetworks.node.edit": {
+    "en": "Edit",
+    "zh": "编辑"
+  },
+  "gui.logisticsnetworks.node.color.title": {
+    "en": "Edit Network",
+    "zh": "编辑网络"
+  },
+  "gui.logisticsnetworks.node.color.apply": {
+    "en": "Apply",
+    "zh": "应用"
+  },
+  "gui.logisticsnetworks.node.color.random": {
+    "en": "Random",
+    "zh": "随机"
+  },
+  "gui.logisticsnetworks.no_node": {
+    "en": "No node found on this block",
+    "zh": "在此方块上未找到节点"
+  },
+  "gui.logisticsnetworks.node_removed": {
+    "en": "Node removed",
+    "zh": "节点已移除"
+  },
+  "gui.logisticsnetworks.dimensional_upgrade_warning": {
+    "en": "This network has nodes in different dimensions. A Dimensional Upgrade is required on both nodes for inter-dimensional transfers.",
+    "zh": "该网络中的节点位于不同维度。跨维度传输需要在两端节点都安装跨维度升级。"
+  },
+  "gui.logisticsnetworks.blacklisted_resource_warning": {
+    "en": "Warning: The attached block contains blacklisted resources that will not be transferred.",
+    "zh": "警告：连接的方块包含黑名单资源，将不会被传输。"
+  },
+  "gui.logisticsnetworks.filter_warning": {
+    "en": "Warning: Filter configuration issues detected:",
+    "zh": "警告：检测到过滤器配置问题："
+  },
+  "gui.logisticsnetworks.node.network_name_hint": {
+    "en": "Enter network name...",
+    "zh": "输入网络名称..."
+  },
+  "gui.logisticsnetworks.node.inventory": {
+    "en": "Inventory",
+    "zh": "物品栏"
+  },
+  "gui.logisticsnetworks.node.existing_networks": {
+    "en": "Existing Networks",
+    "zh": "现有网络"
+  },
+  "gui.logisticsnetworks.node.sort.old_new": {
+    "en": "Old→New",
+    "zh": "旧→新"
+  },
+  "gui.logisticsnetworks.node.sort.new_old": {
+    "en": "New→Old",
+    "zh": "新→旧"
+  },
+  "gui.logisticsnetworks.node.network_nodes": {
+    "en": "%s nodes",
+    "zh": "%s 个节点"
+  },
+  "gui.logisticsnetworks.node.visibility.visible": {
+    "en": "Visible",
+    "zh": "可见"
+  },
+  "gui.logisticsnetworks.node.visibility.hidden": {
+    "en": "Hidden",
+    "zh": "隐藏"
+  },
+  "gui.logisticsnetworks.node.change_network": {
+    "en": "Change",
+    "zh": "更改"
+  },
+  "gui.logisticsnetworks.node.network.none": {
+    "en": "No Network",
+    "zh": "无网络"
+  },
+  "gui.logisticsnetworks.node.network.fallback": {
+    "en": "Network %s",
+    "zh": "网络 %s"
+  },
+  "gui.logisticsnetworks.node.network.unnamed": {
+    "en": "Unnamed",
+    "zh": "未命名"
+  },
+  "gui.logisticsnetworks.node.setting.status": {
+    "en": "Status",
+    "zh": "状态"
+  },
+  "gui.logisticsnetworks.node.setting.mode": {
+    "en": "Mode",
+    "zh": "模式"
+  },
+  "gui.logisticsnetworks.node.setting.type": {
+    "en": "Type",
+    "zh": "类型"
+  },
+  "gui.logisticsnetworks.node.setting.side": {
+    "en": "Side",
+    "zh": "面"
+  },
+  "gui.logisticsnetworks.node.setting.redstone": {
+    "en": "Redstone",
+    "zh": "红石"
+  },
+  "gui.logisticsnetworks.node.setting.distribution": {
+    "en": "Distribution",
+    "zh": "分配"
+  },
+  "gui.logisticsnetworks.node.setting.filter_mode": {
+    "en": "Filter Mode",
+    "zh": "过滤模式"
+  },
+  "gui.logisticsnetworks.node.setting.priority": {
+    "en": "Priority",
+    "zh": "优先级"
+  },
+  "gui.logisticsnetworks.node.setting.batch": {
+    "en": "Batch",
+    "zh": "单次数量"
+  },
+  "gui.logisticsnetworks.node.setting.delay": {
+    "en": "Delay",
+    "zh": "延迟"
+  },
+  "gui.logisticsnetworks.node.value.enabled": {
+    "en": "Enabled",
+    "zh": "已启用"
+  },
+  "gui.logisticsnetworks.node.value.disabled": {
+    "en": "Disabled",
+    "zh": "已禁用"
+  },
+  "gui.logisticsnetworks.node.value.tick_delay": {
+    "en": "%st",
+    "zh": "%s 刻"
+  },
+  "gui.logisticsnetworks.node.filters": {
+    "en": "Filters",
+    "zh": "过滤器"
+  },
+  "gui.logisticsnetworks.node.filter.unfilterable": {
+    "en": "This channel type can't be filtered",
+    "zh": "该频道类型无法使用过滤器"
+  },
+  "gui.logisticsnetworks.node.filter.pick.normal": {
+    "en": "Normal",
+    "zh": "普通"
+  },
+  "gui.logisticsnetworks.node.filter.pick.mod": {
+    "en": "Mod",
+    "zh": "模组"
+  },
+  "gui.logisticsnetworks.node.filter.pick.regex": {
+    "en": "Regex",
+    "zh": "正则表达式"
+  },
+  "gui.logisticsnetworks.node.filter.add.hint": {
+    "en": "Use %s to add item to filter",
+    "zh": "点击将物品添加至筛选列表"
+  },
+  "gui.logisticsnetworks.node.filter.add.done": {
+    "en": "Item added to filter",
+    "zh": "物品已加入筛选列表"
+  },
+  "gui.logisticsnetworks.node.filter.type.small": {
+    "en": "Small",
+    "zh": "小型"
+  },
+  "gui.logisticsnetworks.node.filter.type.medium": {
+    "en": "Medium",
+    "zh": "中型"
+  },
+  "gui.logisticsnetworks.node.filter.type.big": {
+    "en": "Big",
+    "zh": "大型"
+  },
+  "gui.logisticsnetworks.node.filter.type.mod": {
+    "en": "Mod",
+    "zh": "模组"
+  },
+  "gui.logisticsnetworks.node.filter.type.name": {
+    "en": "Regex",
+    "zh": "正则表达式"
+  },
+  "gui.logisticsnetworks.node.filter.empty": {
+    "en": "Empty Filter",
+    "zh": "筛选器为空"
+  },
+  "gui.logisticsnetworks.node.filter.open": {
+    "en": "Open Filter",
+    "zh": "打开筛选器"
+  },
+  "gui.logisticsnetworks.node.filter.change_type": {
+    "en": "Change Filter Type",
+    "zh": "更改筛选类型"
+  },
+  "gui.logisticsnetworks.node.upgrades": {
+    "en": "Upgrades",
+    "zh": "升级"
+  },
+  "gui.logisticsnetworks.channel_mode.import": {
+    "en": "Receiver",
+    "zh": "输入"
+  },
+  "gui.logisticsnetworks.channel_mode.export": {
+    "en": "Sender",
+    "zh": "输出"
+  },
+  "gui.logisticsnetworks.channel_type.item": {
+    "en": "Item",
+    "zh": "物品"
+  },
+  "gui.logisticsnetworks.channel_type.fluid": {
+    "en": "Fluid",
+    "zh": "流体"
+  },
+  "gui.logisticsnetworks.channel_type.energy": {
+    "en": "Energy",
+    "zh": "能量"
+  },
+  "gui.logisticsnetworks.channel_type.chemical": {
+    "en": "Chemical",
+    "zh": "化学品"
+  },
+  "gui.logisticsnetworks.redstone_mode.ignored": {
+    "en": "Ignored",
+    "zh": "忽略"
+  },
+  "gui.logisticsnetworks.redstone_mode.high": {
+    "en": "High Signal",
+    "zh": "高红石信号"
+  },
+  "gui.logisticsnetworks.redstone_mode.low": {
+    "en": "Low Signal",
+    "zh": "低红石信号"
+  },
+  "gui.logisticsnetworks.distribution_mode.priority": {
+    "en": "Priority",
+    "zh": "优先级"
+  },
+  "gui.logisticsnetworks.distribution_mode.nearest_first": {
+    "en": "Nearest First",
+    "zh": "最近优先"
+  },
+  "gui.logisticsnetworks.distribution_mode.farthest_first": {
+    "en": "Farthest First",
+    "zh": "最远优先"
+  },
+  "gui.logisticsnetworks.distribution_mode.round_robin": {
+    "en": "Equal Distribution",
+    "zh": "轮询分配"
+  },
+  "gui.logisticsnetworks.distribution_mode.priority_robin": {
+    "en": "Priority Robin",
+    "zh": "优先级轮询"
+  },
+  "gui.logisticsnetworks.direction.down": {
+    "en": "Down",
+    "zh": "下"
+  },
+  "gui.logisticsnetworks.direction.up": {
+    "en": "Up",
+    "zh": "上"
+  },
+  "gui.logisticsnetworks.direction.north": {
+    "en": "North",
+    "zh": "北"
+  },
+  "gui.logisticsnetworks.direction.south": {
+    "en": "South",
+    "zh": "南"
+  },
+  "gui.logisticsnetworks.direction.west": {
+    "en": "West",
+    "zh": "西"
+  },
+  "gui.logisticsnetworks.direction.east": {
+    "en": "East",
+    "zh": "东"
+  },
+  "gui.logisticsnetworks.direction.all": {
+    "en": "All",
+    "zh": "所有"
+  },
+  "gui.logisticsnetworks.filter_mode.match_any": {
+    "en": "Any",
+    "zh": "匹配任一"
+  },
+  "gui.logisticsnetworks.filter_mode.match_all": {
+    "en": "All",
+    "zh": "匹配全部"
+  },
+  "gui.logisticsnetworks.filter.mode.whitelist": {
+    "en": "Whitelist",
+    "zh": "白名单"
+  },
+  "gui.logisticsnetworks.filter.mode.blacklist": {
+    "en": "Blacklist",
+    "zh": "黑名单"
+  },
+  "gui.logisticsnetworks.filter.title": {
+    "en": "Filter",
+    "zh": "过滤器"
+  },
+  "gui.logisticsnetworks.filter.copy": {
+    "en": "Copy filter",
+    "zh": "复制过滤器"
+  },
+  "gui.logisticsnetworks.filter.paste": {
+    "en": "Paste filter",
+    "zh": "粘贴过滤器"
+  },
+  "gui.logisticsnetworks.filter.paste.empty": {
+    "en": "Paste filter (clipboard empty)",
+    "zh": "粘贴过滤器 (剪贴板为空)"
+  },
+  "gui.logisticsnetworks.filter.info.scroll": {
+    "en": "Scroll",
+    "zh": "滚动"
+  },
+  "gui.logisticsnetworks.filter.target.items": {
+    "en": "Items",
+    "zh": "物品"
+  },
+  "gui.logisticsnetworks.filter.target.fluids": {
+    "en": "Fluids",
+    "zh": "流体"
+  },
+  "gui.logisticsnetworks.filter.add": {
+    "en": "Add",
+    "zh": "添加"
+  },
+  "gui.logisticsnetworks.filter.tag.selected": {
+    "en": "Selected tag",
+    "zh": "已选标签"
+  },
+  "gui.logisticsnetworks.filter.tag.select_from_item": {
+    "en": "Select tag from extractor",
+    "zh": "从提取器中选择标签"
+  },
+  "gui.logisticsnetworks.filter.tag.input_hint": {
+    "en": "modid:tag",
+    "zh": "modid:标签名"
+  },
+  "gui.logisticsnetworks.filter.tag.input_full_hint": {
+    "en": "Enter tag (e.g. c:ores)...",
+    "zh": "输入标签(例如 c:ores)..."
+  },
+  "gui.logisticsnetworks.filter.tag.clear": {
+    "en": "Clr",
+    "zh": "清除"
+  },
+  "gui.logisticsnetworks.filter.tag.no_tags": {
+    "en": "No tags (insert item/fluid)",
+    "zh": "无标签 (请放入物品/流体)"
+  },
+  "gui.logisticsnetworks.filter.selector_hint": {
+    "en": "Insert item/fluid here to populate suggestions",
+    "zh": "在此处放入物品/流体以生成建议"
+  },
+  "gui.logisticsnetworks.filter.selector.selected": {
+    "en": "Selected: %s",
+    "zh": "已选择: %s"
+  },
+  "gui.logisticsnetworks.filter.none": {
+    "en": "None",
+    "zh": "无"
+  },
+  "gui.logisticsnetworks.filter.mod.selected": {
+    "en": "Selected mod",
+    "zh": "已选模组"
+  },
+  "gui.logisticsnetworks.filter.mod.select_from_item": {
+    "en": "Select mod from extractor",
+    "zh": "从提取器中选择模组"
+  },
+  "gui.logisticsnetworks.filter.mod.input_hint": {
+    "en": "modid",
+    "zh": "模组ID"
+  },
+  "gui.logisticsnetworks.filter.mod.input_full_hint": {
+    "en": "Enter mod ID (e.g. minecraft)...",
+    "zh": "输入模组ID(例如 minecraft)"
+  },
+  "gui.logisticsnetworks.filter.mod.clear": {
+    "en": "Clr",
+    "zh": "清除"
+  },
+  "gui.logisticsnetworks.filter.mod.no_mods": {
+    "en": "No mods (insert item/fluid)",
+    "zh": "无模组 (请放入物品/流体)"
+  },
+  "gui.logisticsnetworks.filter.nbt.selected": {
+    "en": "Selected NBT",
+    "zh": "已选 NBT"
+  },
+  "gui.logisticsnetworks.filter.nbt.select_from_item": {
+    "en": "Select NBT from extractor",
+    "zh": "从提取器中选择 NBT"
+  },
+  "gui.logisticsnetworks.filter.nbt.select_path": {
+    "en": "Select Path...",
+    "zh": "选择路径..."
+  },
+  "gui.logisticsnetworks.filter.nbt.clear": {
+    "en": "Clr",
+    "zh": "清除"
+  },
+  "gui.logisticsnetworks.filter.nbt.no_entries": {
+    "en": "No NBT (insert item/fluid)",
+    "zh": "无 NBT 数据 (请放入物品/流体)"
+  },
+  "gui.logisticsnetworks.filter.nbt.no_rules": {
+    "en": "No rules (click + to add)",
+    "zh": "无规则 (点击 + 号添加)"
+  },
+  "gui.logisticsnetworks.filter.nbt.slot_title": {
+    "en": "NBT For Slot %s",
+    "zh": "槽位 %s 的 NBT"
+  },
+  "gui.logisticsnetworks.filter.nbt.pick_path": {
+    "en": "Pick Path",
+    "zh": "选取路径"
+  },
+  "gui.logisticsnetworks.filter.nbt.current.none": {
+    "en": "No parsed NBT rule",
+    "zh": "无已解析的NBT规则"
+  },
+  "gui.logisticsnetworks.filter.nbt.raw_active": {
+    "en": "Raw SNBT active",
+    "zh": "原始SNBT已启用"
+  },
+  "gui.logisticsnetworks.filter.nbt.raw_label": {
+    "en": "Raw SNBT",
+    "zh": "原始SNBT"
+  },
+  "gui.logisticsnetworks.filter.nbt.done": {
+    "en": "Done",
+    "zh": "完成"
+  },
+  "gui.logisticsnetworks.filter.nbt.value": {
+    "en": "Match value",
+    "zh": "匹配值"
+  },
+  "gui.logisticsnetworks.filter.nbt.value.none": {
+    "en": "No NBT selected",
+    "zh": "未选择 NBT"
+  },
+  "gui.logisticsnetworks.filter.nbt.match_any": {
+    "en": "Match Any",
+    "zh": "匹配任一"
+  },
+  "gui.logisticsnetworks.filter.nbt.match_all": {
+    "en": "Match All",
+    "zh": "匹配全部"
+  },
+  "gui.logisticsnetworks.filter.amount.threshold": {
+    "en": "Amount threshold",
+    "zh": "数量阈值"
+  },
+  "gui.logisticsnetworks.filter.amount.exp_hint": {
+    "en": "Exp: Leave source above limit.",
+    "zh": "输出：将源库存保持在该限制以上。"
+  },
+  "gui.logisticsnetworks.filter.amount.imp_hint": {
+    "en": "Imp: Cap destination at limit.",
+    "zh": "输入：将目标库存限制在该值以内。"
+  },
+  "gui.logisticsnetworks.filter.durability.value": {
+    "en": "Durability",
+    "zh": "耐久度"
+  },
+  "gui.logisticsnetworks.filter.durability.limit": {
+    "en": "Durability Limit",
+    "zh": "耐久度限制"
+  },
+  "gui.logisticsnetworks.filter.durability.hint": {
+    "en": "Matches damageable items by remaining durability.",
+    "zh": "根据剩余耐久度匹配可损坏物品。"
+  },
+  "gui.logisticsnetworks.filter.amount.info.import.title": {
+    "en": "Import Filter Info",
+    "zh": "输入数量过滤说明"
+  },
+  "gui.logisticsnetworks.filter.amount.info.export.title": {
+    "en": "Export Filter Info",
+    "zh": "输出数量过滤说明"
+  },
+  "gui.logisticsnetworks.filter.amount.info.import.p1": {
+    "en": "This filter sets the maximum number of matching items allowed in the import destination.",
+    "zh": "此过滤器设置接收端允许存在的匹配物品的最大数量。"
+  },
+  "gui.logisticsnetworks.filter.amount.info.import.p2": {
+    "en": "If the destination is at or above the limit, this channel will not insert more of that item.",
+    "zh": "如果目的地已达到或超过该限制，频道将停止向其插入该物品。"
+  },
+  "gui.logisticsnetworks.filter.amount.info.import.p3": {
+    "en": "Use the arrow below to view export behavior.",
+    "zh": "使用下方箭头查看输出行为。"
+  },
+  "gui.logisticsnetworks.filter.amount.info.export.p1": {
+    "en": "This filter keeps a reserve in the export source.",
+    "zh": "此过滤器会在源端保留一定数量的库存。"
+  },
+  "gui.logisticsnetworks.filter.amount.info.export.p2": {
+    "en": "Only items above the configured limit can be moved out.",
+    "zh": "只有超过配置限制的物品才会被移出。"
+  },
+  "gui.logisticsnetworks.filter.amount.info.export.p3": {
+    "en": "Lower values export more aggressively. Higher values keep more stock.",
+    "zh": "数值越低，输出越激进；数值越高，保留库存越多。"
+  },
+  "item.logisticsnetworks.name_filter": {
+    "en": "Regex Filter",
+    "zh": "正则表达式过滤器"
+  },
+  "gui.logisticsnetworks.filter.name.input_hint": {
+    "en": "Safe regex, e.g. Iron|Gold",
+    "zh": "输入正则表达式 (例如 .*stone.*)"
+  },
+  "gui.logisticsnetworks.filter.name.active": {
+    "en": "Matching: %s",
+    "zh": "匹配项：%s"
+  },
+  "gui.logisticsnetworks.filter.name.pattern": {
+    "en": "Pattern: %s",
+    "zh": "模式: %s"
+  },
+  "gui.logisticsnetworks.filter.name.none": {
+    "en": "No regex set",
+    "zh": "未设置正则表达式"
+  },
+  "gui.logisticsnetworks.filter.name.scope.name": {
+    "en": "Name",
+    "zh": "名称"
+  },
+  "gui.logisticsnetworks.filter.name.scope.tooltip": {
+    "en": "Tooltip",
+    "zh": "工具提示"
+  },
+  "gui.logisticsnetworks.filter.name.scope.both": {
+    "en": "Both",
+    "zh": "两者"
+  },
+  "gui.logisticsnetworks.filter.name.invalid_regex": {
+    "en": "Invalid regex syntax!",
+    "zh": "正则表达式无效！"
+  },
+  "gui.logisticsnetworks.filter.name.unsafe_regex": {
+    "en": "Unsupported regex syntax!",
+    "zh": "不支持的正则表达式语法！"
+  },
+  "gui.logisticsnetworks.filter.name.too_long": {
+    "en": "Regex exceeds 128 characters!",
+    "zh": "正则表达式超过 128 个字符！"
+  },
+  "gui.logisticsnetworks.compatibility_blacklist": {
+    "en": "This block is from an incompatible mod",
+    "zh": "该方块来自不兼容的模组"
+  },
+  "gui.logisticsnetworks.blacklist": {
+    "en": "This block is blacklisted",
+    "zh": "该方块已被列入黑名单"
+  },
+  "item.logisticsnetworks.mekanism_chemical_upgrade": {
+    "en": "Mekanism Chemical Upgrade",
+    "zh": "通用机械化学品升级"
+  },
+  "gui.logisticsnetworks.filter.target.chemicals": {
+    "en": "Chemicals",
+    "zh": "化学品"
+  },
+  "item.logisticsnetworks.ars_source_upgrade": {
+    "en": "Ars Source Upgrade",
+    "zh": "新生魔艺魔源升级"
+  },
+  "item.logisticsnetworks.network_upgrade": {
+    "en": "Network Upgrade",
+    "zh": "网络升级"
+  },
+  "gui.logisticsnetworks.channel_type.source": {
+    "en": "Source",
+    "zh": "魔源"
+  },
+  "gui.logisticsnetworks.node.value.batch.source": {
+    "en": "%s Source",
+    "zh": "%s 魔源"
+  },
+  "config.jade.plugin_logisticsnetworks.node_attached": {
+    "en": "Node Attached Hint",
+    "zh": "显示节点连接提示"
+  },
+  "config.jade.plugin_logisticsnetworks.logistics_node_entity": {
+    "en": "Logistics Node Entity",
+    "zh": "物流节点实体"
+  },
+  "item.logisticsnetworks.pattern_setter": {
+    "en": "Pattern Setter",
+    "zh": "样式设置器"
+  },
+  "gui.logisticsnetworks.pattern_setter.title": {
+    "en": "Pattern Setter",
+    "zh": "样式设置器"
+  },
+  "gui.logisticsnetworks.pattern_setter.input": {
+    "en": "Input",
+    "zh": "输入"
+  },
+  "gui.logisticsnetworks.pattern_setter.output": {
+    "en": "Output",
+    "zh": "输出"
+  },
+  "gui.logisticsnetworks.pattern_setter.pattern_label": {
+    "en": "Pattern:",
+    "zh": "样式:"
+  },
+  "gui.logisticsnetworks.pattern_setter.filter_label": {
+    "en": "Filter:",
+    "zh": "过滤器:"
+  },
+  "gui.logisticsnetworks.pattern_setter.applied": {
+    "en": "Applied!",
+    "zh": "已应用！"
+  },
+  "gui.logisticsnetworks.node.label.set": {
+    "en": "Set Label",
+    "zh": "设置标签"
+  },
+  "gui.logisticsnetworks.node.label.clear": {
+    "en": "Clear Label",
+    "zh": "清除标签"
+  },
+  "gui.logisticsnetworks.node.label.delete": {
+    "en": "Delete",
+    "zh": "删除"
+  },
+  "gui.logisticsnetworks.node.label.confirm_delete": {
+    "en": "Delete label \"%s\"? It is used by %s node(s), which will be unlabeled.",
+    "zh": "删除标签 \"%s\"? 有 %s 个节点正在使用, 它们将失去标签."
+  },
+  "gui.logisticsnetworks.wrench.colors.case": {
+    "en": "Case",
+    "zh": "外壳"
+  },
+  "gui.logisticsnetworks.wrench.colors.screen": {
+    "en": "Screen",
+    "zh": "屏幕"
+  },
+  "gui.logisticsnetworks.wrench.colors.reset": {
+    "en": "Reset",
+    "zh": "重置"
+  },
+  "gui.logisticsnetworks.wrench.settings.title": {
+    "en": "Wrench Settings",
+    "zh": "扳手设置"
+  },
+  "gui.logisticsnetworks.wrench.tab.colors": {
+    "en": "Colors",
+    "zh": "颜色"
+  },
+  "gui.logisticsnetworks.wrench.tab.flow": {
+    "en": "Flow Lines",
+    "zh": "流动线"
+  },
+  "gui.logisticsnetworks.wrench.flow.simple": {
+    "en": "Simple",
+    "zh": "简洁"
+  },
+  "gui.logisticsnetworks.wrench.flow.advanced": {
+    "en": "Advanced",
+    "zh": "高级"
+  },
+  "gui.logisticsnetworks.wrench.flow.enabled": {
+    "en": "Show Flow Lines",
+    "zh": "显示流动线"
+  },
+  "gui.logisticsnetworks.wrench.flow.resources": {
+    "en": "Resources",
+    "zh": "资源"
+  },
+  "gui.logisticsnetworks.wrench.flow.channels": {
+    "en": "Channels",
+    "zh": "频道"
+  },
+  "gui.logisticsnetworks.wrench.flow.network": {
+    "en": "Network",
+    "zh": "网络"
+  },
+  "gui.logisticsnetworks.wrench.flow.network.all": {
+    "en": "All networks",
+    "zh": "所有网络"
+  },
+  "gui.logisticsnetworks.wrench.flow.network.saved": {
+    "en": "Saved network (not nearby)",
+    "zh": "已保存的网络 (不在附近)"
+  },
+  "gui.logisticsnetworks.wrench.flow.offscreen": {
+    "en": "Include Off-Screen Nodes",
+    "zh": "包含屏幕外节点"
+  },
+  "gui.logisticsnetworks.wrench.flow.style": {
+    "en": "Style",
+    "zh": "样式"
+  },
+  "gui.logisticsnetworks.wrench.flow.style.routed": {
+    "en": "Routed",
+    "zh": "路径"
+  },
+  "gui.logisticsnetworks.wrench.flow.style.direct": {
+    "en": "Direct",
+    "zh": "直线"
+  },
+  "gui.logisticsnetworks.wrench.flow.thickness": {
+    "en": "Thickness",
+    "zh": "粗细"
+  },
+  "gui.logisticsnetworks.wrench.flow.speed": {
+    "en": "Speed",
+    "zh": "速度"
+  },
+  "gui.logisticsnetworks.wrench.flow.opacity": {
+    "en": "Opacity",
+    "zh": "不透明度"
+  },
+  "gui.logisticsnetworks.wrench.flow.pulses": {
+    "en": "Show Pulses",
+    "zh": "显示脉冲"
+  },
+  "gui.logisticsnetworks.wrench.flow.pulseSpacing": {
+    "en": "Pulse Spacing",
+    "zh": "脉冲间距"
+  },
+  "gui.logisticsnetworks.wrench.flow.pulseLength": {
+    "en": "Pulse Length",
+    "zh": "脉冲长度"
+  },
+  "gui.logisticsnetworks.wrench.flow.throughBlocks": {
+    "en": "Show Through Blocks",
+    "zh": "穿墙显示"
+  },
+  "gui.logisticsnetworks.filter.detail.title": {
+    "en": "Detail: Slot %s",
+    "zh": "详情：槽位 %s"
+  },
+  "gui.logisticsnetworks.filter.detail.clear": {
+    "en": "Clear",
+    "zh": "清空"
+  },
+  "gui.logisticsnetworks.filter.detail.batch": {
+    "en": "Batch",
+    "zh": "单次数量"
+  },
+  "gui.logisticsnetworks.filter.detail.stock": {
+    "en": "Stock",
+    "zh": "库存量"
+  },
+  "gui.logisticsnetworks.filter.detail.nbt.configure": {
+    "en": "Edit",
+    "zh": "配置..."
+  },
+  "gui.logisticsnetworks.filter.detail.nbt.strict": {
+    "en": "Strict",
+    "zh": "严格模式"
+  },
+  "gui.logisticsnetworks.filter.detail.nbt.strict.on": {
+    "en": "Strict NBT: exact item data required",
+    "zh": "严格 NBT：需要完全匹配物品数据"
+  },
+  "gui.logisticsnetworks.filter.detail.nbt.strict.off": {
+    "en": "Strict NBT off: configure specific NBT rules",
+    "zh": "关闭严格 NBT：请配置特定的 NBT 规则"
+  },
+  "gui.logisticsnetworks.filter.detail.nbt.edit.disabled": {
+    "en": "Disable strict matching to edit NBT",
+    "zh": "请先禁用严格匹配模式再编辑 NBT"
+  },
+  "gui.logisticsnetworks.filter.detail.slots": {
+    "en": "Slots",
+    "zh": "槽位"
+  },
+  "gui.logisticsnetworks.filter.detail.enchanted": {
+    "en": "Enchanted",
+    "zh": "已附魔"
+  },
+  "gui.logisticsnetworks.filter.detail.durability": {
+    "en": "Durability",
+    "zh": "耐久度"
+  },
+  "gui.logisticsnetworks.filter.detail.id_hint": {
+    "en": "#tag or item:id",
+    "zh": "#标签 或 物品:id"
+  },
+  "gui.logisticsnetworks.filter.detail.nbt.raw": {
+    "en": "Raw SNBT",
+    "zh": "原始 SNBT"
+  },
+  "gui.logisticsnetworks.filter.detail.nbt.table": {
+    "en": "Table",
+    "zh": "表格"
+  },
+  "gui.logisticsnetworks.filter.detail.nbt.add": {
+    "en": "Add Rule",
+    "zh": "添加规则"
+  },
+  "gui.logisticsnetworks.node.tip.status": {
+    "en": "Toggle channel on/off",
+    "zh": "启用或禁用此频道"
+  },
+  "gui.logisticsnetworks.node.tip.mode": {
+    "en": "Direction of transfer",
+    "zh": "设置此频道是输出还是输入资源"
+  },
+  "gui.logisticsnetworks.node.tip.mode.import": {
+    "en": "Pull items into this node's inventory",
+    "zh": "从连接的方块中抽取资源"
+  },
+  "gui.logisticsnetworks.node.tip.mode.export": {
+    "en": "Push items from this node's inventory",
+    "zh": "向连接的方块中推送资源"
+  },
+  "gui.logisticsnetworks.node.tip.type": {
+    "en": "Resource type to transfer",
+    "zh": "此频道传输的资源类型"
+  },
+  "gui.logisticsnetworks.node.tip.side": {
+    "en": "Which face of the block to access",
+    "zh": "进行输入/输出的方块面"
+  },
+  "gui.logisticsnetworks.node.tip.redstone": {
+    "en": "When to run this channel",
+    "zh": "传输所需的红石信号条件"
+  },
+  "gui.logisticsnetworks.node.tip.redstone.ignored": {
+    "en": "Always active, redstone has no effect",
+    "zh": "始终激活, 红石无效"
+  },
+  "gui.logisticsnetworks.node.tip.redstone.high": {
+    "en": "Active when redstone is on",
+    "zh": "仅在有红石信号时传输"
+  },
+  "gui.logisticsnetworks.node.tip.redstone.low": {
+    "en": "Active when redstone is off",
+    "zh": "仅在无红石信号时传输"
+  },
+  "gui.logisticsnetworks.node.tip.distribution": {
+    "en": "How to spread items across targets",
+    "zh": "物品分配至接收者的方式"
+  },
+  "gui.logisticsnetworks.node.tip.distribution.priority": {
+    "en": "Fill highest priority first",
+    "zh": "优先发送至最高优先级的节点"
+  },
+  "gui.logisticsnetworks.node.tip.distribution.nearest_first": {
+    "en": "Fill closest target first",
+    "zh": "优先发送至最近的接收者"
+  },
+  "gui.logisticsnetworks.node.tip.distribution.farthest_first": {
+    "en": "Fill furthest target first",
+    "zh": "优先发送至最远的接收者"
+  },
+  "gui.logisticsnetworks.node.tip.distribution.round_robin": {
+    "en": "Split each batch evenly across targets",
+    "zh": "在所有接收者之间循环分配"
+  },
+  "gui.logisticsnetworks.node.tip.distribution.priority_robin": {
+    "en": "Cycle targets each batch, highest priority first",
+    "zh": "每批依次循环目标, 优先级最高者优先"
+  },
+  "gui.logisticsnetworks.node.tip.distribution.random": {
+    "en": "Pick a random target each tick",
+    "zh": "每刻随机选择一个目标"
+  },
+  "gui.logisticsnetworks.node.tip.priority": {
+    "en": "Higher priority channels run first",
+    "zh": "高优先级频道将优先进行传输"
+  },
+  "gui.logisticsnetworks.node.tip.batch": {
+    "en": "Items moved per operation",
+    "zh": "单次操作传输的数量"
+  },
+  "gui.logisticsnetworks.node.tip.delay": {
+    "en": "Ticks between operations",
+    "zh": "每次传输操作之间的刻间隔"
+  },
+  "gui.logisticsnetworks.node.channel_name.hint": {
+    "en": "Channel name...",
+    "zh": "频道名称..."
+  },
+  "gui.logisticsnetworks.node.channel_name.set_tooltip": {
+    "en": "Use %s twice to name channel",
+    "zh": "双击为频道命名"
+  },
+  "advancement.logisticsnetworks.root.title": {
+    "en": "Logistics Networks",
+    "zh": "物流网络"
+  },
+  "advancement.logisticsnetworks.root.description": {
+    "en": "Hold 'G' over items for guide",
+    "zh": "在物品上悬停并按 'G' 查看指南"
+  },
+  "gui.logisticsnetworks.config.title": {
+    "en": "Logistics Networks Configuration",
+    "zh": "物流网络配置"
+  },
+  "gui.logisticsnetworks.config.tab.common": {
+    "en": "Common",
+    "zh": "常规"
+  },
+  "gui.logisticsnetworks.config.tab.client": {
+    "en": "Client",
+    "zh": "客户端"
+  },
+  "gui.logisticsnetworks.config.tab.upgrades": {
+    "en": "Upgrades",
+    "zh": "升级"
+  },
+  "gui.logisticsnetworks.config.done": {
+    "en": "Done",
+    "zh": "完成"
+  },
+  "gui.logisticsnetworks.config.cancel": {
+    "en": "Cancel",
+    "zh": "取消"
+  },
+  "gui.logisticsnetworks.config.enabled": {
+    "en": "ON",
+    "zh": "开启"
+  },
+  "gui.logisticsnetworks.config.disabled": {
+    "en": "OFF",
+    "zh": "关闭"
+  },
+  "gui.logisticsnetworks.config.common.dropNodeItem": {
+    "en": "Drop Node Item",
+    "zh": "掉落节点物品"
+  },
+  "gui.logisticsnetworks.config.common.debugMode": {
+    "en": "Debug Mode",
+    "zh": "调试模式"
+  },
+  "gui.logisticsnetworks.config.common.networkTicking": {
+    "en": "Network Ticking",
+    "zh": "网络刻更新"
+  },
+  "gui.logisticsnetworks.config.common.nodeAccessMode": {
+    "en": "Node Access",
+    "zh": "节点访问"
+  },
+  "gui.logisticsnetworks.config.common.nodeAccessMode.teams": {
+    "en": "Teams",
+    "zh": "队伍"
+  },
+  "gui.logisticsnetworks.config.common.nodeAccessMode.all": {
+    "en": "All",
+    "zh": "全部"
+  },
+  "gui.logisticsnetworks.config.common.nodeAccessMode.allies": {
+    "en": "Allies",
+    "zh": "盟友"
+  },
+  "gui.logisticsnetworks.config.common.backoffMaxTicks": {
+    "en": "Max Backoff Ticks",
+    "zh": "最大退避刻"
+  },
+  "gui.logisticsnetworks.config.common.backoffItem": {
+    "en": "Item Backoff",
+    "zh": "物品传输退避"
+  },
+  "gui.logisticsnetworks.config.common.backoffFluid": {
+    "en": "Fluid Backoff",
+    "zh": "流体传输退避"
+  },
+  "gui.logisticsnetworks.config.common.backoffEnergy": {
+    "en": "Energy Backoff",
+    "zh": "能量传输退避"
+  },
+  "gui.logisticsnetworks.config.common.backoffChemical": {
+    "en": "Chemical Backoff",
+    "zh": "化学品传输退避"
+  },
+  "gui.logisticsnetworks.config.common.backoffSource": {
+    "en": "Source Backoff",
+    "zh": "魔源传输退避"
+  },
+  "gui.logisticsnetworks.config.client.defaultNodeVisibility": {
+    "en": "Default Node Visibility",
+    "zh": "默认节点可见性"
+  },
+  "gui.logisticsnetworks.config.client.maxRenderedNodes": {
+    "en": "Max Rendered Nodes",
+    "zh": "最大渲染节点数"
+  },
+  "gui.logisticsnetworks.config.client.maxVisibleNodes": {
+    "en": "Max Visible Nodes",
+    "zh": "最大可见节点数"
+  },
+  "gui.logisticsnetworks.config.client.connectedNodeTextures": {
+    "en": "Connected Node Textures",
+    "zh": "已连接节点纹理"
+  },
+  "gui.logisticsnetworks.config.client.invertCopyPasteControls": {
+    "en": "Invert Copy/Paste Controls",
+    "zh": "反转复制/粘贴操作"
+  },
+  "gui.logisticsnetworks.config.client.theme": {
+    "en": "Theme",
+    "zh": "主题"
+  },
+  "gui.logisticsnetworks.config.client.computerClassicTheme": {
+    "en": "Classic computer terminal",
+    "zh": "经典计算机终端"
+  },
+  "gui.logisticsnetworks.config.upgrades.tier.none": {
+    "en": "No Upgrade",
+    "zh": "无升级"
+  },
+  "gui.logisticsnetworks.config.upgrades.tier.iron": {
+    "en": "Iron Tier",
+    "zh": "铁级"
+  },
+  "gui.logisticsnetworks.config.upgrades.tier.gold": {
+    "en": "Gold Tier",
+    "zh": "金级"
+  },
+  "gui.logisticsnetworks.config.upgrades.tier.diamond": {
+    "en": "Diamond Tier",
+    "zh": "钻石级"
+  },
+  "gui.logisticsnetworks.config.upgrades.tier.netherite": {
+    "en": "Netherite Tier",
+    "zh": "下界合金级"
+  },
+  "gui.logisticsnetworks.config.upgrades.minTicks": {
+    "en": "Min Ticks",
+    "zh": "最小刻间隔"
+  },
+  "gui.logisticsnetworks.config.upgrades.itemBatch": {
+    "en": "Item Batch",
+    "zh": "物品单次数量"
+  },
+  "gui.logisticsnetworks.config.upgrades.fluidBatch": {
+    "en": "Fluid Batch",
+    "zh": "流体单次数量"
+  },
+  "gui.logisticsnetworks.config.upgrades.energyBatch": {
+    "en": "Energy Batch",
+    "zh": "能量单次数量"
+  },
+  "gui.logisticsnetworks.config.upgrades.chemicalBatch": {
+    "en": "Chemical Batch",
+    "zh": "化学品单次数量"
+  },
+  "gui.logisticsnetworks.config.upgrades.sourceBatch": {
+    "en": "Source Batch",
+    "zh": "魔源单次数量"
+  },
+  "gui.logisticsnetworks.config.no_permission": {
+    "en": "You do not have permission to change this setting",
+    "zh": "你没有权限更改此设置"
+  },
+  "gui.logisticsnetworks.node.docs": {
+    "en": "Docs",
+    "zh": "文档"
+  },
+  "gui.logisticsnetworks.node.tweaks": {
+    "en": "Tweaks",
+    "zh": "界面调整"
+  },
+  "gui.logisticsnetworks.node.tweaks.theme": {
+    "en": "Theme",
+    "zh": "主题"
+  },
+  "gui.logisticsnetworks.theme.light": {
+    "en": "Light",
+    "zh": "浅色"
+  },
+  "gui.logisticsnetworks.theme.dark": {
+    "en": "Dark",
+    "zh": "深色"
+  },
+  "gui.logisticsnetworks.theme.redstone": {
+    "en": "Redstone",
+    "zh": "红石"
+  },
+  "gui.logisticsnetworks.theme.nebula": {
+    "en": "Nebula",
+    "zh": "星云"
+  },
+  "gui.logisticsnetworks.theme.glass": {
+    "en": "Glass",
+    "zh": "玻璃"
+  },
+  "gui.logisticsnetworks.theme.terminal": {
+    "en": "Terminal",
+    "zh": "终端"
+  },
+  "gui.logisticsnetworks.theme.pastel": {
+    "en": "Pastel",
+    "zh": "粉彩"
+  },
+  "gui.logisticsnetworks.theme.brutalist": {
+    "en": "Brutalist",
+    "zh": "粗野"
+  },
+  "gui.logisticsnetworks.filter.scan_storage": {
+    "en": "Scan attached storage",
+    "zh": "扫描连接的存储"
+  },
+  "gui.logisticsnetworks.filter.scan_storage.unavailable": {
+    "en": "Scan attached storage (standard node filters only)",
+    "zh": "扫描连接的存储 (仅标准节点过滤器)"
+  },
+  "gui.logisticsnetworks.graph.routes": {
+    "en": "%s routes",
+    "zh": "%s 条路线"
+  },
+  "gui.logisticsnetworks.graph.more_routes": {
+    "en": "...and %s more routes",
+    "zh": "...另有 %s 条路线"
+  },
+  "gui.logisticsnetworks.graph.open": {
+    "en": "Graph Editor",
+    "zh": "图编辑器"
+  },
+  "gui.logisticsnetworks.graph.description": {
+    "en": "Arrange and configure nodes",
+    "zh": "排列并配置节点"
+  },
+  "gui.logisticsnetworks.graph.title": {
+    "en": "Network Graph",
+    "zh": "网络图"
+  },
+  "gui.logisticsnetworks.graph.back": {
+    "en": "Back",
+    "zh": "返回"
+  },
+  "gui.logisticsnetworks.graph.fit": {
+    "en": "Fit",
+    "zh": "适应"
+  },
+  "gui.logisticsnetworks.graph.reset": {
+    "en": "Reset Layout",
+    "zh": "重置布局"
+  },
+  "gui.logisticsnetworks.graph.previous": {
+    "en": "Previous member",
+    "zh": "上一个成员"
+  },
+  "gui.logisticsnetworks.graph.next": {
+    "en": "Next member",
+    "zh": "下一个成员"
+  },
+  "gui.logisticsnetworks.graph.loading": {
+    "en": "Loading network...",
+    "zh": "正在加载网络..."
+  },
+  "gui.logisticsnetworks.graph.empty": {
+    "en": "No loaded nodes in this network.",
+    "zh": "此网络中没有已加载的节点."
+  },
+  "gui.logisticsnetworks.graph.hint": {
+    "en": "Click to edit / Ctrl-click to multi-select / Shift-drag to box select / Drag selection to move / Drag canvas to pan / Scroll to zoom",
+    "zh": "点击以编辑 / Ctrl 点击多选 / Shift 拖拽框选 / 拖动所选以移动 / 拖动画布以平移 / 滚轮缩放"
+  },
+  "gui.logisticsnetworks.graph.unloaded": {
+    "en": "%s unloaded",
+    "zh": "%s 未加载"
+  },
+  "gui.logisticsnetworks.graph.selected_member": {
+    "en": "Member %s / %s",
+    "zh": "成员 %s / %s"
+  },
+  "gui.logisticsnetworks.graph.individual": {
+    "en": "Settings affect this node.",
+    "zh": "设置仅影响此节点."
+  },
+  "gui.logisticsnetworks.graph.shared": {
+    "en": "Channels and filters are shared. Upgrades and assignments affect this member.",
+    "zh": "频道和过滤器共享.升级和分配影响此成员."
+  },
+  "gui.logisticsnetworks.graph.members": {
+    "en": "%s member(s)",
+    "zh": "%s 个成员"
+  },
+  "gui.logisticsnetworks.graph.member_detail": {
+    "en": "%s at %s, %s, %s (%s)",
+    "zh": "%s 位于 %s, %s, %s (%s)"
+  },
+  "gui.logisticsnetworks.graph.dimensional": {
+    "en": "Dimensional route",
+    "zh": "跨维度路线"
+  },
+  "gui.logisticsnetworks.graph.route": {
+    "en": "Channel %s: %s %s",
+    "zh": "频道 %s: %s %s"
+  },
+  "gui.logisticsnetworks.graph.more_members": {
+    "en": "...and %s more",
+    "zh": "...另有 %s 个"
+  },
+  "gui.logisticsnetworks.graph.channel.item": {
+    "en": "Items",
+    "zh": "物品"
+  },
+  "gui.logisticsnetworks.graph.channel.fluid": {
+    "en": "Fluids",
+    "zh": "流体"
+  },
+  "gui.logisticsnetworks.graph.channel.energy": {
+    "en": "Energy",
+    "zh": "能量"
+  },
+  "gui.logisticsnetworks.graph.channel.chemical": {
+    "en": "Chemicals",
+    "zh": "化学品"
+  },
+  "gui.logisticsnetworks.graph.channel.source": {
+    "en": "Source",
+    "zh": "魔源"
+  },
+  "gui.logisticsnetworks.graph.mode.import": {
+    "en": "Import",
+    "zh": "输入"
+  },
+  "gui.logisticsnetworks.graph.mode.export": {
+    "en": "Export",
+    "zh": "输出"
+  },
+  "gui.logisticsnetworks.network_graph": {
+    "en": "Network Graph",
+    "zh": "网络图"
+  },
+  "item.logisticsnetworks.tag_filter": {
+    "en": "Tag Filter",
+    "zh": "标签过滤器"
+  },
+  "item.logisticsnetworks.amount_filter": {
+    "en": "Amount Filter",
+    "zh": "数量过滤器"
+  },
+  "item.logisticsnetworks.durability_filter": {
+    "en": "Durability Filter",
+    "zh": "耐久过滤器"
+  },
+  "item.logisticsnetworks.nbt_filter": {
+    "en": "NBT Filter",
+    "zh": "NBT 过滤器"
+  },
+  "item.logisticsnetworks.slot_filter": {
+    "en": "Slot Filter",
+    "zh": "槽位过滤器"
+  },
+  "gui.logisticsnetworks.node.search": {
+    "en": "Search items…",
+    "zh": "搜索物品..."
+  },
+  "gui.logisticsnetworks.node.tweaks.density": {
+    "en": "Density",
+    "zh": "密度"
+  },
+  "gui.logisticsnetworks.node.tweaks.density.normal": {
+    "en": "Normal",
+    "zh": "普通"
+  },
+  "gui.logisticsnetworks.node.tweaks.density.compact": {
+    "en": "Compact",
+    "zh": "紧凑"
+  },
+  "gui.logisticsnetworks.config.client.density": {
+    "en": "Density",
+    "zh": "密度"
+  },
+  "gui.logisticsnetworks.node.storage_upgrades": {
+    "en": "Network Upgrades",
+    "zh": "网络升级"
+  },
+  "gui.logisticsnetworks.node.storage_upgrades.backend": {
+    "en": "%s Upgrades",
+    "zh": "%s 升级"
+  },
+  "gui.logisticsnetworks.node.storage_upgrades.loading": {
+    "en": "Loading...",
+    "zh": "正在加载..."
+  },
+  "gui.logisticsnetworks.node.storage_upgrades.empty": {
+    "en": "No upgrades available",
+    "zh": "没有可用升级"
+  },
+  "gui.logisticsnetworks.node.storage_upgrades.unavailable": {
+    "en": "Storage network unavailable",
+    "zh": "存储网络不可用"
+  },
+  "gui.logisticsnetworks.node.storage_upgrades.stored": {
+    "en": "%s stored",
+    "zh": "已存储 %s"
+  },
+  "gui.logisticsnetworks.node.storage_upgrades.craftable": {
+    "en": "Autocraftable",
+    "zh": "可自动合成"
+  },
+  "gui.logisticsnetworks.mass_placement.status_pending": {
+    "en": "Storage request queued",
+    "zh": "存储请求已排队"
+  },
+  "gui.logisticsnetworks.mass_placement.autocraft": {
+    "en": " + autocraft",
+    "zh": " + 自动合成"
+  },
+  "gui.logisticsnetworks.mass_placement.queued": {
+    "en": "Queued",
+    "zh": "已排队"
+  },
+  "gui.logisticsnetworks.node.back_to_table": {
+    "en": "Back to table",
+    "zh": "返回表格"
+  },
+  "gui.logisticsnetworks.computer.bulk_label": {
+    "en": "Label",
+    "zh": "标签"
+  },
+  "gui.logisticsnetworks.computer.apply_label": {
+    "en": "Apply",
+    "zh": "应用"
+  },
+  "gui.logisticsnetworks.computer.settings_source": {
+    "en": "Source: %s",
+    "zh": "来源: %s"
+  },
+  "gui.logisticsnetworks.computer.same_block": {
+    "en": "Same block",
+    "zh": "同一方块"
+  },
+  "gui.logisticsnetworks.wrench.modes.title": {
+    "en": "Wrench Modes",
+    "zh": "扳手模式"
+  },
+  "gui.logisticsnetworks.wrench.modes.active": {
+    "en": "Active",
+    "zh": "活动"
+  },
+  "gui.logisticsnetworks.wrench.modes.hint": {
+    "en": "Release %s to select · Escape to cancel",
+    "zh": "松开 %s 选择 · Esc 取消"
+  },
+  "gui.logisticsnetworks.node.network_search_hint": {
+    "en": "Search networks...",
+    "zh": "搜索网络..."
+  },
+  "gui.logisticsnetworks.node.network_create": {
+    "en": "Create",
+    "zh": "创建"
+  },
+  "gui.logisticsnetworks.node.confirm_network_creation": {
+    "en": "Confirm create network named %s",
+    "zh": "确认创建名为 %s 的网络"
+  },
+  "gui.logisticsnetworks.node.resource_rotation.hint": {
+    "en": "Round-robin resources",
+    "zh": "轮询资源"
+  },
+  "gui.logisticsnetworks.node.resource_rotation.hint.operation": {
+    "en": "Move one matching item or fluid type per operation.",
+    "zh": "每次操作移动一种匹配的物品或流体类型."
+  },
+  "gui.logisticsnetworks.node.resource_rotation.hint.blocked": {
+    "en": "Skip blocked types.",
+    "zh": "跳过被阻止的类型."
+  },
+  "gui.logisticsnetworks.node.resource_rotation.hint.settings": {
+    "en": "Batch, delay and receiver distribution still apply.",
+    "zh": "批量, 延迟和接收方分配仍然生效."
+  },
+  "gui.logisticsnetworks.node.storage_upgrades.craft": {
+    "en": "Craft",
+    "zh": "合成"
+  },
+  "gui.logisticsnetworks.filter.advanced_settings_hint": {
+    "en": "%s + click for advanced settings.",
+    "zh": "%s + 点击以打开高级设置."
+  },
+  "gui.logisticsnetworks.config.client.confirmNetworkCreation": {
+    "en": "Confirm Network Creation",
+    "zh": "确认网络创建"
+  },
+  "gui.logisticsnetworks.graph.selected_nodes": {
+    "en": "%s selected / Editing %s",
+    "zh": "已选 %s / 正在编辑 %s"
+  },
+  "gui.logisticsnetworks.graph.confirm.apply": {
+    "en": "Apply to %s",
+    "zh": "应用到 %s"
+  },
+  "gui.logisticsnetworks.graph.confirm.remove": {
+    "en": "Remove labels from %s selected nodes? They will become separate graph nodes.",
+    "zh": "移除 %s 个已选节点的标签? 它们将成为独立的图节点."
+  },
+  "gui.logisticsnetworks.graph.confirm.join": {
+    "en": "Label \"%s\" already exists. The %s selected nodes will join it and use its shared settings.",
+    "zh": "标签 \"%s\" 已存在.%s 个已选节点将加入它并使用其共享设置."
+  },
+  "gui.logisticsnetworks.graph.confirm.join_replace": {
+    "en": "Label \"%s\" already exists. The %s selected nodes will join it, use its shared settings, and leave their current label groups.",
+    "zh": "标签 \"%s\" 已存在.%s 个已选节点将加入它, 使用其共享设置, 并离开当前的标签组."
+  },
+  "gui.logisticsnetworks.graph.confirm.replace": {
+    "en": "Apply \"%s\" to %s selected nodes? %s labeled nodes will leave their current groups. The first selected node's settings will become shared.",
+    "zh": "将 \"%s\" 应用到 %s 个已选节点?%s 个带标签节点将离开当前组.第一个已选节点的设置将成为共享设置."
+  },
+  "gui.logisticsnetworks.filter.tag_picker.open": {
+    "en": "Select tags",
+    "zh": "选择标签"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.title": {
+    "en": "Choose a tag",
+    "zh": "选择一个标签"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.back": {
+    "en": "< Back",
+    "zh": "< 返回"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.help": {
+    "en": "Tags group similar things. Choose a group to match.",
+    "zh": "标签用于归类相似物品.选择一个分组进行匹配."
+  },
+  "gui.logisticsnetworks.filter.tag_picker.search": {
+    "en": "Search",
+    "zh": "搜索"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.search_hint.items": {
+    "en": "Group, item name or tag ID",
+    "zh": "分组, 物品名称或标签 ID"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.search_hint.fluids": {
+    "en": "Group, fluid name or tag ID",
+    "zh": "分组, 流体名称或标签 ID"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.search_hint.chemicals": {
+    "en": "Group, chemical name or tag ID",
+    "zh": "分组, 化学品名称或标签 ID"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.tag": {
+    "en": "Tag",
+    "zh": "标签"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.sort.name": {
+    "en": "Sort alphabetically. Click again to reverse.",
+    "zh": "按字母排序.再次点击可反向."
+  },
+  "gui.logisticsnetworks.filter.tag_picker.sort.count": {
+    "en": "Sort by count. Click again to reverse.",
+    "zh": "按数量排序.再次点击可反向."
+  },
+  "gui.logisticsnetworks.filter.tag_picker.examples": {
+    "en": "Examples",
+    "zh": "示例"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.column.items": {
+    "en": "Count",
+    "zh": "数量"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.column.fluids": {
+    "en": "Count",
+    "zh": "数量"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.column.chemicals": {
+    "en": "Count",
+    "zh": "数量"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.count.items": {
+    "en": "%s item types",
+    "zh": "%s 种物品"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.count.fluids": {
+    "en": "%s fluid types",
+    "zh": "%s 种流体"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.count.chemicals": {
+    "en": "%s chemical types",
+    "zh": "%s 种化学品"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.empty": {
+    "en": "No tags found. Try a name or a broader group.",
+    "zh": "未找到标签.试试名称或更宽泛的分组."
+  },
+  "gui.logisticsnetworks.filter.tag_picker.select": {
+    "en": "Select a row to preview its contents.",
+    "zh": "选择一行以预览其内容."
+  },
+  "gui.logisticsnetworks.filter.tag_picker.related": {
+    "en": "Contains the current item, fluid or chemical",
+    "zh": "包含当前物品, 流体或化学品"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.unavailable": {
+    "en": "This tag has no contents in this world.",
+    "zh": "此标签在世界中没有内容."
+  },
+  "gui.logisticsnetworks.filter.tag_picker.more": {
+    "en": ", and %s more",
+    "zh": ", 以及另外 %s 个"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.one_per_slot": {
+    "en": "One tag per slot",
+    "zh": "每槽一个标签"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.use": {
+    "en": "Use tag",
+    "zh": "使用标签"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.view_all.items": {
+    "en": "Left Control + Click to view all items",
+    "zh": "按住左 Ctrl 点击以查看所有物品"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.view_all.fluids": {
+    "en": "Left Control + Click to view all fluids",
+    "zh": "按住左 Ctrl 点击以查看所有流体"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.view_all.chemicals": {
+    "en": "Left Control + Click to view all chemicals",
+    "zh": "按住左 Ctrl 点击以查看所有化学品"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.contents.search.items": {
+    "en": "Item name or ID",
+    "zh": "物品名称或 ID"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.contents.search.fluids": {
+    "en": "Fluid name or ID",
+    "zh": "流体名称或 ID"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.contents.search.chemicals": {
+    "en": "Chemical name or ID",
+    "zh": "化学品名称或 ID"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.contents.matches": {
+    "en": "Matches: %s / %s",
+    "zh": "匹配: %s / %s"
+  },
+  "gui.logisticsnetworks.filter.tag_picker.contents.empty": {
+    "en": "No matches found.",
+    "zh": "未找到匹配项."
+  },
+  "gui.logisticsnetworks.computer.delete_tooltip": {
+    "en": "Delete network",
+    "zh": "删除网络"
+  },
+  "gui.logisticsnetworks.computer.delete_title": {
+    "en": "Delete network?",
+    "zh": "删除网络?"
+  },
+  "gui.logisticsnetworks.computer.delete_warning": {
+    "en": "Delete \"%s\" and its %s registered nodes? Node items and installed upgrades will be placed in your inventory. Anything that does not fit will be dropped at your feet. This cannot be undone.",
+    "zh": "删除 \"%s\" 及其 %s 个已注册节点?节点物品和已安装的升级将放入你的物品栏.放不下的将掉落在你脚边.此操作无法撤销."
+  },
+  "gui.logisticsnetworks.computer.delete_confirm": {
+    "en": "Delete",
+    "zh": "删除"
+  }
+}

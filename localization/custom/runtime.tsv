@@ -1,0 +1,34 @@
+Shops are not ready yet - move around for a second and retry	商店尚未就绪, 请稍微走动后重试
+Unknown shop id: %s	未知商店 ID: %s
+Spawned %s	已生成 %s
+Removed all shopkeepers in this dimension - they respawn on next visit once their cooldown passes (use /shops reset to force)	已移除此维度的全部商人. 冷却结束后再次到访时会重新生成(使用 /shops reset 强制重置)
+Cleared placement ledger and broker greeting flags	已清除放置记录和经纪人问候标记
+[here] detect setup error: %s	[here] 检测初始化错误: %s
+[here] getAllStructuresAt error: %s	[here] getAllStructuresAt 错误: %s
+%s (no keeper)	%s (无商人)
+[here] no structures at your position	[here] 你的位置没有结构
+[here] detected:	[here] 检测到:
+Frog and Squids	青蛙与鱿鱼
+Treasure Goblin	藏宝地精
+Fairy Event	精灵
+Apotheosis Boss Event	神化首领
+Wandering Trader	流浪商人
+Creeper	苦力怕
+Gunslinger Duel	神枪手决斗
+Phantom Bomber Event	幻翼轰炸
+Goat	山羊
+Allay Trade Event	悦灵交易
+Total Events Triggered: %s	事件触发总数: %s
+Total %s Events Failed: %s	%s 事件失败总数: %s
+Total %s Events Succeeded: %s	%s 事件成功总数: %s
+state: %s	状态: %s
+attempts: %s	尝试次数: %s
+claimed: %s	已认领: %s
+verifies: %s	验证通过: %s
+origin: %s %s %s	原点: %s %s %s
+Adamantite Capacitor	精金电容
+Aeternium Capacitor	永恒金属电容
+Aurichalcum Capacitor	奥利哈刚电容
+Bio Resin	生物树脂
+Bio Resin	生物树脂
+Bio Resin Bucket	生物树脂桶

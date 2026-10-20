@@ -1,0 +1,10 @@
+{
+  "text.puffish_skills.buy_point": "购买点数",
+  "tooltip.puffish_skills.cost": "消耗: %s",
+  "command.puffish_skills.no_level": "ID 为 %s 的分类未启用等级",
+  "command.puffish_skills.level.add.success.single": "已添加 %s 级到分类 %s, 归属 %s",
+  "command.puffish_skills.level.add.success.multiple": "已添加 %s 级到分类 %s, 归属 %s 名玩家",
+  "command.puffish_skills.level.set.success.single": "已将等级设为 %s, 分类 %s, 归属 %s",
+  "command.puffish_skills.level.set.success.multiple": "已将等级设为 %s, 分类 %s, 归属 %s 名玩家",
+  "command.puffish_skills.level.get.success": "%3$s 拥有 %1$s 级, 分类为 %2$s"
+}

@@ -1,0 +1,11 @@
+{
+  "decision_units": 714,
+  "accepted_documents": 205,
+  "accepted_patchouli_fields": 508,
+  "rejected_documents": 1,
+  "reviewed_structure_exceptions": 4,
+  "patchouli_fields_with_exact_exceptions": 5,
+  "target_sources_fresh": true,
+  "unique_decisions": true,
+  "game_tested": false
+}

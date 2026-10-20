@@ -1,0 +1,425 @@
+{
+  "totals": {
+    "files": 51,
+    "keys": 4178,
+    "segments": 8181,
+    "translated": 8181,
+    "complete": 51,
+    "installed": 51
+  },
+  "files": [
+    {
+      "file": "chapter.json5",
+      "keys": 42,
+      "segments": 42,
+      "translated": 42,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapter_group.json5",
+      "keys": 5,
+      "segments": 5,
+      "translated": 5,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/anima.json5",
+      "keys": 84,
+      "segments": 185,
+      "translated": 185,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/ars_magica.json5",
+      "keys": 76,
+      "segments": 176,
+      "translated": 176,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/auroral.json5",
+      "keys": 45,
+      "segments": 117,
+      "translated": 117,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/backstage.json5",
+      "keys": 1,
+      "segments": 1,
+      "translated": 1,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/bounty_board.json5",
+      "keys": 75,
+      "segments": 82,
+      "translated": 82,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/building_and_decoration.json5",
+      "keys": 67,
+      "segments": 86,
+      "translated": 86,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/chapter2.json5",
+      "keys": 29,
+      "segments": 29,
+      "translated": 29,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/colossal_reactors.json5",
+      "keys": 16,
+      "segments": 36,
+      "translated": 36,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/cooking_and_brewing.json5",
+      "keys": 137,
+      "segments": 283,
+      "translated": 283,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/enderio.json5",
+      "keys": 53,
+      "segments": 90,
+      "translated": 90,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/energized_power.json5",
+      "keys": 100,
+      "segments": 168,
+      "translated": 168,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/evilcraft.json5",
+      "keys": 51,
+      "segments": 83,
+      "translated": 83,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/exploration.json5",
+      "keys": 137,
+      "segments": 210,
+      "translated": 210,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/gearing_up.json5",
+      "keys": 199,
+      "segments": 459,
+      "translated": 459,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/general_storage.json5",
+      "keys": 334,
+      "segments": 565,
+      "translated": 565,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/getting_started.json5",
+      "keys": 64,
+      "segments": 241,
+      "translated": 241,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/hephaestus.json5",
+      "keys": 46,
+      "segments": 181,
+      "translated": 181,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/hostile_networks.json5",
+      "keys": 22,
+      "segments": 50,
+      "translated": 50,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/ice_and_fire.json5",
+      "keys": 114,
+      "segments": 189,
+      "translated": 189,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/industrial_contraptions.json5",
+      "keys": 66,
+      "segments": 143,
+      "translated": 143,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/integrated_dynamics.json5",
+      "keys": 86,
+      "segments": 206,
+      "translated": 206,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/just_dire_things.json5",
+      "keys": 122,
+      "segments": 203,
+      "translated": 203,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/logistics.json5",
+      "keys": 156,
+      "segments": 329,
+      "translated": 329,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/ltx_industries.json5",
+      "keys": 93,
+      "segments": 204,
+      "translated": 204,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/mffs.json5",
+      "keys": 46,
+      "segments": 60,
+      "translated": 60,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/nautec.json5",
+      "keys": 313,
+      "segments": 839,
+      "translated": 839,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/neo_vitae.json5",
+      "keys": 146,
+      "segments": 262,
+      "translated": 262,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/occultism.json5",
+      "keys": 185,
+      "segments": 423,
+      "translated": 423,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/oritech.json5",
+      "keys": 123,
+      "segments": 224,
+      "translated": 224,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/powah.json5",
+      "keys": 55,
+      "segments": 98,
+      "translated": 98,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/power.json5",
+      "keys": 63,
+      "segments": 137,
+      "translated": 137,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/productive_farming.json5",
+      "keys": 19,
+      "segments": 33,
+      "translated": 33,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/progression_tiers.json5",
+      "keys": 34,
+      "segments": 37,
+      "translated": 37,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/pyramid_challenge.json5",
+      "keys": 100,
+      "segments": 137,
+      "translated": 137,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/reliquary.json5",
+      "keys": 36,
+      "segments": 76,
+      "translated": 76,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/replication.json5",
+      "keys": 35,
+      "segments": 63,
+      "translated": 63,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/resonance.json5",
+      "keys": 36,
+      "segments": 68,
+      "translated": 68,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/resource_generation.json5",
+      "keys": 282,
+      "segments": 506,
+      "translated": 506,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/rootsclassic.json5",
+      "keys": 42,
+      "segments": 83,
+      "translated": 83,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/stellaris.json5",
+      "keys": 103,
+      "segments": 200,
+      "translated": 200,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/tips_and_tricks.json5",
+      "keys": 52,
+      "segments": 124,
+      "translated": 124,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/utilities.json5",
+      "keys": 51,
+      "segments": 90,
+      "translated": 90,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/welcome.json5",
+      "keys": 18,
+      "segments": 58,
+      "translated": 58,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/witchery.json5",
+      "keys": 105,
+      "segments": 229,
+      "translated": 229,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "chapters/xycraft.json5",
+      "keys": 24,
+      "segments": 55,
+      "translated": 55,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "file.json5",
+      "keys": 1,
+      "segments": 1,
+      "translated": 1,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "image.json5",
+      "keys": 7,
+      "segments": 7,
+      "translated": 7,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "reward.json5",
+      "keys": 47,
+      "segments": 8,
+      "translated": 8,
+      "complete": true,
+      "installed": true
+    },
+    {
+      "file": "reward_table.json5",
+      "keys": 35,
+      "segments": 0,
+      "translated": 0,
+      "complete": true,
+      "installed": true
+    }
+  ],
+  "visible_chapters": {
+    "complete": 42,
+    "total": 42
+  },
+  "installed_keys": 4178
+}

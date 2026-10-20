@@ -1,0 +1,9 @@
+/name	没收模块
+/pages/0/text	$(5)没收模块$()是$(l:mffs:machines/interdiction_matrix)拦截矩阵$()的可选模块, 赋予矩阵自动收走玩家物品的能力.只要玩家处于拦截矩阵的作用区域内, 矩阵就会扫描其物品栏并查获一切违禁物品.无论物品是被携带, 穿戴还是放在背包里, 一律适用.
+/pages/1/text	合成$(5)没收模块$().
+/pages/2/title	过滤模式
+/pages/2/text	过滤模式设置与$(l:mffs:machines/interdiction_matrix)拦截矩阵$()界面底部排列的 9 个槽位共同决定模块的行为.过滤模式有两种状态: 禁止 (默认) 与允许.$(br2)没收的物品会被收集到与$(l:mffs:machines/interdiction_matrix)拦截矩阵$()相邻的容器中.
+/pages/3/title	禁止
+/pages/3/text	当开关显示为"禁止"时, $(l:mffs:machines/interdiction_matrix)拦截矩阵$()把 9 个 (红色) 槽位视为必须没收的违禁物品清单.只有这些物品会被查获, 玩家可以保留其余物品.若 9 个槽位全空, 矩阵将没收玩家的一切物品.
+/pages/4/title	允许
+/pages/4/text	若开关显示为"允许", 矩阵把 9 个 (绿色) 槽位视为玩家可以保留的物品清单, 其余物品一律没收.当 9 个槽位全空时, $(l:mffs:machines/interdiction_matrix)拦截矩阵$()默认一切物品都被允许, 不会没收任何东西.

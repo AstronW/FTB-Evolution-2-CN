@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "106",
+  "namespace": "ftbbackups3",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "02554217fc3b4d14a1f187fd21fb9ec0e9386cb3134e33e26b20f8f2bf1e75ef",
+  "in_game_tested": false
+}

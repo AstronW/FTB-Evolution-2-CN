@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "099",
+  "namespace": "ftbechoes",
+  "source_keys": 58,
+  "unique_values": 56,
+  "chinese_values": 58,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 58,
+  "source_sha256": "2d0fce888adbf1689a90724f67164316b163730eccf38fca16b5bc0eb1c9334f",
+  "in_game_tested": false
+}

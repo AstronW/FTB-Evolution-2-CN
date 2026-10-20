@@ -1,0 +1,17 @@
+{
+  "batch": "265",
+  "namespace": "titanium",
+  "jar": ".minecraft/mods/titanium-26.1.2-4.0.12.jar",
+  "language_path": "assets/titanium/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/titanium/lang/zh_cn.json",
+  "include_keys": [
+    "block.titanium.block_test",
+    "block.titanium.block_twenty_four_test",
+    "block.titanium.machine_test",
+    "tooltip.titanium.sec_short"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "s"
+  ]
+}

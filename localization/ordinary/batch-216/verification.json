@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "216",
+  "namespace": "moogs_structures",
+  "source_keys": 14,
+  "unique_values": 14,
+  "chinese_values": 12,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 14,
+  "source_sha256": "2d41a9b7b9ad19339e295c4d3557b656f991c22150349ebd99f6ebe90a8ce180",
+  "in_game_tested": false
+}

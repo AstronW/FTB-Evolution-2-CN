@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "065",
+  "namespace": "pipe_connector",
+  "source_keys": 36,
+  "unique_values": 34,
+  "chinese_values": 36,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 36,
+  "source_sha256": "709386810389efc7f7b190e1bb36a55502a83b52da89eee353ff8166cbd273b7",
+  "in_game_tested": false
+}

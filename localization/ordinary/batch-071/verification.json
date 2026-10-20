@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "071",
+  "namespace": "ae2",
+  "source_keys": 9,
+  "unique_values": 9,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 7,
+  "installed_overlay_keys": 9,
+  "source_sha256": "114dc2a326c16d61525d9cab61b08477ca0479828ba1666c360c4e1db9bcd47f",
+  "in_game_tested": false
+}

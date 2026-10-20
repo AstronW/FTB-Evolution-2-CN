@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "086",
+  "namespace": "extendedae",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 2,
+  "source_sha256": "e179f160074aa4d920d915ae407361f52a95f2488879a521c6f2215916361915",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "158",
+  "namespace": "resonance",
+  "source_keys": 147,
+  "unique_values": 130,
+  "chinese_values": 147,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 147,
+  "source_sha256": "223dde59076b75d7418dc2db2f331d905daf64687774f89c3eff1ca13cc3ca28",
+  "in_game_tested": false
+}

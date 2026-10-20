@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "012",
+  "namespace": "apothic_compats",
+  "source_keys": 823,
+  "unique_values": 269,
+  "chinese_values": 823,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 823,
+  "source_sha256": "e0639b6c56d7dd1ed9a69ea17f178798c2979d752bed6eccbd602fd9bc33454f",
+  "in_game_tested": false
+}

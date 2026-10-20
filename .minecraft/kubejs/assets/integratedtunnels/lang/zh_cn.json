@@ -1,0 +1,21 @@
+{
+  "gui.integratedtunnels.partsettings.channel.interface.pasted": "接口频道",
+  "aspect.aspecttypes.integratedtunnels.boolean.item.predicateslotbased": "按槽位",
+  "aspect.aspecttypes.integratedtunnels.boolean.item.predicateslotbased.info": "谓词是否按槽位逐一检查, 而非无视槽位按堆叠物品检查.",
+  "aspect.aspecttypes.integratedtunnels.boolean.fluid.predicateslotbased": "按槽位",
+  "aspect.aspecttypes.integratedtunnels.boolean.fluid.predicateslotbased.info": "谓词是否按槽位逐一检查, 而非无视槽位按堆叠流体检查.",
+  "aspect.aspecttypes.integratedtunnels.boolean.world.matchblock": "匹配方块",
+  "aspect.aspecttypes.integratedtunnels.boolean.world.matchblock.info": "匹配方块的物品形式, 而非掉落物.",
+  "aspect.aspecttypes.integratedtunnels.integer.player.rightclickduration": "右击持续时间",
+  "aspect.aspecttypes.integratedtunnels.integer.player.rightclickduration.info": "右击保持的刻数.",
+  "aspect.aspecttypes.integratedtunnels.boolean.player.networkinventory": "网络物品栏",
+  "aspect.aspecttypes.integratedtunnels.boolean.player.networkinventory.info": "网络是否可作为玩家物品栏使用.",
+  "aspect.aspecttypes.integratedtunnels.boolean.passiveioignorefilter": "被动交互忽略过滤器",
+  "aspect.aspecttypes.integratedtunnels.boolean.passiveioignorefilter.info": "是否允许任意物品始终可输入网络或从网络输出.",
+  "aspect.integratedtunnels.write.integer.world.entity.item.slot.export": "将物品槽位输出到实体",
+  "aspect.integratedtunnels.write.integer.world.entity.item.slot.export.info": "将物品输出到所对实体的指定槽位.-1 为任意槽位, -2 及以下为无槽位.",
+  "aspect.integratedtunnels.write.long.world.entity.energy.export.info": "每刻向所对实体输出指定数量的能量.",
+  "aspect.integratedtunnels.write.integer.world.entity.item.slot.import": "从实体输入物品槽位",
+  "aspect.integratedtunnels.write.integer.world.entity.item.slot.import.info": "从所对实体的指定槽位输入物品.-1 为任意槽位, -2 及以下为无槽位.",
+  "info_book.integratedtunnels.concepts.text9": "请注意, 如果安装了&l集成合成&r这类自动合成模组, 你就可以在输出器中使用&o合成&r设置.这样, 若某种材料无法输出, 它会先被自动合成."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "熊猫",
+  "icon": "minecraft:panda_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:panda",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:panda_food",
+      "text": "用竹子喂熊猫进行繁殖, 增加围栏里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死熊猫并掉落其战利品."
+    }
+  ]
+}

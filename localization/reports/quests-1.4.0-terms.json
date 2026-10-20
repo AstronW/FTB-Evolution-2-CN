@@ -1,0 +1,201 @@
+{
+  "target_version": "1.4.0",
+  "official_jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Replication-26.1.2-1.2.7.jar",
+  "official_jar_sha256": "95f578c4bff4185ce5131291fb1e9ba3df50ad056ab4eb00a0722f67e7345a4e",
+  "cfpa_commit": "719672954d9df4ea51877e3d5ce2912148273682",
+  "cfpa_path": "CFPA/projects/assets/replication/1.21/replication/lang/zh_cn.json",
+  "cfpa_source_version": "1.21",
+  "target_minecraft": "26.1.2",
+  "pr_lookup": "Public searches attempted for Replication and Witchery; filtered GitHub PR pages unavailable. No PR translations adopted; this is not an exhaustive PR audit.",
+  "terms": {
+    "block.replication.chip_storage": {
+      "en": "Chip Storage",
+      "official_zh": "芯片仓",
+      "cfpa_zh": "芯片存储器",
+      "selected": "芯片仓",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "block.replication.deepslate_replica_ore": {
+      "en": "Deepslate Replica Ore",
+      "official_zh": "深层复制物质矿石",
+      "cfpa_zh": "深层复制物质矿石",
+      "selected": "深层复制物质矿石",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "block.replication.disintegrator": {
+      "en": "Disintegrator",
+      "official_zh": "分解器",
+      "cfpa_zh": "分解器",
+      "selected": "分解器",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "block.replication.identification_chamber": {
+      "en": "Identification Chamber",
+      "official_zh": "鉴定室",
+      "cfpa_zh": "鉴定室",
+      "selected": "鉴定室",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "block.replication.matter_network_pipe": {
+      "en": "Matter Network Pipe",
+      "official_zh": "物质网络管道",
+      "cfpa_zh": "物质网络管道",
+      "selected": "物质网络管道",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "block.replication.matter_tank": {
+      "en": "Matter Tank",
+      "official_zh": "物质储罐",
+      "cfpa_zh": "物质储罐",
+      "selected": "物质储罐",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "block.replication.raw_replica_block": {
+      "en": "Raw Replica Block",
+      "official_zh": "粗复制物质块",
+      "cfpa_zh": "粗复制物质块",
+      "selected": "粗复制物质块",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "block.replication.replica_block": {
+      "en": "Replica Block",
+      "official_zh": "复制物质块",
+      "cfpa_zh": "复制物质块",
+      "selected": "复制物质块",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "block.replication.replication_terminal": {
+      "en": "Replication Terminal",
+      "official_zh": "复制终端",
+      "cfpa_zh": "复制终端",
+      "selected": "复制终端",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "block.replication.replicator": {
+      "en": "Replicator",
+      "official_zh": "复制器",
+      "cfpa_zh": "复制器",
+      "selected": "复制器",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "item.replication.creative_memory_chip": {
+      "en": "Creative Memory Chip",
+      "official_zh": "创造模式内存芯片",
+      "cfpa_zh": "创造模式存储芯片",
+      "selected": "创造模式内存芯片",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "item.replication.matter_blueprint": {
+      "en": "Matter Blueprint",
+      "official_zh": "物质蓝图",
+      "cfpa_zh": "物质蓝图",
+      "selected": "物质蓝图",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "item.replication.memory_chip": {
+      "en": "Memory Chip",
+      "official_zh": "内存芯片",
+      "cfpa_zh": "存储芯片",
+      "selected": "内存芯片",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "item.replication.raw_replica": {
+      "en": "Raw Replica",
+      "official_zh": "粗复制物质",
+      "cfpa_zh": "粗复制物质",
+      "selected": "粗复制物质",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "item.replication.replica_ingot": {
+      "en": "Replica Ingot",
+      "official_zh": "复制物质锭",
+      "cfpa_zh": "复制物质锭",
+      "selected": "复制物质锭",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "item.replication.replicator_enclosure": {
+      "en": "Replicator Enclosure",
+      "official_zh": "复制器外罩",
+      "cfpa_zh": "复制器外罩",
+      "selected": "复制器外罩",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "item.replication.replicator_motor": {
+      "en": "Replicator Motor",
+      "official_zh": "复制器马达",
+      "cfpa_zh": "复制器马达",
+      "selected": "复制器马达",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matter_type.earth": {
+      "en": "Earth",
+      "official_zh": "大地",
+      "cfpa_zh": "大地",
+      "selected": "大地",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matter_type.empty": {
+      "en": "Empty",
+      "official_zh": "空",
+      "cfpa_zh": "空",
+      "selected": "空",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matter_type.ender": {
+      "en": "Ender",
+      "official_zh": "末影",
+      "cfpa_zh": "末影",
+      "selected": "末影",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matter_type.living": {
+      "en": "Living",
+      "official_zh": "生命",
+      "cfpa_zh": "活体",
+      "selected": "生命",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matter_type.metallic": {
+      "en": "Metallic",
+      "official_zh": "金属",
+      "cfpa_zh": "金属",
+      "selected": "金属",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matter_type.nether": {
+      "en": "Nether",
+      "official_zh": "下界",
+      "cfpa_zh": "下界",
+      "selected": "下界",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matter_type.organic": {
+      "en": "Organic",
+      "official_zh": "有机",
+      "cfpa_zh": "有机",
+      "selected": "有机",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matter_type.precious": {
+      "en": "Precious",
+      "official_zh": "珍宝",
+      "cfpa_zh": "珍稀",
+      "selected": "珍宝",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matter_type.quantum": {
+      "en": "Quantum",
+      "official_zh": "量子",
+      "cfpa_zh": "量子",
+      "selected": "量子",
+      "reason": "Matches the current installed mod terminology and meaning; retain the current UI name."
+    },
+    "replication.matteropedia": {
+      "en": "MatterOpedia",
+      "official_zh": "万物源典",
+      "cfpa_zh": "物质百科",
+      "selected": "物质百科",
+      "reason": "CFPA describes the searchable matter-value reference more directly; local UI override keeps quest and game labels aligned."
+    }
+  }
+}

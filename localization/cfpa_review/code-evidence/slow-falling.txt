@@ -1,0 +1,32 @@
+Compiled from "SlowFallingAugment.java"
+public class com.blakebr0.mysticalagriculture.augment.SlowFallingAugment extends com.blakebr0.mysticalagriculture.api.tinkering.Augment {
+  public com.blakebr0.mysticalagriculture.augment.SlowFallingAugment(net.minecraft.resources.Identifier, int);
+    Code:
+         0: aload_0
+         1: aload_1
+         2: iload_2
+         3: getstatic     #1                  // Field com/blakebr0/mysticalagriculture/api/tinkering/AugmentType.BOOTS:Lcom/blakebr0/mysticalagriculture/api/tinkering/AugmentType;
+         6: invokestatic  #7                  // Method java/util/EnumSet.of:(Ljava/lang/Enum;)Ljava/util/EnumSet;
+         9: ldc           #13                 // int 16773073
+        11: ldc           #14                 // int 10851706
+        13: invokespecial #15                 // Method com/blakebr0/mysticalagriculture/api/tinkering/Augment."<init>":(Lnet/minecraft/resources/Identifier;ILjava/util/EnumSet;II)V
+        16: return
+
+  public void onArmorTick(net.minecraft.world.item.ItemStack, net.minecraft.server.level.ServerLevel, net.minecraft.world.entity.player.Player);
+    Code:
+         0: aload_3
+         1: invokevirtual #21                 // Method net/minecraft/world/entity/player/Player.isShiftKeyDown:()Z
+         4: ifne          26
+         7: aload_3
+         8: new           #27                 // class net/minecraft/world/effect/MobEffectInstance
+        11: dup
+        12: getstatic     #29                 // Field net/minecraft/world/effect/MobEffects.SLOW_FALLING:Lnet/minecraft/core/Holder;
+        15: iconst_1
+        16: iconst_0
+        17: iconst_1
+        18: iconst_0
+        19: invokespecial #35                 // Method net/minecraft/world/effect/MobEffectInstance."<init>":(Lnet/minecraft/core/Holder;IIZZ)V
+        22: invokevirtual #38                 // Method net/minecraft/world/entity/player/Player.addEffect:(Lnet/minecraft/world/effect/MobEffectInstance;)Z
+        25: pop
+        26: return
+}

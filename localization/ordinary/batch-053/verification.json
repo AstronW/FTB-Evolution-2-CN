@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "053",
+  "namespace": "mtr",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 7,
+  "installed_overlay_keys": 7,
+  "source_sha256": "ffe097b34a7a1e6f058cdfb1bf7bc9ca6f23fc6d21d044991ee1ef0a0dda91c4",
+  "in_game_tested": false
+}

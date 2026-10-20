@@ -1,0 +1,21 @@
+{
+  "collapsible_groups.category.ae2": "应用能源2",
+  "collapsible_groups.category.apotheosis": "神化",
+  "collapsible_groups.category.enderio": "末影接口",
+  "collapsible_groups.category.generic": "通用",
+  "collapsible_groups.category.productivebees": "资源蜜蜂",
+  "collapsible_groups.category.refinedstorage2": "精致存储",
+  "collapsible_groups.category.vanilla": "原版",
+  "collapsible_groups.group.__default_productivebees_attribute_genes": "资源蜜蜂: 属性基因",
+  "collapsible_groups.group.__default_productivebees_bee_spawn_eggs": "资源蜜蜂: 蜜蜂刷怪蛋",
+  "collapsible_groups.group.__default_productivebees_beehives": "资源蜜蜂: 蜂箱",
+  "collapsible_groups.group.__default_productivebees_bees": "资源蜜蜂: 蜜蜂实体",
+  "collapsible_groups.group.__default_productivebees_canvas_beehives": "资源蜜蜂: 帆布蜂箱",
+  "collapsible_groups.group.__default_productivebees_canvas_expansion_boxes": "资源蜜蜂: 帆布扩容盒",
+  "collapsible_groups.group.__default_productivebees_comb_blocks": "资源蜜蜂: 蜂巢块",
+  "collapsible_groups.group.__default_productivebees_expansion_boxes": "资源蜜蜂: 扩容盒",
+  "collapsible_groups.group.__default_productivebees_honeycombs": "资源蜜蜂: 蜜脾",
+  "collapsible_groups.group.__default_productivebees_nests": "资源蜜蜂: 蜂巢",
+  "collapsible_groups.group.__default_productivebees_petrified_honey": "资源蜜蜂: 石化蜂蜜",
+  "collapsible_groups.group.__default_productivebees_type_genes": "资源蜜蜂: 类型基因"
+}

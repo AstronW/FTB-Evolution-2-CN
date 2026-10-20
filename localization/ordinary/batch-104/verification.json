@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "104",
+  "namespace": "ftbpromoter",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 3,
+  "source_sha256": "63a4ce5e911069fef47fddb2fc67aaeb52f01aa253d9aff3b48716d663425311",
+  "in_game_tested": false
+}

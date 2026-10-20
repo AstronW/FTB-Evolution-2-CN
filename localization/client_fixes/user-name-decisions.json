@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-18",
+  "authority": "Direct user terminology decision in this chat",
+  "names": {
+    "refinedstorage": "精致存储",
+    "refinedtypes": "精致存储: 类型扩展",
+    "refinedcooking": "精致厨房",
+    "refinedstorage_quartz_arsenal": "精致存储 - 无线合成",
+    "neosync": "新克隆",
+    "animal_pen": "动物围栏",
+    "authme": "Auth Me"
+  },
+  "reason": "Latest user decision: Quartz Arsenal is 无线合成, matching mod content. Refined Storage remains 精致存储; Auth Me stays English; NeoSync is 新克隆; Animal Pen is 动物围栏.",
+  "superseded_decisions": [
+    {
+      "mod_id": "refinedstorage_quartz_arsenal",
+      "previous": "精致存储 - Quartz Arsenal",
+      "reason": "Earlier user request retained English; latest user explicitly confirms 无线合成 matches mod content and supersedes it."
+    }
+  ]
+}

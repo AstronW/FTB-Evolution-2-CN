@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "285",
+  "namespace": "guideme",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "e79f58c75cbb760ca14f0ae11a389f6e3c0ffad1e67f47ac03f680cab37a3a17",
+  "in_game_tested": false
+}

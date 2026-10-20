@@ -1,0 +1,16 @@
+{
+  "3": "  title: 已移除的发电机",
+  "8": "  # <Color id=\"light_purple\">已移除的发电机</Color>",
+  "20": "  ## <Color id=\"gold\">发电机</Color>",
+  "25": "| 发电机 | 改动内容 |",
+  "27": "| <ItemImage id=\"energizedpower:coal_engine\"/> 燃煤引擎 | 已移除.原本需要它的配方改用基础机器框架. |",
+  "28": "| <ItemImage id=\"ironfurnaces:augment_generator\"/> 发电增强 | 配方已移除,无法再通过合成为熔炉添加发电功能.唯一来源是赌徒出售的熔炉袋战利品箱. |",
+  "29": "| <ItemImage id=\"justdynathings:ferricore_solar_panel\"/> Just Dyna Things太阳能板 | 核源铁,烈焰金,苍穹晶和蚀空合金四个等级全部移除. |",
+  "30": "| <ItemImage id=\"powah:reactor_starter\"/> Powah初级和基础级反应堆 | 已移除.反应堆从硬化级起步,使用独立配方. |",
+  "31": "| Powah初级和基础级热力发电机 | 已移除.热力发电机从硬化级起步,配方以岩浆块替代基础级设备. |",
+  "32": "| <ItemImage id=\"colossal_reactors:red_cake\"/> 红饼 | 不再能用作Colossal Reactors燃料. |",
+  "43": "  ## <Color id=\"gold\">群星油藏</Color>",
+  "12": "  以下设备已无法合成,其中大多数也已在JEI中隐藏.",
+  "36": "> <Color id=\"yellow\">已有的Powah初级和基础级反应堆,热力发电机仅产生1 FE/t.</Color>",
+  "48": "群星不再在随机区块地下隐藏石油.石油来自奥瑞科技油井和油湖,统一为奥瑞科技原油.详见[其他模组](other_mods.md)."
+}

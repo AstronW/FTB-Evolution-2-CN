@@ -1,0 +1,12 @@
+{
+  "mod.interdimensional_wireless_transmitter": "跨维度无线传输器",
+  "block.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "跨维度无线传输器",
+  "gui.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.distance": "无限范围",
+  "item.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.help": "为无线网格等物品提供无线网络接入.具有无限范围并可跨维度.",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter": "跨维度无线传输器",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.tooltip": "跨维度无线传输器的配置.",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage": "能量消耗",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage.tooltip": "跨维度无线传输器的能量消耗.",
+  "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "跨维度 >>能量<<",
+  "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.description": "使用跨维度无线传输器以无限范围跨维度传输网络信号"
+}

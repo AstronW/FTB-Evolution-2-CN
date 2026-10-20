@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "115",
+  "namespace": "oracle_index",
+  "source_keys": 45,
+  "unique_values": 42,
+  "chinese_values": 41,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 45,
+  "source_sha256": "7adeb85c1e2ddcb5cede77b7302eded52519ea99bf32dd8d981beba18368d48a",
+  "in_game_tested": false
+}

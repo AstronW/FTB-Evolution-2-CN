@@ -1,0 +1,138 @@
+{
+  "ftb.custom.shops.not_ready": {
+    "en": "Shops are not ready yet - move around for a second and retry",
+    "zh": "商店尚未就绪, 请稍微走动后重试"
+  },
+  "ftb.custom.shops.unknown": {
+    "en": "Unknown shop id: %s",
+    "zh": "未知商店 ID: %s"
+  },
+  "ftb.custom.shops.spawned": {
+    "en": "Spawned %s",
+    "zh": "已生成 %s"
+  },
+  "ftb.custom.shops.cleared": {
+    "en": "Removed all shopkeepers in this dimension - they respawn on next visit once their cooldown passes (use /shops reset to force)",
+    "zh": "已移除此维度的全部商人. 冷却结束后再次到访时会重新生成(使用 /shops reset 强制重置)"
+  },
+  "ftb.custom.shops.reset": {
+    "en": "Cleared placement ledger and broker greeting flags",
+    "zh": "已清除放置记录和经纪人问候标记"
+  },
+  "ftb.custom.shops.setup_error": {
+    "en": "[here] detect setup error: %s",
+    "zh": "[here] 检测初始化错误: %s"
+  },
+  "ftb.custom.shops.structures_error": {
+    "en": "[here] getAllStructuresAt error: %s",
+    "zh": "[here] getAllStructuresAt 错误: %s"
+  },
+  "ftb.custom.shops.no_keeper": {
+    "en": "%s (no keeper)",
+    "zh": "%s (无商人)"
+  },
+  "ftb.custom.shops.no_structures": {
+    "en": "[here] no structures at your position",
+    "zh": "[here] 你的位置没有结构"
+  },
+  "ftb.custom.shops.detected": {
+    "en": "[here] detected:",
+    "zh": "[here] 检测到:"
+  },
+  "ftb.custom.events.name.frog": {
+    "en": "Frog and Squids",
+    "zh": "青蛙与鱿鱼"
+  },
+  "ftb.custom.events.name.treasure_goblin": {
+    "en": "Treasure Goblin",
+    "zh": "藏宝地精"
+  },
+  "ftb.custom.events.name.fairy": {
+    "en": "Fairy Event",
+    "zh": "精灵"
+  },
+  "ftb.custom.events.name.apotheosis": {
+    "en": "Apotheosis Boss Event",
+    "zh": "神化首领"
+  },
+  "ftb.custom.events.name.trader": {
+    "en": "Wandering Trader",
+    "zh": "流浪商人"
+  },
+  "ftb.custom.events.name.creeper": {
+    "en": "Creeper",
+    "zh": "苦力怕"
+  },
+  "ftb.custom.events.name.gunslinger": {
+    "en": "Gunslinger Duel",
+    "zh": "神枪手决斗"
+  },
+  "ftb.custom.events.name.phantom": {
+    "en": "Phantom Bomber Event",
+    "zh": "幻翼轰炸"
+  },
+  "ftb.custom.events.name.goat": {
+    "en": "Goat",
+    "zh": "山羊"
+  },
+  "ftb.custom.events.name.allay": {
+    "en": "Allay Trade Event",
+    "zh": "悦灵交易"
+  },
+  "ftb.custom.events.total": {
+    "en": "Total Events Triggered: %s",
+    "zh": "事件触发总数: %s"
+  },
+  "ftb.custom.events.failed": {
+    "en": "Total %s Events Failed: %s",
+    "zh": "%s 事件失败总数: %s"
+  },
+  "ftb.custom.events.succeeded": {
+    "en": "Total %s Events Succeeded: %s",
+    "zh": "%s 事件成功总数: %s"
+  },
+  "ftb.custom.spawn.state": {
+    "en": "state: %s",
+    "zh": "状态: %s"
+  },
+  "ftb.custom.spawn.attempts": {
+    "en": "attempts: %s",
+    "zh": "尝试次数: %s"
+  },
+  "ftb.custom.spawn.claimed": {
+    "en": "claimed: %s",
+    "zh": "已认领: %s"
+  },
+  "ftb.custom.spawn.verifies": {
+    "en": "verifies: %s",
+    "zh": "验证通过: %s"
+  },
+  "ftb.custom.spawn.origin": {
+    "en": "origin: %s %s %s",
+    "zh": "原点: %s %s %s"
+  },
+  "item.ftb.adamantite_capacitor": {
+    "en": "Adamantite Capacitor",
+    "zh": "精金电容"
+  },
+  "item.ftb.aeternium_capacitor": {
+    "en": "Aeternium Capacitor",
+    "zh": "永恒金属电容"
+  },
+  "item.ftb.aurichalcum_capacitor": {
+    "en": "Aurichalcum Capacitor",
+    "zh": "奥利哈刚电容"
+  },
+  "fluid_type.ftb.bio_resin": {
+    "en": "Bio Resin",
+    "zh": "生物树脂"
+  },
+  "block.ftb.bio_resin": {
+    "en": "Bio Resin",
+    "zh": "生物树脂"
+  },
+  "item.ftb.bio_resin_bucket": {
+    "en": "Bio Resin Bucket",
+    "zh": "生物树脂桶"
+  }
+}

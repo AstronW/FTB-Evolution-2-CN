@@ -1,0 +1,22 @@
+{
+  "name": "猫",
+  "icon": "minecraft:cat_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:cat",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:cat_food",
+      "text": "用鳕鱼或鲑鱼喂猫进行繁殖, 增加围栏里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死猫并掉落其战利品."
+    }
+  ]
+}

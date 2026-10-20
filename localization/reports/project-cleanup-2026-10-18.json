@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-18",
+  "status": "completed",
+  "deleted": [
+    {
+      "path": ".Trash-0",
+      "reason": "23 discarded historical copies of the regenerable remaining-language report; current gzip report retained",
+      "files": 46,
+      "bytes": 1532521751
+    },
+    {
+      "path": ".workbuddy/tmp",
+      "reason": "Completed translation scratch maps, references, one-off scripts and unused extracted inputs; active batch-117 JAR moved and verified against parent JAR",
+      "files": 1137,
+      "bytes": 6831144
+    },
+    {
+      "path": "localization/cfpa_review/manuals/validation",
+      "reason": "Recreated by validate_native.py on each validation run; retained parser reports and source bindings",
+      "files": 1230,
+      "bytes": 5448482
+    },
+    {
+      "path": "__pycache__",
+      "reason": "Regenerable Python bytecode cache",
+      "files": 1,
+      "bytes": 5423
+    },
+    {
+      "path": "localization/__pycache__",
+      "reason": "Regenerable Python bytecode cache",
+      "files": 21,
+      "bytes": 353389
+    },
+    {
+      "path": "localization/tests/__pycache__",
+      "reason": "Regenerable Python bytecode cache",
+      "files": 2,
+      "bytes": 5292
+    },
+    {
+      "path": "localization/ValidateManualsExtra.class",
+      "reason": "Regenerable compiled Java file; current checks execute .java sources directly",
+      "files": 1,
+      "bytes": 6033
+    }
+  ],
+  "deleted_files": 2438,
+  "deleted_bytes": 1545171514,
+  "relocated_input": {
+    "old": ".workbuddy/tmp/jars/resourcefulconfig-neoforge-26.1-4.0.1.jar",
+    "new": "localization/vendor/jar-in-jar/resourcefulconfig-neoforge-26.1-4.0.1.jar",
+    "sha256": "b67d133c7fe615cf5012c960c3a92d1005cf0241dd22762c8783c6b7642719a5",
+    "verified_against": ".minecraft/mods/authme-neoforge-9.2.1+26.1.jar!META-INF/jars/resourcefulconfig-neoforge-26.1-4.0.1.jar"
+  },
+  "retained": [
+    "Current translations, source manifests, historical baselines and provenance",
+    "CFPA upstream repository and reviewed PR evidence",
+    "Current distribution archives and installation/revert records",
+    "Game instance files and backups",
+    ".workbuddy/memory",
+    "Recent user-fix before snapshots"
+  ],
+  "post_check_cache_removed": {
+    "path": "localization/cfpa_review/manuals/validation",
+    "bytes": 5448482,
+    "reason": "Cache regenerated during successful verification; safe to recreate on next check"
+  },
+  "verification": {
+    "project_check": "passed",
+    "checks": 329,
+    "release_pack_check": "passed",
+    "installed_files_hash_check": "passed",
+    "input_references_to_removed_tmp": 0,
+    "game_instance_modified": false
+  }
+}

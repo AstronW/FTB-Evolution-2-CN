@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "003",
+  "namespace": "nautec",
+  "source_keys": 563,
+  "unique_values": 531,
+  "chinese_values": 563,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1734,
+  "source_sha256": "350b37b0ef6cbc86b9df7bb919cc1d292a22493431df275f5bffcf69ea240670",
+  "in_game_tested": false
+}

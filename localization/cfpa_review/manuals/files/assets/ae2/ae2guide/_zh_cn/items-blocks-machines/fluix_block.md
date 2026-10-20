@@ -1,0 +1,25 @@
+---
+navigation:
+  parent: items-blocks-machines/items-blocks-machines-index.md
+  title: "福鲁伊克斯块"
+  icon: fluix_block
+  position: 010
+categories:
+- misc ingredients blocks
+item_ids:
+- ae2:fluix_block
+---
+
+<a name="the-fluix-block"></a>
+
+# 福鲁伊克斯块
+
+<BlockImage id="fluix_block" scale="8" />
+
+用于存储<ItemLink id="fluix_crystal" />的方块.也用在部分机器的配方中.
+
+<a name="recipe"></a>
+
+## 配方
+
+<RecipeFor id="fluix_block" />

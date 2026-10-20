@@ -1,0 +1,22 @@
+{
+  "type": "modonomicon:content",
+  "background": {
+    "height": 26,
+    "sprite": "modonomicon:modonomicon/themes/default/node/entry_backgrounds/square_gold",
+    "width": 26
+  },
+  "category": "witchery:vampirism",
+  "condition": {
+    "type": "modonomicon:research_node_unlocked",
+    "node_id": "witchery:advancement_gate/vampire/1"
+  },
+  "description": "book.witchery.guidebook.vampirism.vamp_1.description",
+  "icon": {
+    "id": "witchery:torn_page"
+  },
+  "id": "witchery:vampirism/vamp_1",
+  "name": "book.witchery.guidebook.vampirism.vamp_1.name",
+  "sort_number": 0,
+  "x": 0,
+  "y": 0
+}

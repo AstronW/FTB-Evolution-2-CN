@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "116",
+  "namespace": "jade",
+  "source_keys": 27,
+  "unique_values": 21,
+  "chinese_values": 5,
+  "reviewed_non_prose_values": 22,
+  "installed_overlay_keys": 27,
+  "source_sha256": "93dec6e63812bc2b0b97b605b27ec0d22988adf497f04c5996fa23b4e0efbe17",
+  "in_game_tested": false
+}

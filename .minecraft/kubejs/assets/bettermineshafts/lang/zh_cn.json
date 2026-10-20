@@ -1,0 +1,5 @@
+{
+  "Use /locate structure #bettermineshafts:better_mineshafts instead!": "请改用 /locate structure #bettermineshafts:better_mineshafts!",
+  "text.autoconfig.bettermineshafts-fabric-26_1.option.disableVanillaMineshafts": "禁用原版废弃矿井",
+  "text.autoconfig.bettermineshafts-fabric-26_1.option.disableVanillaMineshafts.@Tooltip": "是否禁用原版废弃矿井."
+}

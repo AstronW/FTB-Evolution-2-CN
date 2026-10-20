@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "118",
+  "namespace": "fancytabsections",
+  "source_keys": 13,
+  "unique_values": 12,
+  "chinese_values": 13,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 13,
+  "source_sha256": "22c456841db805cb292c6f7392112daf6f3eb9b8872fdb4433ce3537ee60b05f",
+  "in_game_tested": false
+}

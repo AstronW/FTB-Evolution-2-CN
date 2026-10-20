@@ -1,0 +1,14 @@
+{
+  "setup.mdx": {
+    "name": "游戏内模组视图设置"
+  },
+  "markdown.mdx": {
+    "name": "Markdown 与 MDX 参考"
+  },
+  "gradle_task.mdx": {
+    "name": "(可选) 自动同步 Gradle Wiki"
+  },
+  "content_unlocks.mdx": {
+    "name": "内容进度系统"
+  }
+}

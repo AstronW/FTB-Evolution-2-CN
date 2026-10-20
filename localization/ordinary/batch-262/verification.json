@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "262",
+  "namespace": "eccentrictome",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 4,
+  "source_sha256": "d7778a675351815942ff80b9e53e45b3852f90f9694a1716ba79b432e95852b6",
+  "in_game_tested": false
+}

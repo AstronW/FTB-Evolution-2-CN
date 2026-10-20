@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "072",
+  "namespace": "rsrreforged",
+  "source_keys": 8,
+  "unique_values": 8,
+  "chinese_values": 7,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 8,
+  "source_sha256": "b8a62c0f2b1ca36de9836797c3d9a4d608219875442f6ccb86d3a8ae2bc703b4",
+  "in_game_tested": false
+}

@@ -1,0 +1,38 @@
+{
+  "target_pack_version": "1.4.0",
+  "scripts": [
+    {
+      "file": "mod_names.js",
+      "target": "kubejs/client_scripts/ftb_cn_mod_names.js",
+      "sha256": "0b78c2af621302ef46e6a9dd2ad04d71be9bb5f192fd63bcfb076e1bf87f5426"
+    },
+    {
+      "file": "nutrients.js",
+      "target": "kubejs/client_scripts/ftb_cn_nutrients.js",
+      "sha256": "5f122a63e0dc7b9d9920b11dc6548803c15d712b6ab1c1895d68642de7992432"
+    }
+  ],
+  "in_game_tested": false,
+  "runtime_sources": [
+    {
+      "jar": ".minecraft/mods/nutritional-26.1.2-1.2.3.jar",
+      "class": "com/breakinblocks/nutritional/client/tooltip/NutritionTooltip.class",
+      "sha256": "74629ce271613b038a850089bc9ba0c1ab51207edb3ffc29b83819128e04498c"
+    },
+    {
+      "jar": ".minecraft/mods/kubejs-neoforge-26.1.2-8.0.7.jar",
+      "class": "dev/latvian/mods/kubejs/script/PlatformWrapper$ModInfo.class",
+      "sha256": "982080678ec876a07300c9022af96ac6272ce708a8aefc85f8f04f93033fad46"
+    },
+    {
+      "jar": ".minecraft/mods/kubejs-neoforge-26.1.2-8.0.7.jar",
+      "class": "dev/latvian/mods/kubejs/client/KubeJSClientEventHandler.class",
+      "sha256": "97728a1c00213a9235b4a1c8f88eddd7e18ff9bb9aeeec7f7eac83d0c519bec9"
+    },
+    {
+      "jar": ".minecraft/mods/kubejs-neoforge-26.1.2-8.0.7.jar",
+      "class": "dev/latvian/mods/kubejs/item/DynamicItemTooltipsKubeEvent.class",
+      "sha256": "178c88dc5c7505f94d727a2cd70427693acd8c730552fab74b4e7c5fef317a9d"
+    }
+  ]
+}

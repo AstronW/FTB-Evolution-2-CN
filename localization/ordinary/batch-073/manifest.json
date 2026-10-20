@@ -1,0 +1,18 @@
+{
+  "batch": "073",
+  "namespace": "functionalstorage",
+  "jar": ".minecraft/mods/functionalstorage-26.1.2-1.6.4.jar",
+  "language_path": "assets/functionalstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/functionalstorage/lang/zh_cn.json",
+  "include_keys": [
+    "block.functionalstorage.pale_oak_1",
+    "block.functionalstorage.pale_oak_2",
+    "block.functionalstorage.pale_oak_4",
+    "gui.functionalstorage.fluid_drawer_hint",
+    "gui.functionalstorage.fluid_drawer_hint.empty",
+    "gui.functionalstorage.fluid_drawer_hint.fill",
+    "gui.functionalstorage.priority"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

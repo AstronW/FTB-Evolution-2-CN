@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "213",
+  "namespace": "tectonic",
+  "source_keys": 109,
+  "unique_values": 106,
+  "chinese_values": 109,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 109,
+  "source_sha256": "37d38d45efa7767ac9329f0257d1cbb8ec28cece82382924fc3275936f7ed0ea",
+  "in_game_tested": false
+}

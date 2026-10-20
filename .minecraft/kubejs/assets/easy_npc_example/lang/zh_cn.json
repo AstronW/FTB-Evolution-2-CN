@@ -1,0 +1,8 @@
+{
+  "text.easy_npc_example.hello.text": "你好 @initiator, 我是 @npc, 很高兴见到你!\n\n想多了解我一些吗?",
+  "text.easy_npc_example.hello.yes_button": "当然想.",
+  "text.easy_npc_example.hello.no_button": "不了, 谢谢.",
+  "text.easy_npc_example.hello.yes_answer": "我是翻译, 可以帮你读懂这个世界的语言.",
+  "text.easy_npc_example.hello.no_answer": "好的, 祝你愉快!",
+  "text.easy_npc_example.hello.name": "翻译"
+}

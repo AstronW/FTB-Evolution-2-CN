@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "238",
+  "namespace": "wakes",
+  "source_keys": 59,
+  "unique_values": 59,
+  "chinese_values": 59,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 59,
+  "source_sha256": "09cadb63e334095697feab75c681194c4a0aecb0d7dd2dec27685190f207ddef",
+  "in_game_tested": false
+}

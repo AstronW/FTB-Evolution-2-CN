@@ -1,0 +1,16 @@
+{
+  "tag.block.animal_pen.aviaries": "鸟舍",
+  "tag.item.animal_pen.aviaries": "鸟舍",
+  "tag.item.animal_pen.can_aviary": "可攻击鸟舍的物品",
+  "display.animal_pen.count": "%d",
+  "gui.animal_pen.variant_selection_screen.fixed_size": "%d",
+  "gui.animal_pen.variant_selection_screen.decoration_open_tooltip": "单击查看装饰",
+  "gui.animal_pen.variant_selection_screen.decoration_close_tooltip": "单击隐藏装饰",
+  "option.animal_pen.trigger_advancements.tooltip[1]": "是否应触发进度.",
+  "option.animal_pen.increase_statistics.tooltip[1]": "是否应增加统计.",
+  "option.animal_pen.attack_cooldown.tooltip[1]": "玩家可对方块执行的攻击间隔.",
+  "option.animal_pen.max_stored_animal_variants.tooltip[1]": "每件物品可存储的数量.",
+  "option.animal_pen.max_stored_animal_variants.tooltip[3]": "因此不建议设为无限.",
+  "advancements.animal_pen.entity.minecraft.happy_ghast.title": "白色气球",
+  "advancements.animal_pen.entity.minecraft.happy_ghast.description": "捕获一只快乐恶魂"
+}

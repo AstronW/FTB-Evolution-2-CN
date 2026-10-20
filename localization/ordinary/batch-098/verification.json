@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "098",
+  "namespace": "ftbquests",
+  "source_keys": 120,
+  "unique_values": 119,
+  "chinese_values": 111,
+  "reviewed_non_prose_values": 9,
+  "installed_overlay_keys": 120,
+  "source_sha256": "c1118a0659781755ade4eb3313ceda788188b5c761190d01c8a977eda4b8e913",
+  "in_game_tested": false
+}

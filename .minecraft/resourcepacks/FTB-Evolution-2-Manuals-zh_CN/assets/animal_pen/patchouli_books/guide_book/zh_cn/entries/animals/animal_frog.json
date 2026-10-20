@@ -1,0 +1,27 @@
+{
+  "name": "青蛙",
+  "icon": "minecraft:frog_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:frog",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:frog_food",
+      "text": "用粘液球喂青蛙进行繁殖, 增加围栏里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死青蛙并掉落其战利品."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:magma_block",
+      "text": "给青蛙喂岩浆块会掉落蛙明灯. [redstone interaction 1]"
+    }
+  ]
+}

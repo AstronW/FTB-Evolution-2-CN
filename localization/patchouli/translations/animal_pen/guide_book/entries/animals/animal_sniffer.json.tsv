@@ -1,0 +1,5 @@
+/name	嗅探兽
+/pages/1/text	用火把花种子喂嗅探兽进行繁殖, 增加围栏里的数量.
+/pages/2/text	对动物围栏使用剑或斧会杀死嗅探兽并掉落战利品.
+/pages/3/text	对嗅探兽圈使用碗可收集远古种子.嗅探兽越多, 种子越多. [redstone interaction 1]
+/pages/4/text	对嗅探兽圈使用桶可收集蛋.嗅探兽越多, 蛋越多. [redstone interaction 2]

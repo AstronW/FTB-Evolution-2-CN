@@ -1,0 +1,21 @@
+{
+  "item.transparentae2.cable_treatment_applicator": "线缆透明化涂布器",
+  "item.transparentae2.transparent_smart_cable": "透明 ME 智能线缆",
+  "item.transparentae2.transparent_smart_dense_cable": "透明 ME 致密智能线缆",
+  "item.transparentae2.transparent_covered_dense_cable": "透明 ME 致密包层线缆",
+  "message.transparentae2.cable_treatment_applied": "线缆已透明化",
+  "message.transparentae2.cable_treatment_removed": "线缆透明化已移除",
+  "gui.transparentae2.network_rendering": "网络物品动画",
+  "gui.transparentae2.network_rendering.enabled": "已为此 ME 网络启用.单击以禁用.需要客户端与服务端均开启渲染设置.",
+  "gui.transparentae2.network_rendering.disabled": "已为此 ME 网络禁用.单击以启用.需要客户端与服务端均开启渲染设置.",
+  "config.transparentae2.enableTransferPaths": "启用传输路径",
+  "config.transparentae2.enableTransferPaths.tooltip": "计算 ME 网络的物品传输路径, 并将其发送给附近玩家用于动画.禁用后, 所有网络都将停止路径计算.",
+  "config.transparentae2.enableTransferLogging": "启用传输日志",
+  "config.transparentae2.enableTransferLogging.tooltip": "以 DEBUG 级别记录每次物品传输与解析出的路径.需要开启 DEBUG 日志, 且可能产生极大的日志.不影响动画.",
+  "config.transparentae2.renderTransferItems": "渲染移动中的物品",
+  "config.transparentae2.renderTransferItems.tooltip": "在 ME 线缆内显示移动中的物品.需要服务端启用传输路径, 且为 ME 网络启用动画.",
+  "config.transparentae2.itemMovementSpeed": "物品移动速度",
+  "config.transparentae2.itemMovementSpeed.tooltip": "动画速度, 单位为格每秒.仅改变视觉动画速度.",
+  "config.transparentae2.maxTransfers": "最大物品动画数",
+  "config.transparentae2.maxTransfers.tooltip": "客户端保留的最近物品传输动画的最大数量.较小的值可减轻繁忙网络的渲染负担."
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "131",
+  "namespace": "appleskin",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "e4ecdf6e503c5e9a63277b1092c7221671724959907152ac18cef12cc59f7075",
+  "in_game_tested": false
+}

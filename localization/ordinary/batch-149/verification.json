@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "149",
+  "namespace": "beer",
+  "source_keys": 28,
+  "unique_values": 28,
+  "chinese_values": 28,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 28,
+  "source_sha256": "4f967a53a648f4e54d476941da5b515aa0415688ee8d3daebe4ec72ac28c27b5",
+  "in_game_tested": false
+}

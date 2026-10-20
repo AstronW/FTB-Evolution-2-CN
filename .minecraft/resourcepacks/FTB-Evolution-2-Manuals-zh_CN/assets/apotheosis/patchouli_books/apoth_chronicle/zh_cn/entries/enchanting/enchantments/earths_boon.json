@@ -1,0 +1,17 @@
+{
+  "name": "大地恩惠",
+  "icon": "minecraft:enchanted_book",
+  "category": "apotheosis:enchanting/enchantments",
+  "flag": "apotheosis:enchanting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(2)大地恩惠$()是镐的极品魔咒.$(p)挖掘简单的石头时, 有机会掉落一个矿石方块."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "精准采集会改为掉落矿石方块本身, 时运则会倍增掉落物.$(p)下界岩有自己的掉落池, 部分掉落还取决于深度或生物群系."
+    }
+  ]
+}

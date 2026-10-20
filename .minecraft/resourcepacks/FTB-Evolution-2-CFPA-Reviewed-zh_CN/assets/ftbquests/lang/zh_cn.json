@@ -1,0 +1,12 @@
+{
+  "ftbquests.image.x": "X轴",
+  "ftbquests.image.y": "Y轴",
+  "ftbquests.loot.entitytype.boss": "Boss型",
+  "ftbquests.quest.appearance.x": "X轴",
+  "ftbquests.quest.appearance.y": "Y轴",
+  "ftbquests.quest_link.x": "X轴",
+  "ftbquests.quest_link.y": "Y轴",
+  "key.ftbquests.gui.player_prefs": "玩家偏好",
+  "key.ftbquests.gui_editor.reload_theme": "重载主题",
+  "key.ftbquests.keys.quests": "打开任务"
+}

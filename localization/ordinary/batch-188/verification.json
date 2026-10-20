@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "188",
+  "namespace": "scannable",
+  "source_keys": 13,
+  "unique_values": 13,
+  "chinese_values": 10,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 13,
+  "source_sha256": "21729174e45ad06d7aef6a541151b695aee62dd2745fc52e52bf8c5c76b6b50d",
+  "in_game_tested": false
+}

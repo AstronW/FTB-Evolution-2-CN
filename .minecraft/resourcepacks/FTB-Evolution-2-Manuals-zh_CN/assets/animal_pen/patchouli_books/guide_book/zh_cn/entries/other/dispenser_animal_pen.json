@@ -1,0 +1,27 @@
+{
+  "name": "发射器",
+  "icon": "minecraft:dispenser",
+  "category": "animal_pen:category_animal_pen",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "你可以通过发射器使用部分工具."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:shears",
+      "text": "可以对装着绵羊的动物围栏使用剪刀."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bucket",
+      "text": "可以对装着鸡, 牛, 山羊的动物围栏使用桶."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bowl",
+      "text": "可以对装着哞菇的动物围栏使用碗."
+    }
+  ]
+}

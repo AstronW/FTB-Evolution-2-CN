@@ -1,0 +1,1322 @@
+{
+  "block.ltxi.arc_furnace": {
+    "en": "Arc Furnace",
+    "zh": "电弧炉"
+  },
+  "block.ltxi.arc_turret": {
+    "en": "§oIonos§r A/DS Turret",
+    "zh": "§o“解离”§r A/DS 电弧炮塔"
+  },
+  "block.ltxi.assembler": {
+    "en": "Assembler",
+    "zh": "装配机"
+  },
+  "block.ltxi.atmospheric_scrubber": {
+    "en": "Atmospheric Scrubber",
+    "zh": "大气清洗器"
+  },
+  "block.ltxi.auto_fabricator": {
+    "en": "Auto Fabricator",
+    "zh": "自动组装器"
+  },
+  "block.ltxi.bilevine": {
+    "en": "Bilevine",
+    "zh": "苦胆藤"
+  },
+  "block.ltxi.bilevine_plant": {
+    "en": "Bilevine",
+    "zh": "苦胆藤"
+  },
+  "block.ltxi.black_neon_light": {
+    "en": "Black Neon Light",
+    "zh": "黑色霓虹灯"
+  },
+  "block.ltxi.blue_neon_light": {
+    "en": "Blue Neon Light",
+    "zh": "蓝色霓虹灯"
+  },
+  "block.ltxi.brown_neon_light": {
+    "en": "Brown Neon Light",
+    "zh": "棕色霓虹灯"
+  },
+  "block.ltxi.chem_lab": {
+    "en": "Chem Lab",
+    "zh": "化学反应器"
+  },
+  "block.ltxi.corrosive_green_neon_light": {
+    "en": "Corrosive Green Neon Light",
+    "zh": "腐蚀绿霓虹灯"
+  },
+  "block.ltxi.cyan_neon_light": {
+    "en": "Cyan Neon Light",
+    "zh": "青色霓虹灯"
+  },
+  "block.ltxi.deepslate_silver_ore": {
+    "en": "Deepslate Silver Ore",
+    "zh": "深层银矿石"
+  },
+  "block.ltxi.deepslate_titanium_ore": {
+    "en": "Deepslate Titanium Ore",
+    "zh": "深层钛矿石"
+  },
+  "block.ltxi.digital_blast_furnace": {
+    "en": "Digital Blast Furnace",
+    "zh": "数字型高炉"
+  },
+  "block.ltxi.digital_furnace": {
+    "en": "Digital Furnace",
+    "zh": "数字型熔炉"
+  },
+  "block.ltxi.digital_garden": {
+    "en": "Bio/ARU Garden",
+    "zh": "生物科技园艺机"
+  },
+  "block.ltxi.digital_smoker": {
+    "en": "Digital Smoker",
+    "zh": "数字型烟熏炉"
+  },
+  "block.ltxi.electric_chartreuse_neon_light": {
+    "en": "Electric Chartreuse Neon Light",
+    "zh": "电浆绿霓虹灯"
+  },
+  "block.ltxi.electrocentrifuge": {
+    "en": "ElectroCentrifuge",
+    "zh": "电解离心机"
+  },
+  "block.ltxi.energy_blue_neon_light": {
+    "en": "Energy Blue Neon Light",
+    "zh": "能量蓝霓虹灯"
+  },
+  "block.ltxi.energy_cell_array": {
+    "en": "Energy Cell Array",
+    "zh": "储能阵列"
+  },
+  "block.ltxi.fabricator": {
+    "en": "Fabricator",
+    "zh": "组装器"
+  },
+  "block.ltxi.geo_synthesizer": {
+    "en": "Geo Synthesizer",
+    "zh": "地质合成器"
+  },
+  "block.ltxi.glacia_glass": {
+    "en": "§oGlacia§r Glass",
+    "zh": "§o“冰川”§r玻璃"
+  },
+  "block.ltxi.gloom_blue_neon_light": {
+    "en": "Gloom Blue Neon Light",
+    "zh": "阴郁蓝霓虹灯"
+  },
+  "block.ltxi.gloom_shroom": {
+    "en": "Gloom Shroom",
+    "zh": "阴郁菇"
+  },
+  "block.ltxi.glowstick": {
+    "en": "Glowstick",
+    "zh": "荧光棒"
+  },
+  "block.ltxi.gray_neon_light": {
+    "en": "Gray Neon Light",
+    "zh": "灰色霓虹灯"
+  },
+  "block.ltxi.green_neon_light": {
+    "en": "Green Neon Light",
+    "zh": "绿色霓虹灯"
+  },
+  "block.ltxi.grinder": {
+    "en": "Grinder",
+    "zh": "粉碎机"
+  },
+  "block.ltxi.hydrosieve": {
+    "en": "HydroSieve",
+    "zh": "水力筛"
+  },
+  "block.ltxi.infinite_energy_cell_array": {
+    "en": "Energy Cell Array (∞)",
+    "zh": "储能阵列（无限）"
+  },
+  "block.ltxi.infinite_lava_tank": {
+    "en": "Infernal Lava Tank",
+    "zh": "炼狱熔岩储罐"
+  },
+  "block.ltxi.infinite_water_tank": {
+    "en": "Bathyal Water Tank",
+    "zh": "无底深水储罐"
+  },
+  "block.ltxi.light_blue_neon_light": {
+    "en": "Light Blue Neon Light",
+    "zh": "淡蓝色霓虹灯"
+  },
+  "block.ltxi.light_gray_neon_light": {
+    "en": "Light Gray Neon Light",
+    "zh": "淡灰色霓虹灯"
+  },
+  "block.ltxi.lime_neon_light": {
+    "en": "Lime Neon Light",
+    "zh": "黄绿色霓虹灯"
+  },
+  "block.ltxi.ltx_lime_neon_light": {
+    "en": "LTXI Lime Neon Light",
+    "zh": "LTXI绿霓虹灯"
+  },
+  "block.ltxi.magenta_neon_light": {
+    "en": "Magenta Neon Light",
+    "zh": "品红色霓虹灯"
+  },
+  "block.ltxi.material_press": {
+    "en": "Material Press",
+    "zh": "材料锻压机"
+  },
+  "block.ltxi.mixer": {
+    "en": "Mixer",
+    "zh": "搅拌机"
+  },
+  "block.ltxi.niobium_block": {
+    "en": "Block of Niobium",
+    "zh": "铌块"
+  },
+  "block.ltxi.niobium_ore": {
+    "en": "Niobium Ore",
+    "zh": "铌矿石"
+  },
+  "block.ltxi.orange_neon_light": {
+    "en": "Orange Neon Light",
+    "zh": "橙色霓虹灯"
+  },
+  "block.ltxi.peridotite": {
+    "en": "Peridotite",
+    "zh": "橄榄岩"
+  },
+  "block.ltxi.peridotite_slab": {
+    "en": "Peridotite Slab",
+    "zh": "橄榄岩台阶"
+  },
+  "block.ltxi.peridotite_stairs": {
+    "en": "Peridotite Stairs",
+    "zh": "橄榄岩楼梯"
+  },
+  "block.ltxi.peridotite_wall": {
+    "en": "Peridotite Wall",
+    "zh": "橄榄岩墙"
+  },
+  "block.ltxi.pink_neon_light": {
+    "en": "Pink Neon Light",
+    "zh": "粉色霓虹灯"
+  },
+  "block.ltxi.polished_peridotite": {
+    "en": "Polished Peridotite",
+    "zh": "磨制橄榄岩"
+  },
+  "block.ltxi.polished_peridotite_slab": {
+    "en": "Polished Peridotite Slab",
+    "zh": "磨制橄榄岩台阶"
+  },
+  "block.ltxi.polished_peridotite_stairs": {
+    "en": "Polished Peridotite Stairs",
+    "zh": "磨制橄榄岩楼梯"
+  },
+  "block.ltxi.polished_peridotite_wall": {
+    "en": "Polished Peridotite Wall",
+    "zh": "磨制橄榄岩墙"
+  },
+  "block.ltxi.portable_generator": {
+    "en": "Portable Generator",
+    "zh": "便携式发电机"
+  },
+  "block.ltxi.portable_tank": {
+    "en": "Portable Tank",
+    "zh": "便携储罐"
+  },
+  "block.ltxi.purple_neon_light": {
+    "en": "Purple Neon Light",
+    "zh": "紫色霓虹灯"
+  },
+  "block.ltxi.railgun_turret": {
+    "en": "§oNoctis§r A/DS Turret",
+    "zh": "§o“夜神”§r A/DS 轨道炮塔"
+  },
+  "block.ltxi.raw_niobium_block": {
+    "en": "Block of Raw Niobium",
+    "zh": "粗铌块"
+  },
+  "block.ltxi.raw_niobium_cluster": {
+    "en": "Raw Niobium Cluster",
+    "zh": "粗铌矿簇"
+  },
+  "block.ltxi.raw_silver_block": {
+    "en": "Block of Raw Silver",
+    "zh": "粗银块"
+  },
+  "block.ltxi.raw_silver_cluster": {
+    "en": "Raw Silver Cluster",
+    "zh": "粗银矿簇"
+  },
+  "block.ltxi.raw_titanium_block": {
+    "en": "Block of Raw Titanium",
+    "zh": "粗钛块"
+  },
+  "block.ltxi.raw_titanium_cluster": {
+    "en": "Raw Titanium Cluster",
+    "zh": "粗钛矿簇"
+  },
+  "block.ltxi.red_neon_light": {
+    "en": "Red Neon Light",
+    "zh": "红色霓虹灯"
+  },
+  "block.ltxi.repair_station": {
+    "en": "Repair Station",
+    "zh": "修复站"
+  },
+  "block.ltxi.rocket_turret": {
+    "en": "§oAtmos§r A/DS Turret",
+    "zh": "§o“御风”§r A/DS 防空火箭炮塔"
+  },
+  "block.ltxi.silver_block": {
+    "en": "Block of Silver",
+    "zh": "银块"
+  },
+  "block.ltxi.silver_ore": {
+    "en": "Silver Ore",
+    "zh": "银矿石"
+  },
+  "block.ltxi.slatesteel_block": {
+    "en": "Block of Slatesteel",
+    "zh": "板岩钢块"
+  },
+  "block.ltxi.slatesteel_panel": {
+    "en": "Slatesteel Panel",
+    "zh": "板岩钢板块"
+  },
+  "block.ltxi.smooth_slatesteel_panel": {
+    "en": "Smooth Slatesteel Panel",
+    "zh": "平滑板岩钢板块"
+  },
+  "block.ltxi.smooth_titanium_panel": {
+    "en": "Smooth Titanium Panel",
+    "zh": "平滑钛板块"
+  },
+  "block.ltxi.solar_panel": {
+    "en": "Solar Panel",
+    "zh": "太阳能板"
+  },
+  "block.ltxi.spark_fruit": {
+    "en": "Spark Fruit",
+    "zh": "电浆果"
+  },
+  "block.ltxi.tiled_slatesteel_panel": {
+    "en": "Tiled Slatesteel Panel",
+    "zh": "板岩钢板瓷砖"
+  },
+  "block.ltxi.tiled_titanium_panel": {
+    "en": "Tiled Titanium Panel",
+    "zh": "钛板瓷砖"
+  },
+  "block.ltxi.titanium_block": {
+    "en": "Block of Titanium",
+    "zh": "钛块"
+  },
+  "block.ltxi.titanium_glass": {
+    "en": "Titanium Glass",
+    "zh": "钛玻璃"
+  },
+  "block.ltxi.titanium_ore": {
+    "en": "Titanium Ore",
+    "zh": "钛矿石"
+  },
+  "block.ltxi.titanium_panel": {
+    "en": "Titanium Panel",
+    "zh": "钛板块"
+  },
+  "block.ltxi.upgrade_station": {
+    "en": "Upgrade Station",
+    "zh": "升级站"
+  },
+  "block.ltxi.vitriol_berries": {
+    "en": "Vitriol Berries",
+    "zh": "强酸莓"
+  },
+  "block.ltxi.voltaic_injector": {
+    "en": "Voltaic Injector",
+    "zh": "高压注入器"
+  },
+  "block.ltxi.white_neon_light": {
+    "en": "White Neon Light",
+    "zh": "白色霓虹灯"
+  },
+  "block.ltxi.yellow_neon_light": {
+    "en": "Yellow Neon Light",
+    "zh": "黄色霓虹灯"
+  },
+  "config.jade.plugin_ltxi.pg_fuel": {
+    "en": "Portable Generator Fuel",
+    "zh": "便携式发电机燃料"
+  },
+  "config.jade.plugin_ltxi.recipe_mode": {
+    "en": "Recipe Mode",
+    "zh": "配方模式"
+  },
+  "death.attack.ltxi.acid_grenade": {
+    "en": "%s was dissolved by %s's %s",
+    "zh": "%1$s被%2$s的%3$s溶解了"
+  },
+  "death.attack.ltxi.arc_turret": {
+    "en": "%s was electrocuted by %s's Ionos turret",
+    "zh": "%1$s被%2$s的解离炮塔电击身亡"
+  },
+  "death.attack.ltxi.arc_turret.unowned": {
+    "en": "%s was electrocuted by a rogue Ionos turret",
+    "zh": "%s被野生的解离炮塔电击身亡"
+  },
+  "death.attack.ltxi.cryo_grenade": {
+    "en": "%s was frozen solid by %s's %s",
+    "zh": "%1$s被%2$s用%3$s冻成了冰棍"
+  },
+  "death.attack.ltxi.electric_grenade": {
+    "en": "%s was electrocuted by %s's %s",
+    "zh": "%1$s被%2$s用%3$s电击身亡"
+  },
+  "death.attack.ltxi.explosive_weapon": {
+    "en": "%s was blown up by %s's %s",
+    "zh": "%1$s被%2$s用%3$s炸死了"
+  },
+  "death.attack.ltxi.flame_grenade": {
+    "en": "%s was incinerated by %s's %s",
+    "zh": "%1$s被%2$s用%3$s灼烧至死"
+  },
+  "death.attack.ltxi.gloom_gas_grenade": {
+    "en": "%s was dimmed out by %s's %s",
+    "zh": "%s 被 %s 的 %s 夺走了光芒"
+  },
+  "death.attack.ltxi.lightfrag": {
+    "en": "%2$s shot %1$s with %3$s",
+    "zh": "%1$s被%2$s用%3$s射杀"
+  },
+  "death.attack.ltxi.railgun_turret": {
+    "en": "%s was obliterated by %s's Noctis turret",
+    "zh": "%1$s被%2$s的夜神炮塔抹杀了"
+  },
+  "death.attack.ltxi.railgun_turret.unowned": {
+    "en": "%s was obliterated by a rogue Noctis turret",
+    "zh": "%s被野生的夜神炮塔抹杀了"
+  },
+  "death.attack.ltxi.rocket_turret": {
+    "en": "%s was shot down by %s's Atmos turret",
+    "zh": "%1$s被%2$s的御风炮塔抹杀了"
+  },
+  "death.attack.ltxi.rocket_turret.unowned": {
+    "en": "%s was shot down by a rogue Atmos turret",
+    "zh": "%s被野生的御风炮塔抹杀了"
+  },
+  "death.attack.ltxi.sticky_flame": {
+    "en": "%s was cooked well-done by %s",
+    "zh": "%1$s被%2$s烧烤至全熟"
+  },
+  "death.attack.ltxi.sticky_flame.unowned": {
+    "en": "%s was cooked well-done",
+    "zh": "%s被烧烤至全熟"
+  },
+  "death.attack.ltxi.stray_projectile": {
+    "en": "%s was killed by a stray %s",
+    "zh": "%1$s被无主的%2$s杀死了"
+  },
+  "death.attack.ltxi.unknown_weapon": {
+    "en": "%s was killed by an invalid LTX weapon",
+    "zh": "%s被出错的LTX武器杀死了"
+  },
+  "effect.ltxi.corrosive": {
+    "en": "Corroding",
+    "zh": "腐蚀"
+  },
+  "effect.ltxi.frostbite": {
+    "en": "Frostbite",
+    "zh": "霜冻"
+  },
+  "effect.ltxi.gloom": {
+    "en": "Gloom",
+    "zh": "阴郁"
+  },
+  "enchantment.ltxi.razor": {
+    "en": "Razor",
+    "zh": "剃刀"
+  },
+  "entity.ltxi.daybreak_rocket": {
+    "en": "Daybreak Rocket",
+    "zh": "破晓火箭弹"
+  },
+  "entity.ltxi.flame_field": {
+    "en": "Flame Field",
+    "zh": "火焰区域"
+  },
+  "entity.ltxi.glowstick_projectile": {
+    "en": "Wayfinder Glowstick",
+    "zh": "探路荧光棒"
+  },
+  "entity.ltxi.shell_grenade": {
+    "en": "Orb Grenade",
+    "zh": "榴弹"
+  },
+  "entity.ltxi.turret_rocket": {
+    "en": "Turret Rocket",
+    "zh": "炮塔火箭弹"
+  },
+  "fluid_type.ltxi.ammonia": {
+    "en": "Ammonia",
+    "zh": "氨"
+  },
+  "fluid_type.ltxi.argon": {
+    "en": "Argon",
+    "zh": "氩气"
+  },
+  "fluid_type.ltxi.chlorine": {
+    "en": "Chlorine",
+    "zh": "氯气"
+  },
+  "fluid_type.ltxi.hydrochloric_acid": {
+    "en": "Hydrochloric Acid",
+    "zh": "盐酸"
+  },
+  "fluid_type.ltxi.hydrofluoric_acid": {
+    "en": "Hydrofluoric Acid",
+    "zh": "氢氟酸"
+  },
+  "fluid_type.ltxi.hydrogen": {
+    "en": "Hydrogen",
+    "zh": "氢气"
+  },
+  "fluid_type.ltxi.methane": {
+    "en": "Methane",
+    "zh": "甲烷"
+  },
+  "fluid_type.ltxi.nitrogen": {
+    "en": "Nitrogen",
+    "zh": "氮气"
+  },
+  "fluid_type.ltxi.oxygen": {
+    "en": "Oxygen",
+    "zh": "氧气"
+  },
+  "fluid_type.ltxi.sea_water": {
+    "en": "Sea Water",
+    "zh": "海水"
+  },
+  "fluid_type.ltxi.silicone_oil": {
+    "en": "Silicone Oil",
+    "zh": "硅油"
+  },
+  "fluid_type.ltxi.sulfuric_acid": {
+    "en": "Sulfuric Acid",
+    "zh": "硫酸"
+  },
+  "fluid_type.ltxi.sulphurine": {
+    "en": "Sulphurine",
+    "zh": "硫化物"
+  },
+  "gui.ltxi.apply": {
+    "en": "Apply",
+    "zh": "应用"
+  },
+  "gui.ltxi.disabled": {
+    "en": "Disabled",
+    "zh": "禁用"
+  },
+  "gui.ltxi.enabled": {
+    "en": "Enabled",
+    "zh": "启用"
+  },
+  "gui.ltxi.light_colors": {
+    "en": "Light Colors",
+    "zh": "光效颜色"
+  },
+  "gui.ltxi.manage_light_colors": {
+    "en": "Manage light colors",
+    "zh": "管理光效颜色"
+  },
+  "gui.ltxi.manage_upgrades": {
+    "en": "Manage upgrade modules",
+    "zh": "管理升级模块"
+  },
+  "gui.ltxi.reset": {
+    "en": "Reset",
+    "zh": "重置"
+  },
+  "gui.ltxi.upgrades": {
+    "en": "Upgrades",
+    "zh": "升级"
+  },
+  "item.ltxi.acidic_biomass": {
+    "en": "Acidic Biomass",
+    "zh": "酸性生物质"
+  },
+  "item.ltxi.ammonia_bucket": {
+    "en": "Ammonia Bucket",
+    "zh": "氨桶"
+  },
+  "item.ltxi.ammonium_perrhenate": {
+    "en": "Ammonium Perrhenate",
+    "zh": "过铼酸铵"
+  },
+  "item.ltxi.argon_bucket": {
+    "en": "Argon Bucket",
+    "zh": "氩气桶"
+  },
+  "item.ltxi.aurora": {
+    "en": "§oAurora§r 21/SG",
+    "zh": "§o“极光”§r 21/SG"
+  },
+  "item.ltxi.carbon_dust": {
+    "en": "Carbon Dust",
+    "zh": "炭粉"
+  },
+  "item.ltxi.chlorine_bucket": {
+    "en": "Chlorine Bucket",
+    "zh": "氯气桶"
+  },
+  "item.ltxi.chorus_chemical": {
+    "en": "Chorus Extract",
+    "zh": "紫颂提取物"
+  },
+  "item.ltxi.circuit_board": {
+    "en": "Circuit Board",
+    "zh": "电路底板"
+  },
+  "item.ltxi.coal_ore_chunk": {
+    "en": "Coal Ore Chunk",
+    "zh": "煤矿石块"
+  },
+  "item.ltxi.coal_ore_crystal": {
+    "en": "Coal Ore Crystal",
+    "zh": "煤矿石晶体"
+  },
+  "item.ltxi.coal_ore_solution": {
+    "en": "Coal Ore Solution",
+    "zh": "煤矿石溶液"
+  },
+  "item.ltxi.copper_ore_chunk": {
+    "en": "Copper Ore Chunk",
+    "zh": "铜矿石块"
+  },
+  "item.ltxi.copper_ore_crystal": {
+    "en": "Copper Ore Crystal",
+    "zh": "铜矿石晶体"
+  },
+  "item.ltxi.copper_ore_solution": {
+    "en": "Copper Ore Solution",
+    "zh": "铜矿石溶液"
+  },
+  "item.ltxi.copper_plate": {
+    "en": "Copper Plate",
+    "zh": "铜板"
+  },
+  "item.ltxi.corrosive_green_pigment": {
+    "en": "Corrosive Green Pigment",
+    "zh": "腐蚀绿颜料"
+  },
+  "item.ltxi.corrosive_weapon_chemical": {
+    "en": "Weapons-Grade Corrosive",
+    "zh": "武器级腐蚀剂"
+  },
+  "item.ltxi.crushed_coal_ore": {
+    "en": "Crushed Coal Ore",
+    "zh": "粉碎煤矿石"
+  },
+  "item.ltxi.crushed_copper_ore": {
+    "en": "Crushed Copper Ore",
+    "zh": "粉碎铜矿石"
+  },
+  "item.ltxi.crushed_diamond_ore": {
+    "en": "Crushed Diamond Ore",
+    "zh": "粉碎钻石矿石"
+  },
+  "item.ltxi.crushed_emerald_ore": {
+    "en": "Crushed Emerald Ore",
+    "zh": "粉碎绿宝石矿石"
+  },
+  "item.ltxi.crushed_fluorite_ore": {
+    "en": "Crushed Fluorite Ore",
+    "zh": "粉碎氟石矿石"
+  },
+  "item.ltxi.crushed_gold_ore": {
+    "en": "Crushed Gold Ore",
+    "zh": "粉碎金矿石"
+  },
+  "item.ltxi.crushed_iron_ore": {
+    "en": "Crushed Iron Ore",
+    "zh": "粉碎铁矿石"
+  },
+  "item.ltxi.crushed_lapis_ore": {
+    "en": "Crushed Lapis Lazuli Ore",
+    "zh": "粉碎青金石矿石"
+  },
+  "item.ltxi.crushed_niobium_ore": {
+    "en": "Crushed Niobium Ore",
+    "zh": "粉碎铌矿石"
+  },
+  "item.ltxi.crushed_olivine_ore": {
+    "en": "Crushed Olivine Ore",
+    "zh": "粉碎橄榄石矿石"
+  },
+  "item.ltxi.crushed_quartz_ore": {
+    "en": "Crushed Nether Quartz Ore",
+    "zh": "粉碎下界石英矿石"
+  },
+  "item.ltxi.crushed_redstone_ore": {
+    "en": "Crushed Redstone Ore",
+    "zh": "粉碎红石矿石"
+  },
+  "item.ltxi.crushed_silver_ore": {
+    "en": "Crushed Silver Ore",
+    "zh": "粉碎银矿石"
+  },
+  "item.ltxi.crushed_titanium_ore": {
+    "en": "Crushed Titanium Ore",
+    "zh": "粉碎钛矿石"
+  },
+  "item.ltxi.daybreak": {
+    "en": "§oDaybreak§r 41/RL",
+    "zh": "§o“破晓”§r 41/RL"
+  },
+  "item.ltxi.deepslate_dust": {
+    "en": "Deepslate Dust",
+    "zh": "深板岩粉"
+  },
+  "item.ltxi.diamond_ore_chunk": {
+    "en": "Diamond Ore Chunk",
+    "zh": "钻石矿石块"
+  },
+  "item.ltxi.diamond_ore_crystal": {
+    "en": "Diamond Ore Crystal",
+    "zh": "钻石矿石晶体"
+  },
+  "item.ltxi.diamond_ore_solution": {
+    "en": "Diamond Ore Solution",
+    "zh": "钻石矿石溶液"
+  },
+  "item.ltxi.electric_chartreuse_pigment": {
+    "en": "Electric Chartreuse Pigment",
+    "zh": "电浆绿颜料"
+  },
+  "item.ltxi.elite_circuit_board": {
+    "en": "Elite Circuit Board",
+    "zh": "精英电路底板"
+  },
+  "item.ltxi.emerald_ore_chunk": {
+    "en": "Emerald Ore Chunk",
+    "zh": "绿宝石矿石块"
+  },
+  "item.ltxi.emerald_ore_crystal": {
+    "en": "Emerald Ore Crystal",
+    "zh": "绿宝石矿石晶体"
+  },
+  "item.ltxi.emerald_ore_solution": {
+    "en": "Emerald Ore Solution",
+    "zh": "绿宝石矿石溶液"
+  },
+  "item.ltxi.empty_fabrication_blueprint": {
+    "en": "Empty Fabrication Blueprint",
+    "zh": "空组装蓝图"
+  },
+  "item.ltxi.empty_upgrade_module": {
+    "en": "Empty Upgrade Module",
+    "zh": "空白升级模块"
+  },
+  "item.ltxi.energy_blue_pigment": {
+    "en": "Energy Blue Pigment",
+    "zh": "能量蓝颜料"
+  },
+  "item.ltxi.energy_io_config_card": {
+    "en": "Energy IO Config Card",
+    "zh": "能量IO配置卡"
+  },
+  "item.ltxi.epsilon_axe": {
+    "en": "ε-Series Axe",
+    "zh": "ε-系列斧"
+  },
+  "item.ltxi.epsilon_brush": {
+    "en": "ε-Series Brush",
+    "zh": "ε-系列刷子"
+  },
+  "item.ltxi.epsilon_drill": {
+    "en": "ε-Series Drill",
+    "zh": "ε-系列钻头"
+  },
+  "item.ltxi.epsilon_fishing_rod": {
+    "en": "ε-Series Fishing Rod",
+    "zh": "ε-系列钓鱼竿"
+  },
+  "item.ltxi.epsilon_hoe": {
+    "en": "ε-Series Hoe",
+    "zh": "ε-系列锄"
+  },
+  "item.ltxi.epsilon_lighter": {
+    "en": "ε-Series Lighter",
+    "zh": "ε-系列点火器"
+  },
+  "item.ltxi.epsilon_shears": {
+    "en": "ε-Series Shears",
+    "zh": "ε-系列剪刀"
+  },
+  "item.ltxi.epsilon_shovel": {
+    "en": "ε-Series Shovel",
+    "zh": "ε-系列锹"
+  },
+  "item.ltxi.epsilon_sword": {
+    "en": "ε-Series Sword",
+    "zh": "ε-系列剑"
+  },
+  "item.ltxi.epsilon_wrench": {
+    "en": "ε-Series Wrench",
+    "zh": "ε-系列扳手"
+  },
+  "item.ltxi.fabrication_blueprint": {
+    "en": "Fabrication Blueprint",
+    "zh": "组装蓝图"
+  },
+  "item.ltxi.fluids_io_config_card": {
+    "en": "Fluids IO Config Card",
+    "zh": "流体IO配置卡"
+  },
+  "item.ltxi.fluorite": {
+    "en": "Fluorite",
+    "zh": "氟石"
+  },
+  "item.ltxi.fluorite_ore_chunk": {
+    "en": "Fluorite Ore Chunk",
+    "zh": "氟石矿石块"
+  },
+  "item.ltxi.fluorite_ore_crystal": {
+    "en": "Fluorite Ore Crystal",
+    "zh": "氟石矿石晶体"
+  },
+  "item.ltxi.fluorite_ore_solution": {
+    "en": "Fluorite Ore Solution",
+    "zh": "氟石矿石溶液"
+  },
+  "item.ltxi.fluoropolymer": {
+    "en": "Fluoropolymer Bar",
+    "zh": "氟聚合物条"
+  },
+  "item.ltxi.fluoropolymer_sheet": {
+    "en": "Fluoropolymer Sheet",
+    "zh": "氟聚合物片"
+  },
+  "item.ltxi.gloom_blue_pigment": {
+    "en": "Gloom Blue Pigment",
+    "zh": "阴郁蓝颜料"
+  },
+  "item.ltxi.gloom_weapon_chemical": {
+    "en": "Weapons-Grade Gloom Serum",
+    "zh": "武器级阴郁浆液"
+  },
+  "item.ltxi.gold_ore_chunk": {
+    "en": "Gold Ore Chunk",
+    "zh": "金矿石块"
+  },
+  "item.ltxi.gold_ore_crystal": {
+    "en": "Gold Ore Crystal",
+    "zh": "金矿石晶体"
+  },
+  "item.ltxi.gold_ore_solution": {
+    "en": "Gold Ore Solution",
+    "zh": "金矿石溶液"
+  },
+  "item.ltxi.gold_plate": {
+    "en": "Gold Plate",
+    "zh": "金板"
+  },
+  "item.ltxi.guide_tablet": {
+    "en": "Guide Tablet",
+    "zh": "指南板"
+  },
+  "item.ltxi.hanabi": {
+    "en": "§oHanabi§r 33/GL",
+    "zh": "§o“花火”§r 33/GL"
+  },
+  "item.ltxi.hydrochloric_acid_bucket": {
+    "en": "Hydrochloric Acid Bucket",
+    "zh": "盐酸桶"
+  },
+  "item.ltxi.hydrofluoric_acid_bucket": {
+    "en": "Hydrofluoric Acid Bucket",
+    "zh": "氢氟酸桶"
+  },
+  "item.ltxi.hydrogen_bucket": {
+    "en": "Hydrogen Bucket",
+    "zh": "氢气桶"
+  },
+  "item.ltxi.impulse_tech_part": {
+    "en": "Impulse Driver Module",
+    "zh": "冲量发生模块"
+  },
+  "item.ltxi.iron_ore_chunk": {
+    "en": "Iron Ore Chunk",
+    "zh": "铁矿石块"
+  },
+  "item.ltxi.iron_ore_crystal": {
+    "en": "Iron Ore Crystal",
+    "zh": "铁矿石晶体"
+  },
+  "item.ltxi.iron_ore_solution": {
+    "en": "Iron Ore Solution",
+    "zh": "铁矿石溶液"
+  },
+  "item.ltxi.items_io_config_card": {
+    "en": "Items IO Config Card",
+    "zh": "物品IO配置卡"
+  },
+  "item.ltxi.lapis_ore_chunk": {
+    "en": "Lapis Lazuli Ore Chunk",
+    "zh": "青金石矿石块"
+  },
+  "item.ltxi.lapis_ore_crystal": {
+    "en": "Lapis Lazuli Ore Crystal",
+    "zh": "青金石矿石晶体"
+  },
+  "item.ltxi.lapis_ore_solution": {
+    "en": "Lapis Lazuli Ore Solution",
+    "zh": "青金石矿石溶液"
+  },
+  "item.ltxi.large_voltaic_cell": {
+    "en": "High-Energy Voltaic Cell",
+    "zh": "高能能量电池"
+  },
+  "item.ltxi.laser_tech_part": {
+    "en": "Olivine Laser Engine",
+    "zh": "橄榄石激光器"
+  },
+  "item.ltxi.logic_core": {
+    "en": "Logic Core",
+    "zh": "逻辑核心"
+  },
+  "item.ltxi.ltx_lime_pigment": {
+    "en": "LTXI Lime Pigment",
+    "zh": "LTXI绿颜料"
+  },
+  "item.ltxi.machine_housing": {
+    "en": "Machine Housing",
+    "zh": "机器外壳"
+  },
+  "item.ltxi.medium_voltaic_cell": {
+    "en": "Voltaic Cell",
+    "zh": "能量电池"
+  },
+  "item.ltxi.methane_bucket": {
+    "en": "Methane Bucket",
+    "zh": "甲烷桶"
+  },
+  "item.ltxi.mirage": {
+    "en": "§oMirage§r 13/CX",
+    "zh": "§o“幻影”§r 13/CX"
+  },
+  "item.ltxi.nano_logic_core": {
+    "en": "Nano Logic Core",
+    "zh": "纳米逻辑核心"
+  },
+  "item.ltxi.niobium_dust": {
+    "en": "Niobium Dust",
+    "zh": "铌粉"
+  },
+  "item.ltxi.niobium_ingot": {
+    "en": "Niobium Ingot",
+    "zh": "铌锭"
+  },
+  "item.ltxi.niobium_nugget": {
+    "en": "Niobium Nugget",
+    "zh": "铌粒"
+  },
+  "item.ltxi.niobium_ore_chunk": {
+    "en": "Niobium Ore Chunk",
+    "zh": "铌矿石块"
+  },
+  "item.ltxi.niobium_ore_crystal": {
+    "en": "Niobium Ore Crystal",
+    "zh": "铌矿石晶体"
+  },
+  "item.ltxi.niobium_ore_solution": {
+    "en": "Niobium Ore Solution",
+    "zh": "铌矿石溶液"
+  },
+  "item.ltxi.niobium_plate": {
+    "en": "Niobium Plate",
+    "zh": "铌板"
+  },
+  "item.ltxi.nitrogen_bucket": {
+    "en": "Nitrogen Bucket",
+    "zh": "氮气桶"
+  },
+  "item.ltxi.nova": {
+    "en": "§oNova§r 77/HX",
+    "zh": "§o“新星”§r 77/HX"
+  },
+  "item.ltxi.olivine": {
+    "en": "Olivine",
+    "zh": "橄榄石"
+  },
+  "item.ltxi.olivine_ore_chunk": {
+    "en": "Olivine Ore Chunk",
+    "zh": "橄榄石矿石块"
+  },
+  "item.ltxi.olivine_ore_crystal": {
+    "en": "Olivine Ore Crystal",
+    "zh": "橄榄石矿石晶体"
+  },
+  "item.ltxi.olivine_ore_solution": {
+    "en": "Olivine Ore Solution",
+    "zh": "橄榄石矿石溶液"
+  },
+  "item.ltxi.optical_tech_part": {
+    "en": "Optical Module",
+    "zh": "光学模块"
+  },
+  "item.ltxi.oxygen_bucket": {
+    "en": "Oxygen Bucket",
+    "zh": "氧气桶"
+  },
+  "item.ltxi.peridotite_dust": {
+    "en": "Peridotite Dust",
+    "zh": "橄榄岩粉"
+  },
+  "item.ltxi.phosphorus_dust": {
+    "en": "Phosphorus Dust",
+    "zh": "磷粉"
+  },
+  "item.ltxi.polymer": {
+    "en": "Polymer Bar",
+    "zh": "聚合物条"
+  },
+  "item.ltxi.polymer_sheet": {
+    "en": "Polymer Sheet",
+    "zh": "聚合物片"
+  },
+  "item.ltxi.pyroxene": {
+    "en": "Pyroxene",
+    "zh": "辉石"
+  },
+  "item.ltxi.quartz_ore_chunk": {
+    "en": "Nether Quartz Ore Chunk",
+    "zh": "下界石英矿石块"
+  },
+  "item.ltxi.quartz_ore_crystal": {
+    "en": "Nether Quartz Ore Crystal",
+    "zh": "下界石英矿石晶体"
+  },
+  "item.ltxi.quartz_ore_solution": {
+    "en": "Nether Quartz Ore Solution",
+    "zh": "下界石英矿石溶液"
+  },
+  "item.ltxi.raw_fluorite": {
+    "en": "Raw Fluorite",
+    "zh": "粗氟石"
+  },
+  "item.ltxi.raw_niobium": {
+    "en": "Raw Niobium",
+    "zh": "粗铌"
+  },
+  "item.ltxi.raw_olivine": {
+    "en": "Raw Olivine",
+    "zh": "粗橄榄石"
+  },
+  "item.ltxi.raw_silver": {
+    "en": "Raw Silver",
+    "zh": "粗银"
+  },
+  "item.ltxi.raw_titanium": {
+    "en": "Raw Titanium",
+    "zh": "粗钛"
+  },
+  "item.ltxi.redstone_ore_chunk": {
+    "en": "Redstone Ore Chunk",
+    "zh": "红石矿石块"
+  },
+  "item.ltxi.redstone_ore_crystal": {
+    "en": "Redstone Ore Crystal",
+    "zh": "红石矿石晶体"
+  },
+  "item.ltxi.redstone_ore_solution": {
+    "en": "Redstone Ore Solution",
+    "zh": "红石矿石溶液"
+  },
+  "item.ltxi.resinous_biomass": {
+    "en": "Resinous Biomass",
+    "zh": "含树脂生物质"
+  },
+  "item.ltxi.rhenium_7_oxide": {
+    "en": "Rhenium(VII) Oxide",
+    "zh": "七氧化二铼"
+  },
+  "item.ltxi.rhenium_dust": {
+    "en": "Rhenium Dust",
+    "zh": "铼粉"
+  },
+  "item.ltxi.rhenium_ingot": {
+    "en": "Rhenium Ingot",
+    "zh": "铼锭"
+  },
+  "item.ltxi.rhenium_plate": {
+    "en": "Rhenium Plate",
+    "zh": "铼板"
+  },
+  "item.ltxi.sculk_chemical": {
+    "en": "Echo Serum",
+    "zh": "回响浆液"
+  },
+  "item.ltxi.sea_water_bucket": {
+    "en": "Sea Water Bucket",
+    "zh": "海水桶"
+  },
+  "item.ltxi.serenity": {
+    "en": "§oSerenity§r 11/PX",
+    "zh": "§o“静谧”§r 11/PX"
+  },
+  "item.ltxi.silicon_dust": {
+    "en": "Silicon Dust",
+    "zh": "硅粉"
+  },
+  "item.ltxi.silicon_ingot": {
+    "en": "Silicon Ingot",
+    "zh": "硅锭"
+  },
+  "item.ltxi.silicon_plate": {
+    "en": "Silicon Plate",
+    "zh": "硅板"
+  },
+  "item.ltxi.silicone_oil_bucket": {
+    "en": "Silicone Oil Bucket",
+    "zh": "硅油桶"
+  },
+  "item.ltxi.silicone_rubber": {
+    "en": "Silicone Rubber",
+    "zh": "硅橡胶"
+  },
+  "item.ltxi.silver_dust": {
+    "en": "Silver Dust",
+    "zh": "硅粉"
+  },
+  "item.ltxi.silver_ingot": {
+    "en": "Silver Ingot",
+    "zh": "硅锭"
+  },
+  "item.ltxi.silver_nugget": {
+    "en": "Silver Nugget",
+    "zh": "硅粒"
+  },
+  "item.ltxi.silver_ore_chunk": {
+    "en": "Silver Ore Chunk",
+    "zh": "银矿石块"
+  },
+  "item.ltxi.silver_ore_crystal": {
+    "en": "Silver Ore Crystal",
+    "zh": "银矿石晶体"
+  },
+  "item.ltxi.silver_ore_solution": {
+    "en": "Silver Ore Solution",
+    "zh": "银矿石溶液"
+  },
+  "item.ltxi.silver_plate": {
+    "en": "Silver Plate",
+    "zh": "银板"
+  },
+  "item.ltxi.slatesteel_dust": {
+    "en": "Slatesteel Dust",
+    "zh": "板岩钢粉"
+  },
+  "item.ltxi.slatesteel_gear": {
+    "en": "Slatesteel Gear",
+    "zh": "板岩钢齿轮"
+  },
+  "item.ltxi.slatesteel_ingot": {
+    "en": "Slatesteel Ingot",
+    "zh": "板岩钢锭"
+  },
+  "item.ltxi.slatesteel_nugget": {
+    "en": "Slatesteel Nugget",
+    "zh": "板岩钢粒"
+  },
+  "item.ltxi.slatesteel_plate": {
+    "en": "Slatesteel Plate",
+    "zh": "板岩钢板"
+  },
+  "item.ltxi.small_voltaic_cell": {
+    "en": "Basic Voltaic Cell",
+    "zh": "基础能量电池"
+  },
+  "item.ltxi.sodium_dust": {
+    "en": "Sodium Dust",
+    "zh": "钠粉"
+  },
+  "item.ltxi.stargazer": {
+    "en": "§oStargazer§r 37/LF",
+    "zh": "§o“瞻星”§r 37/LF"
+  },
+  "item.ltxi.sulfur_dust": {
+    "en": "Sulfur Dust",
+    "zh": "硫粉"
+  },
+  "item.ltxi.sulfuric_acid_bucket": {
+    "en": "Sulfuric Acid Bucket",
+    "zh": "硫酸"
+  },
+  "item.ltxi.sulphurine_bucket": {
+    "en": "Sulphurine Bucket",
+    "zh": "硫化物桶"
+  },
+  "item.ltxi.t1_circuit": {
+    "en": "Basic Circuit",
+    "zh": "基础电路"
+  },
+  "item.ltxi.t2_circuit": {
+    "en": "Enhanced Circuit",
+    "zh": "强化电路"
+  },
+  "item.ltxi.t3_circuit": {
+    "en": "Precision Circuit",
+    "zh": "精确电路"
+  },
+  "item.ltxi.t4_circuit": {
+    "en": "Nano-Core Processor",
+    "zh": "纳米核心处理器"
+  },
+  "item.ltxi.t5_circuit": {
+    "en": "Real Virtuality Processor",
+    "zh": "现实虚拟处理器"
+  },
+  "item.ltxi.titanium_dust": {
+    "en": "Titanium Dust",
+    "zh": "钛粉"
+  },
+  "item.ltxi.titanium_gear": {
+    "en": "Titanium Gear",
+    "zh": "钛齿轮"
+  },
+  "item.ltxi.titanium_ingot": {
+    "en": "Titanium Ingot",
+    "zh": "钛锭"
+  },
+  "item.ltxi.titanium_nugget": {
+    "en": "Titanium Nugget",
+    "zh": "钛粒"
+  },
+  "item.ltxi.titanium_ore_chunk": {
+    "en": "Titanium Ore Chunk",
+    "zh": "钛矿石块"
+  },
+  "item.ltxi.titanium_ore_crystal": {
+    "en": "Titanium Ore Crystal",
+    "zh": "钛矿石晶体"
+  },
+  "item.ltxi.titanium_ore_solution": {
+    "en": "Titanium Ore Solution",
+    "zh": "钛矿石溶液"
+  },
+  "item.ltxi.titanium_plate": {
+    "en": "Titanium Plate",
+    "zh": "钛板"
+  },
+  "item.ltxi.tungsten_slatesteel_dust": {
+    "en": "Tungsten-Plated Slatesteel Dust",
+    "zh": "镀钨板岩钢粉"
+  },
+  "item.ltxi.tungsten_slatesteel_ingot": {
+    "en": "Tungsten-Plated Slatesteel",
+    "zh": "镀钨板岩钢锭"
+  },
+  "item.ltxi.tungsten_slatesteel_plate": {
+    "en": "Tungsten-Plated Slatesteel Plate",
+    "zh": "镀钨板岩钢板"
+  },
+  "item.ltxi.tungsten_trioxide": {
+    "en": "Tungsten Trioxide",
+    "zh": "三氧化钨"
+  },
+  "item.ltxi.washed_coal_ore": {
+    "en": "Washed Coal Ore",
+    "zh": "洗净煤矿石"
+  },
+  "item.ltxi.washed_copper_ore": {
+    "en": "Washed Copper Ore",
+    "zh": "洗净铜矿石"
+  },
+  "item.ltxi.washed_diamond_ore": {
+    "en": "Washed Diamond Ore",
+    "zh": "洗净钻石矿石"
+  },
+  "item.ltxi.washed_emerald_ore": {
+    "en": "Washed Emerald Ore",
+    "zh": "洗净绿宝石矿石"
+  },
+  "item.ltxi.washed_fluorite_ore": {
+    "en": "Washed Fluorite Ore",
+    "zh": "洗净氟石矿石"
+  },
+  "item.ltxi.washed_gold_ore": {
+    "en": "Washed Gold Ore",
+    "zh": "洗净金矿石"
+  },
+  "item.ltxi.washed_iron_ore": {
+    "en": "Washed Iron Ore",
+    "zh": "洗净铁矿石"
+  },
+  "item.ltxi.washed_lapis_ore": {
+    "en": "Washed Lapis Lazuli Ore",
+    "zh": "洗净青金石矿石"
+  },
+  "item.ltxi.washed_niobium_ore": {
+    "en": "Washed Niobium Ore",
+    "zh": "洗净铌矿石"
+  },
+  "item.ltxi.washed_olivine_ore": {
+    "en": "Washed Olivine Ore",
+    "zh": "洗净橄榄石矿石"
+  },
+  "item.ltxi.washed_quartz_ore": {
+    "en": "Washed Nether Quartz Ore",
+    "zh": "洗净下界石英矿石"
+  },
+  "item.ltxi.washed_redstone_ore": {
+    "en": "Washed Redstone Ore",
+    "zh": "洗净红石矿石"
+  },
+  "item.ltxi.washed_silver_ore": {
+    "en": "Washed Silver Ore",
+    "zh": "洗净银矿石"
+  },
+  "item.ltxi.washed_titanium_ore": {
+    "en": "Washed Titanium Ore",
+    "zh": "洗净钛矿石"
+  },
+  "item.ltxi.wayfinder": {
+    "en": "§oWayfinder§r 05/ID",
+    "zh": "§o“探路”§r 05/ID"
+  },
+  "item.ltxi.wonderland_body": {
+    "en": "§oWonderland§r AL/1C Seg.B",
+    "zh": "§o“秘境”§r AL/1C 套装胸甲"
+  },
+  "item.ltxi.wonderland_feet": {
+    "en": "§oWonderland§r AL/1C Seg.F",
+    "zh": "§o“秘境”§r AL/1C 套装靴子"
+  },
+  "item.ltxi.wonderland_head": {
+    "en": "§oWonderland§r AL/1C Seg.H",
+    "zh": "§o“秘境”§r AL/1C 套装头盔"
+  },
+  "item.ltxi.wonderland_legs": {
+    "en": "§oWonderland§r AL/1C Seg.L",
+    "zh": "§o“秘境”§r AL/1C 套装护腿"
+  },
+  "jei.ltxi.ml.biome": {
+    "en": "In biome(s): %s",
+    "zh": "所在生物群系：%s"
+  },
+  "jei.ltxi.ml.dimension": {
+    "en": "In dimension: %s",
+    "zh": "所在维度：%s"
+  },
+  "jei.ltxi.ml.waterlog": {
+    "en": "Machine must be waterlogged",
+    "zh": "机器需要含水"
+  },
+  "tag.item.ltxi.wrench_breakable": {
+    "en": "wrench-breakable",
+    "zh": "可用扳手破坏"
+  }
+}

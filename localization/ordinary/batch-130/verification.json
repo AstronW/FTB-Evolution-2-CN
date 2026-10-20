@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "130",
+  "namespace": "betteradvancements",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1,
+  "source_sha256": "cc556d46058c7c2555984349a976ae2e87b322bcd0877eb4d883be500d7bce3f",
+  "in_game_tested": false
+}

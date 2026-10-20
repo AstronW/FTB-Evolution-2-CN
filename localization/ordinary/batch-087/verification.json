@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "087",
+  "namespace": "sophisticatedstorage",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 2,
+  "source_sha256": "3f7b93532bddce24ba0ca6f105ecac4bd8013843196f1966da866bf44e64e457",
+  "in_game_tested": false
+}

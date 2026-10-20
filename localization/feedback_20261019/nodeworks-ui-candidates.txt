@@ -1,0 +1,426 @@
+ [auto]
+$fluid:  match fluids only
+$item:  match items only
+%.1fB
+%.1fK
+%.1fM
+%06X
+(No recipe bound)
+(Not implemented yet)
++ Add rule
+, …
+- #minecraft:logs    item tag
+- /^.*_ore$/         regex
+- minecraft:*        namespace
+- minecraft:stick    exact item
+<unused var>
+A-Z
+ALL
+Active High
+Active Low
+Air
+All channels
+Allow
+Allow tag substitutions (e.g. any plank type).
+Allow vs Deny: rules pass or block.
+Amount
+Any
+Auto-push
+Auto-push: Off
+Autocraft
+Autorun
+B
+BACK
+Back
+Batch
+Batch Size per Request
+Block(s) to Break:
+Block(s) to Place:
+Bool
+BoolVariableHandle  bool variable from network:get
+Both
+BreakBuilder  returned by Breaker:mine() for drop routing
+Breaker
+Breaker name
+BreakerHandle  Breaker device from network:get
+Broadcast Antenna
+Broadcast Not Found
+Buffer:
+CONNECTED
+Cancel
+Card name
+Cat
+Channel
+Channel  dye-color group from network:channel
+Channel:
+Chunk Loading
+Circle
+Clear filter
+Clear grid
+Clear slots
+Clear to network
+Click [+] to expand
+Click to change recipe
+Click to change.
+Click to cycle.
+Click to open the guidebook.
+Click to override.
+Click to pick a side.
+Click to switch.
+Click to toggle.
+Color
+Color Picker
+Color:
+Coming Soon
+Complete
+Confirm
+Controller
+Copy Chan.
+Copy Name
+Count
+Count (high to low)
+Count (low to high)
+Craft
+Craft Requester
+Craft Retries
+CraftBuilder  from network:craft(), chain with :connect()
+Craftable
+Crafting
+Crafting Buffer
+Crafting CPU
+Crafting CPUs
+Crafting Core
+Crafting...
+Creeper
+Crystal Not Paired
+D
+DOWN
+Delete rule
+Deny
+Details
+Dimension Mismatch
+Disconnected
+Distribute evenly
+Dot
+Down
+E
+EMPTY
+East
+Efficiency:
+Emitting Signal
+Empty
+Error
+Errors (live)
+Export Chest
+F
+FRONT
+Facing
+Failed to start craft.
+Fancy Lasers
+Filter
+Filter rules:
+Fluids
+Focus Node
+Frequency Mismatch
+Front
+HandleList  broadcast list from network:getAll / Channel:getAll
+Hex
+Highlights the AABB the User can target.
+Highlights the block the Breaker targets.
+Highlights the block the Placer fills.
+Hold G for docs
+Hold mode
+Hold:
+Idle
+Ignored
+Import Chest
+Importer
+Info
+InputItems  handler input bag, access slot handles by name
+Insert encoded Link Crystal
+Instant mode
+Instruction Storage
+Inventory
+Inventory Terminal
+Item(s) to Use:
+Items
+Job
+Job  processing handler context from network:handle
+Jobs
+L
+LEFT
+Large
+Left
+Link Crystal
+Linked
+Loading topology...
+Monitor
+N
+Name
+Name:
+Network
+Network Unreachable
+Network name
+Network:
+No CPUs on network
+No Inputs
+No Link Crystal
+No Outputs
+No Processing Sets.
+No Rules
+No active craft
+No blocks found
+No errors
+No terminals on network
+Node
+Node Glow:
+None
+North
+Not Formed
+Not Linked
+Not Loaded
+Not formed
+Number
+NumberVariableHandle  number variable from network:get
+ObserverCard  observer card from network:get
+Off
+On
+Open guidebook
+Out of Range
+Output
+Outputs go to
+Parallel
+Pick recipe
+Placer
+Placer name
+PlacerHandle  Placer device from network:get
+Preview area: Off
+Preview area: On
+Preview:
+Priority
+Priority:
+Processing Handler
+Processing Storage
+R
+RIGHT
+Random
+Range Upgrade
+Receiver Antenna
+Recipe missing
+Recipes
+Redstone
+Redstone control
+Redstone:
+RedstoneCard  redstone card from network:get
+Retries
+Right
+Right-click is held until stop().
+Round-robin
+Route
+Rule
+Rule list full
+Run
+Running
+S
+Scheduler
+Search
+Search for a recipe
+Search items...
+Search recipes...
+Set
+Show items from
+Side: Default
+Single-tap right-click each use.
+Small
+South
+Square
+Stackability + NBT further restrict.
+Status:
+Stocker
+Stop
+Stopped
+Storage
+Storage Meter
+String
+StringVariableHandle  string variable from network:get
+Tag inputs accept any item in their tag,
+Tall
+Target Amount in Network
+Terminal
+Terminals
+Ticks
+Ticks:
+Timeout (ticks)
+Topology
+Type:
+U
+UNREACHABLE
+UP
+Unbind recipe
+Unknown
+Unknown recipe
+Up
+User
+User Device name
+Value
+Value:
+Variable
+Variable name
+W
+West
+Wide
+Wrong Crystal Type
+Wrong Dimension
+Wrong Source Kind
+[ERR]
+abs(x: number) → number
+amountField
+antennaInventory
+antennaPos
+apiName
+batchField
+beforeCursor
+beginIndex
+blockIds
+breakerAliases
+byte(s: string, i?: number) → number
+cardName
+ceil(x: number) → number
+chestInventory
+clickType
+clickedPos
+componentsPatch
+concat(t: table, sep?: string) → string
+controllerPos
+corePos
+cos(x: number) → number
+count() → number
+cpuInfos
+craftableItems
+craftableOutputs
+deviceName
+devicePos
+endIndex
+enter name...
+entryPoint
+filterField
+filterRule
+filterRules
+find(s: string, pattern: string) → number?
+floor(x: number) → number
+fluidId
+fluidIds
+fluidTags
+fmod(x: number, y: number) → number
+format(fmt: string, ...) → string
+fullText
+funcName
+function(job: Job, items: InputItems)
+getAll
+getFirst
+getInnerLeft
+getInnerTop
+gmatch(s: string, pattern: string) → function
+gridType
+gsub(s: string, pattern: string, repl: string) → string
+has data only
+hasTag
+hexField
+huge: number
+initialColor
+initialFailureReason
+initialFilter
+initialFilterMode
+initialFilterRules
+initialName
+initialNbtFilter
+initialSide
+initialStackability
+initialValue
+inputChannels
+inputGrid
+inputSlots
+insert item id
+insert(t: table, value: any)
+item id / tag / pattern
+itemId
+itemIds
+itemName
+itemTags
+lastFailureReason
+len(s: string) → number
+localApiNames
+localApis
+lower(s: string) → string
+match(s: string, pattern: string) → string?
+max(x: number, ...) → number
+min(x: number, ...) → number
+nameField
+networkGrid
+networkName
+networkPos
+newSide
+newText
+no data only
+nodeInventory
+nodePos
+nodeSide
+non-stackable only
+onChange
+onConfirm
+onCycle
+onPress
+other inputs accept any component variant.
+outputGrid
+outputSlots
+parentScreen
+pi: number
+placerAliases
+playerHotbarGrid
+playerInventory
+playerMainGrid
+playerUUID
+portableStack
+processingApiName
+processingApis
+pushFace
+random(m?: number, n?: number) → number
+recentErrors
+recipeGrid
+recipeId
+remoteApis
+remove(t: table, pos?: number) → any
+renameRow
+rep(s: string, n: number) → string
+requestDefocus
+require(module: string) → table
+retryField
+return true
+reverse(s: string) → string
+roundRobin
+saveMode
+searchBox
+sendRename
+sin(x: number) → number
+slotIndices
+slotType
+sort(t: table, comp?: function)
+sqrt(x: number) → number
+stackable only
+storageInventory
+storagePos
+sub(s: string, i: number, j?: number) → string
+targetContainer
+terminalInfos
+terminalPos
+textAfterCursor
+textBeforeOffset
+tickInterval
+upper(s: string) → string
+userAliases
+valueField
+variableName
+variablePos
+variableValue
+§7OFF
+§aON

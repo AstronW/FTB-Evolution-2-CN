@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "100",
+  "namespace": "ftbpc",
+  "source_keys": 31,
+  "unique_values": 30,
+  "chinese_values": 31,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 31,
+  "source_sha256": "73f2c2d3c2f1600e5236b36108e02412f91e21fa37a2b14af9ee9d41eaec5e55",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "043",
+  "namespace": "sfm",
+  "source_keys": 13,
+  "unique_values": 8,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 12,
+  "installed_overlay_keys": 13,
+  "source_sha256": "64189966cbcaf6714a4d56f0dcca9e057e70ce7a413fc466325d2bf1cdb0b090",
+  "in_game_tested": false
+}

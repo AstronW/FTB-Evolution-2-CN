@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "281",
+  "namespace": "euphoria_patcher",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "bec081724682cfcfea264b72fcbbd36297829c1ade82bf97b98ba5e3fb52b084",
+  "in_game_tested": false
+}

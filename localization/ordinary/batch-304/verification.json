@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "304",
+  "namespace": "neovitae",
+  "source_keys": 41,
+  "unique_values": 39,
+  "chinese_values": 41,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 128,
+  "source_sha256": "15cca8529db011c7657fdfe3929f3b47b0c20ddefa8fdea53c2eda1dc32f7429",
+  "in_game_tested": false
+}

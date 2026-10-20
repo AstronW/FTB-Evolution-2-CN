@@ -1,0 +1,779 @@
+{
+  "method": "Separate non-global group_lang labels. Include groups whose category metadata mod requirement is met in this instance, honoring enabled flag and building/decoration exclusions by category. Does not evaluate runtime item filters or user config. project_translated marks labels translated in localization/manuals/group_lang-zh.json and built into the group_lang overlay; only matching PR #6101 candidates are listed as upstream reuse.",
+  "total_pack_labels": 1447,
+  "active_in_scope_candidate_labels": 95,
+  "counts": {
+    "project_translated": 19,
+    "reviewed_cfpa_adopted": 76
+  },
+  "excluded_categories": [
+    "chisel",
+    "macawsseries"
+  ],
+  "pr_number": 6101,
+  "pr_head_sha": "21561bf6f23465b8d0ad4db3788479a47f966daa",
+  "source_version": "1.21",
+  "target_version": "26.1.2",
+  "rows": [
+    {
+      "key": "collapsible_groups.category.ae2",
+      "english": "Applied Energistics 2",
+      "chinese": null,
+      "project_chinese": "应用能源2",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.category.apotheosis",
+      "english": "Apotheosis",
+      "chinese": null,
+      "project_chinese": "神化",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.category.enderio",
+      "english": "Ender IO",
+      "chinese": null,
+      "project_chinese": "末影接口",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.category.generic",
+      "english": "Generic",
+      "chinese": null,
+      "project_chinese": "通用",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.category.productivebees",
+      "english": "Productive Bees",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.category.refinedstorage2",
+      "english": "Refined Storage",
+      "chinese": null,
+      "project_chinese": "精致存储",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.category.vanilla",
+      "english": "Vanilla",
+      "chinese": null,
+      "project_chinese": "原版",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_covered_cables",
+      "english": "AE2: Colored Covered Cables",
+      "chinese": "应用能源2：染色的ME包层线缆",
+      "project_chinese": null,
+      "source_english": "AE2: Colored Covered Cables",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_covered_dense_cables",
+      "english": "AE2: Colored Dense Covered Cables",
+      "chinese": "应用能源2：染色的ME致密包层线缆",
+      "project_chinese": null,
+      "source_english": "AE2: Colored Dense Covered Cables",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_glass_cables",
+      "english": "AE2: Colored Glass Cables",
+      "chinese": "应用能源2：染色的ME玻璃线缆",
+      "project_chinese": null,
+      "source_english": "AE2: Colored Glass Cables",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_smart_cables",
+      "english": "AE2: Colored Smart Cables",
+      "chinese": "应用能源2：染色的智能线缆",
+      "project_chinese": null,
+      "source_english": "AE2: Colored Smart Cables",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_smart_dense_cables",
+      "english": "AE2: Colored Dense Smart Cables",
+      "chinese": "应用能源2：染色的ME致密线缆",
+      "project_chinese": null,
+      "source_english": "AE2: Colored Dense Smart Cables",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_lumen_paint_balls",
+      "english": "AE2: Lumen Paint Balls",
+      "chinese": "应用能源2：光通染色球",
+      "project_chinese": null,
+      "source_english": "AE2: Lumen Paint Balls",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_paint_balls",
+      "english": "AE2: Paint Balls",
+      "chinese": "应用能源2：染色球",
+      "project_chinese": null,
+      "source_english": "AE2: Paint Balls",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_ballast",
+      "english": "Ballast Gems",
+      "chinese": "稳定宝石",
+      "project_chinese": null,
+      "source_english": "Ballast Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_brawlers",
+      "english": "Brawler's Gems",
+      "chinese": "斗争宝石",
+      "project_chinese": null,
+      "source_english": "Brawler's Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_breach",
+      "english": "Breach Gems",
+      "chinese": "突破宝石",
+      "project_chinese": null,
+      "source_english": "Breach Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_combatant",
+      "english": "Combatant Gems",
+      "chinese": "战斗宝石",
+      "project_chinese": null,
+      "source_english": "Combatant Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_guardian",
+      "english": "Guardian Gems",
+      "chinese": "护卫宝石",
+      "project_chinese": null,
+      "source_english": "Guardian Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_lightning",
+      "english": "Lightning Gems",
+      "chinese": "闪电宝石",
+      "project_chinese": null,
+      "source_english": "Lightning Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_lunar",
+      "english": "Lunar Gems",
+      "chinese": "月华宝石",
+      "project_chinese": null,
+      "source_english": "Lunar Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_samurai",
+      "english": "Samurai Gems",
+      "chinese": "武士宝石",
+      "project_chinese": null,
+      "source_english": "Samurai Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_slipstream",
+      "english": "Slipstream Gems",
+      "chinese": "逸流宝石",
+      "project_chinese": null,
+      "source_english": "Slipstream Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_solar",
+      "english": "Solar Gems",
+      "chinese": "阳炎宝石",
+      "project_chinese": null,
+      "source_english": "Solar Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_splendor",
+      "english": "Splendor Gems",
+      "chinese": "辉煌宝石",
+      "project_chinese": null,
+      "source_english": "Splendor Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_tyrannical",
+      "english": "Tyrannical Gems",
+      "chinese": "暴君宝石",
+      "project_chinese": null,
+      "source_english": "Tyrannical Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_warlord",
+      "english": "Warlord Gems",
+      "chinese": "战神宝石",
+      "project_chinese": null,
+      "source_english": "Warlord Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_overworld_earth",
+      "english": "Earth Gems",
+      "chinese": "大地宝石",
+      "project_chinese": null,
+      "source_english": "Earth Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_overworld_royalty",
+      "english": "Royalty Gems",
+      "chinese": "王室宝石",
+      "project_chinese": null,
+      "source_english": "Royalty Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_overworld_verdant_ruin",
+      "english": "Verdant Ruin Gems",
+      "chinese": "翠殒宝石",
+      "project_chinese": null,
+      "source_english": "Verdant Ruin Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_end_endersurge",
+      "english": "Endersurge Gems",
+      "chinese": "影激宝石",
+      "project_chinese": null,
+      "source_english": "Endersurge Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_end_mageslayer",
+      "english": "Mageslayer Gems",
+      "chinese": "法师克星宝石",
+      "project_chinese": null,
+      "source_english": "Mageslayer Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_nether_blood_lord",
+      "english": "Blood Lord Gems",
+      "chinese": "嗜血领主宝石",
+      "project_chinese": null,
+      "source_english": "Blood Lord Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_nether_inferno",
+      "english": "Inferno Gems",
+      "chinese": "炽狱宝石",
+      "project_chinese": null,
+      "source_english": "Inferno Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_nether_molten_breach",
+      "english": "Molten Breach Gems",
+      "chinese": "熔融突破宝石",
+      "project_chinese": null,
+      "source_english": "Molten Breach Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_twilight_forest",
+      "english": "TwilightForest Gems",
+      "chinese": "暮色森林宝石",
+      "project_chinese": null,
+      "source_english": "TwilightForest Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_twilight_queen",
+      "english": "Frozen Queen Gems",
+      "chinese": "冰雪女王宝石",
+      "project_chinese": null,
+      "source_english": "Frozen Queen Gems",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_potion_charm",
+      "english": "Potion Charms",
+      "chinese": "药水护符",
+      "project_chinese": null,
+      "source_english": "Potion Charms",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_enchanted_books",
+      "english": "Enchanted Books",
+      "chinese": "附魔书",
+      "project_chinese": null,
+      "source_english": "Enchanted Books",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_enderio_clear_glass",
+      "english": "Clear Glass",
+      "chinese": "纯净玻璃",
+      "project_chinese": null,
+      "source_english": "Clear Glasses",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_enderio_filled_soul_vials",
+      "english": "Filled Soul vials",
+      "chinese": "装有生物的灵魂瓶",
+      "project_chinese": null,
+      "source_english": "Filled Soul vials",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_enderio_fused_quartz",
+      "english": "Fused Quartz",
+      "chinese": "石英玻璃",
+      "project_chinese": null,
+      "source_english": "Fused Quartzs",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_lingering_potions",
+      "english": "Lingering Potions",
+      "chinese": "滞留药水",
+      "project_chinese": null,
+      "source_english": "Lingering Potions",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_music_discs",
+      "english": "Music Discs",
+      "chinese": "音乐唱片",
+      "project_chinese": null,
+      "source_english": "Music Discs",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_paintings",
+      "english": "Paintings",
+      "chinese": "画",
+      "project_chinese": null,
+      "source_english": "Paintings",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_potions",
+      "english": "Potions",
+      "chinese": "药水",
+      "project_chinese": null,
+      "source_english": "Potions",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_pottery_sherds",
+      "english": "Pottery Sherds",
+      "chinese": "陶片",
+      "project_chinese": null,
+      "source_english": "Pottery Sherds",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_attribute_genes",
+      "english": "Productive Bees: Attribute Genes",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 属性基因",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_bee_spawn_eggs",
+      "english": "Productive Bees: Bee Spawn Eggs",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 蜜蜂刷怪蛋",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_beehives",
+      "english": "Productive Bees: Beehives",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 蜂箱",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_bees",
+      "english": "Productive Bees: Bee Entities",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 蜜蜂实体",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_canvas_beehives",
+      "english": "Productive Bees: Canvas Beehives",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 帆布蜂箱",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_canvas_expansion_boxes",
+      "english": "Productive Bees: Canvas Expansion Boxes",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 帆布扩容盒",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_comb_blocks",
+      "english": "Productive Bees: Comb Blocks",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 蜂巢块",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_expansion_boxes",
+      "english": "Productive Bees: Expansion Boxes",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 扩容盒",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_honeycombs",
+      "english": "Productive Bees: Honeycombs",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 蜜脾",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_nests",
+      "english": "Productive Bees: Bee Nests",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 蜂巢",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_petrified_honey",
+      "english": "Productive Bees: Petrified Honey",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 石化蜂蜜",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_type_genes",
+      "english": "Productive Bees: Type Genes",
+      "chinese": null,
+      "project_chinese": "资源蜜蜂: 类型基因",
+      "source_english": null,
+      "state": "project_translated"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_autocrafter_managers",
+      "english": "RS2: Colored Autocrafter Managers",
+      "chinese": "精致存储：染色的自动合成仓管理器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Autocrafter Managers",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_autocrafters",
+      "english": "RS2: Colored Autocrafters",
+      "chinese": "精致存储：染色的自动合成仓",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Autocrafters",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_autocrafting_monitors",
+      "english": "RS2: Colored Autocrafting Monitors",
+      "chinese": "精致存储：染色的合成监视器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Autocrafting Monitors",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_cables",
+      "english": "RS2: Colored Cables",
+      "chinese": "精致存储：染色的线缆",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Cables",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_constructors",
+      "english": "RS2: Colored Constructors",
+      "chinese": "精致存储：染色的成型器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Constructors",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_controllers",
+      "english": "RS2: Colored Controllers",
+      "chinese": "精致存储：染色的控制器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Controllers",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_crafting_grids",
+      "english": "RS2: Colored Crafting Grids",
+      "chinese": "精致存储：染色的合成终端",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Crafting Grids",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_creative_controllers",
+      "english": "RS2: Colored Creative Controllers",
+      "chinese": "精致存储：染色的创造控制器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Creative Controllers",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_destructors",
+      "english": "RS2: Colored Destructors",
+      "chinese": "精致存储：染色的破坏器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Destructors",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_detectors",
+      "english": "RS2: Colored Detectors",
+      "chinese": "精致存储：染色的检测器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Detectors",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_disk_interfaces",
+      "english": "RS2: Colored Disk Interfaces",
+      "chinese": "精致存储：染色的磁盘接口",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Disk Interfaces",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_exporters",
+      "english": "RS2: Colored Exporters",
+      "chinese": "精致存储：染色的输出器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Exporters",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_external_storages",
+      "english": "RS2: Colored External Storages",
+      "chinese": "精致存储：染色的外部存储",
+      "project_chinese": null,
+      "source_english": "RS2: Colored External Storages",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_grids",
+      "english": "RS2: Colored Grids",
+      "chinese": "精致存储：染色的终端",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Grids",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_importers",
+      "english": "RS2: Colored Importers",
+      "chinese": "精致存储：染色的输入器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Importers",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_network_receivers",
+      "english": "RS2: Colored Network Receivers",
+      "chinese": "精致存储：染色的网络接收器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Network Receivers",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_network_transmitters",
+      "english": "RS2: Colored Network Transmitters",
+      "chinese": "精致存储：染色的网络发送器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Network Transmitters",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_pattern_grids",
+      "english": "RS2: Colored Pattern Grids",
+      "chinese": "精致存储：染色的样板终端",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Pattern Grids",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_relays",
+      "english": "RS2: Colored Relays",
+      "chinese": "精致存储：染色的中继器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Relays",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_security_managers",
+      "english": "RS2: Colored Security Managers",
+      "chinese": "精致存储：染色的安全管理器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Security Managers",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_wireless_transmitters",
+      "english": "RS2: Colored Wireless Transmitters",
+      "chinese": "精致存储：染色的无线发送器",
+      "project_chinese": null,
+      "source_english": "RS2: Colored Wireless Transmitters",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_splash_potions",
+      "english": "Splash Potions",
+      "chinese": "喷溅药水",
+      "project_chinese": null,
+      "source_english": "Splash Potions",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_tipped_arrows",
+      "english": "Tipped Arrows",
+      "chinese": "药箭",
+      "project_chinese": null,
+      "source_english": "Tipped Arrows",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_trim_templates",
+      "english": "Trim Templates",
+      "chinese": "锻造模板",
+      "project_chinese": null,
+      "source_english": "Trim Templates",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_banners",
+      "english": "Vanilla Banners",
+      "chinese": "原版：旗帜",
+      "project_chinese": null,
+      "source_english": "Vanilla Banners",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_beds",
+      "english": "Vanilla Beds",
+      "chinese": "原版：床",
+      "project_chinese": null,
+      "source_english": "Vanilla Beds",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_candles",
+      "english": "Vanilla Candles",
+      "chinese": "原版：蜡烛",
+      "project_chinese": null,
+      "source_english": "Vanilla Candles",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_carpets",
+      "english": "Vanilla Carpets",
+      "chinese": "原版：地毯",
+      "project_chinese": null,
+      "source_english": "Vanilla Carpets",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_colored_glass_blocks",
+      "english": "Vanilla Colored Glass Blocks",
+      "chinese": "原版：染色玻璃",
+      "project_chinese": null,
+      "source_english": "Vanilla Colored Glass Blocks",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_colored_glass_panes",
+      "english": "Vanilla Colored Glass Panes",
+      "chinese": "原版：染色玻璃板",
+      "project_chinese": null,
+      "source_english": "Vanilla Colored Glass Panes",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_colored_shulker_boxes",
+      "english": "Vanilla Colored Shulker Boxes",
+      "chinese": "原版：染色潜影盒",
+      "project_chinese": null,
+      "source_english": "Vanilla Colored Shulker Boxes",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_concrete_powders",
+      "english": "Vanilla Concrete Powders",
+      "chinese": "原版：混凝土粉末",
+      "project_chinese": null,
+      "source_english": "Vanilla Concrete Powders",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_concretes",
+      "english": "Vanilla Concretes",
+      "chinese": "原版：混凝土",
+      "project_chinese": null,
+      "source_english": "Vanilla Concretes",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_glazed_terracottas",
+      "english": "Vanilla Glazed Terracottas",
+      "chinese": "原版：带釉陶瓦",
+      "project_chinese": null,
+      "source_english": "Vanilla Glazed Terracottas",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_terracottas",
+      "english": "Vanilla Terracottas",
+      "chinese": "原版：陶瓦",
+      "project_chinese": null,
+      "source_english": "Vanilla Terracottas",
+      "state": "reviewed_cfpa_adopted"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_wools",
+      "english": "Vanilla Wools",
+      "chinese": "原版：羊毛",
+      "project_chinese": null,
+      "source_english": "Vanilla Wools",
+      "state": "reviewed_cfpa_adopted"
+    }
+  ]
+}

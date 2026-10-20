@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "010",
+  "namespace": "starcatcher",
+  "source_keys": 753,
+  "unique_values": 747,
+  "chinese_values": 749,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 1345,
+  "source_sha256": "ab3cc8a933b2974778430ba028037ae29c8be77d478895a59919d5d02320630d",
+  "in_game_tested": false
+}

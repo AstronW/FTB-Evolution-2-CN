@@ -1,0 +1,14 @@
+{
+  "native_source_keys": 453,
+  "source_keys": 496,
+  "new_keys": 43,
+  "native_translation_keys_revised_after_punctuation_normalization": 41,
+  "upstream_zh_sha256": "83725bff06c83e549c5d959863f5dc9d60d2cc6a99c9396418e9c790f80f907a",
+  "strict_parse_error": {
+    "message": "Invalid control character at",
+    "line": 196,
+    "column": 78
+  },
+  "repair_method": "Read native JSON with strict=False, replace literal tab in translated text with space, normalize punctuation, review and export strict JSON overlay. Native JAR untouched.",
+  "in_game_tested": false
+}

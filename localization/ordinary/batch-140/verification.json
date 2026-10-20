@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "140",
+  "namespace": "nutritional",
+  "source_keys": 72,
+  "unique_values": 65,
+  "chinese_values": 71,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 74,
+  "source_sha256": "f80099842e1db2f1afc48617a2a4b0dece6c916d2d864fa5d5e8e803ce246d58",
+  "in_game_tested": false
+}

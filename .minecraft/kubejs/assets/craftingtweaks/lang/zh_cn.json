@@ -1,0 +1,6 @@
+{
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX": "原版合成指南偏移 X",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX.tooltip": "重新定位原版配方书按钮时距右侧的偏移.",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY": "原版合成指南偏移 Y",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY.tooltip": "重新定位原版配方书按钮时距顶部的偏移."
+}

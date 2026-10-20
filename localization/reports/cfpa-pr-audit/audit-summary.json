@@ -1,0 +1,33 @@
+{
+  "open_prs": 391,
+  "open_pr_page_counts": [
+    100,
+    100,
+    100,
+    91
+  ],
+  "open_pr_changed_files_complete": true,
+  "layouts": [
+    "projects/assets/<slug>/<version>/<namespace>",
+    "projects/<version>/assets/<slug>/<namespace>"
+  ],
+  "open_related_prs": 45,
+  "closed_unmerged_total": 1351,
+  "closed_keyword_queries": 37,
+  "closed_keyword_prs_inspected": 16,
+  "closed_related_prs": [
+    1189,
+    1903,
+    2170,
+    2754,
+    4478,
+    5122,
+    6078
+  ],
+  "closed_exhaustive": false,
+  "file_requests": 1507,
+  "file_successes": 1499,
+  "language_candidates": 99,
+  "lang_format_candidates": 2,
+  "language_without_english": 2
+}

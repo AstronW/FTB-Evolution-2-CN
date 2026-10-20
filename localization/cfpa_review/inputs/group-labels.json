@@ -1,0 +1,1839 @@
+{
+  "method": "Separate non-global group_lang labels. Include groups whose category metadata mod requirement is met in this instance, honoring enabled flag and building/decoration exclusions by category. Does not evaluate runtime item filters or user config. No translations adopted. Only matching PR #6101 candidate found; base CFPA has no current group_lang candidate.",
+  "total_pack_labels": 1447,
+  "active_in_scope_candidate_labels": 260,
+  "counts": {
+    "no_chinese_candidate": 20,
+    "pr_source_match": 235,
+    "same_key_needs_review": 5
+  },
+  "excluded_categories": [
+    "chisel"
+  ],
+  "pr_number": 6101,
+  "pr_head_sha": "21561bf6f23465b8d0ad4db3788479a47f966daa",
+  "source_version": "1.21",
+  "target_version": "26.1.2",
+  "rows": [
+    {
+      "key": "collapsible_groups.category.ae2",
+      "english": "Applied Energistics 2",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.category.apotheosis",
+      "english": "Apotheosis",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.category.enderio",
+      "english": "Ender IO",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.category.generic",
+      "english": "Generic",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.category.macawsseries",
+      "english": "Macaw's Mods",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.category.productivebees",
+      "english": "Productive Bees",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.category.refinedstorage2",
+      "english": "Refined Storage",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.category.vanilla",
+      "english": "Vanilla",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_covered_cables",
+      "english": "AE2: Colored Covered Cables",
+      "chinese": "应用能源2：染色的ME包层线缆",
+      "source_english": "AE2: Colored Covered Cables",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_covered_dense_cables",
+      "english": "AE2: Colored Dense Covered Cables",
+      "chinese": "应用能源2：染色的ME致密包层线缆",
+      "source_english": "AE2: Colored Dense Covered Cables",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_glass_cables",
+      "english": "AE2: Colored Glass Cables",
+      "chinese": "应用能源2：染色的ME玻璃线缆",
+      "source_english": "AE2: Colored Glass Cables",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_smart_cables",
+      "english": "AE2: Colored Smart Cables",
+      "chinese": "应用能源2：染色的智能线缆",
+      "source_english": "AE2: Colored Smart Cables",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_colored_smart_dense_cables",
+      "english": "AE2: Colored Dense Smart Cables",
+      "chinese": "应用能源2：染色的ME致密线缆",
+      "source_english": "AE2: Colored Dense Smart Cables",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_lumen_paint_balls",
+      "english": "AE2: Lumen Paint Balls",
+      "chinese": "应用能源2：光通染色球",
+      "source_english": "AE2: Lumen Paint Balls",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_ae2_paint_balls",
+      "english": "AE2: Paint Balls",
+      "chinese": "应用能源2：染色球",
+      "source_english": "AE2: Paint Balls",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_ballast",
+      "english": "Ballast Gems",
+      "chinese": "稳定宝石",
+      "source_english": "Ballast Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_brawlers",
+      "english": "Brawler's Gems",
+      "chinese": "斗争宝石",
+      "source_english": "Brawler's Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_breach",
+      "english": "Breach Gems",
+      "chinese": "突破宝石",
+      "source_english": "Breach Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_combatant",
+      "english": "Combatant Gems",
+      "chinese": "战斗宝石",
+      "source_english": "Combatant Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_guardian",
+      "english": "Guardian Gems",
+      "chinese": "护卫宝石",
+      "source_english": "Guardian Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_lightning",
+      "english": "Lightning Gems",
+      "chinese": "闪电宝石",
+      "source_english": "Lightning Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_lunar",
+      "english": "Lunar Gems",
+      "chinese": "月华宝石",
+      "source_english": "Lunar Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_samurai",
+      "english": "Samurai Gems",
+      "chinese": "武士宝石",
+      "source_english": "Samurai Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_slipstream",
+      "english": "Slipstream Gems",
+      "chinese": "逸流宝石",
+      "source_english": "Slipstream Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_solar",
+      "english": "Solar Gems",
+      "chinese": "阳炎宝石",
+      "source_english": "Solar Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_splendor",
+      "english": "Splendor Gems",
+      "chinese": "辉煌宝石",
+      "source_english": "Splendor Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_tyrannical",
+      "english": "Tyrannical Gems",
+      "chinese": "暴君宝石",
+      "source_english": "Tyrannical Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_core_warlord",
+      "english": "Warlord Gems",
+      "chinese": "战神宝石",
+      "source_english": "Warlord Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_overworld_earth",
+      "english": "Earth Gems",
+      "chinese": "大地宝石",
+      "source_english": "Earth Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_overworld_royalty",
+      "english": "Royalty Gems",
+      "chinese": "王室宝石",
+      "source_english": "Royalty Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_overworld_verdant_ruin",
+      "english": "Verdant Ruin Gems",
+      "chinese": "翠殒宝石",
+      "source_english": "Verdant Ruin Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_end_endersurge",
+      "english": "Endersurge Gems",
+      "chinese": "影激宝石",
+      "source_english": "Endersurge Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_end_mageslayer",
+      "english": "Mageslayer Gems",
+      "chinese": "法师克星宝石",
+      "source_english": "Mageslayer Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_nether_blood_lord",
+      "english": "Blood Lord Gems",
+      "chinese": "嗜血领主宝石",
+      "source_english": "Blood Lord Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_nether_inferno",
+      "english": "Inferno Gems",
+      "chinese": "炽狱宝石",
+      "source_english": "Inferno Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_the_nether_molten_breach",
+      "english": "Molten Breach Gems",
+      "chinese": "熔融突破宝石",
+      "source_english": "Molten Breach Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_twilight_forest",
+      "english": "TwilightForest Gems",
+      "chinese": "暮色森林宝石",
+      "source_english": "TwilightForest Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_gem_twilight_queen",
+      "english": "Frozen Queen Gems",
+      "chinese": "冰雪女王宝石",
+      "source_english": "Frozen Queen Gems",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_apotheosis_potion_charm",
+      "english": "Potion Charms",
+      "chinese": "药水护符",
+      "source_english": "Potion Charms",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_enchanted_books",
+      "english": "Enchanted Books",
+      "chinese": "附魔书",
+      "source_english": "Enchanted Books",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_enderio_clear_glass",
+      "english": "Clear Glass",
+      "chinese": "纯净玻璃",
+      "source_english": "Clear Glasses",
+      "state": "same_key_needs_review"
+    },
+    {
+      "key": "collapsible_groups.group.__default_enderio_filled_soul_vials",
+      "english": "Filled Soul vials",
+      "chinese": "装有生物的灵魂瓶",
+      "source_english": "Filled Soul vials",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_enderio_fused_quartz",
+      "english": "Fused Quartz",
+      "chinese": "石英玻璃",
+      "source_english": "Fused Quartzs",
+      "state": "same_key_needs_review"
+    },
+    {
+      "key": "collapsible_groups.group.__default_lingering_potions",
+      "english": "Lingering Potions",
+      "chinese": "滞留药水",
+      "source_english": "Lingering Potions",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_bamboo_bridges",
+      "english": "Macaw's Bridges: Bamboo Bridges",
+      "chinese": "Macaw的桥梁：竹桥",
+      "source_english": "Macaw's Bridges: Bamboo Bridges",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_bamboo_piers",
+      "english": "Macaw's Bridges: Bamboo Piers",
+      "chinese": "Macaw的桥梁：竹桥梁支架",
+      "source_english": "Macaw's Bridges: Bamboo Piers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_bamboo_stairs",
+      "english": "Macaw's Bridges: Bamboo Stairs",
+      "chinese": "Macaw的桥梁：竹桥梯",
+      "source_english": "Macaw's Bridges: Bamboo Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_glass_bridges",
+      "english": "Macaw's Bridges: Glass Bridges",
+      "chinese": "Macaw的桥梁：玻璃桥",
+      "source_english": "Macaw's Bridges: Glass Bridges",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_log_bridges",
+      "english": "Macaw's Bridges: Log Bridges",
+      "chinese": "Macaw的桥梁：原木桥",
+      "source_english": "Macaw's Bridges: Log Bridges",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_log_stairs",
+      "english": "Macaw's Bridges: Log Stairs",
+      "chinese": "Macaw的桥梁：原木桥梯",
+      "source_english": "Macaw's Bridges: Log Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_metal_bridges",
+      "english": "Macaw's Bridges: Metal Bridges",
+      "chinese": "Macaw的桥梁：金属桥",
+      "source_english": "Macaw's Bridges: Metal Bridges",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_rail_bridges",
+      "english": "Macaw's Bridges: Rail Bridges",
+      "chinese": "Macaw的桥梁：铁轨桥",
+      "source_english": "Macaw's Bridges: Rail Bridges",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_rope_bridges",
+      "english": "Macaw's Bridges: Rope Bridges",
+      "chinese": "Macaw的桥梁：索桥",
+      "source_english": "Macaw's Bridges: Rope Bridges",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_rope_stairs",
+      "english": "Macaw's Bridges: Rope Stairs",
+      "chinese": "Macaw的桥梁：索桥梯",
+      "source_english": "Macaw's Bridges: Rope Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_special_bridges",
+      "english": "Macaw's Bridges: Special Bridges",
+      "chinese": "Macaw的桥梁：特殊桥",
+      "source_english": "Macaw's Bridges: Special Bridges",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_stone_bridges",
+      "english": "Macaw's Bridges: Stone Bridges",
+      "chinese": "Macaw的桥梁：石桥",
+      "source_english": "Macaw's Bridges: Stone Bridges",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_stone_piers",
+      "english": "Macaw's Bridges: Stone Piers",
+      "chinese": "Macaw的桥梁：石桥梁支架",
+      "source_english": "Macaw's Bridges: Stone Piers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_stone_stairs",
+      "english": "Macaw's Bridges: Stone Stairs",
+      "chinese": "Macaw的桥梁：石桥梯",
+      "source_english": "Macaw's Bridges: Stone Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_bridges_wooden_piers",
+      "english": "Macaw's Bridges: Wooden Piers",
+      "chinese": "Macaw的桥梁：木桥梁支架",
+      "source_english": "Macaw's Bridges: Wooden Piers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_bamboo_doors",
+      "english": "Macaw's Doors: Mesh Doors",
+      "chinese": "Macaw的门：竹风门",
+      "source_english": "Macaw's Doors: Bamboo Doors",
+      "state": "same_key_needs_review"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_bark_glass_doors",
+      "english": "Macaw's Doors: Bark Glass Doors",
+      "chinese": "Macaw的门：树皮玻璃门",
+      "source_english": "Macaw's Doors: Bark Glass Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_barn_doors",
+      "english": "Macaw's Doors: Barn Doors",
+      "chinese": "Macaw的门：谷仓门",
+      "source_english": "Macaw's Doors: Barn Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_barn_glass_doors",
+      "english": "Macaw's Doors: Barn Glass Doors",
+      "chinese": "Macaw的门：玻璃谷仓门",
+      "source_english": "Macaw's Doors: Barn Glass Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_beach_doors",
+      "english": "Macaw's Doors: Beach Doors",
+      "chinese": "Macaw的门：海滨风格门",
+      "source_english": "Macaw's Doors: Beach Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_classic_doors",
+      "english": "Macaw's Doors: Classic Doors",
+      "chinese": "Macaw的门：经典风格门",
+      "source_english": "Macaw's Doors: Classic Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_cottage_doors",
+      "english": "Macaw's Doors: Cottage Doors",
+      "chinese": "Macaw的门：农舍风格门",
+      "source_english": "Macaw's Doors: Cottage Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_four_panel_doors",
+      "english": "Macaw's Doors: Four Panel Doors",
+      "chinese": "Macaw的门：四联门",
+      "source_english": "Macaw's Doors: Four Panel Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_garage_doors",
+      "english": "Macaw's Doors: Garage Doors",
+      "chinese": "Macaw的门：车库门",
+      "source_english": "Macaw's Doors: Garage Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_glass_doors",
+      "english": "Macaw's Doors: Glass Doors",
+      "chinese": "Macaw的门：玻璃门",
+      "source_english": "Macaw's Doors: Glass Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_metal_doors",
+      "english": "Macaw's Doors: Metal Doors",
+      "chinese": "Macaw的门：金属门",
+      "source_english": "Macaw's Doors: Metal Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_modern_doors",
+      "english": "Macaw's Doors: Modern Doors",
+      "chinese": "Macaw的门：现代风格门",
+      "source_english": "Macaw's Doors: Modern Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_mystic_doors",
+      "english": "Macaw's Doors: Mystic Doors",
+      "chinese": "Macaw的门：诡秘风格门",
+      "source_english": "Macaw's Doors: Mystic Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_nether_doors",
+      "english": "Macaw's Doors: Nether Doors",
+      "chinese": "Macaw的门：下界风格门",
+      "source_english": "Macaw's Doors: Nether Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_paper_doors",
+      "english": "Macaw's Doors: Paper Doors",
+      "chinese": "Macaw的门：壁纸门",
+      "source_english": "Macaw's Doors: Paper Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_portcullis",
+      "english": "Macaw's Doors: Portcullis",
+      "chinese": "Macaw的门：吊闸门",
+      "source_english": "Macaw's Doors: Portcullis",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_shoji_doors",
+      "english": "Macaw's Doors: Shoji Doors",
+      "chinese": "Macaw的门：障子门",
+      "source_english": "Macaw's Doors: Shoji Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_shoji_whole_doors",
+      "english": "Macaw's Doors: Shoji Whole Doors",
+      "chinese": "Macaw的门：全格障子门",
+      "source_english": "Macaw's Doors: Shoji Whole Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_special_doors",
+      "english": "Macaw's Doors: Special Doors",
+      "chinese": "Macaw的门：特殊门",
+      "source_english": "Macaw's Doors: Special Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_stable_doors",
+      "english": "Macaw's Doors: Stable Doors",
+      "chinese": "Macaw的门：马厩门",
+      "source_english": "Macaw's Doors: Stable Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_stable_head_doors",
+      "english": "Macaw's Doors: Stable Head Doors",
+      "chinese": "Macaw的门：有开口马厩门",
+      "source_english": "Macaw's Doors: Stable Head Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_swamp_doors",
+      "english": "Macaw's Doors: Swamp Doors",
+      "chinese": "Macaw的门：沼泽风格门",
+      "source_english": "Macaw's Doors: Swamp Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_tropical_doors",
+      "english": "Macaw's Doors: Tropical Doors",
+      "chinese": "Macaw的门：热带风格门",
+      "source_english": "Macaw's Doors: Tropical Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_waffle_doors",
+      "english": "Macaw's Doors: Waffle Doors",
+      "chinese": "Macaw的门：华夫格门",
+      "source_english": "Macaw's Doors: Waffle Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_western_doors",
+      "english": "Macaw's Doors: Western Doors",
+      "chinese": "Macaw的门：西部百叶门",
+      "source_english": "Macaw's Doors: Western Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_doors_whispering_doors",
+      "english": "Macaw's Doors: Whispering Doors",
+      "chinese": "Macaw的门：低语风格门",
+      "source_english": "Macaw's Doors: Whispering Doors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_cheval_de_frise",
+      "english": "Macaw's Fences: Cheval De Frise",
+      "chinese": "Macaw的栅栏：拒马",
+      "source_english": "Macaw's Fences: Cheval De Frise",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_curved_double_gates",
+      "english": "Macaw's Fences: Curved Double Gates",
+      "chinese": "Macaw的栅栏：扇形双栅栏门",
+      "source_english": "Macaw's Fences: Curved Double Gates",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_grass_topped_walls",
+      "english": "Macaw's Fences: Grass Topped Walls",
+      "chinese": "Macaw的栅栏：草顶墙",
+      "source_english": "Macaw's Fences: Grass Topped Walls",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_hedges",
+      "english": "Macaw's Fences: Hedges",
+      "chinese": "Macaw的栅栏：树篱",
+      "source_english": "Macaw's Fences: Hedges",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_highley_gates",
+      "english": "Macaw's Fences: Highley Gates",
+      "chinese": "Macaw的栅栏：海利栅栏门",
+      "source_english": "Macaw's Fences: Highley Gates",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_horse_fences",
+      "english": "Macaw's Fences: Horse Fences",
+      "chinese": "Macaw的栅栏：马场栅栏",
+      "source_english": "Macaw's Fences: Horse Fences",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_metal_double_gates",
+      "english": "Macaw's Fences: Metal Double Gates",
+      "chinese": "Macaw的栅栏：金属双栅栏门",
+      "source_english": "Macaw's Fences: Metal Double Gates",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_metal_fences",
+      "english": "Macaw's Fences: Metal Fences",
+      "chinese": "Macaw的栅栏：金属栅栏",
+      "source_english": "Macaw's Fences: Metal Fences",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_modern_walls",
+      "english": "Macaw's Fences: Modern Walls",
+      "chinese": "Macaw的栅栏：现代墙",
+      "source_english": "Macaw's Fences: Modern Walls",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_picket_fences",
+      "english": "Macaw's Fences: Picket Fences",
+      "chinese": "Macaw的栅栏：篱栅",
+      "source_english": "Macaw's Fences: Picket Fences",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_pillar_walls",
+      "english": "Macaw's Fences: Pillar Walls",
+      "chinese": "Macaw的栅栏：柱墙",
+      "source_english": "Macaw's Fences: Pillar Walls",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_pyramid_gates",
+      "english": "Macaw's Fences: Pyramid Gates",
+      "chinese": "Macaw的栅栏：斜板栅栏门",
+      "source_english": "Macaw's Fences: Pyramid Gates",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_railing_gates",
+      "english": "Macaw's Fences: Railing Gates",
+      "chinese": "Macaw的栅栏：铁栅栏门",
+      "source_english": "Macaw's Fences: Railing Gates",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_railing_walls",
+      "english": "Macaw's Fences: Railing Walls",
+      "chinese": "Macaw的栅栏：铁栅栏墙",
+      "source_english": "Macaw's Fences: Railing Walls",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_stockade_fences",
+      "english": "Macaw's Fences: Stockade Fences",
+      "chinese": "Macaw的栅栏：栅栏墙",
+      "source_english": "Macaw's Fences: Stockade Fences",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_fences_wired_fences",
+      "english": "Macaw's Fences: Wired Fences",
+      "chinese": "Macaw的栅栏：铁丝栅栏",
+      "source_english": "Macaw's Fences: Wired Fences",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_bookshelf",
+      "english": "Macaw's Furnitures: Bookshelf",
+      "chinese": "Macaw的家具：书架",
+      "source_english": "Macaw's Furnitures: Bookshelf",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_bookshelf_cupboard",
+      "english": "Macaw's Furnitures: Bookshelf Cupboard",
+      "chinese": "Macaw的家具：带橱柜书架",
+      "source_english": "Macaw's Furnitures: Bookshelf Cupboard",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_bookshelf_drawer",
+      "english": "Macaw's Furnitures: Bookshelf Drawer",
+      "chinese": "Macaw的家具：带书架横排柜",
+      "source_english": "Macaw's Furnitures: Bookshelf Drawer",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_cabinet",
+      "english": "Macaw's Furnitures: Cabinet",
+      "chinese": "Macaw的家具：橱柜",
+      "source_english": "Macaw's Furnitures: Cabinet",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_chair",
+      "english": "Macaw's Furnitures: Chair",
+      "chinese": "Macaw的家具：椅子",
+      "source_english": "Macaw's Furnitures: Chair",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_chaise",
+      "english": "Macaw's Furnitures: Chaise",
+      "chinese": "Macaw的家具： Chaise",
+      "source_english": "Macaw's Furnitures: Chaise",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_coffee_table",
+      "english": "Macaw's Furnitures: Coffee Table",
+      "chinese": "Macaw的家具：高脚桌",
+      "source_english": "Macaw's Furnitures: Coffee Table",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_couch",
+      "english": "Macaw's Furnitures: Couch",
+      "chinese": "Macaw的家具：Couch",
+      "source_english": "Macaw's Furnitures: Couch",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_counter",
+      "english": "Macaw's Furnitures: Counter",
+      "chinese": "Macaw的家具：台桌",
+      "source_english": "Macaw's Furnitures: Counter",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_covered_desk",
+      "english": "Macaw's Furnitures: Covered Desk",
+      "chinese": "Macaw的家具：带挡板书桌",
+      "source_english": "Macaw's Furnitures: Covered Desk",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_cupboard_counter",
+      "english": "Macaw's Furnitures: Cupboard Counter",
+      "chinese": "Macaw的家具：橱柜台桌",
+      "source_english": "Macaw's Furnitures: Cupboard Counter",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_desk",
+      "english": "Macaw's Furnitures: Desk",
+      "chinese": "Macaw的家具：书桌",
+      "source_english": "Macaw's Furnitures: Desk",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_double_drawer",
+      "english": "Macaw's Furnitures: Double Drawer",
+      "chinese": "Macaw的家具：双层横排柜",
+      "source_english": "Macaw's Furnitures: Double Drawer",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_double_drawer_counter",
+      "english": "Macaw's Furnitures: Double Drawer Counter",
+      "chinese": "Macaw的家具：双层抽屉台桌",
+      "source_english": "Macaw's Furnitures: Double Drawer Counter",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_double_wardrobe",
+      "english": "Macaw's Furnitures: Double Wardrobe",
+      "chinese": "Macaw的家具：双层厨房橱柜",
+      "source_english": "Macaw's Furnitures: Double Wardrobe",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_drawer",
+      "english": "Macaw's Furnitures: Drawer",
+      "chinese": "Macaw的家具：横排柜",
+      "source_english": "Macaw's Furnitures: Drawer",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_drawer_counter",
+      "english": "Macaw's Furnitures: Drawer Counter",
+      "chinese": "Macaw的家具：抽屉台桌",
+      "source_english": "Macaw's Furnitures: Drawer Counter",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_end_table",
+      "english": "Macaw's Furnitures: End Table",
+      "chinese": "Macaw的家具：搁板桌",
+      "source_english": "Macaw's Furnitures: End Table",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_glass_table",
+      "english": "Macaw's Furnitures: Glass Table",
+      "chinese": "Macaw的家具：玻璃桌",
+      "source_english": "Macaw's Furnitures: Glass Table",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_kitchen_sink",
+      "english": "Macaw's Furnitures: Kitchen Sink",
+      "chinese": "Macaw的家具： Kitchen Sink",
+      "source_english": "Macaw's Furnitures: Kitchen Sink",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_large_drawer",
+      "english": "Macaw's Furnitures: Large Drawer",
+      "chinese": "Macaw的家具：大型横排柜",
+      "source_english": "Macaw's Furnitures: Large Drawer",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_lower_bookshelf_drawer",
+      "english": "Macaw's Furnitures: Lower Bookshelf Drawer",
+      "chinese": "Macaw的家具：带下层书架横排柜",
+      "source_english": "Macaw's Furnitures: Lower Bookshelf Drawer",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_lower_triple_drawer",
+      "english": "Macaw's Furnitures: Lower Triple Drawer",
+      "chinese": "Macaw的家具：倒品字横排柜",
+      "source_english": "Macaw's Furnitures: Lower Triple Drawer",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_modern_chair",
+      "english": "Macaw's Furnitures: Modern Chair",
+      "chinese": "Macaw的家具：现代风格椅子",
+      "source_english": "Macaw's Furnitures: Modern Chair",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_modern_desk",
+      "english": "Macaw's Furnitures: Modern Desk",
+      "chinese": "Macaw的家具：现代风格书桌",
+      "source_english": "Macaw's Furnitures: Modern Desk",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_modern_wardrobe",
+      "english": "Macaw's Furnitures: Modern Wardrobe",
+      "chinese": "Macaw的家具：现代风格衣柜",
+      "source_english": "Macaw's Furnitures: Modern Wardrobe",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_stool_chair",
+      "english": "Macaw's Furnitures: Stool Chair",
+      "chinese": "Macaw的家具：凳子",
+      "source_english": "Macaw's Furnitures: Stool Chair",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_striped_chair",
+      "english": "Macaw's Furnitures: Striped Chair",
+      "chinese": "Macaw的家具：竖纹靠背椅",
+      "source_english": "Macaw's Furnitures: Striped Chair",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_table",
+      "english": "Macaw's Furnitures: Table",
+      "chinese": "Macaw的家具：桌子",
+      "source_english": "Macaw's Furnitures: Table",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_triple_drawer",
+      "english": "Macaw's Furnitures: Triple Drawer",
+      "chinese": "Macaw的家具：品字横排柜",
+      "source_english": "Macaw's Furnitures: Triple Drawer",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_furnitures_wadrobe",
+      "english": "Macaw's Furnitures: Wardrobe",
+      "chinese": "Macaw的家具：衣柜",
+      "source_english": "Macaw's Furnitures: Wardrobe",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_candle_holders",
+      "english": "Macaw's Lights: Candle Holders",
+      "chinese": "Macaw的照明灯具：烛台",
+      "source_english": "Macaw's Lights: Candle Holders",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_ceiling_fan_lights",
+      "english": "Macaw's Lights: Ceiling Fan Lights",
+      "chinese": "Macaw的照明灯具：吊扇灯",
+      "source_english": "Macaw's Lights: Ceiling Fan Lights",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_ceiling_lights",
+      "english": "Macaw's Lights: Ceiling Lights",
+      "chinese": "Macaw的照明灯具：吸顶灯",
+      "source_english": "Macaw's Lights: Ceiling Lights",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_chains",
+      "english": "Macaw's Lights: Chains",
+      "chinese": "Macaw的照明灯具：锁链",
+      "source_english": "Macaw's Lights: Chains",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_chandeliers",
+      "english": "Macaw's Lights: Chandeliers",
+      "chinese": "Macaw的照明灯具：吊灯",
+      "source_english": "Macaw's Lights: Chandeliers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_garden_lights",
+      "english": "Macaw's Lights: Garden Lights",
+      "chinese": "Macaw的照明灯具：花园灯",
+      "source_english": "Macaw's Lights: Garden Lights",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_lamps",
+      "english": "Macaw's Lights: Lamps",
+      "chinese": "Macaw的照明灯具：台灯",
+      "source_english": "Macaw's Lights: Lamps",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_lanterns",
+      "english": "Macaw's Lights: Lanterns",
+      "chinese": "Macaw的照明灯具：灯笼",
+      "source_english": "Macaw's Lights: Lanterns",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_lava_lamps",
+      "english": "Macaw's Lights: Lava Lamps",
+      "chinese": "Macaw的照明灯具：熔岩灯",
+      "source_english": "Macaw's Lights: Lava Lamps",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_paper_lamps",
+      "english": "Macaw's Lights: Paper Lamps",
+      "chinese": "Macaw的照明灯具：纸灯",
+      "source_english": "Macaw's Lights: Paper Lamps",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_slab_lights",
+      "english": "Macaw's Lights: Slab Lights",
+      "chinese": "Macaw的照明灯具：灯台阶",
+      "source_english": "Macaw's Lights: Slab Lights",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_soul_street_lamps",
+      "english": "Macaw's Lights: Soul Street Lamps",
+      "chinese": "Macaw的照明灯具：灵魂路灯",
+      "source_english": "Macaw's Lights: Soul Street Lamps",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_soul_tiki_torches",
+      "english": "Macaw's Lights: Soul Tiki Torches",
+      "chinese": "Macaw的照明灯具：灵魂提基火把",
+      "source_english": "Macaw's Lights: Soul Tiki Torches",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_street_lamps",
+      "english": "Macaw's Lights: Street Lamps",
+      "chinese": "Macaw的照明灯具：路灯",
+      "source_english": "Macaw's Lights: Street Lamps",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_tiki_torches",
+      "english": "Macaw's Lights: Tiki Torches",
+      "chinese": "Macaw的照明灯具：提基火把",
+      "source_english": "Macaw's Lights: Tiki Torches",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_torches",
+      "english": "Macaw's Lights: Torches",
+      "chinese": "Macaw的照明灯具：火把",
+      "source_english": "Macaw's Lights: Torches",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_wall_lamps",
+      "english": "Macaw's Lights: Wall Lamps",
+      "chinese": "Macaw的照明灯具：壁挂灯",
+      "source_english": "Macaw's Lights: Wall Lamps",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_lights_wall_lanterns",
+      "english": "Macaw's Lights: Wall Lanterns",
+      "chinese": "Macaw的照明灯具：壁挂灯笼",
+      "source_english": "Macaw's Lights: Wall Lanterns",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_paths_path_stairs",
+      "english": "Macaw's Paths: Path Stairs",
+      "chinese": "Macaw的小径和路面：Path Stairs",
+      "source_english": "Macaw's Paths: Path Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_paths_slab_paths",
+      "english": "Macaw's Paths: Slab Paths",
+      "chinese": "Macaw的小径和路面：Slab Paths",
+      "source_english": "Macaw's Paths: Slab Paths",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_paths_soil_paths",
+      "english": "Macaw's Paths: Soil Paths",
+      "chinese": "Macaw的小径和路面：Soil Paths",
+      "source_english": "Macaw's Paths: Soil Paths",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_paths_stone_engraved_blocks",
+      "english": "Macaw's Paths: Stone Engraved Blocks",
+      "chinese": "Macaw的小径和路面：Stone Engraved Blocks",
+      "source_english": "Macaw's Paths: Stone Engraved Blocks",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_paths_stone_paths",
+      "english": "Macaw's Paths: Stone Paths",
+      "chinese": "Macaw的小径和路面：Stone Paths",
+      "source_english": "Macaw's Paths: Stone Paths",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_paths_stone_pavings",
+      "english": "Macaw's Paths: Stone Pavings",
+      "chinese": "Macaw的小径和路面：Stone Pavings",
+      "source_english": "Macaw's Paths: Stone Pavings",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_paths_wooden_paths",
+      "english": "Macaw's Paths: Wooden Paths",
+      "chinese": "Macaw的小径和路面：Wooden Paths",
+      "source_english": "Macaw's Paths: Wooden Paths",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_attic_roofs",
+      "english": "Macaw's Roofs: Attic Roofs",
+      "chinese": "Macaw的屋顶：天窗屋顶",
+      "source_english": "Macaw's Roofs: Attic Roofs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_gutter_bases",
+      "english": "Macaw's Roofs: Gutter Bases",
+      "chinese": "Macaw的屋顶：雨水槽",
+      "source_english": "Macaw's Roofs: Gutter Bases",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_gutter_middles",
+      "english": "Macaw's Roofs: Gutter Middles",
+      "chinese": "Macaw的屋顶：排水管",
+      "source_english": "Macaw's Roofs: Gutter Middles",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_lower_roofs",
+      "english": "Macaw's Roofs: Lower Roofs",
+      "chinese": "Macaw的屋顶：屋顶底端",
+      "source_english": "Macaw's Roofs: Lower Roofs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_roof_blocks",
+      "english": "Macaw's Roofs: Roof Blocks",
+      "chinese": "Macaw的屋顶：屋顶方块",
+      "source_english": "Macaw's Roofs: Roof Blocks",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_roof_slabs",
+      "english": "Macaw's Roofs: Roof Slabs",
+      "chinese": "Macaw的屋顶：屋顶台阶",
+      "source_english": "Macaw's Roofs: Roof Slabs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_roofs",
+      "english": "Macaw's Roofs: Roofs",
+      "chinese": "Macaw的屋顶：屋顶",
+      "source_english": "Macaw's Roofs: Roofs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_steep_roofs",
+      "english": "Macaw's Roofs: Steep Roofs",
+      "chinese": "Macaw的屋顶：陡峭屋顶",
+      "source_english": "Macaw's Roofs: Steep Roofs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_striped_awnings",
+      "english": "Macaw's Roofs: Striped Awnings",
+      "chinese": "Macaw的屋顶：Striped Awnings",
+      "source_english": "Macaw's Roofs: Striped Awnings",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_top_roofs",
+      "english": "Macaw's Roofs: Top Roofs",
+      "chinese": "Macaw的屋顶：屋顶顶端",
+      "source_english": "Macaw's Roofs: Top Roofs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_upper_lower_roofs",
+      "english": "Macaw's Roofs: Upper Lower Roofs",
+      "chinese": "Macaw的屋顶：平缓屋顶顶端",
+      "source_english": "Macaw's Roofs: Upper Lower Roofs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_roofs_upper_steep_roofs",
+      "english": "Macaw's Roofs: Upper Steep Roofs",
+      "chinese": "Macaw的屋顶：陡峭屋顶顶端",
+      "source_english": "Macaw's Roofs: Upper Steep Roofs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_stairs_balconies",
+      "english": "Macaw's Stairs: Balconies",
+      "chinese": "Macaw的楼梯与露台：露台扶手",
+      "source_english": "Macaw's Stairs: Balconies",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_stairs_bulk_stairs",
+      "english": "Macaw's Stairs: Bulk Stairs",
+      "chinese": "Macaw的楼梯与露台：厚实楼梯",
+      "source_english": "Macaw's Stairs: Bulk Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_stairs_compact_stairs",
+      "english": "Macaw's Stairs: Compact Stairs",
+      "chinese": "Macaw的楼梯与露台：短阶楼梯",
+      "source_english": "Macaw's Stairs: Compact Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_stairs_loft_stairs",
+      "english": "Macaw's Stairs: Loft Stairs",
+      "chinese": "Macaw的楼梯与露台：悬空楼梯",
+      "source_english": "Macaw's Stairs: Loft Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_stairs_platforms",
+      "english": "Macaw's Stairs: Platforms",
+      "chinese": "Macaw的楼梯与露台：平台",
+      "source_english": "Macaw's Stairs: Platforms",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_stairs_railings",
+      "english": "Macaw's Stairs: Railings",
+      "chinese": "Macaw的楼梯与露台：楼梯扶手",
+      "source_english": "Macaw's Stairs: Railings",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_stairs_skyline_stairs",
+      "english": "Macaw's Stairs: Skyline Stairs",
+      "chinese": "Macaw的楼梯与露台：铺架楼梯",
+      "source_english": "Macaw's Stairs: Skyline Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_stairs_terrace_stairs",
+      "english": "Macaw's Stairs: Terrace Stairs",
+      "chinese": "Macaw的楼梯与露台：单梁楼梯",
+      "source_english": "Macaw's Stairs: Terrace Stairs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_bamboo_trapdoors",
+      "english": "Macaw's Trapdoors: Mesh Trapdoors",
+      "chinese": "Macaw的活板门：竹编活板门",
+      "source_english": "Macaw's Trapdoors: Bamboo Trapdoors",
+      "state": "same_key_needs_review"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_bark_trapdoors",
+      "english": "Macaw's Trapdoors: Bark Trapdoors",
+      "chinese": "Macaw的活板门：树皮活板门",
+      "source_english": "Macaw's Trapdoors: Bark Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_barn_trapdoors",
+      "english": "Macaw's Trapdoors: Barn Trapdoors",
+      "chinese": "Macaw的活板门：谷仓活板门",
+      "source_english": "Macaw's Trapdoors: Barn Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_barred_trapdoors",
+      "english": "Macaw's Trapdoors: Barred Trapdoors",
+      "chinese": "Macaw的活板门：栅纹活板门",
+      "source_english": "Macaw's Trapdoors: Barred Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_barrel_trapdoors",
+      "english": "Macaw's Trapdoors: Barrel Trapdoors",
+      "chinese": "Macaw的活板门：桶式活板门",
+      "source_english": "Macaw's Trapdoors: Barrel Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_beach_trapdoors",
+      "english": "Macaw's Trapdoors: Beach Trapdoors",
+      "chinese": "Macaw的活板门：海滩活板门",
+      "source_english": "Macaw's Trapdoors: Beach Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_blossom_trapdoors",
+      "english": "Macaw's Trapdoors: Waffle Trapdoors",
+      "chinese": "Macaw的活板门：花格活板门",
+      "source_english": "Macaw's Trapdoors: Blossom Trapdoors",
+      "state": "same_key_needs_review"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_classic_trapdoors",
+      "english": "Macaw's Trapdoors: Classic Trapdoors",
+      "chinese": "Macaw的活板门：经典活板门",
+      "source_english": "Macaw's Trapdoors: Classic Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_cottage_trapdoors",
+      "english": "Macaw's Trapdoors: Cottage Trapdoors",
+      "chinese": "Macaw的活板门：农舍活板门",
+      "source_english": "Macaw's Trapdoors: Cottage Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_four_panel_trapdoors",
+      "english": "Macaw's Trapdoors: Four Panel Trapdoors",
+      "chinese": "Macaw的活板门：四格活板门",
+      "source_english": "Macaw's Trapdoors: Four Panel Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_glass_trapdoors",
+      "english": "Macaw's Trapdoors: Glass Trapdoors",
+      "chinese": "Macaw的活板门：玻璃活板门",
+      "source_english": "Macaw's Trapdoors: Glass Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_metal_trapdoors",
+      "english": "Macaw's Trapdoors: Metal Trapdoors",
+      "chinese": "Macaw的活板门：金属活板门",
+      "source_english": "Macaw's Trapdoors: Metal Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_mystic_trapdoors",
+      "english": "Macaw's Trapdoors: Mystic Trapdoors",
+      "chinese": "Macaw的活板门：神秘活板门",
+      "source_english": "Macaw's Trapdoors: Mystic Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_paper_trapdoors",
+      "english": "Macaw's Trapdoors: Paper Trapdoors",
+      "chinese": "Macaw的活板门：纸窗活板门",
+      "source_english": "Macaw's Trapdoors: Paper Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_ranch_trapdoors",
+      "english": "Macaw's Trapdoors: Ranch Trapdoors",
+      "chinese": "Macaw的活板门：农场活板门",
+      "source_english": "Macaw's Trapdoors: Ranch Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_swamp_trapdoors",
+      "english": "Macaw's Trapdoors: Swamp Trapdoors",
+      "chinese": "Macaw的活板门：沼泽活板门",
+      "source_english": "Macaw's Trapdoors: Swamp Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_tropical_trapdoors",
+      "english": "Macaw's Trapdoors: Tropical Trapdoors",
+      "chinese": "Macaw的活板门：热带活板门",
+      "source_english": "Macaw's Trapdoors: Tropical Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_trapdoors_whispering_trapdoors",
+      "english": "Macaw's Trapdoors: Whispering Trapdoors",
+      "chinese": "Macaw的活板门：低语活板门",
+      "source_english": "Macaw's Trapdoors: Whispering Trapdoors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_arrow_slit",
+      "english": "Macaw's Windows: Arrow Slit",
+      "chinese": "Macaw的窗户：箭缝",
+      "source_english": "Macaw's Windows: Arrow Slit",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_blinds",
+      "english": "Macaw's Windows: Blinds",
+      "chinese": "Macaw的窗户：Blinds",
+      "source_english": "Macaw's Windows: Blinds",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_curtain_rods",
+      "english": "Macaw's Windows: Curtain Rods",
+      "chinese": "Macaw的窗户：Curtain Rods",
+      "source_english": "Macaw's Windows: Curtain Rods",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_curtains",
+      "english": "Macaw's Windows: Curtains",
+      "chinese": "Macaw的窗户：窗帘",
+      "source_english": "Macaw's Windows: Curtains",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_gothic",
+      "english": "Macaw's Windows: Gothic",
+      "chinese": "Macaw的窗户：哥特式窗户",
+      "source_english": "Macaw's Windows: Gothic",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_mosaic_glass",
+      "english": "Macaw's Windows: Mosaic Glass",
+      "chinese": "Macaw的窗户：马赛克玻璃",
+      "source_english": "Macaw's Windows: Mosaic Glass",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_mosaic_glass_pane",
+      "english": "Macaw's Windows: Mosaic Glass Pane",
+      "chinese": "Macaw的窗户：马赛克玻璃板",
+      "source_english": "Macaw's Windows: Mosaic Glass Pane",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_pane_windows",
+      "english": "Macaw's Windows: Pane Windows",
+      "chinese": "Macaw的窗户：嵌板拆改农户",
+      "source_english": "Macaw's Windows: Pane Windows",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_parapets",
+      "english": "Macaw's Windows: Parapets",
+      "chinese": "Macaw的窗户：护台",
+      "source_english": "Macaw's Windows: Parapets",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_shutters",
+      "english": "Macaw's Windows: Shutters",
+      "chinese": "Macaw的窗户：窗扇",
+      "source_english": "Macaw's Windows: Shutters",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_windows",
+      "english": "Macaw's Windows: Windows",
+      "chinese": "Macaw的窗户：可调窗户",
+      "source_english": "Macaw's Windows: Windows",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_windows_four",
+      "english": "Macaw's Windows: Four Windows",
+      "chinese": "Macaw的窗户：四格窗户",
+      "source_english": "Macaw's Windows: Four Windows",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_mcw_windows_windows_two",
+      "english": "Macaw's Windows: Two Windows",
+      "chinese": "Macaw的窗户：长方格窗户",
+      "source_english": "Macaw's Windows: Two Windows",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_music_discs",
+      "english": "Music Discs",
+      "chinese": "音乐唱片",
+      "source_english": "Music Discs",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_paintings",
+      "english": "Paintings",
+      "chinese": "画",
+      "source_english": "Paintings",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_potions",
+      "english": "Potions",
+      "chinese": "药水",
+      "source_english": "Potions",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_pottery_sherds",
+      "english": "Pottery Sherds",
+      "chinese": "陶片",
+      "source_english": "Pottery Sherds",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_attribute_genes",
+      "english": "Productive Bees: Attribute Genes",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_bee_spawn_eggs",
+      "english": "Productive Bees: Bee Spawn Eggs",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_beehives",
+      "english": "Productive Bees: Beehives",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_bees",
+      "english": "Productive Bees: Bee Entities",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_canvas_beehives",
+      "english": "Productive Bees: Canvas Beehives",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_canvas_expansion_boxes",
+      "english": "Productive Bees: Canvas Expansion Boxes",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_comb_blocks",
+      "english": "Productive Bees: Comb Blocks",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_expansion_boxes",
+      "english": "Productive Bees: Expansion Boxes",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_honeycombs",
+      "english": "Productive Bees: Honeycombs",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_nests",
+      "english": "Productive Bees: Bee Nests",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_petrified_honey",
+      "english": "Productive Bees: Petrified Honey",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_productivebees_type_genes",
+      "english": "Productive Bees: Type Genes",
+      "chinese": null,
+      "source_english": null,
+      "state": "no_chinese_candidate"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_autocrafter_managers",
+      "english": "RS2: Colored Autocrafter Managers",
+      "chinese": "精致存储：染色的自动合成仓管理器",
+      "source_english": "RS2: Colored Autocrafter Managers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_autocrafters",
+      "english": "RS2: Colored Autocrafters",
+      "chinese": "精致存储：染色的自动合成仓",
+      "source_english": "RS2: Colored Autocrafters",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_autocrafting_monitors",
+      "english": "RS2: Colored Autocrafting Monitors",
+      "chinese": "精致存储：染色的合成监视器",
+      "source_english": "RS2: Colored Autocrafting Monitors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_cables",
+      "english": "RS2: Colored Cables",
+      "chinese": "精致存储：染色的线缆",
+      "source_english": "RS2: Colored Cables",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_constructors",
+      "english": "RS2: Colored Constructors",
+      "chinese": "精致存储：染色的成型器",
+      "source_english": "RS2: Colored Constructors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_controllers",
+      "english": "RS2: Colored Controllers",
+      "chinese": "精致存储：染色的控制器",
+      "source_english": "RS2: Colored Controllers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_crafting_grids",
+      "english": "RS2: Colored Crafting Grids",
+      "chinese": "精致存储：染色的合成终端",
+      "source_english": "RS2: Colored Crafting Grids",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_creative_controllers",
+      "english": "RS2: Colored Creative Controllers",
+      "chinese": "精致存储：染色的创造控制器",
+      "source_english": "RS2: Colored Creative Controllers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_destructors",
+      "english": "RS2: Colored Destructors",
+      "chinese": "精致存储：染色的破坏器",
+      "source_english": "RS2: Colored Destructors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_detectors",
+      "english": "RS2: Colored Detectors",
+      "chinese": "精致存储：染色的检测器",
+      "source_english": "RS2: Colored Detectors",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_disk_interfaces",
+      "english": "RS2: Colored Disk Interfaces",
+      "chinese": "精致存储：染色的磁盘接口",
+      "source_english": "RS2: Colored Disk Interfaces",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_exporters",
+      "english": "RS2: Colored Exporters",
+      "chinese": "精致存储：染色的输出器",
+      "source_english": "RS2: Colored Exporters",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_external_storages",
+      "english": "RS2: Colored External Storages",
+      "chinese": "精致存储：染色的外部存储",
+      "source_english": "RS2: Colored External Storages",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_grids",
+      "english": "RS2: Colored Grids",
+      "chinese": "精致存储：染色的终端",
+      "source_english": "RS2: Colored Grids",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_importers",
+      "english": "RS2: Colored Importers",
+      "chinese": "精致存储：染色的输入器",
+      "source_english": "RS2: Colored Importers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_network_receivers",
+      "english": "RS2: Colored Network Receivers",
+      "chinese": "精致存储：染色的网络接收器",
+      "source_english": "RS2: Colored Network Receivers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_network_transmitters",
+      "english": "RS2: Colored Network Transmitters",
+      "chinese": "精致存储：染色的网络发送器",
+      "source_english": "RS2: Colored Network Transmitters",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_pattern_grids",
+      "english": "RS2: Colored Pattern Grids",
+      "chinese": "精致存储：染色的样板终端",
+      "source_english": "RS2: Colored Pattern Grids",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_relays",
+      "english": "RS2: Colored Relays",
+      "chinese": "精致存储：染色的中继器",
+      "source_english": "RS2: Colored Relays",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_security_managers",
+      "english": "RS2: Colored Security Managers",
+      "chinese": "精致存储：染色的安全管理器",
+      "source_english": "RS2: Colored Security Managers",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_refinedstorage_colored_wireless_transmitters",
+      "english": "RS2: Colored Wireless Transmitters",
+      "chinese": "精致存储：染色的无线发送器",
+      "source_english": "RS2: Colored Wireless Transmitters",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_splash_potions",
+      "english": "Splash Potions",
+      "chinese": "喷溅药水",
+      "source_english": "Splash Potions",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_tipped_arrows",
+      "english": "Tipped Arrows",
+      "chinese": "药箭",
+      "source_english": "Tipped Arrows",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_trim_templates",
+      "english": "Trim Templates",
+      "chinese": "锻造模板",
+      "source_english": "Trim Templates",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_banners",
+      "english": "Vanilla Banners",
+      "chinese": "原版：旗帜",
+      "source_english": "Vanilla Banners",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_beds",
+      "english": "Vanilla Beds",
+      "chinese": "原版：床",
+      "source_english": "Vanilla Beds",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_candles",
+      "english": "Vanilla Candles",
+      "chinese": "原版：蜡烛",
+      "source_english": "Vanilla Candles",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_carpets",
+      "english": "Vanilla Carpets",
+      "chinese": "原版：地毯",
+      "source_english": "Vanilla Carpets",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_colored_glass_blocks",
+      "english": "Vanilla Colored Glass Blocks",
+      "chinese": "原版：染色玻璃",
+      "source_english": "Vanilla Colored Glass Blocks",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_colored_glass_panes",
+      "english": "Vanilla Colored Glass Panes",
+      "chinese": "原版：染色玻璃板",
+      "source_english": "Vanilla Colored Glass Panes",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_colored_shulker_boxes",
+      "english": "Vanilla Colored Shulker Boxes",
+      "chinese": "原版：染色潜影盒",
+      "source_english": "Vanilla Colored Shulker Boxes",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_concrete_powders",
+      "english": "Vanilla Concrete Powders",
+      "chinese": "原版：混凝土粉末",
+      "source_english": "Vanilla Concrete Powders",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_concretes",
+      "english": "Vanilla Concretes",
+      "chinese": "原版：混凝土",
+      "source_english": "Vanilla Concretes",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_glazed_terracottas",
+      "english": "Vanilla Glazed Terracottas",
+      "chinese": "原版：带釉陶瓦",
+      "source_english": "Vanilla Glazed Terracottas",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_terracottas",
+      "english": "Vanilla Terracottas",
+      "chinese": "原版：陶瓦",
+      "source_english": "Vanilla Terracottas",
+      "state": "pr_source_match"
+    },
+    {
+      "key": "collapsible_groups.group.__default_vanilla_wools",
+      "english": "Vanilla Wools",
+      "chinese": "原版：羊毛",
+      "source_english": "Vanilla Wools",
+      "state": "pr_source_match"
+    }
+  ]
+}

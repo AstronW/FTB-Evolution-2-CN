@@ -1,0 +1,16 @@
+{
+  "advancements.morered.morered.root.title": "更多红石",
+  "block.morered.bitwise_and_gate": "按位与门",
+  "block.morered.bitwise_diode": "按位二极管",
+  "block.morered.bitwise_not_gate": "按位非门",
+  "block.morered.bitwise_or_gate": "按位或门",
+  "block.morered.bitwise_xnor_gate": "按位同或门",
+  "block.morered.bitwise_xor_gate": "按位异或门",
+  "block.morered.pulse_gate": "脉冲门",
+  "block.morered.red_alloy_wire": "红色合金丝",
+  "block.morered.soldering_table": "焊接台",
+  "block.morered.two_input_and_gate": "两输入与门",
+  "block.morered.two_input_nand_gate": "两输入与非门",
+  "emi.category.morered.soldering": "焊接",
+  "item.morered.bundled_cable_spool": "集束线缆轴"
+}

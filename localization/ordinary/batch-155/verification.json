@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "155",
+  "namespace": "animalgarden_bullshark",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "6c3d1b876aff01059d12df8187826e49b68ebbd07c6b43405906e5360ffca25e",
+  "in_game_tested": false
+}

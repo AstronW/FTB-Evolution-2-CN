@@ -1,0 +1,16 @@
+{
+  "batch": "087",
+  "namespace": "sophisticatedstorage",
+  "jar": ".minecraft/mods/sophisticatedstorage-26.1.2-1.5.122.2185.jar",
+  "language_path": "assets/sophisticatedstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sophisticatedstorage/lang/zh_cn.json",
+  "include_keys": [
+    "item.sophisticatedstorage.paintbrush.tooltip.material",
+    "gui.sophisticatedstorage.upgrades.buttons.io_mode_side_info"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    " - %s: %s",
+    "%s (%s)"
+  ]
+}

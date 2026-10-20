@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "211",
+  "namespace": "keybindbundles",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "12c471f276b91698b06356a395275aaa02ddd49b46febd8e9e7610e90673da68",
+  "in_game_tested": false
+}

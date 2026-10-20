@@ -1,0 +1,175 @@
+  Y=\u0001: \u0001
+ → \u0001
+#\u0001
+$fluid:\u0001
+$item:\u0001
+() → \u0001
+(\u0001, \u0001, \u0001)
++\u0001
+-- \u0001
+:\u0001(
+> \u0001
+AcceptResult(deleteCount=\u0001, insertText=\u0001, cursorOffset=\u0001, consumeAfter=\u0001, autoImportLine=\u0001)
+Accepted(value=\u0001)
+Auto-focus search: \u0001
+Auto-pull: \u0001
+Auto: \u0001
+AvailableSet(name=\u0001, inputs=\u0001, outputs=\u0001)
+BreakerOpenData(pos=\u0001, deviceName=\u0001, channelId=\u0001, filterRule=\u0001, redstoneMode=\u0001, previewArea=\u0001)
+BroadcastAntennaOpenData(pos=\u0001)
+Buffer: \u0001/\u0001
+ButtonRect(x=\u0001, y=\u0001, w=\u0001, h=\u0001)
+CardInfo(side=\u0001, cardType=\u0001, alias=\u0001, adjacentBlockId=\u0001)
+CardProgrammerOpenData(handOrdinal=\u0001)
+CardSettingsOpenData(handOrdinal=\u0001, cardName=\u0001)
+ChainedMethodCall(outerVar=\u0001, field=\u0001, partial=\u0001)
+ChainedPropertyAccess(outerVar=\u0001, field=\u0001, partial=\u0001)
+Channel: \u0001
+Click to extract \u0001
+Connections: \u0001
+CpuInfo(pos=\u0001, bufferUsed=\u0001, bufferCapacity=\u0001, isCrafting=\u0001, currentCraftItem=\u0001, isFormed=\u0001)
+CraftCandidate(canonical=\u0001, stack=\u0001)
+CraftQueueEntry(id=\u0001, networkId=\u0001, itemId=\u0001, itemName=\u0001, totalRequested=\u0001, componentsPatch=\u0001, completedOps=\u0001, takenCount=\u0001, seenComplete=\u0001, dirty=\u0001)
+CraftRequesterOpenData(pos=\u0001, target=\u0001, batchSize=\u0001, channelId=\u0001)
+Crafting: \u0001
+CraftingCoreOpenData(pos=\u0001, bufferUsed=\u0001, bufferCapacity=\u0001, bufferTypesUsed=\u0001, bufferTypesCapacity=\u0001, isFormed=\u0001, isCrafting=\u0001, lastFailureReason=\u0001)
+DiagnosticError(terminalPos=\u0001, message=\u0001, timestamp=\u0001)
+DiagnosticOpenData(blocks=\u0001, networkName=\u0001, networkColor=\u0001, networkPos=\u0001, craftableItems=\u0001, cpuInfos=\u0001, terminalInfos=\u0001, recentErrors=\u0001, processingApis=\u0001)
+DragSlotRef(slotType=\u0001, index=\u0001)
+ErrorEntry(terminalPos=\u0001, message=\u0001, tickAge=\u0001)
+ErrorLocation(scriptName=\u0001, line=\u0001)
+ExportChestOpenData(pos=\u0001, filterRules=\u0001, channelNbtInt=\u0001, pushFaceOrdinal=\u0001, redstoneMode=\u0001, tickInterval=\u0001)
+Failure(reason=\u0001)
+Filter: \u0001
+Fold(startCol=\u0001, endCol=\u0001, display=\u0001)
+FunctionInfo(name=\u0001, params=\u0001, returnType=\u0001)
+HandleList<\u0001>
+ImportChestOpenData(pos=\u0001, channelNbtInt=\u0001, redstoneMode=\u0001, roundRobin=\u0001, tickInterval=\u0001)
+IndexedMethodCall(receiver=\u0001, partial=\u0001)
+IndexedPropertyAccess(receiver=\u0001, partial=\u0001)
+InputChannelEntry(itemId=\u0001, componentsHash=\u0001, channelId=\u0001)
+Inspecting: \u0001
+InspectorRow(type=\u0001, text=\u0001, color=\u0001, iconU=\u0001, blockItemId=\u0001)
+InstructionSetOpenData(nodePos=\u0001, sideOrdinal=\u0001, slotIndex=\u0001, recipe=\u0001, allowSubstitutions=\u0001)
+InstructionStorageOpenData(pos=\u0001)
+InventoryTerminalOpenData(terminalPos=\u0001, hasCrystalSlot=\u0001)
+JEI search sync: \u0001
+Kind: \u0001
+Layout: \u0001
+Line(text=\u0001, color=\u0001)
+LogEntry(message=\u0001, isError=\u0001, count=\u0001)
+MethodCall(receiver=\u0001, partial=\u0001)
+Mode: \u0001
+NBT: \u0001
+Network: \u0001
+NetworkBlock(pos=\u0001, type=\u0001, connections=\u0001, cards=\u0001, details=\u0001)
+NetworkControllerOpenData(pos=\u0001, networkColor=\u0001, networkName=\u0001, redstoneMode=\u0001, nodeGlowStyle=\u0001, handlerRetryLimit=\u0001, chunkLoading=\u0001, laserEnabled=\u0001, laserMode=\u0001)
+NodeBackedSource(dimension=\u0001, entryPoint=\u0001)
+NodeSideOpenData(nodePos=\u0001, sideOrdinal=\u0001)
+PlacerOpenData(pos=\u0001, deviceName=\u0001, channelId=\u0001, filterRule=\u0001, redstoneMode=\u0001, previewArea=\u0001)
+Position: \u0001, \u0001, \u0001
+ProcessingHandlerOpenData(pos=\u0001, processingApiName=\u0001, boundSetMissing=\u0001, inputChannels=\u0001, outputChannelId=\u0001, boundSet=\u0001, available=\u0001)
+ProcessingSetOpenData(name=\u0001, inputs=\u0001, inputSlots=\u0001, outputs=\u0001, outputSlots=\u0001, timeout=\u0001, fuzzy=\u0001, serial=\u0001)
+ProcessingStorageOpenData(pos=\u0001)
+Property(label=\u0001, type=\u0001)
+PropertyAccess(receiver=\u0001, partial=\u0001)
+Pushing: \u0001 (\u0001)
+QueueSlot(id=\u0001, itemId=\u0001, name=\u0001, totalRequested=\u0001, readyCount=\u0001, availableCount=\u0001, isComplete=\u0001, componentsPatch=\u0001)
+ReceiverAntennaOpenData(pos=\u0001, statusCode=\u0001)
+RecipeIconTooltip(inputs=\u0001, outputs=\u0001)
+Rect(x=\u0001, y=\u0001, w=\u0001, h=\u0001)
+Redstone: \u0001
+RepoEntry(serial=\u0001, info=\u0001, kind=\u0001)
+ResolvedExports(exports=\u0001, partial=\u0001)
+ResolvedMethodCall(resolvedType=\u0001, partial=\u0001, chainExpr=\u0001)
+ResolvedPropertyAccess(resolvedType=\u0001, partial=\u0001)
+Round-robin: \u0001
+Routes to \u0001 Storage Cards
+RowItem(stack=\u0001, count=\u0001)
+Scripts: \u0001
+Side: \u0001
+SidebarEntry(name=\u0001, color=\u0001, iconU=\u0001, iconV=\u0001, type=\u0001, channel=\u0001)
+Slot \u0001: #\u0001
+Sort: \u0001
+StackGroup(blocks=\u0001, displayPos=\u0001)
+Stackability: \u0001
+StorageCardOpenData(handOrdinal=\u0001, filterMode=\u0001, stackability=\u0001, nbtFilter=\u0001, filterRules=\u0001, cardName=\u0001, customSideOrdinal=\u0001)
+StorageMeterOpenData(pos=\u0001, target=\u0001, threshold=\u0001, channelId=\u0001, autocraftEnabled=\u0001)
+StringArg(funcExpr=\u0001, partial=\u0001, argIndex=\u0001, precedingText=\u0001)
+Substitutions: \u0001
+Success(source=\u0001)
+Suggestion(insertText=\u0001, displayText=\u0001, snippetText=\u0001, snippetCursor=\u0001, consumesAutoclose=\u0001, kind=\u0001, autoImport=\u0001, recipe=\u0001, itemIconStack=\u0001)
+TagFilter(partial=\u0001)
+Template: \u0001
+TerminalInfo(pos=\u0001, isRunning=\u0001, scriptNames=\u0001, handlers=\u0001, autoRun=\u0001)
+TerminalOpenData(terminalPos=\u0001, scripts=\u0001, running=\u0001, autoRun=\u0001, layoutIndex=\u0001, remoteApis=\u0001, lastError=\u0001)
+TreeLayout(positions=\u0001)
+TypeAnnotation(partial=\u0001)
+Types: \u0001 / \u0001
+UndoState(text=\u0001, cursor=\u0001)
+UserOpenData(pos=\u0001, deviceName=\u0001, channelId=\u0001, filterRule=\u0001, redstoneMode=\u0001, modeOrdinal=\u0001, previewArea=\u0001)
+Value: \u0001
+VariableOpenData(pos=\u0001, variableName=\u0001, variableType=\u0001, variableValue=\u0001, channelId=\u0001)
+VirtualSlot(index=\u0001, gridType=\u0001, x=\u0001, y=\u0001)
+Word(partial=\u0001)
+WrappedLine(text=\u0001, color=\u0001, clickable=\u0001)
+\"\u0001\"
+\\bfunction\\s+([\\w.]*\u0001)\\s*\\(([^)]*)\\)\\s*(?::\\s*(\\w+\\??|\\{[^}]*}))?
+\\bfunction\\s+\\w+\\.\u0001\\s*\\(([^)]*)\\)\\s*(?::\\s*(\\w+\\??|\\{[^}]*}))?
+\\bfunction\\s+\u0001\\.(\\w+)\\s*\\(([^)]*)\\)\\s*(?::\\s*(\\w+\\??|\\{[^}]*}))?
+\\blocal\\s+\u0001\\s*=\\s*\\{
+\\blocal\\s+\u0001\\s*=\\s*require\\(\\s*\"(\\w+)\"\\s*\\)
+\n\u0001
+\n\u0001\n\u0001end
+\n\u0001end
+\u0001  \u0001
+\u0001  \u0001 (\u0001)
+\u0001  \u0001 (breaker)
+\u0001  \u0001 (placer)
+\u0001  \u0001 (user)
+\u0001  \u0001 (variable)
+\u0001 (\u0001 cards: \u0001)
+\u0001 (\u0001)
+\u0001 (\u0001/\u0001)
+\u0001 (breaker)
+\u0001 (placer)
+\u0001 (user)
+\u0001 (x\u0001)
+\u0001 / \u0001
+\u0001 mB
+\u0001 stacked blocks
+\u0001 — \u0001
+\u0001%
+\u0001(
+\u0001(...)  broadcast to every member
+\u0001(\u0001)\u0001
+\u0001)
+\u0001, \u0001
+\u0001-\u0001 of \u0001
+\u0001...
+\u0001.\u0001
+\u0001: ItemsHandle (\u0001 × \u0001)
+\u0001: \u0001
+\u0001:\u0001
+\u0001?
+\u0001\", function(\u0001)\n    \u0001
+\u0001\", function(job: Job, items: InputItems)\n
+\u0001\\.(\\w+)\\s*=
+\u0001\n
+\u0001\n\u0001
+\u0001\u0001
+\u0001\u0001\u0001
+\u0001\u0001\u0001\u0001
+\u0001\u0001\u0001\u0001\u0001
+\u0001_
+\u0001_*
+\u0001_\u0001
+\u0001m ago
+\u0001s ago
+\u0001x \u0001
+\u0001…
+list() → { \u0001 }
+local \u0001 = network:get(\"\u0001\")
+x\u0001
+{ [string]: \u0001 }
+{ \u0001 }

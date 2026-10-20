@@ -1,0 +1,12 @@
+{
+  "command.puffish_skills.category.open.success.multiple": "已为%2$s名玩家打开%1$s专精界面",
+  "command.puffish_skills.category.open.success.single": "已为%2$s打开%1$s专精界面",
+  "command.puffish_skills.experience.get.success": "%3$s的%2$s专精拥有%1$s经验",
+  "command.puffish_skills.no_experience": "ID为%s的专精未启用经验",
+  "command.puffish_skills.open.success.multiple": "为%s个玩家打开了技能界面",
+  "command.puffish_skills.open.success.single": "为%s打开了技能界面",
+  "command.puffish_skills.points.get.success": "%3$s的%2$s专精拥有%1$s个技能点",
+  "command.puffish_skills.skills.lock.success.multiple": "对%3$s个玩家锁定了%2$s专精中的%1$s技能",
+  "command.puffish_skills.skills.lock.success.single": "对%3$s锁定了%2$s专精中的%1$s技能",
+  "toast.puffish_skills.missing_config.description": "未提供技能树, 请确保添加一个."
+}

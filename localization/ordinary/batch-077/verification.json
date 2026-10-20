@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "077",
+  "namespace": "integratedtunnels",
+  "source_keys": 18,
+  "unique_values": 17,
+  "chinese_values": 18,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 19,
+  "source_sha256": "7855aa269c651ffa7f53a3d0725a123cb0fb25ff47fb8f45789821d7cc9e6a99",
+  "in_game_tested": false
+}

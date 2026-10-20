@@ -1,0 +1,5 @@
+{
+  "item.belts.improved_belt": "改良传送带",
+  "item.belts.improved_belt.tooltip.0": "2 级传送带, 移动速度与运输容量均为标准型的两倍.",
+  "item.belts.improved_belt.tooltip.1": "与标准传送带一样, 可连接相同的物品滑道与传送带支架."
+}

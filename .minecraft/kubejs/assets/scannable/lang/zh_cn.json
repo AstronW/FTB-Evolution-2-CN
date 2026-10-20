@@ -1,0 +1,15 @@
+{
+  "itemGroup.scannable.common": "Scannable Reforged",
+  "item.scannable.chest_module": "扫描模块: 箱子",
+  "item.scannable.chest_module.desc": "检测存储方块 (例如箱子, 木桶, 潜影盒).",
+  "item.scannable.spawner_module": "扫描模块: 刷怪笼",
+  "item.scannable.spawner_module.desc": "默认检测所有刷怪笼.\n对刷怪笼或生物右键可筛选.\n对空气右键以配置, 或使用刷怪蛋.",
+  "item.scannable.spawner_module.list": "已配置的刷怪笼:",
+  "item.scannable.lootr_module": "扫描模块: Lootr",
+  "item.scannable.lootr_module.desc": "检测尚未开启的 Lootr 战利品.\n取走战利品后隐藏该容器.",
+  "item.scannable.lootr_module.required": "需要 Lootr 模组",
+  "tooltip.scannable.list_item": "§7- §f%s§r",
+  "gui.scannable.spawner_module.list": "刷怪笼",
+  "gui.scannable.overlay.distance": "%s (%sm)",
+  "gui.scannable.overlay.spawner": "%s 刷怪笼"
+}

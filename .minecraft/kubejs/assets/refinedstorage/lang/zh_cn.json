@@ -1,0 +1,14 @@
+{
+  "gui.refinedstorage.grid.sorting.type.id": "ID",
+  "gui.refinedstorage.grid.pin_help": "拖放以固定.将物品拖出固定区域即可取消固定.",
+  "gui.refinedstorage.grid.drag_and_drop_to_pin": "拖放以固定",
+  "gui.refinedstorage.priority.storage_help.click_to_modify_insert_extract_priority": "单击以修改输入/输出优先级.",
+  "gui.refinedstorage.priority.storage_help.ctrl_click_to_modify_insert_priority": "按 CTRL + 单击以修改输入优先级.",
+  "gui.refinedstorage.priority.storage_help.cmd_click_to_modify_insert_priority": "按 CMD + 单击以修改输入优先级.",
+  "gui.refinedstorage.priority.storage_help.alt_click_to_modify_extract_priority": "按 ALT + 单击以修改输出优先级.",
+  "gui.refinedstorage.autocrafting_preview.request_cancelled.too_many_subcomponents": "需要过多的子组件.",
+  "gui.refinedstorage.autocrafting_preview.style.tree": "树状",
+  "gui.refinedstorage.autocrafting_monitor.state.extracting_initial_resources": "正在提取初始资源",
+  "gui.refinedstorage.autocrafting_monitor.state.returning_internal_storage": "正在返还内部存储",
+  "item.refinedstorage.color_and_item_name": "%s %s"
+}

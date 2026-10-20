@@ -1,0 +1,1150 @@
+[
+  {
+    "page": "ftb/crop_mutation/by_seed.md",
+    "segments": 82,
+    "translated": 82,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/crop_mutation/crosses.md",
+    "segments": 52,
+    "translated": 52,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/crop_mutation/index.md",
+    "segments": 13,
+    "translated": 13,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/crop_mutation/traits.md",
+    "segments": 19,
+    "translated": 19,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/hostile_networks/data_center.md",
+    "segments": 26,
+    "translated": 26,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/hostile_networks/data_models.md",
+    "segments": 74,
+    "translated": 74,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/hostile_networks/index.md",
+    "segments": 22,
+    "translated": 22,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/colossal_reactors.md",
+    "segments": 24,
+    "translated": 24,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/coolant_and_fuel.md",
+    "segments": 34,
+    "translated": 34,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/energized_power.md",
+    "segments": 16,
+    "translated": 16,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/index.md",
+    "segments": 13,
+    "translated": 13,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/industrial_contraptions.md",
+    "segments": 42,
+    "translated": 42,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/just_dire_things.md",
+    "segments": 14,
+    "translated": 14,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/oritech.md",
+    "segments": 30,
+    "translated": 30,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/other_mods.md",
+    "segments": 21,
+    "translated": 21,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/powah.md",
+    "segments": 25,
+    "translated": 25,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/power/removed.md",
+    "segments": 14,
+    "translated": 14,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/skills/athletics.md",
+    "segments": 13,
+    "translated": 13,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/skills/index.md",
+    "segments": 14,
+    "translated": 14,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/skills/magic.md",
+    "segments": 40,
+    "translated": 40,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/skills/melee.md",
+    "segments": 18,
+    "translated": 18,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/skills/mining.md",
+    "segments": 10,
+    "translated": 10,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftb/skills/ranged.md",
+    "segments": 12,
+    "translated": 12,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/armor/carbon.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/armor/index.md",
+    "segments": 6,
+    "translated": 6,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/armor/mechanical_elytra.md",
+    "segments": 7,
+    "translated": 7,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/armor/quantum.md",
+    "segments": 12,
+    "translated": 12,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/energy/batteries.md",
+    "segments": 30,
+    "translated": 30,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/energy/cables.md",
+    "segments": 25,
+    "translated": 25,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/energy/charge_pad.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/energy/index.md",
+    "segments": 17,
+    "translated": 17,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/energy/rectifiers.md",
+    "segments": 16,
+    "translated": 16,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/energy/transformers.md",
+    "segments": 12,
+    "translated": 12,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/generators/basic_generator.md",
+    "segments": 16,
+    "translated": 16,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/generators/geothermal_generator.md",
+    "segments": 12,
+    "translated": 12,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/generators/index.md",
+    "segments": 14,
+    "translated": 14,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/generators/solar_panels.md",
+    "segments": 11,
+    "translated": 11,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/generators/wind_mill.md",
+    "segments": 10,
+    "translated": 10,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/getting_started.md",
+    "segments": 25,
+    "translated": 25,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/index.md",
+    "segments": 17,
+    "translated": 17,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/alloy_smelter.md",
+    "segments": 32,
+    "translated": 32,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/antimatter_constructor.md",
+    "segments": 10,
+    "translated": 10,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/batch_feeder.md",
+    "segments": 25,
+    "translated": 25,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/canning_machine.md",
+    "segments": 10,
+    "translated": 10,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/centrifuge.md",
+    "segments": 11,
+    "translated": 11,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/compressor.md",
+    "segments": 12,
+    "translated": 12,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/extruder.md",
+    "segments": 10,
+    "translated": 10,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/hydroponic_accelerator.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/index.md",
+    "segments": 12,
+    "translated": 12,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/iron_furnace.md",
+    "segments": 7,
+    "translated": 7,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/macerator.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/ore_refining.md",
+    "segments": 23,
+    "translated": 23,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/powered_crafting_table.md",
+    "segments": 5,
+    "translated": 5,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/powered_furnace.md",
+    "segments": 6,
+    "translated": 6,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/pump.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/quarry.md",
+    "segments": 17,
+    "translated": 17,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/reprocessor.md",
+    "segments": 8,
+    "translated": 8,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/roller.md",
+    "segments": 5,
+    "translated": 5,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/machines/side_configuration.md",
+    "segments": 39,
+    "translated": 39,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/materials/alloys.md",
+    "segments": 40,
+    "translated": 40,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/materials/carbon.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/materials/circuits.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/materials/dusts_and_shapes.md",
+    "segments": 21,
+    "translated": 21,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/materials/index.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/materials/rubber_and_silicon.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/nuclear/blueprint.md",
+    "segments": 25,
+    "translated": 25,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/nuclear/cooling.md",
+    "segments": 29,
+    "translated": 29,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/nuclear/fuel_rods.md",
+    "segments": 13,
+    "translated": 13,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/nuclear/index.md",
+    "segments": 10,
+    "translated": 10,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/nuclear/plating.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/nuclear/reactor.md",
+    "segments": 20,
+    "translated": 20,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/nuclear/reflectors.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/nuclear/simulator.md",
+    "segments": 22,
+    "translated": 22,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/upgrades/ejector.md",
+    "segments": 6,
+    "translated": 6,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/upgrades/energy_storage.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/upgrades/index.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/upgrades/overclocker.md",
+    "segments": 6,
+    "translated": 6,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/upgrades/parallel_processing.md",
+    "segments": 17,
+    "translated": 17,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/upgrades/quarry_filter.md",
+    "segments": 5,
+    "translated": 5,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/upgrades/transformer.md",
+    "segments": 5,
+    "translated": 5,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/utilities/fluid_cell.md",
+    "segments": 8,
+    "translated": 8,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/utilities/fuse.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/utilities/index.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/utilities/landmark.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/utilities/location_card.md",
+    "segments": 8,
+    "translated": 8,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/utilities/nuke.md",
+    "segments": 7,
+    "translated": 7,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/utilities/reinforced_blocks.md",
+    "segments": 7,
+    "translated": 7,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/utilities/spray_paint.md",
+    "segments": 7,
+    "translated": 7,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "ftbic/utilities/teleporter.md",
+    "segments": 34,
+    "translated": 34,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/example-setups/automated-celestine-farm.md",
+    "segments": 7,
+    "translated": 7,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/example-setups/automated-smelting.md",
+    "segments": 12,
+    "translated": 12,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/example-setups/cobble-gen.md",
+    "segments": 10,
+    "translated": 10,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/example-setups/index.md",
+    "segments": 2,
+    "translated": 2,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/example-setups/milky-soul-ball-farm.md",
+    "segments": 8,
+    "translated": 8,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/example-setups/moving-items.md",
+    "segments": 29,
+    "translated": 29,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/example-setups/smeltery-subnet.md",
+    "segments": 17,
+    "translated": 17,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/getting-started.md",
+    "segments": 20,
+    "translated": 20,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/index.md",
+    "segments": 13,
+    "translated": 13,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/antenna_coil_assembly.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/blank_card.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/breaker.md",
+    "segments": 31,
+    "translated": 31,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/broadcast_antenna.md",
+    "segments": 23,
+    "translated": 23,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/budding_celestine.md",
+    "segments": 8,
+    "translated": 8,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/card_programmer.md",
+    "segments": 13,
+    "translated": 13,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/celestine_antenna_array.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/celestine_block.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/celestine_ore.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/celestine_receiver_dish.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/celestine_shard.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/charged_beam_catalyst.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/craft_requester.md",
+    "segments": 19,
+    "translated": 19,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/crafting_cpu.md",
+    "segments": 64,
+    "translated": 64,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/device_frame.md",
+    "segments": 4,
+    "translated": 4,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/diagnostic_tool.md",
+    "segments": 46,
+    "translated": 46,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/dimension_range_upgrade.md",
+    "segments": 5,
+    "translated": 5,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/export_chest.md",
+    "segments": 30,
+    "translated": 30,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/grapple_beam.md",
+    "segments": 5,
+    "translated": 5,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/import_chest.md",
+    "segments": 32,
+    "translated": 32,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/index.md",
+    "segments": 9,
+    "translated": 9,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/inventory_terminal.md",
+    "segments": 22,
+    "translated": 22,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/io_card.md",
+    "segments": 30,
+    "translated": 30,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/link_crystal.md",
+    "segments": 6,
+    "translated": 6,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/milky_soul_ball.md",
+    "segments": 7,
+    "translated": 7,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/multi_dimension_range_upgrade.md",
+    "segments": 5,
+    "translated": 5,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/network_controller.md",
+    "segments": 18,
+    "translated": 18,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/network_wrench.md",
+    "segments": 32,
+    "translated": 32,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/node.md",
+    "segments": 37,
+    "translated": 37,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/observer_card.md",
+    "segments": 27,
+    "translated": 27,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/pipe.md",
+    "segments": 13,
+    "translated": 13,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/placer.md",
+    "segments": 31,
+    "translated": 31,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/portable_inventory_terminal.md",
+    "segments": 20,
+    "translated": 20,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/processing_handler.md",
+    "segments": 48,
+    "translated": 48,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/receiver_antenna.md",
+    "segments": 14,
+    "translated": 14,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/recipe_sets.md",
+    "segments": 55,
+    "translated": 55,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/redstone_card.md",
+    "segments": 14,
+    "translated": 14,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/scripting_terminal.md",
+    "segments": 33,
+    "translated": 33,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/storage_blocks.md",
+    "segments": 22,
+    "translated": 22,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/storage_card.md",
+    "segments": 86,
+    "translated": 86,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/storage_meter.md",
+    "segments": 22,
+    "translated": 22,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/user.md",
+    "segments": 38,
+    "translated": 38,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/variable.md",
+    "segments": 23,
+    "translated": 23,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/breaker-handle.md",
+    "segments": 61,
+    "translated": 61,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/card-handle.md",
+    "segments": 92,
+    "translated": 92,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/channel.md",
+    "segments": 31,
+    "translated": 31,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/craft-builder.md",
+    "segments": 55,
+    "translated": 55,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/handle-list.md",
+    "segments": 39,
+    "translated": 39,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/importer.md",
+    "segments": 58,
+    "translated": 58,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/index.md",
+    "segments": 14,
+    "translated": 14,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/input-items.md",
+    "segments": 27,
+    "translated": 27,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/items-handle.md",
+    "segments": 96,
+    "translated": 96,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/job.md",
+    "segments": 36,
+    "translated": 36,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/network.md",
+    "segments": 137,
+    "translated": 137,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/placer-handle.md",
+    "segments": 32,
+    "translated": 32,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/presets.md",
+    "segments": 46,
+    "translated": 46,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/scheduler.md",
+    "segments": 19,
+    "translated": 19,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/stocker.md",
+    "segments": 56,
+    "translated": 56,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/user-handle.md",
+    "segments": 46,
+    "translated": 46,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/lua-api/variable-handle.md",
+    "segments": 74,
+    "translated": 74,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/nodeworks-mechanics/autocrafting.md",
+    "segments": 79,
+    "translated": 79,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/nodeworks-mechanics/cards.md",
+    "segments": 5,
+    "translated": 5,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/nodeworks-mechanics/devices.md",
+    "segments": 3,
+    "translated": 3,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/nodeworks-mechanics/index.md",
+    "segments": 2,
+    "translated": 2,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/nodeworks-mechanics/network-storage.md",
+    "segments": 39,
+    "translated": 39,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/nodeworks-mechanics/subnets.md",
+    "segments": 55,
+    "translated": 55,
+    "complete": true,
+    "missing": []
+  }
+]

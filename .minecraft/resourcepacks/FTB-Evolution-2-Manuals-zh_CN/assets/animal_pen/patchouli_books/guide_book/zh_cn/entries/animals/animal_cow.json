@@ -1,0 +1,27 @@
+{
+  "name": "牛",
+  "icon": "minecraft:cow_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:cow",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:cow_food",
+      "text": "用小麦喂牛进行繁殖, 增加围栏里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死牛并掉落其战利品."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bucket",
+      "text": "对装着牛的动物围栏使用桶, 玩家会得到一桶奶. [redstone interaction 1]"
+    }
+  ]
+}

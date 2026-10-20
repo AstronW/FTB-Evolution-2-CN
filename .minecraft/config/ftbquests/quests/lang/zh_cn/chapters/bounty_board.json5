@@ -1,0 +1,151 @@
+{
+  "quest.1CA8D89EE7C50CFD.title": "&f击杀10只&d潜影贝",
+  "task.58687506041183E7.title": "&e击杀&r: &c史莱姆",
+  "quest.34C8824842867F5D.quest_desc": [
+    "&d末影龙&r并非死后就永远消失.在返回传送门边缘放置四个&a末地水晶&r, 就能再次召唤它."
+  ],
+  "quest.3D687BF735E54AE8.quest_desc": [
+    "&c烈焰人&r会在&c下界要塞&r的刷怪笼附近生成.雪球能伤害它们, 抗火药水则能大幅降低战斗危险."
+  ],
+  "quest.24445EC4DA6492F1.title": "&d村庄英雄",
+  "task.61C0F35123FBB85E.title": "&f击杀: 1只&d监守者",
+  "quest.0D35D0D33922A201.title": "&f完成10次&d永恒之门挑战",
+  "quest.782CCA40CEBC135A.quest_desc": [
+    "制作一个延迟尽可能低, 可由红石控制, 无AI,无视生成条件且无视玩家距离的刷怪笼."
+  ],
+  "task.4087591E474FC477.title": "&f击杀10只&d末影人",
+  "quest.59C71582F19E8554.quest_desc": [
+    "榜上最简单的悬赏.只计算普通&c僵尸&r, 尸壳, 溺尸和僵尸村民都不计入."
+  ],
+  "quest.7D23D1C9DE75721F.title": "&f击杀20只&c骷髅",
+  "task.4335140E412572D8.title": "&f完成10次&d永恒之门挑战",
+  "quest.1237537100194BED.quest_desc": [
+    "作为一位象征衰朽的小神, &d凋灵&r被击败后掉落的&6下界之星&r, 越来越常被用来证明实力.",
+    "",
+    "将4块灵魂沙摆成T形, 再在上方放3个凋灵骷髅头颅, 即可召唤.",
+    "",
+    "{image:minecraft:textures/painting/wither.png width:100 height:100 align:center}"
+  ],
+  "task.268F689AFA620C03.title": "&e击杀&r: &c骷髅",
+  "quest.5C2C0986D6014ADD.title": "&6流浪商人",
+  "quest.20D7DA6055C540FA.quest_desc": [
+    "本章包含可重复完成的任务, 能赚取额外硬币, 用于商店消费."
+  ],
+  "quest.232E1BBB91DEF799.quest_subtitle": "你在FTB Evolution 2中生存了100天.",
+  "quest.5918EA666DF20DA4.quest_subtitle": "赶紧通关整合包吧...怎么还没完成?",
+  "task.7B71A001741520D3.title": "&e击杀&r: &c凋灵骷髅",
+  "quest.708DD6CD3AE7F0FE.quest_desc": [
+    "下界要塞中腐朽的守卫"
+  ],
+  "quest.782CCA40CEBC135A.title": "终极刷怪笼",
+  "quest.1CA8D89EE7C50CFD.quest_desc": [
+    "末地城中藏身壳内的哨兵."
+  ],
+  "quest.3D687BF735E54AE8.title": "&f击杀10只&c烈焰人",
+  "quest.49540656967A58DC.title": "游玩1小时",
+  "quest.49540656967A58DC.quest_desc": [
+    "在这个世界中度过的每一分钟都计入游玩时长悬赏, 即使原地站着也算."
+  ],
+  "quest.77F964631F38EA2E.title": "&f击杀20只&c苦力怕",
+  "quest.54E74795E1F9F9F2.title": "游玩&c25小时",
+  "task.491E250D69066BBC.title": "&f击杀: 1只&d凋灵",
+  "task.3F437642D1B08EBF.title": "&e击杀&r: &c蜘蛛",
+  "quest.5918EA666DF20DA4.title": "游玩&z1000小时",
+  "task.5B97CEFB80FF361B.title": "&f击杀10只&d潜影贝",
+  "quest.67078BCAD52BC4B4.quest_desc": [
+    "大史莱姆死亡后会分裂, 你击杀的每个个体都计数.去沼泽, 或者史莱姆区块的地下深处找找吧."
+  ],
+  "quest.29E78B39C74FBC4E.title": "每种敌对生物各击杀一只",
+  "quest.05B051603AC63B5A.title": "终极附魔",
+  "quest.6E5CEEE43F0DECA7.quest_desc": [
+    "探索时搜刮100个&eLootr&r木桶."
+  ],
+  "quest.3E0191A718C8CFF9.quest_subtitle": "连续生存24小时不死",
+  "quest.0D35D0D33922A201.quest_desc": [
+    "&a传送门珍珠&r能打开传送门, 放出一波波生物与你战斗.每种珍珠的合成方法都可在JEI中查看.",
+    "",
+    "如果生物无法生成, 走得过远, 或某波次超时, 挑战就会失败.因此请在平坦, 空旷的地方开启."
+  ],
+  "quest.1F70A066744E64EA.quest_desc": [
+    "五十小时了.是时候看看&aFTB天际号&r需要什么了."
+  ],
+  "quest.3E0191A718C8CFF9.quest_desc": [
+    "计时从上次死亡开始, 且只计算在线时长.只要死亡一次, 就会从零重新开始."
+  ],
+  "quest.54E74795E1F9F9F2.quest_desc": [
+    "二十五小时了.如果基地还靠初期发电机供电, 这就是该升级的信号."
+  ],
+  "quest.43B65AF71961292F.quest_desc": [
+    "在同一个世界玩了一百小时.休息一下吧, 整合包又不会跑."
+  ],
+  "task.4BEC99EFB3F7A310.title": "&b适者生存",
+  "quest.1237537100194BED.title": "&f击败&d凋灵",
+  "task.6347BBAD2ED20F25.title": "&e击杀&r: &c僵尸",
+  "quest.6DC738A434C5B02F.title": "&f击杀10只&d末影人",
+  "quest.43B65AF71961292F.title": "游玩&6100小时",
+  "quest.232E1BBB91DEF799.title": "游玩&z100天",
+  "quest.6964408274A7ACF7.quest_desc": [
+    "已经游玩十小时了.此时你应该已经建立供电系统, 也有个值得回去的家了."
+  ],
+  "task.79684EDD87FFB47C.title": "&e击杀&r: &c苦力怕",
+  "quest.3E0191A718C8CFF9.title": "&b适者生存",
+  "quest.59C71582F19E8554.title": "&f击杀20只&c僵尸",
+  "quest.43B65AF71961292F.quest_subtitle": "该出去走走了",
+  "quest.644DADBCF755057C.quest_desc": [
+    "从神化入侵者的无尽传送门第100波中取得一枚至高符印."
+  ],
+  "quest.2EE5352D8E5F715F.quest_desc": [
+    "只计算普通蜘蛛, 洞穴蜘蛛是另一种生物.白天时, 只要你不先攻击, 它们就不会主动找麻烦."
+  ],
+  "quest.6DC738A434C5B02F.quest_desc": [
+    "盯着一只末影人激怒它, 再躲到两格高的顶棚下.&d末影人&r太高, 无法跟进来."
+  ],
+  "quest.24445EC4DA6492F1.quest_subtitle": "抵御袭击, 保卫村庄",
+  "quest.29E78B39C74FBC4E.quest_desc": [
+    "这是原版的资深怪物猎人进度, 需要击杀41种不同生物, 包括&d末影龙&r, &5凋灵&r和&c远古守卫者&r, 因此需要花些时间.",
+    "",
+    "列表中只有原版生物.你可以在进度界面查看完成情况."
+  ],
+  "quest.1F70A066744E64EA.title": "游玩&d50小时",
+  "quest.24445EC4DA6492F1.quest_desc": [
+    "触发袭击需要&c不祥之兆&r.袭击队长会掉落&c不祥之瓶&r, 在村庄附近喝下, 再守住防线."
+  ],
+  "quest.232E1BBB91DEF799.quest_desc": [
+    "这相当于2,400小时游玩时间.我们并没有指望谁真能完成它."
+  ],
+  "quest.7A8669713BE28E8F.title": "&f击败&d监守者",
+  "quest.7BCC2E37198682F8.quest_desc": [
+    "获得一件带有X级附魔的物品"
+  ],
+  "quest.20D7DA6055C540FA.title": "&6悬赏板",
+  "quest.05B051603AC63B5A.quest_desc": [
+    "以满属性和量子稳定附魔一件物品"
+  ],
+  "task.05BA59C2F9E1F43B.title": "&f击杀10只&c烈焰人",
+  "quest.5C2C0986D6014ADD.quest_desc": [
+    "每天, 所有&a流浪商人&r都会聚在一起开会, 讨论哪些玩家需要帮助, 以及何时方便提供服务.他们出售各种实用物品, 例如可以快速生成生物的&a特殊草方块&r, 或帮助你提前使用高级存储的&2借用科技&r.",
+    "",
+    "他们本意是好的, 只是不太会挑出现地点, 也看不出玩家什么时候已经不需要帮助了.",
+    "",
+    "你可以使用命令",
+    "&b/events toggle ftb:wandering_trader",
+    "告诉他们是否还需要服务."
+  ],
+  "quest.2EE5352D8E5F715F.title": "&f击杀20只&c蜘蛛",
+  "quest.708DD6CD3AE7F0FE.title": "&f击杀10只&c凋灵骷髅",
+  "quest.34C8824842867F5D.title": "&f击败&d末影龙",
+  "quest.5918EA666DF20DA4.quest_desc": [
+    "一千小时差不多相当于连续不停玩六周.如果你完成了, 欢迎告诉我们是怎么做到的."
+  ],
+  "quest.6964408274A7ACF7.title": "游玩&a10小时",
+  "quest.77F964631F38EA2E.quest_desc": [
+    "&c苦力怕&r自爆不计数.请在嘶嘶声结束前击杀它."
+  ],
+  "quest.7A8669713BE28E8F.quest_desc": [
+    "&3远古城市&r寂静的守护者.引起它的注意, 后果自负."
+  ],
+  "quest.67078BCAD52BC4B4.title": "&f击杀20只&c史莱姆",
+  "quest.7D23D1C9DE75721F.quest_desc": [
+    "盾牌可以挡住骷髅的箭.流浪者和沼骸属于不同生物, 不计入本任务."
+  ]
+}

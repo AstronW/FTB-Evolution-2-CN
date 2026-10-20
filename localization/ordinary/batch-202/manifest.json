@@ -1,0 +1,15 @@
+{
+  "batch": "202",
+  "namespace": "squatgrow",
+  "jar": ".minecraft/mods/squatgrow-neoforge-26.1.2.2.jar",
+  "language_path": "assets/squatgrow/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/squatgrow/lang/zh_cn.json",
+  "include_keys": [
+    "key.squatgrow.toggle",
+    "key.category.squatgrow.keys",
+    "squatgrow.enabled",
+    "squatgrow.disabled"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

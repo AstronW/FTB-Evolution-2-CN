@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "108",
+  "namespace": "mezz_config_gui",
+  "source_keys": 184,
+  "unique_values": 184,
+  "chinese_values": 172,
+  "reviewed_non_prose_values": 12,
+  "installed_overlay_keys": 184,
+  "source_sha256": "38242e5d52b728a7c0a0484c749fa8a42edbbf56a611762022a2af1f3cf8bd70",
+  "in_game_tested": false
+}

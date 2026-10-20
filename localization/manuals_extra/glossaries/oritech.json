@@ -1,0 +1,1866 @@
+{
+  "item.oritech.platinum_resonator": {
+    "en": "Platinum Resonator",
+    "zh": "铂共振器"
+  },
+  "item.oritech.netherite_resonator": {
+    "en": "Netherite Resonator",
+    "zh": "下界合金共振器"
+  },
+  "item.oritech.oil_resonator": {
+    "en": "Oil Resonator",
+    "zh": "石油共振器"
+  },
+  "item.oritech.resource_node_resonator": {
+    "en": "Resource Node Resonator",
+    "zh": "资源节点共振器"
+  },
+  "item.oritech.geode_resonator": {
+    "en": "Geode Resonator",
+    "zh": "晶洞共振器"
+  },
+  "block.oritech.banana_block": {
+    "en": "Banana Block",
+    "zh": "香蕉块"
+  },
+  "block.oritech.energy_transmission_pole": {
+    "en": "Energy Transmission Pole",
+    "zh": "输能杆"
+  },
+  "block.oritech.machine_burst_addon": {
+    "en": "Burst Addon",
+    "zh": "脉冲超频插件"
+  },
+  "block.oritech.heart_of_the_machine_addon": {
+    "en": "Heart of the Machine (Addon)",
+    "zh": "机器之心（插件）"
+  },
+  "block.oritech.addon_splicer": {
+    "en": "Addon Splicer",
+    "zh": "插件绞接器"
+  },
+  "block.oritech.machine_frame": {
+    "en": "Machine Frame",
+    "zh": "机器框架"
+  },
+  "block.oritech.low_yield_nuclear_explosion_device": {
+    "en": "Low-Yield Nuclear Explosion Device",
+    "zh": "低当量核爆炸装置"
+  },
+  "block.oritech.low_yield_nuclear_explosion_device.tooltip": {
+    "en": "Handle with extreme caution: Small but mighty!",
+    "zh": "极度谨慎处理：小而强大！"
+  },
+  "block.oritech.low_yield_nuclear_explosion_device.tooltip.2": {
+    "en": "Perfect for those who prefer a subtle touch of devastation.",
+    "zh": "尤其适合钟爱微妙破坏之人。"
+  },
+  "block.oritech.uranium_resource_node": {
+    "en": "Uranium Resource Node",
+    "zh": "铀资源节点"
+  },
+  "block.oritech.deepslate_uranium_ore": {
+    "en": "Deepslate Uranium Ore",
+    "zh": "深层铀矿石"
+  },
+  "block.oritech.uranite_crystal": {
+    "en": "Uranite Crystal",
+    "zh": "铀晶体"
+  },
+  "block.oritech.manhattan_module": {
+    "en": "Manhattan Module",
+    "zh": "曼哈顿模块"
+  },
+  "block.oritech.manhattan_module.tooltip": {
+    "en": "Warning: Unleashes catastrophic chaos!",
+    "zh": "警告：会释放灾难性混乱！"
+  },
+  "block.oritech.manhattan_module.tooltip.2": {
+    "en": "Only for those who wish to leave a lasting impression... or crater.",
+    "zh": "仅供想留下千古盛名……或是弹坑之人。"
+  },
+  "block.oritech.fluid_pipe": {
+    "en": "Fluid Pipe",
+    "zh": "流体管道"
+  },
+  "block.oritech.energy_pipe": {
+    "en": "Energy Pipe",
+    "zh": "能量线缆"
+  },
+  "block.oritech.schrodingers_safe": {
+    "en": "Schrödinger's Safe",
+    "zh": "薛定谔保险柜"
+  },
+  "block.oritech.complex_plating": {
+    "en": "Complex Plating",
+    "zh": "复合护板"
+  },
+  "block.oritech.superconductor": {
+    "en": "Superconductor",
+    "zh": "超导体"
+  },
+  "block.oritech.transparent_item_pipe": {
+    "en": "Transparent Item Pipe",
+    "zh": "透明物流管道"
+  },
+  "block.oritech.item_pipe": {
+    "en": "Opaque Item Pipe",
+    "zh": "不透明物流管道"
+  },
+  "block.oritech.item_filter": {
+    "en": "Item Filter",
+    "zh": "物品筛选器"
+  },
+  "block.oritech.smart_splitter": {
+    "en": "Smart Splitter",
+    "zh": "智能分拣器"
+  },
+  "block.oritech.fluid_pipe_connection": {
+    "en": "Fluid Pipe Connection",
+    "zh": "流体管道连接点"
+  },
+  "block.oritech.energy_pipe_connection": {
+    "en": "Energy Pipe Connection",
+    "zh": "能量线缆连接点"
+  },
+  "block.oritech.item_pipe_connection": {
+    "en": "Item Pipe Connection",
+    "zh": "物流管道连接点"
+  },
+  "block.oritech.framed_fluid_pipe": {
+    "en": "Framed Fluid Pipe",
+    "zh": "带框架的流体管道"
+  },
+  "block.oritech.framed_energy_pipe": {
+    "en": "Framed Energy Pipe",
+    "zh": "带框架的能量线缆"
+  },
+  "block.oritech.framed_superconductor": {
+    "en": "Framed Superconductor",
+    "zh": "带框架的超导体"
+  },
+  "block.oritech.framed_item_pipe": {
+    "en": "Framed Item Pipe",
+    "zh": "带框架的物流管道"
+  },
+  "block.oritech.framed_fluid_pipe_connection": {
+    "en": "Framed Fluid Pipe Connection",
+    "zh": "带框架的流体管道连接点"
+  },
+  "block.oritech.framed_energy_pipe_connection": {
+    "en": "Framed Energy Pipe Connection",
+    "zh": "带框架的物流管道连接点"
+  },
+  "block.oritech.framed_superconductor_connection": {
+    "en": "Framed Superconductor Connection",
+    "zh": "带框架的超导体连接点"
+  },
+  "block.oritech.framed_item_pipe_connection": {
+    "en": "Framed Item Pipe Connection",
+    "zh": "带框架的物流管道连接点"
+  },
+  "block.oritech.item_pipe_duct": {
+    "en": "Item Pipe Duct",
+    "zh": "集装物流管道"
+  },
+  "block.oritech.fluid_pipe_duct": {
+    "en": "Fluid Pipe Duct",
+    "zh": "集装流体管道"
+  },
+  "block.oritech.energy_pipe_duct": {
+    "en": "Energy Pipe Duct",
+    "zh": "集装能量线缆"
+  },
+  "block.oritech.superconductor_duct": {
+    "en": "Superconductor Duct",
+    "zh": "集装超导体"
+  },
+  "block.oritech.frame_gantry_arm": {
+    "en": "Frame Gantry Arm",
+    "zh": "框架机架臂"
+  },
+  "block.oritech.block_destroyer_head": {
+    "en": "Block Destroyer Head",
+    "zh": "方块破坏器探头"
+  },
+  "block.oritech.block_placer_head": {
+    "en": "Block Placer Head",
+    "zh": "方块放置器探头"
+  },
+  "block.oritech.block_fertilizer_head": {
+    "en": "Block Fertilizer",
+    "zh": "方块施肥器探头"
+  },
+  "block.oritech.pump_trunk": {
+    "en": "Pump Trunk",
+    "zh": "泵管"
+  },
+  "block.oritech.addon_indicator": {
+    "en": "Addon Indicator",
+    "zh": "插件指示器"
+  },
+  "block.oritech.pulverizer": {
+    "en": "Pulverizer",
+    "zh": "磨粉机"
+  },
+  "block.oritech.fragment_forge": {
+    "en": "Fragment Forge",
+    "zh": "粉碎工厂"
+  },
+  "block.oritech.assembler": {
+    "en": "Assembler",
+    "zh": "装配器"
+  },
+  "block.oritech.tainted_refinery": {
+    "en": "Tainted Refinery",
+    "zh": "坍染精炼厂"
+  },
+  "block.oritech.refinery": {
+    "en": "Refinery",
+    "zh": "精炼厂"
+  },
+  "block.oritech.refinery_chamber_module": {
+    "en": "Refinery Chamber Module",
+    "zh": "精炼厂罐室模块"
+  },
+  "block.oritech.carbon_plating": {
+    "en": "Carbon Plating Block",
+    "zh": "碳强化护板"
+  },
+  "block.oritech.carbon_plating_slab": {
+    "en": "Carbon Reinforced Plating Slab",
+    "zh": "碳强化护板台阶"
+  },
+  "block.oritech.carbon_plating_stairs": {
+    "en": "Carbon Reinforced Plating Stairs",
+    "zh": "碳强化护板楼梯"
+  },
+  "block.oritech.carbon_plating_pressure_plate": {
+    "en": "Carbon Reinforced Plating Pressure Plate",
+    "zh": "碳强化护板压力板"
+  },
+  "block.oritech.foundry": {
+    "en": "Foundry",
+    "zh": "铸造器"
+  },
+  "block.oritech.industrial_chiller": {
+    "en": "Industrial Chiller",
+    "zh": "工业冷却器"
+  },
+  "block.oritech.tachyon_absorber": {
+    "en": "Tachyon Absorber",
+    "zh": "速子吸收器"
+  },
+  "block.oritech.centrifuge": {
+    "en": "Centrifuge",
+    "zh": "离心机"
+  },
+  "block.oritech.atomic_forge": {
+    "en": "Atomic Forge",
+    "zh": "原子锻造器"
+  },
+  "block.oritech.bio_generator": {
+    "en": "Bio Generator",
+    "zh": "生物质能发电机"
+  },
+  "block.oritech.lava_generator": {
+    "en": "Lava Generator",
+    "zh": "熔岩发电机"
+  },
+  "block.oritech.steam_engine": {
+    "en": "Steam Engine",
+    "zh": "蒸汽机"
+  },
+  "block.oritech.fuel_generator": {
+    "en": "Fuel Generator",
+    "zh": "燃料发电机"
+  },
+  "block.oritech.basic_generator": {
+    "en": "Basic Generator",
+    "zh": "基础发电机"
+  },
+  "block.oritech.big_solar_panel": {
+    "en": "Big Solar Panel",
+    "zh": "大型太阳能电池板"
+  },
+  "block.oritech.powered_furnace": {
+    "en": "Powered Furnace",
+    "zh": "电炉"
+  },
+  "block.oritech.enderic_laser": {
+    "en": "Enderic Laser",
+    "zh": "末影激光器"
+  },
+  "block.oritech.bedrock_extractor": {
+    "en": "Bedrock Extractor",
+    "zh": "基岩层钻机"
+  },
+  "block.oritech.pipe_booster": {
+    "en": "Pipe Booster",
+    "zh": "管道升压器"
+  },
+  "block.oritech.drone_port": {
+    "en": "Drone Port",
+    "zh": "无人机港"
+  },
+  "block.oritech.equipment_charger": {
+    "en": "Equipment Charger",
+    "zh": "装备充能器"
+  },
+  "block.oritech.portable_energy_storage": {
+    "en": "Portable Energy Storage",
+    "zh": "便携能量存储"
+  },
+  "block.oritech.large_storage": {
+    "en": "Large Energy Storage",
+    "zh": "大型能量存储"
+  },
+  "block.oritech.creative_storage": {
+    "en": "Creative Energy Storage",
+    "zh": "创造能量存储"
+  },
+  "block.oritech.portable_tank": {
+    "en": "Portable Tank",
+    "zh": "便携储罐"
+  },
+  "block.oritech.creative_tank": {
+    "en": "Creative Tank",
+    "zh": "创造储罐"
+  },
+  "block.oritech.placer": {
+    "en": "Placer Block",
+    "zh": "方块放置器"
+  },
+  "block.oritech.destroyer": {
+    "en": "Destroyer Block",
+    "zh": "方块破坏器"
+  },
+  "block.oritech.fertilizer": {
+    "en": "Fertilizer Block",
+    "zh": "方块施肥器"
+  },
+  "block.oritech.pump": {
+    "en": "Pump",
+    "zh": "电动泵"
+  },
+  "block.oritech.machine_core_1": {
+    "en": "Primitive Machine Core",
+    "zh": "原始机器核心"
+  },
+  "block.oritech.machine_core_2": {
+    "en": "Basic Machine Core",
+    "zh": "基础机器核心"
+  },
+  "block.oritech.machine_core_3": {
+    "en": "Improved Machine Core",
+    "zh": "中级机器核心"
+  },
+  "block.oritech.machine_core_4": {
+    "en": "Advanced Machine Core",
+    "zh": "高级机器核心"
+  },
+  "block.oritech.machine_core_5": {
+    "en": "Elite Machine Core",
+    "zh": "精良机器核心"
+  },
+  "block.oritech.machine_core_6": {
+    "en": "Ultra Machine Core",
+    "zh": "极致机器核心"
+  },
+  "block.oritech.machine_core_7": {
+    "en": "Ultimate Machine Core",
+    "zh": "终极机器核心"
+  },
+  "block.oritech.machine_speed_addon": {
+    "en": "Speed Addon",
+    "zh": "速度升级插件"
+  },
+  "block.oritech.auxiliary_processing_chamber_addon": {
+    "en": "Auxiliary Processing Chamber Addon",
+    "zh": "辅助加工室插件"
+  },
+  "block.oritech.synergy_matrix_addon": {
+    "en": "Synergy Matrix Addon",
+    "zh": "协同矩阵插件"
+  },
+  "block.oritech.machine_fluid_addon": {
+    "en": "Fluid Addon",
+    "zh": "流体处理插件"
+  },
+  "block.oritech.machine_yield_addon": {
+    "en": "Yield Addon",
+    "zh": "产量升级插件"
+  },
+  "block.oritech.machine_silk_touch_addon": {
+    "en": "Silk Touch Addon",
+    "zh": "精准采集插件"
+  },
+  "block.oritech.steam_boiler_addon": {
+    "en": "Steam Boiler Addon",
+    "zh": "蒸汽锅炉插件"
+  },
+  "block.oritech.crop_filter_addon": {
+    "en": "Crop Filter Addon",
+    "zh": "作物过滤器插件"
+  },
+  "block.oritech.quarry_addon": {
+    "en": "Quarry Addon",
+    "zh": "矿场插件"
+  },
+  "block.oritech.machine_hunter_addon": {
+    "en": "Hunter Addon",
+    "zh": "生物校位插件"
+  },
+  "block.oritech.machine_efficiency_addon": {
+    "en": "Efficiency Addon",
+    "zh": "效率升级插件"
+  },
+  "block.oritech.machine_capacitor_addon": {
+    "en": "Capacitor Addon",
+    "zh": "机器容量插件"
+  },
+  "block.oritech.machine_acceptor_addon": {
+    "en": "Acceptor Addon",
+    "zh": "机器适配器插件"
+  },
+  "block.oritech.machine_inventory_proxy_addon": {
+    "en": "Inventory Proxy Addon",
+    "zh": "物品栏代理插件"
+  },
+  "block.oritech.control_unit_addon": {
+    "en": "Control Unit Addon",
+    "zh": "控制单元插件"
+  },
+  "block.oritech.machine_extender": {
+    "en": "Machine Addon Extender",
+    "zh": "机器扩展坞"
+  },
+  "block.oritech.still_oil_block": {
+    "en": "Crude Oil",
+    "zh": "原油"
+  },
+  "block.oritech.still_fuel_block": {
+    "en": "Turbofuel",
+    "zh": "涡轮燃料"
+  },
+  "block.oritech.still_steam_block": {
+    "en": "Steam",
+    "zh": "蒸汽"
+  },
+  "block.oritech.still_biofuel_block": {
+    "en": "Biofuel",
+    "zh": "生物燃料"
+  },
+  "block.oritech.still_molten_adamant": {
+    "en": "Molten Adamant",
+    "zh": "熔融精镍"
+  },
+  "block.oritech.still_molten_biosteel": {
+    "en": "Molten Biosteel",
+    "zh": "熔融有机钢"
+  },
+  "block.oritech.still_molten_duratium": {
+    "en": "Molten Duratium",
+    "zh": "熔融昶铂"
+  },
+  "block.oritech.still_molten_energite": {
+    "en": "Molten Energite",
+    "zh": "熔融辐镍晶"
+  },
+  "block.oritech.still_molten_fluxite": {
+    "en": "Molten Fluxite",
+    "zh": "熔融辐水晶"
+  },
+  "block.oritech.still_heavy_oil_block": {
+    "en": "Heavy Oil",
+    "zh": "重油"
+  },
+  "block.oritech.still_diesel_block": {
+    "en": "Diesel",
+    "zh": "柴油"
+  },
+  "block.oritech.still_naphtha_block": {
+    "en": "Light Naphtha",
+    "zh": "轻石脑油"
+  },
+  "block.oritech.still_sulfuric_acid_block": {
+    "en": "Sulfuric Acid",
+    "zh": "硫酸"
+  },
+  "block.oritech.still_silicon_wash_block": {
+    "en": "Silicon Wash",
+    "zh": "硅清洗液"
+  },
+  "block.oritech.still_mineral_slurry_block": {
+    "en": "Mineral Slurry",
+    "zh": "矿物浆液"
+  },
+  "block.oritech.still_sheol_fire_block": {
+    "en": "Sheol Fire",
+    "zh": "地狱火"
+  },
+  "block.oritech.still_strange_matter_block": {
+    "en": "Strange Matter",
+    "zh": "奇异物质"
+  },
+  "block.oritech.nickel_ore": {
+    "en": "Nickel Ore",
+    "zh": "镍矿石"
+  },
+  "block.oritech.deepslate_nickel_ore": {
+    "en": "Deepslate Nickel Ore",
+    "zh": "深层镍矿石"
+  },
+  "block.oritech.endstone_platinum_ore": {
+    "en": "Endstone Platinum Ore",
+    "zh": "末地铂矿石"
+  },
+  "block.oritech.deepslate_platinum_ore": {
+    "en": "Deepslate Platinum Ore",
+    "zh": "深层铂矿石"
+  },
+  "block.oritech.redstone_resource_node": {
+    "en": "Redstone Resource Node",
+    "zh": "红石资源节点"
+  },
+  "block.oritech.resource_node_lapis": {
+    "en": "Lapis Lazuli Resource Node",
+    "zh": "青金石资源节点"
+  },
+  "block.oritech.iron_resource_node": {
+    "en": "Iron Resource Node",
+    "zh": "铁资源节点"
+  },
+  "block.oritech.coal_resource_node": {
+    "en": "Coal Resource Node",
+    "zh": "煤炭资源节点"
+  },
+  "block.oritech.gold_resource_node": {
+    "en": "Gold Resource Node",
+    "zh": "金资源节点"
+  },
+  "block.oritech.emerald_resource_node": {
+    "en": "Emerald Resource Node",
+    "zh": "绿宝石资源节点"
+  },
+  "block.oritech.diamond_resource_node": {
+    "en": "Diamond Resource Node",
+    "zh": "钻石资源节点"
+  },
+  "block.oritech.copper_resource_node": {
+    "en": "Copper Resource Node",
+    "zh": "铜资源节点"
+  },
+  "block.oritech.nickel_resource_node": {
+    "en": "Nickel Resource Node",
+    "zh": "镍资源节点"
+  },
+  "block.oritech.platinum_resource_node": {
+    "en": "Platinum Resource Node",
+    "zh": "铂资源节点"
+  },
+  "block.oritech.aluminum_resource_node": {
+    "en": "Aluminum Resource Node",
+    "zh": "铝资源节点"
+  },
+  "block.oritech.lead_resource_node": {
+    "en": "Lead Resource Node",
+    "zh": "铅资源节点"
+  },
+  "block.oritech.osmium_resource_node": {
+    "en": "Osmium Resource Node",
+    "zh": "锇资源节点"
+  },
+  "block.oritech.silver_resource_node": {
+    "en": "Silver Resource Node",
+    "zh": "银资源节点"
+  },
+  "block.oritech.tin_resource_node": {
+    "en": "Tin Resource Node",
+    "zh": "锡资源节点"
+  },
+  "block.oritech.zinc_resource_node": {
+    "en": "Zinc Resource Node",
+    "zh": "锌资源节点"
+  },
+  "block.oritech.iridium_resource_node": {
+    "en": "Iridium Resource Node",
+    "zh": "铱资源节点"
+  },
+  "block.oritech.tungsten_resource_node": {
+    "en": "Tungsten Resource Node",
+    "zh": "钨资源节点"
+  },
+  "block.oritech.titanium_resource_node": {
+    "en": "Titanium Resource Node",
+    "zh": "钛资源节点"
+  },
+  "block.oritech.industrial_light": {
+    "en": "Industrial Light",
+    "zh": "工业壁灯"
+  },
+  "block.oritech.industrial_light_hanging": {
+    "en": "Hanging Light",
+    "zh": "吊灯"
+  },
+  "block.oritech.industrial_button": {
+    "en": "Industrial Button",
+    "zh": "工业按钮"
+  },
+  "block.oritech.industrial_lever": {
+    "en": "Industrial Lever",
+    "zh": "工业拉杆"
+  },
+  "block.oritech.industrial_door": {
+    "en": "Industrial Door",
+    "zh": "工业门"
+  },
+  "block.oritech.industrial_door_hinge": {
+    "en": "Industrial Door",
+    "zh": "工业门"
+  },
+  "block.oritech.hangar_door": {
+    "en": "Industrial Hangar Door",
+    "zh": "工业机库门"
+  },
+  "block.oritech.hangar_door_helper": {
+    "en": "Industrial Hangar Door",
+    "zh": "工业机库门"
+  },
+  "block.oritech.industrial_support_beam": {
+    "en": "Industrial Support Beam",
+    "zh": "工业承重柱"
+  },
+  "block.oritech.industrial_support_girder": {
+    "en": "Industrial Support Girder",
+    "zh": "工业承重梁"
+  },
+  "block.oritech.copper_reinforced_plating": {
+    "en": "Copper Reinforced Plating",
+    "zh": "铜强化护板"
+  },
+  "block.oritech.copper_reinforced_plating_slab": {
+    "en": "Copper Reinforced Plating Slab",
+    "zh": "铜强化护板台阶"
+  },
+  "block.oritech.copper_reinforced_plating_stairs": {
+    "en": "Copper Reinforced Plating Stairs",
+    "zh": "铜强化护板楼梯"
+  },
+  "block.oritech.copper_reinforced_plating_pressure_plate": {
+    "en": "Copper Reinforced Plating Pressure Plate",
+    "zh": "铜强化护板压力板"
+  },
+  "block.oritech.iron_plating": {
+    "en": "Iron Reinforced Plating",
+    "zh": "铁强化护板"
+  },
+  "block.oritech.iron_plating_slab": {
+    "en": "Iron Reinforced Plating Slab",
+    "zh": "铁强化护板台阶"
+  },
+  "block.oritech.iron_plating_stairs": {
+    "en": "Iron Reinforced Plating Stairs",
+    "zh": "铁强化护板楼梯"
+  },
+  "block.oritech.iron_plating_pressure_plate": {
+    "en": "Iron Reinforced Plating Pressure Plate",
+    "zh": "铁强化护板压力板"
+  },
+  "block.oritech.nickel_plating": {
+    "en": "Nickel Reinforced Plating",
+    "zh": "镍强化护板"
+  },
+  "block.oritech.nickel_plating_slab": {
+    "en": "Nickel Reinforced Plating Slab",
+    "zh": "镍强化护板台阶"
+  },
+  "block.oritech.nickel_plating_stairs": {
+    "en": "Nickel Reinforced Plating Stairs",
+    "zh": "镍强化护板楼梯"
+  },
+  "block.oritech.nickel_plating_pressure_plate": {
+    "en": "Nickel Reinforced Plating Pressure Plate",
+    "zh": "镍强化护板压力板"
+  },
+  "block.oritech.industrial_glass": {
+    "en": "Industrial Glass",
+    "zh": "工业玻璃"
+  },
+  "block.oritech.power_bank_addon_extender": {
+    "en": "Power Bank Addon Extender",
+    "zh": "储能扩展坞"
+  },
+  "block.oritech.tree_cutter": {
+    "en": "Tree Cutter",
+    "zh": "伐木器"
+  },
+  "block.oritech.steel": {
+    "en": "Block of Steel",
+    "zh": "钢块"
+  },
+  "block.oritech.energite": {
+    "en": "Block of Energite",
+    "zh": "辐镍晶块"
+  },
+  "block.oritech.nickel": {
+    "en": "Block of Nickel",
+    "zh": "镍块"
+  },
+  "block.oritech.biosteel": {
+    "en": "Block of Biosteel",
+    "zh": "有机钢块"
+  },
+  "block.oritech.platinum": {
+    "en": "Block of Platinum",
+    "zh": "铂块"
+  },
+  "block.oritech.adamant": {
+    "en": "Block of Adamant",
+    "zh": "精镍块"
+  },
+  "block.oritech.electrum": {
+    "en": "Block of Electrum",
+    "zh": "琥珀金块"
+  },
+  "block.oritech.duratium": {
+    "en": "Block of Duratium",
+    "zh": "昶铂块"
+  },
+  "block.oritech.biomass_block": {
+    "en": "Block of Biomass",
+    "zh": "生物质块"
+  },
+  "block.oritech.plastic": {
+    "en": "Block of Plastic",
+    "zh": "塑料块"
+  },
+  "block.oritech.fluxite_block": {
+    "en": "Block of Fluxite",
+    "zh": "辐水晶块"
+  },
+  "block.oritech.silicon_block": {
+    "en": "Block of Silicon",
+    "zh": "硅块"
+  },
+  "block.oritech.raw_nickel_block": {
+    "en": "Block of Raw Nickel",
+    "zh": "粗镍块"
+  },
+  "block.oritech.raw_uranium_block": {
+    "en": "Block of Raw Uranium",
+    "zh": "粗铀块"
+  },
+  "block.oritech.uranium": {
+    "en": "Block of Uranium",
+    "zh": "铀块"
+  },
+  "block.oritech.raw_platinum_block": {
+    "en": "Block of Raw Platinum",
+    "zh": "粗铂块"
+  },
+  "block.oritech.black_hole": {
+    "en": "Black Hole",
+    "zh": "黑洞"
+  },
+  "block.oritech.arcane_catalyst": {
+    "en": "Arcane Catalyst",
+    "zh": "奥术触媒"
+  },
+  "block.oritech.stabilized_enchanter": {
+    "en": "Stabilized Enchanter",
+    "zh": "稳定附魔器"
+  },
+  "block.oritech.spawner_controller": {
+    "en": "Spawner Controller",
+    "zh": "刷怪器控制器"
+  },
+  "block.oritech.spawner_cage": {
+    "en": "Spawner Cage",
+    "zh": "刷怪器笼"
+  },
+  "block.oritech.soul_flowers": {
+    "en": "Soul Flowers",
+    "zh": "灵魂之花"
+  },
+  "block.oritech.accelerator_ring": {
+    "en": "Particle Accelerator Guide Ring",
+    "zh": "粒子加速器导向环"
+  },
+  "block.oritech.accelerator_motor": {
+    "en": "Particle Accelerator Linear Motor",
+    "zh": "粒子加速器直线型马达"
+  },
+  "block.oritech.particle_accelerator": {
+    "en": "Particle Accelerator",
+    "zh": "粒子加速器"
+  },
+  "block.oritech.accelerator_sensor": {
+    "en": "Particle Accelerator Sensor",
+    "zh": "粒子加速器传感器"
+  },
+  "block.oritech.nuclear_reactor_controller": {
+    "en": "Nuclear Reactor Controller",
+    "zh": "核反应堆控制器"
+  },
+  "block.oritech.reactor_wall": {
+    "en": "Reactor Wall",
+    "zh": "反应堆墙"
+  },
+  "block.oritech.reactor_rod": {
+    "en": "Single Reactor Rod",
+    "zh": "单反应堆棒"
+  },
+  "block.oritech.reactor_double_rod": {
+    "en": "Reactor Double Rod",
+    "zh": "双联反应堆棒"
+  },
+  "block.oritech.reactor_quad_rod": {
+    "en": "Reactor Quad Rod",
+    "zh": "四联反应堆棒"
+  },
+  "block.oritech.reactor_heat_vent": {
+    "en": "Reactor Heat Vent",
+    "zh": "反应堆散热口"
+  },
+  "block.oritech.reactor_neutron_reflector": {
+    "en": "Reactor Neutron Reflector",
+    "zh": "反应堆中子反射器"
+  },
+  "block.oritech.reactor_heat_pipe": {
+    "en": "Reactor Heat Pipe",
+    "zh": "反应堆热量管道"
+  },
+  "block.oritech.reactor_heat_absorber": {
+    "en": "Reactor Heat Absorber",
+    "zh": "反应堆热量吸收器"
+  },
+  "block.oritech.reactor_fuel_port": {
+    "en": "Reactor Fuel Port",
+    "zh": "反应堆燃料口"
+  },
+  "block.oritech.reactor_coolant_absorber_port": {
+    "en": "Reactor Coolant Absorber Port",
+    "zh": "反应堆冷却剂吸收器口"
+  },
+  "block.oritech.reactor_energy_port": {
+    "en": "Reactor Energy Port",
+    "zh": "反应堆能量端口"
+  },
+  "block.oritech.reactor_redstone_port": {
+    "en": "Reactor Redstone Port",
+    "zh": "反应堆红石端口"
+  },
+  "block.oritech.cybernetic_augmentation_center": {
+    "en": "Cybernetic Augmentation Center",
+    "zh": "赛博改造中心"
+  },
+  "block.oritech.cybernetic_research_station": {
+    "en": "Cybernetic Research Station",
+    "zh": "赛博研究站"
+  },
+  "block.oritech.quantum_research_station": {
+    "en": "Quantum Research Station",
+    "zh": "量子研究站"
+  },
+  "block.oritech.arcane_augment_station": {
+    "en": "Arcane Research Station",
+    "zh": "奥术研究站"
+  },
+  "item.oritech.banana": {
+    "en": "Banana",
+    "zh": "香蕉"
+  },
+  "item.oritech.weed_killer": {
+    "en": "Weed Killer",
+    "zh": "除草剂"
+  },
+  "item.oritech.target_designator": {
+    "en": "Target Designator",
+    "zh": "目标标识器"
+  },
+  "item.oritech.still_oil_bucket": {
+    "en": "Crude Oil Bucket",
+    "zh": "原油桶"
+  },
+  "item.oritech.still_fuel_bucket": {
+    "en": "Turbofuel Bucket",
+    "zh": "涡轮燃料桶"
+  },
+  "item.oritech.still_steam_bucket": {
+    "en": "Steam Bucket",
+    "zh": "蒸汽桶"
+  },
+  "item.oritech.still_biofuel_bucket": {
+    "en": "Biofuel Bucket",
+    "zh": "生物燃料桶"
+  },
+  "item.oritech.still_heavy_oil_bucket": {
+    "en": "Heavy Oil Bucket",
+    "zh": "重油桶"
+  },
+  "item.oritech.still_diesel_bucket": {
+    "en": "Diesel Bucket",
+    "zh": "柴油桶"
+  },
+  "item.oritech.still_naphtha_bucket": {
+    "en": "Light Naphtha Bucket",
+    "zh": "轻石脑油桶"
+  },
+  "item.oritech.still_sulfuric_acid_bucket": {
+    "en": "Sulfuric Acid Bucket",
+    "zh": "硫酸桶"
+  },
+  "item.oritech.still_silicon_wash_bucket": {
+    "en": "Silicon Wash Bucket",
+    "zh": "硅清洗液桶"
+  },
+  "item.oritech.still_mineral_slurry_bucket": {
+    "en": "Mineral Slurry Bucket",
+    "zh": "矿物浆液桶"
+  },
+  "item.oritech.still_sheol_fire_bucket": {
+    "en": "Sheol Fire Bucket",
+    "zh": "地狱火桶"
+  },
+  "item.oritech.still_strange_matter_bucket": {
+    "en": "Strange Matter Bucket",
+    "zh": "奇异物质桶"
+  },
+  "item.oritech.still_molten_adamant_bucket": {
+    "en": "Molten Adamant Bucket",
+    "zh": "桶装熔融精镍"
+  },
+  "item.oritech.still_molten_biosteel_bucket": {
+    "en": "Molten Biosteel Bucket",
+    "zh": "桶装熔融有机钢"
+  },
+  "item.oritech.still_molten_duratium_bucket": {
+    "en": "Molten Duratium Bucket",
+    "zh": "桶装熔融昶铂"
+  },
+  "item.oritech.still_molten_energite_bucket": {
+    "en": "Molten Energite Bucket",
+    "zh": "桶装熔融辐镍晶"
+  },
+  "item.oritech.still_molten_fluxite_bucket": {
+    "en": "Molten Fluxite Bucket",
+    "zh": "桶装熔融辐水晶"
+  },
+  "item.oritech.nickel_ingot": {
+    "en": "Nickel Ingot",
+    "zh": "镍锭"
+  },
+  "item.oritech.raw_nickel": {
+    "en": "Raw Nickel",
+    "zh": "粗镍"
+  },
+  "item.oritech.nickel_clump": {
+    "en": "Nickel Clump",
+    "zh": "镍碎块"
+  },
+  "item.oritech.small_nickel_clump": {
+    "en": "Small Nickel Clump",
+    "zh": "镍碎末"
+  },
+  "item.oritech.nickel_dust": {
+    "en": "Nickel Dust",
+    "zh": "镍粉"
+  },
+  "item.oritech.small_nickel_dust": {
+    "en": "Small Nickel Dust",
+    "zh": "细镍粉"
+  },
+  "item.oritech.nickel_gem": {
+    "en": "Nickel Gem",
+    "zh": "镍石"
+  },
+  "item.oritech.schrodingers_safe": {
+    "en": "Schrödinger's Safe",
+    "zh": "薛定谔保险柜"
+  },
+  "item.oritech.nickel_nugget": {
+    "en": "Nickel Nugget",
+    "zh": "镍粒"
+  },
+  "item.oritech.platinum_ingot": {
+    "en": "Platinum Ingot",
+    "zh": "铂锭"
+  },
+  "item.oritech.raw_platinum": {
+    "en": "Raw Platinum",
+    "zh": "粗铂"
+  },
+  "item.oritech.platinum_clump": {
+    "en": "Platinum Clump",
+    "zh": "铂碎块"
+  },
+  "item.oritech.small_platinum_clump": {
+    "en": "Small Platinum Clump",
+    "zh": "铂碎末"
+  },
+  "item.oritech.platinum_dust": {
+    "en": "Platinum Dust",
+    "zh": "铂粉"
+  },
+  "item.oritech.small_platinum_dust": {
+    "en": "Small Platinum Dust",
+    "zh": "细铂粉"
+  },
+  "item.oritech.platinum_gem": {
+    "en": "Platinum Gem",
+    "zh": "铂石"
+  },
+  "item.oritech.platinum_nugget": {
+    "en": "Platinum Nugget",
+    "zh": "铂粒"
+  },
+  "item.oritech.iron_clump": {
+    "en": "Iron Clump",
+    "zh": "铁碎块"
+  },
+  "item.oritech.small_iron_clump": {
+    "en": "Small Iron Clump",
+    "zh": "铁碎末"
+  },
+  "item.oritech.iron_dust": {
+    "en": "Iron Dust",
+    "zh": "铁粉"
+  },
+  "item.oritech.small_iron_dust": {
+    "en": "Small Iron Dust",
+    "zh": "细铁粉"
+  },
+  "item.oritech.iron_gem": {
+    "en": "Iron Gem",
+    "zh": "铁石"
+  },
+  "item.oritech.copper_clump": {
+    "en": "Copper Clump",
+    "zh": "铜碎块"
+  },
+  "item.oritech.small_copper_clump": {
+    "en": "Small Copper Clump",
+    "zh": "铜碎末"
+  },
+  "item.oritech.copper_dust": {
+    "en": "Copper Dust",
+    "zh": "铜粉"
+  },
+  "item.oritech.small_copper_dust": {
+    "en": "Small Copper Dust",
+    "zh": "细铜粉"
+  },
+  "item.oritech.copper_gem": {
+    "en": "Copper Gem",
+    "zh": "铜石"
+  },
+  "item.oritech.copper_nugget": {
+    "en": "Copper Nugget",
+    "zh": "铜粒"
+  },
+  "item.oritech.gold_clump": {
+    "en": "Gold Clump",
+    "zh": "金碎块"
+  },
+  "item.oritech.small_gold_clump": {
+    "en": "Small Gold Clump",
+    "zh": "金碎末"
+  },
+  "item.oritech.gold_dust": {
+    "en": "Gold Dust",
+    "zh": "金粉"
+  },
+  "item.oritech.small_gold_dust": {
+    "en": "Small Gold Dust",
+    "zh": "细金粉"
+  },
+  "item.oritech.gold_gem": {
+    "en": "Gold Gem",
+    "zh": "金石"
+  },
+  "item.oritech.fluxite": {
+    "en": "Fluxite",
+    "zh": "通量水晶"
+  },
+  "item.oritech.adamant_ingot": {
+    "en": "Adamant Ingot",
+    "zh": "精镍锭"
+  },
+  "item.oritech.adamant_dust": {
+    "en": "Adamant Dust",
+    "zh": "精镍粉"
+  },
+  "item.oritech.biosteel_ingot": {
+    "en": "Biosteel Ingot",
+    "zh": "有机钢锭"
+  },
+  "item.oritech.biosteel_dust": {
+    "en": "Biosteel Dust",
+    "zh": "有机钢粉"
+  },
+  "item.oritech.duratium_ingot": {
+    "en": "Duratium Ingot",
+    "zh": "昶铂锭"
+  },
+  "item.oritech.duratium_dust": {
+    "en": "Duratium Dust",
+    "zh": "昶铂粉"
+  },
+  "item.oritech.electrum_ingot": {
+    "en": "Electrum Ingot",
+    "zh": "琥珀金锭"
+  },
+  "item.oritech.electrum_dust": {
+    "en": "Electrum Dust",
+    "zh": "琥珀金粉"
+  },
+  "item.oritech.energite_ingot": {
+    "en": "Energite Ingot",
+    "zh": "辐镍晶锭"
+  },
+  "item.oritech.energite_dust": {
+    "en": "Energite Dust",
+    "zh": "辐镍晶粉"
+  },
+  "item.oritech.electric_mace": {
+    "en": "Electric Mace",
+    "zh": "电动重锤"
+  },
+  "item.oritech.prometheum_ingot": {
+    "en": "Prometheum",
+    "zh": "钷"
+  },
+  "item.oritech.enderic_railgun": {
+    "en": "Enderic Railgun",
+    "zh": "末影电磁炮"
+  },
+  "item.oritech.steel_ingot": {
+    "en": "Steel Ingot",
+    "zh": "钢锭"
+  },
+  "item.oritech.steel_dust": {
+    "en": "Steel Dust",
+    "zh": "钢粉"
+  },
+  "item.oritech.coal_dust": {
+    "en": "Coal Dust",
+    "zh": "煤粉"
+  },
+  "item.oritech.carbon_fibre_strands": {
+    "en": "Carbon Fibre Strands",
+    "zh": "碳纤维"
+  },
+  "item.oritech.enderic_compound": {
+    "en": "Enderic Compound",
+    "zh": "末影化合物"
+  },
+  "item.oritech.strange_matter": {
+    "en": "Strange Matter",
+    "zh": "奇异物质"
+  },
+  "item.oritech.reinforced_carbon_sheet": {
+    "en": "Reinforced Carbon Sheet",
+    "zh": "强化碳纤维板"
+  },
+  "item.oritech.ion_thruster": {
+    "en": "Ion Thruster",
+    "zh": "离子推进器"
+  },
+  "item.oritech.clay_catalyst_beads": {
+    "en": "Clay Catalyst Beads",
+    "zh": "黏土催化剂"
+  },
+  "item.oritech.fine_wire": {
+    "en": "Fine Wire",
+    "zh": "细导线"
+  },
+  "item.oritech.magnetic_coil": {
+    "en": "Magnetic Coil",
+    "zh": "电磁线圈"
+  },
+  "item.oritech.motor": {
+    "en": "Motor",
+    "zh": "马达"
+  },
+  "item.oritech.basic_battery": {
+    "en": "Basic Battery",
+    "zh": "基础电池"
+  },
+  "item.oritech.copper_reinforced_plating": {
+    "en": "Machine Plating",
+    "zh": "机器护板"
+  },
+  "item.oritech.raw_silicon": {
+    "en": "Raw Silicon",
+    "zh": "粗硅"
+  },
+  "item.oritech.silicon": {
+    "en": "Silicon",
+    "zh": "硅"
+  },
+  "item.oritech.raw_biopolymer": {
+    "en": "Raw Biopolymer",
+    "zh": "粗有机聚合物"
+  },
+  "item.oritech.polymer_resin": {
+    "en": "Polymer Resin",
+    "zh": "石油树脂"
+  },
+  "item.oritech.plastic_sheet": {
+    "en": "Plastic Sheet",
+    "zh": "塑料片"
+  },
+  "item.oritech.processing_unit": {
+    "en": "Processing Unit",
+    "zh": "处理器"
+  },
+  "item.oritech.advanced_computing_engine": {
+    "en": "Advanced Computing Engine",
+    "zh": "高级计算引擎"
+  },
+  "item.oritech.silicon_wafer": {
+    "en": "Silicon Wafer",
+    "zh": "硅晶圆"
+  },
+  "item.oritech.dubious_container": {
+    "en": "Dubious Container",
+    "zh": "可疑的容器"
+  },
+  "item.oritech.enderic_lens": {
+    "en": "Enderic Lens",
+    "zh": "末影透镜"
+  },
+  "item.oritech.flux_gate": {
+    "en": "Flux Gate",
+    "zh": "磁通门"
+  },
+  "item.oritech.advanced_battery": {
+    "en": "Advanced Battery",
+    "zh": "高级电池"
+  },
+  "item.oritech.super_ai_chip": {
+    "en": "Super AI Chip",
+    "zh": "超级AI芯片"
+  },
+  "item.oritech.unholy_intelligence": {
+    "en": "Unholy Intelligence",
+    "zh": "堕落智能"
+  },
+  "item.oritech.heisenberg_compensator": {
+    "en": "Heisenberg Compensator",
+    "zh": "海森堡补偿器"
+  },
+  "item.oritech.overcharged_crystal": {
+    "en": "Overcharged Crystal",
+    "zh": "过充水晶"
+  },
+  "item.oritech.superconductor": {
+    "en": "Superconductor",
+    "zh": "超导体"
+  },
+  "item.oritech.packed_wheat": {
+    "en": "Packed Wheat",
+    "zh": "打包小麦"
+  },
+  "item.oritech.quartz_dust": {
+    "en": "Quartz Dust",
+    "zh": "石英粉"
+  },
+  "item.oritech.biomass": {
+    "en": "Biomass",
+    "zh": "生物质"
+  },
+  "item.oritech.solid_biofuel": {
+    "en": "Solid Biofuel",
+    "zh": "固体生物燃料"
+  },
+  "item.oritech.exo_helmet": {
+    "en": "Exo Helmet",
+    "zh": "外骨骼头盔"
+  },
+  "item.oritech.exo_chestplate": {
+    "en": "Exo Chestplate",
+    "zh": "外骨骼胸甲"
+  },
+  "item.oritech.exo_leggings": {
+    "en": "Exo Leggings",
+    "zh": "外骨骼护腿"
+  },
+  "item.oritech.exo_boots": {
+    "en": "Exo Boots",
+    "zh": "外骨骼靴子"
+  },
+  "item.oritech.chainsaw": {
+    "en": "Chainsaw",
+    "zh": "链锯"
+  },
+  "item.oritech.hand_drill": {
+    "en": "Hand Drill",
+    "zh": "手钻"
+  },
+  "item.oritech.jetpack": {
+    "en": "Jetpack",
+    "zh": "喷气背包"
+  },
+  "item.oritech.exo_jetpack": {
+    "en": "Exo Jetpack",
+    "zh": "外骨骼喷气背包"
+  },
+  "item.oritech.jetpack_elytra": {
+    "en": "Boosted Elytra",
+    "zh": "强化鞘翅"
+  },
+  "item.oritech.jetpack_exo_elytra": {
+    "en": "Boosted Exo Elytra",
+    "zh": "强化外骨骼鞘翅"
+  },
+  "item.oritech.raw_uranium": {
+    "en": "Raw Uranium",
+    "zh": "粗铀"
+  },
+  "item.oritech.uranium_gem": {
+    "en": "Uranium Gem",
+    "zh": "铀石"
+  },
+  "item.oritech.small_uranium_dust": {
+    "en": "Small Uranium Dust",
+    "zh": "细铀粉"
+  },
+  "item.oritech.uranium_dust": {
+    "en": "Uranium Dust",
+    "zh": "铀粉"
+  },
+  "item.oritech.small_plutonium_dust": {
+    "en": "Small Plutonium Dust",
+    "zh": "细钚粉"
+  },
+  "item.oritech.plutonium_dust": {
+    "en": "Plutonium Dust",
+    "zh": "钚粉"
+  },
+  "item.oritech.small_uranium_pellet": {
+    "en": "Small Uranium Pellet",
+    "zh": "小铀球"
+  },
+  "item.oritech.uranium_pellet": {
+    "en": "Uranium Pellet",
+    "zh": "铀球"
+  },
+  "item.oritech.small_plutonium_pellet": {
+    "en": "Small Plutonium Pellet",
+    "zh": "小钚球"
+  },
+  "item.oritech.plutonium_pellet": {
+    "en": "Plutonium Pellet",
+    "zh": "钚球"
+  },
+  "item.oritech.diamond_paint": {
+    "en": "Adamant Machine Paint",
+    "zh": "钻石机器涂料"
+  },
+  "item.oritech.redstone_paint": {
+    "en": "Redstone Machine Paint",
+    "zh": "红石机器涂料"
+  },
+  "item.oritech.orange_paint": {
+    "en": "Orange Machine Paint",
+    "zh": "橙色机器涂料"
+  },
+  "item.oritech.camo_paint": {
+    "en": "Camo Machine Paint",
+    "zh": "迷彩机器涂料"
+  },
+  "item.oritech.fluxite_paint": {
+    "en": "Fluxite Machine Paint",
+    "zh": "辐水晶机器涂料"
+  },
+  "item.oritech.white_paint": {
+    "en": "White Machine Paint",
+    "zh": "白色机器涂料"
+  },
+  "item.oritech.industrial_paint": {
+    "en": "Industrial Machine Paint",
+    "zh": "工业机器涂料"
+  },
+  "item.oritech.netherite_paint": {
+    "en": "Netherite Machine Paint",
+    "zh": "下界合金机器涂料"
+  },
+  "item.oritech.sculk_paint": {
+    "en": "Sculk Machine Paint",
+    "zh": "幽匿机器涂料"
+  },
+  "fluid_type.oritech.fuel_fluid_type": {
+    "en": "Turbofuel",
+    "zh": "涡轮燃料"
+  },
+  "fluid_type.oritech.oil_fluid_type": {
+    "en": "Oil",
+    "zh": "石油"
+  },
+  "fluid_type.oritech.steam_fluid_type": {
+    "en": "Steam",
+    "zh": "蒸汽"
+  },
+  "fluid_type.oritech.biofuel_fluid_type": {
+    "en": "Biofuel",
+    "zh": "生物燃料"
+  },
+  "fluid_type.oritech.molten_adamant_fluid_type": {
+    "en": "Molten Adamant",
+    "zh": "熔融精镍"
+  },
+  "fluid_type.oritech.molten_biosteel_fluid_type": {
+    "en": "Molten Biosteel",
+    "zh": "熔融有机钢"
+  },
+  "fluid_type.oritech.molten_duratium_fluid_type": {
+    "en": "Molten Duratium",
+    "zh": "熔融昶铂"
+  },
+  "fluid_type.oritech.molten_energite_fluid_type": {
+    "en": "Molten Energite",
+    "zh": "熔融辐镍晶"
+  },
+  "fluid_type.oritech.molten_fluxite_fluid_type": {
+    "en": "Molten Fluxite",
+    "zh": "熔融辐水晶"
+  },
+  "fluid_type.oritech.heavy_oil_fluid_type": {
+    "en": "Heavy Oil",
+    "zh": "重油"
+  },
+  "fluid_type.oritech.diesel_fluid_type": {
+    "en": "Diesel",
+    "zh": "柴油"
+  },
+  "fluid_type.oritech.naphtha_fluid_type": {
+    "en": "Light Naphtha",
+    "zh": "轻石脑油"
+  },
+  "fluid_type.oritech.sulfuric_acid_fluid_type": {
+    "en": "Sulfuric Acid",
+    "zh": "硫酸"
+  },
+  "fluid_type.oritech.silicon_wash_fluid_type": {
+    "en": "Silicon Wash",
+    "zh": "硅清洗液"
+  },
+  "fluid_type.oritech.mineral_slurry_fluid_type": {
+    "en": "Mineral Slurry",
+    "zh": "矿物浆液"
+  },
+  "fluid_type.oritech.sheol_fire_fluid_type": {
+    "en": "Sheol Fire",
+    "zh": "地狱火"
+  },
+  "fluid_type.oritech.strange_matter_fluid_type": {
+    "en": "Strange Matter",
+    "zh": "奇异物质"
+  },
+  "item.oritech.wrench": {
+    "en": "Pipe Wrench",
+    "zh": "管道扳手"
+  },
+  "item.oritech.promethium_axe": {
+    "en": "Prometheum Battleaxe",
+    "zh": "钷战斧"
+  },
+  "item.oritech.promethium_pickaxe": {
+    "en": "Prometheum Pickaxe",
+    "zh": "钷镐"
+  },
+  "config.jade.plugin_oritech.machine_core_controller": {
+    "en": "Oritech Controller Link View",
+    "zh": "Oritech控制器连接视图"
+  },
+  "tag.item.c.carbon_fibre": {
+    "en": "Carbon Fibre",
+    "zh": "碳纤维"
+  },
+  "tag.item.c.dusts.adamant": {
+    "en": "Adamant Dust",
+    "zh": "精镍粉"
+  },
+  "tag.item.c.dusts.biosteel": {
+    "en": "Biosteel Dust",
+    "zh": "有机钢粉"
+  },
+  "tag.item.c.dusts.coal": {
+    "en": "Coal Dust",
+    "zh": "煤粉"
+  },
+  "tag.item.c.dusts.duratium": {
+    "en": "Duratium Dust",
+    "zh": "昶铂粉"
+  },
+  "tag.item.c.dusts.electrum": {
+    "en": "Electrum Dust",
+    "zh": "琥珀金粉"
+  },
+  "tag.item.c.dusts.energite": {
+    "en": "Energite Dust",
+    "zh": "辐镍晶粉"
+  },
+  "tag.item.c.dusts.nickel": {
+    "en": "Nickel Dust",
+    "zh": "镍粉"
+  },
+  "tag.item.c.dusts.platinum": {
+    "en": "Platinum Dust",
+    "zh": "铂粉"
+  },
+  "tag.item.c.dusts.quartz": {
+    "en": "Quartz Dust",
+    "zh": "石英粉"
+  },
+  "tag.item.c.dusts.steel": {
+    "en": "Steel Dust",
+    "zh": "钢粉"
+  },
+  "tag.item.c.gems.fluxite": {
+    "en": "Fluxite Gem",
+    "zh": "辐水晶石"
+  },
+  "tag.item.c.ingots.adamant": {
+    "en": "Adamant Ingot",
+    "zh": "精镍锭"
+  },
+  "tag.item.c.ingots.biosteel": {
+    "en": "Biosteel Ingot",
+    "zh": "有机钢锭"
+  },
+  "tag.item.c.ingots.duratium": {
+    "en": "Duratium Ingot",
+    "zh": "昶铂锭"
+  },
+  "tag.item.c.ingots.electrum": {
+    "en": "Electrum Ingot",
+    "zh": "琥珀金锭"
+  },
+  "tag.item.c.ingots.energite": {
+    "en": "Energite Ingot",
+    "zh": "辐镍晶锭"
+  },
+  "tag.item.c.ingots.nickel": {
+    "en": "Nickel Ingot",
+    "zh": "镍锭"
+  },
+  "tag.item.c.ingots.platinum": {
+    "en": "Platinum Ingot",
+    "zh": "铂锭"
+  },
+  "tag.item.c.ingots.prometheum": {
+    "en": "Prometheum Ingot",
+    "zh": "钷锭"
+  },
+  "tag.item.c.ingots.steel": {
+    "en": "Steel Ingot",
+    "zh": "钢锭"
+  },
+  "tag.item.c.nuggets.nickel": {
+    "en": "Nickel Nugget",
+    "zh": "镍粒"
+  },
+  "tag.item.c.nuggets.platinum": {
+    "en": "Platinum Nugget",
+    "zh": "铂粒"
+  },
+  "tag.item.c.ores.nickel": {
+    "en": "Nickel Ore",
+    "zh": "镍矿石"
+  },
+  "tag.item.c.ores.platinum": {
+    "en": "Platinum Ore",
+    "zh": "铂矿石"
+  },
+  "tag.item.c.raw_materials.dyes.black": {
+    "en": "Black Dye",
+    "zh": "黑色染料"
+  },
+  "tag.item.c.raw_materials.dyes.blue": {
+    "en": "Blue Dye",
+    "zh": "蓝色染料"
+  },
+  "tag.item.c.raw_materials.dyes.cyan": {
+    "en": "Cyan Dye",
+    "zh": "青色染料"
+  },
+  "tag.item.c.raw_materials.dyes.light_gray": {
+    "en": "Light Gray Dye",
+    "zh": "淡灰色染料"
+  },
+  "tag.item.c.raw_materials.dyes.magenta": {
+    "en": "Magenta Dye",
+    "zh": "品红色染料"
+  },
+  "tag.item.c.raw_materials.dyes.orange": {
+    "en": "Orange Dye",
+    "zh": "橙色染料"
+  },
+  "tag.item.c.raw_materials.dyes.pink": {
+    "en": "Pink Dye",
+    "zh": "粉色染料"
+  },
+  "tag.item.c.raw_materials.dyes.red": {
+    "en": "Red Dye",
+    "zh": "红色染料"
+  },
+  "tag.item.c.raw_materials.dyes.white": {
+    "en": "White Dye",
+    "zh": "白色染料"
+  },
+  "tag.item.c.raw_materials.dyes.yellow": {
+    "en": "Yellow Dye",
+    "zh": "黄色染料"
+  },
+  "tag.item.c.raw_ores.nickel": {
+    "en": "Raw Nickel",
+    "zh": "粗镍"
+  },
+  "tag.item.c.raw_ores.platinum": {
+    "en": "Raw Platinum",
+    "zh": "粗铂"
+  },
+  "tag.item.c.silicon": {
+    "en": "Silicon",
+    "zh": "硅"
+  },
+  "tag.item.c.storage_blocks.adamant": {
+    "en": "Adamant Block",
+    "zh": "精镍块"
+  },
+  "tag.item.c.storage_blocks.biomass": {
+    "en": "Biomass Block",
+    "zh": "生物质块"
+  },
+  "tag.item.c.storage_blocks.biosteel": {
+    "en": "Biosteel Block",
+    "zh": "有机钢块"
+  },
+  "tag.item.c.storage_blocks.duratium": {
+    "en": "Duratium Block",
+    "zh": "昶铂块"
+  },
+  "tag.item.c.storage_blocks.electrum": {
+    "en": "Electrum Block",
+    "zh": "琥珀金块"
+  },
+  "tag.item.c.storage_blocks.energite": {
+    "en": "Energite Block",
+    "zh": "辐镍晶块"
+  },
+  "tag.item.c.storage_blocks.fluxite": {
+    "en": "Fluxite Block",
+    "zh": "辐水晶块"
+  },
+  "tag.item.c.storage_blocks.nickel": {
+    "en": "Nickel Block",
+    "zh": "镍块"
+  },
+  "tag.item.c.storage_blocks.plastic": {
+    "en": "Plastic Block",
+    "zh": "塑料块"
+  },
+  "tag.item.c.storage_blocks.platinum": {
+    "en": "Platinum Block",
+    "zh": "铂块"
+  },
+  "tag.item.c.storage_blocks.raw_nickel": {
+    "en": "Raw Nickel Block",
+    "zh": "粗镍块"
+  },
+  "tag.item.c.storage_blocks.raw_platinum": {
+    "en": "Raw Platinum Block",
+    "zh": "粗铂块"
+  },
+  "tag.item.c.storage_blocks.silicon": {
+    "en": "Silicon Block",
+    "zh": "硅块"
+  },
+  "tag.item.c.storage_blocks.steel": {
+    "en": "Steel Block",
+    "zh": "钢块"
+  },
+  "tag.item.c.wires": {
+    "en": "Wires",
+    "zh": "线缆"
+  },
+  "tag.item.c.plates.plastic": {
+    "en": "Plastic Plates",
+    "zh": "塑料片"
+  },
+  "tag.item.oritech.biomass": {
+    "en": "Biomass",
+    "zh": "生物质"
+  },
+  "tag.item.oritech.plating": {
+    "en": "Plating",
+    "zh": "护板"
+  },
+  "tag.item.c.biodiesel": {
+    "en": "Biodiesel",
+    "zh": "生物柴油"
+  },
+  "tag.item.c.high_power_biodiesel": {
+    "en": "High Power Biodiesel",
+    "zh": "高热值生物柴油"
+  },
+  "tag.item.c.oil": {
+    "en": "Oil",
+    "zh": "石油"
+  },
+  "tag.item.c.steam": {
+    "en": "Steam",
+    "zh": "蒸汽"
+  },
+  "tag.item.oritech.biofuel": {
+    "en": "Biofuel",
+    "zh": "生物燃料"
+  },
+  "tag.item.oritech.turbofuel": {
+    "en": "Turbofuel",
+    "zh": "涡轮燃料"
+  },
+  "tag.item.c.bananas": {
+    "en": "Bananas",
+    "zh": "香蕉"
+  },
+  "tag.item.c.clumps": {
+    "en": "Clumps",
+    "zh": "碎块"
+  },
+  "tag.item.c.clumps.copper": {
+    "en": "Copper Clumps",
+    "zh": "铜碎块"
+  },
+  "tag.item.c.clumps.gold": {
+    "en": "Gold Clumps",
+    "zh": "金碎块"
+  },
+  "tag.item.c.clumps.iron": {
+    "en": "Iron Clumps",
+    "zh": "铁碎块"
+  },
+  "tag.item.c.clumps.nickel": {
+    "en": "Nickel Clumps",
+    "zh": "镍碎块"
+  },
+  "tag.item.c.clumps.platinum": {
+    "en": "Platinum Clumps",
+    "zh": "铂碎块"
+  },
+  "tag.item.c.dusts.plutonium": {
+    "en": "Plutonium Dust",
+    "zh": "钚粉"
+  },
+  "tag.item.c.dusts.uranium": {
+    "en": "Uranium Dust",
+    "zh": "铀粉"
+  },
+  "tag.item.c.fuels.bio": {
+    "en": "Bio Fuels",
+    "zh": "生物燃料"
+  },
+  "tag.item.c.fuels.block.bio": {
+    "en": "Block Bio Fuels",
+    "zh": "方块生物燃料"
+  },
+  "tag.item.c.ores.uranium": {
+    "en": "Uranium Ores",
+    "zh": "铀矿石"
+  },
+  "tag.item.c.plastics": {
+    "en": "Plastics",
+    "zh": "塑料"
+  },
+  "tag.item.c.raw_materials.nickel": {
+    "en": "Nickel Raw Materials",
+    "zh": "粗镍原料"
+  },
+  "tag.item.c.raw_materials.platinum": {
+    "en": "Platinum Raw Materials",
+    "zh": "粗铂原料"
+  },
+  "tag.item.c.raw_materials.uranium": {
+    "en": "Uranium Raw Materials",
+    "zh": "粗铀原料"
+  },
+  "tag.item.c.tools.wrench": {
+    "en": "Wrenches",
+    "zh": "扳手"
+  },
+  "tag.item.oritech.biomatter": {
+    "en": "Biomatter",
+    "zh": "生物质"
+  },
+  "tag.item.oritech.reactor_coolant_items": {
+    "en": "Reactor Coolant Items",
+    "zh": "反应堆冷却剂物品"
+  },
+  "tag.item.oritech.recyclable.biomass": {
+    "en": "Recyclable Biomass",
+    "zh": "可回收为生物质"
+  },
+  "tag.item.oritech.recyclable.copper_dust": {
+    "en": "Recyclable Copper Dust",
+    "zh": "可回收为铜粉"
+  },
+  "tag.item.oritech.recyclable.diamond": {
+    "en": "Recyclable Diamond",
+    "zh": "可回收为钻石"
+  },
+  "tag.item.oritech.recyclable.gold_dust": {
+    "en": "Recyclable Gold Dust",
+    "zh": "可回收为金粉"
+  },
+  "tag.item.oritech.recyclable.gravel": {
+    "en": "Recyclable Gravel",
+    "zh": "可回收为砂砾"
+  },
+  "tag.item.oritech.recyclable.iron_dust": {
+    "en": "Recyclable Iron Dust",
+    "zh": "可回收为铁粉"
+  },
+  "tag.item.oritech.recyclable.netherite_scrap": {
+    "en": "Recyclable Netherite Scrap",
+    "zh": "可回收为下界合金碎片"
+  },
+  "tag.item.oritech.recyclable.quartz_dust_2": {
+    "en": "Recyclable Quartz Dust (2)",
+    "zh": "可回收为石英粉 (2)"
+  },
+  "tag.item.oritech.recyclable.quartz_dust_4": {
+    "en": "Recyclable Quartz Dust (4)",
+    "zh": "可回收为石英粉 (4)"
+  },
+  "tag.item.oritech.recyclable.red_sand": {
+    "en": "Recyclable Red Sand",
+    "zh": "可回收为红沙"
+  },
+  "tag.item.oritech.recyclable.redstone_dust": {
+    "en": "Recyclable Redstone Dust",
+    "zh": "可回收为红石粉"
+  },
+  "tag.item.oritech.recyclable.sand": {
+    "en": "Recyclable Sand",
+    "zh": "可回收为沙子"
+  },
+  "tag.item.oritech.recyclable.small_copper_dust": {
+    "en": "Recyclable Small Copper Dust",
+    "zh": "可回收为细铜粉"
+  },
+  "tag.item.oritech.recyclable.small_gold_dust": {
+    "en": "Recyclable Small Gold Dust",
+    "zh": "可回收为细金粉"
+  },
+  "tag.item.oritech.recyclable.small_iron_dust": {
+    "en": "Recyclable Small Iron Dust",
+    "zh": "可回收为细铁粉"
+  },
+  "tag.item.oritech.recyclable.string": {
+    "en": "Recyclable String",
+    "zh": "可回收为线"
+  }
+}

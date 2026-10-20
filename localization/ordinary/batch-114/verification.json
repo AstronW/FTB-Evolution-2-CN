@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "114",
+  "namespace": "fancymenu",
+  "source_keys": 46,
+  "unique_values": 40,
+  "chinese_values": 13,
+  "reviewed_non_prose_values": 33,
+  "installed_overlay_keys": 46,
+  "source_sha256": "1c6dbc0a7a55b686dac325319fe13473be2e108f1afb29e830b4c5ffea7311dd",
+  "in_game_tested": false
+}

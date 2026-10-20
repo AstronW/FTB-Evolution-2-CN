@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "203",
+  "namespace": "controlling",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 2,
+  "source_sha256": "ddd09483c4b6c3b898ca28e3b22e8fb4b042abc402bdef50c1a12cb49fe27725",
+  "in_game_tested": false
+}

@@ -1,0 +1,42 @@
+{
+  "block.simpleteleporters.teleporter": {
+    "en": "Teleporter",
+    "zh": "传送器"
+  },
+  "item.simpleteleporters.ender_shard": {
+    "en": "Ender Core",
+    "zh": "末影核心"
+  },
+  "item.simpleteleporters.enhanced_ender_shard": {
+    "en": "Enhanced Ender Core",
+    "zh": "强化末影核心"
+  },
+  "item.simpleteleporters.guide_book": {
+    "en": "Simple Teleporters Guide",
+    "zh": "简易传送器指南"
+  },
+  "item.simpleteleporters.guide_book.tooltip": {
+    "en": "Learn about teleportation",
+    "zh": "了解传送的相关知识"
+  },
+  "item.simpleteleporters.hearth_crystal": {
+    "en": "Hearth Crystal",
+    "zh": "归家水晶"
+  },
+  "simpleteleporters.subtitle.block.teleporter.crystal_inserted": {
+    "en": "Ender Core inserted",
+    "zh": "已插入末影核心"
+  },
+  "simpleteleporters.subtitle.block.teleporter.crystal_removed": {
+    "en": "Ender Core removed",
+    "zh": "已取出末影核心"
+  },
+  "simpleteleporters.subtitle.block.teleporter.teleport": {
+    "en": "Teleporter teleports",
+    "zh": "传送器传送"
+  },
+  "simpleteleporters.subtitle.item.ender_shard.link": {
+    "en": "Ender Core link established",
+    "zh": "末影核心链接已建立"
+  }
+}

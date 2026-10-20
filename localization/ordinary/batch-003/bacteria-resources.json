@@ -1,0 +1,627 @@
+{
+  "bacteria.nautec.acaciophyles": {
+    "path": "data/nautec/nautec/bacteria/acaciophyles.json",
+    "production": "minecraft:acacia_log",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.acidophiles": {
+    "path": "data/nautec/nautec/bacteria/acidophiles.json",
+    "production": "minecraft:redstone",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.adamantiophiles": {
+    "path": "data/nautec/nautec/bacteria/adamantiophiles.json",
+    "production": "#c:ingots/allthemodium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.adamantophiles": {
+    "path": "data/nautec/nautec/bacteria/adamantophiles.json",
+    "production": "minecraft:diamond",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.algaeformers": {
+    "path": "data/nautec/nautec/bacteria/algaeformers.json",
+    "production": "minecraft:seagrass",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.aluminophiles": {
+    "path": "data/nautec/nautec/bacteria/aluminophiles.json",
+    "production": "#c:ingots/aluminum",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.ambrophiles": {
+    "path": "data/nautec/nautec/bacteria/ambrophiles.json",
+    "production": "#c:gems/amber",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.amethystobronzophiles": {
+    "path": "data/nautec/nautec/bacteria/amethystobronzophiles.json",
+    "production": "#c:ingots/amethyst_bronze",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.antimonophiles": {
+    "path": "data/nautec/nautec/bacteria/antimonophiles.json",
+    "production": "#c:ingots/antimony",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.apatitophiles": {
+    "path": "data/nautec/nautec/bacteria/apatitophiles.json",
+    "production": "#c:gems/apatite",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.argentophiles": {
+    "path": "data/nautec/nautec/bacteria/argentophiles.json",
+    "production": "#c:ingots/silver",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.aurrophiles": {
+    "path": "data/nautec/nautec/bacteria/aurrophiles.json",
+    "production": "minecraft:gold_ingot",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.azuritophiles": {
+    "path": "data/nautec/nautec/bacteria/azuritophiles.json",
+    "production": "minecraft:lapis_lazuli",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.bamboophages": {
+    "path": "data/nautec/nautec/bacteria/bamboophages.json",
+    "production": "minecraft:bamboo",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.bauxitophiles": {
+    "path": "data/nautec/nautec/bacteria/bauxitophiles.json",
+    "production": "#c:ingots/bauxite",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.beryllophiles": {
+    "path": "data/nautec/nautec/bacteria/beryllophiles.json",
+    "production": "#c:ingots/beryllium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.beta_phylobacteria": {
+    "path": "data/nautec/nautec/bacteria/beta_phylobacteria.json",
+    "production": "minecraft:beetroot",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.betulophiles": {
+    "path": "data/nautec/nautec/bacteria/betulophiles.json",
+    "production": "minecraft:birch_log",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.bismuthophiles": {
+    "path": "data/nautec/nautec/bacteria/bismuthophiles.json",
+    "production": "#c:ingots/bismuth",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.blutonophiles": {
+    "path": "data/nautec/nautec/bacteria/blutonophiles.json",
+    "production": "#c:ingots/blutonium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.boreophiles": {
+    "path": "data/nautec/nautec/bacteria/boreophiles.json",
+    "production": "minecraft:spruce_log",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.borophiles": {
+    "path": "data/nautec/nautec/bacteria/borophiles.json",
+    "production": "#c:ingots/boron",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.brassophiles": {
+    "path": "data/nautec/nautec/bacteria/brassophiles.json",
+    "production": "#c:ingots/brass",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.bronzophiles": {
+    "path": "data/nautec/nautec/bacteria/bronzophiles.json",
+    "production": "#c:ingots/bronze",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.brown_mycotrophic_bacteria": {
+    "path": "data/nautec/nautec/bacteria/brown_mycotrophic_bacteria.json",
+    "production": "minecraft:brown_mushroom",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.bryophytophiles": {
+    "path": "data/nautec/nautec/bacteria/bryophytophiles.json",
+    "production": "minecraft:moss_block",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.cactophyles": {
+    "path": "data/nautec/nautec/bacteria/cactophyles.json",
+    "production": "minecraft:cactus",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.calciophiles": {
+    "path": "data/nautec/nautec/bacteria/calciophiles.json",
+    "production": "minecraft:bone_meal",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.calorophiles": {
+    "path": "data/nautec/nautec/bacteria/calorophiles.json",
+    "production": "#c:ingots/calorite",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.carbophages": {
+    "path": "data/nautec/nautec/bacteria/carbophages.json",
+    "production": "minecraft:coal",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.carnivorous_bacteria": {
+    "path": "data/nautec/nautec/bacteria/carnivorous_bacteria.json",
+    "production": "minecraft:rotten_flesh",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.carotophyles": {
+    "path": "data/nautec/nautec/bacteria/carotophyles.json",
+    "production": "minecraft:carrot",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.certusophiles": {
+    "path": "data/nautec/nautec/bacteria/certusophiles.json",
+    "production": "#c:gems/certus_quartz",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.chromophiles": {
+    "path": "data/nautec/nautec/bacteria/chromophiles.json",
+    "production": "#c:ingots/chromium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.chrysorosophiles": {
+    "path": "data/nautec/nautec/bacteria/chrysorosophiles.json",
+    "production": "#c:ingots/rose_gold",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.cinnabarophiles": {
+    "path": "data/nautec/nautec/bacteria/cinnabarophiles.json",
+    "production": "#c:gems/cinnabar",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.cobaltophiles": {
+    "path": "data/nautec/nautec/bacteria/cobaltophiles.json",
+    "production": "#c:ingots/cobalt",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.cocoaphiles": {
+    "path": "data/nautec/nautec/bacteria/cocoaphiles.json",
+    "production": "minecraft:cocoa_beans",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.constantophiles": {
+    "path": "data/nautec/nautec/bacteria/constantophiles.json",
+    "production": "#c:ingots/constantan",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.crimson_lignocytes": {
+    "path": "data/nautec/nautec/bacteria/crimson_lignocytes.json",
+    "production": "minecraft:crimson_stem",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.crimson_microbes": {
+    "path": "data/nautec/nautec/bacteria/crimson_microbes.json",
+    "production": "minecraft:crimson_fungus",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.cryobionts": {
+    "path": "data/nautec/nautec/bacteria/cryobionts.json",
+    "production": "minecraft:ice",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.cucurbitophiles": {
+    "path": "data/nautec/nautec/bacteria/cucurbitophiles.json",
+    "production": "minecraft:pumpkin",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.cyanobacteria": {
+    "path": "data/nautec/nautec/bacteria/cyanobacteria.json",
+    "production": "minecraft:air",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.cyanophiles": {
+    "path": "data/nautec/nautec/bacteria/cyanophiles.json",
+    "production": "#c:ingots/cyanite",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.dark_lignocytes": {
+    "path": "data/nautec/nautec/bacteria/dark_lignocytes.json",
+    "production": "minecraft:dark_oak_log",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.desmophiles": {
+    "path": "data/nautec/nautec/bacteria/desmophiles.json",
+    "production": "#c:ingots/desh",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.draconophiles": {
+    "path": "data/nautec/nautec/bacteria/draconophiles.json",
+    "production": "#c:ingots/draconium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.electrophiles": {
+    "path": "data/nautec/nautec/bacteria/electrophiles.json",
+    "production": "#c:ingots/electrum",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.elementophiles": {
+    "path": "data/nautec/nautec/bacteria/elementophiles.json",
+    "production": "#c:ingots/elementium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.empty": {
+    "path": "data/nautec/nautec/bacteria/empty.json",
+    "production": null,
+    "type": "nautec:empty"
+  },
+  "bacteria.nautec.enderophiles": {
+    "path": "data/nautec/nautec/bacteria/enderophiles.json",
+    "production": "#c:ingots/enderium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.equitophiles": {
+    "path": "data/nautec/nautec/bacteria/equitophiles.json",
+    "production": "#c:ingots/knightslime",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.ferrophiles": {
+    "path": "data/nautec/nautec/bacteria/ferrophiles.json",
+    "production": "minecraft:iron_ingot",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.ferrosuinophiles": {
+    "path": "data/nautec/nautec/bacteria/ferrosuinophiles.json",
+    "production": "#c:ingots/pig_iron",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.fluorophiles": {
+    "path": "data/nautec/nautec/bacteria/fluorophiles.json",
+    "production": "#c:gems/fluorite",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.graphitophiles": {
+    "path": "data/nautec/nautec/bacteria/graphitophiles.json",
+    "production": "#c:ingots/graphite",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.halobacteria": {
+    "path": "data/nautec/nautec/bacteria/halobacteria.json",
+    "production": "minecraft:air",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.halotrophs": {
+    "path": "data/nautec/nautec/bacteria/halotrophs.json",
+    "production": "minecraft:kelp",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.heliophiles": {
+    "path": "data/nautec/nautec/bacteria/heliophiles.json",
+    "production": "#c:gems/sunstone",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.hepatizophiles": {
+    "path": "data/nautec/nautec/bacteria/hepatizophiles.json",
+    "production": "#c:ingots/hepatizon",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.iesniophiles": {
+    "path": "data/nautec/nautec/bacteria/iesniophiles.json",
+    "production": "#c:ingots/iesnium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.inoxophiles": {
+    "path": "data/nautec/nautec/bacteria/inoxophiles.json",
+    "production": "#c:ingots/stainless_steel",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.invarophiles": {
+    "path": "data/nautec/nautec/bacteria/invarophiles.json",
+    "production": "#c:ingots/invar",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.iridophiles": {
+    "path": "data/nautec/nautec/bacteria/iridophiles.json",
+    "production": "#c:ingots/iridium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.jadophiles": {
+    "path": "data/nautec/nautec/bacteria/jadophiles.json",
+    "production": "#c:gems/jade",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.junglophiles": {
+    "path": "data/nautec/nautec/bacteria/junglophiles.json",
+    "production": "minecraft:jungle_log",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.lignocytes": {
+    "path": "data/nautec/nautec/bacteria/lignocytes.json",
+    "production": "minecraft:oak_log",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.limosiderophiles": {
+    "path": "data/nautec/nautec/bacteria/limosiderophiles.json",
+    "production": "#c:ingots/slimesteel",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.lipophiles": {
+    "path": "data/nautec/nautec/bacteria/lipophiles.json",
+    "production": "nautec:algal_lipid",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.lithophiles": {
+    "path": "data/nautec/nautec/bacteria/lithophiles.json",
+    "production": "minecraft:stone",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.lucernophiles": {
+    "path": "data/nautec/nautec/bacteria/lucernophiles.json",
+    "production": "#c:ingots/refined_glowstone",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.lumiophiles": {
+    "path": "data/nautec/nautec/bacteria/lumiophiles.json",
+    "production": "#c:ingots/lumium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.manastelophiles": {
+    "path": "data/nautec/nautec/bacteria/manastelophiles.json",
+    "production": "#c:ingots/manasteel",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.manganophiles": {
+    "path": "data/nautec/nautec/bacteria/manganophiles.json",
+    "production": "#c:ingots/manganese",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.manyullophiles": {
+    "path": "data/nautec/nautec/bacteria/manyullophiles.json",
+    "production": "#c:ingots/manyullyn",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.melanoquartzophiles": {
+    "path": "data/nautec/nautec/bacteria/melanoquartzophiles.json",
+    "production": "#c:gems/black_quartz",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.melophages": {
+    "path": "data/nautec/nautec/bacteria/melophages.json",
+    "production": "minecraft:melon_slice",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.metallophiles": {
+    "path": "data/nautec/nautec/bacteria/metallophiles.json",
+    "production": "minecraft:copper_ingot",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.methanogens": {
+    "path": "data/nautec/nautec/bacteria/methanogens.json",
+    "production": "minecraft:air",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.molybdophiles": {
+    "path": "data/nautec/nautec/bacteria/molybdophiles.json",
+    "production": "#c:ingots/molybdenum",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.monazitophiles": {
+    "path": "data/nautec/nautec/bacteria/monazitophiles.json",
+    "production": "#c:ingots/monazite",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.neodymophiles": {
+    "path": "data/nautec/nautec/bacteria/neodymophiles.json",
+    "production": "#c:ingots/neodymium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.neutronophiles": {
+    "path": "data/nautec/nautec/bacteria/neutronophiles.json",
+    "production": "#c:ingots/neutronium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.niccolophiles": {
+    "path": "data/nautec/nautec/bacteria/niccolophiles.json",
+    "production": "#c:ingots/nickel",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.nigrophiles": {
+    "path": "data/nautec/nautec/bacteria/nigrophiles.json",
+    "production": "#c:ingots/netherite",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.niobophiles": {
+    "path": "data/nautec/nautec/bacteria/niobophiles.json",
+    "production": "#c:ingots/niobium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.nyctophiles": {
+    "path": "data/nautec/nautec/bacteria/nyctophiles.json",
+    "production": "#c:gems/dark_gem",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.obsidianophiles": {
+    "path": "data/nautec/nautec/bacteria/obsidianophiles.json",
+    "production": "#c:ingots/refined_obsidian",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.osmophiles": {
+    "path": "data/nautec/nautec/bacteria/osmophiles.json",
+    "production": "#c:ingots/osmium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.ostrophiles": {
+    "path": "data/nautec/nautec/bacteria/ostrophiles.json",
+    "production": "#c:ingots/ostrum",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.palladophiles": {
+    "path": "data/nautec/nautec/bacteria/palladophiles.json",
+    "production": "#c:ingots/palladium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.peridotophiles": {
+    "path": "data/nautec/nautec/bacteria/peridotophiles.json",
+    "production": "#c:gems/peridot",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.phototrophs": {
+    "path": "data/nautec/nautec/bacteria/phototrophs.json",
+    "production": "minecraft:sugar_cane",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.platinophiles": {
+    "path": "data/nautec/nautec/bacteria/platinophiles.json",
+    "production": "#c:ingots/platinum",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.plumbophiles": {
+    "path": "data/nautec/nautec/bacteria/plumbophiles.json",
+    "production": "#c:ingots/lead",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.plutonophiles": {
+    "path": "data/nautec/nautec/bacteria/plutonophiles.json",
+    "production": "#c:ingots/plutonium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.prunus_lignocytes": {
+    "path": "data/nautec/nautec/bacteria/prunus_lignocytes.json",
+    "production": "minecraft:cherry_log",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.red_mycotrophic_bacteria": {
+    "path": "data/nautec/nautec/bacteria/red_mycotrophic_bacteria.json",
+    "production": "minecraft:red_mushroom",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.reginophiles": {
+    "path": "data/nautec/nautec/bacteria/reginophiles.json",
+    "production": "#c:ingots/queens_slime",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.rhizobacteria": {
+    "path": "data/nautec/nautec/bacteria/rhizobacteria.json",
+    "production": "minecraft:wheat",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.rhizophora_lignocytes": {
+    "path": "data/nautec/nautec/bacteria/rhizophora_lignocytes.json",
+    "production": "minecraft:mangrove_log",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.rubellophiles": {
+    "path": "data/nautec/nautec/bacteria/rubellophiles.json",
+    "production": "#c:gems/ruby",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.sapphirophiles": {
+    "path": "data/nautec/nautec/bacteria/sapphirophiles.json",
+    "production": "#c:gems/sapphire",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.selenophiles": {
+    "path": "data/nautec/nautec/bacteria/selenophiles.json",
+    "production": "#c:gems/moonstone",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.signalophiles": {
+    "path": "data/nautec/nautec/bacteria/signalophiles.json",
+    "production": "#c:ingots/signalum",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.silicophiles": {
+    "path": "data/nautec/nautec/bacteria/silicophiles.json",
+    "production": "minecraft:sand",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.smaragdophiles": {
+    "path": "data/nautec/nautec/bacteria/smaragdophiles.json",
+    "production": "minecraft:emerald",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.solanophiles": {
+    "path": "data/nautec/nautec/bacteria/solanophiles.json",
+    "production": "minecraft:potato",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.stannophiles": {
+    "path": "data/nautec/nautec/bacteria/stannophiles.json",
+    "production": "#c:ingots/tin",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.steelophiles": {
+    "path": "data/nautec/nautec/bacteria/steelophiles.json",
+    "production": "#c:ingots/steel",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.sulfurophiles": {
+    "path": "data/nautec/nautec/bacteria/sulfurophiles.json",
+    "production": "minecraft:gunpowder",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.terrastelophiles": {
+    "path": "data/nautec/nautec/bacteria/terrastelophiles.json",
+    "production": "#c:ingots/terrasteel",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.thermophiles": {
+    "path": "data/nautec/nautec/bacteria/thermophiles.json",
+    "production": "minecraft:air",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.thoriophiles": {
+    "path": "data/nautec/nautec/bacteria/thoriophiles.json",
+    "production": "#c:ingots/thorium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.titanophiles": {
+    "path": "data/nautec/nautec/bacteria/titanophiles.json",
+    "production": "#c:ingots/titanium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.topazophiles": {
+    "path": "data/nautec/nautec/bacteria/topazophiles.json",
+    "production": "#c:gems/topaz",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.tungstophiles": {
+    "path": "data/nautec/nautec/bacteria/tungstophiles.json",
+    "production": "#c:ingots/tungsten",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.unobtainophiles": {
+    "path": "data/nautec/nautec/bacteria/unobtainophiles.json",
+    "production": "#c:ingots/unobtainium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.uranophiles": {
+    "path": "data/nautec/nautec/bacteria/uranophiles.json",
+    "production": "#c:ingots/uranium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.vanadophiles": {
+    "path": "data/nautec/nautec/bacteria/vanadophiles.json",
+    "production": "#c:ingots/vanadium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.vibranophiles": {
+    "path": "data/nautec/nautec/bacteria/vibranophiles.json",
+    "production": "#c:ingots/vibranium",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.warped_lignocytes": {
+    "path": "data/nautec/nautec/bacteria/warped_lignocytes.json",
+    "production": "minecraft:warped_stem",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.warped_microbes": {
+    "path": "data/nautec/nautec/bacteria/warped_microbes.json",
+    "production": "minecraft:warped_fungus",
+    "type": "nautec:simple"
+  },
+  "bacteria.nautec.zincophiles": {
+    "path": "data/nautec/nautec/bacteria/zincophiles.json",
+    "production": "#c:ingots/zinc",
+    "type": "nautec:simple"
+  }
+}

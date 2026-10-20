@@ -1,0 +1,24 @@
+CFPA/
+.minecraft/mods
+.minecraft/quest-inputs/*.jar
+.minecraft/.cache/
+**/__pycache__/
+*.pyc
+dist/
+localization/vendor/cfpa/*.zip
+localization/vendor/cfpa/*.part
+
+# Local scratch, regenerated parser data and extracted dependency inputs
+/.Trash-0/
+/.workbuddy/tmp/
+/localization/vendor/jar-in-jar/*.jar
+/localization/cfpa_review/manuals/validation/
+*.class
+
+# Machine-local assistant state and regenerated verification trees
+/.claude/
+/.workbuddy/
+/localization/manuals_extra/.verify/
+
+# Downloaded upstream resource archives (sources and hashes are tracked)
+/.minecraft/resourcepacks/*.zip

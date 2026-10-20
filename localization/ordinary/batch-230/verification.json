@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "230",
+  "namespace": "hugestructureblocks",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1,
+  "source_sha256": "6a052eac369c817680be7140735298d0938806464739f85f623a0154786bb26f",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "164",
+  "namespace": "irons_artifice",
+  "source_keys": 17,
+  "unique_values": 16,
+  "chinese_values": 13,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 17,
+  "source_sha256": "d225f4bb3c0dc23a11742113cb720dd8f8ab43777b819a1db493a90a5e915e31",
+  "in_game_tested": false
+}

@@ -1,0 +1,27 @@
+{
+  "name": "海龟",
+  "icon": "minecraft:turtle_spawn_egg",
+  "category": "animal_pen:category_aquarium",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:turtle",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:turtle_food",
+      "text": "用海草喂海龟进行繁殖, 增加围栏里的数量.这也会掉落鳞甲."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死海龟并掉落其战利品."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bucket",
+      "text": "对海龟圈使用桶可收集蛋.海龟越多, 蛋越多. [redstone interaction 1]"
+    }
+  ]
+}

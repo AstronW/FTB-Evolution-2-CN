@@ -1,0 +1,12 @@
+{
+  "advancements.mffs.smelt_steel.description": "熔炼一个钢锭",
+  "advancements.mffs.smelt_steel.title": "比铁更坚硬",
+  "advancements.mffs.steel_compound.description": "制作钢合金",
+  "advancements.mffs.steel_compound.title": "坚固的混合物",
+  "fluid_type.mffs.fortron": "福特朗",
+  "info.mffs.coercion_deriver.mode.derive": "派生",
+  "info.mffs.coercion_deriver.mode.integrate": "集成",
+  "screen.mffs.fortron": "福特朗: %s L / %s L",
+  "screen.mffs.fortron.name": "福特朗:",
+  "screen.mffs.fortron.short": "福特朗: %s L"
+}

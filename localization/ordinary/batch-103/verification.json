@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "103",
+  "namespace": "ftbmaterials",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 16,
+  "source_sha256": "5546c707eb4c503a1100737322335643cd164b9622e33f7574fce29a1cf339ae",
+  "in_game_tested": false
+}

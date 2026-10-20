@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "233",
+  "namespace": "apothic_enchanting",
+  "source_keys": 127,
+  "unique_values": 124,
+  "chinese_values": 8,
+  "reviewed_non_prose_values": 119,
+  "installed_overlay_keys": 127,
+  "source_sha256": "a7b3c0d7b49760675f60317459654f6949fdbd70f78625eb7760fe9ecf7175b8",
+  "in_game_tested": false
+}

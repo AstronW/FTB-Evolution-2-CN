@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "029",
+  "namespace": "ftbic",
+  "source_keys": 147,
+  "unique_values": 127,
+  "chinese_values": 136,
+  "reviewed_non_prose_values": 11,
+  "installed_overlay_keys": 147,
+  "source_sha256": "745cc44839d5cfb9d07df3a9165976dd77265b147fce30a033b9ae6975e490f6",
+  "in_game_tested": false
+}

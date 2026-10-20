@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "078",
+  "namespace": "sophisticatedcore",
+  "source_keys": 6,
+  "unique_values": 5,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 6,
+  "source_sha256": "d20e140dae773d875a47fdfced5d3ba696acc13484f9ac91334d87d5971959b8",
+  "in_game_tested": false
+}

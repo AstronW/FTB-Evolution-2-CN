@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "309",
+  "namespace": "mysticalagriculture",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 55,
+  "source_sha256": "90b4457bd23deaed843f76f5cd16b1e0f0120e1c3617e8d2125ac9486ac046ef",
+  "in_game_tested": false
+}

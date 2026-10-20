@@ -1,0 +1,12 @@
+{
+  "batch": "105",
+  "namespace": "ftbessentials",
+  "jar": ".minecraft/mods/ftb-essentials-neoforge-26.1.2.5.jar",
+  "language_path": "assets/ftbessentials/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbessentials/lang/zh_cn.json",
+  "include_keys": [
+    "ftbessentials.rtp.on_global_cooldown"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

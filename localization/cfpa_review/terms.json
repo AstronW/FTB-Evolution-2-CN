@@ -1,0 +1,335 @@
+{
+  "target_version": "1.4.0",
+  "policy": "Namespace/context scoped review decisions, not a global replacement dictionary.",
+  "records": [
+    {
+      "namespace": "ae2netanalyser",
+      "reason": "分析的是 μs/tick 设备耗时, 不译作模型分析或把单位混为TPS频率",
+      "scope": [
+        "item.ae2netanalyser.tick_analyser",
+        "gui.ae2netanalyser.tick_analyser.*",
+        "ae2_tick_profiler.md"
+      ],
+      "english": "ME Tick Profiler",
+      "chinese": "ME刻耗时分析仪"
+    },
+    {
+      "namespace": "ae2netanalyser",
+      "reason": "分析的是 μs/tick 设备耗时, 不译作模型分析或把单位混为TPS频率",
+      "scope": [
+        "item.ae2netanalyser.tick_analyser",
+        "gui.ae2netanalyser.tick_analyser.*",
+        "ae2_tick_profiler.md"
+      ],
+      "english": "profile",
+      "chinese": "性能分析"
+    },
+    {
+      "namespace": "collapsible_groups",
+      "reason": "配方查看器显示状态, 不是合并群组",
+      "scope": [
+        "collapsible_groups.*"
+      ],
+      "english": "collapse",
+      "chinese": "折叠"
+    },
+    {
+      "namespace": "collapsible_groups",
+      "reason": "配方查看器显示状态, 不是合并群组",
+      "scope": [
+        "collapsible_groups.*"
+      ],
+      "english": "collapsible",
+      "chinese": "可折叠"
+    },
+    {
+      "namespace": "collapsible_groups",
+      "reason": "配方查看器显示状态, 不是合并群组",
+      "scope": [
+        "collapsible_groups.*"
+      ],
+      "english": "group",
+      "chinese": "分组"
+    },
+    {
+      "namespace": "geore",
+      "reason": "矿晶生长阶段及物质类型分别命名, 既有任务术语可对应",
+      "scope": [
+        "block.geore.*",
+        "item.geore.*"
+      ],
+      "english": "GeOre",
+      "chinese": "矿晶"
+    },
+    {
+      "namespace": "geore",
+      "reason": "矿晶生长阶段及物质类型分别命名, 既有任务术语可对应",
+      "scope": [
+        "block.geore.*",
+        "item.geore.*"
+      ],
+      "english": "cluster",
+      "chinese": "矿晶簇"
+    },
+    {
+      "namespace": "geore",
+      "reason": "矿晶生长阶段及物质类型分别命名, 既有任务术语可对应",
+      "scope": [
+        "block.geore.*",
+        "item.geore.*"
+      ],
+      "english": "budding",
+      "chinese": "矿晶母岩"
+    },
+    {
+      "namespace": "geore",
+      "reason": "矿晶生长阶段及物质类型分别命名, 既有任务术语可对应",
+      "scope": [
+        "block.geore.*",
+        "item.geore.*"
+      ],
+      "english": "bud",
+      "chinese": "矿晶芽"
+    },
+    {
+      "namespace": "geore",
+      "reason": "矿晶生长阶段及物质类型分别命名, 既有任务术语可对应",
+      "scope": [
+        "block.geore.*",
+        "item.geore.*"
+      ],
+      "english": "shard",
+      "chinese": "矿晶碎片"
+    },
+    {
+      "namespace": "cabletiers",
+      "reason": "各设备子类同等级统一, 不保留interface子类中超级/究极别名",
+      "scope": [
+        "block.cabletiers.*",
+        "item.cabletiers.*",
+        "cabletiers.*"
+      ],
+      "english": "Elite",
+      "chinese": "精英"
+    },
+    {
+      "namespace": "cabletiers",
+      "reason": "各设备子类同等级统一, 不保留interface子类中超级/究极别名",
+      "scope": [
+        "block.cabletiers.*",
+        "item.cabletiers.*",
+        "cabletiers.*"
+      ],
+      "english": "Ultra",
+      "chinese": "终极"
+    },
+    {
+      "namespace": "cabletiers",
+      "reason": "各设备子类同等级统一, 不保留interface子类中超级/究极别名",
+      "scope": [
+        "block.cabletiers.*",
+        "item.cabletiers.*",
+        "cabletiers.*"
+      ],
+      "english": "Mega",
+      "chinese": "极巨"
+    },
+    {
+      "namespace": "cabletiers",
+      "reason": "各设备子类同等级统一, 不保留interface子类中超级/究极别名",
+      "scope": [
+        "block.cabletiers.*",
+        "item.cabletiers.*",
+        "cabletiers.*"
+      ],
+      "english": "Creative",
+      "chinese": "创造"
+    },
+    {
+      "namespace": "integrateddynamics",
+      "reason": "区分值类型和布尔操作, 保留程序运算含义",
+      "scope": [
+        "info_book.integrateddynamics.*",
+        "valuetype.integrateddynamics.*",
+        "operator.integrateddynamics.*"
+      ],
+      "english": "Integrated Dynamics",
+      "chinese": "动态联合"
+    },
+    {
+      "namespace": "integrateddynamics",
+      "reason": "区分值类型和布尔操作, 保留程序运算含义",
+      "scope": [
+        "info_book.integrateddynamics.*",
+        "valuetype.integrateddynamics.*",
+        "operator.integrateddynamics.*"
+      ],
+      "english": "Recipe",
+      "chinese": "配方"
+    },
+    {
+      "namespace": "integrateddynamics",
+      "reason": "区分值类型和布尔操作, 保留程序运算含义",
+      "scope": [
+        "info_book.integrateddynamics.*",
+        "valuetype.integrateddynamics.*",
+        "operator.integrateddynamics.*"
+      ],
+      "english": "Ingredients",
+      "chinese": "原料"
+    },
+    {
+      "namespace": "integrateddynamics",
+      "reason": "区分值类型和布尔操作, 保留程序运算含义",
+      "scope": [
+        "info_book.integrateddynamics.*",
+        "valuetype.integrateddynamics.*",
+        "operator.integrateddynamics.*"
+      ],
+      "english": "Display Panel",
+      "chinese": "显示面板"
+    },
+    {
+      "namespace": "integrateddynamics",
+      "reason": "区分值类型和布尔操作, 保留程序运算含义",
+      "scope": [
+        "info_book.integrateddynamics.*",
+        "valuetype.integrateddynamics.*",
+        "operator.integrateddynamics.*"
+      ],
+      "english": "operator",
+      "chinese": "运算符"
+    },
+    {
+      "namespace": "integrateddynamics",
+      "reason": "区分值类型和布尔操作, 保留程序运算含义",
+      "scope": [
+        "info_book.integrateddynamics.*",
+        "valuetype.integrateddynamics.*",
+        "operator.integrateddynamics.*"
+      ],
+      "english": "evaluate",
+      "chinese": "求值"
+    },
+    {
+      "namespace": "integrateddynamicscompat",
+      "reason": "按神秘时代领域语义, 不译作面或范围",
+      "scope": [
+        "aspect.aspecttypes.integrateddynamicscompat.*"
+      ],
+      "english": "Thaumcraft Aspect",
+      "chinese": "要素"
+    },
+    {
+      "namespace": "integrateddynamicscompat",
+      "reason": "按神秘时代领域语义, 不译作面或范围",
+      "scope": [
+        "aspect.aspecttypes.integrateddynamicscompat.*"
+      ],
+      "english": "Aura Base",
+      "chinese": "灵气场基值"
+    },
+    {
+      "namespace": "integrateddynamicscompat",
+      "reason": "按神秘时代领域语义, 不译作面或范围",
+      "scope": [
+        "aspect.aspecttypes.integrateddynamicscompat.*"
+      ],
+      "english": "Aura Flux",
+      "chinese": "灵气场咒波"
+    },
+    {
+      "namespace": "integratedtunnels",
+      "reason": "修复继承管道与集成动力的跨模组错名",
+      "scope": [
+        "info_book.integratedtunnels.*"
+      ],
+      "english": "Integrated Tunnels",
+      "chinese": "集成管道"
+    },
+    {
+      "namespace": "integratedterminals",
+      "reason": "沿用同系列当前物品名称, 统一存储写法; 不将其他模组便携终端机械改名",
+      "scope": [
+        "block.integratedterminals.*",
+        "item.integratedterminals.*",
+        "info_book.integratedterminals.*"
+      ],
+      "english": "Storage Terminal",
+      "chinese": "存储终端"
+    },
+    {
+      "namespace": "integratedterminals",
+      "reason": "沿用同系列当前物品名称, 统一存储写法; 不将其他模组便携终端机械改名",
+      "scope": [
+        "block.integratedterminals.*",
+        "item.integratedterminals.*",
+        "info_book.integratedterminals.*"
+      ],
+      "english": "Portable Storage Terminal",
+      "chinese": "移动式存储终端"
+    },
+    {
+      "namespace": "bmaddon",
+      "reason": "流体沿用Neo Vitae当前官方名, 器件命名保留既有气血前缀; 不将未经精炼血液与祭坛流体混为同一概念",
+      "scope": [
+        "screen.bmaddon.blood_generator.blood_label",
+        "tooltip.bmaddon.blood_generator.*",
+        "block.bmaddon.*"
+      ],
+      "english": "Essentia Vitae",
+      "chinese": "生命源质"
+    },
+    {
+      "namespace": "bmaddon",
+      "reason": "流体沿用Neo Vitae当前官方名, 器件命名保留既有气血前缀; 不将未经精炼血液与祭坛流体混为同一概念",
+      "scope": [
+        "screen.bmaddon.blood_generator.blood_label",
+        "tooltip.bmaddon.blood_generator.*",
+        "block.bmaddon.*"
+      ],
+      "english": "named Blood machines",
+      "chinese": "气血生成机及气血装配室"
+    },
+    {
+      "namespace": "xycraft_*",
+      "reason": "与既有任务书和资源名称一致, 保留模组专名",
+      "scope": [
+        "block.xycraft_*.*",
+        "item.xycraft_*.*"
+      ],
+      "english": "Kivi",
+      "chinese": "磊岩"
+    },
+    {
+      "namespace": "xycraft_*",
+      "reason": "与既有任务书和资源名称一致, 保留模组专名",
+      "scope": [
+        "block.xycraft_*.*",
+        "item.xycraft_*.*"
+      ],
+      "english": "Xychorium",
+      "chinese": "Xy晶"
+    },
+    {
+      "namespace": "xycraft_*",
+      "reason": "与既有任务书和资源名称一致, 保留模组专名",
+      "scope": [
+        "block.xycraft_*.*",
+        "item.xycraft_*.*"
+      ],
+      "english": "Bio Resin",
+      "chinese": "生物树脂"
+    },
+    {
+      "namespace": "modularrouters",
+      "english": "router tick / tick rate in server ticks",
+      "chinese": "路由器刻 / 运行间隔",
+      "reason": "20 server ticks 表示周期而非每秒频率, 同步调整值对实际周期取模",
+      "scope": [
+        "book.modularrouters.*",
+        "Patchouli upgrades/energy,speed,sync"
+      ]
+    }
+  ]
+}

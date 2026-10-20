@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "082",
+  "namespace": "dankstorage",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 3,
+  "source_sha256": "442712d2b4a8c433f4931441909ae6b2bcfd8ee2e00a763e2bd1c144bb073edb",
+  "in_game_tested": false
+}

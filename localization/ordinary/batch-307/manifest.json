@@ -1,0 +1,28 @@
+{
+  "batch": "307",
+  "namespace": "animusnv",
+  "jar": ".minecraft/mods/animusnv-26.1.2-5.2.19.jar",
+  "language_path": "assets/animusnv/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animusnv/lang/zh_cn.json",
+  "include_keys": [
+    "book.animusnv.guide.blocks.sanguine_dynamo.control.text",
+    "book.animusnv.guide.blocks.sanguine_dynamo.control.title",
+    "book.animusnv.guide.blocks.sanguine_dynamo.description",
+    "book.animusnv.guide.blocks.sanguine_dynamo.intro.text",
+    "book.animusnv.guide.blocks.sanguine_dynamo.intro.title",
+    "book.animusnv.guide.blocks.sanguine_dynamo.name",
+    "book.animusnv.guide.blocks.sanguine_dynamo.rates.text",
+    "book.animusnv.guide.blocks.sanguine_dynamo.rates.title",
+    "book.animusnv.guide.compatibility.artifice_modifiers.blood_bullet.text",
+    "book.animusnv.guide.compatibility.artifice_modifiers.blood_bullet.title",
+    "book.animusnv.guide.compatibility.artifice_modifiers.description",
+    "book.animusnv.guide.compatibility.artifice_modifiers.intro.text",
+    "book.animusnv.guide.compatibility.artifice_modifiers.intro.title",
+    "book.animusnv.guide.compatibility.artifice_modifiers.name",
+    "book.animusnv.guide.compatibility.artifice_modifiers.spirit_powder.text",
+    "book.animusnv.guide.compatibility.artifice_modifiers.spirit_powder.title",
+    "guide.animusnv.entry.sanguine_dynamo"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

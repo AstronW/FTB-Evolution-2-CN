@@ -1,0 +1,9 @@
+{
+  "config.jade.plugin_integrateddynamicscompat.squeezer": "挤压机",
+  "config.jade.plugin_integrateddynamicscompat.drying_basin": "烘干池",
+  "config.jade.plugin_integrateddynamicscompat.mechanical_squeezer": "机械挤压机",
+  "config.jade.plugin_integrateddynamicscompat.mechanical_drying_basin": "机械烘干池",
+  "config.jade.plugin_integrateddynamicscompat.proxy": "代理",
+  "config.jade.plugin_integrateddynamicscompat.part": "部件",
+  "gui.integrateddynamics.jei.category.time.seconds": "%ss"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "185",
+  "namespace": "lootr",
+  "source_keys": 27,
+  "unique_values": 22,
+  "chinese_values": 23,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 27,
+  "source_sha256": "60f6702215ced8015ec40fcf42c10b0513898b052475bfae82221bf1f02c6705",
+  "in_game_tested": false
+}

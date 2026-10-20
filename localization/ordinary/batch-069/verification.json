@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "069",
+  "namespace": "refinedstorage",
+  "source_keys": 12,
+  "unique_values": 12,
+  "chinese_values": 10,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 12,
+  "source_sha256": "87d151d2e40004627d2fd7fbc8ffb09f91cb45f62e7a00362e13a420e28fb984",
+  "in_game_tested": false
+}

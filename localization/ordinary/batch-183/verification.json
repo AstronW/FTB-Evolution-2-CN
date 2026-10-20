@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "183",
+  "namespace": "inventoryessentials",
+  "source_keys": 39,
+  "unique_values": 38,
+  "chinese_values": 37,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 39,
+  "source_sha256": "1b45abde5d0356513718f687c3f364b9fad9ae2f7c88f2347cecdb2ebb3387a0",
+  "in_game_tested": false
+}

@@ -1,0 +1,21 @@
+{
+  "block.xycraft_core.multi_block": "多方块组件",
+  "key.category.xycraft.key_binds": "XyCraft 按键",
+  "tag.block.c.valid_features.static": "有效的静态特征",
+  "tag.block.xycraft.hot_blocks": "热方块",
+  "tag.block.xycraft.ignored.fabricator": "被制造机忽略",
+  "tag.block.xycraft.ignored.proxy": "被代理方块忽略",
+  "tag.block.xycraft.ignored.vein_mine": "被矿脉挖掘忽略",
+  "tag.block.xycraft.ignored.void_containment": "被虚空容器忽略",
+  "tag.item.c.crafting_groups.aurey": "奥瑞方块",
+  "tag.item.c.crafting_groups.aurey_glowing": "发光奥瑞方块",
+  "tag.item.c.glass_blocks.phantom": "幻影玻璃",
+  "tag.item.c.marbles": "大理石",
+  "tag.item.c.nuggets.steel": "钢粒",
+  "tag.item.xycraft.crafting_groups.cloud.marble": "云纹大理石组",
+  "tag.item.xycraft.crafting_groups.marble": "大理石组",
+  "tag.item.xycraft.creative": "创造物品",
+  "tag.item.xycraft.ignored.collector": "无法收集",
+  "tag.item.xycraft.visuals.energy_buffer": "能量缓存视觉效果",
+  "xycraft.key_binds": "XyCraft"
+}

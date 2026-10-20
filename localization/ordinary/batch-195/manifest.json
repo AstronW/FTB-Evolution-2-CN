@@ -1,0 +1,17 @@
+{
+  "batch": "195",
+  "namespace": "easy_npc_example",
+  "jar": ".minecraft/mods/easy_npc-neoforge-26.1.2-7.16.0.jar",
+  "language_path": "assets/easy_npc_example/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/easy_npc_example/lang/zh_cn.json",
+  "include_keys": [
+    "text.easy_npc_example.hello.text",
+    "text.easy_npc_example.hello.yes_button",
+    "text.easy_npc_example.hello.no_button",
+    "text.easy_npc_example.hello.yes_answer",
+    "text.easy_npc_example.hello.no_answer",
+    "text.easy_npc_example.hello.name"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "水生动物容器",
+  "icon": "animal_pen:water_animal_container",
+  "category": "animal_pen:category_items",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "有了水生动物容器, 你可以拾起任意 Minecraft 水生动物并放入水族箱.对着水族箱潜行点击空容器, 可以取出一半的动物.潜行点击地面即可放生动物."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "animal_pen:water_animal_container"
+    }
+  ]
+}

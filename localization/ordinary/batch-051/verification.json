@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "051",
+  "namespace": "fusion",
+  "source_keys": 8,
+  "unique_values": 8,
+  "chinese_values": 8,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 8,
+  "source_sha256": "16b0b24d9e5aa0fdec54a625655376add4b76a385831dc7d65abe0435cbe7b7e",
+  "in_game_tested": false
+}

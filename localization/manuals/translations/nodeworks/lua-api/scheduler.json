@@ -1,0 +1,21 @@
+{
+  "3": "  title: Scheduler",
+  "10": "# Scheduler",
+  "12": "`scheduler`模块注册周期或延迟回调, 在",
+  "13": "服务器游戏刻中运行, 频率20 TPS. 每次注册都返回任务ID, 可传给",
+  "14": "`:cancel`停止任务.",
+  "16": "> **提示:** 建议开启[\"自动运行\"](../items-blocks/scripting_terminal.md#autorun), 对应设备为<ItemLink id=\"terminal\" />; 希望持续运行[`scheduler:tick`](scheduler.md#tick)或[`scheduler:second`](scheduler.md#second)时尤其适用.",
+  "20": "## tick",
+  "22": "每个服务器游戏刻运行一次指定回调.",
+  "27": "  -- 每秒运行20次",
+  "32": "## second",
+  "34": "每秒, 即20游戏刻, 运行一次指定回调.",
+  "39": "  -- 每秒运行一次",
+  "44": "## delay",
+  "46": "将回调延迟指定数量的游戏刻后执行.",
+  "51": "  -- 经过一秒后运行",
+  "56": "## cancel",
+  "58": "按任务ID停止任务. 对已取消或已到期ID调用也安全.",
+  "65": "-- 一秒后取消scheduler:tick任务",
+  "69": "-- \"hello\" (x20)"
+}

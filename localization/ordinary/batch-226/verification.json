@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "226",
+  "namespace": "jupiter",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 3,
+  "source_sha256": "5d40cf0551e885d710f6617cdad11b4a3db814af2ab0a1314d7c6bfa3346f361",
+  "in_game_tested": false
+}

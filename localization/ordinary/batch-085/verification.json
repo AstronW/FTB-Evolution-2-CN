@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "085",
+  "namespace": "refinedstorage_jei_integration",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 2,
+  "source_sha256": "da4da20ef94e69f0d0866a2a9793b0d5b904fa4f56b0a073a36187be906cdb37",
+  "in_game_tested": false
+}

@@ -1,0 +1,13 @@
+{
+  "label.contex.source_tooltip.ctm.texture": "纹理",
+  "label.contex.source_tooltip.ctm.border": "边框",
+  "label.contex.source_tooltip.ctm.mirror_parallel": "平行镜像",
+  "label.contex.source_tooltip.ctm.mirror_perpendicular": "垂直镜像",
+  "value.contex.source_tooltip.ctm.border": "左: %s, 右: %s, 上: %s, 下: %s",
+  "msg.contex.gen_ctm_tex.no_such_texture": "指定的纹理 '%s' 不存在",
+  "msg.contex.gen_ctm_tex.texture_animated": "无法从动画纹理生成 CTM 纹理",
+  "msg.contex.gen_ctm_tex.invalid_corner_synth": "无法在边缘尺寸不同或存在镜像时合成内角",
+  "msg.contex.gen_ctm_tex.gen_failed": "CTM 纹理生成失败",
+  "msg.contex.gen_ctm_tex.export_failed": "CTM 纹理导出失败: %s",
+  "msg.contex.gen_ctm_tex.success": "生成的 CTM 纹理已导出至 %s"
+}

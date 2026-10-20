@@ -1,0 +1,2 @@
+/pages/8/title	假玩家
+/pages/8/text	若干模块 ($(l:modules/placer)放置器/$, $(l:modules/breaker)破坏器/$, $(l:modules/activator)激活器/$) 会以$(thing)假玩家/$的身份工作.该假玩家使用放置路由器的玩家的游戏档案; 在使用 FTB Chunks 等领地保护模组的多人服务器上, 了解这一点很重要.

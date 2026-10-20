@@ -1,0 +1,15 @@
+{
+  "itemGroup.occultcooking": "神秘烹饪",
+  "block.occultcooking.kitchen_station": "神秘厨房台",
+  "item.occultcooking.kitchen_station.message.linked": "已连接维度存储执行器",
+  "item.occultcooking.kitchen_station.tooltip.linked": "已连接维度存储执行器 (%s)",
+  "item.occultcooking.kitchen_station.tooltip.unlinked": "未连接, 潜行右键单击维度存储执行器以连接",
+  "config.jade.plugin_occultcooking.kitchen_station": "神秘厨房台",
+  "jade.occultcooking:kitchen_station": "已连接到位于 %s 的 %s",
+  "jade.occultcooking:online": "设备在线",
+  "jade.occultcooking:linked_offline": "已连接 (执行器不可达)",
+  "jade.occultcooking:offline": "设备离线",
+  "jei.occultcooking.kitchen_station.1": "神秘厨房台可让 Cooking for Blockheads 的烹饪桌直接使用神秘学存储网络中的物品进行合成.",
+  "jei.occultcooking.kitchen_station.2": "要连接它, 请手持厨房台潜行右键单击维度存储执行器 (存储控制器).连接会保存在方块上, 只要执行器所在区块保持加载, 跨维度也能生效.",
+  "jei.occultcooking.kitchen_station.3": "把已连接的厨房台放进厨房, 紧邻烹饪桌或通过台面接通.连接成功时其屏幕会发光."
+}

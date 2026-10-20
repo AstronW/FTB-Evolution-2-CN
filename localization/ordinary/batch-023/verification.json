@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "023",
+  "namespace": "cakesticklib",
+  "source_keys": 268,
+  "unique_values": 249,
+  "chinese_values": 268,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 268,
+  "source_sha256": "677a8cbac10018ce41a20a59ad7025019a7750cbc7d127eb2baa9ed99a873c7c",
+  "in_game_tested": false
+}

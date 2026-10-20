@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "150",
+  "namespace": "growthacceleratortiers",
+  "source_keys": 16,
+  "unique_values": 16,
+  "chinese_values": 16,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 16,
+  "source_sha256": "4a0c9f834cfb2fb37e08ac34f2b4e597df4dea55b0369796b1c0114ee7a2ed3e",
+  "in_game_tested": false
+}

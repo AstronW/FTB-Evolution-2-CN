@@ -1,0 +1,32 @@
+{
+  "name": "绵羊",
+  "icon": "minecraft:sheep_spawn_egg",
+  "category": "animal_pen:category_animal_pen",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:sheep",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:sheep_food",
+      "text": "用小麦喂绵羊进行繁殖, 增加围栏里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对动物围栏使用剑或斧会杀死绵羊并掉落其战利品."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:shears",
+      "text": "对动物围栏使用剪刀会剪下羊毛. [redstone interaction 1]"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:black_dye,minecraft:blue_dye,minecraft:brown_dye,minecraft:cyan_dye,minecraft:gray_dye,minecraft:green_dye,minecraft:light_blue_dye,minecraft:light_gray_dye,minecraft:lime_dye,minecraft:magenta_dye,minecraft:orange_dye,minecraft:pink_dye,minecraft:purple_dye,minecraft:red_dye,minecraft:white_dye,minecraft:yellow_dye",
+      "text": "对动物围栏使用任意染料可改变绵羊的羊毛颜色."
+    }
+  ]
+}

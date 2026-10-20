@@ -1,0 +1,15 @@
+{
+  "name": "付费即赢",
+  "sortnum": 6,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:reforger",
+  "flag": "!mod:justdynathings",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "重铸器",
+      "recipe": "justdynathings:reforger",
+      "text": "一台强大的机器, 消耗一份催化剂, 把放在红面的输入方块转化为输出方块"
+    }
+  ]
+}

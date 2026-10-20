@@ -1,0 +1,15 @@
+{
+  "replication.matteropedia": "物质百科",
+  "block.replication.creative_matter_tank": "创造物质储罐",
+  "itemGroup.replication": "Replication",
+  "replication.infinite": "无限",
+  "replication.patterns": "样板",
+  "replication.search": "搜索...",
+  "replication.amount": "数量",
+  "replication.available": "可用",
+  "replication.cancel": "取消任务",
+  "replication.no_tasks": "没有进行中的复制任务",
+  "replication.toast_title": "Replication",
+  "tooltip.replication.tank.priority": "优先级: ",
+  "tooltip.replication.tank.void_excess": "清空多余"
+}

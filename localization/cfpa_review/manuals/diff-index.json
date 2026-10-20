@@ -1,0 +1,662 @@
+[
+  {
+    "path": "assets/advanced_ae/ae2guide/aae_intro/advanced_pattern_provider.md",
+    "ratio": 0.9473684210526315,
+    "diff": "OLD a standard version or an <ItemLink id=\"extendedae:ex_pattern_provider\" /> with the capability to configure the face to\nNEW a standard version or an Extended Pattern Provider (From Extended AE) with the capability to configure the face to\nOLD by inserting an encoded pattern in a <ItemLink id=\"advanced_ae:adv_pattern_encoder\" /> and taking out the advanced\nNEW by inserting an encoded pattern in an <ItemLink id=\"advanced_ae:adv_pattern_encoder\" /> and taking out the advanced"
+  },
+  {
+    "path": "assets/advanced_ae/ae2guide/aae_intro/quantum_armor.md",
+    "ratio": 0.9981378026070763,
+    "diff": "OLD \nNEW   - advanced_ae:camo_card"
+  },
+  {
+    "path": "assets/advanced_ae/ae2guide/aae_intro/quantum_crafter_terminal.md",
+    "ratio": 0.10526315789473684,
+    "diff": "OLD --- navigation:   parent: aae_intro/aae_intro-index.md   title: Quantum Crafter Terminals   icon: advanced_ae:quantum_crafter_terminal categories:   - advanced devices item_ids:   - advanced_ae:quantum_crafter_terminal   - advanced_ae:wireless_quantum_crafter_terminal ---\nNEW [//]: # (---)\nOLD # Quantum Crafter Terminals\nNEW [//]: # (navigation:)\nOLD <Row gap=\"20\"> <ItemImage id=\"advanced_ae:quantum_crafter_terminal\" scale=\"4\"></ItemImage> <ItemImage id=\"advanced_ae:wireless_quantum_crafter_terminal\" scale=\"4\"></ItemImage> </Row>\nNEW [//]: # (  parent: aae_intro/aae_intro-index.md)\nOLD Quantum Crafter Terminals allow the player to manage their entire network of <ItemLink id=\"advanced_ae:quantum_crafter\"/>s from one spot. The wireless version is useful to change settings on the go, just link it to your grid by inserting it into your wireless access point and you're good to go!\nNEW [//]: # (  title: Quantum Crafter Terminals)\nOLD <Row gap=\"20\"> <RecipeFor id=\"advanced_ae:quantum_crafter_terminal\" /> <RecipeFor id=\"advanced_ae:wireless_quantum_crafter_terminal\" /> </Row>\nNEW [//]: # (  icon: advanced_ae:quantum_crafter_terminal)  [//]: # (categories:)  [//]: # (  - advanced devices)  [//]: # (item_ids:)  [//]: # (  - advanced_ae:quantum_crafter_terminal)  [//]: # (  - advanced_ae:wireless_quantum_crafter_terminal)  [//]: # (---)  [//]: # () [//]: # (# Quantum Crafter Terminals)  [//]: # () [//]: # (<Row gap=\"20\">)  [//]: # (<ItemImage id=\"advanced_ae:quantum_crafter_terminal\" scale=\"4\"></ItemImage>)  [//]: # (<ItemImage id=\"advanced_ae:wireless_quantum_crafter_terminal\" scale=\"4\"></ItemImage>)  [//]: # (</Row>)  [//]: # () [//]: # (Quantum Crafter Terminals allow the player to manage their entire network of <ItemLink id=\"advanced_ae:quantum_crafter\"/>s)  [//]: # (from one spot. The wireless version is useful to change settings on the go, just link it to your grid by inserting it into)  [//]: # (your wireless access point and you're good to go!)  [//]: # () [//]: # (<Row gap=\"20\">)  [//]: # (<RecipeFor id=\"advanced_ae:quantum_crafter_terminal\" />)  [//]: # (<RecipeFor id=\"advanced_ae:wireless_quantum_crafter_terminal\" />)  [//]: # (</Row>)"
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/autocrafting.md",
+    "ratio": 0.9620853080568721,
+    "diff": "OLD and labor away like some sort of *plebian*, you can ask your ME system to do it for you. Or automatically craft items and export them somewhere.\nNEW and labor away like some sort of *plebeian*, you can ask your ME system to do it for you. Or automatically craft items and export them somewhere.\nOLD     or an export bus or interface with a crafting card requesting one of the item they're set to export/stock.\nNEW     or an export bus or interface with a crafting card requesting one of the items they're set to export/stock.\nOLD \"1 redstone dust = 2 redstone dust\", from throwing redstone in a Botania manapool. Another example would be smithing templates\nNEW \"1 redstone dust = 2 redstone dust\", from throwing redstone in a Botania Mana Pool. Another example would be smithing templates\nOLD     the ingredients into an entire complex factory production chain which will sort out stuff, take in other ingredients from infinitely-producing     farms, print the entirety of the Bee Movie script, the ME system does not care as long as it gets the result the pattern specifies. In fact,     it doesn't even care if the ingredients are in any way related to the result. You could tell it \"1 cherry wood planks = 1 nether star\" and have     your wither farm kill a wither upon receiving a cherry wood planks and it would work.\nNEW     the ingredients into an entire complex factory production chain which will sort out stuff, taking in other ingredients from infinitely-producing     farms, printing the entirety of the Bee Movie script... The ME system does not care, as long as it gets the result specified by the pattern. In fact,     it doesn't even care if the ingredients are related to the result in any way. You could encode a pattern like \"1 Cherry Wood Planks ⇒ 1 Nether Star\" and have     your Wither farm kill a Wither upon receiving a Cherry Wood Planks, and the automation would work.\nOLD They can be set to handle requests from players, automation (export busses and interfaces), or both.\nNEW They can be set to handle requests from players, automation (export buses and interfaces), or both."
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/bytes-and-types.md",
+    "ratio": 0.9743589743589743,
+    "diff": "OLD data on a cell can cause too much data to be sent to a player, causing an effect similar to \"Book Banning\" in vanilla minecraft.\nNEW data on a cell can cause too much data to be sent to a player, causing an effect similar to \"Book Banning\" in vanilla Minecraft.\nOLD lategame, as they have tradeoffs.\nNEW late-game, as they have tradeoffs."
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/certus-growth.md",
+    "ratio": 0.9636363636363636,
+    "diff": "OLD Flawless budding certus blocks will not degrade and will generate certus infinitely. However they cannot be crafted or moved with a pickaxe, even with silk touch. (they *can* be moved with [spatial storage](../ae2-mechanics/spatial-io.md) though)\nNEW Flawless budding certus blocks will not degrade and will generate certus infinitely. However, they cannot be crafted or moved with a pickaxe, even with Silk Touch. (they *can* be moved with [spatial storage](../ae2-mechanics/spatial-io.md) though)"
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/channels.md",
+    "ratio": 0.9517241379310345,
+    "diff": "OLD Channels will consume 1⁄128 ae/t per node they transverse, this means that by adding a <ItemLink id=\"controller\" /> for a network with 8 devices and over 96 nodes your power usage might actually decrease power consumption because it changes how channels are allocated.  Of note, **CHANNELS HAVE NOTHING TO DO WITH CABLE COLOR**, all cable color does is make cables not connect.\nNEW Channels will consume 1⁄128 AE/t per node they traverse. This means that by adding an <ItemLink id=\"controller\" /> for a network with 8 devices and over 96 nodes, your power consumption might actually decrease because it changes how channels are allocated.  Of note, **CHANNELS HAVE NOTHING TO DO WITH CABLE COLOR**. All cable color does is prevent cables from connecting.\nOLD When using a <ItemLink id=\"controller\" />,\nNEW When using an <ItemLink id=\"controller\" />,\nOLD A Network without a <ItemLink id=\"controller\" />\nNEW A Network without an <ItemLink id=\"controller\" />\nOLD Once you exceed 8 devices the network's channel using devices will shutdown, you can either remove devices, or add a <ItemLink id=\"controller\" />.  Unlike with controllered networks, [smart cables](../items-blocks-machines/cables.md) on ad-hoc networks will show the number\nNEW Once you exceed 8 devices, the network's channel-using devices will shut down. You can either remove devices or add an <ItemLink id=\"controller\" />.  Unlike with controller-equipped networks, [smart cables](../items-blocks-machines/cables.md) on ad-hoc networks will show the number\nOLD While using ad-hoc networks each device will use 1 channel network wide, this is very different from how <ItemLink id=\"controller\" /> allocate channels based on\nNEW While using ad-hoc networks, each device will use 1 channel network-wide. This is very different from how <ItemLink id=\"controller\" />s allocate channels based on"
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/energy.md",
+    "ratio": 0.8589743589743589,
+    "diff": "OLD \nNEW   \nOLD For relatively obvious reasons, a network cannot intake or consume more energy in a gametick than it can store. If a network can only store 800 AE, when its [devices](../ae2-mechanics/devices.md) request energy, they will only be able to use up to 800 AE (assuming the storage is full)\nNEW For relatively obvious reasons, a network cannot intake or consume more energy in a game tick than it can store. If a network can only store 800 AE, when its [devices](../ae2-mechanics/devices.md) request energy, they will only be able to use up to 800 AE (assuming the storage is full),\nOLD This is a common cause for odd behavior, where one makes a small network with just an energy acceptor, drive, terminal, and some devices and tries to dump an inventory full of cobblestone from their inventory into the network. Inserting that cobble all at once in a single gametick requires more energy than the network has in storage, so not all of the cobble is inserted, the network runs out of energy, and thus reboots.\nNEW This is a common cause for odd behavior: One makes a small network with just an energy acceptor, drive, terminal, and some devices and tries to dump a lot of items from their inventory into the network. Inserting many items at once  requires more energy than the network has in storage during that game tick, so some items are not inserted, and the network runs out of energy and thus reboots.\nOLD <ItemLink id=\"controller\" />s have a small amount of internal energy storage, 8,000 AE\nNEW <ItemLink id=\"controller\" />s have a small amount of internal energy storage, 8k AE per block.\nOLD The <ItemLink id=\"energy_cell\" /> can store 200k AE, and just one should be sufficient for most use cases, handling the power surges of normal network use with ease.\nNEW The <ItemLink id=\"energy_cell\" /> can store 200k AE (as much as 25 Controller blocks), and just one should be sufficient for most use cases, handling the power surges of normal network use with ease.\nOLD The <ItemLink id=\"dense_energy_cell\" /> can store 1.6M AE and is for when you want to run a network off of stored power, or\nNEW The <ItemLink id=\"dense_energy_cell\" /> can store 1.6M AE (as much as 8 Energy Cells) and is ideal for when you want to run a network off of stored power, or"
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/import-export-storage.md",
+    "ratio": 0.9125,
+    "diff": "OLD *   <ItemLink id=\"import_bus\" />ses push things into network storage *   <ItemLink id=\"export_bus\" />ses pull things from network storage\nNEW *   <ItemLink id=\"import_bus\" />es push things into network storage *   <ItemLink id=\"export_bus\" />es pull things from network storage\nOLD *   <ItemLink id=\"storage_bus\" />ses don't really push to or pull from storage, they push to or pull from the connected inventory\nNEW *   <ItemLink id=\"storage_bus\" />es don't really push to or pull from storage, they push to or pull from the connected inventory\nOLD         Import Busses import things from inventories they're pointing at into network storage\nNEW         Import Buses import things from inventories they're pointing at into network storage\nOLD         Storage Busses use the inventory they're pointing at as network storage\nNEW         Storage Buses use the inventory they're pointing at as network storage\nOLD         Export Busses export things from network storage into inventories they're pointing at\nNEW         Export Buses export things from network storage into inventories they're pointing at\nOLD other. Any Whitelisted cells will be treated as already containing the item\nNEW other. Any whitelisted cells will be treated as already containing the item"
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/me-network-connections.md",
+    "ratio": 0.945,
+    "diff": "OLD like [cables](../items-blocks-machines/cables.md) or fullblock machines and [devices](../ae2-mechanics/devices.md). \nNEW like [cables](../items-blocks-machines/cables.md) or full-block machines and [devices](../ae2-mechanics/devices.md). \nOLD         Network 1, acts like a pipe subnet, restricts what the import bus has access to so it \"stores\" the ore blocks through the\nNEW         Network 1: Acts like a pipe subnet. Restricts what the import bus has access to so it \"stores\" the ore blocks through the\nOLD         Network 2, Acts like another pipe subnet, restricts what the annihilation planes have access to so they store         the fortuned ore chunks in the barrel and not in your main network. Also means they don't use up any channels on the\nNEW         Network 2: Acts like another pipe subnet. Restricts what the annihilation planes have access to, so they store         the mined ore chunks in the barrel and not in your main network. Also means they don't use up any channels on the\nOLD         Network 3, The main network with all your storage and crafting on it. Just here to supply power, really, and specifically\nNEW         Network 3: The main network with all your storage and crafting on it. Just here to supply power, really, and specifically\nOLD network the tunnel is carrying. they *can* be the same network, but they don't have to be, and usually aren't.\nNEW network the tunnel is carrying. They *can* be the same network, but they don't have to be, and they usually aren't.\nOLD         Network 1, the network being carried (usually your main network)\nNEW         Network 1: The network being carried (usually your main network)\nOLD         Network 2, The network running the ME P2P tunnels (usually *not* your main network)\nNEW         Network 2: The network running the ME P2P tunnels (usually *not* your main network)\nOLD         Network 1, the network being carried (usually your main network)\nNEW         Network 1: The network being carried (usually your main network)\nOLD In this case, this is just 1 network, because the <ItemLink id=\"pattern_provider\" />, being a fullblock device, acts like\nNEW In this case, this is just 1 network, because the <ItemLink id=\"pattern_provider\" />, being a full-block device, acts like\nOLD [devices](../ae2-mechanics/devices.md) like <ItemLink id=\"import_bus\" />ses, <ItemLink id=\"storage_bus\" />ses, and\nNEW [devices](../ae2-mechanics/devices.md) like <ItemLink id=\"import_bus\" />es, <ItemLink id=\"storage_bus\" />es, and"
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/meteorites.md",
+    "ratio": 0.9166666666666666,
+    "diff": "OLD Meteorites are fairly common and leave massive holes in the ground, so you may have already found a few. if not, a <ItemLink id=\"meteorite_compass\" /> will point toward the nearest mysterious cube.\nNEW Meteorites are fairly common and leave massive holes in the ground, so you may have already found a few. If not, a <ItemLink id=\"meteorite_compass\" /> will point toward the nearest Mysterious Cube."
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/spatial-io.md",
+    "ratio": 0.983739837398374,
+    "diff": "OLD and trigger the IO port again, the 2nd set of blocks will disappear and the 1st set of blcks will reappear.\nNEW and trigger the IO port again, the 2nd set of blocks will disappear and the 1st set of blocks will reappear.\nOLD **BE CAREFUL, Any entity in the defined volume, including you, will be carried along, and if you have no way of getting out, you will be trapped\nNEW **BE CAREFUL: Any entity in the defined volume, including you, will be carried along, and if you have no way of getting out, you will be trapped"
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2-mechanics/subnetworks.md",
+    "ratio": 0.9428571428571428,
+    "diff": "OLD     busses on several machines, using 1 channel, instead of putting a pattern provider on each machine, using several channels.\nNEW     buses on several machines, using 1 channel, instead of putting a pattern provider on each machine, using several channels.\nOLD Often, people put together some jumble of interfaces and busses and stuff and expect it to be a subnet when all the devices are still connected to the main network through various fullblock devices.\nNEW Often, people put together some jumble of interfaces and buses and stuff and expect it to be a subnet, while all the devices are still connected to the main network through various full-block devices.\nOLD Some examples are:\nNEW Some subnetwork examples are:"
+  },
+  {
+    "path": "assets/ae2/ae2guide/ae2importexportcard-index.md",
+    "ratio": 0.8811188811188811,
+    "diff": "OLD \nNEW - ae2importexportcard:block_picker_card\nOLD \nNEW    <ItemImage id=\"ae2importexportcard:block_picker_card\" scale=\"2\" />\nOLD Import and Export cards allow you to import/export items out of your inventory\nNEW Import, Export and Block Picker cards allow you to import/export items out of your inventory\nOLD \nNEW  ## Block Picker Card  <ItemImage id=\"ae2importexportcard:block_picker_card\" scale=\"2\" />  The Block Picker Card lets you extract the block you are currently looking at directly from your Network. Simply aim at a block and press the \"Pick Block\" keybind. If the matching block is available in your network, it will be extracted into your inventory.  ![Block Picker Card](diagrams/block_picker_card.png)  ### Recipe  <RecipeFor id=\"ae2importexportcard:block_picker_card\" />"
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/advanced-certus-farm.md",
+    "ratio": 0.9932885906040269,
+    "diff": "OLD    The plane needs to have silk touch, so the budding block won't degrade upon being broken, and thus the plane won't break it prematurely.\nNEW    The plane needs to have Silk Touch, so the budding block won't degrade upon being broken, and thus the plane won't break it prematurely."
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/amethyst-farm.md",
+    "ratio": 0.9473684210526315,
+    "diff": "OLD The way around this is to enchant the annihilation plane with silk touch. Then the non-mature amethyst buds *do* drop something\nNEW The way around this is to enchant the annihilation plane with Silk Touch. Then the non-mature amethyst buds *do* drop something\nOLD re-broken by an <ItemLink id=\"annihilation_plane\" /> without silk touch, in order to get <ItemLink id=\"minecraft:amethyst_shard\" />s.\nNEW re-broken by an <ItemLink id=\"annihilation_plane\" /> without Silk Touch, in order to get <ItemLink id=\"minecraft:amethyst_shard\" />s.\nOLD * The first <ItemLink id=\"annihilation_plane\" /> (1) has no GUI and cannot be configured, but must be enchanted with silk touch.\nNEW * The first <ItemLink id=\"annihilation_plane\" /> (1) has no GUI and cannot be configured, but must be enchanted with Silk Touch.\nOLD the plane is enchanted with silk touch, otherwise it would be able to break the non-mature buds because they drop nothing.\nNEW the plane is enchanted with Silk Touch, otherwise it would be able to break the non-mature buds because they drop nothing."
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/bucket-emptier.md",
+    "ratio": 0.9764705882352941,
+    "diff": "OLD \nNEW   \nOLD    (Actually, as an optimization, it pushes directly through the storage bus asi fit was an extension of the provider's faces. The items never actually enter the interface.)\nNEW    (Actually, as an optimization, it pushes directly through the storage bus as if it were an extension of the provider's faces. The items never actually enter the interface.)"
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/cell-dumper-filler.md",
+    "ratio": 0.9696969696969697,
+    "diff": "OLD     not run out from the power draw of transferring so many items per gametick.\nNEW     not run out from the power draw of transferring so many items per game tick.\nOLD   not run out from the power draw of transferring so many items per gametick.\nNEW   not run out from the power draw of transferring so many items per game tick."
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/furnace-automation.md",
+    "ratio": 0.9444444444444444,
+    "diff": "OLD    (Actually, as an optimization, it pushes directly through the storage busses as if they were extensions of the provider's faces. The items never actually enter the interface.)\nNEW    (Actually, as an optimization, it pushes directly through the storage buses as if they are extensions of the provider's faces. The items never actually enter the interface.)\nOLD 3. The only storage on the green subnet is the <ItemLink id=\"storage_bus\" />ses. The bus filtered to coal places the coal in the furnace's fuel slot through the side face.\nNEW 3. The only storage on the green subnet is the <ItemLink id=\"storage_bus\" />es. The bus filtered to coal places the coal in the furnace's fuel slot through the side face.\nOLD 4. The furnace does its furnacey thing 5. The hopper pulls the results out the furnace's bottom, and places them in the provider's return slots, returning them to the main network.\nNEW 4. The furnace does its furnace-y thing 5. The hopper pulls the results from the furnace's bottom face and places them in the provider's return slots, returning them to the main network."
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/interface-autostocking.md",
+    "ratio": 0.9166666666666666,
+    "diff": "OLD This demonstration setup is cut short so it isn't too wide, it is likely most optimal to use 4 <ItemLink id=\"interface\" />s and 4 <ItemLink id=\"storage_bus\" />ses,\nNEW This demonstration setup is cut short so it isn't too wide, it is likely most optimal to use 4 <ItemLink id=\"interface\" />s and 4 <ItemLink id=\"storage_bus\" />es,\nOLD         (2) Storage Busses: \"Input/Output Mode\" set to \"Extract Only\".\nNEW         (2) Storage Buses: \"Input/Output Mode\" set to \"Extract Only\".\nOLD * The <ItemLink id=\"storage_bus\" />ses (2) are set such that \"Input/Output Mode\" is set to \"Extract Only\".\nNEW * The <ItemLink id=\"storage_bus\" />es (2) are set such that \"Input/Output Mode\" is set to \"Extract Only\".\nOLD 2. The <ItemLink id=\"storage_bus\" />ses allow the network to access the contents of the interfaces.\nNEW 2. The <ItemLink id=\"storage_bus\" />es allow the network to access the contents of the interfaces."
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/main-network.md",
+    "ratio": 0.9787234042553191,
+    "diff": "OLD         You don't need that many drive bays and cells for your general storage, 2-4 Drives worth of 4k or 16k\nNEW         You don't need that many drive bays and cells for your general storage, 2–4 Drives worth of 4k or 16k\nOLD         Typically you'll have 1-2 big crafting CPUs for big jobs and a few smaller ones to handle secondary\nNEW         Typically you'll have 1–2 big crafting CPUs for big jobs and a few smaller ones to handle secondary"
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/ore-fortuner.md",
+    "ratio": 0.984375,
+    "diff": "OLD Note that since <ItemLink id=\"import_bus\" />ses \"spin up to speed\", the setup will start slow then reach full speed in a few seconds.\nNEW Note that since <ItemLink id=\"import_bus\" />es \"spin up to speed\", the setup will start slow then reach full speed in a few seconds."
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/pipe-subnet.md",
+    "ratio": 0.9575471698113207,
+    "diff": "OLD         (2) Storage Bus: Can be filtered. This (and other storage busses you want to be a destination)\nNEW         (2) Storage Bus: Can be filtered. This (and other storage buses you want to be a destination)\nOLD This setup also works with multiple import busses and multiple storage busses.\nNEW This setup also works with multiple import buses and multiple storage buses.\nOLD         (1) Storage Bus: Can be filtered. This (and other storage busses you want to be a source)\nNEW         (1) Storage Bus: Can be filtered. This (and other storage buses you want to be a source)\nOLD Because export busses must be filtered to function, this setup only operates if you filter the export bus. This setup also works with multiple storage busses and multiple export busses.\nNEW Because export buses must be filtered to function, this setup only operates if you filter the export bus. This setup also works with multiple storage buses and multiple export buses.\nOLD         (2) Storage Bus: Can be filtered. This (and other storage busses you want to push and pull items)\nNEW         (2) Storage Bus: Can be filtered. This (and other storage buses you want to push and pull items)\nOLD It turns out there are [devices](../ae2-mechanics/devices.md) besides import busses and export busses that push items into\nNEW It turns out there are [devices](../ae2-mechanics/devices.md) besides import buses and export buses that push items into\nOLD stock some things and not stock others, allowing you to remotely push and pull through storage busses, if you for some reason want to do that.\nNEW stock some things and not stock others, allowing you to remotely push and pull through storage buses, if you for some reason want to do that.\nOLD         Storage Busses\nNEW         Storage Buses"
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/processor-automation.md",
+    "ratio": 0.9095744680851063,
+    "diff": "OLD setup. If you just want to automate a processors standalone, replace the pattern provider with another barrel, and directly put the ingredients in the upper barrel.\nNEW setup. If you just want to automate a processor standalone, replace the pattern provider with another barrel, and directly put the ingredients into the upper barrel.\nOLD ## A Lesson In Pattern Encoding\nNEW ## A Lesson in Pattern Encoding\nOLD         (3) Export Bus #1: Filtered to Silicon, has 2 Acceleration Cards\nNEW         (3) Export Bus #1: Filtered to Silicon. Has 2 Acceleration Cards\nOLD         (4) Export Bus #2: Filtered to Gold Ingot, has 2 Acceleration Cards\nNEW         (4) Export Bus #2: Filtered to Gold Ingot. Has 2 Acceleration Cards\nOLD         (5) Export Bus #3: Filtered to Certus Quartz Crystal, has 2 Acceleration Cards\nNEW         (5) Export Bus #3: Filtered to Certus Quartz Crystal. Has 2 Acceleration Cards\nOLD         (6) Export Bus #4: Filtered to Diamond, has 2 Acceleration Cards\nNEW         (6) Export Bus #4: Filtered to Diamond. Has 2 Acceleration Cards\nOLD         (7) Export Bus #5: Filtered to Redstone Dust, has 2 Acceleration Cards\nNEW         (7) Export Bus #5: Filtered to Redstone Dust. Has 2 Acceleration Cards\nOLD         (13) Import Bus #1: In its default configuration, has 2 Acceleration Cards\nNEW         (13) Import Bus #1: In its default configuration. Has 2 Acceleration Cards\nOLD         (14) Import Bus #2: In its default configuration, has 2 Acceleration Cards\nNEW         (14) Import Bus #2: In its default configuration. Has 2 Acceleration Cards\nOLD         (15) Import Bus #3: In its default configuration, has 2 Acceleration Cards\nNEW         (15) Import Bus #3: In its default configuration. Has 2 Acceleration Cards\nOLD         (16) Import Bus #4: In its default configuration, has 2 Acceleration Cards\nNEW         (16) Import Bus #4: In its default configuration. Has 2 Acceleration Cards\nOLD         (19) Import Bus #5: In its default configuration, has 2 Acceleration Cards\nNEW         (19) Import Bus #5: In its default configuration. Has 2 Acceleration Cards\nOLD   Note that the patterns go direct from raw resources to the completed processor, and do **NOT** include the [press](../items-blocks-machines/presses.md).\nNEW   Note that the patterns go directly from raw resources to the completed processor, and they do **NOT** include the [press](../items-blocks-machines/presses.md).\nOLD * The <ItemLink id=\"storage_bus\" />ses (2, 17, 18, 20) are in their default configurations. * The <ItemLink id=\"export_bus\" />ses (3-7) are filtered to the relevant ingredient. They have 2 <ItemLink id=\"speed_card\" />s.\nNEW * The <ItemLink id=\"storage_bus\" />es (2, 17, 18, 20) are in their default configurations. * The <ItemLink id=\"export_bus\" />es (3–7) are filtered to the relevant ingredient. They have 2 <ItemLink id=\"speed_card\" />s.\nOLD * The <ItemLink id=\"import_bus\" />ses (13-16, 19) are in their default configurations. They have 2 <ItemLink id=\"speed_card\" />s.\nNEW * The <ItemLink id=\"import_bus\" />es (13–16, 19) are in their default configurations. They have 2 <ItemLink id=\"speed_card\" />s.\nOLD 6. The fourth [pipe subnet](pipe-subnet.md) (purple) puts the prcoessor in the pattern provider, returning it to the main network.\nNEW 6. The fourth [pipe subnet](pipe-subnet.md) (purple) puts the processor in the pattern provider, returning it to the main network."
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/regulated-cobble-gen.md",
+    "ratio": 0.974025974025974,
+    "diff": "OLD Due to how annihilation planes work (they act like <ItemLink id=\"import_bus\" />ses), we cannot simply put a <ItemLink id=\"level_emitter\" />\nNEW Due to how annihilation planes work (they act like <ItemLink id=\"import_bus\" />es), we cannot simply put a <ItemLink id=\"level_emitter\" />\nOLD <ItemLink id=\"toggle_bus\" />ses allow you to connect and disconnect parts of your network with redstone signals, but they cause\nNEW <ItemLink id=\"toggle_bus\" />es allow you to connect and disconnect parts of your network with redstone signals, but they cause"
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/semiauto-certus-farm.md",
+    "ratio": 0.9724137931034482,
+    "diff": "OLD buddng certus barrel)\nNEW budding certus barrel)\nOLD 3 separate setups crammmed together.\nNEW 3 separate setups crammed together.\nOLD    The plane needs to have silk touch, so the budding block won't degrade upon being broken, and thus the plane won't break it prematurely.\nNEW    The plane needs to have Silk Touch, so the budding block won't degrade upon being broken, and thus the plane won't break it prematurely.\nOLD    buddng certus barrel, you will have to manually throw it in water with <ItemLink id=\"charged_certus_quartz_crystal\" /> to refresh it.\nNEW    budding certus barrel, you will have to manually throw it in water with <ItemLink id=\"charged_certus_quartz_crystal\" /> to refresh it."
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/simple-certus-farm.md",
+    "ratio": 0.9836065573770492,
+    "diff": "OLD harvesting involves <ItemLink id=\"annihilation_plane\" />s and <ItemLink id=\"storage_bus\" />ses. \nNEW harvesting involves <ItemLink id=\"annihilation_plane\" />s and <ItemLink id=\"storage_bus\" />es. "
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/storage-types.md",
+    "ratio": 0.9302325581395349,
+    "diff": "OLD This means that items WILL NOT ACTIVELY MOVE from one storage ot the other, but will \"migrate\" as they enter and leave the network.\nNEW This means that items WILL NOT ACTIVELY MOVE from one storage to the other, but will \"migrate\" as they enter and leave the network.\nOLD         pulled from the network, it is pulled from *evere except here*, so coal \"migrates\" to this drawer.\nNEW         pulled from the network, it is pulled from *everywhere except here*, so coal \"migrates\" to this drawer.\nOLD         colossal chests, are terrible for performance when used with storage busses.\nNEW         colossal chests, are terrible for performance when used with storage buses.\nOLD         and whenever cobble or iron is pulled from the network, it is pulled from *evere except here*, so cobble and iron \"migrate\" to this cell.\nNEW         and whenever cobble or iron is pulled from the network, it is pulled from *everywhere except here*, so cobble and iron \"migrate\" to this cell.\nOLD         move items, cells used in General Gtorage should be periodically \"shuffled\" through an IO port to move items that have a\nNEW         move items, cells used in General Storage should be periodically \"shuffled\" through an IO port to move items that have a\nOLD         Local Storage at a mob farm. This storage bus - interface setup allows the main network to acces this subnet's storage.\nNEW         Local Storage at a mob farm. This storage bus - interface setup allows the main network to access this subnet's storage."
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/throw-in-water-automation.md",
+    "ratio": 0.975609756097561,
+    "diff": "OLD   * For <ItemLink id=\"fluix_crystal\" /> the default recipe from JEI/REI works fine:\nNEW   * For <ItemLink id=\"fluix_crystal\" />, the default recipe from JEI/REI works fine:\nOLD   * For <ItemLink id=\"flawed_budding_quartz\" /> it's probably best to make it directly from <ItemLink id=\"quartz_block\" />,\nNEW   * For <ItemLink id=\"flawed_budding_quartz\" />, it's probably best to make it directly from <ItemLink id=\"quartz_block\" />,"
+  },
+  {
+    "path": "assets/ae2/ae2guide/getting-started.md",
+    "ratio": 0.8348348348348348,
+    "diff": "OLD ## Getting The Initial Materials)\nNEW ## Getting The Initial Materials\nOLD Mine the certus quartz clusters and any certus quartz blocks you find. You can also pick up the budding certus blocks, but without silk touch they will degrade by 1 tier.\nNEW Mine the certus quartz clusters and any certus quartz blocks you find. You can also pick up the budding certus blocks, but without Silk Touch, they will degrade by 1 tier.\nOLD Do not break any flawless budding certus, as even with silk touch they will degrade to flawed budding certus, and it is impossible to repair them back to flawless.\nNEW Do not break any flawless budding certus, as even with Silk Touch, they will degrade to flawed budding certus, and it is impossible to repair them back to flawless.\nOLD Flawless budding certus blocks will not degrade and will generate certus infinitely. However they cannot be crafted or moved with a pickaxe, even with silk touch. (they *can* be moved with [spatial storage](ae2-mechanics/spatial-io.md) though)\nNEW Flawless budding certus blocks will not degrade and will generate certus infinitely. However, they cannot be crafted or moved with a pickaxe, even with Silk Touch. (they *can* be moved with [spatial storage](ae2-mechanics/spatial-io.md) though)\nOLD By themselves, certus quartz buds grow very slowly. Luckily the <ItemLink id=\"growth_accelerator\" /> massively\nNEW By themselves, certus quartz buds grow very slowly. Luckily, the <ItemLink id=\"growth_accelerator\" /> massively\nOLD The <ItemLink id=\"charger\" /> is required to produce <ItemLink id=\"charged_certus_quartz_crystal\" />., if you haven't made one already.\nNEW The <ItemLink id=\"charger\" /> is required to produce <ItemLink id=\"charged_certus_quartz_crystal\" />, if you haven't made one already.\nOLD Its pronounced Emm-Eee, and stands for Matter Energy.\nNEW It's pronounced Emm-Eee, and stands for Matter Energy.\nOLD Matter Energy is the main component of Applied Energistics 2, it's like a mad scientist version of a Multi-Block chest, and it can revolutionize your storage situation. ME is extremely different than other storage systems in Minecraft, and it might take a little out of the box thinking to get used to; but once you get started vast amounts of storage in tiny space, and multiple access terminals are just the tip of the iceberg of what becomes possible.\nNEW Matter Energy is the main component of Applied Energistics 2; it's like a mad scientist version of a Multi-Block chest, and it can revolutionize your storage situation. ME is extremely different from other storage systems in Minecraft, and it might take a little out-of-the-box thinking to get used to. But once you get started, vast amounts of storage in tiny space and multiple access terminals are just the tip of the iceberg of what will become possible.\nOLD First, ME Stores items inside of other items, called [Storage cells](items-blocks-machines/storage_cells.md); there are 5 tiers with ever increasing amounts of storage. In order to use a Storage Cell it must be placed inside either an <ItemLink id=\"chest\" />, or an <ItemLink id=\"drive\" />.\nNEW First, ME stores items inside other items, called [Storage cells](items-blocks-machines/storage_cells.md). There are 5 tiers with ever-increasing amounts of storage. In order to use a storage cell, it must be placed inside either an <ItemLink id=\"me_chest\" /> or an <ItemLink id=\"drive\" />.\nOLD The <ItemLink id=\"chest\" /> shows you the contents of the Cell as soon as its placed inside, and you\nNEW The <ItemLink id=\"me_chest\" /> shows you the contents of the Cell as soon as it's placed inside, and you\nOLD actually stored in the Storage cells, and not the <ItemLink id=\"chest\" /> itself.\nNEW actually stored in the storage cells, and not the <ItemLink id=\"me_chest\" /> itself.\nOLD The <ItemLink id=\"chest\" /> is quite situational and limited in utility. To really\nNEW The <ItemLink id=\"me_chest\" /> is quite situational and limited in utility. To really\nOLD Now that you have all of the basic materials and machines for Applied Energistics 2, you can make your first ME (Matter Energy) system. This will be a very basic one, no autocrafting, no logistics, just nice, simple, searchable storage.\nNEW Now that you have all the basic materials and machines for Applied Energistics 2, you can make your first ME (Matter Energy) system. This will be a very basic one: no autocrafting, no logistics, just nice, simple, searchable storage.\nOLD     capacity and types (it would be more efficient to [partition](items-blocks-machines/cell_workbench.md) a mix of 4k and 1k but that's a complexity we won't go into now)\nNEW     capacity and types (it would be more efficient to [partition](items-blocks-machines/cell_workbench.md) a mix of 4k and 1k, but that's a complexity we won't go into now)\nOLD So you have some basic storage, and access to that storage, it's a good start, but you'll likely be looking to maybe\nNEW So you have some basic storage, and access to that storage. It's a good start, but you'll likely be looking to maybe\nOLD A great example of this is to place a <ItemLink id=\"export_bus\" /> on the top of a furnace to dump in ores, and a <ItemLink id=\"import_bus\" /> on the bottom of the furnace to extract furnaced ores.\nNEW A great example of this is to place an <ItemLink id=\"export_bus\" /> on the top of a furnace to dump in ores, and an <ItemLink id=\"import_bus\" /> on the bottom of the furnace to extract smelted ores.\nOLD At this point you probably getting close to 8 or so [devices](ae2-mechanics/devices.md), once you hit 9 devices you'll have to start managing [channels](ae2-mechanics/channels.md). Many devices but not all, require a channel to function.\nNEW At this point you are probably getting close to 8 or so [devices](ae2-mechanics/devices.md). Once you hit 9 devices, you'll have to start managing [channels](ae2-mechanics/channels.md). Many devices—but not all—require a channel to function.\nOLD By default a network can support 8 channels, once you break this limit, you'll have to add\nNEW By default, a network can support 8 channels, once you break this limit, you'll have to add"
+  },
+  {
+    "path": "assets/ae2/ae2guide/index.md",
+    "ratio": 0.9714285714285714,
+    "diff": "OLD Left click and drag to rotate, right click and drag to translate.\nNEW Left-click and drag to rotate, right-click and drag to translate."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/annihilation_plane.md",
+    "ratio": 0.9655172413793104,
+    "diff": "OLD [automate ore processing](../example-setups/ore-fortuner.md) if your modpack allows it. In addition, silk touch does what\nNEW [automate ore processing](../example-setups/ore-fortuner.md) if your modpack allows it. In addition, Silk Touch does what\nOLD you need a plane enchanted with silk touch, otherwise every previous growth stage drops nothing and so the plane will break them no matter\nNEW you need a plane enchanted with Silk Touch, otherwise every previous growth stage drops nothing and so the plane will break them no matter"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/budding_certus.md",
+    "ratio": 0.9642857142857143,
+    "diff": "OLD with a mod like HWYLA, Jade, The One Probe, etc. (or the f3 screen)\nNEW with a mod like HWYLA, Jade, The One Probe, etc. (or the F3 screen)\nOLD enchanted with silk touch, they will not degrade, unless they were flawless. **This means that flawless budding certus blocks cannot\nNEW enchanted with Silk Touch, they will not degrade, unless they were flawless. **This means that flawless budding certus blocks cannot"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/cables.md",
+    "ratio": 0.9252336448598131,
+    "diff": "OLD Differently colored cables can be used to ensure adjacent cables do not connected to each other,\nNEW Differently colored cables can be used to ensure that adjacent cables do not connect to each other,\nOLD Of note, **CHANNELS HAVE NOTHING TO DO WITH CABLE COLOR**\nNEW Of note, **CHANNELS HAVE NOTHING TO DO WITH CABLE COLOR**. All cable color does is prevent cables from connecting.\nOLD **If you are new to AE2 and unfamiliar with channels, use smart cable and dense smart cable wherever you can.\nNEW **If you are new to AE2 and unfamiliar with channels, use Smart Cable and Dense Smart Cable wherever you can.\nOLD **These are not item or fluid or energy or etc. pipes.** They have no internal inventory, pattern providers and machines do not \"push\" into them, all they do is connect AE2 [devices](../ae2-mechanics/devices.md) together into a network.\nNEW **These are not pipes for items, fluid, energy, etc.** They have no internal inventory, pattern providers and machines do not \"push\" into them; all they do is connect AE2 [devices](../ae2-mechanics/devices.md) together into a network.\nOLD <ItemLink id=\"fluix_glass_cable\" /> is the simplest cable to make, transfers power\nNEW <ItemLink id=\"fluix_glass_cable\" /> is the simplest cable to make, and transfers power\nOLD To craft colored cables surround a dye of any type with 8 cables of the same type ( color of the cables dosn't matter, but they must be the same type, glass, smart, etc ). You can also paint cables with any forge compatible paint\nNEW To craft colored cables, surround a dye of any type with 8 cables of the same type (color of the cables doesn't matter, but they must be the same type: Glass, Smart, etc.). You can also paint cables with any Forge-compatible paint\nOLD Higher Capacity cable, can carry 32 channels unlike standard cable which can only carry 8, however it doesn't support buses so you must first step down from dense to a\nNEW Higher-capacity cable. Can carry 32 channels, unlike standard cables that can only carry 8. However, it doesn't support buses, so you must first step down from dense to a\nOLD Dense cables slightly override the \"shortest path\" behavior of channels, channels will take the shortest path to a\nNEW Dense cables slightly override the \"shortest path\" behavior of channels: channels will take the shortest path to a\nOLD your network. For regular smart cables, the first four channels show as lines matching the color of the cable, the next four show as white lines. For dense smart cable, each stripe represents 4 channels.  On networks with a <ItemLink id=\"controller\" />, the lines on the cables show the exact path the channels take.\nNEW your network. For regular Smart Cables, the first four channels show as lines matching the color of the cable, the next four show as white lines. For Dense Smart Cable, each stripe represents 4 channels.  On networks with an <ItemLink id=\"controller\" />, the lines on the cables show the exact path the channels take."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/charger.md",
+    "ratio": 0.9767441860465116,
+    "diff": "OLD As an example, the rotateability lets you semi-automate chargers like so:\nNEW As an example, the rotatability lets you semi-automate chargers like so:"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/chest.md",
+    "ratio": 0.9041095890410958,
+    "diff": "OLD   icon: chest\nNEW   icon: me_chest\nOLD - ae2:chest\nNEW - ae2:me_chest\nOLD their first destination. In the case of two storages or cells have the same priority, if one already contains the item, they will prefer that storage over any\nNEW their first destination. In the case of two storages or cells having the same priority, if one already contains that type of item, the item will prefer that storage over any\nOLD be removed from the storage with the lowest priority. This priority system means as items are inserted and removed from network storage, higher priority storages will be filled and lower priority storages will be emptied.\nNEW be removed from the storage with the lowest priority. This priority system means that as items are inserted and removed from network storage, higher priority storages will be filled, and lower priority storages will be emptied.\nOLD <RecipeFor id=\"chest\" />\nNEW <RecipeFor id=\"me_chest\" />"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/color_applicator.md",
+    "ratio": 0.9736842105263158,
+    "diff": "OLD the applicator in the storage cell slot in a <ItemLink id=\"chest\" />\nNEW the applicator in the storage cell slot in a <ItemLink id=\"me_chest\" />"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/crafting_cpu_multiblock.md",
+    "ratio": 0.976,
+    "diff": "OLD They can be set to handle requests from players, automation (export busses and interfaces), or both.\nNEW They can be set to handle requests from players, automation (export buses and interfaces), or both.\nOLD *   The CPU can be set to accept requests from just players, just automation (like <ItemLink id=\"export_bus\" />ses with\nNEW *   The CPU can be set to accept requests from just players, just automation (like <ItemLink id=\"export_bus\" />es with\nOLD In the crafting status screen (visible by right clicking a CPU or with the hammer icon in a [terminal](terminals.md)), these\nNEW In the crafting status screen (visible by right-clicking a CPU or with the hammer icon in a [terminal](terminals.md)), these"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/cutting_knives.md",
+    "ratio": 0.9393939393939394,
+    "diff": "OLD To craft a name press, right click the cutting knife and insert an ingot of metal, you will then have to type the name you wish to write onto the plate then simply extract the finished plate.\nNEW To craft a name press, right-click the cutting knife and insert an ingot of metal, you will then have to type the name you wish to write onto the plate, then simply extract the finished plate."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/decorative_certus.md",
+    "ratio": 0.9905660377358491,
+    "diff": "OLD <ItemLink id=\"quartz_block\" />s can be crafted, smelted, and stonecut into some decorative building blocks\nNEW <ItemLink id=\"quartz_block\" />s can be crafted, smelted, and stone-cut into some decorative building blocks"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/decorative_fluix.md",
+    "ratio": 0.96875,
+    "diff": "OLD <ItemLink id=\"fluix_block\" />s can be crafted and stonecut into some decorative building blocks.\nNEW <ItemLink id=\"fluix_block\" />s can be crafted and stone-cut into some decorative building blocks."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/decorative_sky_stone.md",
+    "ratio": 0.9887640449438202,
+    "diff": "OLD <ItemLink id=\"sky_stone_block\" /> blocks can be crafted and stonecut into some decorative building blocks\nNEW <ItemLink id=\"sky_stone_block\" /> blocks can be crafted and stone-cut into some decorative building blocks"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/drive.md",
+    "ratio": 0.9607843137254902,
+    "diff": "OLD If for some reason you want to, you can push and pull the cells from its inventory with any item logistics like hoppers or ae2 busses.\nNEW You can push and pull the cells from its inventory using any item logistics like hoppers or AE2 buses.\nOLD their first destination. In the case of two storages or cells have the same priority,\nNEW their first destination. In the case of two storages or cells having the same priority,"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/export_bus.md",
+    "ratio": 0.8833333333333333,
+    "diff": "OLD and pushes them into  the inventory it's touching.\nNEW and pushes them into the inventory it's touching.\nOLD By default the bus will not export anything. Items inserted into its filter slots will act as a whitelist,\nNEW By default, the bus will not export anything. Items inserted into its filter slots will act as a whitelist,\nOLD The import bus supports the following [upgrades](upgrade_cards.md):\nNEW The export bus supports the following [upgrades](upgrade_cards.md):\nOLD *   <ItemLink id=\"capacity_card\" /> increases the amount of filter slots, and brings up a setting on what order to export what is filtered. *   <ItemLink id=\"speed_card\" /> increases the amount of stuff moved per operation *   <ItemLink id=\"fuzzy_card\" /> lets the bus filter by damage level and/or ignore item NBT\nNEW *   <ItemLink id=\"capacity_card\" /> increases the number of filter slots. *   <ItemLink id=\"speed_card\" /> increases the amount of stuff moved per operation. *   <ItemLink id=\"fuzzy_card\" /> lets the bus filter by damage level and/or ignore item NBT.\nOLD *   <ItemLink id=\"redstone_card\" /> adds redstone control, allowing active on high signal, low signal, or once per pulse\nNEW *   <ItemLink id=\"redstone_card\" /> adds redstone control, causing the bus to operate during a high signal, low signal, or once per pulse."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/facades.md",
+    "ratio": 0.88,
+    "diff": "OLD Facades can be used to make your base appear more clean. They can cover up both sizes of cable, and be made out of many kinds of blocks.\nNEW Facades can be used to make your base appear cleaner. They can cover up both sizes of cable, and they may be made out of many kinds of blocks.\nOLD They can cover all sides of a cable, but will let [subparts](../ae2-mechanics/cable-subparts.md) and cable connections protrude though.\nNEW Although facades can cover all sides of a cable, [subparts](../ae2-mechanics/cable-subparts.md) and cable connections are allowed to protrude though.\nOLD Facades will be hidden while holding a <a href=\"network_tool.md\">network tool</a> in either hand.\nNEW Facades will be hidden while holding a <ItemLink id=\"network_tool\" /> in either hand.\nOLD Place the block you want the texture of in the middle of 4 <ItemLink id=\"cable_anchor\" />s.\nNEW To make a facade with the texture of a block, place that block in the middle of 4 <ItemLink id=\"cable_anchor\" />s."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/fluix_researcher.md",
+    "ratio": 0.9534883720930233,
+    "diff": "OLD Trades follow the vanilla structure, unlocking a random selection of 2 trades per level (unless that level has only 1 possible trade)\nNEW Trades follow the vanilla structure, unlocking a random selection of 2 trades per level (unless that level has only 1 possible trade)."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/fluix_tools.md",
+    "ratio": 0.9811320754716981,
+    "diff": "OLD You will need to make a <ItemLink id=\"fluix_upgrade_smithing_template\" />\nNEW You will need to make a <ItemLink id=\"fluix_upgrade_smithing_template\" />."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/formation_plane.md",
+    "ratio": 0.9466666666666667,
+    "diff": "OLD like <ItemLink id=\"import_bus\" />ses and <ItemLink id=\"interface\" />s.\nNEW like <ItemLink id=\"import_bus\" />es and <ItemLink id=\"interface\" />s.\nOLD This [device](../ae2-mechanics/devices.md) makes use of the mechanics used by storage busses in things like [pipe subnets](../example-setups/pipe-subnet.md), and can replace storage busses in those setups if you want to drop items/place blocks instead of transport items.\nNEW This [device](../ae2-mechanics/devices.md) makes use of the mechanics used by storage buses in things like [pipe subnets](../example-setups/pipe-subnet.md), and it can replace storage buses in those setups if you want to drop items/place blocks instead of transport items.\nOLD By default the plane will place/drop anything. Items inserted into its filter slots will act as a whitelist, only\nNEW By default, the plane will place/drop anything. Items inserted into its filter slots will act as a whitelist, only"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/guide.md",
+    "ratio": 0.96,
+    "diff": "OLD   Left click and drag to rotate, right click and drag to translate.\nNEW   Left-click and drag to rotate, right-click and drag to translate."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/import_bus.md",
+    "ratio": 0.896551724137931,
+    "diff": "OLD By default the bus will import anything it has access to. Items inserted into its filter slots will act as a whitelist, only\nNEW By default, the bus will import anything it has access to. Items inserted into its filter slots will act as a whitelist, only\nOLD *   <ItemLink id=\"capacity_card\" /> increases the amount of filter slots *   <ItemLink id=\"speed_card\" /> increases the amount of stuff moved per operation *   <ItemLink id=\"fuzzy_card\" /> lets the bus filter by damage level and/or ignore item NBT *   <ItemLink id=\"inverter_card\" /> switches the filter from a whitelist to a blacklist *   <ItemLink id=\"redstone_card\" /> adds redstone control, allowing active on high signal, low signal, or once per pulse\nNEW *   <ItemLink id=\"capacity_card\" /> increases the number of filter slots. *   <ItemLink id=\"speed_card\" /> increases the amount of stuff moved per operation. *   <ItemLink id=\"fuzzy_card\" /> lets the bus filter by damage level and/or ignore item NBT. *   <ItemLink id=\"inverter_card\" /> switches the filter from a whitelist to a blacklist. *   <ItemLink id=\"redstone_card\" /> adds redstone control, causing the bus to operate during a high signal, low signal, or once per pulse."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/inscriber.md",
+    "ratio": 0.9879518072289156,
+    "diff": "OLD As an example, the sidedness and rotateability mean you can semi-automate inscribers like so:\nNEW As an example, the sidedness and rotatability mean you can semi-automate inscribers like so:"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/interface.md",
+    "ratio": 0.9466666666666667,
+    "diff": "OLD depending on what you set it to keep a stock of in its slots. It tries to complete this in a single gametick, so it can fill itself with or empty itself from up to 9 stacks per gametick, making it a fast method of import or export if you have fast item pipes.\nNEW depending on what you set it to keep a stock of in its slots. It tries to complete this in a single game tick, so it can fill itself with or empty itself from up to 9 stacks per game tick, making it a fast method of import or export if you have fast item pipes.\nOLD As previously stated, an interface is essentially a chest/tank with some super duper <ItemLink id=\"import_bus\" />ses and <ItemLink id=\"export_bus\" />ses attached, with a bunch of <ItemLink id=\"level_emitter\" />s.\nNEW As previously stated, an interface is essentially a chest/tank with some super duper <ItemLink id=\"import_bus\" />es and <ItemLink id=\"export_bus\" />es attached, with a bunch of <ItemLink id=\"level_emitter\" />s.\nOLD         A bunch of super duper import busses that can transfer 1 stack per gametick\nNEW         A bunch of super duper import buses that can transfer 1 stack per gametick\nOLD         A bunch of super duper export busses that can transfer 1 stack per gametick\nNEW         A bunch of super duper export buses that can transfer 1 stack per gametick\nOLD         Interface (must be flat, not fullblock)\nNEW         Interface (must be flat, not full-block)\nOLD         Storage Busses\nNEW         Storage Buses"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/level_emitter.md",
+    "ratio": 0.9863013698630136,
+    "diff": "OLD or to activate [a system that handles recursive recipes](../example-setups/recursive-crafting-setup.md) (which standard autocafting cannot understand)\nNEW or to activate [a system that handles recursive recipes](../example-setups/recursive-crafting-setup.md) (which standard autocrafting cannot understand)"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/matter_cannon.md",
+    "ratio": 0.975609756097561,
+    "diff": "OLD the cannon in the storage cell slot in a <ItemLink id=\"chest\" />\nNEW the cannon in the storage cell slot in a <ItemLink id=\"me_chest\" />"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/monitors.md",
+    "ratio": 0.967741935483871,
+    "diff": "OLD If the configured item is [autocraftable](../ae2-mechanics/autocrafting.md) and none are in storage, attemping to take an\nNEW If the configured item is [autocraftable](../ae2-mechanics/autocrafting.md) and none are in storage, attempting to take an\nOLD *   Left-click to extract a stack of the configured item, or request craft of that item if none are in storage.\nNEW *   Left-click to extract a stack of the configured item (or if none are in storage, to request craft of that item)."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/mysterious_cube.md",
+    "ratio": 0.8888888888888888,
+    "diff": "OLD I wonder what happens when you break it (without silk touch)...\nNEW I wonder what happens when you break it (without Silk Touch)...\nOLD You can also make a replica, the Not So Mysterious Cube\nNEW You can also make a replica: the Not So Mysterious Cube.\nOLD \nNEW While you can't make a Mysterious Cube, you can make a replica: the Not So Mysterious Cube. "
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/network_tool.md",
+    "ratio": 0.8863636363636364,
+    "diff": "OLD Right-clicking any part of a network will show a diagnostic info window, similar to right-clicking a <ItemLink id=\"controller\" />. This window shows\nNEW Right-clicking any part of a network will show a diagnostic info window, similar to right-clicking an <ItemLink id=\"controller\" />. This window shows:\nOLD *   The amount of channels in-use on the network\nNEW *   The number of channels in-use on the network\nOLD This window is also helpful for figuring out if two different cables or devices are part of the same network when messing around with\nNEW This window is also helpful for figuring out whether two different cables or devices are part of the same network when messing around with\nOLD <a href=\"facades.md\">Facades</a> will be hidden while holding a network tool in either hand.\nNEW <ItemLink id=\"facade\" />s will be hidden while holding a network tool in either hand."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/paintballs.md",
+    "ratio": 0.9918032786885246,
+    "diff": "OLD Useful as a sort of flaregun I guess.\nNEW Useful as a sort of flare gun, I guess."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/pattern_provider.md",
+    "ratio": 0.985781990521327,
+    "diff": "OLD         (4) Storage Bus #2: IFiltered to blacklist coal, using an inverter card.\nNEW         (4) Storage Bus #2: Filtered to blacklist coal, using an inverter card.\nOLD         Storage Busses\nNEW         Storage Buses\nOLD *Note that this has exactly 8 providers, the maximum amount of channels that can be routed through a single assembler, provider, or\nNEW *Note that this has exactly 8 providers, the maximum number of channels that can be routed through a single assembler, provider, or"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/patterns.md",
+    "ratio": 0.8833333333333333,
+    "diff": "OLD     the ingredients into an entire complex factory production chain which will sort out stuff, take in other ingredients from infinitely-producing     farms, print the entirety of the Bee Movie script, the ME system does not care as long as it gets the result the pattern specifies. In fact,     it doesn't even care if the ingredients are in any way related to the result. You could tell it \"1 cherry wood planks = 1 nether star\" and have     your wither farm kill a wither upon receiving a cherry wood planks and it would work.\nNEW     the ingredients into an entire complex factory production chain which will sort out stuff, taking in other ingredients from infinitely-producing     farms, printing the entirety of the Bee Movie script... The ME system does not care, as long as it gets the result specified by the pattern. In fact,     it doesn't even care if the ingredients are related to the result in any way. You could encode a pattern like \"1 Cherry Wood Planks ⇒ 1 Nether Star\" and have     your Wither farm kill a Wither upon receiving a Cherry Wood Planks, and the automation would work.\nOLD Multiple <ItemLink id=\"pattern_provider\" />s with identical patterns are supported and work in parallel. Additionally, you can have a pattern say, for example, 8 cobblestone = 8 stone instead of 1 cobblestone = 1 stone, and the pattern provider will insert 8 cobblestone into your smelting setup every operation instead of one at a time.\nNEW Multiple <ItemLink id=\"pattern_provider\" />s with identical patterns are supported and work in parallel. Additionally, you can set up a pattern like, for example, 8 cobblestone ⇒ 8 stone instead of 1 cobblestone ⇒ 1 stone, and the pattern provider will insert 8 cobblestone into your smelting setup per operation, instead of one at a time."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/presses.md",
+    "ratio": 0.9256198347107438,
+    "diff": "OLD \nNEW You can use one or two plates at a time in the inscriber. If you use two plates, it will print the name using the combination of both names: first the top slot, then the bottom slot.\nOLD To craft, right click the <ItemLink id=\"certus_quartz_cutting_knife\" /> or <ItemLink id=\"nether_quartz_cutting_knife\" /> and insert an ingot of metal, you will then have to type the name you wish to write onto the plate then simply extract the finished plate. You can use one or two plates at a time in the inscriber, if you use two plates, it will print the name using the combination of both names, top slot, then bottom slot.\nNEW To craft, right-click while holding the <ItemLink id=\"certus_quartz_cutting_knife\" /> or <ItemLink id=\"nether_quartz_cutting_knife\" />, and insert an ingot of metal. You will then have to type the name you wish to write onto the plate, then simply extract the finished plate."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/quantum_bridge.md",
+    "ratio": 0.9848484848484849,
+    "diff": "OLD Of note, **both sides must be chunkloaded** so a <ItemLink id=\"spatial_anchor\" /> or other chunkloader must be used\nNEW Of note, **both sides must be loaded by the game** so a <ItemLink id=\"spatial_anchor\" /> or other chunk loader must be used"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/sky_dust.md",
+    "ratio": 0.9583333333333334,
+    "diff": "OLD Can also be obtained by pointing an <ItemLink id=\"annihilation_plane\" /> upward at world height limit.\nNEW Can also be obtained by pointing an <ItemLink id=\"annihilation_plane\" /> upward at the world's maximum build height."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/sky_stone.md",
+    "ratio": 0.9629629629629629,
+    "diff": "OLD place an annihilation plane facing up at max worldheight to get sky stone dust\nNEW Place an <ItemLink id=\"annihilation_plane\" /> facing upward at the world's maximum build height to get <ItemLink id=\"sky_dust\" />."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/spatial_anchor.md",
+    "ratio": 0.8735632183908046,
+    "diff": "OLD An AE2 network needs to be chunkloaded for any of its [devices](../ae2-mechanics/devices.md) to be able to function, and if only some of it is loaded, it may not function correctly. The Spatial Anchor solves this problem. It forceloads the chunks that its network occupies.\nNEW An AE2 network needs to be chunkloaded for any of its [devices](../ae2-mechanics/devices.md) to be able to function, and if only some of the network is loaded, it may not function correctly. The Spatial Anchor solves this problem. It force-loads the chunks that its network occupies.\nOLD have a quantum bridge to the nether, you need a spatial anchor on the network in your base and on the network in the nether.\nNEW have a quantum bridge to the Nether, you need a spatial anchor on the network in your base and on the network in the Nether.\nOLD By default it will also enable random ticks in its loaded chunks, this can be turned off in the ae2 config.\nNEW By default, it will also enable random ticks in its loaded chunks, but this can be turned off in the AE2 config.\nOLD It can be rotated with a <ItemLink id=\"certus_quartz_wrench\" /> if for some reason you want to do that.\nNEW It can be rotated with a <ItemLink id=\"certus_quartz_wrench\" />, if you want to do that for some reason."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/spatial_io_port.md",
+    "ratio": 0.9583333333333334,
+    "diff": "OLD The cell can be inserted and extracted by any item logistics like hoppers or ae2 busses, if you want to automate it.\nNEW The cell can be inserted and extracted by any item logistics like hoppers or AE2 buses, if you want to automate it."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/storage_bus.md",
+    "ratio": 0.8378378378378378,
+    "diff": "OLD Ever wanted to *keep* your chest monster instead of replacing it with something sensible? We present the Storage Bus!\nNEW Ever wanted to *keep* your chest monster instead of replacing it with something sensible? We present the storage bus!\nOLD inventory in order to fulfill [devices](../ae2-mechanics/devices.md) pushing to and pulling from network storage.\nNEW inventory in order to fulfill the needs of [devices](../ae2-mechanics/devices.md) that push to and pull from network storage.\nOLD to make a storage bus (or handful of storage busses) the *only* storage on a network, you can use it as a source or destination for item transfer. (see [\"pipe subnet\"](../example-setups/pipe-subnet.md))\nNEW to make a storage bus (or handful of storage buses) the *only* storage on a network, you can use it as a source or destination for item transfer. For examples, see [\"pipe subnet\"](../example-setups/pipe-subnet.md).\nOLD IMPORTANT NOTE: Big optimized inventories like drawers are fine, but big *un*optimized inventories with many slots, like colossal chests, are terrible for performance when used with storage busses.\nNEW IMPORTANT NOTE: Big optimized inventories like drawers are fine, but big *unoptimized* inventories with many slots, like colossal chests, are terrible for performance when used with storage buses.\nOLD By default the bus will store everything. Items inserted into its filter slots will act as a whitelist, only\nNEW By default, the bus will store everything. Items inserted into its filter slots will act as a whitelist, only\nOLD Items and fluids can be dragged into the slots from JEI/REI even if you don't actually have any of that item.\nNEW Items and fluids can be dragged into the slots from JEI/REI, even if you don't actually have any of that item.\nOLD *   The network can be disallowed or allowed to see items in the adjacent inventory that the bus cannot extract     (for example, a storage bus cannot extract items from the middle input slot of an <ItemLink id=\"inscriber\" />)\nNEW *   The network can be disallowed or allowed to see items in the adjacent inventory that the bus cannot extract.     For example, a storage bus cannot extract items from the middle input slot of an <ItemLink id=\"inscriber\" />.\nOLD *   The bus can be bi-directional, insert-only, or extract-only\nNEW *   The bus can be bidirectional, insert-only, or extract-only\nOLD *   <ItemLink id=\"void_card\" /> voids items inserted if the attached inventory is full, useful for stopping farms from backing up. Be careful to partition this!\nNEW *   <ItemLink id=\"void_card\" /> voids items inserted if the attached inventory is full. Useful for preventing farms from backing up. Be careful to partition the storage bus!"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/storage_cells.md",
+    "ratio": 0.979253112033195,
+    "diff": "OLD or <ItemLink id=\"chest\" />s.\nNEW or <ItemLink id=\"me_chest\" />s.\nOLD Storage components can be removed from the housing if the cell is empty by shift-right clicking with the cell in your hand.\nNEW Cells can be disassembled back into a storage component and housing: First empty the cell, then shift-right-click with the cell in your hand.\nOLD Cells can be filtered to only accept certain items, similar to how <ItemLink id=\"storage_bus\" />ses can be filtered. This is\nNEW Cells can be filtered to only accept certain items, similar to how <ItemLink id=\"storage_bus\" />es can be filtered. This is\nOLD These act as a tiny <ItemLink id=\"chest\" /> in your pocket, or like a form of backpack. They can be charged in a <ItemLink id=\"charger\" />\nNEW These act as a tiny <ItemLink id=\"me_chest\" /> in your pocket, or like a form of backpack. They can be charged in a <ItemLink id=\"charger\" />\nOLD These act as a tiny <ItemLink id=\"chest\" /> in your pocket, or like a form of backpack. They can be charged in a <ItemLink id=\"charger\" />\nNEW These act as a tiny <ItemLink id=\"me_chest\" /> in your pocket, or like a form of backpack. They can be charged in a <ItemLink id=\"charger\" />"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/terminals.md",
+    "ratio": 0.8857142857142857,
+    "diff": "OLD While <ItemLink id=\"pattern_provider\" />s, <ItemLink id=\"import_bus\" />ses, <ItemLink id=\"storage_bus\" />ses, and the et cetera\nNEW While <ItemLink id=\"pattern_provider\" />s, <ItemLink id=\"import_bus\" />es, <ItemLink id=\"storage_bus\" />es, et cetera\nOLD The searchbox accepts Regex terms, so you can, for example, write \"gtceu:.*ore\" to get all ores from Gregtech. Learning Regex is left as an exercise for the reader.\nNEW The terminal search box accepts regular expression (*regex*) terms. For example, you can write \"gtceu:.*ore\" to get all ores from GregTech. Learning regular expression syntax is left as an exercise for the reader.\nOLD *   Left-click grabs a stack, right-click grabs half a stack.\nNEW *   Left-click grabs a stack. Right-click grabs half a stack.\nOLD *   Right-clicking with a bucket or other fluid container will deposit the fluid, left-clicking a fluid in the terminal with     an empty fluid container will withdraw the fluid.\nNEW *   Right-clicking with a bucket or other fluid container will deposit the fluid. *   Left-clicking a fluid with an empty hand will withdraw a bucket of the fluid, if the network has an empty bucket in storage. Left-clicking a fluid with a fluid container will withdraw the fluid into the container.\nOLD *   View stored, craftable, or both *   View items, fluids, or both\nNEW *   Filter the view to stored, craftable, or both *   Filter the view to items, fluids, or both\nOLD On the right there are slots for <ItemLink id=\"view_cell\" />s\nNEW On the right, there are slots for <ItemLink id=\"view_cell\" />s.\nOLD There are 2 additional buttons, to empty the crafting grid into network storage or your inventory.\nNEW There are 2 additional buttons for emptying the crafting grid into network storage or your inventory.\nOLD [pattern](patterns.md) encoding interface. It looks similar to a crafting terminal's UI but this crafting grid doesn't actually\nNEW [pattern](patterns.md) encoding interface. It looks similar to a crafting terminal's UI, but this crafting grid doesn't actually\nOLD The crafting terminal has the same UI as the regular terminal, added [pattern](patterns.md) encoding interface.\nNEW The pattern encoding terminal has the same UI as the regular terminal, but with an added [pattern](patterns.md) encoding interface.\nOLD A slot for encoded patterns. Place a pattern that has already been encoded in this slot in order to edit it, then click the \"encode\" arrow.  4 tabs on the right to swap the type of pattern to be encoded between\nNEW A slot for encoded patterns. To edit an existing pattern, place the pattern into this slot. You can click the \"encode\" arrow to overwrite with new data.  4 tabs on the right will choose the type of pattern:\nOLD     *   Enabling substitiutions allows things like crafting sticks from any plank type. This should only be used\nNEW     *   Enabling substitutions allows things like crafting sticks from any plank type. This should only be used\nOLD         remove the whole stack and right-click to decrement the stack by 1. Whatever you have bound to \"pick block\" (usually middle-click)\nNEW         remove the whole stack and right-click to decrement the stack by 1. Using the key/button you have bound to \"Pick Block\" (usually middle-click)\nOLD     * Both input and output slots scroll, so you can have 81 different ingredients and 26 secondary outputs\nNEW     * Both input and output slots scroll, so you can have 81 different ingredients and 26 secondary outputs.\nOLD *   The smithing and stonecutting mode UIs work similarly to a smithing table and stonecutter respectively.\nNEW *   The smithing and stonecutting mode UIs work similarly to a smithing table and stonecutter, respectively.\nOLD The Pattern Access Terminal serves to solve a specific issue: in a dense tower of <ItemLink id=\"pattern_provider\" />s\nNEW The pattern access terminal allows access to all pattern providers on the network. This serves to solve a specific issue: in a dense tower of <ItemLink id=\"pattern_provider\" />s\nOLD perhaps you're lazy and don't want to walk across your base to insert a [pattern](patterns.md). The pattern access terminal allows access to all pattern providers on the network.\nNEW perhaps you're lazy and don't want to walk across your base to insert or update a [pattern](patterns.md).\nOLD Pattern providers in the terminal are sorted by what blocks they are connected to, or what name you have given them (in an anvil or with a <ItemLink id=\"name_press\" />).\nNEW Pattern providers in the terminal are sorted and grouped by which blocks they are connected to, or what name you have given them (using a <ItemLink id=\"name_press\" /> or an anvil)."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/upgrade_cards.md",
+    "ratio": 0.9647058823529412,
+    "diff": "OLD Capacity cards increase the amount of filter slots in import, export, and storage busses, and formation planes.\nNEW Capacity cards increase the amount of filter slots in import, export, and storage buses, as well as formation planes.\nOLD Acceleration cards make stuff go faster, making import and export busses move more items per operation, and making inscribers and assemblers work faster.\nNEW Acceleration cards make stuff go faster. Import and export buses can move more items per operation, and inscribers and assemblers complete operations faster.\nOLD Equal distribution cards can be applied to [storage cells](storage_cells.md) in a <ItemLink id=\"cell_workbench\" /> and split the cell into equally-sized sections based on what the card is [partitioned](cell_workbench.md) to. This prevents one item type from completely filling the cell.\nNEW Equal distribution cards can be applied to [storage cells](storage_cells.md) in a <ItemLink id=\"cell_workbench\" />. They split the cell into equally-sized sections based on what the card is [partitioned](cell_workbench.md) to. This prevents one item type from completely filling the cell."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/vibration_chamber.md",
+    "ratio": 0.875,
+    "diff": "OLD By default (no [upgrades](upgrade_cards.md) and default configs) it makes 40 AE/t.\nNEW By default (no [upgrades](upgrade_cards.md) and default configs), it makes 40 AE/t.\nOLD fuel, but cannot fully shut off.\nNEW fuel, but it cannot fully shut off.\nOLD The properties of the vibration chamber can be edited in common.json in the ae2 folder in the config folder of your .minecraft\\\nNEW The properties of the vibration chamber can be edited in common.json in the AE2 folder in the config folder of your `.minecraft\\`\nOLD *   baseEnergyPerFuelTick sets the base, un-upgraded efficiency of the vibration chamber. *   minEnergyPerGameTick sets the lowest possible energy generation (the chamber will always slowly use some fuel even if the network\nNEW *   `baseEnergyPerFuelTick` sets the base, un-upgraded efficiency of the vibration chamber. *   `minEnergyPerGameTick` sets the lowest possible energy generation (the chamber will always slowly use some fuel, even if the network\nOLD *   maxEnergyPerGameTick sets the un-upgraded max output (and speed) of the vibration chamber.\nNEW *   `maxEnergyPerGameTick` sets the non-upgraded max output (and speed) of the vibration chamber."
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/wrench.md",
+    "ratio": 0.9117647058823529,
+    "diff": "OLD Wrenches are used to rotate ae2 devices (right-click), and disassemble ae2 blocks (shift-right-click).\nNEW Wrenches are used to rotate (right-click) and disassemble (shift-right-click) AE2 devices, machines, and other blocks.\nOLD (or the cable can be removed without breaking the subparts.)\nNEW (or the cable can be removed without breaking the subparts).\nOLD Many ae2 blocks can be rotated, so just because this guide doesn't say you can rotate something doesn't mean you can't.\nNEW Many AE2 blocks can be rotated, so just because this guide doesn't say you can rotate something doesn't mean you can't."
+  },
+  {
+    "path": "assets/ae2netanalyser/ae2guide/ae2_network_analyser.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/ae2netanalyser/ae2guide/ae2_tick_profiler.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/appflux-index.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/diamond_dust.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/emerald_dust.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/energy_processor.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/flux_accessor.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/flux_cells.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/induction_card.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/insulating_resin.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/mark_energy.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/portable_flux_cells.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/redstone_crystal.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/appflux/ae2guide/appflux/terminal_interact.md",
+    "ratio": 1.0,
+    "diff": ""
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/active_formation_plane.md",
+    "ratio": 0.8571428571428571,
+    "diff": "OLD ME Active Formation Plane is a <ItemLink id=\"ae2:formation_plane\" /> that can place block or drop items actively.\nNEW The ME Active Formation Plane is a <ItemLink id=\"ae2:formation_plane\" /> that can actively place blocks or drop items.\nOLD You don't need to set up a subnet for it. It works like an <ItemLink id=\"ae2:export_bus\" /> but place block instead of outputting it to a chest.\nNEW You do not need to set up a subnet for it. It works like an <ItemLink id=\"ae2:export_bus\" />, but it places blocks instead of outputting items to a chest."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/assembler_matrix.md",
+    "ratio": 0.7832167832167832,
+    "diff": "OLD Assembler Matrix is a multiblock structure. It is an combination of <ItemLink id=\"ae2:molecular_assembler\" /> and <ItemLink id=\"ae2:pattern_provider\" />. It can run a lot of crafting jobs at the same (with enough <ItemLink id=\"ae2:crafting_accelerator\" />s in your ME network) and save channels for you.\nNEW The Assembler Matrix is a multiblock structure. It is a combination of a <ItemLink id=\"ae2:molecular_assembler\" /> and a <ItemLink id=\"ae2:pattern_provider\" />. It can run many crafting jobs at the same time (with enough <ItemLink id=\"ae2:crafting_accelerator\" />s in your ME network) and save network channels.\nOLD It is a rectangular prism, with edge lengths between 3 and 7.  - Edges composed of Assembler Matrix Frame. - Faces composed of Assembler Matrix Wall/Glass. - Interior composed of Assembler Matrix Pattern/Craft/Speed Core.\nNEW It is a rectangular prism with edge lengths between 3 and 7.\nOLD A valid Assembler Matrix must contain at least one pattern core and craft core. \nNEW - Its edges are composed of Assembler Matrix Frames. - Its faces are composed of Assembler Matrix Wall or Assembler Matrix Glass blocks. - Its interior is composed of Assembler Matrix Pattern, Craft, or Speed Cores.  A valid Assembler Matrix must contain at least one Pattern Core and one Craft Core.\nOLD When Assembler Matrix is correctly formed and powered, the lines on Assembler Matrix Frame will turn blue.\nNEW When the Assembler Matrix is correctly formed and powered, the lines on its frames turn blue.\nOLD There are 3 different Assembler Matrix Cores.\nNEW There are three different Assembler Matrix Cores.\nOLD Assembler Matrix only take patterns from its pattern core. Each pattern core provides 36 pattern slots for Assembler Matrix.\nNEW The Assembler Matrix takes patterns only from its Pattern Cores. Each Pattern Core provides 36 pattern slots for the Assembler Matrix.\nOLD Assembler Matrix will assign the received crafting jobs to its craft core. Each craft core can run 8 crafting jobs at the same time.\nNEW The Assembler Matrix assigns received crafting jobs to its Craft Cores. Each Craft Core can run eight crafting jobs at the same time.\nOLD It is the <ItemLink id=\"ae2:speed_card\" /> for Assembler Matrix. 5 speed cores allow the Assembler Matrix to run at full speed. Installing more than 5 speed cores won't give extra speed boost.\nNEW It acts as the <ItemLink id=\"ae2:speed_card\" /> for the Assembler Matrix. Five Speed Cores allow the Assembler Matrix to run at full speed. Installing more than five Speed Cores will not provide an additional speed boost.\nOLD Right-click on a formed and online Assembler Matrix will open it GUI.\nNEW Right-clicking a formed and online Assembler Matrix opens its GUI.\nOLD You can put or search patterns in it, and view how many crafting jobs it is running.\nNEW You can insert or search for patterns in it and view how many crafting jobs it is running."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/caner.md",
+    "ratio": 0.7863247863247863,
+    "diff": "OLD ME Canner is a machine that \"canning\" stuffs, including fluids, Mekanism gas, Botania mana and even Energy!\nNEW The ME Canner is a machine that cans various resources, including fluids, Mekanism gases, Botania mana, and even energy!\nOLD The first slot is for what to fill, and the second slot is for what to be filled.\nNEW The first slot holds the filling resource, and the second holds the container to be filled.\nOLD It needs energy to run and every operation costs 80 AE.\nNEW It needs energy to run, and every operation costs 80 AE.\nOLD It only fills fluids by default, you need to install corresponding addon to make it fill other stuffs.\nNEW By default, it only fills fluids. You need to install the corresponding add-on to make it fill other resources.\nOLD ### Support addons:\nNEW ## Supported Add-ons \nOLD ## Autocrafting with ME Caner\nNEW ## Autocrafting with the ME Canner\nOLD Only the top and bottom side can accept energy and connect to network.\nNEW Only the top and bottom sides can accept energy and connect to the network.\nOLD A simple setup for ME Canner. ME Canner will auto eject the filled item when it accepts the ingredients from <ItemLink id=\"ae2:pattern_provider\" />.\nNEW A simple setup for the ME Canner. The ME Canner automatically ejects the filled item when it receives the ingredients from a <ItemLink id=\"ae2:pattern_provider\" />.\nOLD The pattern must only contain the stuff to fill and the container to be filled. Here are some examples:\nNEW The pattern must contain only the resource used to fill and the container to be filled. Here are some examples:\nOLD Fill water bucket:\nNEW Fill a water bucket:\nOLD Empower Energy Tablet (Need Applied Flux installed):\nNEW Charge an Energy Tablet (requires Applied Flux):\nOLD ME Canner also can drain stuffs from container in Empty mode. You need to switch the inputs and outputs in pattern.\nNEW The ME Canner can also drain resources from a container in Empty mode. You need to swap the inputs and outputs in the pattern."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/circuit_cutter.md",
+    "ratio": 0.8636363636363636,
+    "diff": "OLD Can't tolerate the slow speed of inscriber? Now we have the Circuit Slicer! They can slice material block into processor  [prints](ae2:items-blocks-machines/processors.md) directly, so they are 9x faster than inscriber at most time.\nNEW Tired of the Inscriber's slow speed? Try the Circuit Slicer! It can slice material blocks directly into processor [prints](ae2:items-blocks-machines/processors.md), making it up to nine times faster than an Inscriber in most cases.\nOLD **Notice: The glass faces that don't have port can't connect to network.**\nNEW **Notice: Glass faces without ports cannot connect to the network.**"
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/concurrent_processor.md",
+    "ratio": 0.9545454545454546,
+    "diff": "OLD Concurrent Processor is commonly used in multi-thread machines, so they can handle multiple works at the same time.\nNEW The Concurrent Processor is commonly used in multithreaded machines, allowing them to handle multiple tasks at the same time."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/config_modifier.md",
+    "ratio": 0.6923076923076923,
+    "diff": "OLD Config Modifier is a tool for bulk config inventory modification.\nNEW The Config Modifier is a tool for modifying configuration inventories in bulk.\nOLD Right click it to open its GUI.\nNEW Right-click it to open its GUI.\nOLD Config Modifier can modify things like interface's config inventory by its settings quickly, like setting the config items  amount to the maximum value or just removing all of them.\nNEW The Config Modifier can quickly modify configuration inventories, such as an interface's configuration inventory, according to its settings. For example, it can set configured item amounts to the maximum value or remove them all.\nOLD You can click the target device(block or subpart) in world with Config Modifier to modify its config.\nNEW Use the Config Modifier on a target device (block or subpart) in the world to modify its configuration.\nOLD It has two main settings, the **modification mode** and **modification amount(X)**.\nNEW It has two main settings: the **modification mode** and the **modification amount (X)**.\nOLD You can click the button to change mode.\nNEW Click the button to change the mode.\nOLD - Add/Subtract/Multiply/Divide: Add/Subtract/Multiply/Divide the number of config amount by X. - Maximize: Set the number of config amount to the maximum value. - Minimize: Set the number of config amount to the minimum value. - Set: Set the number of config amount to X. - Clear: Clear all config.\nNEW - Add/Subtract/Multiply/Divide: Add, subtract, multiply, or divide each configured amount by X. - Maximize: Set each configured amount to the maximum value. - Minimize: Set each configured amount to the minimum value. - Set: Set each configured amount to X. - Clear: Clear the entire configuration."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/crystal_assembler.md",
+    "ratio": 0.8636363636363636,
+    "diff": "OLD Those extended devices are too complex for crafting table to craft, and you will need Crystal Assembler to craft most of them.\nNEW Most ExtendedAE devices are too complex to craft using a crafting table, so you will need a Crystal Assembler to craft them.\nOLD **Notice: The screen face can't connect to network.**\nNEW **Notice: The screen face cannot connect to the network.**\nOLD It also can perform certain in-world transformation recipes, like fluix transformation.\nNEW It can also perform certain in-world transformation recipes, such as Fluix transformation."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/crystal_fixer.md",
+    "ratio": 0.9166666666666666,
+    "diff": "OLD ME Crystal Fixer can repair budding certus block and turn it to the upgraded one.\nNEW The ME Crystal Fixer can repair a Budding Certus Quartz block and turn it into its upgraded form.\nOLD It needs <ItemLink id=\"ae2:charged_certus_quartz_crystal\" /> and power to work. Right-click it with <ItemLink id=\"ae2:charged_certus_quartz_crystal\" /> to input.\nNEW It requires a <ItemLink id=\"ae2:charged_certus_quartz_crystal\" /> and power to operate. Right-click it with a <ItemLink id=\"ae2:charged_certus_quartz_crystal\" /> to insert the crystal."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/entro_block.md",
+    "ratio": 0.9444444444444444,
+    "diff": "OLD A storage block for <ItemLink id=\"extendedae:entro_crystal\" />.\nNEW A storage block for <ItemLink id=\"extendedae:entro_crystal\" />s."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/entro_budding.md",
+    "ratio": 0.8181818181818182,
+    "diff": "OLD They are the source of <ItemLink id=\"extendedae:entro_crystal\" /> and you can get Budding Entroized Fluix by injecting <ItemLink id=\"extendedae:entro_seed\" /> to <ItemLink id=\"ae2:fluix_block\" />.\nNEW Budding Entroized Fluix is the source of <ItemLink id=\"extendedae:entro_crystal\" />s. You can obtain it by injecting an <ItemLink id=\"extendedae:entro_seed\" /> into a <ItemLink id=\"ae2:fluix_block\" />.\nOLD The Entro Buds growing mechanism is similar to [Certus Quartz](ae2:items-blocks-machines/budding_certus.md). However, the degradation progressing of Budding Entroized Fluix is unavoidable, and finally it will be turned into <ItemLink id=\"ae2:quartz_block\" />. Theoretically, you can get ~10 <ItemLink id=\"extendedae:entro_crystal\" />s from a Fully Entroized Fluix without fortune enchantment.\nNEW The growth mechanism of Entro Buds is similar to that of [Certus Quartz](ae2:items-blocks-machines/budding_certus.md). However, the degradation of Budding Entroized Fluix is unavoidable, and it will eventually turn into a <ItemLink id=\"ae2:quartz_block\" />. Theoretically, you can obtain about 10 <ItemLink id=\"extendedae:entro_crystal\" />s from a Fully Entroized Fluix without the Fortune enchantment.\nOLD Budding Entroized Fluix will always drop **one** <ItemLink id=\"extendedae:entro_dust\" /> when broken, regardless what state it's in. Entro bud will drop <ItemLink id=\"extendedae:entro_shard\" /> when it isn't fully grown.\nNEW Budding Entroized Fluix will always drop **one** <ItemLink id=\"extendedae:entro_dust\" /> when broken, regardless of its state. An Entro Bud will drop an <ItemLink id=\"extendedae:entro_shard\" /> when it is not fully grown."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/entro_crystal.md",
+    "ratio": 0.8181818181818182,
+    "diff": "OLD *\"Entro Crystals show the extreme strong dimensional affinity after injecting Ender Dust to Fluix Crystals, and can resonate over space-time.\"*\nNEW *\"Entro Crystals exhibit an extremely strong dimensional affinity after Ender Dust is injected into Fluix Crystals, allowing them to resonate across space-time.\"*\nOLD The main crafting ingredient for most ExtendedAE items and machines. You need to use <ItemLink id=\"extendedae:entro_seed\" /> to turn <ItemLink id=\"ae2:fluix_block\" /> into [Entroized Fluix Budding](./entro_budding.md), and harvest Entro Cluster to get Entro Crystals.\nNEW Entro Crystals are the main crafting ingredient for most ExtendedAE items and machines. Use an <ItemLink id=\"extendedae:entro_seed\" /> to turn a <ItemLink id=\"ae2:fluix_block\" /> into [Entroized Fluix Budding](./entro_budding.md), then harvest an Entro Cluster to obtain Entro Crystals."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/entro_dust.md",
+    "ratio": 0.95,
+    "diff": "OLD You can get it by crushing a <ItemLink id=\"extendedae:entro_crystal\" /> or breaking [Entroized Fluix Budding](./entro_budding.md).\nNEW You can obtain it by crushing an <ItemLink id=\"extendedae:entro_crystal\" /> or breaking [Entroized Fluix Budding](./entro_budding.md)."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/entro_ingot.md",
+    "ratio": 0.9,
+    "diff": "OLD *\"Entro Crystal is too friable to use in machine frame, but we can fuse it with gold ingot to improve its ductility.\"*\nNEW *\"An Entro Crystal is too brittle to use in a machine frame, but it can be fused with a gold ingot to improve its ductility.\"*\nOLD It is used to craft <ItemLink id=\"extendedae:machine_frame\" /> and other a few ExtendedAE stuffs.\nNEW It is used to craft <ItemLink id=\"extendedae:machine_frame\" /> and several other ExtendedAE items."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/entro_seed.md",
+    "ratio": 0.85,
+    "diff": "OLD These seeds contain strong Entro energy. Right click <ItemLink id=\"ae2:fluix_block\" /> with entro seed to turn it into [Entroized Fluix Budding](./entro_budding.md) or you can use <ItemLink id=\"extendedae:crystal_assembler\" /> to inject the seed, but it gives lower grade [Entroized Fluix Budding](./entro_budding.md) compared with the manual route.\nNEW These seeds contain potent Entro energy. Right-click a <ItemLink id=\"ae2:fluix_block\" /> with an Entro Seed to turn it into [Entroized Fluix Budding](./entro_budding.md), or use a <ItemLink id=\"extendedae:crystal_assembler\" /> to inject the seed. However, this produces lower-grade [Entroized Fluix Budding](./entro_budding.md) than the manual method."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/entro_shard.md",
+    "ratio": 0.9473684210526315,
+    "diff": "OLD You will get Entro Shard if you break [Entro bud](./entro_budding.md) when it isn't fully grown. 8 Entro Shards can be crafted back to\nNEW You will get an Entro Shard if you break an [Entro Bud](./entro_budding.md) before it is fully grown. Eight Entro Shards can be crafted back into an"
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/epp_intro-index.md",
+    "ratio": 0.8695652173913043,
+    "diff": "OLD # Extended Your AE setup!\nNEW # Extend Your AE Setup!\nOLD Extended AE brings some 1.7.10/1.12.2 AE features back for modern AE.\nNEW Extended AE brings some AE features from Minecraft 1.7.10 and 1.12.2 to modern versions of AE.\nOLD [Extended AE GitHub](https://github.com/GlodBlock/ExtendedAE) \nNEW [Extended AE GitHub](https://github.com/GlodBlock/ExtendedAE)"
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_charger.md",
+    "ratio": 0.9,
+    "diff": "OLD Extended Charger is an advanced <ItemLink id=\"ae2:charger\" />.\nNEW The Extended Charger is an advanced <ItemLink id=\"ae2:charger\" />.\nOLD It can charge 4 items at the same time.\nNEW It can charge four items at the same time."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_drive.md",
+    "ratio": 0.9444444444444444,
+    "diff": "OLD ME Extended Drive is a <ItemLink id=\"ae2:drive\" /> with a larger cell inventory. It can hold 20 storage cells.\nNEW The ME Extended Drive is an <ItemLink id=\"ae2:drive\" /> with a larger cell inventory. It can hold 20 storage cells."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_interface.md",
+    "ratio": 0.9230769230769231,
+    "diff": "OLD ME Extended Interface is a <ItemLink id=\"ae2:interface\" /> with a larger config inventory.\nNEW The ME Extended Interface is an <ItemLink id=\"ae2:interface\" /> with a larger configuration inventory.\nOLD *Am I actually need this?*\nNEW *Do I actually need this?*"
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_io_bus.md",
+    "ratio": 0.8928571428571429,
+    "diff": "OLD ME Extended Import/Export Bus works faster than the normal <ItemLink id=\"ae2:import_bus\" />/<ItemLink id=\"ae2:export_bus\" /> (Default speed multiplier is 8. It is configurable).\nNEW The ME Extended Import and Export Buses work faster than the standard <ItemLink id=\"ae2:import_bus\" /> and <ItemLink id=\"ae2:export_bus\" /> (the default speed multiplier is 8, but it is configurable).\nOLD They also have more upgrade slots compared with the normal ones.\nNEW They also have more upgrade slots than the standard buses."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_io_port.md",
+    "ratio": 0.9,
+    "diff": "OLD ME Extended IO Port works 8x faster than the normal <ItemLink id=\"ae2:io_port\" />.\nNEW The ME Extended IO Port works eight times faster than a standard <ItemLink id=\"ae2:io_port\" />.\nOLD They also have more upgrade slots compared with the normal ones.\nNEW It also has more upgrade slots than a standard IO Port."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_modecular_assembler.md",
+    "ratio": 0.8333333333333334,
+    "diff": "OLD Extended Molecular Assembler is an advanced <ItemLink id=\"ae2:molecular_assembler\" />.\nNEW The Extended Molecular Assembler is an advanced <ItemLink id=\"ae2:molecular_assembler\" />.\nOLD It can run 8 crafting jobs at the same time (of course you need <ItemLink id=\"ae2:crafting_accelerator\" /> in your ME network at first) and 2x faster than the normal one.\nNEW It can run eight crafting jobs at the same time (provided that your ME network contains a <ItemLink id=\"ae2:crafting_accelerator\" />) and is twice as fast as a standard Molecular Assembler.\nOLD However, it only supports the crafting job from <ItemLink id=\"ae2:pattern_provider\" />. So you can't put a pattern in it directly.\nNEW However, it only supports crafting jobs from a <ItemLink id=\"ae2:pattern_provider\" />, so you cannot insert a pattern directly."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_pattern_provider.md",
+    "ratio": 0.9285714285714286,
+    "diff": "OLD ME Extended Pattern Provider is a <ItemLink id=\"ae2:pattern_provider\" /> with a larger \nNEW The ME Extended Pattern Provider is a <ItemLink id=\"ae2:pattern_provider\" /> with a larger\nOLD *Who need subnet when you can put all patterns in one block.*\nNEW *Who needs a subnet when you can put all your patterns in one block?*"
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_pattern_terminal.md",
+    "ratio": 0.8636363636363636,
+    "diff": "OLD ME Extended Pattern Access Terminal provides 3 extra additional features compared with <ItemLink id=\"ae2:pattern_access_terminal\" />.\nNEW The ME Extended Pattern Access Terminal provides three additional features compared with the <ItemLink id=\"ae2:pattern_access_terminal\" />.\nOLD You can search pattern by input/output ingredients' name.\nNEW You can search for patterns by the names of their input or output ingredients.\nOLD Sometimes it is still hard to find the desired pattern because patterns are always displayed as a group. Now the Extended Pattern Access Terminal can highlight the matched pattern in GUI.\nNEW Sometimes it is still difficult to find the desired pattern because patterns are always displayed as a group. The Extended Pattern Access Terminal can highlight the matching pattern in the GUI.\nOLD It's annoying to find out which Pattern Provider is stuck when doing large crafting jobs. Extended Pattern Access Terminal can highlight the Pattern Provider in world, so you can locate it easily.\nNEW It can be difficult to determine which Pattern Provider is stuck during a large crafting job. The Extended Pattern Access Terminal can highlight the Pattern Provider in the world, making it easy to locate."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/infinity_cell.md",
+    "ratio": 0.8888888888888888,
+    "diff": "OLD An easy water and cobblestone sink but in storage cell form.\nNEW A convenient source and sink for unlimited water and cobblestone in storage cell form.\nOLD They hold 2.1 billion items/fluids, and you can extract infinity cobblestone/water from them or inject infinity  cobblestone/water into them.\nNEW Each cell has a capacity of 2.1 billion units, and you can extract or insert unlimited amounts of cobblestone or water."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/ingredient_buffer.md",
+    "ratio": 0.9375,
+    "diff": "OLD A storage block that can hold 36 types of anything, ranging from items to fluids.\nNEW The ME Ingredient Buffer is a storage block that can hold 36 types of resources, ranging from items to fluids."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/machine_frame.md",
+    "ratio": 0.8947368421052632,
+    "diff": "OLD After gathering enough <ItemLink id=\"extendedae:entro_crystal\" />, you finally can craft the first Extended Machine Frame. These frames are the foundation of ExtendedAE, and most block form machines in ExtendedAE will need them.\nNEW After gathering enough <ItemLink id=\"extendedae:entro_crystal\" />, you can finally craft your first Extended Machine Frame. These frames are the foundation of ExtendedAE, and most block-form machines in ExtendedAE require them."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/mod_export_bus.md",
+    "ratio": 0.9090909090909091,
+    "diff": "OLD ME Mod Export Bus is a <ItemLink id=\"ae2:export_bus\" /> that that can be filtered by mod name or mod id.\nNEW The ME Mod Export Bus is an <ItemLink id=\"ae2:export_bus\" /> that can be filtered by mod name or mod ID.\nOLD Use comma to separate multiple mod ids in case you want to filter multiple mods.\nNEW Use commas to separate multiple mod IDs when filtering for multiple mods."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/mod_storage_bus.md",
+    "ratio": 0.9090909090909091,
+    "diff": "OLD ME Mod Storage Bus is a <ItemLink id=\"ae2:storage_bus\" /> that can be filtered by mod name or mod id.\nNEW The ME Mod Storage Bus is an <ItemLink id=\"ae2:storage_bus\" /> that can be filtered by mod name or mod ID.\nOLD Use comma to separate multiple mod ids in case you want to filter multiple mods.\nNEW Use commas to separate multiple mod IDs when filtering for multiple mods."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/oversize_interface.md",
+    "ratio": 0.88,
+    "diff": "OLD ME Oversize Interface has the same number of slots as <ItemLink id=\"extendedae:ex_interface\" />, but it can hold x16 time (configurable) more items per slot. It means it can hold 1024 (64x16) items per slot.\nNEW The ME Oversize Interface has the same number of slots as an <ItemLink id=\"extendedae:ex_interface\" />, but each slot can hold 16 times as many items by default (configurable). This means it can hold 1024 (64 x 16) items per slot.\nOLD Certain stuff from other mods can have specific multiplier by config.\nNEW Specific multipliers can be configured for certain content from other mods."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/packing_tape.md",
+    "ratio": 0.8913043478260869,
+    "diff": "OLD ME Packing Tape can pack in-world ME Device into a Packaged Device item\nNEW ME Packing Tape can pack an in-world ME device into a Packaged Device item.\nOLD Sneak + Mouse Right Click on ME Device with the tape, and you can get a package item from it. All settings and inventory of the device will be kept. It can be very useful when you are moving your ME setup.\nNEW Sneak-right-click an ME device with the tape to turn it into a package item. All settings and inventory contents of the device are preserved. This is useful when moving your ME setup.\nOLD Notice that ME Packing Tape only supports the devices on list, the device list is configurable.\nNEW ME Packing Tape supports only devices on the list. This device list is configurable.\nOLD Just right mouse click with the package item as if it is the device block or part, then the packaged device will be recovered\nNEW Right-click with the package item as though placing the original device block or part. The packaged device will then be restored"
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/pattern_modifier.md",
+    "ratio": 0.8055555555555556,
+    "diff": "OLD Pattern Modifier is a tool for bulk pattern modification.\nNEW The Pattern Modifier is a tool for modifying patterns in bulk.\nOLD Right click it to open its GUI.\nNEW Right-click it to open its GUI.\nOLD You can multiply/divide processing pattern's input and output amount by x by clicking the corresponding button. \nNEW You can multiply or divide the input and output quantities of processing patterns by x by clicking the corresponding button.\nOLD Origin Pattern:\nNEW Original Pattern:\nOLD It also can clear all patterns contents and turn them into blank patterns by clicking the Clear button.\nNEW You can also clear the contents of all patterns and turn them into blank patterns by clicking the Clear button.\nOLD ### Notes:\nNEW ### Notes\nOLD  - The division button only works when its amount is divisible. For example ÷2 button won't work when pattern requires 3x cobblestones as input, because 3÷2 is 1.5.\nNEW - The division button works only when the amount is evenly divisible. For example, the ÷2 button does not work when a pattern requires 3 cobblestone as input because 3÷2 is 1.5.\nOLD  - The multiplication button has a cap(999999). It can't make single ingredient's amount over this number.\nNEW - The multiplication button has a cap of 999999. It cannot increase the amount of a single ingredient beyond this number.\nOLD Replace pattern's certain input and output ingredient with the other item.\nNEW Replace a specific input or output ingredient in patterns with another item.\nOLD The slot A is what will be replaced and slot B is what the target will be replaced with.\nNEW Slot A contains the ingredient to replace, and slot B contains its replacement.\nOLD For example, the following setting will replace the plank with coal.\nNEW For example, the following setting replaces the plank with coal.\nOLD Modify crafting pattern's Substitutions and Fluid Substitutions mode.\nNEW Modify the Substitutions and Fluid Substitutions settings of crafting patterns.\nOLD You make copy any give pattern in this mode.\nNEW You can copy any given pattern in this mode."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/precise_export_bus.md",
+    "ratio": 0.8928571428571429,
+    "diff": "OLD ME Precise Export Bus exports items/fluids in specified quantities. It only exports if the container can fully accept the entire output.\nNEW The ME Precise Export Bus exports items or fluids in specified quantities. It exports only when the container can accept the entire output.\nOLD This means exporting 3 cobblestones per operation. It stops exporting when cobblestones amount is lower than 3 in network.\nNEW This setting exports 3 units of cobblestone per operation. It stops exporting when the network contains fewer than 3 units.\nOLD It also stops exporting when the target container can't hold all it exported. The chest only can hold 2 more cobblestones now, so the export bus stops.\nNEW It also stops exporting when the target container cannot hold the entire output. The chest can hold only 2 more units of cobblestone, so the export bus stops."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/precise_storage_bus.md",
+    "ratio": 0.95,
+    "diff": "OLD ME Precise Storage Bus is a <ItemLink id=\"ae2:storage_bus\" /> that can be filtered with a number, and it will only insert items up to that limit.\nNEW The ME Precise Storage Bus is an <ItemLink id=\"ae2:storage_bus\" /> with a configurable quantity limit. It inserts items only up to that limit."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/quartz_blend.md",
+    "ratio": 0.9,
+    "diff": "OLD A mixture of quartz, coal and sands. It can be smelt into more <ItemLink id=\"ae2:silicon\" />s than directly smelting  certus quartz dusts.\nNEW A mixture of quartz, coal, and sand. Smelting it produces more <ItemLink id=\"ae2:silicon\" /> than smelting certus quartz dust directly."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/silicon_block.md",
+    "ratio": 0.9444444444444444,
+    "diff": "OLD A storage block for <ItemLink id=\"ae2:silicon\" />.\nNEW A block used to store <ItemLink id=\"ae2:silicon\" />."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/smart_annihilation_plane.md",
+    "ratio": 0.8571428571428571,
+    "diff": "OLD ME Smart Annihilation Plane is a <ItemLink id=\"ae2:annihilation_plane\" /> that can break blocks or absorb items by its config inventory.\nNEW The ME Smart Annihilation Plane is an <ItemLink id=\"ae2:annihilation_plane\" /> that can break blocks or absorb items according to its configuration inventory.\nOLD You don't need to set up a subnet for it. It works like an <ItemLink id=\"ae2:import_bus\" /> but breaks block instead of import it from a chest.\nNEW You do not need to set up a subnet for it. It works like an <ItemLink id=\"ae2:import_bus\" />, but it breaks blocks instead of importing items from a chest."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/tag_export_bus.md",
+    "ratio": 0.9047619047619048,
+    "diff": "OLD ME Tag Export Bus is a <ItemLink id=\"ae2:export_bus\" /> that that can be filtered by item or fluid tags.\nNEW The ME Tag Export Bus is an <ItemLink id=\"ae2:export_bus\" /> that can be filtered by item or fluid tags.\nOLD Its filter rule is same as <ItemLink id=\"extendedae:tag_storage_bus\" />.\nNEW Its filter rules are the same as those of the <ItemLink id=\"extendedae:tag_storage_bus\" />."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/tag_storage_bus.md",
+    "ratio": 0.8620689655172413,
+    "diff": "OLD ME Tag Storage Bus is a <ItemLink id=\"ae2:storage_bus\" /> that can be filtered by item or fluid tags and supports some basic logic operator.\nNEW The ME Tag Storage Bus is an <ItemLink id=\"ae2:storage_bus\" /> that can be filtered by item or fluid tags and supports basic logical operators.\nOLD - Only accept raw ore\nNEW - Accept only raw ore\nOLD c:raw_materials/*\nNEW `c:raw_materials/*`\nOLD c:ingots/* | c:gems/*\nNEW `c:ingots/* | c:gems/*`"
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/threshold_export_bus.md",
+    "ratio": 0.8928571428571429,
+    "diff": "OLD ME Threshold Export Bus works when the quantity of an item that stored in ME network is above/below the threshold.\nNEW The ME Threshold Export Bus operates when the quantity of an item stored in the ME network is above or below the threshold.\nOLD The threshold of copper is set to 128, so it exports copper when the stored copper in network is over 128.\nNEW The copper threshold is set to 128, so the bus exports copper when the network stores more than 128.\nOLD The threshold is same as above, but the mode is set to BELOW. it exports copper when the stored copper is below 128.\nNEW The threshold is the same as above, but the mode is set to BELOW. The bus exports copper when the network stores less than 128."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/threshold_level_emitter.md",
+    "ratio": 0.7586206896551724,
+    "diff": "OLD It works like Reset-Set Latch. It turns off redstone signal when the quantity of an item in network is less than the lower threshold and turn on when the quantity is greater than the upper threshold.\nNEW It works like a reset-set latch. It turns off its redstone signal when the quantity of an item in the network is less than the lower threshold and turns it on when the quantity is greater than the upper threshold.\nOLD For example, given lower threshold is set 100 and upper threshold is set 150.\nNEW For example, suppose the lower threshold is set to 100 and the upper threshold is set to 150.\nOLD At first the network is empty, so the emitter won't be active.\nNEW At first, the network is empty, so the emitter is inactive.\nOLD As the quantity of the item growing up and over 150, the emitter will send redstone signal.\nNEW When the quantity of the item increases above 150, the emitter sends a redstone signal.\nOLD When the quantity declining and less than 150, the emitter still sends signal.\nNEW When the quantity decreases below 150, the emitter continues to send the signal.\nOLD At last the quantity is less than 100, the emitter will be turned off.\nNEW When the quantity falls below 100, the emitter turns off."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/upgrade_items.md",
+    "ratio": 0.9152542372881356,
+    "diff": "OLD These upgrades allow you to replace normal ME devices with their extended version without breaking them.\nNEW These upgrades allow you to replace normal ME devices with their extended versions without breaking them.\nOLD Sneak + Right Mouse Click on these devices, they will be turned into their extended version. All device settings and inventory will be kept.\nNEW Sneak-right-click these devices with the corresponding upgrades to turn them into their extended versions. All device settings and inventory contents are preserved.\nOLD         The normal Pattern Providers. You can upgrade them with Pattern Provider Upgrade.\nNEW         Normal Pattern Providers. You can upgrade them with a Pattern Provider Upgrade.\nOLD         The Extended Pattern Providers keep all settings and pattern inventory from origin Pattern Providers\nNEW         The Extended Pattern Providers retain all settings and pattern inventory from the original Pattern Providers."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/void_cell.md",
+    "ratio": 0.8695652173913043,
+    "diff": "OLD Void cell needs to be partitioned on <ItemLink id=\"ae2:cell_workbench\" /> before using. It will delete everything that matches its filter or condense them into <ItemLink id=\"ae2:matter_ball\" />s or <ItemLink id=\"ae2:singularity\" />s like <ItemLink id=\"ae2:condenser\" />.\nNEW A Void Cell must be partitioned in a <ItemLink id=\"ae2:cell_workbench\" /> before use. It deletes everything that matches its filter or condenses it into <ItemLink id=\"ae2:matter_ball\" />s or <ItemLink id=\"ae2:singularity\" />s, like a <ItemLink id=\"ae2:condenser\" />.\nOLD Right click it to open configuration GUI.\nNEW Right-click it to open the configuration GUI."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/wireless_connector.md",
+    "ratio": 0.7903225806451613,
+    "diff": "OLD ME Wireless Connector can link two networks like <ItemLink id=\"ae2:quantum_link\" /> but with limited distances and can't  cross dimensions. ME Wireless Connector only supports one-to-one connections, you need to use <ItemLink id=\"extendedae:wireless_hub\" />  if you want many-to-many connections.\nNEW The ME Wireless Connector can link two networks like a <ItemLink id=\"ae2:quantum_link\" />, but it has a limited range and cannot connect across dimensions. It supports only one-to-one connections; use an <ItemLink id=\"extendedae:wireless_hub\" /> for many-to-many connections.\nOLD ## Link the Wireless Connectors\nNEW ## Linking Wireless Connectors\nOLD Click the two Wireless Connectors that you want to link with the ME Wireless Setup Kit, then you can link them together.\nNEW Click the two Wireless Connectors you want to link with the ME Wireless Setup Kit to connect them.\nOLD Sneak + Click to clear ME Wireless Setup Kit's current setting.\nNEW Sneak-click to clear the ME Wireless Setup Kit's current settings.\nOLD ME Wireless Connector will change its texture when a link is successfully established.\nNEW The ME Wireless Connector changes its texture when a link is successfully established.\nOLD Wireless Connectors can be colored like cables and only connect the cable/connectors with the same color.\nNEW Wireless Connectors can be colored like cables and connect only to cables and connectors of the same color.\nOLD You need a <ItemLink id=\"ae2:color_applicator\" /> to color the connector.\nNEW You need a <ItemLink id=\"ae2:color_applicator\" /> to color a connector.\nOLD So you can set up your wireless connectors like this:\nNEW You can set up your Wireless Connectors like this:\nOLD ME Wireless Connector costs more energy when they are farther apart. Its cost-distance curve isn't linear so the power  cost can get very high if when they are too far apart.\nNEW ME Wireless Connectors consume more energy when they are farther apart. The cost-distance curve is not linear, so the power cost can become very high when they are too far apart.\nOLD You can use <ItemLink id=\"ae2:energy_card\" /> to save power, every card can reduce 10% energy cost.\nNEW You can use <ItemLink id=\"ae2:energy_card\" />s to save power. Each card reduces the energy cost by 10%."
+  },
+  {
+    "path": "assets/extendedae/ae2guide/epp_intro/wireless_hub.md",
+    "ratio": 0.88,
+    "diff": "OLD ME Wireless Hub works exactly like <ItemLink id=\"extendedae:wireless_connect\" />, but it can connect up to 8 hubs/connectors\nNEW The ME Wireless Hub works exactly like an <ItemLink id=\"extendedae:wireless_connect\" />, but it can connect to up to 8 hubs or connectors\nOLD There are 8 ports in ME Wireless Hub. It'll find the available port automatically when you link it with <ItemLink id=\"extendedae:wireless_tool\" />.\nNEW The ME Wireless Hub has 8 ports. It automatically finds an available port when you link it with an <ItemLink id=\"extendedae:wireless_tool\" />.\nOLD However, when all of its ports are occupied, you need to disconnect manually by clicking the 'X' button to set up new connections.\nNEW When all its ports are occupied, you must manually disconnect one by clicking the 'X' button before setting up a new connection."
+  },
+  {
+    "path": "assets/little_big_redstone/guides/little_big_redstone/guide/logic/battery.md",
+    "ratio": 0.9761904761904762,
+    "diff": "OLD \t\t<RecipeFor id=\"battery\" />\nNEW \t\t<Recipe id=\"little_big_redstone:logic/battery\" />"
+  }
+]

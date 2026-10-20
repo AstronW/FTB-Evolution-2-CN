@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "047",
+  "namespace": "interdimensionalwirelesstransmitter",
+  "source_keys": 10,
+  "unique_values": 8,
+  "chinese_values": 10,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 10,
+  "source_sha256": "9f766ecb36ed67d014bbff30741bd8ea3c9e1aaea901de0d43b6ba6c771bee18",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "224",
+  "namespace": "dnt",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 4,
+  "source_sha256": "6d1d55ecf1d1fb300c5e94d454d6cb47fdc9001ae7790caa83ba4c0caa32abd3",
+  "in_game_tested": false
+}

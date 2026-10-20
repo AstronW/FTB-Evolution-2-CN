@@ -1,0 +1,55 @@
+---
+navigation:
+  title: 高效农业性状
+  icon: productivefarming:pollen
+  position: 3
+  parent: index.md
+---
+
+<Column alignItems="center" fullWidth={true}>
+  # <Color id="gold">高效农业性状</Color>
+
+  水培加速器会读取高效农业为种子添加的生长速度,产量和突变能力性状.
+</Column>
+
+<ItemImage id="minecraft:air" scale="0.25"/>
+
+***
+
+<Column alignItems="center" fullWidth={true}>
+  ## <Color id="gold">各性状的作用</Color>
+</Column>
+
+| 性状 | 等级 | 在加速器中的效果 |
+|---|:---:|---|
+| <Color id="aqua">生长速度</Color> | 0至3 | 将周期时间除以等级加一,因此生长速度3只需原来四分之一的时间 |
+| <Color id="aqua">产量</Color> | 0至3 | 每次收获时,每组农产品的数量增加该等级的数值.不增加种子数量 |
+| <Color id="aqua">突变能力</Color> | 0至4 | 每级额外增加基础成功概率的一半,因此突变能力4可使概率变为三倍 |
+| <Color id="aqua">抗性</Color> | 0至4 | 在加速器中无效 |
+
+<ItemImage id="minecraft:air" scale="0.25"/>
+
+***
+
+<Column alignItems="center" fullWidth={true}>
+  ## <Color id="gold">提升性状</Color>
+</Column>
+
+* 只有在普通种植通道中才能提升性状.每次收获时,每粒种植的种子都会进行一次判定;成功后,已种下的种子会随机提升一种性状.
+* 神秘农业种子在1级时概率为6%,逐级降低至6级时的1%.元素种子和原版种子的概率为7%.
+* 返还的种子会继承已种下种子的性状,因此收获时可以逐步扩增优质种子.
+* 刚提升性状的种子无法与输出槽中原有的旧种子堆叠.请用管道及时抽走产物,否则通道会等待你清空输出槽.
+
+<ItemImage id="minecraft:air" scale="0.25"/>
+
+***
+
+<Column alignItems="center" fullWidth={true}>
+  ## <Color id="gold">杂交中的性状</Color>
+</Column>
+
+* 由突变能力较高的亲本决定成功概率.突变能力4可将12%的杂交概率提升至36%;原本50%的组合在突变能力2时便会必定成功.
+* 新种子继承该亲本的全部性状.
+* 杂交速度取决于生长速度较低的亲本.
+
+> <Color id="yellow">注意</Color>:FTB工业奇械通用配置中的`hydroponic_crop_traits`选项可以关闭上述全部效果.

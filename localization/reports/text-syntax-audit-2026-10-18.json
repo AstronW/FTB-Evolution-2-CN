@@ -1,0 +1,34 @@
+{
+  "target_pack_version": "1.4.0",
+  "source_instance": "/home/astronw/.ftba/instances/ftb evolution 2",
+  "quest_english_live_files_equal": 51,
+  "quest_keys": 4178,
+  "quest_source_segments": 8181,
+  "quest_resolved_segments": 8181,
+  "quest_omitted_segments": 0,
+  "ordinary_syntax_scan": {
+    "batches": 310,
+    "keys": 21901
+  },
+  "ordinary_syntax_findings_remaining": [],
+  "fixed_entries": [
+    {
+      "batch": "289",
+      "key": "book.anima.codex.components.stamper.p2.text",
+      "fix": "restore entry://anima:codex/components/soul_focus link"
+    },
+    {
+      "batch": "297",
+      "key": "item.arsmagicalegacy.arcane_compendium.modifiers.duration.page0.text",
+      "fix": "preserve original Patchouli macro sequence by changing Chinese word order"
+    }
+  ],
+  "installed_to_game": true,
+  "in_game_tested": false,
+  "full_project_check_status": "passed",
+  "full_project_check_commands": 327,
+  "release_build_and_check": "passed",
+  "restoration_note": "用户确认源文已有后恢复飞马无文档说明, 撤销删节规则.",
+  "installation_record": "dist/FTB-Evolution-2-1.4.0-zh_CN-installation.json",
+  "installed_files": 124
+}

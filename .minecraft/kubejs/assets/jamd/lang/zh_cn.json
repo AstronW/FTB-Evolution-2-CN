@@ -1,0 +1,14 @@
+{
+  "advancements.jamd.mining.description": "进入采矿维度",
+  "advancements.jamd.mining.title": "直到无限, 深入地下",
+  "biome.jamd.end": "末地采矿",
+  "biome.jamd.nether": "下界采矿",
+  "block.jamd.end_portal": "末地采矿传送门",
+  "block.jamd.nether_portal": "下界采矿传送门",
+  "dimension.jamd.end": "末地采矿",
+  "dimension.jamd.nether": "下界采矿",
+  "item.jamd.end_portal": "末地采矿传送门",
+  "item.jamd.nether_portal": "下界采矿传送门",
+  "item.jamd.portal_block": "采矿传送门",
+  "jamd.argument.world_type.invalid": "无效的世界类型 '%s'"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "283",
+  "namespace": "cable_facades",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "b5c313200f71349f1faa2e2053a4b68e8c916effe3a689c38c11b3a37c9603b3",
+  "in_game_tested": false
+}

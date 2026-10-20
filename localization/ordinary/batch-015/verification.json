@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "015",
+  "namespace": "rootsclassic",
+  "source_keys": 496,
+  "unique_values": 433,
+  "chinese_values": 487,
+  "reviewed_non_prose_values": 9,
+  "installed_overlay_keys": 496,
+  "source_sha256": "85514edb2d0fb5c333fa16277b2236c0194fe2b8b3f073525132c857b222d534",
+  "in_game_tested": false
+}

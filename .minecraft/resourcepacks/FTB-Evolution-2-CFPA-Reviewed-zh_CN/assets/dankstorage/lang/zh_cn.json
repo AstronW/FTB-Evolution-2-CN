@@ -1,0 +1,6 @@
+{
+  "item.dankstorage.dock": "坞",
+  "text.dankstorage.change_pickup_mode": "按下%s切换拾取模式",
+  "text.dankstorage.current_pickup_mode": "当前拾取模式: %s",
+  "text.dankstorage.upgrade_successful": "升级成功"
+}

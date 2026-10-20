@@ -1,0 +1,32 @@
+{
+  "name": "解构模块",
+  "icon": "mffs:disintegration_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:disintegration_module",
+      "link_recipe": true,
+      "text": "$(5)解构模块$()可用于$(l:mffs:machines/projector)力场投射器$(), 用来改变力场对周围环境的作用.把一个$(5)解构模块$()放入投射器的矩阵槽位后, 其产生的力场会破坏一切阻挡它的方块.被破坏的方块以物品形式掉落, 可以捡起."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:disintegration_module",
+      "text": "合成$(5)解构模块$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "用法",
+      "text": "$(5)解构模块$()与所有投射模式兼容, 还能反转$(l:mffs:projector_modules/stabilization_module)$(5)力场稳定模块$()的效果.向投射器加入$(l:mffs:upgrade_modules/speed_module)$(5)速度模块$()可以同时解构多个方块.它也可以与$(l:mffs:projector_modules/collection_module)$(5)收集模块$()组合, 自动拾取被破坏的方块."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/disintegration_module.png"
+      ],
+      "border": true,
+      "title": "投射展示",
+      "text": "力场投射器使用$(5)解构模块$()摧毁一堵墙."
+    }
+  ]
+}

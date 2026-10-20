@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "163",
+  "namespace": "frostbear",
+  "source_keys": 45,
+  "unique_values": 44,
+  "chinese_values": 45,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 45,
+  "source_sha256": "c45e63b60dbfa2e2b388cc57a73a05a5d4da9bd1dbf8809435c3ca8deda33605",
+  "in_game_tested": false
+}

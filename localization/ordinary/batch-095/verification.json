@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "095",
+  "namespace": "integrateddynamics",
+  "source_keys": 30,
+  "unique_values": 30,
+  "chinese_values": 30,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 817,
+  "source_sha256": "d625d4cf11ce42e550aad02b4cc1ab3eec72042873d15dbcb36bd51f16461173",
+  "in_game_tested": false
+}

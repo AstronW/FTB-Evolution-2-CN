@@ -1,0 +1,16 @@
+{
+  "4": "  title: 接收天线",
+  "12": "# 接收天线",
+  "14": "用于将一个网络连接到另一个[子网](../nodeworks-mechanics/subnets.md).",
+  "15": "适合将[加工配方集](./recipe_sets.md#processing-set)分散到不同",
+  "16": "网络中, 并用于[自动合成](../nodeworks-mechanics/autocrafting.md).",
+  "22": "    从另一网络接收加工配方集.",
+  "25": "    接收广播输出箱中的物品.",
+  "29": "## 无线物品输入",
+  "31": "将接收天线放在<ItemLink id=\"import_chest\" />顶部,",
+  "32": "与另一网络中放在以下方块上的<ItemLink id=\"broadcast_antenna\" />",
+  "33": "配对: <ItemLink id=\"export_chest\" />. 输入广播端",
+  "34": "输出箱的物品会落入此输入箱, 从而在两个网络之间",
+  "35": "建立无线运输通道.",
+  "37": "## 配方"
+}

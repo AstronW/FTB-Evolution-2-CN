@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "260",
+  "namespace": "cloth-config2",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 4,
+  "source_sha256": "b29f7dbb4be31ff84bdb11890d4795c0565c76a92e062d893ebfdf730ff83c9e",
+  "in_game_tested": false
+}

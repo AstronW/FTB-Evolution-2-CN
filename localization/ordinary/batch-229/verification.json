@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "229",
+  "namespace": "javd",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "eb9cca4ecf8827bb3ad2ac73eeec20de787f2ead642d0411bd1242cae26b75e7",
+  "in_game_tested": false
+}

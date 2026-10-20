@@ -1,0 +1,25 @@
+{
+  "repository": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package",
+  "policy": "Download official GitHub release resources directly. Do not require I18nUpdateMod. Preserve downloaded archives and attribution. Local translations take priority when integrating resources.",
+  "checked_date": "2026-10-17",
+  "status": "pending_download",
+  "assets": [
+    {
+      "version": "1.21",
+      "tag": "Snapshot-20260929014058",
+      "filename": "Minecraft-Mod-Language-Modpack-1-21.zip",
+      "url": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/releases/download/Snapshot-20260929014058/Minecraft-Mod-Language-Modpack-1-21.zip",
+      "sha256": "2e6e19e3fa3b7558e0d9eff0d1a5d895a6e6c1c19ab0ef226f86738a104809c2",
+      "evidence": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/releases/expanded_assets/Snapshot-20260929014058"
+    },
+    {
+      "version": "26.1",
+      "tag": "Snapshot-20260917125024",
+      "filename": "Minecraft-Mod-Language-Modpack-26-1.zip",
+      "url": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/releases/download/Snapshot-20260917125024/Minecraft-Mod-Language-Modpack-26-1.zip",
+      "sha256": "3ca64e68c769180d2e0392fe265ffbff68bbf99e1cb14bf45b156b19ad499dbb",
+      "evidence": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/releases/expanded_assets/Snapshot-20260917125024"
+    }
+  ],
+  "download_blocker": "Terminal network is disabled in this session. DNS lookup failed. Archives have not been downloaded or integrated."
+}

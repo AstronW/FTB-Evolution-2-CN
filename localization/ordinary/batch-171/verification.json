@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "171",
+  "namespace": "mutantmonsters",
+  "source_keys": 6,
+  "unique_values": 6,
+  "chinese_values": 6,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 6,
+  "source_sha256": "13e66e47ca241635cec6c60e750511b19ecccb65bf9fe9dfa06c9480d3cac54e",
+  "in_game_tested": false
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "path": "assets/ae2/ae2guide/example-setups/processor-automation.md",
+    "missing": {},
+    "extra": {
+      "strong": 1
+    },
+    "reason": "源句 WILL NOT MATCH WHAT YOU SEE IN JEI 在中文拆为两个强调片段, 语义完整"
+  },
+  {
+    "path": "assets/ae2/ae2guide/example-setups/storage-types.md",
+    "missing": {},
+    "extra": {
+      "strong": 1
+    },
+    "reason": "CFPA 对不会主动迁移增加强调, 正文含义与当前英文一致"
+  },
+  {
+    "path": "assets/ae2/ae2guide/items-blocks-machines/terminals.md",
+    "missing": {},
+    "extra": {
+      "list": 1,
+      "listItem": 4,
+      "strong": 1
+    },
+    "reason": "样板编码槽位的4段内容组织为列表, 仍含4种类型子列表; ASAP 译为尽快并强调"
+  }
+]

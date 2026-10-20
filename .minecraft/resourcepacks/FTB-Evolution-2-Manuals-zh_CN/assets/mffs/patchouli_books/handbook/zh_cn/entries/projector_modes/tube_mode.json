@@ -1,0 +1,32 @@
+{
+  "name": "管道模式",
+  "icon": "mffs:tube_mode",
+  "category": "mffs:projector_modes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:tube_mode",
+      "link_recipe": true,
+      "text": "默认情况下, $(2)管道模式$()让投射器产生厚度恰为 1 格的方形管 (四棱柱) 力场.管状力场由四片沿水平面平行的实心壁面组成.投射器的前后两面即为力场管道的开放端."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:tube_mode",
+      "text": "合成$(2)管道模式$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "力场调整",
+      "text": "把$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()放入标有方向箭头的物品槽, 力场只会沿该方向扩大 1 格.例如要给力场增高 1 格, 就把$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()放入箭头指向界面左上或右上角的物品槽."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/tube_mode.png"
+      ],
+      "border": true,
+      "title": "投射展示",
+      "text": "缩放后的$(2)管道模式$()力场投射效果."
+    }
+  ]
+}

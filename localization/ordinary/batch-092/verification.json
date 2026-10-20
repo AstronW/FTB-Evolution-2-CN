@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "092",
+  "namespace": "nodeworks",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "c777c8571633b909a5480c2c6763353e48496a16459f326b30e6a1a31fb32c0d",
+  "in_game_tested": false
+}

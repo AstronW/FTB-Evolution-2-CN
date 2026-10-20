@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "139",
+  "namespace": "horsepowered",
+  "source_keys": 75,
+  "unique_values": 67,
+  "chinese_values": 75,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 75,
+  "source_sha256": "76116585d940b0c569e3d3df5e6756013e2125d086750972b1dce13fec204989",
+  "in_game_tested": false
+}

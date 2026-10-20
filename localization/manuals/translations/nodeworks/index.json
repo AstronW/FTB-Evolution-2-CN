@@ -1,0 +1,15 @@
+{
+  "2": "  title: 概览",
+  "8": "# Nodeworks",
+  "10": "可编程的物流与自动化网络.",
+  "18": "## 目录",
+  "20": "- [入门指南](./getting-started.md)",
+  "21": "- [脚本参考](./lua-api/index.md)",
+  "22": "- [Nodeworks机制](./nodeworks-mechanics/index.md)",
+  "23": "- [物品与方块](./items-blocks/index.md)",
+  "24": "- [搭建示例](./example-setups/index.md)",
+  "26": "脚本终端的编辑器会在悬停于已记录的标识符时显示签名和",
+  "27": "简要说明. 悬停时按<Color id=\"green\">[ <KeyBind id=\"key.nodeworks.open_docs\" /> ]</Color>可打开对应手册页.",
+  "29": "有关如何扩展本手册, 请参阅[编写文档](https://github.com/damienfamed75/nodeworks/blob/main/docs/authoring.md)",
+  "30": "中的编写说明."
+}

@@ -1,0 +1,14 @@
+{
+  "batch": "314",
+  "namespace": "neovitae",
+  "jar": ".minecraft/mods/neovitae-26.1.2-1.1.43.jar",
+  "language_path": "assets/neovitae/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/neovitae/lang/zh_cn.json",
+  "include_keys": [
+    "book.neovitae.meteor_catalog.counter"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s / %s"
+  ]
+}

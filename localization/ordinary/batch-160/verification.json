@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "160",
+  "namespace": "trainingdummy",
+  "source_keys": 100,
+  "unique_values": 93,
+  "chinese_values": 98,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 100,
+  "source_sha256": "8a0841973ccb301dd63b254c6ff8f4db43daccfd45bf83077fff81c262f1bf54",
+  "in_game_tested": false
+}

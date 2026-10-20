@@ -1,0 +1,3 @@
+/name	福特龙
+/pages/0/text	福特龙是 MFFS 机器使用的一种能量形式.它最初由$(l:mffs:machines/coercion_deriver)强制推导机$()生产并储存, 再由$(l:mffs:machines/fortron_capacitor)福特龙电容$()转送给其他机器.
+/pages/1/text	福特龙能量的另一个来源是仅限创造模式的物品$(5)无限能量卡$().把它直接放进$(l:mffs:machines/fortron_capacitor)福特龙电容$() (最左侧物品槽) 即可提供无限的福特龙.福特龙能以液体形态存在, 可以直接从电容中用泵抽取, 并像水或岩浆一样处理.

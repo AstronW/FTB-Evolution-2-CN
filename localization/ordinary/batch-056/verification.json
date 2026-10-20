@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "056",
+  "namespace": "ironfurnaces",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 3,
+  "source_sha256": "42d4b7167e55948524a25e5b27702faf4eaee3063886902cc7d7961472994526",
+  "in_game_tested": false
+}

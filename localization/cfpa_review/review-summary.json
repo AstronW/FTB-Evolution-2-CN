@@ -1,0 +1,72 @@
+{
+  "target": "1.4.0",
+  "language_keys": 7304,
+  "group_labels": 76,
+  "manual_pages": 205,
+  "manual_fields": 508,
+  "reviewed_language_and_group_decisions": 7555,
+  "accepted_language_and_group_decisions": 7380,
+  "local_changes_including_punctuation": 2246,
+  "different_source_key_mappings": 540,
+  "source_prs": [
+    2170,
+    3188,
+    5193,
+    5356,
+    5446,
+    5734,
+    5997,
+    6035,
+    6043,
+    6060,
+    6080,
+    6095,
+    6101,
+    6125,
+    6132,
+    6142,
+    6147,
+    6148,
+    6150,
+    6157,
+    6159
+  ],
+  "source_version_directories": [
+    "1.12.2",
+    "1.16",
+    "1.18",
+    "1.18-fabric",
+    "1.19",
+    "1.20",
+    "1.20-fabric",
+    "1.21",
+    "1.21-fabric",
+    "26.1"
+  ],
+  "pending": [
+    {
+      "namespace": "witchery",
+      "key": "book.witchery.guidebook.ritual.bind_spectral_creatures.bind_spectral_creatures.text",
+      "reason": "当前英文举例为 Trent Effigy, 候选替换成黏土塑像(Clay Effigy). 尚无证据证明这两个名称在当前版本指同一塑像, 不把潜在机制名称错误计为完成."
+    },
+    {
+      "namespace": "integrateddynamics",
+      "key": "info_book.integrateddynamics.tutorials.logicOperations.text5",
+      "reason": "语言键发生段落移位: 旧 text5 是惰性求值段, 当前 text5 是重新编辑变量卡说明, 候选无可复用正文; 不以错位段落替代新段落."
+    },
+    {
+      "namespace": "integrateddynamics",
+      "key": "info_book.integrateddynamics.manual.logic_programming.text4",
+      "reason": "语言键对应正文已变: 旧段只介绍搜索和筛选, 当前是加载并修改现有变量卡的操作步骤; 无可复用主体, 留待新译."
+    },
+    {
+      "namespace": "integrateddynamics",
+      "key": "info_book.integrateddynamics.manual.logic_programming.text6",
+      "reason": "语言键对应正文已变: 旧段是方块/物品形式切换, 当前是有命名器时点击 E 立即命名; 无可复用主体, 留待新译."
+    }
+  ],
+  "omitted_language_and_group_decisions": 171,
+  "omitted_currently_disabled_manual_pages": 1,
+  "in_game_tested": false,
+  "installed_to_game": false
+}

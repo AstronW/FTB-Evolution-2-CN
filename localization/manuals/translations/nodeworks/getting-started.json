@@ -1,0 +1,22 @@
+{
+  "2": "  title: 入门指南",
+  "6": "# 入门指南",
+  "8": "## 所需材料",
+  "10": "Nodeworks网络利用<ItemLink id=\"celestine_shard\" />的反射特性工作.",
+  "12": "## 培育天青石",
+  "14": "天青石的生长方式类似<ItemLink id=\"minecraft:amethyst_cluster\" />:",
+  "15": "从母岩<ItemLink id=\"budding_celestine\" />上长出晶芽.",
+  "17": "## 第一个Nodeworks网络",
+  "19": "先搭建一个无需编写脚本的简单网络, 使用物品终端查看",
+  "20": "任意数量的相连箱子中的物品.",
+  "27": "- 此网络包含以下组件:",
+  "28": "  - 1个<ItemLink id=\"network_controller\" />",
+  "29": "  - 1个<ItemLink id=\"inventory_terminal\" />",
+  "30": "  - 若干<ItemLink id=\"pipe\" />, 用于连接所有设备",
+  "31": "  - 若干<ItemLink id=\"node\" />, 用于将箱子等外部方块接入网络",
+  "32": "  - 1张<ItemLink id=\"storage_card\" />, 安装在节点朝向箱子的那一面",
+  "34": "### 扩展Nodeworks网络",
+  "36": "- [移动物品](./example-setups/moving-items.md)",
+  "37": "- [自动合成](./nodeworks-mechanics/autocrafting.md)",
+  "38": "- [搭建示例](./example-setups/index.md)"
+}

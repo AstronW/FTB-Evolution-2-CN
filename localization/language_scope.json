@@ -1,0 +1,23 @@
+{
+  "policy": "Do not add translations for building-focused or decoration-focused mods, including their dedicated manuals. Preserve existing upstream, CFPA and project translations. Exclusions do not remove integration-pack quest text or necessary cross-mod explanations from scope. Gameplay or technology mods are not excluded merely for containing decorative blocks. Verify the main purpose and namespaces of newly encountered building or decoration mods before updating this list. See AGENTS.md for workflow and scope rules.",
+  "excluded_namespaces": {
+    "chisel": "用户明确排除",
+    "decorativewoodenlattices": "装饰木格",
+    "framedblocks": "装饰框架方块",
+    "malisisdoorsreborn": "装饰门",
+    "decorz": "装饰内容",
+    "connectedglass": "装饰玻璃",
+    "betterblockz": "当前 JAR 描述为添加装饰方块",
+    "glassential": "当前 JAR 描述为装饰用途的玻璃",
+    "armorposer": "盔甲架姿态与属性编辑, 装饰展示工具",
+    "buildinggadgets2": "建筑工具, Building Gadgets 2",
+    "architectural_building_wand": "建筑法杖和共享施工方案",
+    "constructionstick": "批量放置方块的建筑工具",
+    "bridgingmod": "搭桥放置辅助, 建筑操作工具",
+    "hats": "仅提供装饰性帽子外观与收集进度, 无玩法效果; 用户确认不翻译",
+    "holosigns": "仅提供 16 色玻璃告示牌与悬挂告示牌, 属装饰建造内容; 按建筑装饰范围规则不新增翻译, 已有译文保留"
+  },
+  "excluded_namespace_prefixes": {
+    "mcw": "Macaw 系列装饰模组, 包括屋顶, 门窗, 桥梁, 道路和灯具"
+  }
+}

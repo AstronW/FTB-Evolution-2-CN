@@ -1,0 +1,16 @@
+{
+  "block.xycraft_machines.energy_selector": "能量选择器",
+  "block.xycraft_machines.energy_selector.tooltip.1": "创造无限的能量!",
+  "block.xycraft_machines.lava_block": "熔岩方块",
+  "block.xycraft_machines.lava_block.tooltip": "薛定谔的熔岩方块?",
+  "block.xycraft_machines.proxy": "代理方块",
+  "config.jade.plugin_xycraft": "XyCraft",
+  "item.xycraft_machines.build_tool": "建造工具",
+  "item.xycraft_machines.filter_attribute": "属性过滤网",
+  "item.xycraft_machines.filter_list_fluid": "流体过滤网",
+  "item.xycraft_machines.filter_list_item": "列表过滤网",
+  "item.xycraft_machines.filter_scalar": "标量过滤网",
+  "recipe.xycraft.buildings.ore_tap": "矿脉抽采",
+  "recipe.xycraft.locked": "锁定配方",
+  "sound.xycraft_machines.subtitle.soaryn_box_deposit": "呜呼!"
+}

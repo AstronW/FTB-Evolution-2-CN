@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "048",
+  "namespace": "justdirethings",
+  "source_keys": 10,
+  "unique_values": 9,
+  "chinese_values": 5,
+  "reviewed_non_prose_values": 5,
+  "installed_overlay_keys": 10,
+  "source_sha256": "7601ce7207c8d52027770317026e027a98354dd16d719794dbe286803bfce46e",
+  "in_game_tested": false
+}

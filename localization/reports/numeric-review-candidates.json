@@ -1,0 +1,501 @@
+[
+  {
+    "file": "chapters/anima.json5",
+    "segment": 33,
+    "en": "Close an undead creature in the cage with a Wise soul in a well within 32 blocks. After 10 seconds it becomes a living villager. A zombified piglin becomes a piglin instead, and it stays one in the Overworld.",
+    "zh": "将亡灵关在笼中，32格内的灵魂之井存入睿智灵魂，十秒后会变成活村民。僵尸猪灵则变为猪灵，而且在主世界也能保持。",
+    "source_only": {
+      "10": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/anima.json5",
+    "segment": 47,
+    "en": "A cluster grows through three stages of 10 minutes each, and only while its chunk is loaded. Right-click it with an empty hand to check the stage. Break a mature cluster with a pickaxe for two crystals, then plant one back on stone and keep the other.",
+    "zh": "水晶簇经过三个阶段，每阶段十分钟，仅在区块加载时生长。空手右击查看阶段，用镐破坏成熟晶簇得到两个水晶，一个种回石头，另一个留用。",
+    "source_only": {
+      "10": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/anima.json5",
+    "segment": 60,
+    "en": "A dropped ring never despawns, and only lava destroys it. Taking it off mid-flight gives 10 seconds of slow falling.",
+    "zh": "掉落的戒指永不自然消失，只有熔岩能摧毁。飞行中取下，会提供十秒缓降。",
+    "source_only": {
+      "10": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/anima.json5",
+    "segment": 94,
+    "en": "Raw Saronite becomes a &3Saronite Ingot&r in 10 seconds for 5 worker durability. The forge also smelts ordinary furnace recipes at normal speed for the same cost per item.",
+    "zh": "粗萨隆铁十秒炼成&3萨隆铁锭&r，消耗5点工人耐久。普通熔炉配方也能以正常速度处理，每个同样消耗5点耐久。",
+    "source_only": {
+      "10": 1
+    },
+    "target_only": {
+      "5": 1
+    }
+  },
+  {
+    "file": "chapters/anima.json5",
+    "segment": 180,
+    "en": "Load ingredients &cclockwise from north&r. The whole pattern can be rotated as long as the order holds. When a soul rune appears, right-click the table with the listed soul bottle in your hand. The ritual takes 10 seconds and needs no well.",
+    "zh": "&c从北开始顺时针&r放入材料，整套布局可以旋转，只要顺序不变。灵魂符文出现后，手持指定灵魂瓶右击台，仪式十秒完成，不需要井。",
+    "source_only": {
+      "10": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/anima.json5",
+    "segment": 183,
+    "en": "Put the book in the tome slot and &aBlue Crystals&r in the crystal slot. Each attempt takes 15 seconds and one crystal, with a 25% chance to succeed. A failed attempt keeps the book.",
+    "zh": "书放典籍槽，&a蓝色水晶&r放水晶槽。每次十五秒，消耗一颗水晶，成功率25%，失败保留书。",
+    "source_only": {
+      "15": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/ars_magica.json5",
+    "segment": 100,
+    "en": "Summon and defeat the &cLife Guardian&r. On a new moon in the Overworld, draw a hollow 5x5 square of &2Wizard's Chalk&r with a lit &aCandle&r 1 block outside the middle of each side. A baby villager killed by a player in the center calls it.",
+    "zh": "召唤并击败&c生命守护者&r。主世界新月之夜，用&2巫师粉笔&r画空心5x5方环，每边中央外一格各放点燃的&a蜡烛&r。玩家在中央杀死一名幼年村民，即可召唤。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/ars_magica.json5",
+    "segment": 124,
+    "en": "Most rituals start with a ring of one inlay type: &2Redstone Inlay&r, &aIron Inlay&r or Gold Inlay. A ring is 8 inlays around an empty block, and the trigger item is dropped in that center. Keep the area around a ritual clear, because its empty spaces have to be air.",
+    "zh": "多数仪式先摆一种镶嵌环：&2红石镶嵌&r、&a铁质镶嵌&r或金质镶嵌。八个镶嵌围一个空格，触发物品丢在中央。周围要保持空旷，仪式要求的空位必须是空气。",
+    "source_only": {
+      "8": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/cooking_and_brewing.json5",
+    "segment": 65,
+    "en": "The &aPreservation Upgrade&r will always try to keep at least 1 item from a stack from being used up in recipes.",
+    "zh": "&a保鲜升级&r会尽量让每组物品至少保留一个，不在配方中用尽。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/cooking_and_brewing.json5",
+    "segment": 168,
+    "en": "The &aChicken Sink&r is a coop, not a water source. Right-click it with an Egg and the egg hatches after 10 minutes. The chick needs seeds in the sink's feed slot to grow up, and the grown chicken lays eggs that kitchen recipes can use.",
+    "zh": "&a鸡水槽&r其实是鸡窝，不是水源。用鸡蛋右击放入，十分钟后孵化。给饲料槽放种子，让小鸡长大，成年鸡就会产出厨房配方可用的鸡蛋。",
+    "source_only": {
+      "10": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/energized_power.json5",
+    "segment": 105,
+    "en": "Walking is for people without 8 million FE to spare.",
+    "zh": "舍不得八百万FE的人才需要走路。",
+    "source_only": {
+      "8": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 454,
+    "en": "There are 2 special &aArtisan Scrolls&r that will teach you how to craft &6Duality&r jewelry.",
+    "zh": "有两种特殊&a工匠卷轴&r，教你制作&6二元&r珠宝。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 26,
+    "en": "The &3Controller&r is considered the routing hub of your ME network. You cannot have 2 separate &3ME Controllers&r in the same network, but you can build a massive multiblock setup if you need the extra channels.",
+    "zh": "&3控制器&r是ME网络的路由中枢。同一网络不能有两个分离的&3ME控制器&r，但需要更多频道时，可搭大型多方块控制器。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 50,
+    "en": "These &2Barrels&r can only hold up to 4 types of items, but will hold several stacks of each. The amount of item types it can hold depends on the type of &aLimited Barrel&r you craft, with I holding a single item type, and IV holding 4 item types.",
+    "zh": "这些&2桶&r最多存4种物品，但每种可放多组。种类数取决于制作的&a限类桶&r型号，I型单种，IV型四种。",
+    "source_only": {
+      "4": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 54,
+    "en": "To make this, you'll need to build 2 identical multiblock structures, one connected to your main network and one connected to the new place you want to build in.",
+    "zh": "搭建两座相同多方块，一座接主网络，一座放在新地点。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 56,
+    "en": "The Quantum Ring only allows 128 channels total from it, no matter which face you connect to. You can also only connect to the 4 Quantum Rings that are adjacent to the Link Chamber, as the corners do not connect.",
+    "zh": "无论接哪一面，整座量子环总共最多传128个频道。只能连接紧邻链接仓的四个量子环，四角不能连接。",
+    "source_only": {
+      "4": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 97,
+    "en": "&aInterfaces&r come in 2 different variants (normal and flat/subpart) which changes where their inventories can be accessed from and what they can provide a network connection to.",
+    "zh": "&a接口&r有完整方块和平面部件两种形式，区别在于容器可从何处访问，以及能向哪里提供网络连接。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 212,
+    "en": "To connect different parts of your networks, you can do this by using 3 different types of ME Cables: &bGlass Cables&r, &3Dense Cables&r, and &dSmart Cables&r.",
+    "zh": "连接网络的各个部分时，可以使用三类ME线缆：&b玻璃线缆&r、&3致密线缆&r和&d智能线缆&r。",
+    "source_only": {
+      "3": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 347,
+    "en": "Though you can have more &6256M&r storage units within, 1 unit should be more than enough to handle all your crafting needs in this pack.",
+    "zh": "虽然可以在其中装入更多&6256M&r存储单元，但在本包中，一个单元应该就足以应对你的所有合成需求。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 483,
+    "en": "You can only use 1 per multiblock structure.",
+    "zh": "每个多方块结构只能安装一个。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 485,
+    "en": "These multiblocks must be built as rectangular prisms in shape with no empty blocks, and contain at least 1 or more &aCrafting Storages&r. While optional, &aCrafting Co-Processors&r are recommended to use as well.",
+    "zh": "这种结构必须是内部没有空隙的长方体，且至少包含一个&a合成存储器&r。虽然不是必需，但也建议加入&a合成并行处理单元&r。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 490,
+    "en": "One important thing to note is that each &dCrafting CPU Multiblock&r can only handle one type of task at a time. For example, if you wanted to craft both 1k Crafting Tables and autosmelt 1k Iron Ingots at the same time, you will need 2 separate CPU Multiblocks to achieve this.",
+    "zh": "请注意，每个&d合成CPU多方块结构&r同时只能处理一个合成任务。例如，若想同时合成1k个工作台并自动烧炼1k个铁锭，就需要两个独立的合成CPU结构。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/general_storage.json5",
+    "segment": 539,
+    "en": "You can only use 1 per multiblock structure.",
+    "zh": "每个多方块结构只能安装一个。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/hostile_networks.json5",
+    "segment": 3,
+    "en": "Each 15 second run uses one &2Prediction Matrix&r and adds 1 data to the model. Power per tick is the model's simulation cost plus 20%. It refuses Faulty models.",
+    "zh": "每轮模拟耗时15秒，消耗一个&2预测矩阵&r，并为模型增加1点数据。每刻耗能为模型模拟耗能的120%。模拟室不接受缺陷级模型。",
+    "source_only": {
+      "20": 1
+    },
+    "target_only": {
+      "120": 1
+    }
+  },
+  {
+    "file": "chapters/hostile_networks.json5",
+    "segment": 29,
+    "en": "Each 15 second cycle uses one &2Prediction Matrix&r per model and costs the model's simulation cost plus 25% in power per tick. The controller holds 20,000,000 FE.",
+    "zh": "每轮耗时15秒，每个模型消耗一个&2预测矩阵&r，每刻耗能为该模型模拟耗能的125%。控制器可存储20,000,000 FE。",
+    "source_only": {
+      "25": 1
+    },
+    "target_only": {
+      "125": 1
+    }
+  },
+  {
+    "file": "chapters/industrial_contraptions.json5",
+    "segment": 63,
+    "en": "- &aOverclocker&r: 1.45x speed for 1.6x power, per upgrade. Four of them make a machine about 4.4 times as fast for about 6.6 times the power.",
+    "zh": "- &a超频&r：每个升级将速度乘以1.45，耗能乘以1.6。四个升级使速度约为4.4倍、功率约为6.6倍。",
+    "source_only": {
+      "1": 2
+    },
+    "target_only": {
+      "1.45": 1,
+      "1.6": 1
+    }
+  },
+  {
+    "file": "chapters/integrated_dynamics.json5",
+    "segment": 14,
+    "en": "You can manually select a number in increments of 4 depending on how many ",
+    "zh": "根据部件安装的",
+    "source_only": {
+      "4": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/integrated_dynamics.json5",
+    "segment": 55,
+    "en": "At the top left, there are 2 buttons which are for &bPart Settings&r and &bOffset Settings&r.",
+    "zh": "左上角有两个按钮，分别打开&b部件设置&r和&b偏移设置&r。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/integrated_dynamics.json5",
+    "segment": 130,
+    "en": "To do this, you'll want to set up 2 armor stands above the &aSqueezer&r so that they fall onto it.",
+    "zh": "在&a挤压机&r上方放两个盔甲架，让它们落在挤压机上。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 108,
+    "en": "The &aFluid Module Mk.1&r allows the router to interact with any adjacent blocks, which can be set in the module interface.",
+    "zh": "&a流体模块 Mk1&r可以与相邻方块交互，具体方向在模块界面中设置。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 109,
+    "en": "The &aFluid Module Mk.2&r allows for wireless transfer of fluids, and works just like the distributor modules for items.",
+    "zh": "&a流体模块 Mk2&r支持无线传输流体，工作方式类似物品分配模块。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 277,
+    "en": "&aSender&r and &2Puller Modules Mk.1&r allow the &dRouter&r to interact with other adjacent inventories.",
+    "zh": "&a发送模块&r和&2抽取模块 Mk1&r让&d路由器&r能够与相邻容器交互。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/ltx_industries.json5",
+    "segment": 102,
+    "en": "&eLTXI&r adds digital versions of Minecraft's 3 smelt blocks: &aDigital Furnace&r, &2Digital Smoker&r, and Digital Blast Furnace.",
+    "zh": "&eLTXI&r提供Minecraft三种烧炼方块的数字版本：&a数字型熔炉&r、&2数字型烟熏炉&r和数字型高炉。",
+    "source_only": {
+      "3": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 408,
+    "en": "The frame is 5 by 5 and 4 tall, built in layers around a 3 by 3 by 2 culture chamber that must be empty air, with no water and no blocks in it:",
+    "zh": "框架宽深5格、高4格，围绕3乘3乘2的培养腔分层搭建。腔内必须全为空气，不能有水或其他方块：",
+    "source_only": {
+      "5": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 721,
+    "en": "In a full Bio Reactor, one Speed and one Yield Upgrade give 3 times the output for 144 AP, the same output two Yield Upgrades give for 162. With nine colonies and four slots, the Industrial Bio Reactor's options are:",
+    "zh": "满载生物反应器一个速度加一个产量升级，用144 AP达到三倍产量；两个产量升级相同产量却需162 AP。九菌落、四升级槽的工业生物反应器选项如下：",
+    "source_only": {
+      "3": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 722,
+    "en": "- &bFour Speed&r: 3 times the output for 3,605 AP.",
+    "zh": "- &b四速度&r：三倍产量，3,605 AP。",
+    "source_only": {
+      "3": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 723,
+    "en": "- &bFour Yield&r: 5 times the output for 5,774 AP.",
+    "zh": "- &b四产量&r：五倍产量，5,774 AP。",
+    "source_only": {
+      "5": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 724,
+    "en": "- &bTwo Speed, two Yield&r: 6 times the output for 4,562 AP.",
+    "zh": "- &b二速度、二产量&r：六倍产量，4,562 AP。",
+    "source_only": {
+      "6": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 725,
+    "en": "- &bTwo Speed, one Yield, one Efficiency&r: 4 times the output for 3,042 AP, with a quarter less nutrient used per tick.",
+    "zh": "- &b二速度、一产量、一效率&r：四倍产量，3,042 AP，每刻营养消耗减少四分之一。",
+    "source_only": {
+      "4": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 778,
+    "en": "Stage 2 starts with the Mutator, and the Mutator starts with &aBacteria Containment Shields&r.",
+    "zh": "第二阶段从突变器开始，而突变器首先需要&a细菌防护罩&r。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/occultism.json5",
+    "segment": 121,
+    "en": "There are 4 different tiers of &bSpirits&r:",
+    "zh": "&b魔灵&r共四阶：",
+    "source_only": {
+      "4": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/occultism.json5",
+    "segment": 184,
+    "en": "There are 4 different types of &bPentacles&r, and each can be upgraded as you progress.",
+    "zh": "&b五芒星阵&r共四种类型，每种都能随发展升级。",
+    "source_only": {
+      "4": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/occultism.json5",
+    "segment": 185,
+    "en": "This means that you only need four 19x19 areas to set up all 4 types of &bPentacles&r!",
+    "zh": "因此只需四块19×19区域，就能布置全部四类&b五芒星阵&r！",
+    "source_only": {
+      "4": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/oritech.json5",
+    "segment": 46,
+    "en": "Make a &aTier 2 Addon&r of any kind. Tier 2 does the work of two regular addons of its kind, and every tier above adds one more, up to tier 9. Speed, efficiency, extra processing chambers and stored energy all follow that rule. Capacitor and Acceptor transfer rates grow more slowly.",
+    "zh": "制作任意一种&a2级插件&r。它相当于两个同种普通插件，之后每级再增加一个，最高9级。速度、效率、辅助加工室和储能量都遵循此规则，机器容量与适配器的传输速率则增长较慢。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/reliquary.json5",
+    "segment": 50,
+    "en": "&eNote&r: Fragments for mobs without a part recipe drop directly, at roughly 1 in 60 kills.",
+    "zh": "&e注意&r：没有部件合成配方的生物，其护符碎片会直接掉落，概率约为每击杀60只一次。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/resonance.json5",
+    "segment": 56,
+    "en": "Both show up in roughly 1 chest out of 100, so treat this one as a bonus.",
+    "zh": "两者的出现率都大约是每100个箱子一个，因此把这个任务当成额外收获就好。",
+    "source_only": {
+      "1": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/resource_generation.json5",
+    "segment": 153,
+    "en": "Everything past this point is Tier 6, and a Tier 6 crop only grows with its &2Crux&r under the farmland. These are the last seeds that grow on farmland alone.",
+    "zh": "再往上就是6级作物，需要在耕地下放置对应的&2核心&r才能生长。这些是最后一批仅靠耕地就能生长的种子。",
+    "source_only": {
+      "6": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/resource_generation.json5",
+    "segment": 363,
+    "en": "The &aSeed Reprocessor&r breaks a seed down into 2 of its crop's essence.",
+    "zh": "&a种子再处理器&r将一份种子分解为两个对应作物的精华。",
+    "source_only": {
+      "2": 1
+    },
+    "target_only": {}
+  },
+  {
+    "file": "chapters/stellaris.json5",
+    "segment": 185,
+    "en": "Starting the engine begins a 10-second countdown. The rocket then climbs at 0.8 blocks per tick, and the destination screen opens above 400 blocks.",
+    "zh": "启动引擎开始十秒倒计时，火箭随后以每刻0.8格爬升，超过400格后打开目的地界面。",
+    "source_only": {
+      "10": 1
+    },
+    "target_only": {}
+  }
+]

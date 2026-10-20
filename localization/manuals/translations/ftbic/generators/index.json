@@ -1,0 +1,16 @@
+{
+  "2": "  title: 发电机",
+  "7": "# <Color id=\"gold\">发电机</Color>",
+  "19": "  ## <Color id=\"gold\">输出对比</Color>",
+  "22": "| 发电机 | 等级 | 输出 | 条件 |",
+  "24": "| <ItemLink id=\"basic_generator\" /> | LV | 320 FE/t | 燃料燃烧期间 |",
+  "25": "| <ItemLink id=\"geothermal_generator\" /> | LV | 320 FE/t | 需要储罐内有熔岩 |",
+  "26": "| <ItemLink id=\"wind_mill\" /> | LV | 约9.6至104 FE/t | 取决于高度 |",
+  "27": "| <ItemLink id=\"lv_solar_panel\" /> | LV | 32 FE/t | 白天且上方无遮挡 |",
+  "28": "| <ItemLink id=\"mv_solar_panel\" /> | MV | 256 FE/t | 白天且上方无遮挡 |",
+  "29": "| <ItemLink id=\"hv_solar_panel\" /> | HV | 2,048 FE/t | 白天且上方无遮挡 |",
+  "30": "| <ItemLink id=\"ev_solar_panel\" /> | EV | 16,384 FE/t | 白天且上方无遮挡 |",
+  "31": "| <ItemLink id=\"nuclear_reactor\" /> | 最高IV | 32,000+ FE/t | 取决于布局 |",
+  "37": "  ## <Color id=\"gold\">分节</Color>",
+  "12": "  四类可再生能源发电设备,一种燃烧发电机,再加上核反应堆,覆盖模组发展的各个阶段."
+}

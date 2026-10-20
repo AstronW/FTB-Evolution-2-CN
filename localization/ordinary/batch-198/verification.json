@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "198",
+  "namespace": "magnumtorch",
+  "source_keys": 5,
+  "unique_values": 5,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 5,
+  "source_sha256": "eec6f903d4e3f6098a4871e831518e3587faad9a70d3655182f19844af5deb04",
+  "in_game_tested": false
+}

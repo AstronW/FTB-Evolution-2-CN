@@ -1,0 +1,19 @@
+{
+  "4": "  title: 冶炼子网",
+  "9": "# 冶炼子网",
+  "11": "专用子网能将网络职责分开,",
+  "12": "并复用配方.",
+  "18": "    <ItemImage id=\"storage_card\"/>红色存储卡从熔炉取出成品.",
+  "21": "    <ItemImage id=\"storage_card\"/>蓝色存储卡接收加工处理器的所有原料.",
+  "24": "    <ItemImage id=\"storage_card\"/>黄绿色存储卡接收输入箱轮询分配的物品.",
+  "27": "    已开启轮询.",
+  "29": "    频道设为<Color id=\"green\">黄绿色</Color>.",
+  "33": "上方是 **冶炼** 子网示例, 其中的<ItemLink id=\"processing_storage\" />通过<ItemLink id=\"broadcast_antenna\" />广播配方. 任意",
+  "34": "网络都可用<ItemLink id=\"link_crystal\" />配对, 调用这些配方.",
+  "36": "接着使用三台<ItemLink id=\"processing_handler\" />, 分别绑定网络中的三个加工",
+  "37": "配方集, 全部将原料推送到<ItemLink id=\"import_chest\" />.",
+  "38": "输入箱设为轮询, 将物品送往另一频道的存储卡,",
+  "39": "这些存储卡专门朝向各熔炉顶面.",
+  "40": "另外用红色存储卡朝向熔炉底面.",
+  "42": "更多信息见[自动合成](../nodeworks-mechanics/autocrafting.md)."
+}

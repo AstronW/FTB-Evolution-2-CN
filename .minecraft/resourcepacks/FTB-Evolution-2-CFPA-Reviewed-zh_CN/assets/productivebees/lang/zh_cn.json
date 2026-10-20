@@ -1,0 +1,18 @@
+{
+  "block.productivebees.advanced_regions_unexplored_wisteria_beehive": "高级紫藤木蜂箱",
+  "block.productivebees.bamboo_nest": "竹蜂巢",
+  "block.productivebees.expansion_box_regions_unexplored_wisteria": "紫藤木扩容盒",
+  "block.productivebees.honey": "蜂蜜",
+  "config.jade.plugin_productivebees.advanced_beehive": "高级蜂箱",
+  "entity.productivebees.amaramber_bee": "绯夜脂蜜蜂",
+  "entity.productivebees.bee_configurable": "%s",
+  "entity.productivebees.deepsilver_bee": "深银蜜蜂",
+  "entity.productivebees.glacite_bee": "永冻石蜜蜂",
+  "entity.productivebees.malarite_bee": "瘴紫石蜜蜂",
+  "entity.productivebees.spatial_bee": "空间蜜蜂",
+  "entity.productivebees.starcore_bee": "星核蜜蜂",
+  "entity.productivebees.starlit_diamond_bee": "星钻蜜蜂",
+  "entity.productivebees.thermal_bee": "热泉石蜜蜂",
+  "productivebees.ingredient.description.spatial_bee": "这种蜜蜂的蜜脾离心后会产出赛特斯石英种子, 而后需要进一步加工.",
+  "productivebees.top.jar.bee": "%s"
+}

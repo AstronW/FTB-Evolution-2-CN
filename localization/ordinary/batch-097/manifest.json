@@ -1,0 +1,12 @@
+{
+  "batch": "097",
+  "namespace": "integratedtunnels",
+  "jar": ".minecraft/mods/integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+  "language_path": "assets/integratedtunnels/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integratedtunnels/lang/zh_cn.json",
+  "include_keys": [
+    "info_book.integratedtunnels.concepts.text9"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

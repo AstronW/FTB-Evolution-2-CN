@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "166",
+  "namespace": "puffish_attributes",
+  "source_keys": 10,
+  "unique_values": 10,
+  "chinese_values": 10,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 10,
+  "source_sha256": "8845994ecac413c694cb7e20898f8ed352e3cff10d9ebe67542fb55694e4ecf8",
+  "in_game_tested": false
+}

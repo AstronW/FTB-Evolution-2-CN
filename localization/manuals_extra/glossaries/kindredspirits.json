@@ -1,0 +1,410 @@
+{
+  "entity.kindredspirits.nightfox": {
+    "en": "Nightfox",
+    "zh": "夜狐"
+  },
+  "entity.kindredspirits.trex": {
+    "en": "T-Rex",
+    "zh": "霸王龙"
+  },
+  "entity.kindredspirits.mini_player": {
+    "en": "Mini Player",
+    "zh": "迷你玩家"
+  },
+  "entity.kindredspirits.baby_dragon": {
+    "en": "Baby Dragon",
+    "zh": "幼龙"
+  },
+  "entity.kindredspirits.gremlin": {
+    "en": "Gremlin",
+    "zh": "格雷姆林"
+  },
+  "subtitles.kindredspirits.baby_dragon_death": {
+    "en": "Baby Dragon is yeeted",
+    "zh": "幼龙被甩飞了"
+  },
+  "subtitles.kindredspirits.quokka_interact": {
+    "en": "Quokka chirps",
+    "zh": "短尾矮袋鼠鸣叫"
+  },
+  "entity.kindredspirits.name_with_level": {
+    "en": "%s (Lv %s)",
+    "zh": "%s (等级 %s)"
+  },
+  "entity.kindredspirits.name_with_stars": {
+    "en": "%s (Lv %s %s)",
+    "zh": "%s (等级 %s %s)"
+  },
+  "item.kindredspirits.kindred_charm": {
+    "en": "Kindred Charm",
+    "zh": "羁绊护符"
+  },
+  "item.kindredspirits.nightfox_spawn_egg": {
+    "en": "Nightfox Spawn Egg",
+    "zh": "夜狐刷怪蛋"
+  },
+  "item.kindredspirits.trex_spawn_egg": {
+    "en": "T-Rex Spawn Egg",
+    "zh": "霸王龙刷怪蛋"
+  },
+  "item.kindredspirits.mini_player_spawn_egg": {
+    "en": "Mini Player Spawn Egg",
+    "zh": "迷你玩家刷怪蛋"
+  },
+  "item.kindredspirits.baby_dragon_spawn_egg": {
+    "en": "Baby Dragon Spawn Egg",
+    "zh": "幼龙刷怪蛋"
+  },
+  "item.kindredspirits.gremlin_spawn_egg": {
+    "en": "Gremlin Spawn Egg",
+    "zh": "格雷姆林刷怪蛋"
+  },
+  "block.kindredspirits.wisp_light": {
+    "en": "Wisplight",
+    "zh": "鬼火微光"
+  },
+  "block.kindredspirits.trex_egg": {
+    "en": "T-Rex Egg",
+    "zh": "霸王龙蛋"
+  },
+  "block.kindredspirits.companion_bed": {
+    "en": "Companion Bed",
+    "zh": "伙伴床"
+  },
+  "jei.kindredspirits.companion_bed": {
+    "en": "A hurt companion that is not fighting or told to Stay walks to a free bed within 16 blocks and rests there, healing with Regeneration II, until it is fully healed or you walk more than 16 blocks away. Use any dye on the bed to recolour its cushion.",
+    "zh": "受伤且未在战斗或未被指令驻留的伙伴, 会走向 16 格内一张空闲的床并在那里休息, 以生命恢复 II 治疗, 直到完全康复或你走到 16 格以外.对床使用任意染料可为其垫子重新着色."
+  },
+  "jei.kindredspirits.trex_egg": {
+    "en": "Dug up from suspicious sand in desert pyramids and desert wells. Place it and it hatches into a wild T-Rex after five minutes, or half that with a torch or campfire within two blocks.",
+    "zh": "从沙漠神殿和沙漠水井的可疑沙子中挖出.放置后五分钟会孵出野生霸王龙, 若两格内有火把或营火则时间减半."
+  },
+  "config.jade.plugin_kindredspirits.companion_status": {
+    "en": "Companion Status",
+    "zh": "伙伴状态"
+  },
+  "jei.kindredspirits.kindred_charm": {
+    "en": "Sneak and use the charm on a tamed spirit to bond with it. Use the charm on its own to open the bond screen, where you can summon or dismiss your companion, give it orders, set how readily it fights, and release the bond. You can only be bonded to one spirit at a time, and every charm you carry answers to that same bond. Only a bonded spirit gains levels, uses abilities and fights alongside you.",
+    "zh": "潜行并对已驯服的灵魂使用护符以建立羁绊.单独使用护符可打开羁绊界面, 在其中召唤或收回伙伴, 下达指令, 设定其战斗的积极程度, 以及解除羁绊.你同时只能与一位灵魂建立羁绊, 而你携带的每一枚护符都回应同一段羁绊.只有已羁绊的灵魂会升级, 使用能力并与你并肩作战."
+  },
+  "item.kindredspirits.boxing_gloves": {
+    "en": "Boxing Gloves",
+    "zh": "拳击手套"
+  },
+  "item.kindredspirits.boxing_gloves.desc": {
+    "en": "T-Rex gear. Longer reach and harder hits.",
+    "zh": "霸王龙装备.攻击距离更远, 打击更重."
+  },
+  "item.kindredspirits.dragon_tablet": {
+    "en": "Dragon Tablet",
+    "zh": "龙之石板"
+  },
+  "item.kindredspirits.dragon_tablet.desc": {
+    "en": "Baby Dragon gear. Calls meteors down instead of breathing fire, and makes it wander now and then.",
+    "zh": "幼龙装备.改为召唤陨石而非喷火, 并会不时四处游荡."
+  },
+  "item.kindredspirits.running_shoes": {
+    "en": "Running Shoes",
+    "zh": "跑鞋"
+  },
+  "item.kindredspirits.running_shoes.desc": {
+    "en": "Nightfox gear. Much faster, and Swift Step is twice as strong.",
+    "zh": "夜狐装备.速度大幅提升, 疾步效果加倍."
+  },
+  "item.kindredspirits.battery": {
+    "en": "Battery",
+    "zh": "电池"
+  },
+  "item.kindredspirits.battery.desc": {
+    "en": "Gremlin gear. Jolts nearby machines forward and shocks whatever stands too close.",
+    "zh": "格雷姆林装备.推动附近机器, 并电击靠得太近的东西."
+  },
+  "jei.kindredspirits.boxing_gloves": {
+    "en": "Use on your tamed T-Rex to equip. It reaches three blocks further and hits for two more damage. Use it again with another item from its gear list to swap, or take it off from the charm screen.",
+    "zh": "对你的已驯服霸王龙使用以装备.它的攻击距离增加三格, 伤害增加两点.再次使用它并配合其装备列表中的另一件物品可替换, 或在护符界面中卸下."
+  },
+  "jei.kindredspirits.dragon_tablet": {
+    "en": "Use on your tamed Baby Dragon to equip. Its breath attack becomes a meteor that falls onto its target and scorches everything nearby. While it carries the tablet it occasionally wanders off for half a minute before coming back.",
+    "zh": "对你的已驯服幼龙使用以装备.它的吐息攻击变为陨石, 落向目标并灼烧附近的一切.携带石板时它偶尔会离开半分钟再回来."
+  },
+  "jei.kindredspirits.running_shoes": {
+    "en": "Use on your tamed Nightfox to equip. It moves 60% faster and Swift Step grants Speed II instead of Speed I.",
+    "zh": "对你的已驯服夜狐使用以装备.它移动速度提高 60%, 疾步改为提供速度 II 而非速度 I."
+  },
+  "jei.kindredspirits.battery": {
+    "en": "Use on your tamed Gremlin to equip. Every second there is a one in ten chance it pushes a nearby machine eight ticks further along, and the jolt deals 2 lightning damage to every hostile within 3 blocks.",
+    "zh": "对你的已驯服格雷姆林使用以装备.每秒有十分之一的几率将附近的机器推进八个刻, 电击造成 2 点闪电伤害并影响 3 格内的每个敌对生物."
+  },
+  "death.attack.kindredspirits.mirror_strike": {
+    "en": "%1$s was struck by %2$sÃ¢â‚¬â„¢s reflection",
+    "zh": "%1$s 被 %2$s 的倒影击中"
+  },
+  "death.attack.kindredspirits.mirror_strike.player": {
+    "en": "%1$s was struck by %2$sÃ¢â‚¬â„¢s reflection while fighting %3$s",
+    "zh": "%1$s 被 %2$s 的倒影击中, 事发时正与 %3$s 战斗"
+  },
+  "entity.kindredspirits.quokka": {
+    "en": "Quokka",
+    "zh": "短尾矮袋鼠"
+  },
+  "item.kindredspirits.quokka_spawn_egg": {
+    "en": "Quokka Spawn Egg",
+    "zh": "短尾矮袋鼠刷怪蛋"
+  },
+  "item.kindredspirits.quokka_snack": {
+    "en": "Quokka Snack",
+    "zh": "短尾矮袋鼠零食"
+  },
+  "item.kindredspirits.quokka_snack.desc": {
+    "en": "Quokka gear. A happy snack that charms nearby monsters into fighting each other.",
+    "zh": "短尾矮袋鼠装备.一份令人快乐的零食, 能魅惑附近的怪物互相攻击."
+  },
+  "jei.kindredspirits.quokka_snack": {
+    "en": "Equip on your tamed Quokka. Every 30 seconds it has a 20% chance to charm a hostile within 8 blocks for 20 seconds, turning it against nearby monsters.",
+    "zh": "装备在你的已驯服短尾矮袋鼠身上.每 30 秒有 20% 的几率魅惑 8 格内一个敌对生物 20 秒, 使其转而攻击附近的怪物."
+  },
+  "subtitles.kindredspirits.nightfox_ambient": {
+    "en": "Nightfox calls",
+    "zh": "夜狐的叫声"
+  },
+  "subtitles.kindredspirits.nightfox_hurt": {
+    "en": "Nightfox hurts",
+    "zh": "夜狐受伤"
+  },
+  "subtitles.kindredspirits.nightfox_death": {
+    "en": "Nightfox fades away",
+    "zh": "夜狐消散"
+  },
+  "subtitles.kindredspirits.nightfox_special_attack": {
+    "en": "Nightfox casts shadow",
+    "zh": "夜狐施放暗影"
+  },
+  "subtitles.kindredspirits.nightfox_interact": {
+    "en": "Nightfox chirps",
+    "zh": "夜狐鸣叫"
+  },
+  "subtitles.kindredspirits.trex_ambient": {
+    "en": "T-Rex calls",
+    "zh": "霸王龙的叫声"
+  },
+  "subtitles.kindredspirits.trex_hurt": {
+    "en": "T-Rex hurts",
+    "zh": "霸王龙受伤"
+  },
+  "subtitles.kindredspirits.trex_death": {
+    "en": "T-Rex fades away",
+    "zh": "霸王龙消散"
+  },
+  "subtitles.kindredspirits.trex_attack": {
+    "en": "T-Rex attacks",
+    "zh": "霸王龙攻击"
+  },
+  "subtitles.kindredspirits.trex_special_attack": {
+    "en": "T-Rex roars",
+    "zh": "霸王龙咆哮"
+  },
+  "subtitles.kindredspirits.trex_interact": {
+    "en": "T-Rex rumbles",
+    "zh": "霸王龙低吼"
+  },
+  "subtitles.kindredspirits.mini_player_ambient": {
+    "en": "Mini Player calls",
+    "zh": "迷你玩家的叫声"
+  },
+  "subtitles.kindredspirits.mini_player_hurt": {
+    "en": "Mini Player hurts",
+    "zh": "迷你玩家受伤"
+  },
+  "subtitles.kindredspirits.mini_player_death": {
+    "en": "Mini Player fades away",
+    "zh": "迷你玩家消散"
+  },
+  "subtitles.kindredspirits.mini_player_attack": {
+    "en": "Mini Player attacks",
+    "zh": "迷你玩家攻击"
+  },
+  "subtitles.kindredspirits.mini_player_special_attack": {
+    "en": "Mirror strike echoes",
+    "zh": "镜影打击回响"
+  },
+  "subtitles.kindredspirits.mini_player_interact": {
+    "en": "Mini Player responds",
+    "zh": "迷你玩家回应"
+  },
+  "subtitles.kindredspirits.baby_dragon_ambient": {
+    "en": "Baby Dragon calls",
+    "zh": "幼龙的叫声"
+  },
+  "subtitles.kindredspirits.baby_dragon_hurt": {
+    "en": "Baby Dragon hurts",
+    "zh": "幼龙受伤"
+  },
+  "subtitles.kindredspirits.baby_dragon_special_attack": {
+    "en": "Baby Dragon breathes fire",
+    "zh": "幼龙喷火"
+  },
+  "subtitles.kindredspirits.baby_dragon_interact": {
+    "en": "Baby Dragon chirps",
+    "zh": "幼龙鸣叫"
+  },
+  "subtitles.kindredspirits.gremlin_ambient": {
+    "en": "Gremlin calls",
+    "zh": "格雷姆林的叫声"
+  },
+  "subtitles.kindredspirits.gremlin_hurt": {
+    "en": "Gremlin hurts",
+    "zh": "格雷姆林受伤"
+  },
+  "subtitles.kindredspirits.gremlin_death": {
+    "en": "Gremlin fades away",
+    "zh": "格雷姆林消散"
+  },
+  "subtitles.kindredspirits.gremlin_attack": {
+    "en": "Gremlin attacks",
+    "zh": "格雷姆林攻击"
+  },
+  "subtitles.kindredspirits.gremlin_special_attack": {
+    "en": "Gremlin sparks",
+    "zh": "格雷姆林迸出火花"
+  },
+  "subtitles.kindredspirits.gremlin_interact": {
+    "en": "Gremlin chirps",
+    "zh": "格雷姆林鸣叫"
+  },
+  "subtitles.kindredspirits.quokka_ambient": {
+    "en": "Quokka calls",
+    "zh": "短尾矮袋鼠的叫声"
+  },
+  "subtitles.kindredspirits.quokka_hurt": {
+    "en": "Quokka hurts",
+    "zh": "短尾矮袋鼠受伤"
+  },
+  "subtitles.kindredspirits.quokka_death": {
+    "en": "Quokka fades away",
+    "zh": "短尾矮袋鼠消散"
+  },
+  "subtitles.kindredspirits.quokka_attack": {
+    "en": "Quokka attacks",
+    "zh": "短尾矮袋鼠攻击"
+  },
+  "subtitles.kindredspirits.quokka_special_attack": {
+    "en": "Quokka radiates happiness",
+    "zh": "短尾矮袋鼠散发快乐"
+  },
+  "subtitles.kindredspirits.charm_summon": {
+    "en": "Spirit summoned",
+    "zh": "灵魂已召唤"
+  },
+  "subtitles.kindredspirits.charm_dismiss": {
+    "en": "Spirit recalled",
+    "zh": "灵魂已召回"
+  },
+  "subtitles.kindredspirits.charm_revive": {
+    "en": "Spirit revived",
+    "zh": "灵魂已复活"
+  },
+  "subtitles.kindredspirits.level_up": {
+    "en": "Companion levels up",
+    "zh": "伙伴升级"
+  },
+  "subtitles.kindredspirits.prestige": {
+    "en": "Companion gains a prestige star",
+    "zh": "伙伴获得一颗威望星"
+  },
+  "subtitles.kindredspirits.trex_egg_crack": {
+    "en": "T-Rex egg cracks",
+    "zh": "霸王龙蛋开裂"
+  },
+  "subtitles.kindredspirits.trex_egg_hatch": {
+    "en": "T-Rex egg hatches",
+    "zh": "霸王龙蛋孵化"
+  },
+  "subtitles.kindredspirits.trex_leap_impact": {
+    "en": "T-Rex lands heavily",
+    "zh": "霸王龙重重落地"
+  },
+  "subtitles.kindredspirits.trex_crush": {
+    "en": "T-Rex crushes ore",
+    "zh": "霸王龙碾碎矿石"
+  },
+  "subtitles.kindredspirits.mini_player_bow": {
+    "en": "Mini Player fires an arrow",
+    "zh": "迷你玩家射出箭矢"
+  },
+  "subtitles.kindredspirits.gremlin_snack": {
+    "en": "Gremlin munches",
+    "zh": "格雷姆林咀嚼"
+  },
+  "subtitles.kindredspirits.meteor_impact": {
+    "en": "Meteor impacts",
+    "zh": "陨石撞击"
+  },
+  "entity.kindredspirits.direwolf": {
+    "en": "Direwolf",
+    "zh": "恐狼"
+  },
+  "entity.kindredspirits.meteor": {
+    "en": "Meteor",
+    "zh": "陨石"
+  },
+  "entity.kindredspirits.spirit_arrow": {
+    "en": "Spirit Arrow",
+    "zh": "灵魂箭"
+  },
+  "item.kindredspirits.direwolf_spawn_egg": {
+    "en": "Direwolf Spawn Egg",
+    "zh": "恐狼刷怪蛋"
+  },
+  "item.kindredspirits.golden_bone": {
+    "en": "Golden Bone",
+    "zh": "金骨头"
+  },
+  "item.kindredspirits.spirit_bandage": {
+    "en": "Spirit Bandage",
+    "zh": "灵魂绷带"
+  },
+  "item.kindredspirits.spirit_bandage.desc": {
+    "en": "Use on your hurt companion to patch it up.",
+    "zh": "对受伤的伙伴使用以包扎伤口."
+  },
+  "jei.kindredspirits.spirit_bandage": {
+    "en": "Two paper and a string make two bandages. Use one on a hurt companion you own to restore 3 hearts. A golden apple heals more.",
+    "zh": "两张纸和一根线可制作两个绷带.对你拥有的受伤伙伴使用一个可恢复 3 颗心.金苹果恢复更多."
+  },
+  "item.kindredspirits.golden_bone.desc": {
+    "en": "Use on a wolf to call out the Direwolf in it. Tames and bonds a wild Direwolf.",
+    "zh": "对狼使用可唤出其中的恐狼.可驯服野生恐狼并与之建立羁绊."
+  },
+  "jei.kindredspirits.golden_bone": {
+    "en": "Craft it from a bone and eight gold nuggets. Use it on any wolf and the wolf becomes a Direwolf: a wolf you had already tamed comes out as your tamed Direwolf, a wild one comes out wild. It is also what tames a wild Direwolf, one in three per bone, and what you feed a bonded one to raise bond.",
+    "zh": "用一根骨头和八个金粒合成.对任意一只狼使用, 这只狼就会变成恐狼: 你已驯服的狼会变成你驯服的恐狼, 野生的狼仍是野生.它也是驯服野生恐狼所用的物品, 每根骨头有三分之一的几率, 还可喂给已羁绊的恐狼以提升羁绊."
+  },
+  "jei.kindredspirits.wolf_armor_direwolf": {
+    "en": "Use on your tamed Direwolf to equip. The armour value applies as it would on a wolf; it is never drawn on the model and never loses durability.",
+    "zh": "对已驯服的恐狼使用以装备.护甲值如狼一般生效; 它从不显示在模型上, 也不会损失耐久."
+  },
+  "subtitles.kindredspirits.direwolf_ambient": {
+    "en": "Direwolf howls",
+    "zh": "恐狼嚎叫"
+  },
+  "subtitles.kindredspirits.direwolf_hurt": {
+    "en": "Direwolf hurts",
+    "zh": "恐狼受伤"
+  },
+  "subtitles.kindredspirits.direwolf_death": {
+    "en": "Direwolf fades away",
+    "zh": "恐狼消散"
+  },
+  "subtitles.kindredspirits.direwolf_attack": {
+    "en": "Direwolf bites",
+    "zh": "恐狼撕咬"
+  },
+  "subtitles.kindredspirits.direwolf_special_attack": {
+    "en": "Direwolf growls",
+    "zh": "恐狼低吼"
+  },
+  "subtitles.kindredspirits.direwolf_interact": {
+    "en": "Direwolf pants",
+    "zh": "恐狼喘气"
+  }
+}

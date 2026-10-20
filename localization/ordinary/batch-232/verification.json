@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "232",
+  "namespace": "rgp_client",
+  "source_keys": 132,
+  "unique_values": 129,
+  "chinese_values": 132,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 132,
+  "source_sha256": "663e8a09d09e830d4b604ffe168706fd94cab858c0e0abafcefa10f8a94cb7aa",
+  "in_game_tested": false
+}

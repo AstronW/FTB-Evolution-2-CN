@@ -1,0 +1,21 @@
+{
+  "batch": "191",
+  "namespace": "buildguide",
+  "jar": ".minecraft/mods/BuildGuide-26.1.2-0.4.9.jar",
+  "language_path": "assets/buildguide/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/buildguide/lang/zh_cn.json",
+  "include_keys": [
+    "config.buildguide.asyncEnabled",
+    "config.buildguide.asyncEnabledComment",
+    "config.buildguide.persistenceEnabled",
+    "config.buildguide.persistenceEnabledComment",
+    "config.buildguide.shapeListRandomColorsDefaultEnabled",
+    "config.buildguide.shapeListRandomColorsDefaultEnabledComment",
+    "property.buildguide.degrees",
+    "screen.buildguide.cubesize",
+    "shape.buildguide.helix",
+    "shape.buildguide.polygonalpyramid"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

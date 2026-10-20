@@ -1,0 +1,20 @@
+{
+  "ftbteams.team_already_exists": "队伍 %s 已存在!",
+  "ftbteams.out_of_lives": "你的队伍已用完生命! 无法邀请新成员!",
+  "ftbteams.lost_a_life": "你的队伍失去了一条生命! 剩余 %s / %s 条生命!",
+  "ftbteams.kicked_no_lives": "玩家 %s 因死亡被移出队伍, 且你的队伍已没有剩余生命!",
+  "ftbteams.disbanded_no_lives": "你的队伍因生命与成员耗尽而解散!",
+  "ftbteams.gui.toggle_chat": "单击切换",
+  "ftbteams.message.limited_lives": "你的队伍剩余 %s / %s 条生命!",
+  "ftbteams.message.limited_lives.warn": "如果你死亡, 将被移出队伍!",
+  "ftbteams.message.chat_redirected.on": "聊天消息将转发到队伍聊天",
+  "ftbteams.message.chat_redirected.off": "聊天消息将发送到原版聊天",
+  "ftbteams.message.added_stage": "已添加队伍阶段: %s",
+  "ftbteams.message.no_team_stages": "此队伍没有队伍阶段",
+  "ftbteams.message.removed_stage": "已移除队伍阶段: %s",
+  "ftbteams.message.team_stages_header": "此队伍有 %s 个队伍阶段:",
+  "ftbteams.message.set_property": "已将属性 %s 设为 %s",
+  "ftbteams.message.parse_failed": "无法解析值: '%s'",
+  "ftbteams.message.property_not_editable": "属性 %s 不可编辑!",
+  "ftbteams.party_creation_failed": "创建队伍时出错! %s"
+}

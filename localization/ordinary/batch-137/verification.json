@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "137",
+  "namespace": "agritechevolved",
+  "source_keys": 158,
+  "unique_values": 142,
+  "chinese_values": 157,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 158,
+  "source_sha256": "46e77e61fe853975b1e673293d9059384dc20b3268b14b9e399b024bc54dce03",
+  "in_game_tested": false
+}

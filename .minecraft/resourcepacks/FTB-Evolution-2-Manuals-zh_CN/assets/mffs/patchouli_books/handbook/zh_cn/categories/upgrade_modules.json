@@ -1,0 +1,6 @@
+{
+  "name": "升级模块",
+  "description": "各类力场机器通用的升级模块.",
+  "sortnum": 2,
+  "icon": "mffs:scale_module"
+}

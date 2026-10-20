@@ -1,0 +1,10 @@
+{
+  "block.rsrreforged.requester": "请求器",
+  "button.rsrreforged:requester.save": "保存",
+  "block.rsrreforged.crafting_emitter": "合成发射器",
+  "block.rsrreforged.crafting_emitter.tooltip": "当指定数量的物品/流体正在处理时, 发出红石信号.",
+  "block.rsrreforged.requester.tooltip": "使指定数量的物品/流体保持库存.",
+  "block.rsrreforged.requester.tooltip.filter": "应在存储网络中保持库存的资源",
+  "block.rsrreforged.crafting_emitter.tooltip.filter": "应发出红石信号的资源",
+  "creativetab.rsrreforged.rsrreforgedtab": "RSRequestify: Reforged"
+}

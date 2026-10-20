@@ -1,0 +1,59 @@
+Roll Distance	翻滚距离
+Combat Roll Recharge	战斗翻滚充能时间
+Roll Recharge	翻滚充能时间
+Consuming Speed	进食速度
+Fall Reduction	摔落伤害减免
+Mount Speed	坐骑速度
+Oxygen Bonus	氧气加成
+Max Stamina	精力上限
+Stamina Recovery	精力恢复
+Paragliding Stamina Efficiency	滑翔精力效率
+Safe Fall Distance	安全摔落距离
+Sneaking Speed	潜行速度
+Sprinting Speed	疾跑速度
+Stamina	精力
+Block Interaction Range	方块交互距离
+Exhaustion Modifier	消耗修正
+Experience Gained	经验获取
+Fortune	时运
+Ultimine Max Blocks	连锁采集方块上限
+Max Blocks Modifier	方块上限修正
+Pickaxe Speed	镐采掘速度
+Submerged Mining Speed	水下采掘速度
+Armor Pierce	护甲穿透
+Armor Shred	护甲削减
+Armor Toughness	盔甲韧性
+Attack Speed	攻击速度
+Axe Damage	斧伤害
+Axe Speed	斧攻击速度
+Crit Chance	暴击几率
+Crit Damage	暴击伤害
+Current Hp Damage	当前生命值伤害
+Current HP Damage	当前生命值伤害
+Damage Reflection	伤害反射
+Entity Interaction Range	实体交互距离
+Fire Damage	火焰伤害
+Healing	治疗效果
+Knockback Resistance	击退抗性
+Life Steal	生命偷取
+Luck	幸运
+Max Health	生命值上限
+Melee Damage	近战伤害
+Melee Resistance	近战抗性
+Natural Regeneration	自然恢复
+Overheal	过量治疗
+Prot Pierce	保护穿透
+Prot Shred	保护削减
+Ranged Resistance	远程抗性
+Repair Cost	修理消耗
+Resistance	伤害抗性
+Scythe Damage	镰刀伤害
+Spear Damage	长矛伤害
+Sword Damage	剑伤害
+Arrow Damage	箭矢伤害
+Arrow Velocity	箭矢速度
+Draw Speed	拉弓速度
+Ranged Damage	远程伤害
+Thrown Weapon Damage	投掷武器伤害
+Throw Velocity	投掷速度
+Pin Chance	定身几率

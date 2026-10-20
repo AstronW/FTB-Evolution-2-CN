@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "088",
+  "namespace": "laserio",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 2,
+  "source_sha256": "f9d90fdf438dbf73df19ee41ed394fd6545442c4ec448476d8e1f4c0d3b19df5",
+  "in_game_tested": false
+}

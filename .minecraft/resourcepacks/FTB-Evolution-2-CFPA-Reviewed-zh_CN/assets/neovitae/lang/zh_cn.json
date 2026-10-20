@@ -1,0 +1,15 @@
+{
+  "book.neovitae.guide.rituals.ritual_celerity.multiblock.text": "[#](2E8B57)可用仪式占卜杖[幽暗]简化搭建操作.[#]()",
+  "book.neovitae.guide.tabula_vitae.flask_soul_snare.intro.title": "灵魂受缚",
+  "book.neovitae.guide.tabula_vitae.flask_soul_snare.name": "灵魂受缚",
+  "gui.neovitae.routing.spiritus": "灵质",
+  "gui.neovitae.sanguine_crafter.group.orb": "宝珠槽",
+  "gui.neovitae.sanguine_crafter.mode": "模式: %s",
+  "gui.neovitae.sanguine_crafter.mode.crafting.short": "合成",
+  "gui.neovitae.sanguine_crafter.mode.forge": "狱火锻炉",
+  "gui.neovitae.sanguine_crafter.mode.tabula": "命血台桌",
+  "gui.neovitae.sanguine_crafter.owner": "所有者: %s",
+  "gui.neovitae.sanguine_crafter.status.crafting": "合成中",
+  "gui.neovitae.sanguine_crafter.status.idle": "空闲",
+  "tooltip.neovitae.sentientSpear.desc": "可由你物品栏中的灵质增强"
+}

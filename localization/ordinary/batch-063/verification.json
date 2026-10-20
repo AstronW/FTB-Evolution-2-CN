@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "063",
+  "namespace": "refinedtypes",
+  "source_keys": 75,
+  "unique_values": 70,
+  "chinese_values": 75,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 75,
+  "source_sha256": "0cf95124934c9b9d44386544ed4a5c6dfca1c2ef699cb55c6f4e7a6c62612f53",
+  "in_game_tested": false
+}

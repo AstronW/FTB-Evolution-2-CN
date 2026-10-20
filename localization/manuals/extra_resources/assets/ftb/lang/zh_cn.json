@@ -1,0 +1,10 @@
+{
+  "guide.ftb.power.name": "发电调整",
+  "guide.ftb.power.tooltip": "整合包各发电机的平衡改动",
+  "guide.ftb.crop_mutation.name": "农业杂交",
+  "guide.ftb.crop_mutation.tooltip": "FTB Evolution 2的神秘农业种子杂交组合",
+  "guide.ftb.skills.name": "技能树",
+  "guide.ftb.skills.tooltip": "FTB Evolution 2各技能树的升级方式",
+  "guide.ftb.hostile_networks.name": "敌对生物网络",
+  "guide.ftb.hostile_networks.tooltip": "FTB Evolution 2的数据模型与数据中心"
+}

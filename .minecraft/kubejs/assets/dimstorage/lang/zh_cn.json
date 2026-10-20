@@ -1,0 +1,8 @@
+{
+  "config.jade.plugin_dimstorage.dim_block_base": "为维度箱子启用自定义显示",
+  "config.jade.plugin_dimstorage.dim_tank": "为维度储罐启用自定义显示",
+  "message.dimstorage.bind_dimchest": "右击以绑定维度箱子",
+  "message.dimstorage.for_details": "以查看详情",
+  "message.dimstorage.hold": "按住",
+  "message.dimstorage.press": "按下"
+}

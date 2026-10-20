@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "221",
+  "namespace": "mns",
+  "source_keys": 7,
+  "unique_values": 7,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 5,
+  "installed_overlay_keys": 7,
+  "source_sha256": "0cec08a7e317bffff5634cc154411131a83a3b35d8fbd0839e1dede5c658958e",
+  "in_game_tested": false
+}

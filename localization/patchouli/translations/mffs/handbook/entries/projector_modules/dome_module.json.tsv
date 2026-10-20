@@ -1,0 +1,3 @@
+/name	穹顶模块
+/pages/0/text	$(5)穹顶模块$()可以放入$(l:mffs:machines/projector)力场投射器$()的矩阵槽位, 切断投射器 Y 值以下的所有投射方块, 形成穹顶形状.
+/pages/1/text	合成$(5)穹顶模块$().

@@ -1,0 +1,32 @@
+{
+  "name": "红石信号",
+  "icon": "minecraft:comparator",
+  "category": "animal_pen:category_aviary",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "你可以用红石比较器读取鸟舍的状态.它会根据 [0000] 二进制位所代表的可用操作返回数值."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "[000x]",
+      "text": "第一位表示鸟舍是否为空.只有鸟舍为空时才输出信号 0."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "[00x0]",
+      "text": "第二位表示动物是否可以繁殖. $(br2)结果为 3, 7, 11 或 15 时, 可以繁殖. $(br2)结果为 0, 1, 5, 9 或 13 时, 繁殖正在冷却."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "[0x00]",
+      "text": "第三位表示玩家能否使用第一种交互. $(br2)结果为 5, 7, 13 或 15 时, 第一种交互可用. $(br2)结果为 0, 1, 3, 9 或 11 时, 交互正在冷却."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "[x000]",
+      "text": "第四位表示玩家能否使用第二种交互. $(br2)结果为 9, 11, 13 或 15 时, 第二种交互可用. $(br2)结果为 0, 1, 3, 5 或 7 时, 交互正在冷却."
+    }
+  ]
+}

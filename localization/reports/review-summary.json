@@ -1,0 +1,13 @@
+{
+  "status": "static_review_passed",
+  "text_files": 50,
+  "visible_chapters": 41,
+  "language_keys": 4142,
+  "text_segments": 8122,
+  "intentional_unchanged_segments": 76,
+  "numeric_candidates_reviewed": 49,
+  "numeric_unresolved": 0,
+  "short_text_variants_reviewed": 12,
+  "short_text_variants_unresolved": 0,
+  "in_game_checked": false
+}

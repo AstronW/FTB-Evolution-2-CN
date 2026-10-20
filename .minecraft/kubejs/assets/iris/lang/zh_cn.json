@@ -1,0 +1,10 @@
+{
+  "iris.shaders.debug.restartNoDebug": "已启用光影调试; NeoForge 不支持 OpenGL 调试.",
+  "iris.load.failure.shader": "光影包加载失败! 请把错误报告给光影作者. ",
+  "iris.load.failure.generic": "Iris 在加载光影时遇到问题; 请报告给 Iris 开发者. ",
+  "iris.keybind.wireframe": "线框模式 (仅单人)",
+  "key.category.iris.keybinds": "Iris",
+  "iris.unsupported.iris": "Iris",
+  "options.iris.colorSpace": "色彩空间",
+  "options.iris.colorSpace.sodium_tooltip": "用于转换屏幕的色彩空间.在光影包基础上生效.不确定时使用 SRGB."
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "162",
+  "namespace": "irons_jewelry",
+  "source_keys": 47,
+  "unique_values": 38,
+  "chinese_values": 40,
+  "reviewed_non_prose_values": 7,
+  "installed_overlay_keys": 47,
+  "source_sha256": "a09328b7d9e2d4e09bd9df790104df43cd95cb18a073fb7d643a1e132d7b0d6b",
+  "in_game_tested": false
+}

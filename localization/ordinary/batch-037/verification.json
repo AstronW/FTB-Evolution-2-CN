@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "037",
+  "namespace": "neosync",
+  "source_keys": 28,
+  "unique_values": 28,
+  "chinese_values": 24,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 28,
+  "source_sha256": "80ff0bb89cf3c637fa6779b015d6163e86c8047468a4dfdd2e77ce80a2542f76",
+  "in_game_tested": false
+}

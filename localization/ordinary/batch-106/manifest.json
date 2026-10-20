@@ -1,0 +1,14 @@
+{
+  "batch": "106",
+  "namespace": "ftbbackups3",
+  "jar": ".minecraft/mods/ftb-backups-3-26.1.2.2.jar",
+  "language_path": "assets/ftbbackups3/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbbackups3/lang/zh_cn.json",
+  "include_keys": [
+    "ftbbackups3.lang.timer_progress"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "[%d%% | %d / %d]"
+  ]
+}

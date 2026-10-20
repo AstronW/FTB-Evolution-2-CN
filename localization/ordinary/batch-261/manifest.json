@@ -1,0 +1,17 @@
+{
+  "batch": "261",
+  "namespace": "crashutilities",
+  "jar": ".minecraft/mods/crashutilities-10.0.1.jar",
+  "language_path": "assets/crashutilities/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/crashutilities/lang/zh_cn.json",
+  "include_keys": [
+    "crashutils.keycategory",
+    "crashutils.openscreen",
+    "crashutils.copycontainer",
+    "crashutils.slottooltips"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Crash Utilities"
+  ]
+}

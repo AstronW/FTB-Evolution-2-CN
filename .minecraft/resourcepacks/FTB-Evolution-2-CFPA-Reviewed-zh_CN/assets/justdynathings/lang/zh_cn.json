@@ -1,0 +1,13 @@
+{
+  "justdynathings.goo.energy": "§c输入能量以激活",
+  "justdynathings.jei.alias.buffer.energy": "能量缓存",
+  "justdynathings.jei.alias.buffer.fluid": "流体缓存",
+  "justdynathings.jei.alias.buffer.item": "物品缓存",
+  "justdynathings.jei.alias.ethereal_block": "缥缈",
+  "justdynathings.jei.alias.generator": "能量生产设备",
+  "justdynathings.jei.alias.item_repairer": "物品修复设备",
+  "justdynathings.jei.alias.redstone_clock": "红石钟",
+  "justdynathings.jei.alias.timer": "计时器",
+  "justdynathings.jei.alias.trash_can": "垃圾桶",
+  "justdynathings.ticker.tick_overflow": "进刻器速度已限制至%s"
+}

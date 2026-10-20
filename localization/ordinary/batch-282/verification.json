@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "282",
+  "namespace": "placebo",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "57da498e94cf6afc7bcac4ebfda5729aa3e5e42f343a94b216b923c72124a997",
+  "in_game_tested": false
+}

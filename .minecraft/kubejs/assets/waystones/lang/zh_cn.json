@@ -1,0 +1,13 @@
+{
+  "container.waystones.personal_waystone_settings": "%s",
+  "gui.waystones.manage_waystones.hide_waystone": "隐藏传送石碑",
+  "gui.waystones.manage_waystones.show_waystone": "显示传送石碑",
+  "gui.waystones.waystone_selection.epitaph_requirement": "%s",
+  "gui.waystones.waystone_selection.twinbound_feather_requirement": "%s",
+  "gui.waystones.waystone_selection.twinbound_feather": "%s",
+  "chat.waystones.requirements_not_met.specific": "失败 - %s",
+  "chat.waystones.destination_out_of_bounds": "目的地超出世界边界.",
+  "commands.waystones.list.coordinates": "%d, %d, %d",
+  "waystones.configuration.rules.warpSettings": "传送设置",
+  "waystones.configuration.rules.warpSettings.tooltip": "warpRequirements 配置中使用的变量列表."
+}

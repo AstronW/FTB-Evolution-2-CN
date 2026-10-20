@@ -1,0 +1,18 @@
+{
+  "name": "收集模块",
+  "icon": "mffs:collection_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:collection_module",
+      "link_recipe": true,
+      "text": "把$(5)收集模块$()放入$(l:mffs:machines/projector)力场投射器$()的矩阵槽位, 并与$(l:mffs:projector_modules/disintegration_module)$(5)解构模块$()搭配时, 它会把被毁方块掉落的物品收集到投射器周围的容器里."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:collection_module",
+      "text": "合成$(5)收集模块$()."
+    }
+  ]
+}

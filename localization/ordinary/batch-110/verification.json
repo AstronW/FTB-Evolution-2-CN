@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "110",
+  "namespace": "another_config_manager",
+  "source_keys": 113,
+  "unique_values": 106,
+  "chinese_values": 112,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 113,
+  "source_sha256": "b3c2941de546123b23c925b07ca398d05bb239018fc407cea584c33c157c067b",
+  "in_game_tested": false
+}

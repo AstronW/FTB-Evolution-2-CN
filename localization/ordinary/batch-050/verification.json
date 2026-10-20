@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "050",
+  "namespace": "hostilenetworks",
+  "source_keys": 8,
+  "unique_values": 8,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 8,
+  "installed_overlay_keys": 71,
+  "source_sha256": "e791c8af3cecd75192ad36f11cdfbd9e8645c664284a07f0ea23db17e9fb8697",
+  "in_game_tested": false
+}

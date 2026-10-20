@@ -1,0 +1,46 @@
+{
+  "getting_started.mdx": {
+    "name": "入门指南",
+    "icon": null
+  },
+  "kindred_charm.mdx": {
+    "name": "羁绊护符",
+    "icon": null
+  },
+  "bond.mdx": {
+    "name": "羁绊",
+    "icon": null
+  },
+  "leveling.mdx": {
+    "name": "升级",
+    "icon": null
+  },
+  "stars.mdx": {
+    "name": "星级与威望",
+    "icon": null
+  },
+  "storage.mdx": {
+    "name": "存储",
+    "icon": null
+  },
+  "abilities.mdx": {
+    "name": "能力",
+    "icon": null
+  },
+  "equipment.mdx": {
+    "name": "装备",
+    "icon": null
+  },
+  "companion_bed.mdx": {
+    "name": "伙伴床",
+    "icon": null
+  },
+  "spirits": {
+    "name": "灵魂",
+    "icon": null
+  },
+  "commands.mdx": {
+    "name": "指令",
+    "icon": null
+  }
+}

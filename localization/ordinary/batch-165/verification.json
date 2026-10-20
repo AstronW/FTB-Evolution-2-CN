@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "165",
+  "namespace": "gateways",
+  "source_keys": 11,
+  "unique_values": 10,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 7,
+  "installed_overlay_keys": 11,
+  "source_sha256": "02000aa1803a1e1c47e3a37a4d64c08274fd43b7edb1b7e6aacc901b57848d1d",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "125",
+  "namespace": "eclipseui",
+  "source_keys": 10,
+  "unique_values": 10,
+  "chinese_values": 10,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 10,
+  "source_sha256": "e64b4b26ba08fbf4f0f71d969aaa2d8b9e624eaa4026ffb4eab0831e1550dd1e",
+  "in_game_tested": false
+}

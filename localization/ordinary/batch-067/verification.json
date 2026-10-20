@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "067",
+  "namespace": "transparentae2",
+  "source_keys": 19,
+  "unique_values": 19,
+  "chinese_values": 19,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 19,
+  "source_sha256": "e7456e97d1e8a7d35f26616c82ff19e76a6e633bba857996a7ab2cf013f43262",
+  "in_game_tested": false
+}

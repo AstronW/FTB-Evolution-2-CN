@@ -1,0 +1,20 @@
+{
+  "batch": "049",
+  "namespace": "hephaestus_tools",
+  "jar": ".minecraft/mods/hephaestus_tools-neoforge-26.1.2-1.0.8.jar",
+  "language_path": "assets/hephaestus_tools/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/hephaestus_tools/lang/zh_cn.json",
+  "include_keys": [
+    "item.hephaestus_tools.paxel",
+    "layout.hephaestus_tools.paxel",
+    "layout.hephaestus_tools.paxel.description",
+    "mastery.hephaestus_tools.pathfinder",
+    "mastery.hephaestus_tools.pathfinder.desc",
+    "mastery.hephaestus_tools.trailblazer",
+    "mastery.hephaestus_tools.trailblazer.desc",
+    "mastery.hephaestus_tools.frontier",
+    "mastery.hephaestus_tools.frontier.desc"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

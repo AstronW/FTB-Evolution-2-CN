@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "192",
+  "namespace": "crafting_on_a_stick",
+  "source_keys": 8,
+  "unique_values": 2,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 7,
+  "installed_overlay_keys": 8,
+  "source_sha256": "c5b31af2e30db8265842ceb77c49864606687f32b88d9d6f05f6951e65cbafb0",
+  "in_game_tested": false
+}

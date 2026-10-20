@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "275",
+  "namespace": "adrenaline",
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 2,
+  "source_sha256": "8818cc16af9b07a9f0a331cbac72ce409a9de5e232ea6ef7c4ac4d94effa5917",
+  "in_game_tested": false
+}

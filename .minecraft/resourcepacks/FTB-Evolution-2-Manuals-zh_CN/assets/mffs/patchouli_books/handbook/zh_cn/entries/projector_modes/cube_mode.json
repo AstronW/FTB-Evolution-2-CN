@@ -1,0 +1,32 @@
+{
+  "name": "立方模式",
+  "icon": "mffs:cube_mode",
+  "category": "mffs:projector_modes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:cube_mode",
+      "link_recipe": true,
+      "text": "默认情况下, $(2)立方模式$()让投射器产生厚度恰为 1 格的立方体力场.每个$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()使力场在所有方向上扩大 1 格."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:cube_mode",
+      "text": "合成$(2)立方模式$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "力场调整",
+      "text": "$(2)立方模式$()物品也能生成长方体 (直角棱柱) 力场.把$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()放入标有方向箭头的物品槽, 力场只会沿该方向扩大 1 格.例如要给力场增高 1 格, 就把$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()放入箭头指向界面左上或右上角的物品槽."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/cube_mode.png"
+      ],
+      "border": true,
+      "title": "投射展示",
+      "text": "缩放后的$(2)立方模式$()力场投射效果."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "热带鱼",
+  "icon": "minecraft:tropical_fish_spawn_egg",
+  "category": "animal_pen:category_aquarium",
+  "pages": [
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:tropical_fish",
+      "scale": 1
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:seagrass,minecraft:kelp",
+      "text": "用海草或海带喂热带鱼进行繁殖, 增加水族箱里的数量."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tag:minecraft:swords,tag:minecraft:axes",
+      "text": "对水族箱使用剑或斧会杀死热带鱼并掉落其战利品."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:water_bucket",
+      "text": "你可以用水桶从水族箱里拾起热带鱼."
+    }
+  ]
+}

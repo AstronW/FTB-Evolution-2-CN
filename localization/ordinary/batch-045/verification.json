@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "045",
+  "namespace": "little_big_redstone",
+  "source_keys": 11,
+  "unique_values": 10,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 11,
+  "installed_overlay_keys": 11,
+  "source_sha256": "c97eba253657fc841e267db977f3f9fb7675c2c295fdd12d5fef0338f93567af",
+  "in_game_tested": false
+}

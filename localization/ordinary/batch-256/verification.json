@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "256",
+  "namespace": "balm",
+  "source_keys": 6,
+  "unique_values": 6,
+  "chinese_values": 2,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 6,
+  "source_sha256": "8ca908bfbb1e13521004ac3ce9f1e499173c9ad12b3bf53e92e23cdbaf83630f",
+  "in_game_tested": false
+}

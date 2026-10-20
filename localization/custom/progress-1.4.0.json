@@ -1,0 +1,68 @@
+{
+  "target_pack_version": "1.4.0",
+  "stage": "pack-specific content",
+  "batches": [
+    {
+      "batch": "batch-001",
+      "status": "static_passed",
+      "translated_fields": 2,
+      "reused_language_keys": 50
+    },
+    {
+      "batch": "batch-002",
+      "status": "static_passed",
+      "translated_fields": 5
+    },
+    {
+      "batch": "batch-003",
+      "status": "static_passed",
+      "revised_keys": 12,
+      "new_translated_keys": 2,
+      "empty_value_preserved": 1,
+      "deferred_manual_keys": 2
+    },
+    {
+      "batch": "batch-004",
+      "status": "static_passed"
+    }
+  ],
+  "remaining": [
+    {
+      "scope": "FancyMenu title screen image button lettering",
+      "source": "config/fancymenu/assets/buttons/*.png",
+      "status": "pending visual batch; labels are baked into PNGs, customization label fields empty; not covered by language-key scan"
+    },
+    {
+      "scope": "All pack-specific UI and hardcoded display text beyond shop/dialog/runtime batches",
+      "status": "inventory ongoing; do not mark entire stage complete"
+    },
+    {
+      "scope": "Resource priority, NPC interaction, menu buttons and layout in Minecraft",
+      "status": "not tested"
+    }
+  ],
+  "in_game_tested": false,
+  "completed_scope": "Batches 001-004 only, statically verified; stage not complete",
+  "baseline_custom_source_keys": 1415,
+  "synthetic_source_keys": 34,
+  "verified_language_scope_keys": 1447,
+  "deferred_manual_source_keys": 0,
+  "static_validation": {
+    "status": "passed",
+    "command": "python project.py check",
+    "report": "localization/reports/project-migration-verification.json",
+    "checks": 30
+  },
+  "installation_scope": "localization/custom/installation-scope-1.4.0.json",
+  "completed_followups": [
+    {
+      "scope": "Witchery new handbook prose",
+      "keys": [
+        "book.witchery.guidebook.ritual.summon_coven_witch.description",
+        "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch.text"
+      ],
+      "status": "translated_in_language_overlay",
+      "record": "localization/custom/README.md"
+    }
+  ]
+}

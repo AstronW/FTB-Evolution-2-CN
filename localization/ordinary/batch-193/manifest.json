@@ -1,0 +1,18 @@
+{
+  "batch": "193",
+  "namespace": "fastbench",
+  "jar": ".minecraft/mods/FastWorkbench-26.1.2-10.0.0.jar",
+  "language_path": "assets/fastbench/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/fastbench/lang/zh_cn.json",
+  "include_keys": [
+    "info.fb.very_fast0",
+    "info.fb.very_fast1",
+    "info.fb.very_fast2",
+    "info.fb.very_fast3",
+    "info.fb.very_fast4",
+    "info.fb.very_fast5",
+    "info.fb.very_fast6"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

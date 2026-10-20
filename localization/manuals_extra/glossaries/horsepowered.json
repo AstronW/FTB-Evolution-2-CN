@@ -1,0 +1,214 @@
+{
+  "itemGroup.horsepowered": {
+    "en": "Horse Powered",
+    "zh": "马力驱动"
+  },
+  "item.horsepowered.flour": {
+    "en": "Flour",
+    "zh": "面粉"
+  },
+  "item.horsepowered.dough": {
+    "en": "Dough",
+    "zh": "面团"
+  },
+  "item.horsepowered.seed_oil_bucket": {
+    "en": "Seed Oil Bucket",
+    "zh": "种子油桶"
+  },
+  "item.horsepowered.guide": {
+    "en": "Horse Powered Guide",
+    "zh": "马力驱动指南"
+  },
+  "item.horsepowered.work_saddle": {
+    "en": "Work Saddle",
+    "zh": "工作鞍"
+  },
+  "item.horsepowered.work_saddle.contains": {
+    "en": "Carrying: %s",
+    "zh": "携带: %s"
+  },
+  "item.horsepowered.work_saddle.duplicate": {
+    "en": "That worker is already in the world",
+    "zh": "该劳力已存在于世界中"
+  },
+  "item.horsepowered.flint_and_tinder": {
+    "en": "Flint and Tinder",
+    "zh": "火镰与火绒"
+  },
+  "fluid_type.horsepowered.seed_oil": {
+    "en": "Seed Oil",
+    "zh": "种子油"
+  },
+  "block.horsepowered.seed_oil": {
+    "en": "Seed Oil",
+    "zh": "种子油"
+  },
+  "block.horsepowered.hand_grindstone": {
+    "en": "Hand Grindstone",
+    "zh": "手摇磨石"
+  },
+  "block.horsepowered.grindstone": {
+    "en": "Horse Grindstone",
+    "zh": "马匹磨石"
+  },
+  "block.horsepowered.chopping_block": {
+    "en": "Chopping Block",
+    "zh": "切菜墩"
+  },
+  "block.horsepowered.chopper": {
+    "en": "Horse Chopper",
+    "zh": "马匹切碎机"
+  },
+  "block.horsepowered.press": {
+    "en": "Horse Press",
+    "zh": "马匹压榨机"
+  },
+  "block.horsepowered.generator": {
+    "en": "Horse Powered Generator",
+    "zh": "马力发电机"
+  },
+  "block.horsepowered.creative_battery": {
+    "en": "Creative Battery",
+    "zh": "创造电池"
+  },
+  "block.horsepowered.drying_rack": {
+    "en": "Drying Rack",
+    "zh": "晾晒架"
+  },
+  "block.horsepowered.granite_anvil": {
+    "en": "Granite Anvil",
+    "zh": "花岗岩铁砧"
+  },
+  "block.horsepowered.animal_trap": {
+    "en": "Animal Trap",
+    "zh": "动物陷阱"
+  },
+  "block.horsepowered.wooden_hopper": {
+    "en": "Wooden Hopper",
+    "zh": "木漏斗"
+  },
+  "block.horsepowered.filler": {
+    "en": "Horse Chopper",
+    "zh": "马匹切碎机"
+  },
+  "gui.horsepowered.jei.grinding": {
+    "en": "Horse Grinding",
+    "zh": "马力研磨"
+  },
+  "gui.horsepowered.jei.manual_grinding": {
+    "en": "Manual Grinding",
+    "zh": "手动研磨"
+  },
+  "gui.horsepowered.jei.chopping": {
+    "en": "Horse Chopping",
+    "zh": "马力切碎"
+  },
+  "gui.horsepowered.jei.manual_chopping": {
+    "en": "Manual Chopping",
+    "zh": "手动切碎"
+  },
+  "gui.horsepowered.jei.pressing": {
+    "en": "Horse Pressing",
+    "zh": "马力压榨"
+  },
+  "gui.horsepowered.jei.drying": {
+    "en": "Drying",
+    "zh": "晾晒"
+  },
+  "gui.horsepowered.jei.crushing": {
+    "en": "Crushing",
+    "zh": "破碎"
+  },
+  "gui.horsepowered.jei.strikes": {
+    "en": "Strikes: %s",
+    "zh": "敲击次数: %s"
+  },
+  "gui.horsepowered.jei.trapping": {
+    "en": "Trapping",
+    "zh": "诱捕"
+  },
+  "gui.horsepowered.jei.bottling": {
+    "en": "Bottling",
+    "zh": "装瓶"
+  },
+  "gui.horsepowered.jei.trap_time": {
+    "en": "Min wait: %s",
+    "zh": "最短等待: %s"
+  },
+  "gui.horsepowered.jei.trap_chance": {
+    "en": "5%% Chance/sec",
+    "zh": "每秒 5%% 几率"
+  },
+  "gui.horsepowered.jei.trap_biome": {
+    "en": "Biome: %s",
+    "zh": "生物群系: %s"
+  },
+  "gui.horsepowered.jei.trap_waterlogged": {
+    "en": "Requires water",
+    "zh": "需要水"
+  },
+  "gui.horsepowered.jei.trap_bait_consumed_none": {
+    "en": "Bait consumed: No",
+    "zh": "消耗诱饵: 否"
+  },
+  "gui.horsepowered.jei.trap_bait_consumed_chance": {
+    "en": "Bait consumed: %s%% Chance",
+    "zh": "消耗诱饵: %s%% 几率"
+  },
+  "gui.horsepowered.jei.time": {
+    "en": "Time: %s",
+    "zh": "时间: %s"
+  },
+  "gui.horsepowered.jei.chops": {
+    "en": "Chops: %s",
+    "zh": "切碎次数: %s"
+  },
+  "gui.horsepowered.jei.turns": {
+    "en": "Turns: %s",
+    "zh": "转动次数: %s"
+  },
+  "gui.horsepowered.jei.chance": {
+    "en": "%s%% chance",
+    "zh": "%s%% 几率"
+  },
+  "gui.horsepowered.jei.hunger": {
+    "en": "Hunger: %s",
+    "zh": "饥饿值: %s"
+  },
+  "config.jade.plugin_horsepowered.grindstone": {
+    "en": "Horse Grindstone",
+    "zh": "马匹磨石"
+  },
+  "config.jade.plugin_horsepowered.chopper": {
+    "en": "Horse Chopper",
+    "zh": "马匹切碎机"
+  },
+  "config.jade.plugin_horsepowered.press": {
+    "en": "Horse Press",
+    "zh": "马匹压榨机"
+  },
+  "config.jade.plugin_horsepowered.manual": {
+    "en": "Manual Blocks",
+    "zh": "手动方块"
+  },
+  "config.jade.plugin_horsepowered.filler": {
+    "en": "Multi-block Extension",
+    "zh": "多方块扩展"
+  },
+  "config.jade.plugin_horsepowered.drying_rack": {
+    "en": "Drying Rack",
+    "zh": "晾晒架"
+  },
+  "config.jade.plugin_horsepowered.granite_anvil": {
+    "en": "Granite Anvil",
+    "zh": "花岗岩铁砧"
+  },
+  "config.jade.plugin_horsepowered.animal_trap": {
+    "en": "Animal Trap",
+    "zh": "动物陷阱"
+  },
+  "biome.horsepowered.fish_habitat": {
+    "en": "Rivers and Oceans",
+    "zh": "河流与海洋"
+  }
+}

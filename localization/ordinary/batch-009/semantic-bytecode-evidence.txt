@@ -1,0 +1,331 @@
+Compiled from "LifeDrain.java"
+public class at.minecraftschurli.mods.arsmagicalegacy.spell.component.LifeDrain extends at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellComponent$CastEntity {
+  public at.minecraftschurli.mods.arsmagicalegacy.spell.component.LifeDrain();
+    Code:
+         0: aload_0
+         1: iconst_2
+         2: anewarray     #1                  // class at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat
+         5: dup
+         6: iconst_0
+         7: getstatic     #3                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.DAMAGE_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+        10: aastore
+        11: dup
+        12: iconst_1
+        13: getstatic     #9                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.HEALING_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+        16: aastore
+        17: invokespecial #12                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponent$CastEntity."<init>":([Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;)V
+        20: return
+
+  public at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellComponentCastResult castEntity(java.util.List<at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellModifier>, at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellCastContext, net.minecraft.world.phys.EntityHitResult);
+    Code:
+         0: aload_2
+         1: invokevirtual #18                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.spell:()Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;
+         4: astore        4
+         6: aload_3
+         7: invokevirtual #24                 // Method net/minecraft/world/phys/EntityHitResult.getEntity:()Lnet/minecraft/world/entity/Entity;
+        10: astore        6
+        12: aload         6
+        14: instanceof    #30                 // class net/minecraft/world/entity/LivingEntity
+        17: ifeq          30
+        20: aload         6
+        22: checkcast     #30                 // class net/minecraft/world/entity/LivingEntity
+        25: astore        5
+        27: goto          36
+        30: aload         4
+        32: invokestatic  #32                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.pass:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+        35: areturn
+        36: aload_2
+        37: invokevirtual #38                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.caster:()Lnet/minecraft/world/entity/LivingEntity;
+        40: astore        6
+        42: aload         6
+        44: ifnonnull     56
+        47: aload         4
+        49: getstatic     #42                 // Field at/minecraftschurli/mods/arsmagicalegacy/api/constants/AMTranslations.SPELL_FAIL_NO_CASTER:Lnet/minecraft/network/chat/Component;
+        52: invokestatic  #48                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.failure:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;Lnet/minecraft/network/chat/Component;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+        55: areturn
+        56: aload_2
+        57: invokevirtual #52                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.level:()Lnet/minecraft/world/level/Level;
+        60: astore        8
+        62: aload         8
+        64: instanceof    #56                 // class net/minecraft/server/level/ServerLevel
+        67: ifeq          80
+        70: aload         8
+        72: checkcast     #56                 // class net/minecraft/server/level/ServerLevel
+        75: astore        7
+        77: goto          86
+        80: aload         4
+        82: invokestatic  #32                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.pass:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+        85: areturn
+        86: invokestatic  #58                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/ArsMagicaApi.spellHelper:()Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper;
+        89: getstatic     #64                 // Field at/minecraftschurli/mods/arsmagicalegacy/AMServerConfig.LIFE_DRAIN_DAMAGE:Lnet/neoforged/neoforge/common/ModConfigSpec$DoubleValue;
+        92: invokevirtual #70                 // Method net/neoforged/neoforge/common/ModConfigSpec$DoubleValue.get:()Ljava/lang/Object;
+        95: checkcast     #76                 // class java/lang/Double
+        98: invokevirtual #78                 // Method java/lang/Double.doubleValue:()D
+       101: aload         5
+       103: invokevirtual #82                 // Method net/minecraft/world/entity/LivingEntity.isInvertedHealAndHarm:()Z
+       106: ifeq          115
+       109: getstatic     #9                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.HEALING_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+       112: goto          118
+       115: getstatic     #3                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.DAMAGE_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+       118: aload_1
+       119: aload_2
+       120: invokeinterface #86,  6           // InterfaceMethod at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper.getModifiedStat:(DLat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;Ljava/util/List;Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext;)D
+       125: d2f
+       126: fstore        8
+       128: aload         5
+       130: aload         7
+       132: aload         7
+       134: invokevirtual #92                 // Method net/minecraft/server/level/ServerLevel.damageSources:()Lnet/minecraft/world/damagesource/DamageSources;
+       137: aload         6
+       139: aload_2
+       140: invokevirtual #96                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.directEntity:()Lnet/minecraft/world/entity/Entity;
+       143: invokevirtual #99                 // Method net/minecraft/world/damagesource/DamageSources.indirectMagic:(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/world/damagesource/DamageSource;
+       146: fload         8
+       148: invokevirtual #105                // Method net/minecraft/world/entity/LivingEntity.hurtServer:(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/damagesource/DamageSource;F)Z
+       151: ifeq          161
+       154: aload         6
+       156: fload         8
+       158: invokevirtual #109                // Method net/minecraft/world/entity/LivingEntity.heal:(F)V
+       161: aload         4
+       163: invokestatic  #113                // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.success:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+       166: areturn
+}
+Compiled from "LifeTap.java"
+public class at.minecraftschurli.mods.arsmagicalegacy.spell.component.LifeTap extends at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellComponent$CastEntity {
+  public at.minecraftschurli.mods.arsmagicalegacy.spell.component.LifeTap();
+    Code:
+         0: aload_0
+         1: iconst_2
+         2: anewarray     #1                  // class at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat
+         5: dup
+         6: iconst_0
+         7: getstatic     #3                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.DAMAGE_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+        10: aastore
+        11: dup
+        12: iconst_1
+        13: getstatic     #9                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.HEALING_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+        16: aastore
+        17: invokespecial #12                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponent$CastEntity."<init>":([Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;)V
+        20: return
+
+  public at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellComponentCastResult castEntity(java.util.List<at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellModifier>, at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellCastContext, net.minecraft.world.phys.EntityHitResult);
+    Code:
+         0: aload_2
+         1: invokevirtual #18                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.spell:()Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;
+         4: astore        4
+         6: aload_3
+         7: invokevirtual #24                 // Method net/minecraft/world/phys/EntityHitResult.getEntity:()Lnet/minecraft/world/entity/Entity;
+        10: astore        6
+        12: aload         6
+        14: instanceof    #30                 // class net/minecraft/world/entity/LivingEntity
+        17: ifeq          30
+        20: aload         6
+        22: checkcast     #30                 // class net/minecraft/world/entity/LivingEntity
+        25: astore        5
+        27: goto          36
+        30: aload         4
+        32: invokestatic  #32                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.pass:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+        35: areturn
+        36: aload_2
+        37: invokevirtual #38                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.caster:()Lnet/minecraft/world/entity/LivingEntity;
+        40: astore        6
+        42: aload         6
+        44: ifnonnull     56
+        47: aload         4
+        49: getstatic     #42                 // Field at/minecraftschurli/mods/arsmagicalegacy/api/constants/AMTranslations.SPELL_FAIL_NO_CASTER:Lnet/minecraft/network/chat/Component;
+        52: invokestatic  #48                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.failure:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;Lnet/minecraft/network/chat/Component;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+        55: areturn
+        56: aload_2
+        57: invokevirtual #52                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.level:()Lnet/minecraft/world/level/Level;
+        60: astore        8
+        62: aload         8
+        64: instanceof    #56                 // class net/minecraft/server/level/ServerLevel
+        67: ifeq          80
+        70: aload         8
+        72: checkcast     #56                 // class net/minecraft/server/level/ServerLevel
+        75: astore        7
+        77: goto          86
+        80: aload         4
+        82: invokestatic  #32                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.pass:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+        85: areturn
+        86: invokestatic  #58                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/ArsMagicaApi.spellHelper:()Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper;
+        89: getstatic     #64                 // Field at/minecraftschurli/mods/arsmagicalegacy/AMServerConfig.LIFE_TAP_DAMAGE:Lnet/neoforged/neoforge/common/ModConfigSpec$DoubleValue;
+        92: invokevirtual #70                 // Method net/neoforged/neoforge/common/ModConfigSpec$DoubleValue.get:()Ljava/lang/Object;
+        95: checkcast     #76                 // class java/lang/Double
+        98: invokevirtual #78                 // Method java/lang/Double.doubleValue:()D
+       101: aload         5
+       103: invokevirtual #82                 // Method net/minecraft/world/entity/LivingEntity.isInvertedHealAndHarm:()Z
+       106: ifeq          115
+       109: getstatic     #9                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.HEALING_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+       112: goto          118
+       115: getstatic     #3                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.DAMAGE_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+       118: aload_1
+       119: aload_2
+       120: invokeinterface #86,  6           // InterfaceMethod at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper.getModifiedStat:(DLat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;Ljava/util/List;Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext;)D
+       125: d2f
+       126: fstore        8
+       128: aload         5
+       130: aload         7
+       132: aload         7
+       134: invokevirtual #92                 // Method net/minecraft/server/level/ServerLevel.damageSources:()Lnet/minecraft/world/damagesource/DamageSources;
+       137: aload         6
+       139: aload_2
+       140: invokevirtual #96                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.directEntity:()Lnet/minecraft/world/entity/Entity;
+       143: invokevirtual #99                 // Method net/minecraft/world/damagesource/DamageSources.indirectMagic:(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/world/damagesource/DamageSource;
+       146: fload         8
+       148: invokevirtual #105                // Method net/minecraft/world/entity/LivingEntity.hurtServer:(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/damagesource/DamageSource;F)Z
+       151: ifeq          195
+       154: invokestatic  #109                // Method at/minecraftschurli/mods/arsmagicalegacy/api/ArsMagicaApi.manaHelper:()Lat/minecraftschurli/mods/arsmagicalegacy/api/magic/ManaHelper;
+       157: astore        9
+       159: aload         9
+       161: aload         6
+       163: fload         8
+       165: f2d
+       166: aload         9
+       168: aload         6
+       170: invokeinterface #113,  2          // InterfaceMethod at/minecraftschurli/mods/arsmagicalegacy/api/magic/ManaHelper.getMaxMana:(Lnet/minecraft/world/entity/LivingEntity;)D
+       175: dmul
+       176: getstatic     #119                // Field at/minecraftschurli/mods/arsmagicalegacy/AMServerConfig.LIFE_TAP_FACTOR:Lnet/neoforged/neoforge/common/ModConfigSpec$DoubleValue;
+       179: invokevirtual #70                 // Method net/neoforged/neoforge/common/ModConfigSpec$DoubleValue.get:()Ljava/lang/Object;
+       182: checkcast     #76                 // class java/lang/Double
+       185: invokevirtual #78                 // Method java/lang/Double.doubleValue:()D
+       188: dmul
+       189: invokeinterface #122,  4          // InterfaceMethod at/minecraftschurli/mods/arsmagicalegacy/api/magic/ManaHelper.increaseMana:(Lnet/minecraft/world/entity/LivingEntity;D)Z
+       194: pop
+       195: aload         4
+       197: invokestatic  #126                // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.success:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+       200: areturn
+}
+Compiled from "FireRain.java"
+public class at.minecraftschurli.mods.arsmagicalegacy.spell.component.FireRain extends at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellComponent {
+  public at.minecraftschurli.mods.arsmagicalegacy.spell.component.FireRain();
+    Code:
+         0: aload_0
+         1: iconst_4
+         2: anewarray     #1                  // class at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat
+         5: dup
+         6: iconst_0
+         7: getstatic     #3                  // Field at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat.COLOR:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+        10: aastore
+        11: dup
+        12: iconst_1
+        13: getstatic     #7                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.DAMAGE_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+        16: aastore
+        17: dup
+        18: iconst_2
+        19: getstatic     #12                 // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.DURATION_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+        22: aastore
+        23: dup
+        24: iconst_3
+        25: getstatic     #15                 // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.RANGE_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+        28: aastore
+        29: invokespecial #18                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponent."<init>":([Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;)V
+        32: return
+
+  public at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellComponentCastResult cast(java.util.List<at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellModifier>, at.minecraftschurli.mods.arsmagicalegacy.api.spell.SpellCastContext);
+    Code:
+         0: aload_2
+         1: invokevirtual #24                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.spell:()Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;
+         4: astore_3
+         5: aload_2
+         6: invokevirtual #30                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.isHitResultNullOrMiss:()Z
+         9: ifeq          20
+        12: aload_3
+        13: getstatic     #34                 // Field at/minecraftschurli/mods/arsmagicalegacy/api/constants/AMTranslations.SPELL_FAIL_NO_HIT:Lnet/minecraft/network/chat/Component;
+        16: invokestatic  #40                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.failure:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;Lnet/minecraft/network/chat/Component;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+        19: areturn
+        20: aload_2
+        21: invokevirtual #46                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.level:()Lnet/minecraft/world/level/Level;
+        24: astore        4
+        26: aload         4
+        28: invokevirtual #50                 // Method net/minecraft/world/level/Level.isClientSide:()Z
+        31: ifeq          39
+        34: aload_3
+        35: invokestatic  #55                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.pass:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+        38: areturn
+        39: aload_2
+        40: invokevirtual #59                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.caster:()Lnet/minecraft/world/entity/LivingEntity;
+        43: astore        5
+        45: getstatic     #63                 // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMEntities.FIRE_RAIN:Lnet/neoforged/neoforge/registries/DeferredHolder;
+        48: invokevirtual #69                 // Method net/neoforged/neoforge/registries/DeferredHolder.get:()Ljava/lang/Object;
+        51: checkcast     #75                 // class net/minecraft/world/entity/EntityType
+        54: aload         4
+        56: getstatic     #77                 // Field net/minecraft/world/entity/EntitySpawnReason.MOB_SUMMONED:Lnet/minecraft/world/entity/EntitySpawnReason;
+        59: invokevirtual #83                 // Method net/minecraft/world/entity/EntityType.create:(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/EntitySpawnReason;)Lnet/minecraft/world/entity/Entity;
+        62: checkcast     #87                 // class at/minecraftschurli/mods/arsmagicalegacy/entity/FireRain
+        65: astore        6
+        67: aload         6
+        69: aload_2
+        70: invokevirtual #89                 // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext.hitResult:()Lnet/minecraft/world/phys/HitResult;
+        73: invokevirtual #93                 // Method net/minecraft/world/phys/HitResult.getLocation:()Lnet/minecraft/world/phys/Vec3;
+        76: invokevirtual #99                 // Method at/minecraftschurli/mods/arsmagicalegacy/entity/FireRain.setPos:(Lnet/minecraft/world/phys/Vec3;)V
+        79: aload         5
+        81: ifnull        91
+        84: aload         6
+        86: aload         5
+        88: invokevirtual #103                // Method at/minecraftschurli/mods/arsmagicalegacy/entity/FireRain.setOwner:(Lnet/minecraft/world/entity/LivingEntity;)V
+        91: invokestatic  #107                // Method at/minecraftschurli/mods/arsmagicalegacy/api/ArsMagicaApi.spellHelper:()Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper;
+        94: astore        7
+        96: aload         6
+        98: aload         7
+       100: aload_1
+       101: aload_3
+       102: iconst_m1
+       103: invokeinterface #113,  4          // InterfaceMethod at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper.getColor:(Ljava/util/List;Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;I)I
+       108: invokevirtual #119                // Method at/minecraftschurli/mods/arsmagicalegacy/entity/FireRain.setColor:(I)V
+       111: aload         6
+       113: aload         7
+       115: getstatic     #123                // Field at/minecraftschurli/mods/arsmagicalegacy/AMServerConfig.FIRE_RAIN_DURATION:Lnet/neoforged/neoforge/common/ModConfigSpec$DoubleValue;
+       118: invokevirtual #129                // Method net/neoforged/neoforge/common/ModConfigSpec$DoubleValue.get:()Ljava/lang/Object;
+       121: checkcast     #132                // class java/lang/Double
+       124: invokevirtual #134                // Method java/lang/Double.doubleValue:()D
+       127: getstatic     #12                 // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.DURATION_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+       130: aload_1
+       131: aload_2
+       132: invokeinterface #138,  6          // InterfaceMethod at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper.getModifiedStat:(DLat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;Ljava/util/List;Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext;)D
+       137: d2i
+       138: invokevirtual #142                // Method at/minecraftschurli/mods/arsmagicalegacy/entity/FireRain.setDuration:(I)V
+       141: aload         6
+       143: aload         7
+       145: getstatic     #145                // Field at/minecraftschurli/mods/arsmagicalegacy/AMServerConfig.FIRE_RAIN_FIRE_DURATION:Lnet/neoforged/neoforge/common/ModConfigSpec$DoubleValue;
+       148: invokevirtual #129                // Method net/neoforged/neoforge/common/ModConfigSpec$DoubleValue.get:()Ljava/lang/Object;
+       151: checkcast     #132                // class java/lang/Double
+       154: invokevirtual #134                // Method java/lang/Double.doubleValue:()D
+       157: getstatic     #12                 // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.DURATION_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+       160: aload_1
+       161: aload_2
+       162: invokeinterface #138,  6          // InterfaceMethod at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper.getModifiedStat:(DLat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;Ljava/util/List;Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext;)D
+       167: d2i
+       168: invokevirtual #148                // Method at/minecraftschurli/mods/arsmagicalegacy/entity/FireRain.setFireDuration:(I)V
+       171: aload         6
+       173: aload         7
+       175: getstatic     #151                // Field at/minecraftschurli/mods/arsmagicalegacy/AMServerConfig.FIRE_RAIN_DAMAGE:Lnet/neoforged/neoforge/common/ModConfigSpec$DoubleValue;
+       178: invokevirtual #129                // Method net/neoforged/neoforge/common/ModConfigSpec$DoubleValue.get:()Ljava/lang/Object;
+       181: checkcast     #132                // class java/lang/Double
+       184: invokevirtual #134                // Method java/lang/Double.doubleValue:()D
+       187: getstatic     #7                  // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.DAMAGE_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+       190: aload_1
+       191: aload_2
+       192: invokeinterface #138,  6          // InterfaceMethod at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper.getModifiedStat:(DLat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;Ljava/util/List;Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext;)D
+       197: d2f
+       198: invokevirtual #154                // Method at/minecraftschurli/mods/arsmagicalegacy/entity/FireRain.setDamage:(F)V
+       201: aload         6
+       203: aload         7
+       205: getstatic     #158                // Field at/minecraftschurli/mods/arsmagicalegacy/AMServerConfig.FIRE_RAIN_RANGE:Lnet/neoforged/neoforge/common/ModConfigSpec$DoubleValue;
+       208: invokevirtual #129                // Method net/neoforged/neoforge/common/ModConfigSpec$DoubleValue.get:()Ljava/lang/Object;
+       211: checkcast     #132                // class java/lang/Double
+       214: invokevirtual #134                // Method java/lang/Double.doubleValue:()D
+       217: getstatic     #15                 // Field at/minecraftschurli/mods/arsmagicalegacy/init/AMSpells.RANGE_STAT:Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;
+       220: aload_1
+       221: aload_2
+       222: invokeinterface #138,  6          // InterfaceMethod at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellHelper.getModifiedStat:(DLat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellStat;Ljava/util/List;Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellCastContext;)D
+       227: d2f
+       228: invokevirtual #161                // Method at/minecraftschurli/mods/arsmagicalegacy/entity/FireRain.setRange:(F)V
+       231: aload         4
+       233: aload         6
+       235: invokevirtual #164                // Method net/minecraft/world/level/Level.addFreshEntity:(Lnet/minecraft/world/entity/Entity;)Z
+       238: pop
+       239: aload_3
+       240: invokestatic  #168                // Method at/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult.success:(Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/Spell;)Lat/minecraftschurli/mods/arsmagicalegacy/api/spell/SpellComponentCastResult;
+       243: areturn
+}

@@ -1,0 +1,14 @@
+{
+  "batch": "152",
+  "namespace": "animalgarden_alligatorgar",
+  "jar": ".minecraft/mods/animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar",
+  "language_path": "assets/animalgarden_alligatorgar/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animalgarden_alligatorgar/lang/zh_cn.json",
+  "include_keys": [
+    "entity.animalgarden_alligatorgar.alligatorgar",
+    "item.animalgarden_alligatorgar.mob_spawn_egg",
+    "item.animalgarden_alligatorgar.alligatorgar_scale"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

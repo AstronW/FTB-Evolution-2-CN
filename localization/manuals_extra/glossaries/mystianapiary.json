@@ -1,0 +1,118 @@
+{
+  "block.mystianapiary.input_block": {
+    "en": "Apiary Bee Box",
+    "zh": "蜂房蜜蜂箱"
+  },
+  "block.mystianapiary.output_block": {
+    "en": "Apiary Storage",
+    "zh": "蜂房存储"
+  },
+  "block.mystianapiary.flower_block": {
+    "en": "Apiary Flower Box",
+    "zh": "蜂房花箱"
+  },
+  "block.mystianapiary.upgrade_block": {
+    "en": "Apiary Controller",
+    "zh": "蜂房控制器"
+  },
+  "jei.mystianapiary.category": {
+    "en": "Mystian Apiary",
+    "zh": "神秘蜂房"
+  },
+  "item.mystianapiary.apiary_guide": {
+    "en": "Apiary Guide",
+    "zh": "蜂房指南"
+  },
+  "item.mystianapiary.upgrade_centrifuge": {
+    "en": "Centrifuge Upgrade",
+    "zh": "离心机升级"
+  },
+  "block.mystianapiary.input_block_t1": {
+    "en": "Bee Box (Tier 1)",
+    "zh": "蜜蜂箱 (1 级)"
+  },
+  "item.mystianapiary.input_upgrade_1": {
+    "en": "Bee Box Upgrade (Tier 1)",
+    "zh": "蜜蜂箱升级 (1 级)"
+  },
+  "block.mystianapiary.input_block_t2": {
+    "en": "Bee Box (Tier 2)",
+    "zh": "蜜蜂箱 (2 级)"
+  },
+  "item.mystianapiary.input_upgrade_2": {
+    "en": "Bee Box Upgrade (Tier 2)",
+    "zh": "蜜蜂箱升级 (2 级)"
+  },
+  "block.mystianapiary.input_block_t3": {
+    "en": "Bee Box (Tier 3)",
+    "zh": "蜜蜂箱 (3 级)"
+  },
+  "item.mystianapiary.input_upgrade_3": {
+    "en": "Bee Box Upgrade (Tier 3)",
+    "zh": "蜜蜂箱升级 (3 级)"
+  },
+  "block.mystianapiary.flower_block_t1": {
+    "en": "Flower Box (Tier 1)",
+    "zh": "花箱 (1 级)"
+  },
+  "item.mystianapiary.flower_upgrade_1": {
+    "en": "Flower Box Upgrade (Tier 1)",
+    "zh": "花箱升级 (1 级)"
+  },
+  "block.mystianapiary.flower_block_t2": {
+    "en": "Flower Box (Tier 2)",
+    "zh": "花箱 (2 级)"
+  },
+  "item.mystianapiary.flower_upgrade_2": {
+    "en": "Flower Box Upgrade (Tier 2)",
+    "zh": "花箱升级 (2 级)"
+  },
+  "block.mystianapiary.flower_block_t3": {
+    "en": "Flower Box (Tier 3)",
+    "zh": "花箱 (3 级)"
+  },
+  "item.mystianapiary.flower_upgrade_3": {
+    "en": "Flower Box Upgrade (Tier 3)",
+    "zh": "花箱升级 (3 级)"
+  },
+  "block.mystianapiary.output_block_t1": {
+    "en": "Storage Box (Tier 1)",
+    "zh": "存储箱 (1 级)"
+  },
+  "item.mystianapiary.output_upgrade_1": {
+    "en": "Storage Box Upgrade (Tier 1)",
+    "zh": "存储箱升级 (1 级)"
+  },
+  "block.mystianapiary.output_block_t2": {
+    "en": "Storage Box (Tier 2)",
+    "zh": "存储箱 (2 级)"
+  },
+  "item.mystianapiary.output_upgrade_2": {
+    "en": "Storage Box Upgrade (Tier 2)",
+    "zh": "存储箱升级 (2 级)"
+  },
+  "block.mystianapiary.output_block_t3": {
+    "en": "Storage Box (Tier 3)",
+    "zh": "存储箱 (3 级)"
+  },
+  "item.mystianapiary.output_upgrade_3": {
+    "en": "Storage Box Upgrade (Tier 3)",
+    "zh": "存储箱升级 (3 级)"
+  },
+  "item.mystianapiary.upgrade_centrifuge_t1": {
+    "en": "Centrifuge Upgrade (Tier 1)",
+    "zh": "离心机升级 (1 级)"
+  },
+  "item.mystianapiary.upgrade_centrifuge_t2": {
+    "en": "Centrifuge Upgrade (Tier 2)",
+    "zh": "离心机升级 (2 级)"
+  },
+  "item.mystianapiary.upgrade_centrifuge_t3": {
+    "en": "Centrifuge Upgrade (Tier 3)",
+    "zh": "离心机升级 (3 级)"
+  },
+  "block.mystianapiary.me_storage_interface": {
+    "en": "ME Storage Interface",
+    "zh": "ME 存储接口"
+  }
+}

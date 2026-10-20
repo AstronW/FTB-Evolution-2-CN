@@ -1,0 +1,16 @@
+{
+  "category": "arsmagicalegacy:entities",
+  "icon": "arsmagicalegacy:mana_creeper_spawn_egg",
+  "name": "item.arsmagicalegacy.arcane_compendium.entities.mana_creeper.name",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "item.arsmagicalegacy.arcane_compendium.entities.mana_creeper.page0.text"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "arsmagicalegacy:mana_creeper",
+      "text": "魔力爬行者被杀死时掉落$(l:blocks/ores#vinteum)温特姆粉$()而非火药."
+    }
+  ]
+}

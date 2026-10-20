@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "019",
+  "namespace": "kindredspirits",
+  "source_keys": 331,
+  "unique_values": 322,
+  "chinese_values": 326,
+  "reviewed_non_prose_values": 5,
+  "installed_overlay_keys": 331,
+  "source_sha256": "3d9648846b1b480c644871156ae61dbbae8df913c3d34cb041fa7578d643ae58",
+  "in_game_tested": false
+}

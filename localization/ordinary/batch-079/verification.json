@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "079",
+  "namespace": "dimstorage",
+  "source_keys": 6,
+  "unique_values": 6,
+  "chinese_values": 6,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 6,
+  "source_sha256": "4713de32d6f9833840fad59f9f56b0f036715e5846270c5694c49b5f3c057eeb",
+  "in_game_tested": false
+}

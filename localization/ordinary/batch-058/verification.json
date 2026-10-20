@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "058",
+  "namespace": "oritechthings",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 0,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 1,
+  "source_sha256": "9207fddbc25ca2022f67916fe60f5333994c5fa601f6bb30a8a470940559ff98",
+  "in_game_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "070",
+  "namespace": "infinitystorage",
+  "source_keys": 11,
+  "unique_values": 11,
+  "chinese_values": 11,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 11,
+  "source_sha256": "d855c938746b18b7e0d45f61da1dd4e5967f8237fec8eb66655a83f34d2b9921",
+  "in_game_tested": false
+}

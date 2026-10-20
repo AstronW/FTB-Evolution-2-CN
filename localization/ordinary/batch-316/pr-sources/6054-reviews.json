@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4572083139,
+    "node_id": "PRR_kwDOBT7mWs8AAAABEIRzww",
+    "user": {
+      "login": "SlimeSB",
+      "id": 86453765,
+      "node_id": "MDQ6VXNlcjg2NDUzNzY1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86453765?u=46b26cc195e23e8193eeed399210cd3a557f0a66&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlimeSB",
+      "html_url": "https://github.com/SlimeSB",
+      "followers_url": "https://api.github.com/users/SlimeSB/followers",
+      "following_url": "https://api.github.com/users/SlimeSB/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlimeSB/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlimeSB/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlimeSB/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlimeSB/orgs",
+      "repos_url": "https://api.github.com/users/SlimeSB/repos",
+      "events_url": "https://api.github.com/users/SlimeSB/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlimeSB/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "没看，直接过，需要的话我明天审查一下，先睡",
+    "state": "APPROVED",
+    "html_url": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/pull/6054#pullrequestreview-4572083139",
+    "pull_request_url": "https://api.github.com/repos/CFPAOrg/Minecraft-Mod-Language-Package/pulls/6054",
+    "author_association": "COLLABORATOR",
+    "_links": {
+      "html": {
+        "href": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/pull/6054#pullrequestreview-4572083139"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/CFPAOrg/Minecraft-Mod-Language-Package/pulls/6054"
+      }
+    },
+    "submitted_at": "2026-06-25T14:49:21Z",
+    "commit_id": "12d9329776543da5313d9f7e442d78e4f0025705"
+  },
+  {
+    "id": 4578267409,
+    "node_id": "PRR_kwDOBT7mWs8AAAABEOLREQ",
+    "user": {
+      "login": "ChuijkYahus",
+      "id": 94828194,
+      "node_id": "U_kgDOBab2og",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94828194?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ChuijkYahus",
+      "html_url": "https://github.com/ChuijkYahus",
+      "followers_url": "https://api.github.com/users/ChuijkYahus/followers",
+      "following_url": "https://api.github.com/users/ChuijkYahus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ChuijkYahus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ChuijkYahus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ChuijkYahus/subscriptions",
+      "organizations_url": "https://api.github.com/users/ChuijkYahus/orgs",
+      "repos_url": "https://api.github.com/users/ChuijkYahus/repos",
+      "events_url": "https://api.github.com/users/ChuijkYahus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ChuijkYahus/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "也只是粗扫了一下",
+    "state": "APPROVED",
+    "html_url": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/pull/6054#pullrequestreview-4578267409",
+    "pull_request_url": "https://api.github.com/repos/CFPAOrg/Minecraft-Mod-Language-Package/pulls/6054",
+    "author_association": "COLLABORATOR",
+    "_links": {
+      "html": {
+        "href": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/pull/6054#pullrequestreview-4578267409"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/CFPAOrg/Minecraft-Mod-Language-Package/pulls/6054"
+      }
+    },
+    "submitted_at": "2026-06-26T09:16:45Z",
+    "commit_id": "12d9329776543da5313d9f7e442d78e4f0025705"
+  }
+]

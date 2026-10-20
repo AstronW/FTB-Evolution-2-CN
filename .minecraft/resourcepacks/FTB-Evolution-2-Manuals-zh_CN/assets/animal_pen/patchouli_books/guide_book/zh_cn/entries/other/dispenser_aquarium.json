@@ -1,0 +1,16 @@
+{
+  "name": "发射器",
+  "icon": "minecraft:dispenser",
+  "category": "animal_pen:category_aquarium",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "你可以通过发射器使用部分工具."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:bucket",
+      "text": "可以对装着海龟的围栏使用桶."
+    }
+  ]
+}

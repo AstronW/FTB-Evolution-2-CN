@@ -1,0 +1,740 @@
+Compiled from "CrystalStaffItem.java"
+public class elucent.rootsclassic.item.CrystalStaffItem extends net.minecraft.world.item.Item implements elucent.rootsclassic.item.IManaRelatedItem {
+  public elucent.rootsclassic.item.CrystalStaffItem(net.minecraft.world.item.Item$Properties);
+    Code:
+         0: aload_0
+         1: aload_1
+         2: getstatic     #1                  // Field elucent/rootsclassic/registry/RootsComponents.SPELLS:Ljava/util/function/Supplier;
+         5: getstatic     #7                  // Field elucent/rootsclassic/datacomponent/SpellDataList.EMPTY:Lelucent/rootsclassic/datacomponent/SpellDataList;
+         8: invokevirtual #13                 // Method net/minecraft/world/item/Item$Properties.component:(Ljava/util/function/Supplier;Ljava/lang/Object;)Lnet/minecraft/world/item/Item$Properties;
+        11: getstatic     #19                 // Field elucent/rootsclassic/registry/RootsComponents.SELECTED_SPELL:Ljava/util/function/Supplier;
+        14: iconst_1
+        15: invokestatic  #22                 // Method java/lang/Integer.valueOf:(I)Ljava/lang/Integer;
+        18: invokevirtual #13                 // Method net/minecraft/world/item/Item$Properties.component:(Ljava/util/function/Supplier;Ljava/lang/Object;)Lnet/minecraft/world/item/Item$Properties;
+        21: invokespecial #28                 // Method net/minecraft/world/item/Item."<init>":(Lnet/minecraft/world/item/Item$Properties;)V
+        24: return
+
+  public net.minecraft.world.item.ItemUseAnimation getUseAnimation(net.minecraft.world.item.ItemStack);
+    Code:
+         0: getstatic     #34                 // Field net/minecraft/world/item/ItemUseAnimation.BOW:Lnet/minecraft/world/item/ItemUseAnimation;
+         3: areturn
+
+  public int getUseDuration(net.minecraft.world.item.ItemStack, net.minecraft.world.entity.LivingEntity);
+    Code:
+         0: ldc           #40                 // int 72000
+         2: ireturn
+
+  public boolean releaseUsing(net.minecraft.world.item.ItemStack, net.minecraft.world.level.Level, net.minecraft.world.entity.LivingEntity, int);
+    Code:
+         0: aload_1
+         1: invokestatic  #41                 // Method getSelectedSpell:(Lnet/minecraft/world/item/ItemStack;)Lelucent/rootsclassic/datacomponent/SpellData;
+         4: astore        5
+         6: iload         4
+         8: ldc           #47                 // int 71988
+        10: if_icmpge     582
+        13: aload         5
+        15: ifnull        582
+        18: aload_3
+        19: checkcast     #48                 // class net/minecraft/world/entity/player/Player
+        22: astore        6
+        24: aload         5
+        26: invokevirtual #50                 // Method elucent/rootsclassic/datacomponent/SpellData.effect:()Ljava/lang/String;
+        29: invokestatic  #56                 // Method net/minecraft/resources/Identifier.tryParse:(Ljava/lang/String;)Lnet/minecraft/resources/Identifier;
+        32: astore        7
+        34: aload         7
+        36: ifnull        582
+        39: getstatic     #62                 // Field elucent/rootsclassic/component/ComponentBaseRegistry.COMPONENTS:Lnet/minecraft/core/Registry;
+        42: aload         7
+        44: invokeinterface #68,  2           // InterfaceMethod net/minecraft/core/Registry.getValue:(Lnet/minecraft/resources/Identifier;)Ljava/lang/Object;
+        49: checkcast     #74                 // class elucent/rootsclassic/component/ComponentBase
+        52: astore        8
+        54: aload         8
+        56: ifnull        69
+        59: aload_3
+        60: getstatic     #76                 // Field elucent/rootsclassic/attachment/RootsAttachments.MANA:Ljava/util/function/Supplier;
+        63: invokevirtual #81                 // Method net/minecraft/world/entity/LivingEntity.hasData:(Ljava/util/function/Supplier;)Z
+        66: ifne          71
+        69: iconst_0
+        70: ireturn
+        71: aload         5
+        73: invokevirtual #87                 // Method elucent/rootsclassic/datacomponent/SpellData.potency:()I
+        76: iconst_1
+        77: iadd
+        78: istore        9
+        80: aload         5
+        82: invokevirtual #91                 // Method elucent/rootsclassic/datacomponent/SpellData.efficiency:()I
+        85: istore        10
+        87: aload         5
+        89: invokevirtual #94                 // Method elucent/rootsclassic/datacomponent/SpellData.size:()I
+        92: istore        11
+        94: aload         6
+        96: getstatic     #97                 // Field net/minecraft/world/entity/EquipmentSlot.HEAD:Lnet/minecraft/world/entity/EquipmentSlot;
+        99: invokevirtual #103                // Method net/minecraft/world/entity/player/Player.getItemBySlot:(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;
+       102: invokevirtual #107                // Method net/minecraft/world/item/ItemStack.getItem:()Lnet/minecraft/world/item/Item;
+       105: instanceof    #113                // class elucent/rootsclassic/item/SylvanArmorItem
+       108: ifeq          165
+       111: aload         6
+       113: getstatic     #115                // Field net/minecraft/world/entity/EquipmentSlot.CHEST:Lnet/minecraft/world/entity/EquipmentSlot;
+       116: invokevirtual #103                // Method net/minecraft/world/entity/player/Player.getItemBySlot:(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;
+       119: invokevirtual #107                // Method net/minecraft/world/item/ItemStack.getItem:()Lnet/minecraft/world/item/Item;
+       122: instanceof    #113                // class elucent/rootsclassic/item/SylvanArmorItem
+       125: ifeq          165
+       128: aload         6
+       130: getstatic     #118                // Field net/minecraft/world/entity/EquipmentSlot.LEGS:Lnet/minecraft/world/entity/EquipmentSlot;
+       133: invokevirtual #103                // Method net/minecraft/world/entity/player/Player.getItemBySlot:(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;
+       136: invokevirtual #107                // Method net/minecraft/world/item/ItemStack.getItem:()Lnet/minecraft/world/item/Item;
+       139: instanceof    #113                // class elucent/rootsclassic/item/SylvanArmorItem
+       142: ifeq          165
+       145: aload         6
+       147: getstatic     #121                // Field net/minecraft/world/entity/EquipmentSlot.FEET:Lnet/minecraft/world/entity/EquipmentSlot;
+       150: invokevirtual #103                // Method net/minecraft/world/entity/player/Player.getItemBySlot:(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;
+       153: invokevirtual #107                // Method net/minecraft/world/item/ItemStack.getItem:()Lnet/minecraft/world/item/Item;
+       156: instanceof    #113                // class elucent/rootsclassic/item/SylvanArmorItem
+       159: ifeq          165
+       162: iinc          9, 1
+       165: aload         6
+       167: getstatic     #76                 // Field elucent/rootsclassic/attachment/RootsAttachments.MANA:Ljava/util/function/Supplier;
+       170: invokevirtual #124                // Method net/minecraft/world/entity/player/Player.getData:(Ljava/util/function/Supplier;)Ljava/lang/Object;
+       173: checkcast     #128                // class elucent/rootsclassic/attachment/ManaAttachment
+       176: astore        12
+       178: aload         12
+       180: invokevirtual #130                // Method elucent/rootsclassic/attachment/ManaAttachment.getMana:()F
+       183: aload         8
+       185: invokevirtual #134                // Method elucent/rootsclassic/component/ComponentBase.getManaCost:()F
+       188: iload         10
+       190: iconst_1
+       191: iadd
+       192: i2f
+       193: fdiv
+       194: fcmpl
+       195: iflt          582
+       198: aload         12
+       200: aload         12
+       202: invokevirtual #130                // Method elucent/rootsclassic/attachment/ManaAttachment.getMana:()F
+       205: aload         8
+       207: invokevirtual #134                // Method elucent/rootsclassic/component/ComponentBase.getManaCost:()F
+       210: iload         10
+       212: iconst_1
+       213: iadd
+       214: i2f
+       215: fdiv
+       216: fsub
+       217: invokevirtual #137                // Method elucent/rootsclassic/attachment/ManaAttachment.setMana:(F)V
+       220: aload         8
+       222: aload_2
+       223: aload_3
+       224: getstatic     #141                // Field elucent/rootsclassic/component/EnumCastType.SPELL:Lelucent/rootsclassic/component/EnumCastType;
+       227: aload_3
+       228: invokevirtual #147                // Method net/minecraft/world/entity/LivingEntity.getX:()D
+       231: ldc2_w        #151                // double 3.0d
+       234: aload_3
+       235: invokevirtual #153                // Method net/minecraft/world/entity/LivingEntity.getLookAngle:()Lnet/minecraft/world/phys/Vec3;
+       238: getfield      #157                // Field net/minecraft/world/phys/Vec3.x:D
+       241: dmul
+       242: dadd
+       243: aload_3
+       244: invokevirtual #163                // Method net/minecraft/world/entity/LivingEntity.getY:()D
+       247: ldc2_w        #151                // double 3.0d
+       250: aload_3
+       251: invokevirtual #153                // Method net/minecraft/world/entity/LivingEntity.getLookAngle:()Lnet/minecraft/world/phys/Vec3;
+       254: getfield      #166                // Field net/minecraft/world/phys/Vec3.y:D
+       257: dmul
+       258: dadd
+       259: aload_3
+       260: invokevirtual #169                // Method net/minecraft/world/entity/LivingEntity.getZ:()D
+       263: ldc2_w        #151                // double 3.0d
+       266: aload_3
+       267: invokevirtual #153                // Method net/minecraft/world/entity/LivingEntity.getLookAngle:()Lnet/minecraft/world/phys/Vec3;
+       270: getfield      #172                // Field net/minecraft/world/phys/Vec3.z:D
+       273: dmul
+       274: dadd
+       275: iload         9
+       277: i2d
+       278: iload         10
+       280: i2d
+       281: ldc2_w        #151                // double 3.0d
+       284: ldc2_w        #175                // double 2.0d
+       287: iload         11
+       289: i2d
+       290: dmul
+       291: dadd
+       292: invokevirtual #177                // Method elucent/rootsclassic/component/ComponentBase.doEffect:(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/Entity;Lelucent/rootsclassic/component/EnumCastType;DDDDDD)V
+       295: aload_2
+       296: invokevirtual #181                // Method net/minecraft/world/level/Level.isClientSide:()Z
+       299: ifeq          580
+       302: iconst_0
+       303: istore        13
+       305: iload         13
+       307: bipush        90
+       309: if_icmpge     580
+       312: aload_2
+       313: invokevirtual #187                // Method net/minecraft/world/level/Level.getRandom:()Lnet/minecraft/util/RandomSource;
+       316: invokeinterface #191,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextFloat:()F
+       321: f2d
+       322: ldc2_w        #196                // double 0.5d
+       325: dmul
+       326: ldc2_w        #198                // double 0.25d
+       329: dsub
+       330: dstore        14
+       332: aload_2
+       333: invokevirtual #187                // Method net/minecraft/world/level/Level.getRandom:()Lnet/minecraft/util/RandomSource;
+       336: invokeinterface #191,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextFloat:()F
+       341: f2d
+       342: ldc2_w        #196                // double 0.5d
+       345: dmul
+       346: ldc2_w        #198                // double 0.25d
+       349: dsub
+       350: dstore        16
+       352: aload_2
+       353: invokevirtual #187                // Method net/minecraft/world/level/Level.getRandom:()Lnet/minecraft/util/RandomSource;
+       356: invokeinterface #191,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextFloat:()F
+       361: f2d
+       362: ldc2_w        #196                // double 0.5d
+       365: dmul
+       366: ldc2_w        #198                // double 0.25d
+       369: dsub
+       370: dstore        18
+       372: dload         14
+       374: dload         16
+       376: dadd
+       377: dload         18
+       379: dadd
+       380: ldc2_w        #200                // double 1.5d
+       383: ddiv
+       384: ldc2_w        #196                // double 0.5d
+       387: dadd
+       388: dstore        20
+       390: aload_3
+       391: invokevirtual #153                // Method net/minecraft/world/entity/LivingEntity.getLookAngle:()Lnet/minecraft/world/phys/Vec3;
+       394: getfield      #157                // Field net/minecraft/world/phys/Vec3.x:D
+       397: dload         14
+       399: dadd
+       400: dload         20
+       402: dmul
+       403: dstore        22
+       405: aload_3
+       406: invokevirtual #153                // Method net/minecraft/world/entity/LivingEntity.getLookAngle:()Lnet/minecraft/world/phys/Vec3;
+       409: getfield      #166                // Field net/minecraft/world/phys/Vec3.y:D
+       412: dload         16
+       414: dadd
+       415: dload         20
+       417: dmul
+       418: dstore        24
+       420: aload_3
+       421: invokevirtual #153                // Method net/minecraft/world/entity/LivingEntity.getLookAngle:()Lnet/minecraft/world/phys/Vec3;
+       424: getfield      #172                // Field net/minecraft/world/phys/Vec3.z:D
+       427: dload         18
+       429: dadd
+       430: dload         20
+       432: dmul
+       433: dstore        26
+       435: aload_2
+       436: invokevirtual #187                // Method net/minecraft/world/level/Level.getRandom:()Lnet/minecraft/util/RandomSource;
+       439: invokeinterface #202,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextBoolean:()Z
+       444: ifeq          512
+       447: aload_2
+       448: aload         8
+       450: getfield      #205                // Field elucent/rootsclassic/component/ComponentBase.primaryColor:Lnet/minecraft/world/phys/Vec3;
+       453: getfield      #157                // Field net/minecraft/world/phys/Vec3.x:D
+       456: aload         8
+       458: getfield      #205                // Field elucent/rootsclassic/component/ComponentBase.primaryColor:Lnet/minecraft/world/phys/Vec3;
+       461: getfield      #166                // Field net/minecraft/world/phys/Vec3.y:D
+       464: aload         8
+       466: getfield      #205                // Field elucent/rootsclassic/component/ComponentBase.primaryColor:Lnet/minecraft/world/phys/Vec3;
+       469: getfield      #172                // Field net/minecraft/world/phys/Vec3.z:D
+       472: invokestatic  #209                // Method elucent/rootsclassic/client/particles/MagicParticleData.createData:(DDD)Lnet/minecraft/core/particles/ParticleOptions;
+       475: aload_3
+       476: invokevirtual #147                // Method net/minecraft/world/entity/LivingEntity.getX:()D
+       479: dload         22
+       481: dadd
+       482: aload_3
+       483: invokevirtual #163                // Method net/minecraft/world/entity/LivingEntity.getY:()D
+       486: ldc2_w        #200                // double 1.5d
+       489: dadd
+       490: dload         24
+       492: dadd
+       493: aload_3
+       494: invokevirtual #169                // Method net/minecraft/world/entity/LivingEntity.getZ:()D
+       497: dload         26
+       499: dadd
+       500: dload         22
+       502: dload         24
+       504: dload         26
+       506: invokevirtual #215                // Method net/minecraft/world/level/Level.addParticle:(Lnet/minecraft/core/particles/ParticleOptions;DDDDDD)V
+       509: goto          574
+       512: aload_2
+       513: aload         8
+       515: getfield      #219                // Field elucent/rootsclassic/component/ComponentBase.secondaryColor:Lnet/minecraft/world/phys/Vec3;
+       518: getfield      #157                // Field net/minecraft/world/phys/Vec3.x:D
+       521: aload         8
+       523: getfield      #219                // Field elucent/rootsclassic/component/ComponentBase.secondaryColor:Lnet/minecraft/world/phys/Vec3;
+       526: getfield      #166                // Field net/minecraft/world/phys/Vec3.y:D
+       529: aload         8
+       531: getfield      #219                // Field elucent/rootsclassic/component/ComponentBase.secondaryColor:Lnet/minecraft/world/phys/Vec3;
+       534: getfield      #172                // Field net/minecraft/world/phys/Vec3.z:D
+       537: invokestatic  #209                // Method elucent/rootsclassic/client/particles/MagicParticleData.createData:(DDD)Lnet/minecraft/core/particles/ParticleOptions;
+       540: aload_3
+       541: invokevirtual #147                // Method net/minecraft/world/entity/LivingEntity.getX:()D
+       544: dload         22
+       546: dadd
+       547: aload_3
+       548: invokevirtual #163                // Method net/minecraft/world/entity/LivingEntity.getY:()D
+       551: ldc2_w        #200                // double 1.5d
+       554: dadd
+       555: dload         24
+       557: dadd
+       558: aload_3
+       559: invokevirtual #169                // Method net/minecraft/world/entity/LivingEntity.getZ:()D
+       562: dload         26
+       564: dadd
+       565: dload         22
+       567: dload         24
+       569: dload         26
+       571: invokevirtual #215                // Method net/minecraft/world/level/Level.addParticle:(Lnet/minecraft/core/particles/ParticleOptions;DDDDDD)V
+       574: iinc          13, 1
+       577: goto          305
+       580: iconst_1
+       581: ireturn
+       582: iconst_0
+       583: ireturn
+
+  public net.minecraft.world.InteractionResult use(net.minecraft.world.level.Level, net.minecraft.world.entity.player.Player, net.minecraft.world.InteractionHand);
+    Code:
+         0: aload_2
+         1: aload_3
+         2: invokevirtual #222                // Method net/minecraft/world/entity/player/Player.getItemInHand:(Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/item/ItemStack;
+         5: astore        4
+         7: aload         4
+         9: getstatic     #19                 // Field elucent/rootsclassic/registry/RootsComponents.SELECTED_SPELL:Ljava/util/function/Supplier;
+        12: invokevirtual #226                // Method net/minecraft/world/item/ItemStack.has:(Ljava/util/function/Supplier;)Z
+        15: ifeq          99
+        18: aload_2
+        19: invokevirtual #229                // Method net/minecraft/world/entity/player/Player.isShiftKeyDown:()Z
+        22: ifne          54
+        25: aload_1
+        26: invokevirtual #181                // Method net/minecraft/world/level/Level.isClientSide:()Z
+        29: ifeq          45
+        32: invokestatic  #232                // Method net/minecraft/client/Minecraft.getInstance:()Lnet/minecraft/client/Minecraft;
+        35: getfield      #238                // Field net/minecraft/client/Minecraft.screen:Lnet/minecraft/client/gui/screens/Screen;
+        38: ifnull        45
+        41: getstatic     #242                // Field net/minecraft/world/InteractionResult.FAIL:Lnet/minecraft/world/InteractionResult$Fail;
+        44: areturn
+        45: aload_2
+        46: aload_3
+        47: invokevirtual #248                // Method net/minecraft/world/entity/player/Player.startUsingItem:(Lnet/minecraft/world/InteractionHand;)V
+        50: getstatic     #252                // Field net/minecraft/world/InteractionResult.PASS:Lnet/minecraft/world/InteractionResult$Pass;
+        53: areturn
+        54: aload         4
+        56: getstatic     #19                 // Field elucent/rootsclassic/registry/RootsComponents.SELECTED_SPELL:Ljava/util/function/Supplier;
+        59: invokevirtual #256                // Method net/minecraft/world/item/ItemStack.get:(Ljava/util/function/Supplier;)Ljava/lang/Object;
+        62: checkcast     #23                 // class java/lang/Integer
+        65: invokevirtual #259                // Method java/lang/Integer.intValue:()I
+        68: iconst_1
+        69: iadd
+        70: istore        5
+        72: iload         5
+        74: iconst_4
+        75: if_icmple     81
+        78: iconst_1
+        79: istore        5
+        81: aload         4
+        83: getstatic     #19                 // Field elucent/rootsclassic/registry/RootsComponents.SELECTED_SPELL:Ljava/util/function/Supplier;
+        86: iload         5
+        88: invokestatic  #22                 // Method java/lang/Integer.valueOf:(I)Ljava/lang/Integer;
+        91: invokevirtual #262                // Method net/minecraft/world/item/ItemStack.set:(Ljava/util/function/Supplier;Ljava/lang/Object;)Ljava/lang/Object;
+        94: pop
+        95: getstatic     #242                // Field net/minecraft/world/InteractionResult.FAIL:Lnet/minecraft/world/InteractionResult$Fail;
+        98: areturn
+        99: getstatic     #242                // Field net/minecraft/world/InteractionResult.FAIL:Lnet/minecraft/world/InteractionResult$Fail;
+       102: areturn
+
+  public boolean shouldCauseReequipAnimation(net.minecraft.world.item.ItemStack, net.minecraft.world.item.ItemStack, boolean);
+    Code:
+         0: aload_1
+         1: invokestatic  #41                 // Method getSelectedSpell:(Lnet/minecraft/world/item/ItemStack;)Lelucent/rootsclassic/datacomponent/SpellData;
+         4: astore        4
+         6: aload_2
+         7: invokestatic  #41                 // Method getSelectedSpell:(Lnet/minecraft/world/item/ItemStack;)Lelucent/rootsclassic/datacomponent/SpellData;
+        10: astore        5
+        12: aload         4
+        14: ifnull        61
+        17: aload         5
+        19: ifnull        61
+        22: aload         4
+        24: invokevirtual #50                 // Method elucent/rootsclassic/datacomponent/SpellData.effect:()Ljava/lang/String;
+        27: aload         5
+        29: invokevirtual #50                 // Method elucent/rootsclassic/datacomponent/SpellData.effect:()Ljava/lang/String;
+        32: invokevirtual #266                // Method java/lang/String.equals:(Ljava/lang/Object;)Z
+        35: ifeq          59
+        38: aload_1
+        39: getstatic     #19                 // Field elucent/rootsclassic/registry/RootsComponents.SELECTED_SPELL:Ljava/util/function/Supplier;
+        42: invokevirtual #256                // Method net/minecraft/world/item/ItemStack.get:(Ljava/util/function/Supplier;)Ljava/lang/Object;
+        45: aload_2
+        46: getstatic     #19                 // Field elucent/rootsclassic/registry/RootsComponents.SELECTED_SPELL:Ljava/util/function/Supplier;
+        49: invokevirtual #256                // Method net/minecraft/world/item/ItemStack.get:(Ljava/util/function/Supplier;)Ljava/lang/Object;
+        52: if_acmpne     59
+        55: iload_3
+        56: ifeq          61
+        59: iconst_1
+        60: ireturn
+        61: iload_3
+        62: ireturn
+
+  public void onUseTick(net.minecraft.world.level.Level, net.minecraft.world.entity.LivingEntity, net.minecraft.world.item.ItemStack, int);
+    Code:
+         0: aload_3
+         1: getstatic     #1                  // Field elucent/rootsclassic/registry/RootsComponents.SPELLS:Ljava/util/function/Supplier;
+         4: invokevirtual #226                // Method net/minecraft/world/item/ItemStack.has:(Ljava/util/function/Supplier;)Z
+         7: ifeq          348
+        10: aload_3
+        11: invokestatic  #41                 // Method getSelectedSpell:(Lnet/minecraft/world/item/ItemStack;)Lelucent/rootsclassic/datacomponent/SpellData;
+        14: astore        5
+        16: aload         5
+        18: ifnull        348
+        21: aload         5
+        23: invokevirtual #50                 // Method elucent/rootsclassic/datacomponent/SpellData.effect:()Ljava/lang/String;
+        26: invokestatic  #56                 // Method net/minecraft/resources/Identifier.tryParse:(Ljava/lang/String;)Lnet/minecraft/resources/Identifier;
+        29: astore        6
+        31: aload         6
+        33: ifnull        348
+        36: getstatic     #62                 // Field elucent/rootsclassic/component/ComponentBaseRegistry.COMPONENTS:Lnet/minecraft/core/Registry;
+        39: aload         6
+        41: invokeinterface #68,  2           // InterfaceMethod net/minecraft/core/Registry.getValue:(Lnet/minecraft/resources/Identifier;)Ljava/lang/Object;
+        46: checkcast     #74                 // class elucent/rootsclassic/component/ComponentBase
+        49: astore        7
+        51: aload         7
+        53: ifnull        348
+        56: aload         5
+        58: invokevirtual #87                 // Method elucent/rootsclassic/datacomponent/SpellData.potency:()I
+        61: istore        8
+        63: aload         5
+        65: invokevirtual #91                 // Method elucent/rootsclassic/datacomponent/SpellData.efficiency:()I
+        68: istore        9
+        70: aload         5
+        72: invokevirtual #94                 // Method elucent/rootsclassic/datacomponent/SpellData.size:()I
+        75: istore        10
+        77: aload         7
+        79: aload_2
+        80: checkcast     #48                 // class net/minecraft/world/entity/player/Player
+        83: iload         4
+        85: iload         8
+        87: iload         9
+        89: iload         10
+        91: invokevirtual #272                // Method elucent/rootsclassic/component/ComponentBase.castingAction:(Lnet/minecraft/world/entity/player/Player;IIII)V
+        94: aload_1
+        95: invokevirtual #181                // Method net/minecraft/world/level/Level.isClientSide:()Z
+        98: ifeq          348
+       101: aload_2
+       102: invokevirtual #276                // Method net/minecraft/world/entity/LivingEntity.getRandom:()Lnet/minecraft/util/RandomSource;
+       105: invokeinterface #202,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextBoolean:()Z
+       110: ifeq          232
+       113: aload_1
+       114: aload         7
+       116: getfield      #205                // Field elucent/rootsclassic/component/ComponentBase.primaryColor:Lnet/minecraft/world/phys/Vec3;
+       119: getfield      #157                // Field net/minecraft/world/phys/Vec3.x:D
+       122: aload         7
+       124: getfield      #205                // Field elucent/rootsclassic/component/ComponentBase.primaryColor:Lnet/minecraft/world/phys/Vec3;
+       127: getfield      #166                // Field net/minecraft/world/phys/Vec3.y:D
+       130: aload         7
+       132: getfield      #205                // Field elucent/rootsclassic/component/ComponentBase.primaryColor:Lnet/minecraft/world/phys/Vec3;
+       135: getfield      #172                // Field net/minecraft/world/phys/Vec3.z:D
+       138: invokestatic  #277                // Method elucent/rootsclassic/client/particles/MagicLineParticleData.createData:(DDD)Lnet/minecraft/core/particles/ParticleOptions;
+       141: aload_2
+       142: invokevirtual #147                // Method net/minecraft/world/entity/LivingEntity.getX:()D
+       145: ldc2_w        #175                // double 2.0d
+       148: aload_2
+       149: invokevirtual #276                // Method net/minecraft/world/entity/LivingEntity.getRandom:()Lnet/minecraft/util/RandomSource;
+       152: invokeinterface #191,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextFloat:()F
+       157: f2d
+       158: ldc2_w        #196                // double 0.5d
+       161: dsub
+       162: dmul
+       163: dadd
+       164: aload_2
+       165: invokevirtual #163                // Method net/minecraft/world/entity/LivingEntity.getY:()D
+       168: ldc2_w        #175                // double 2.0d
+       171: aload_2
+       172: invokevirtual #276                // Method net/minecraft/world/entity/LivingEntity.getRandom:()Lnet/minecraft/util/RandomSource;
+       175: invokeinterface #191,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextFloat:()F
+       180: f2d
+       181: ldc2_w        #196                // double 0.5d
+       184: dsub
+       185: dmul
+       186: dadd
+       187: dconst_1
+       188: dadd
+       189: aload_2
+       190: invokevirtual #169                // Method net/minecraft/world/entity/LivingEntity.getZ:()D
+       193: ldc2_w        #175                // double 2.0d
+       196: aload_2
+       197: invokevirtual #276                // Method net/minecraft/world/entity/LivingEntity.getRandom:()Lnet/minecraft/util/RandomSource;
+       200: invokeinterface #191,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextFloat:()F
+       205: f2d
+       206: ldc2_w        #196                // double 0.5d
+       209: dsub
+       210: dmul
+       211: dadd
+       212: aload_2
+       213: invokevirtual #147                // Method net/minecraft/world/entity/LivingEntity.getX:()D
+       216: aload_2
+       217: invokevirtual #163                // Method net/minecraft/world/entity/LivingEntity.getY:()D
+       220: dconst_1
+       221: dadd
+       222: aload_2
+       223: invokevirtual #169                // Method net/minecraft/world/entity/LivingEntity.getZ:()D
+       226: invokevirtual #215                // Method net/minecraft/world/level/Level.addParticle:(Lnet/minecraft/core/particles/ParticleOptions;DDDDDD)V
+       229: goto          348
+       232: aload_1
+       233: aload         7
+       235: getfield      #219                // Field elucent/rootsclassic/component/ComponentBase.secondaryColor:Lnet/minecraft/world/phys/Vec3;
+       238: getfield      #157                // Field net/minecraft/world/phys/Vec3.x:D
+       241: aload         7
+       243: getfield      #219                // Field elucent/rootsclassic/component/ComponentBase.secondaryColor:Lnet/minecraft/world/phys/Vec3;
+       246: getfield      #166                // Field net/minecraft/world/phys/Vec3.y:D
+       249: aload         7
+       251: getfield      #219                // Field elucent/rootsclassic/component/ComponentBase.secondaryColor:Lnet/minecraft/world/phys/Vec3;
+       254: getfield      #172                // Field net/minecraft/world/phys/Vec3.z:D
+       257: invokestatic  #277                // Method elucent/rootsclassic/client/particles/MagicLineParticleData.createData:(DDD)Lnet/minecraft/core/particles/ParticleOptions;
+       260: aload_2
+       261: invokevirtual #147                // Method net/minecraft/world/entity/LivingEntity.getX:()D
+       264: ldc2_w        #175                // double 2.0d
+       267: aload_2
+       268: invokevirtual #276                // Method net/minecraft/world/entity/LivingEntity.getRandom:()Lnet/minecraft/util/RandomSource;
+       271: invokeinterface #191,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextFloat:()F
+       276: f2d
+       277: ldc2_w        #196                // double 0.5d
+       280: dsub
+       281: dmul
+       282: dadd
+       283: aload_2
+       284: invokevirtual #163                // Method net/minecraft/world/entity/LivingEntity.getY:()D
+       287: ldc2_w        #175                // double 2.0d
+       290: aload_2
+       291: invokevirtual #276                // Method net/minecraft/world/entity/LivingEntity.getRandom:()Lnet/minecraft/util/RandomSource;
+       294: invokeinterface #191,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextFloat:()F
+       299: f2d
+       300: ldc2_w        #196                // double 0.5d
+       303: dsub
+       304: dmul
+       305: dadd
+       306: dconst_1
+       307: dadd
+       308: aload_2
+       309: invokevirtual #169                // Method net/minecraft/world/entity/LivingEntity.getZ:()D
+       312: ldc2_w        #175                // double 2.0d
+       315: aload_2
+       316: invokevirtual #276                // Method net/minecraft/world/entity/LivingEntity.getRandom:()Lnet/minecraft/util/RandomSource;
+       319: invokeinterface #191,  1          // InterfaceMethod net/minecraft/util/RandomSource.nextFloat:()F
+       324: f2d
+       325: ldc2_w        #196                // double 0.5d
+       328: dsub
+       329: dmul
+       330: dadd
+       331: aload_2
+       332: invokevirtual #147                // Method net/minecraft/world/entity/LivingEntity.getX:()D
+       335: aload_2
+       336: invokevirtual #163                // Method net/minecraft/world/entity/LivingEntity.getY:()D
+       339: dconst_1
+       340: dadd
+       341: aload_2
+       342: invokevirtual #169                // Method net/minecraft/world/entity/LivingEntity.getZ:()D
+       345: invokevirtual #215                // Method net/minecraft/world/level/Level.addParticle:(Lnet/minecraft/core/particles/ParticleOptions;DDDDDD)V
+       348: return
+
+  public static void addEffect(net.minecraft.world.item.ItemStack, int, java.lang.String, int, int, int);
+    Code:
+         0: new           #51                 // class elucent/rootsclassic/datacomponent/SpellData
+         3: dup
+         4: iload_3
+         5: iload         4
+         7: iload         5
+         9: aload_2
+        10: invokespecial #280                // Method elucent/rootsclassic/datacomponent/SpellData."<init>":(IIILjava/lang/String;)V
+        13: astore        6
+        15: aload_0
+        16: getstatic     #1                  // Field elucent/rootsclassic/registry/RootsComponents.SPELLS:Ljava/util/function/Supplier;
+        19: getstatic     #7                  // Field elucent/rootsclassic/datacomponent/SpellDataList.EMPTY:Lelucent/rootsclassic/datacomponent/SpellDataList;
+        22: invokevirtual #283                // Method net/minecraft/world/item/ItemStack.getOrDefault:(Ljava/util/function/Supplier;Ljava/lang/Object;)Ljava/lang/Object;
+        25: checkcast     #8                  // class elucent/rootsclassic/datacomponent/SpellDataList
+        28: astore        7
+        30: aload         7
+        32: invokevirtual #286                // Method elucent/rootsclassic/datacomponent/SpellDataList.spellList:()Lnet/minecraft/core/NonNullList;
+        35: invokevirtual #290                // Method net/minecraft/core/NonNullList.size:()I
+        38: invokestatic  #293                // Method net/minecraft/core/NonNullList.createWithCapacity:(I)Lnet/minecraft/core/NonNullList;
+        41: astore        8
+        43: iload_1
+        44: iconst_1
+        45: if_icmplt     60
+        48: iload_1
+        49: aload         7
+        51: invokevirtual #286                // Method elucent/rootsclassic/datacomponent/SpellDataList.spellList:()Lnet/minecraft/core/NonNullList;
+        54: invokevirtual #290                // Method net/minecraft/core/NonNullList.size:()I
+        57: if_icmple     82
+        60: new           #297                // class java/lang/IndexOutOfBoundsException
+        63: dup
+        64: iload_1
+        65: aload         7
+        67: invokevirtual #286                // Method elucent/rootsclassic/datacomponent/SpellDataList.spellList:()Lnet/minecraft/core/NonNullList;
+        70: invokevirtual #290                // Method net/minecraft/core/NonNullList.size:()I
+        73: invokedynamic #299,  0            // InvokeDynamic #0:makeConcatWithConstants:(II)Ljava/lang/String;
+        78: invokespecial #303                // Method java/lang/IndexOutOfBoundsException."<init>":(Ljava/lang/String;)V
+        81: athrow
+        82: iconst_0
+        83: istore        9
+        85: iload         9
+        87: aload         7
+        89: invokevirtual #286                // Method elucent/rootsclassic/datacomponent/SpellDataList.spellList:()Lnet/minecraft/core/NonNullList;
+        92: invokevirtual #290                // Method net/minecraft/core/NonNullList.size:()I
+        95: if_icmpge     142
+        98: iload         9
+       100: iload_1
+       101: iconst_1
+       102: isub
+       103: if_icmpne     117
+       106: aload         8
+       108: aload         6
+       110: invokevirtual #306                // Method net/minecraft/core/NonNullList.add:(Ljava/lang/Object;)Z
+       113: pop
+       114: goto          136
+       117: aload         8
+       119: aload         7
+       121: invokevirtual #286                // Method elucent/rootsclassic/datacomponent/SpellDataList.spellList:()Lnet/minecraft/core/NonNullList;
+       124: iload         9
+       126: invokevirtual #309                // Method net/minecraft/core/NonNullList.get:(I)Ljava/lang/Object;
+       129: checkcast     #51                 // class elucent/rootsclassic/datacomponent/SpellData
+       132: invokevirtual #306                // Method net/minecraft/core/NonNullList.add:(Ljava/lang/Object;)Z
+       135: pop
+       136: iinc          9, 1
+       139: goto          85
+       142: aload_0
+       143: getstatic     #1                  // Field elucent/rootsclassic/registry/RootsComponents.SPELLS:Ljava/util/function/Supplier;
+       146: new           #8                  // class elucent/rootsclassic/datacomponent/SpellDataList
+       149: dup
+       150: aload         8
+       152: invokespecial #312                // Method elucent/rootsclassic/datacomponent/SpellDataList."<init>":(Lnet/minecraft/core/NonNullList;)V
+       155: invokevirtual #262                // Method net/minecraft/world/item/ItemStack.set:(Ljava/util/function/Supplier;Ljava/lang/Object;)Ljava/lang/Object;
+       158: pop
+       159: return
+
+  public static elucent.rootsclassic.datacomponent.SpellData getSelectedSpell(net.minecraft.world.item.ItemStack);
+    Code:
+         0: aload_0
+         1: getstatic     #1                  // Field elucent/rootsclassic/registry/RootsComponents.SPELLS:Ljava/util/function/Supplier;
+         4: invokevirtual #226                // Method net/minecraft/world/item/ItemStack.has:(Ljava/util/function/Supplier;)Z
+         7: ifeq          69
+        10: aload_0
+        11: getstatic     #19                 // Field elucent/rootsclassic/registry/RootsComponents.SELECTED_SPELL:Ljava/util/function/Supplier;
+        14: invokevirtual #226                // Method net/minecraft/world/item/ItemStack.has:(Ljava/util/function/Supplier;)Z
+        17: ifeq          69
+        20: aload_0
+        21: getstatic     #1                  // Field elucent/rootsclassic/registry/RootsComponents.SPELLS:Ljava/util/function/Supplier;
+        24: invokevirtual #256                // Method net/minecraft/world/item/ItemStack.get:(Ljava/util/function/Supplier;)Ljava/lang/Object;
+        27: checkcast     #8                  // class elucent/rootsclassic/datacomponent/SpellDataList
+        30: astore_1
+        31: aload_1
+        32: ifnonnull     37
+        35: aconst_null
+        36: areturn
+        37: aload_0
+        38: getstatic     #19                 // Field elucent/rootsclassic/registry/RootsComponents.SELECTED_SPELL:Ljava/util/function/Supplier;
+        41: iconst_1
+        42: invokestatic  #22                 // Method java/lang/Integer.valueOf:(I)Ljava/lang/Integer;
+        45: invokevirtual #283                // Method net/minecraft/world/item/ItemStack.getOrDefault:(Ljava/util/function/Supplier;Ljava/lang/Object;)Ljava/lang/Object;
+        48: checkcast     #23                 // class java/lang/Integer
+        51: invokevirtual #259                // Method java/lang/Integer.intValue:()I
+        54: istore_2
+        55: aload_1
+        56: invokevirtual #286                // Method elucent/rootsclassic/datacomponent/SpellDataList.spellList:()Lnet/minecraft/core/NonNullList;
+        59: iload_2
+        60: iconst_1
+        61: isub
+        62: invokevirtual #309                // Method net/minecraft/core/NonNullList.get:(I)Ljava/lang/Object;
+        65: checkcast     #51                 // class elucent/rootsclassic/datacomponent/SpellData
+        68: areturn
+        69: aconst_null
+        70: areturn
+
+  public void appendHoverText(net.minecraft.world.item.ItemStack, net.minecraft.world.item.Item$TooltipContext, net.minecraft.world.item.component.TooltipDisplay, java.util.function.Consumer<net.minecraft.network.chat.Component>, net.minecraft.world.item.TooltipFlag);
+    Code:
+         0: aload_1
+         1: invokestatic  #41                 // Method getSelectedSpell:(Lnet/minecraft/world/item/ItemStack;)Lelucent/rootsclassic/datacomponent/SpellData;
+         4: astore        6
+         6: aload         6
+         8: ifnull        217
+        11: aload         6
+        13: invokevirtual #50                 // Method elucent/rootsclassic/datacomponent/SpellData.effect:()Ljava/lang/String;
+        16: astore        7
+        18: aload         7
+        20: invokestatic  #56                 // Method net/minecraft/resources/Identifier.tryParse:(Ljava/lang/String;)Lnet/minecraft/resources/Identifier;
+        23: astore        8
+        25: aload         8
+        27: ifnull        91
+        30: getstatic     #62                 // Field elucent/rootsclassic/component/ComponentBaseRegistry.COMPONENTS:Lnet/minecraft/core/Registry;
+        33: aload         8
+        35: invokeinterface #68,  2           // InterfaceMethod net/minecraft/core/Registry.getValue:(Lnet/minecraft/resources/Identifier;)Ljava/lang/Object;
+        40: checkcast     #74                 // class elucent/rootsclassic/component/ComponentBase
+        43: astore        9
+        45: aload         9
+        47: ifnull        91
+        50: aload         4
+        52: ldc_w         #315                // String rootsclassic.tooltip.spelltypeheading
+        55: invokestatic  #317                // InterfaceMethod net/minecraft/network/chat/Component.translatable:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+        58: ldc_w         #323                // String :
+        61: invokevirtual #325                // Method net/minecraft/network/chat/MutableComponent.append:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+        64: getstatic     #330                // Field net/minecraft/ChatFormatting.GOLD:Lnet/minecraft/ChatFormatting;
+        67: invokevirtual #336                // Method net/minecraft/network/chat/MutableComponent.withStyle:(Lnet/minecraft/ChatFormatting;)Lnet/minecraft/network/chat/MutableComponent;
+        70: aload         9
+        72: invokevirtual #340                // Method elucent/rootsclassic/component/ComponentBase.getEffectName:()Lnet/minecraft/network/chat/MutableComponent;
+        75: aload         9
+        77: invokevirtual #344                // Method elucent/rootsclassic/component/ComponentBase.getTextColor:()Lnet/minecraft/ChatFormatting;
+        80: invokevirtual #336                // Method net/minecraft/network/chat/MutableComponent.withStyle:(Lnet/minecraft/ChatFormatting;)Lnet/minecraft/network/chat/MutableComponent;
+        83: invokevirtual #348                // Method net/minecraft/network/chat/MutableComponent.append:(Lnet/minecraft/network/chat/Component;)Lnet/minecraft/network/chat/MutableComponent;
+        86: invokeinterface #351,  2          // InterfaceMethod java/util/function/Consumer.accept:(Ljava/lang/Object;)V
+        91: aload         4
+        93: aload         6
+        95: invokevirtual #87                 // Method elucent/rootsclassic/datacomponent/SpellData.potency:()I
+        98: invokedynamic #357,  0            // InvokeDynamic #1:makeConcatWithConstants:(I)Ljava/lang/String;
+       103: invokestatic  #317                // InterfaceMethod net/minecraft/network/chat/Component.translatable:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       106: ldc_w         #360                // String rootsclassic.tooltip.spellpotency
+       109: invokestatic  #317                // InterfaceMethod net/minecraft/network/chat/Component.translatable:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       112: invokevirtual #348                // Method net/minecraft/network/chat/MutableComponent.append:(Lnet/minecraft/network/chat/Component;)Lnet/minecraft/network/chat/MutableComponent;
+       115: ldc_w         #362                // String .
+       118: invokevirtual #325                // Method net/minecraft/network/chat/MutableComponent.append:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       121: getstatic     #364                // Field net/minecraft/ChatFormatting.RED:Lnet/minecraft/ChatFormatting;
+       124: invokevirtual #336                // Method net/minecraft/network/chat/MutableComponent.withStyle:(Lnet/minecraft/ChatFormatting;)Lnet/minecraft/network/chat/MutableComponent;
+       127: invokeinterface #351,  2          // InterfaceMethod java/util/function/Consumer.accept:(Ljava/lang/Object;)V
+       132: aload         4
+       134: aload         6
+       136: invokevirtual #91                 // Method elucent/rootsclassic/datacomponent/SpellData.efficiency:()I
+       139: invokedynamic #357,  0            // InvokeDynamic #1:makeConcatWithConstants:(I)Ljava/lang/String;
+       144: invokestatic  #317                // InterfaceMethod net/minecraft/network/chat/Component.translatable:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       147: ldc_w         #367                // String rootsclassic.tooltip.spellefficiency
+       150: invokestatic  #317                // InterfaceMethod net/minecraft/network/chat/Component.translatable:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       153: invokevirtual #348                // Method net/minecraft/network/chat/MutableComponent.append:(Lnet/minecraft/network/chat/Component;)Lnet/minecraft/network/chat/MutableComponent;
+       156: ldc_w         #362                // String .
+       159: invokevirtual #325                // Method net/minecraft/network/chat/MutableComponent.append:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       162: getstatic     #364                // Field net/minecraft/ChatFormatting.RED:Lnet/minecraft/ChatFormatting;
+       165: invokevirtual #336                // Method net/minecraft/network/chat/MutableComponent.withStyle:(Lnet/minecraft/ChatFormatting;)Lnet/minecraft/network/chat/MutableComponent;
+       168: invokeinterface #351,  2          // InterfaceMethod java/util/function/Consumer.accept:(Ljava/lang/Object;)V
+       173: aload         4
+       175: aload         6
+       177: invokevirtual #94                 // Method elucent/rootsclassic/datacomponent/SpellData.size:()I
+       180: invokedynamic #357,  0            // InvokeDynamic #1:makeConcatWithConstants:(I)Ljava/lang/String;
+       185: invokestatic  #317                // InterfaceMethod net/minecraft/network/chat/Component.translatable:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       188: ldc_w         #369                // String rootsclassic.tooltip.spellsize
+       191: invokestatic  #317                // InterfaceMethod net/minecraft/network/chat/Component.translatable:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       194: invokevirtual #348                // Method net/minecraft/network/chat/MutableComponent.append:(Lnet/minecraft/network/chat/Component;)Lnet/minecraft/network/chat/MutableComponent;
+       197: ldc_w         #362                // String .
+       200: invokevirtual #325                // Method net/minecraft/network/chat/MutableComponent.append:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       203: getstatic     #364                // Field net/minecraft/ChatFormatting.RED:Lnet/minecraft/ChatFormatting;
+       206: invokevirtual #336                // Method net/minecraft/network/chat/MutableComponent.withStyle:(Lnet/minecraft/ChatFormatting;)Lnet/minecraft/network/chat/MutableComponent;
+       209: invokeinterface #351,  2          // InterfaceMethod java/util/function/Consumer.accept:(Ljava/lang/Object;)V
+       214: goto          236
+       217: aload         4
+       219: ldc_w         #371                // String rootsclassic.error.unset
+       222: invokestatic  #317                // InterfaceMethod net/minecraft/network/chat/Component.translatable:(Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+       225: getstatic     #373                // Field net/minecraft/ChatFormatting.GRAY:Lnet/minecraft/ChatFormatting;
+       228: invokevirtual #336                // Method net/minecraft/network/chat/MutableComponent.withStyle:(Lnet/minecraft/ChatFormatting;)Lnet/minecraft/network/chat/MutableComponent;
+       231: invokeinterface #351,  2          // InterfaceMethod java/util/function/Consumer.accept:(Ljava/lang/Object;)V
+       236: return
+}

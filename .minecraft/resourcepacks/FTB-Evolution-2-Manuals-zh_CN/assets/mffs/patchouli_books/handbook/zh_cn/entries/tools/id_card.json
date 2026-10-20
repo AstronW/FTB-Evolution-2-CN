@@ -1,0 +1,23 @@
+{
+  "name": "身份卡",
+  "icon": "mffs:id_card",
+  "category": "mffs:tools",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:id_card",
+      "link_recipe": true,
+      "text": "MFFS 的$(5)身份卡$()与$(l:mffs:machines/biometric_identifier)生物识别仪$()配合使用, 用于管理玩家的权利与特权."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:id_card",
+      "text": "合成$(5)身份卡$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "用法",
+      "text": "身份卡在使用前需要绑定到玩家.手持卡片潜行右击即可绑定自己; 也可以对其他玩家潜行右击, 把卡绑定给他们.再次激活卡片即可清除其中存储的身份."
+    }
+  ]
+}

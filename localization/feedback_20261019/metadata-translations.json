@@ -1,0 +1,14 @@
+{
+  "kindredspirits/docs/_meta.json": {
+    "getting_started.mdx": "入门指南", "kindred_charm.mdx": "羁绊护符", "bond.mdx": "羁绊", "leveling.mdx": "升级", "stars.mdx": "星级与威望", "storage.mdx": "存储", "abilities.mdx": "能力", "equipment.mdx": "装备", "companion_bed.mdx": "伙伴床", "spirits": "灵魂", "commands.mdx": "指令"
+  },
+  "kindredspirits/docs/spirits/_meta.json": {
+    "overview.mdx": "概览", "nightfox.mdx": "夜狐", "trex.mdx": "霸王龙", "baby_dragon.mdx": "幼龙", "mini_player.mdx": "迷你玩家", "gremlin.mdx": "格雷姆林", "quokka.mdx": "短尾矮袋鼠", "direwolf.mdx": "恐狼"
+  },
+  "oracle-index/docs/_meta.json": {
+    "user_guide.mdx": "📗 用户指南", "search.mdx": "🔍 智能搜索", "developer": "⌨ 模组开发指南"
+  },
+  "oracle-index/docs/developer/_meta.json": {
+    "setup.mdx": "游戏内模组视图设置", "markdown.mdx": "Markdown 与 MDX 参考", "gradle_task.mdx": "(可选) 自动同步 Gradle Wiki", "content_unlocks.mdx": "内容进度系统"
+  }
+}

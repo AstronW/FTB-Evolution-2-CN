@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "269",
+  "namespace": "baguettelib",
+  "source_keys": 3,
+  "unique_values": 3,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 3,
+  "source_sha256": "77b1557e75891258e81e2357326dfaca5ffba75d30a4ac5961a241a084452564",
+  "in_game_tested": false
+}

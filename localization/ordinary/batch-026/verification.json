@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "026",
+  "namespace": "betterfishtanks",
+  "source_keys": 185,
+  "unique_values": 177,
+  "chinese_values": 184,
+  "reviewed_non_prose_values": 1,
+  "installed_overlay_keys": 206,
+  "source_sha256": "26d1044290cbcd67aedafea048139c5e63f5ab2cca7820d774ade26300e1abf6",
+  "in_game_tested": false
+}

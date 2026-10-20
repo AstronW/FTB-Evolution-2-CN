@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "249",
+  "namespace": "pylons",
+  "source_keys": 11,
+  "unique_values": 11,
+  "chinese_values": 11,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 11,
+  "source_sha256": "681aac2717e75d559dec92567f5b469aed92d80f29078c180a951dfa2ff2ca6d",
+  "in_game_tested": false
+}

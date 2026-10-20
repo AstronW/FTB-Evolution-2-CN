@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "209",
+  "namespace": "comforts",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1,
+  "source_sha256": "2e5684aa3ef4c81a71483f87aa7e3bc0cc506b60a85c65e617ccf2a9c22015a8",
+  "in_game_tested": false
+}

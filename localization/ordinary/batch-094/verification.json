@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "094",
+  "namespace": "enderthing",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1,
+  "source_sha256": "91d05a24540969378d01cb3eddff5cc762f13c7b9f309de6a304aaf6114de6ad",
+  "in_game_tested": false
+}

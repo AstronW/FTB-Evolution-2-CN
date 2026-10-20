@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "105",
+  "namespace": "ftbessentials",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1,
+  "source_sha256": "7f34e022ac6bca2800906f05faf11a57972fbf58f523c0e87f9c815e376d38d8",
+  "in_game_tested": false
+}

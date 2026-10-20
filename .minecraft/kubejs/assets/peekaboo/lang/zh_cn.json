@@ -1,0 +1,10 @@
+{
+  "commands.disguise.not_living_entity": "来源不是生物实体",
+  "creative_tab.peekaboo": "Peekaboo",
+  "item.peekaboo.disguise": "伪装",
+  "item.peekaboo.disguise.entity": "%s 伪装",
+  "item.peekaboo.mob_hat": "生物帽",
+  "item.peekaboo.mob_hat.entity": "%s 帽子",
+  "item.peekaboo.plushie": "玩偶",
+  "item.peekaboo.plushie.entity": "%s 玩偶"
+}

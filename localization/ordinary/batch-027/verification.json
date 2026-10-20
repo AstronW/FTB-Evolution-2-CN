@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "027",
+  "namespace": "justdynathings",
+  "source_keys": 163,
+  "unique_values": 162,
+  "chinese_values": 159,
+  "reviewed_non_prose_values": 4,
+  "installed_overlay_keys": 163,
+  "source_sha256": "b6129b8bf8d11956dd57b11c50214f756eded224a3826e6e1d807d1ff1ba8b80",
+  "in_game_tested": false
+}

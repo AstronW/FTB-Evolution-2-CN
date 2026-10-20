@@ -1,0 +1,55 @@
+{
+  "category": "arsmagicalegacy:blocks",
+  "icon": "arsmagicalegacy:aum",
+  "name": "item.arsmagicalegacy.arcane_compendium.blocks.flowers.name",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "item.arsmagicalegacy.arcane_compendium.blocks.flowers.page0.text"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "aum",
+      "item": "arsmagicalegacy:aum",
+      "text": "奥姆花带有治疗效果, 是许多法术的成分.它可以在森林中找到."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "cerublossom",
+      "item": "arsmagicalegacy:cerublossom",
+      "text": "蔚蓝花在繁茂葱郁的环境中生长繁盛.它是最早被发现的魔法植物之一, 用于药水与以光为主的法术.发现后不久, 人们还注意到蔚蓝花可用于$(l:items/purified_vinteum_dust)温特姆粉的净化流程$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "desert_nova",
+      "item": "arsmagicalegacy:desert_nova",
+      "text": "沙漠新星生长在干燥的环境中.作为一种沙漠植物, 它拥有非凡的魔法特性, 因此备受追捧.它是$(l:items/purified_vinteum_dust)温特姆粉净化流程$()所用两种植物之一."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "tarma_root",
+      "item": "arsmagicalegacy:tarma_root",
+      "text": "塔玛根比看起来更轻, 生长在山地生物群系.它是法术与空气精华的原料."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "anchor": "wakebloom",
+      "item": "arsmagicalegacy:wakebloom",
+      "text": "唤醒花生长在温暖气候的水面上, 常用于水系法术, 也是水系亲和精华的成分."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "arsmagicalegacy:pink_dye_from_aum",
+      "recipe2": "arsmagicalegacy:blue_dye_from_cerublossom"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "arsmagicalegacy:red_dye_from_desert_nova",
+      "recipe2": "arsmagicalegacy:brown_dye_from_tarma_root"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "arsmagicalegacy:magenta_dye_from_wakebloom"
+    }
+  ]
+}

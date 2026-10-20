@@ -1,0 +1,3 @@
+/name	合成组件
+/pages/0/text	一种坚固的钢板, 用于合成$(l:mffs:projector_modes)投射模式$(), $(l:mffs:projector_modules)投射模块$()和$(l:mffs:machines)机器$().手头常备几块总是有好处的.
+/pages/1/text	合成聚焦矩阵.

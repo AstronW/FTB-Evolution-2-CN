@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "042",
+  "namespace": "laserbridges",
+  "source_keys": 13,
+  "unique_values": 8,
+  "chinese_values": 13,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 13,
+  "source_sha256": "8ba4ae09f63edcd153d5806964aa164b9687e40a3e0ccae4ec33e52f4946e54d",
+  "in_game_tested": false
+}

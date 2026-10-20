@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "239",
+  "namespace": "aci",
+  "source_keys": 57,
+  "unique_values": 55,
+  "chinese_values": 8,
+  "reviewed_non_prose_values": 49,
+  "installed_overlay_keys": 57,
+  "source_sha256": "672ea3f86f57ca5abb5f94cb1d35e3c6a9ace4c1707236b5c926215bd710b4f3",
+  "in_game_tested": false
+}

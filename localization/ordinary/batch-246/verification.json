@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "246",
+  "namespace": "armor_cosmetic",
+  "source_keys": 13,
+  "unique_values": 13,
+  "chinese_values": 13,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 13,
+  "source_sha256": "118fa792ae3a9d5acd00d9a6e24bfe50f9bd8d3fcdb6a0e703942877bc690b55",
+  "in_game_tested": false
+}

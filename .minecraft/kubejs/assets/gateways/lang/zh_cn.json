@@ -1,0 +1,13 @@
+{
+  "tooltip.gateways.with_count": "%s %s",
+  "tooltip.gateways.dot_with_count": "• %s %s",
+  "tooltip.gateways.dot": "• %s",
+  "tooltip.gateways.shift": "[shift]",
+  "tooltip.gateways.ctrl": "[ctrl]",
+  "tooltip.gateways.alt": "[alt]",
+  "reward.gateways.stack": "%s %s",
+  "gateways.iron_automaton": "铁自动机之门",
+  "gateways.endless/automaton_fabricator": "自动机制造者无尽之门",
+  "name.gateways.iron_sentinel": "铁哨兵",
+  "name.gateways.iron_juggernaut": "铁巨兽"
+}

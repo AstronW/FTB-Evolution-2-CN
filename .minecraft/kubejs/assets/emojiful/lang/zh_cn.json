@@ -1,0 +1,23 @@
+{
+  "emojiful.midnightconfig.title": "Emojiful",
+  "emojiful.midnightconfig.enableRenderEmoji": "启用表情渲染",
+  "emojiful.midnightconfig.renderEmoji": "表情渲染",
+  "emojiful.midnightconfig.showEmojiSelector": "在聊天输入栏启用表情选择界面",
+  "emojiful.midnightconfig.emojiSelector": "表情选择器",
+  "emojiful.midnightconfig.emojiAutocomplete": "表情自动补全",
+  "emojiful.midnightconfig.loadGifEmojis": "加载动态表情; 禁用时会显示为静态图片",
+  "emojiful.midnightconfig.gifEmojis": "GIF 表情",
+  "emojiful.midnightconfig.shortEmojiReplacement": "将 :) 这类简短表情替换为 :smile:, 以便渲染为表情",
+  "emojiful.midnightconfig.emojiReplacement": "简短表情替换",
+  "emojiful.midnightconfig.emojiTypes": "表情类型",
+  "emojiful.midnightconfig.loadTwemoji": "加载 Twitter 与 Discord 等网站使用的 Twemoji",
+  "emojiful.midnightconfig.enableLoadTwemoji": "加载 Twemoji",
+  "emojiful.midnightconfig.enableLoadCustom": "加载 Emojiful 提供的自定义表情",
+  "emojiful.midnightconfig.loadCustom": "加载自定义表情",
+  "emojiful.midnightconfig.enableLoadDatapack": "加载所加入服务器提供的数据包表情",
+  "emojiful.midnightconfig.loadDatapack": "加载服务器数据包",
+  "emojiful.midnightconfig.enableProfanityFilter": "启用脏话过滤, 会把脏话替换为表情",
+  "emojiful.midnightconfig.profanityFilter": "脏话过滤",
+  "emojiful.midnightconfig.profanityFilterString": "脏话过滤使用的替换词",
+  "emojiful.midnightconfig.profanityFilterReplacement": "替换词"
+}
