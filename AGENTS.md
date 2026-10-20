@@ -3,8 +3,24 @@
 ## 项目入口与版本
 
 - 开始工作先读 `project.json`, `README.md` 和 `localization/STYLE.md`. 当前游戏目录从 `project.json` 的 `target_instance` 读取, 不在脚本中另写固定路径. `source_instance` 与 `.minecraft/mods` 的输入也应对应当前目标实例, 不继续读取旧 Prism 实例; 历史版本证据与当前输入分开维护.
-- `.minecraft/` 是翻译工作副本, 不是实际游戏目录. 目标整合包为 1.4.0; 各组件基线见 `project.json` 的 `component_baselines`. 任务书已适配 1.4.0, 其余组件仍为 1.3.2. 先读 `localization/reports/update-1.4.0-assessment.md` 和 `localization/reports/quests-1.4.0.md`. 旧版检查通过不代表新版适配完成.
+- `.minecraft/` 是翻译工作副本, 不是实际游戏目录. 目标整合包为 1.4.0; 各组件当前基线见 `project.json` 的 `component_baselines`, 不从早期报告推断当前状态. 首次了解版本迁移时读 `localization/reports/update-1.4.0-assessment.md` 和 `localization/reports/quests-1.4.0.md`, 其中阶段状态属于历史记录. 旧版检查通过不代表新版适配完成.
 - 新任务先核对实际游戏版本、模组 JAR、整合包资源覆盖和英文源. 原文变化后先审阅差异, 再更新译文及源清单; 不盲用旧片段编号、行号或强行替换源哈希.
+
+## 本地依赖与仓库边界
+
+- 首次准备环境时, 按本机位置调整 `project.json` 的实例路径, 核对实际游戏版本和模组输入. `.minecraft/mods` 应链接到当前目标实例的 `mods/`; `.minecraft/quest-inputs/` 中 Companion JAR 的本地链接须与源清单对应. JAR 不随仓库提交, 不用旧实例依赖掩盖缺失输入.
+- 重新生成 CFPA 覆盖前, 准备 `CFPA/` 本地检出并核对 `project.json` 与 `localization/vendor/cfpa/clone.json` 的固定提交. CFPA 原始资源与本地覆盖分别维护. `localization/fetch_cfpa.py` 是获取历史发布资源的辅助工具, 不是使用本地检出的前置步骤; 不要求安装 I18nUpdateMod.
+- 第 117 批需要从当前目标实例的父 JAR 提取只读嵌套依赖, 具体来源见 `localization/vendor/jar-in-jar/README.md`. 先核对父 JAR 与批次英文源, 再准备该输入.
+- 完整静态检查除 Python 3 外还需 Java、Node.js 和 GuideME 解析依赖 Gson、Guava、SLF4J. 部分原生解析脚本仍引用本机 Prism libraries 路径; 在新环境先检查并适配路径, 不把缺失依赖当作译文失败, 也不跳过检查后声称全量通过.
+- `.minecraft/options.txt` 仅是历史工作副本的资源包选择快照, 部分检查读取它; 不将它复制到实际游戏目录. 安装启用由 `release_pack.py install --enable` 按目标实例处理.
+- Git 提交保留可维护译文、工具、源文快照、审校证据与工作副本中的文本资源. 排除模组 JAR、CFPA 克隆、下载压缩包、`dist/`、Node 依赖、验证缓存与本地助手状态; 具体规则见 `.gitignore`. 保留第三方署名与许可, 入口见 `THIRD_PARTY_NOTICES.md`.
+
+## 状态与记录入口
+
+- 查看当前覆盖和剩余项时, 读 `localization/reports/verified-progress-summary.md`、`localization/reports/remaining-1.4.0-summary.md` 及相关阶段最新批次. 页数、语言键、可见字段和 CFPA 子集口径不同, 不直接相加或重复计入.
+- 处理任务书模组名、手册目录、首页和配方渲染反馈时, 先读 `localization/feedback_20261019/README.md`; Sodium 0.9.2 语言键记录见 `localization/ordinary/batch-316/README.md`. Nodeworks 的硬编码 UI 按既定要求保留英文, 不修改客户端代码.
+- 项目迁移证据在 `migration-manifest.json`、`migration-installed.json` 和 `localization/reports/project-migration-verification.json`. 安装记录及备份属于本地状态, 不从历史记录推断新环境已经安装或验收.
+- README 面向公开仓库的玩家与贡献者. Agent 操作流程、环境适配细节和历史证据导航写在本文件或对应阶段文档, 不把本机路径、会话叙述及重复的内部进度堆入 README.
 
 ## 翻译范围
 
