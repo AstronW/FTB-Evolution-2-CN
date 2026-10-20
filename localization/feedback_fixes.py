@@ -70,14 +70,10 @@ def component_corrections(outputs, result, sources):
 
 def resource_overrides(base_outputs=None):
     """Return only explicitly built and source-verified feedback files."""
+    from release_pack import feedback_files
     manifest=read(BASE/'manifest.json')
-    if base_outputs is not None:
-        for member,digest in manifest['base_files'].items():
-            assert member in base_outputs and sha(base_outputs[member][0])==digest,('Feedback base page changed',member)
     for rel,digest in manifest['source_inputs'].items():assert sha((GAME/rel).read_bytes())==digest,rel
-    for rel,digest in manifest['files'].items():
-        p=OUTPUT/rel;assert sha(p.read_bytes())==digest,rel
-        yield rel,p
+    yield from feedback_files(base_outputs)
 
 def compile_pages(outputs,mapping):
     changes=[];patches={}

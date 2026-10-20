@@ -173,6 +173,20 @@ def quest_files():
     return files
 
 
+def feedback_files(base_outputs=None):
+    """Validate committed feedback artifacts; live sources are checked separately."""
+    base = ROOT / 'localization/feedback_20261019'
+    manifest = read(base / 'manifest.json')
+    if base_outputs is not None:
+        for member, sha in manifest['base_files'].items():
+            assert member in base_outputs and digest(base_outputs[member][0]) == sha, (
+                'Feedback base page changed', member)
+    for rel, sha in manifest['files'].items():
+        path = base / 'pack' / rel
+        assert digest(path.read_bytes()) == sha, rel
+        yield rel, path
+
+
 # --------------------------------------------------------------------------- #
 # Resource pack assembly
 # --------------------------------------------------------------------------- #
@@ -246,8 +260,7 @@ def assemble_resourcepack(conflicts, include_feedback=True):
     for member, values in sorted(language.items()):
         outputs[member] = (encode({key: zh for key, (zh, _) in values.items()}), 'merged-language')
     if include_feedback:
-        from feedback_fixes import resource_overrides
-        for member, path in resource_overrides(outputs):
+        for member, path in feedback_files(outputs):
             data = path.read_bytes()
             if member.endswith('/lang/zh_cn.json'):
                 merged = json.loads(outputs[member][0]) if member in outputs else {}
@@ -413,7 +426,7 @@ def build(command):
                       'counts': counts}, ensure_ascii=False, indent=2))
 
 
-def check():
+def check(*, include_installed=True):
     manifest = json.loads(RELEASE_MANIFEST.read_text())
     outputs, quest, extras, install_members, counts = compile_release()
     members = {rel: data for rel, (data, _o) in outputs.items()}
@@ -429,7 +442,7 @@ def check():
             assert sorted(archive.namelist()) == sorted(table), f'Archive members differ: {path.name}'
             assert archive.testzip() is None, f'Archive corrupt: {path.name}'
         assert digest(path.read_bytes()) == hashlib.sha256(path.read_bytes()).hexdigest()
-    record = json.loads(INSTALL_RECORD.read_text()) if INSTALL_RECORD.exists() else None
+    record = json.loads(INSTALL_RECORD.read_text()) if include_installed and INSTALL_RECORD.exists() else None
     if record:
         game = pathlib.Path(record['instance'])
         for rel, sha in record['files'].items():

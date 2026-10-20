@@ -8,6 +8,8 @@
 
 ## 本地依赖与仓库边界
 
+- 面向用户的一键打包入口是 `build.sh` (Linux/macOS) 和 `build.cmd` (Windows), 二者调用 `build.py`. 仅需 Python 3.8+, 读取仓库内的既有文本产物并生成、校验 `dist/` ZIP; 不依赖 `project.json` 的实例路径、模组 JAR、CFPA 检出、Java 或 Node.js. 修改入口时须在仅含 Git 文件的副本中验证, 不能借助本机忽略文件让打包通过. 打包校验不读取本地安装记录, 不触碰游戏实例.
+- `source_instance`、`target_instance` 以及下述外部输入用于源文维护、各阶段重建、完整检查或脚本安装. 不要求仅获取汉化包的用户配置这些内容.
 - 首次准备环境时, 按本机位置调整 `project.json` 的实例路径, 核对实际游戏版本和模组输入. `.minecraft/mods` 应链接到当前目标实例的 `mods/`; `.minecraft/quest-inputs/` 中 Companion JAR 的本地链接须与源清单对应. JAR 不随仓库提交, 不用旧实例依赖掩盖缺失输入.
 - 重新生成 CFPA 覆盖前, 准备 `CFPA/` 本地检出并核对 `project.json` 与 `localization/vendor/cfpa/clone.json` 的固定提交. CFPA 原始资源与本地覆盖分别维护. `localization/fetch_cfpa.py` 是获取历史发布资源的辅助工具, 不是使用本地检出的前置步骤; 不要求安装 I18nUpdateMod.
 - 第 117 批需要从当前目标实例的父 JAR 提取只读嵌套依赖, 具体来源见 `localization/vendor/jar-in-jar/README.md`. 先核对父 JAR 与批次英文源, 再准备该输入.
@@ -21,6 +23,12 @@
 - 处理任务书模组名、手册目录、首页和配方渲染反馈时, 先读 `localization/feedback_20261019/README.md`; Sodium 0.9.2 语言键记录见 `localization/ordinary/batch-316/README.md`. Nodeworks 的硬编码 UI 按既定要求保留英文, 不修改客户端代码.
 - 项目迁移证据在 `migration-manifest.json`、`migration-installed.json` 和 `localization/reports/project-migration-verification.json`. 安装记录及备份属于本地状态, 不从历史记录推断新环境已经安装或验收.
 - README 面向公开仓库的玩家与贡献者. Agent 操作流程、环境适配细节和历史证据导航写在本文件或对应阶段文档, 不把本机路径、会话叙述及重复的内部进度堆入 README.
+
+## 维护与脚本安装命令
+
+在依赖准备完毕后, 于项目根目录执行 `python project.py info` 核对实例和组件基线, `python project.py check` 运行全量静态检查. 发布工具的 `plan`、`build`、`check` 分别列出清单、打包和校验; 常规 `check` 会在本地安装记录存在时一并核对已安装文件. 用户的一键打包仅检查发布产物, 与完整源文检查分开报告.
+
+使用 `python localization/release_pack.py install --enable` 前, 核对 `project.json` 的 `target_instance` 指向实际 1.4.0 实例. 脚本按清单安装并备份被覆盖文件, 同时启用资源包. 使用 `python localization/release_pack.py revert` 按安装记录还原. 保留 `dist/` 中的本地安装记录及实例备份目录; 不将这些本地状态提交到仓库.
 
 ## 翻译范围
 

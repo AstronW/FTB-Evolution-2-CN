@@ -38,32 +38,20 @@
 
 更新整合包后应重新确认版本兼容性. 请勿将仓库中的整个 `.minecraft/` 目录覆盖到游戏实例. 产物组成、安装脚本与还原方式见 [构建与安装说明](localization/reports/release-pack-1.4.0.md).
 
-## 从源码构建
+## 一键打包
 
-需要 Python 3. 先克隆仓库:
+下载本仓库的 [源码 ZIP](https://github.com/AstronW/FTB-Evolution-2-CN/archive/refs/heads/main.zip) 并解压. 电脑需安装 [Python 3.8 或更新版本](https://www.python.org/downloads/), 不需要了解 Python 或安装额外的库; Windows 安装时勾选 **Add python.exe to PATH**.
 
-```bash
-git clone https://github.com/AstronW/FTB-Evolution-2-CN.git
-cd FTB-Evolution-2-CN
-```
+- **Windows**: 双击解压目录中的 `build.cmd`.
+- **Linux / macOS**: 在解压目录打开终端, 运行一条命令:
 
-修改 `project.json` 中的 `source_instance` 和 `target_instance`, 使其指向本机对应版本的游戏实例. 在项目根目录执行:
+  ```bash
+  ./build.sh
+  ```
 
-```bash
-python localization/release_pack.py plan
-python localization/release_pack.py build
-python localization/release_pack.py check
-```
+脚本会自动打包并校验, 完成后在 `dist/` 文件夹中找到 `FTB-Evolution-2-1.4.0-zh_CN-install.zip`, 按上方安装步骤使用即可. 同时生成单独的资源包 ZIP 和 SHA-256 清单.
 
-产物和 SHA-256 清单生成到 `dist/`. 如使用脚本安装, 先确认 `target_instance` 设置正确:
-
-```bash
-python localization/release_pack.py install --enable
-```
-
-安装脚本按清单写入文件并备份被覆盖的原文件; 使用 `python localization/release_pack.py revert` 按安装记录还原. 请保留本地安装记录和实例中的备份目录.
-
-上述命令汇总仓库已有的文本产物. 若要修改译文、重新生成各阶段输出或运行完整检查, 还需准备对应版本的模组 JAR、固定版本的 CFPA 检出及 Java / Node.js 依赖. 当前部分检查脚本仍含本机依赖路径, 尚未实现开箱即用的跨平台构建.
+打包只使用仓库内已有资源, 不需要安装游戏、下载模组或 CFPA, 也不需要修改配置和填写游戏路径. 维护译文与运行完整源文检查的说明见 [AGENTS.md](AGENTS.md).
 
 ## 仓库结构
 
