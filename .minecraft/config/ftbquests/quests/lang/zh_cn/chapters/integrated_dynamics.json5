@@ -61,7 +61,7 @@
     "",
     "通过&3存储终端&r, 你就能访问相连箱子中的全部物品, 并使用它们进行合成!",
     "",
-    "[\"将\",{\"text\":\"便携存储终端\",\"color\":\"dark_green\"},\"连接到\",{\"text\":\"全向连接器\",\"underlined\":true,\"color\":\"light_purple\",\"click_event\":{\"id\":\"ftbquests:link\",\"payload\":{\"quest_id\":\"3D1796B4F460DBBF\",\"page\":1},\"action\":\"custom\"},\"hover_event\":{\"action\":\"show_text\",\"value\":\"前往全向连接器任务\"}},\",即可远程访问存储网络.\"]"
+    "[\"将\",{\"text\":\"移动式存储终端\",\"color\":\"dark_green\"},\"连接到\",{\"text\":\"全向连接器\",\"underlined\":true,\"color\":\"light_purple\",\"click_event\":{\"id\":\"ftbquests:link\",\"payload\":{\"quest_id\":\"3D1796B4F460DBBF\",\"page\":1},\"action\":\"custom\"},\"hover_event\":{\"action\":\"show_text\",\"value\":\"前往全向连接器任务\"}},\",即可远程访问存储网络.\"]"
   ],
   "quest.091ACA18018FFD3E.quest_desc": [
     "这些部件用于从世界中收集或放置流体.",
@@ -219,7 +219,7 @@
   "quest.0CEB6ADF1306381D.title": "&f读取数据",
   "quest.5211DFF30B136433.title": "&f早期&b门瑞欧&r自动化",
   "quest.1403ABF77D987200.quest_desc": [
-    "&a挤压机&r用于从特定方块中提取物品, 例如从门瑞欧原木或木板中提取&b门瑞欧&r.",
+    "&a挤压机&r用于从特定方块中提取物品, 例如从门瑞欧原木或门瑞欧木板中提取&b门瑞欧&r.",
     "",
     "手持要挤压的物品, 对&a挤压机&r直接使用放入, 然后站在顶面中央不断跳跃, 直到产物出来!",
     "",
@@ -325,7 +325,7 @@
     "",
     "所有接入&a逻辑线缆&r的设备, 都属于同一个&b网络&r!",
     "",
-    "还可以用&b伪装板&r隐藏&a逻辑线缆&r, 呈现你所选方块的外观."
+    "还可以用&b伪装块&r隐藏&a逻辑线缆&r, 呈现你所选方块的外观."
   ],
   "task.31D3D8C34525AC97.title": "&f过滤示例",
   "quest.302C29E7007A61D9.title": "&f世界能量部件",

@@ -60,7 +60,7 @@
   "tooltip.crystalix.show_properties": "要在提示中显示当前所选属性, 请打开相应配置",
   "tooltip.crystalix.tinted.off": "使用未着色纹理变体, 同时仍应用所选色调",
   "tooltip.crystalix.tinted.on": "使用完全着色的纹理变体",
-  "tooltip.crystalix.use_wand": "要修改方块属性或使用不同纹理与颜色, 请使用 Crystalix 法杖",
+  "tooltip.crystalix.use_wand": "要修改方块属性或使用不同纹理与颜色, 请使用 虹晶手杖",
   "tooltip.crystalix.waterloggable.off": "阻止玻璃改变含水状态",
   "tooltip.crystalix.waterloggable.on": "允许玻璃改变含水状态"
 }

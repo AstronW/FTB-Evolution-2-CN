@@ -8280,7 +8280,7 @@
     "key": "advancements.mffs.steel_compound.description",
     "english": "Craft Steel Compound",
     "status": "accepted",
-    "chinese": "制作钢合金",
+    "chinese": "制作钢化合物",
     "reason": "按当前有效英文源逐项比较候选用途、对象及参数, 对同义名称在本模组/界面内复用, 不因同一英文而跨语境误配.",
     "source": {
       "namespace": "mffs",
@@ -8297,7 +8297,14 @@
       "source_key": "advancements.mffs.steel_compound.description",
       "english": "Craft Steel Compound",
       "chinese": "制作钢合金"
-    }
+    },
+    "changes": [
+      {
+        "from": "制作钢合金",
+        "to": "制作钢化合物",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "mffs",
@@ -13051,7 +13058,7 @@
     "key": "book.occultism.dictionary_of_spirits.getting_started.effects.step_height.title",
     "english": "Step Height",
     "status": "accepted",
-    "chinese": "自动跨越高度",
+    "chinese": "最大行走高度",
     "reason": "step height指自动跨越高度, 不是泛指行走最大高度.",
     "source": {
       "namespace": "occultism",
@@ -13064,7 +13071,12 @@
       "chinese": "最大行走高度"
     },
     "changes": [
-      "当前源/语义适配: step height指自动跨越高度, 不是泛指行走最大高度."
+      "当前源/语义适配: step height指自动跨越高度, 不是泛指行走最大高度.",
+      {
+        "from": "自动跨越高度",
+        "to": "最大行走高度",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
     ]
   },
   {

@@ -1,0 +1,41 @@
+{
+  "batch": "185",
+  "namespace": "lootr",
+  "jar": ".minecraft/mods/lootr-neoforge-26.1.2-1.23.38.123.jar",
+  "language_path": "assets/lootr/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/lootr/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.lootr",
+    "itemGroup.lootr.lootr",
+    "lootr.commands.blockpos",
+    "lootr.config.particles.decay_particles",
+    "lootr.config.particles.decay_particles.desc",
+    "lootr.config.particles.refresh_particles",
+    "lootr.config.particles.refresh_particles.desc",
+    "lootr.configuration.break_to_drop_loot",
+    "lootr.configuration.break_to_drop_loot.desc",
+    "lootr.configuration.loot_table_force_whitelist",
+    "lootr.configuration.loot_table_force_whitelist.desc",
+    "lootr.configuration.pinned_team_resolver",
+    "lootr.configuration.pinned_team_resolver.desc",
+    "lootr.configuration.team",
+    "lootr.configuration.team.desc",
+    "lootr.configuration.team_loot",
+    "lootr.configuration.team_loot.desc",
+    "lootr.toast.decay.complete",
+    "lootr.toast.decay.message",
+    "lootr.toast.decay.ongoing",
+    "lootr.toast.decay.start",
+    "lootr.toast.refresh.complete",
+    "lootr.toast.refresh.complete_message",
+    "lootr.toast.refresh.message",
+    "lootr.toast.refresh.ongoing",
+    "lootr.toast.refresh.start",
+    "text.autoconfig.lootr.title"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Lootr",
+    "%s,%s,%s"
+  ]
+}

@@ -4,8 +4,8 @@
 
 - 可见章节：42/42。
 - 完整中文文件：51/51（含目录、奖励和额外章节文件）。
-- 已安装文本键：4181/4181。
-- 已解决文本片段：8192/8192（含已明确保留的专名）。
+- 已安装文本键：4193/4193。
+- 已解决文本片段：8205/8205（含已明确保留的专名）。
 - 另有45条奖励标签、38条任务组件名称/描述及5条补充名称。
 - 文件结构与解析检查见reports；游戏内排版、悬停与链接点击尚未验收。
 
@@ -26,7 +26,7 @@
 | chapters/energized_power.json5 | 100 | 168/168 | 是 |
 | chapters/evilcraft.json5 | 51 | 84/84 | 是 |
 | chapters/exploration.json5 | 137 | 210/210 | 是 |
-| chapters/gearing_up.json5 | 200 | 460/460 | 是 |
+| chapters/gearing_up.json5 | 212 | 472/472 | 是 |
 | chapters/general_storage.json5 | 334 | 565/565 | 是 |
 | chapters/getting_started.json5 | 64 | 241/241 | 是 |
 | chapters/hephaestus.json5 | 46 | 181/181 | 是 |
@@ -38,7 +38,7 @@
 | chapters/logistics.json5 | 158 | 338/338 | 是 |
 | chapters/ltx_industries.json5 | 93 | 204/204 | 是 |
 | chapters/mffs.json5 | 46 | 60/60 | 是 |
-| chapters/nautec.json5 | 313 | 839/839 | 是 |
+| chapters/nautec.json5 | 313 | 840/840 | 是 |
 | chapters/neo_vitae.json5 | 146 | 262/262 | 是 |
 | chapters/occultism.json5 | 185 | 423/423 | 是 |
 | chapters/oritech.json5 | 123 | 224/224 | 是 |

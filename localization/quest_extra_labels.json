@@ -1,7 +1,7 @@
 [
   {
     "source": ".minecraft/quest-inputs/ftb-en_us.json",
-    "source_sha256": "5b5b2005ff72034ca8b8761870ae48bb03408cce4622f68698881493490aa46d",
+    "source_sha256": "ca5ec053e028d3f44b83de931c3019773de3204ef077473717337ff39d9d1d7e",
     "target": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
     "entries": {
       "bacteria.ftb.replicophiles": {

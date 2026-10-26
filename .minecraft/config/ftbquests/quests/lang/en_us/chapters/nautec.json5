@@ -23,9 +23,11 @@
   "quest.66A97821D6355722.quest_desc": [
     "One crafted part does two jobs.",
     "",
-    "Craft a &aBuoyancy Tank&r. Fitted in the Body slot it lets you fly the way you do in creative mode, in water or out of it.",
+    "Craft a &aBuoyancy Tank&r. The Sea Scout's hull is built around one, along with a Prismatic Battery and an Eldritch Heart.",
     "",
-    "Keep a second one for the Sea Scout, whose hull is built around a tank along with a Prismatic Battery and an Eldritch Heart.",
+    "For flight, charge a second tank in the &aFTB Fabricator&r with a Nether Star and 8 Phantom Membranes. The recipe opens once you have built the Skyline and killed the Wither and the Ender Dragon. The result is a glinting &dCharged Buoyancy Tank&r, and fitted in the Body slot it lets you fly the way you do in creative mode, in water or out of it.",
+    "",
+    "&eNote&r: the Augmentation Station will not install a plain tank. Load the charged one.",
   ],
   "quest.3110B6A87C933A2D.title": "&2Grafting Station",
   "quest.0F4B9E3D2B15A9C8.title": "&bFiring Your First Beam",

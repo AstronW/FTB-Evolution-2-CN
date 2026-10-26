@@ -624,15 +624,15 @@
   },
   {
     "page": "nodeworks/example-setups/automated-celestine-farm.md",
-    "segments": 7,
-    "translated": 7,
+    "segments": 9,
+    "translated": 9,
     "complete": true,
     "missing": []
   },
   {
     "page": "nodeworks/example-setups/automated-smelting.md",
-    "segments": 12,
-    "translated": 12,
+    "segments": 17,
+    "translated": 17,
     "complete": true,
     "missing": []
   },
@@ -652,15 +652,8 @@
   },
   {
     "page": "nodeworks/example-setups/milky-soul-ball-farm.md",
-    "segments": 8,
-    "translated": 8,
-    "complete": true,
-    "missing": []
-  },
-  {
-    "page": "nodeworks/example-setups/moving-items.md",
-    "segments": 29,
-    "translated": 29,
+    "segments": 11,
+    "translated": 11,
     "complete": true,
     "missing": []
   },
@@ -771,15 +764,15 @@
   },
   {
     "page": "nodeworks/items-blocks/craft_requester.md",
-    "segments": 19,
-    "translated": 19,
+    "segments": 20,
+    "translated": 20,
     "complete": true,
     "missing": []
   },
   {
     "page": "nodeworks/items-blocks/crafting_cpu.md",
-    "segments": 64,
-    "translated": 64,
+    "segments": 65,
+    "translated": 65,
     "complete": true,
     "missing": []
   },
@@ -834,15 +827,15 @@
   },
   {
     "page": "nodeworks/items-blocks/inventory_terminal.md",
-    "segments": 22,
-    "translated": 22,
+    "segments": 24,
+    "translated": 24,
     "complete": true,
     "missing": []
   },
   {
     "page": "nodeworks/items-blocks/io_card.md",
-    "segments": 30,
-    "translated": 30,
+    "segments": 31,
+    "translated": 31,
     "complete": true,
     "missing": []
   },
@@ -864,6 +857,13 @@
     "page": "nodeworks/items-blocks/multi_dimension_range_upgrade.md",
     "segments": 5,
     "translated": 5,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/items-blocks/multi_processing_handler.md",
+    "segments": 46,
+    "translated": 46,
     "complete": true,
     "missing": []
   },
@@ -890,8 +890,8 @@
   },
   {
     "page": "nodeworks/items-blocks/observer_card.md",
-    "segments": 27,
-    "translated": 27,
+    "segments": 28,
+    "translated": 28,
     "complete": true,
     "missing": []
   },
@@ -918,8 +918,8 @@
   },
   {
     "page": "nodeworks/items-blocks/processing_handler.md",
-    "segments": 48,
-    "translated": 48,
+    "segments": 49,
+    "translated": 49,
     "complete": true,
     "missing": []
   },
@@ -939,15 +939,15 @@
   },
   {
     "page": "nodeworks/items-blocks/redstone_card.md",
-    "segments": 14,
-    "translated": 14,
+    "segments": 15,
+    "translated": 15,
     "complete": true,
     "missing": []
   },
   {
     "page": "nodeworks/items-blocks/scripting_terminal.md",
-    "segments": 33,
-    "translated": 33,
+    "segments": 34,
+    "translated": 34,
     "complete": true,
     "missing": []
   },
@@ -967,8 +967,8 @@
   },
   {
     "page": "nodeworks/items-blocks/storage_meter.md",
-    "segments": 22,
-    "translated": 22,
+    "segments": 23,
+    "translated": 23,
     "complete": true,
     "missing": []
   },
@@ -981,8 +981,8 @@
   },
   {
     "page": "nodeworks/items-blocks/variable.md",
-    "segments": 23,
-    "translated": 23,
+    "segments": 24,
+    "translated": 24,
     "complete": true,
     "missing": []
   },
@@ -1023,8 +1023,8 @@
   },
   {
     "page": "nodeworks/lua-api/importer.md",
-    "segments": 58,
-    "translated": 58,
+    "segments": 62,
+    "translated": 62,
     "complete": true,
     "missing": []
   },
@@ -1037,8 +1037,8 @@
   },
   {
     "page": "nodeworks/lua-api/input-items.md",
-    "segments": 27,
-    "translated": 27,
+    "segments": 33,
+    "translated": 33,
     "complete": true,
     "missing": []
   },
@@ -1051,15 +1051,15 @@
   },
   {
     "page": "nodeworks/lua-api/job.md",
-    "segments": 36,
-    "translated": 36,
+    "segments": 46,
+    "translated": 46,
     "complete": true,
     "missing": []
   },
   {
     "page": "nodeworks/lua-api/network.md",
-    "segments": 137,
-    "translated": 137,
+    "segments": 168,
+    "translated": 168,
     "complete": true,
     "missing": []
   },
@@ -1086,8 +1086,8 @@
   },
   {
     "page": "nodeworks/lua-api/stocker.md",
-    "segments": 56,
-    "translated": 56,
+    "segments": 59,
+    "translated": 59,
     "complete": true,
     "missing": []
   },
@@ -1107,8 +1107,8 @@
   },
   {
     "page": "nodeworks/nodeworks-mechanics/autocrafting.md",
-    "segments": 79,
-    "translated": 79,
+    "segments": 81,
+    "translated": 81,
     "complete": true,
     "missing": []
   },
@@ -1130,6 +1130,13 @@
     "page": "nodeworks/nodeworks-mechanics/index.md",
     "segments": 2,
     "translated": 2,
+    "complete": true,
+    "missing": []
+  },
+  {
+    "page": "nodeworks/nodeworks-mechanics/moving-items.md",
+    "segments": 35,
+    "translated": 35,
     "complete": true,
     "missing": []
   },

@@ -1,0 +1,245 @@
+[
+  {
+    "page": "ftbic/materials/alloys.md",
+    "old_page": "ftbic/materials/alloys.md",
+    "old_sha256": "b37e8bbcd146532ba7842f399a546d453ada48c60d9873e10c5f21e5ba892a57",
+    "source_sha256": "a1955e14f5be529790484b9286e222f2260e9826dd01235a0c16e223f28d9487",
+    "translated_lines": 40,
+    "reviewed_segments": 2,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/example-setups/automated-celestine-farm.md",
+    "old_page": "nodeworks/example-setups/automated-celestine-farm.md",
+    "old_sha256": "9c60d0934d2b5a55227d6e005614b0105d312e433dea340f0fc8d4db2a8c8498",
+    "source_sha256": "19564f40442b1c3cd10dcc2cf36be4ce5f7c26a8cc87b3cde7c1f31fbba68368",
+    "translated_lines": 9,
+    "reviewed_segments": 3,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/example-setups/automated-smelting.md",
+    "old_page": "nodeworks/example-setups/automated-smelting.md",
+    "old_sha256": "e86ef1eec81a85cad6950870d915c90f4c6b3991f8950b205f8ddb7d33585880",
+    "source_sha256": "f9080a56c145d4ca5bdfe0988b76d933c786b255ced6fd8bd60273e72bb8b891",
+    "translated_lines": 17,
+    "reviewed_segments": 7,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/example-setups/milky-soul-ball-farm.md",
+    "old_page": "nodeworks/example-setups/milky-soul-ball-farm.md",
+    "old_sha256": "1409297914dfb213f4db9fca931bb0b7ca437d3ea16ab51ffc9518266e869cd0",
+    "source_sha256": "112e01edb697d4c6c661009094a87947469c1333bcf2613a48ae7118556af98e",
+    "translated_lines": 11,
+    "reviewed_segments": 3,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/getting-started.md",
+    "old_page": "nodeworks/getting-started.md",
+    "old_sha256": "3a629712b9225e5b4c6c6c41f599ede943e67e801a20f43e07eeb47d336182e6",
+    "source_sha256": "38f797e90d3f67574a2013500c486c0a474c1c5bc6579daa9c0c358ca884b082",
+    "translated_lines": 20,
+    "reviewed_segments": 2,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/craft_requester.md",
+    "old_page": "nodeworks/items-blocks/craft_requester.md",
+    "old_sha256": "9bd3f33ea2e661e75fb559eca94753444d39bfa26536876f167b0245cf122971",
+    "source_sha256": "d88b2615f7bcb08d5c435099fd5d37b2200001f0fbbdf1a8842e744691976df9",
+    "translated_lines": 20,
+    "reviewed_segments": 1,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/crafting_cpu.md",
+    "old_page": "nodeworks/items-blocks/crafting_cpu.md",
+    "old_sha256": "04453c42f2c01ef8fb6802bd988b0f520a8ec9a36e75774bb15acab73ed40a0c",
+    "source_sha256": "0f1002da0bbe79d15ae5de3555370e38cf617e6ca1c57ee2195f6ac268c2d06c",
+    "translated_lines": 65,
+    "reviewed_segments": 1,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/inventory_terminal.md",
+    "old_page": "nodeworks/items-blocks/inventory_terminal.md",
+    "old_sha256": "9f759daf004ead19b2c0256f541a3079715b9f357340b5f6bda15806935230d9",
+    "source_sha256": "94d58861a86b36e5620079caf5eb7d947c804652300dc538e4aa14c3b466fb52",
+    "translated_lines": 24,
+    "reviewed_segments": 2,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/io_card.md",
+    "old_page": "nodeworks/items-blocks/io_card.md",
+    "old_sha256": "c4ce3e62bcc032e0280571a34e93495f05cf57771289e579f14f01e06ad5f0a2",
+    "source_sha256": "8b666ce463e4d327de34dd01f0e170e83e3d4c886a72b579c295437af12085aa",
+    "translated_lines": 31,
+    "reviewed_segments": 1,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/multi_processing_handler.md",
+    "old_page": "nodeworks/items-blocks/multi_processing_handler.md",
+    "old_sha256": null,
+    "source_sha256": "e4f30152c425f51e820d436b7b67f07ddb3290b5662d0428050cfeb87847d8fa",
+    "translated_lines": 46,
+    "reviewed_segments": 46,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/network_controller.md",
+    "old_page": "nodeworks/items-blocks/network_controller.md",
+    "old_sha256": "1d767f69866481574c1e7a09d47a5ffb9a4416b02a4452f1a7990db65b4b8b9f",
+    "source_sha256": "50a21ce8737a8a8f2027b6bd8ceba5f412ec85064dcf4ba079036d97c140b007",
+    "translated_lines": 18,
+    "reviewed_segments": 2,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/observer_card.md",
+    "old_page": "nodeworks/items-blocks/observer_card.md",
+    "old_sha256": "9e93b6e584dc5c32bfe8fdd7e9701ad7e44d614529968ff4b91fabb6592bb3e9",
+    "source_sha256": "00a0ad6fd6ea5d330eb085507c74a7fdeea3dbb0c4d9bf1256dff45f236d9263",
+    "translated_lines": 28,
+    "reviewed_segments": 1,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/portable_inventory_terminal.md",
+    "old_page": "nodeworks/items-blocks/portable_inventory_terminal.md",
+    "old_sha256": "c82504d53be0be4697f1884cc36b15dade64f2abd593858817d0fdb13a4e13e2",
+    "source_sha256": "dc2860ab5e99019c41e85267b882d6cbdc36ce5b1e224f28ce9a716864f420ad",
+    "translated_lines": 20,
+    "reviewed_segments": 0,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/processing_handler.md",
+    "old_page": "nodeworks/items-blocks/processing_handler.md",
+    "old_sha256": "6106790b50b28895c65dbc0dc7116b3f364cf4362604aa23b204987d39aa0efb",
+    "source_sha256": "772b28c7f92f315a2d40d2096f5ea8a49e88566fc3f92afac5b0513b18885b14",
+    "translated_lines": 49,
+    "reviewed_segments": 3,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/recipe_sets.md",
+    "old_page": "nodeworks/items-blocks/recipe_sets.md",
+    "old_sha256": "c9ee3e334857c3fc5ad0ba7f728232983901117a2e0a4d27ef2b420b50583e42",
+    "source_sha256": "b06bfb2d0d1b807204e18927943f8189c0f80d6e0d54fca22fa7403e644749d3",
+    "translated_lines": 64,
+    "reviewed_segments": 0,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/redstone_card.md",
+    "old_page": "nodeworks/items-blocks/redstone_card.md",
+    "old_sha256": "16c9d03c4bfb3b049c8ae7869464cdc817a731175f8f1644219c6eb114929323",
+    "source_sha256": "ced4f5d0849c777d266cca44724b6e3270fb893f3a0b89b8297c9f893454080e",
+    "translated_lines": 15,
+    "reviewed_segments": 1,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/scripting_terminal.md",
+    "old_page": "nodeworks/items-blocks/scripting_terminal.md",
+    "old_sha256": "72fc00cbdeaf6b72e4d4bb4e127687f5ba526a37e03b0e3d11a089e80f9659aa",
+    "source_sha256": "65249dc03b822d06d93b11b91892824d213189360ec90096b48d2fd8ca8656e4",
+    "translated_lines": 34,
+    "reviewed_segments": 1,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/storage_blocks.md",
+    "old_page": "nodeworks/items-blocks/storage_blocks.md",
+    "old_sha256": "180b64e6af5ff64ceaf0c78661624e8f70f77789992ce814d11834080a14205f",
+    "source_sha256": "660452f6b7c6f3e77bfea1df4ea3700745c3e5f96ffae6c32411b2c616afc27d",
+    "translated_lines": 22,
+    "reviewed_segments": 0,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/storage_meter.md",
+    "old_page": "nodeworks/items-blocks/storage_meter.md",
+    "old_sha256": "593e7a4acfab381a4cd58fb71dd5a1713b0361e6c00c747402520b495ce3e3b5",
+    "source_sha256": "e14ab748ee562ccb4fe055b0e9bde2fadb55b87795b04a47aaf7cc33c469459c",
+    "translated_lines": 23,
+    "reviewed_segments": 1,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/items-blocks/variable.md",
+    "old_page": "nodeworks/items-blocks/variable.md",
+    "old_sha256": "e52cdf1d9a4587131b3724a83c09674f1b5c4fe8dd6b643f79ddd0436514fb55",
+    "source_sha256": "907894ad87f2ff93719bf6bc7556fd5e52b9912c85913cfd2b7e599c92e35a06",
+    "translated_lines": 24,
+    "reviewed_segments": 1,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/lua-api/importer.md",
+    "old_page": "nodeworks/lua-api/importer.md",
+    "old_sha256": "b24d898801be1660bb0c1e541cffc206238ab94b21badad6dc3d381ffcd42b6f",
+    "source_sha256": "004ef3ed979815e9f5a265cfbe23e423500542c183caffe339aec278c80313c7",
+    "translated_lines": 62,
+    "reviewed_segments": 24,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/lua-api/input-items.md",
+    "old_page": "nodeworks/lua-api/input-items.md",
+    "old_sha256": "8b1f590aac1bfc9a41f0e187f52298f0ee1ef8108ad0990d30682ce78f5169fd",
+    "source_sha256": "ca3131d413d6bb6cca0503aa256c8da3db68ccac5d2d9071a792e49c51666f13",
+    "translated_lines": 33,
+    "reviewed_segments": 6,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/lua-api/job.md",
+    "old_page": "nodeworks/lua-api/job.md",
+    "old_sha256": "3a16a819ceda242f52903c9f9b24a21fc2332a6db93be32e3696494ed050f5dd",
+    "source_sha256": "acb2590b4e7bab0c513f6871d8c14195b8b711488203c9267aa62ffb176f35ed",
+    "translated_lines": 46,
+    "reviewed_segments": 10,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/lua-api/network.md",
+    "old_page": "nodeworks/lua-api/network.md",
+    "old_sha256": "5e220202a83166b42b49561352f40745924c418434c7f93ea73098487ceedb5e",
+    "source_sha256": "9b13d97390e38bd98c8c554719cceb6a0b2b56b1838efc98ccb1c42eabbbe13f",
+    "translated_lines": 168,
+    "reviewed_segments": 31,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/lua-api/stocker.md",
+    "old_page": "nodeworks/lua-api/stocker.md",
+    "old_sha256": "8846fa8a6ecedfdd38e4d211763e6e2b70c774dc1b793d56e8833f17b0555d0b",
+    "source_sha256": "1a58819c059eca8c4166d9ef5c7912bbbba3fa0341d076a9dadee224f47b3967",
+    "translated_lines": 59,
+    "reviewed_segments": 7,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/nodeworks-mechanics/autocrafting.md",
+    "old_page": "nodeworks/nodeworks-mechanics/autocrafting.md",
+    "old_sha256": "a09f34724a8ec0dd9d7f27843510e24a19479d297111cb796c783909389678fe",
+    "source_sha256": "3038226763cdc3d99fba62756d00c7b96bb2d286f7f8c37ff532aaf273078c61",
+    "translated_lines": 81,
+    "reviewed_segments": 5,
+    "pending_segments": 0
+  },
+  {
+    "page": "nodeworks/nodeworks-mechanics/moving-items.md",
+    "old_page": "nodeworks/example-setups/moving-items.md",
+    "old_sha256": "0e7c013548ca8c1ae042016676c996aae2e91f02fc8f379547e04a36d1c78de8",
+    "source_sha256": "682365a7f497b031a1babab291f8fd764209d48d1485f6d62eaac65adbd7beae",
+    "translated_lines": 35,
+    "reviewed_segments": 7,
+    "pending_segments": 0
+  }
+]

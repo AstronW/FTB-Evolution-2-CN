@@ -266,5 +266,13 @@
   "item.cakesticklib.wrought_iron_ingot": "熟铁锭",
   "item.cakesticklib.wrought_iron_nugget": "熟铁粒",
   "item.cakesticklib.wrought_iron_plate": "熟铁板",
-  "item.cakesticklib.xenothite_deposit": "泽诺石矿"
+  "item.cakesticklib.xenothite_deposit": "泽诺石矿",
+  "cakesticklib.hold.ctrl": "§8按住 [§7Control§8] 查看更多详情",
+  "cakesticklib.jade.hold.ctrl": "§7按住 [§eControl§7] 查看更多详情",
+  "cakesticklib.jade.hold.shift": "§7按住 [§eShift§7] 查看更多详情",
+  "cakesticklib.jade.textual_delay.multiplier": "[%sx§7] ",
+  "cakesticklib.jade.textual_delay.time.empty": "§e等待中",
+  "cakesticklib.jade.textual_delay.time.left": "§7合成§7 : §f%s",
+  "config.jade.plugin_cakesticklib.progressbar_delay": "配方进度条信息",
+  "config.jade.plugin_cakesticklib.textual_delay": "配方文字进度信息"
 }

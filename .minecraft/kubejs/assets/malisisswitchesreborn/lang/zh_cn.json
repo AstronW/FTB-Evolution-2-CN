@@ -133,5 +133,13 @@
   "message.malisisswitchesreborn.remote_transmitter.location": "[%1$s; %2$s]",
   "message.malisisswitchesreborn.remote_transmitter.cleared": "已清除连接 (%s / %s)",
   "message.malisisswitchesreborn.remote_transmitter.link_full": "已达远程连接上限 (%s / %s)",
-  "message.malisisswitchesreborn.remote_transmitter.activated": "已激活设备: %s / %s"
+  "message.malisisswitchesreborn.remote_transmitter.activated": "已激活设备: %s / %s",
+  "block.malisisswitchesreborn.industrial_rotary_lever": "工业旋转拉杆",
+  "tooltip.malisisswitchesreborn.industrial_rotary_lever": "工业风格旋转拉杆, 可远程控制红石电流.",
+  "block.malisisswitchesreborn.emergency_stop": "紧急停止按钮",
+  "tooltip.malisisswitchesreborn.emergency_stop": "闪烁的紧急停止按钮, 可远程控制红石电流.",
+  "subtitles.malisisswitchesreborn.emergency_stop_activate": "紧急停止按钮启动",
+  "subtitles.malisisswitchesreborn.emergency_stop_reset": "紧急停止按钮重置",
+  "block.malisisswitchesreborn.analog_bar": "模拟信号条",
+  "tooltip.malisisswitchesreborn.analog_bar": "用于监测红石信号强度的模拟读数装置."
 }

@@ -7,7 +7,7 @@
       "type": "patchouli:spotlight",
       "item": "mffs:custom_mode",
       "link_recipe": true,
-      "text": "$(2)自定义模式$()是所有模式中最灵活的, 它允许投射任意形状或结构的力场.用户定义的方块图案被$(2)自定义模式$()物品分析并存储后, 投射器就能生成与原样$(9)完全一致$()的力场.如此一来, 力场可以被搭成$(9)任何能建造的东西$() - 一座桥, 一栋房, 甚至一整座堡垒!"
+      "text": "$(2)自定义模式$()是所有模式中最灵活的, 它允许投射任意形状或结构的力场.用户定义的方块图案被$(2)自定义模式$()物品分析并存储后, 投影仪就能生成与原样$(9)完全一致$()的力场.如此一来, 力场可以被搭成$(9)任何能建造的东西$() - 一座桥, 一栋房, 甚至一整座堡垒!"
     },
     {
       "type": "patchouli:crafting",
@@ -21,12 +21,12 @@
     },
     {
       "type": "patchouli:text",
-      "text": "当投射器检测到$(2)自定义模式$()物品被放入正确槽位时, 其上方会持续出现随机全息图, 表示该力场图案与任何已知模式形状都不匹配 (这是特性, 不是错误).如有需要, 可以把$(l:mffs:projector_modules/translation_module)$(5)平移模块$()放入标有方向箭头的物品槽, 指定力场相对投射器的出现位置."
+      "text": "当投影仪检测到$(2)自定义模式$()物品被放入正确槽位时, 其上方会持续出现随机全息图, 表示该力场图案与任何已知模式形状都不匹配 (这是特性, 不是错误).如有需要, 可以把$(l:mffs:projector_modules/translation_module)$(5)位移模块$()放入标有方向箭头的物品槽, 指定力场相对投影仪的出现位置."
     },
     {
       "type": "patchouli:text",
       "title": "力场调整",
-      "text": "与其他投射模式一样, $(2)自定义模式$()力场可以用$(l:mffs:projector_modules/rotation_module)$(5)旋转模块$()和$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()分别进行旋转与缩放."
+      "text": "与其他投射模式一样, $(2)自定义模式$()力场可以用$(l:mffs:projector_modules/rotation_module)$(5)旋转模块$()和$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()分别进行旋转与缩放."
     },
     {
       "type": "patchouli:image",

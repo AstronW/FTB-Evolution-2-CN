@@ -7,7 +7,7 @@
       "type": "patchouli:spotlight",
       "item": "mffs:capacity_module",
       "link_recipe": true,
-      "text": "$(5)容量模块$()可以放入多种 MFFS 机器的升级槽, 升级其$(l:mffs:getting_started/fortron)福特龙$()存储能力.效果因机器而异, 最常见的是提高设备的$(l:mffs:getting_started/fortron)福特龙$()容量."
+      "text": "$(5)容量模块$()可以放入多种 MFFS 机器的升级槽, 升级其$(l:mffs:getting_started/fortron)福特朗$()存储能力.效果因机器而异, 最常见的是提高设备的$(l:mffs:getting_started/fortron)福特朗$()容量."
     },
     {
       "type": "patchouli:crafting",

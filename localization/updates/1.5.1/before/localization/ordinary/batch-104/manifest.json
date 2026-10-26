@@ -1,0 +1,14 @@
+{
+  "batch": "104",
+  "namespace": "ftbpromoter",
+  "jar": ".minecraft/mods/ftbpromoter-26.1.2.1.jar",
+  "language_path": "assets/ftbpromoter/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbpromoter/lang/zh_cn.json",
+  "include_keys": [
+    "ftbpromoter.fancymenu.requirement.description",
+    "ftbpromoter.fancymenu.requirement.name",
+    "ftbpromoter.fancymenu.requirement.value.name"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

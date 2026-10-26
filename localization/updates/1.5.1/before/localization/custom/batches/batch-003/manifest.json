@@ -1,0 +1,265 @@
+{
+  "target_pack_version": "1.4.1",
+  "scope": "Current pack custom language sources and non-manual version increments",
+  "files": [
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "snapshot": "sources/apotheosis-en_us.json",
+      "sha256": "9a10c0120b9828bdf7fb993abc48a10d4d78f981c8317924fb4e1ca1f7fe6744"
+    },
+    {
+      "source_path": "kubejs/assets/colossal_reactors/lang/en_us.json",
+      "snapshot": "sources/colossal_reactors-en_us.json",
+      "sha256": "1283305e79e113f06e61ff86cd9c711e09be2dcb995c70d82cf82c110956c580"
+    },
+    {
+      "source_path": "kubejs/assets/drones/lang/en_us.json",
+      "snapshot": "sources/drones-en_us.json",
+      "sha256": "cac386d6f40404cbe70c862c39ebb91d42c5db6cddd5e43ee6cb96822d0f017b"
+    },
+    {
+      "source_path": "kubejs/assets/easy_npc/lang/en_us.json",
+      "snapshot": "sources/easy_npc-en_us.json",
+      "sha256": "7a4624a7de842b971e0cd8988b1a45e9b394a509ff2f26cce6c8a1bed5013abf"
+    },
+    {
+      "source_path": "kubejs/assets/enderio_evolution/lang/en_us.json",
+      "snapshot": "sources/enderio_evolution-en_us.json",
+      "sha256": "54559704e287ae4b1469ed4f24b3f3f306319d82ce6de6d808db1480d1ea2317"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "snapshot": "sources/ftb-en_us.json",
+      "sha256": "7c7e0d1a19216a797d64e060e2b6160850e440d20462d026312debf5b7fbd916"
+    },
+    {
+      "source_path": "kubejs/assets/ftbevolutioncompanion/lang/en_us.json",
+      "snapshot": "sources/ftbevolutioncompanion-en_us.json",
+      "sha256": "08c4be87fe5f0037ba198d8653b9355981005197874c0ad19d57238660488e43"
+    },
+    {
+      "source_path": "kubejs/assets/ftbmaterials/lang/en_us.json",
+      "snapshot": "sources/ftbmaterials-en_us.json",
+      "sha256": "ace0f14ce20bc096fc770c3fef252fb1a75bd8a380cce188b09f2e9022561bc3"
+    },
+    {
+      "source_path": "kubejs/assets/hats/lang/en_us.json",
+      "snapshot": "sources/hats-en_us.json",
+      "sha256": "d9cdbf71a8363d47dd1b7af060d20e67c38243a64e211e41373446c82a872a7e"
+    },
+    {
+      "source_path": "kubejs/assets/hephaestus_tools/lang/en_us.json",
+      "snapshot": "sources/hephaestus_tools-en_us.json",
+      "sha256": "4a743c77448294a0177c237ac91293f7d1ad580c7071647f9210371d737564bb"
+    },
+    {
+      "source_path": "kubejs/assets/hostilenetworks/lang/en_us.json",
+      "snapshot": "sources/hostilenetworks-en_us.json",
+      "sha256": "1ce01e3ffb7072fa673d07e5e77f9f963325285073de5c47cf62d312f0361740"
+    },
+    {
+      "source_path": "kubejs/assets/mysticalagriculture/lang/en_us.json",
+      "snapshot": "sources/mysticalagriculture-en_us.json",
+      "sha256": "4ee30ad74e6be09aa54cbe493d4acf3a27593f6fe553a5ba59a9c9e1d3dad9c7"
+    },
+    {
+      "source_path": "kubejs/assets/nutritional/lang/en_us.json",
+      "snapshot": "sources/nutritional-en_us.json",
+      "sha256": "5af31c76244766bb05cae9897af3d80cafc32da8640f4c22cf24acb44b01c650"
+    },
+    {
+      "source_path": "kubejs/assets/productivebees/lang/en_us.json",
+      "snapshot": "sources/productivebees-en_us.json",
+      "sha256": "7c0fd34a5bcb13211ba149f40733b56df8fe52c597047dd837ab05acdda4e8ea"
+    },
+    {
+      "source_path": "kubejs/assets/sdrp/lang/en_us.json",
+      "snapshot": "sources/sdrp-en_us.json",
+      "sha256": "e27e8bc2ddd17eaf248e1450537900694f513066a1e815c6059521fb9f8f265b"
+    },
+    {
+      "source_path": "kubejs/assets/thaumaturge/lang/en_us.json",
+      "snapshot": "sources/thaumaturge-en_us.json",
+      "sha256": "df89975f633ec5f67dd689e82c64c9c784a99280ae79b4d2bc7c94acd3f84724"
+    },
+    {
+      "source_path": "kubejs/assets/utilitarian/lang/en_us.json",
+      "snapshot": "sources/utilitarian-en_us.json",
+      "sha256": "e8413da8f148a1d04703ea894d7fa9e94a13258ca8363daa7db034a2f2b634ba"
+    },
+    {
+      "source_path": "kubejs/assets/weathergate/lang/en_us.json",
+      "snapshot": "sources/weathergate-en_us.json",
+      "sha256": "1becc98942564383b48680fab9740254af0761dfcddaecd4e1c73fc05deed714"
+    },
+    {
+      "source_path": "kubejs/assets/witchery/lang/en_us.json",
+      "snapshot": "sources/witchery-en_us.json",
+      "sha256": "bec3d18a1e600f8d223666f44d00c7a41c5d4c449e8d59719125dd5fbade5625"
+    }
+  ],
+  "language_entries": [
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.ascent.criteria.uncommon_helm",
+      "en": "Equip an Uncommon Helmet with at least 2 Base Armor Toughness",
+      "zh": "装备至少有 2 基础盔甲韧性的不常见头盔",
+      "previous_en": "Equip an Uncommon Helmet with at least 2 Armor Toughness",
+      "previous_zh": "装备至少有 2 盔甲韧性的不常见头盔"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.ascent.criteria.uncommon_chest",
+      "en": "Equip an Uncommon Chestplate with at least 2 Base Armor Toughness",
+      "zh": "装备至少有 2 基础盔甲韧性的不常见胸甲",
+      "previous_en": "Equip an Uncommon Chestplate with at least 2 Armor Toughness",
+      "previous_zh": "装备至少有 2 盔甲韧性的不常见胸甲"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.ascent.criteria.uncommon_legs",
+      "en": "Equip Uncommon Leggings with at least 2 Base Armor Toughness",
+      "zh": "装备至少有 2 基础盔甲韧性的不常见护腿",
+      "previous_en": "Equip Uncommon Leggings with at least 2 Armor Toughness",
+      "previous_zh": "装备至少有 2 盔甲韧性的不常见护腿"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.ascent.criteria.uncommon_feet",
+      "en": "Equip Uncommon Boots with at least 2 Base Armor Toughness",
+      "zh": "装备至少有 2 基础盔甲韧性的不常见靴子",
+      "previous_en": "Equip Uncommon Boots with at least 2 Armor Toughness",
+      "previous_zh": "装备至少有 2 盔甲韧性的不常见靴子"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.summit.criteria.rare_helm",
+      "en": "Equip a Rare Helmet with at least 3 Base Armor Toughness",
+      "zh": "装备至少有 3 基础盔甲韧性的稀有头盔",
+      "previous_en": "Equip a Rare Helmet with at least 3 Armor Toughness",
+      "previous_zh": "装备至少有 3 盔甲韧性的稀有头盔"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.summit.criteria.rare_chest",
+      "en": "Equip a Rare Chestplate with at least 3 Base Armor Toughness",
+      "zh": "装备至少有 3 基础盔甲韧性的稀有胸甲",
+      "previous_en": "Equip a Rare Chestplate with at least 3 Armor Toughness",
+      "previous_zh": "装备至少有 3 盔甲韧性的稀有胸甲"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.summit.criteria.rare_legs",
+      "en": "Equip Rare Leggings with at least 3 Base Armor Toughness",
+      "zh": "装备至少有 3 基础盔甲韧性的稀有护腿",
+      "previous_en": "Equip Rare Leggings with at least 3 Armor Toughness",
+      "previous_zh": "装备至少有 3 盔甲韧性的稀有护腿"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.summit.criteria.rare_feet",
+      "en": "Equip Rare Boots with at least 3 Base Armor Toughness",
+      "zh": "装备至少有 3 基础盔甲韧性的稀有靴子",
+      "previous_en": "Equip Rare Boots with at least 3 Armor Toughness",
+      "previous_zh": "装备至少有 3 盔甲韧性的稀有靴子"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.pinnacle.criteria.epic_helm",
+      "en": "Equip an Epic Helmet with at least 4 Base Armor Toughness",
+      "zh": "装备至少有 4 基础盔甲韧性的史诗头盔",
+      "previous_en": "Equip an Epic Helmet with at least 4 Armor Toughness",
+      "previous_zh": "装备至少有 4 盔甲韧性的史诗头盔"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.pinnacle.criteria.epic_chest",
+      "en": "Equip an Epic Chestplate with at least 4 Base Armor Toughness",
+      "zh": "装备至少有 4 基础盔甲韧性的史诗胸甲",
+      "previous_en": "Equip an Epic Chestplate with at least 4 Armor Toughness",
+      "previous_zh": "装备至少有 4 盔甲韧性的史诗胸甲"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.pinnacle.criteria.epic_legs",
+      "en": "Equip Epic Leggings with at least 4 Base Armor Toughness",
+      "zh": "装备至少有 4 基础盔甲韧性的史诗护腿",
+      "previous_en": "Equip Epic Leggings with at least 4 Armor Toughness",
+      "previous_zh": "装备至少有 4 盔甲韧性的史诗护腿"
+    },
+    {
+      "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json",
+      "key": "advancements.apotheosis.progression.pinnacle.criteria.epic_feet",
+      "en": "Equip Epic Boots with at least 4 Base Armor Toughness",
+      "zh": "装备至少有 4 基础盔甲韧性的史诗靴子",
+      "previous_en": "Equip Epic Boots with at least 4 Armor Toughness",
+      "previous_zh": "装备至少有 4 盔甲韧性的史诗靴子"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "item.ftb.meat_ingot",
+      "en": "Meat Ingot",
+      "zh": "肉锭",
+      "previous_en": null,
+      "previous_zh": null
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "witchery:ritual/summon_coven_witch.tooltip",
+      "en": "Calls a coven witch to the ritual center, ready to be recruited into your coven.",
+      "zh": "在仪式中心召唤一名聚会女巫, 可招募其加入你的巫师会.",
+      "previous_en": null,
+      "previous_zh": null
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch_ritual.text",
+      "en": "",
+      "zh": "",
+      "previous_en": null,
+      "previous_zh": null
+    }
+  ],
+  "deferred_manual_keys": [
+    {
+      "key": "book.witchery.guidebook.ritual.summon_coven_witch.description",
+      "en": "Call a witch willing to join your coven",
+      "reason": "New handbook prose; deferred to key-manual phase, no translation completion claimed"
+    },
+    {
+      "key": "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch.text",
+      "en": "Sacrifice an ordinary Witch to summon a Coven Witch who can be recruited with a Coven Contract.",
+      "reason": "New handbook prose; deferred to key-manual phase, no translation completion claimed"
+    }
+  ],
+  "source_delta": {
+    "unchanged": 1394,
+    "changed": 12,
+    "removed": [
+      "item.power_armor.creative_battery"
+    ],
+    "added": 9
+  },
+  "terms": {
+    "Base Armor Toughness": "基础盔甲韧性",
+    "Meat Ingot": "肉锭",
+    "Coven Witch": "聚会女巫",
+    "Coven": "巫师会"
+  },
+  "remaining": "Two handbook prose keys deferred, game validation pending"
+}

@@ -133,7 +133,7 @@
   "tooltip.ironfurnaces.gui_shift_more_options": "查看更多选项",
   "tooltip.ironfurnaces.gui_top": "顶部",
   "tooltip.ironfurnaces.heater": "绑定到坐标:",
-  "tooltip.ironfurnaces.heater_block": "与无线热能接收器链接(将无线热能接收器放置在内即可)",
+  "tooltip.ironfurnaces.heater_block": "与无线热能接收器链接(将无线热能接收器放入无线热能供应器即可)",
   "tooltip.ironfurnaces.heater_block1": "为该机器供应FE能源,它将会为所有绑定的无线热能接收器供电",
   "tooltip.ironfurnaces.heater_not_bound": "尚未绑定至能量源!",
   "tooltip.ironfurnaces.heater_tip": "放置于熔炉的燃料槽中",

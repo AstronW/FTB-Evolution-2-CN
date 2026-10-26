@@ -22,17 +22,19 @@ categories:
 
 需要四类组件, 且都位于同一网络:
 
+1. **网络控制器.** 网络要进行任何自动合成,
+    都必须先有一个<ItemLink id="network_controller" />
 1. **CPU.** 放下<ItemLink id="crafting_core" />, 至少连接一个
    <ItemLink id="crafting_storage" />, 再将核心连到
    <ItemLink id="node" />. 参阅[合成CPU](../items-blocks/crafting_cpu.md),
    了解增加缓存, 冷却块和基板等扩展.
-2. **配方.** 将每个配方写入
+1. **配方.** 将每个配方写入一个
    <ItemLink id="instruction_set" />(原版3×3合成)或
    <ItemLink id="processing_set" />(其他配方), 再放入
    <ItemLink id="instruction_storage" />或
    <ItemLink id="processing_storage" />, 并接入网络.
-3. **原料.** 原材料必须位于[网络存储](./network-storage.md). 通过<ItemLink id="storage_card" />接入的任意箱子都有效.
-4. **请求方式.** 使用<ItemLink id="inventory_terminal" />手动
+1. **原料.** 原材料必须存放于[网络存储](./network-storage.md)中. 任何通过<ItemLink id="storage_card" />接入的箱子都算.
+1. **请求方式.** 你可以通过<ItemLink id="inventory_terminal" />发起请求
    点击, 或在<ItemLink id="terminal" />上运行脚本,
    调用`network:craft(...)`.
 

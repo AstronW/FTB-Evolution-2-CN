@@ -21,5 +21,16 @@
   "unchanged_values": [
     "%s",
     "%d, %d, %d"
-  ]
+  ],
+  "jar_sha256": "f4bf6dc11bda0e7286083f6b67984428b88705aa1b180511d4b5de3a9934eb07",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/waystones-neoforge-26.1.2-26.1.2.16.jar",
+    "jar_sha256": "f4bf6dc11bda0e7286083f6b67984428b88705aa1b180511d4b5de3a9934eb07",
+    "nested_jars": [],
+    "resource": "assets/waystones/lang/en_us.json",
+    "mod_ids": [
+      "waystones"
+    ],
+    "resource_sha256": "e246fd08f772d97c6bd1f5fee3de7063532f5607c4459451cf471857f912858c"
+  }
 }

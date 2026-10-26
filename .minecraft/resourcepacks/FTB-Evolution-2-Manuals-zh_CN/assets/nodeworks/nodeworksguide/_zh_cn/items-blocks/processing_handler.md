@@ -5,6 +5,7 @@ navigation:
   title: 加工处理器
 categories:
   - autocrafting
+  - requires_controller
 description: registers a processing set handler using a micro-network
 item_ids:
 - nodeworks:processing_handler
@@ -18,14 +19,16 @@ item_ids:
 [合成CPU](./crafting_cpu.md)便会将原料送入
 机器并取回产物, 无需编写Lua.
 
+> 需要<ItemLink id="network_controller" />才能使用
+
 <GameScene zoom="5" interactive={true} paddingLeft="30" paddingRight="30">
   <IsometricCamera yaw="160" roll="0" pitch="10" />
   <ImportStructure src="../assets/assemblies/basic_processing_handler.snbt" />
   <BoxAnnotation min="0 2 0" max="1 2.25 1" color="#3C44AA">
-    蓝色频道存储卡朝向熔炉顶面.
+    <ItemImage id="storage_card" /> 蓝色频道存储卡
   </BoxAnnotation>
   <BoxAnnotation min="0 0.75 0" max="1 1 1" color="#B02E26">
-    红色频道存储卡朝向熔炉底面.
+    <ItemImage id="storage_card" /> 红色频道存储卡
   </BoxAnnotation>
 </GameScene>
 

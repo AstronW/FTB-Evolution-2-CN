@@ -1,0 +1,47 @@
+{
+ "target_pack_version": "1.5.1",
+ "scope": "Pack 1.5.1 advancement terminology corrections found by glossary check (2026-10-23): Summit tier mistranslated as Pinnacle; Golden Ritual Chalk aligned with block name; 2026-10-23 item-name alignment: Ent Twig as 树人嫩芽",
+ "files": [],
+ "language_entries": [
+  {
+   "key": "advancements.apotheosis.progression.pinnacle.criteria.previous_tier",
+   "en": "Unlock the Summit World Tier",
+   "zh": "解锁高峰世界等级",
+   "previous": "解锁巅峰世界等级",
+   "source_path": "kubejs/assets/apotheosis/lang/en_us.json",
+   "output_path": ".minecraft/kubejs/assets/apotheosis/lang/zh_cn.json"
+  },
+  {
+   "key": "advancements.witchery.golden_chalk.title",
+   "en": "Golden Ritual Chalk",
+   "zh": "金黄仪式粉笔",
+   "previous": "金色仪式粉笔",
+   "source_path": "kubejs/assets/witchery/lang/en_us.json",
+   "output_path": ".minecraft/kubejs/assets/witchery/lang/zh_cn.json"
+  },
+  {
+   "key": "advancements.witchery.golden_chalk.description",
+   "en": "Make Golden Ritual Chalk",
+   "zh": "制作金黄仪式粉笔",
+   "previous": "制作金色仪式粉笔",
+   "source_path": "kubejs/assets/witchery/lang/en_us.json",
+   "output_path": ".minecraft/kubejs/assets/witchery/lang/zh_cn.json"
+  },
+  {
+   "key": "advancements.witchery.mystic_ungent.description",
+   "en": "Brew the ointment for an Ent Twig",
+   "zh": "调制用于树人嫩芽的软膏",
+   "previous": "调制用于树人枝条的软膏",
+   "source_path": "kubejs/assets/witchery/lang/en_us.json",
+   "output_path": ".minecraft/kubejs/assets/witchery/lang/zh_cn.json"
+  },
+  {
+   "key": "advancements.witchery.symbology.description",
+   "en": "Coat an Ent Twig with Mystic Ungent",
+   "zh": "将神秘软膏涂在树人嫩芽上",
+   "previous": "将神秘软膏涂在树人枝条上",
+   "source_path": "kubejs/assets/witchery/lang/en_us.json",
+   "output_path": ".minecraft/kubejs/assets/witchery/lang/zh_cn.json"
+  }
+ ]
+}

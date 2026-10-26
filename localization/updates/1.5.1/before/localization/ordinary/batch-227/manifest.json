@@ -1,0 +1,13 @@
+{
+  "batch": "227",
+  "namespace": "geore",
+  "jar": ".minecraft/mods/GeOre-26.1.2-8.1.0.jar",
+  "language_path": "assets/geore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/geore/lang/zh_cn.json",
+  "include_keys": [
+    "geore.configuration.disableImmovability",
+    "geore.configuration.disableImmovability.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

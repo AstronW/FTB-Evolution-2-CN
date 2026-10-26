@@ -1,0 +1,1382 @@
+{
+  "schema": 1,
+  "target_pack_version": "1.5.1",
+  "policy": "按命名空间/任务章节限定的规范术语与禁用变体; 仅供查询和校验, 不做全局替换.",
+  "entries": [
+    {
+      "id": "nutritional.mod_name",
+      "en": "Nutritional Balance",
+      "zh": "营养均衡",
+      "namespaces": [
+        "nutritional"
+      ],
+      "category": "mod_name",
+      "note": "模组名; 不再使用营养素作 Nutrients 译名",
+      "source": "TERMINOLOGY.md#2026-10-18 玩家反馈修正",
+      "status": "approved"
+    },
+    {
+      "id": "nutritional.nutrients",
+      "en": "Nutrients",
+      "zh": "营养",
+      "namespaces": [
+        "nutritional"
+      ],
+      "quest_chapters": [
+        "cooking_and_brewing",
+        "productive_farming"
+      ],
+      "category": "concept",
+      "avoid": [
+        "营养素"
+      ],
+      "note": "用户裁决取代 1.4.0 农业批次的营养素",
+      "source": "TERMINOLOGY.md#2026-10-18 玩家反馈修正",
+      "status": "approved"
+    },
+    {
+      "id": "ironjetpacks.mod_name",
+      "en": "Iron Jetpacks",
+      "zh": "铁制喷气背包",
+      "namespaces": [
+        "ironjetpacks"
+      ],
+      "category": "mod_name",
+      "note": "任务书 Simply Jetpacks 为源文误指",
+      "source": "TERMINOLOGY.md#2026-10-18 玩家反馈修正",
+      "status": "approved"
+    },
+    {
+      "id": "horsepowered.mod_name",
+      "en": "Horse Powered",
+      "zh": "马力",
+      "namespaces": [
+        "horsepowered"
+      ],
+      "category": "mod_name",
+      "source": "TERMINOLOGY.md#2026-10-18 玩家反馈修正",
+      "status": "approved"
+    },
+    {
+      "id": "hephaestus.mod_name",
+      "en": "Hephaestus Forge",
+      "zh": "匠神",
+      "namespaces": [
+        "hephaestus",
+        "hephaestus_tools"
+      ],
+      "category": "mod_name",
+      "note": "Hephaestus Tools 为匠神工具; 章节名 Hephaestus 同",
+      "source": "TERMINOLOGY.md#2026-10-18 玩家反馈修正",
+      "status": "approved"
+    },
+    {
+      "id": "stellaris.mod_name",
+      "en": "Stellaris",
+      "zh": "群星",
+      "namespaces": [
+        "stellaris"
+      ],
+      "category": "mod_name",
+      "note": "取代 1.4.0 手册批次的保留英文",
+      "source": "TERMINOLOGY.md#2026-10-18 玩家反馈修正",
+      "status": "approved"
+    },
+    {
+      "id": "nautec.mod_name",
+      "en": "NauTec 2",
+      "zh": "海蓝科技",
+      "namespaces": [
+        "nautec"
+      ],
+      "category": "mod_name",
+      "note": "取代 1.4.0 手册批次的保留英文",
+      "source": "TERMINOLOGY.md#2026-10-18 玩家反馈修正",
+      "status": "approved"
+    },
+    {
+      "id": "auroral.mod_name",
+      "en": "Auroral",
+      "zh": "极光",
+      "namespaces": [
+        "auroral"
+      ],
+      "category": "mod_name",
+      "note": "取代 1.4.0 Auroral 批次的保留英文",
+      "source": "TERMINOLOGY.md#2026-10-18 玩家反馈修正",
+      "status": "approved"
+    },
+    {
+      "id": "dimresources.mod_name",
+      "en": "Dimensional Resources",
+      "zh": "维度资源",
+      "namespaces": [
+        "dimresources"
+      ],
+      "category": "mod_name",
+      "source": "TERMINOLOGY.md#2026-10-18 玩家反馈修正",
+      "status": "approved"
+    },
+    {
+      "id": "refinedstorage.mod_name",
+      "en": "Refined Storage",
+      "zh": "精致存储",
+      "namespaces": [
+        "refinedstorage*",
+        "refinedtypes",
+        "logisticsnetworks",
+        "collapsible_groups"
+      ],
+      "quest_chapters": [
+        "*"
+      ],
+      "category": "mod_name",
+      "avoid": [
+        "精炼存储"
+      ],
+      "note": "扩展: 精致存储: 类型扩展, 精致厨房 (Refined Cooking)",
+      "source": "TERMINOLOGY.md#2026-10-18 用户裁决关闭模组名疑义",
+      "status": "approved"
+    },
+    {
+      "id": "refinedstorage_quartz_arsenal.mod_name",
+      "en": "Quartz Arsenal",
+      "zh": "无线合成",
+      "namespaces": [
+        "refinedstorage_quartz_arsenal"
+      ],
+      "category": "mod_name",
+      "note": "完整显示名 精致存储 - 无线合成",
+      "source": "TERMINOLOGY.md#2026-10-18 用户裁决关闭模组名疑义",
+      "status": "approved"
+    },
+    {
+      "id": "neosync.mod_name",
+      "en": "NeoSync",
+      "zh": "新克隆",
+      "namespaces": [
+        "neosync"
+      ],
+      "category": "mod_name",
+      "source": "TERMINOLOGY.md#2026-10-18 用户裁决关闭模组名疑义",
+      "status": "approved"
+    },
+    {
+      "id": "animal_pen.mod_name",
+      "en": "Animal Pen",
+      "zh": "动物围栏",
+      "namespaces": [
+        "animal_pen"
+      ],
+      "category": "mod_name",
+      "source": "TERMINOLOGY.md#2026-10-18 用户裁决关闭模组名疑义",
+      "status": "approved"
+    },
+    {
+      "id": "authme.mod_name",
+      "en": "Auth Me",
+      "zh": "Auth Me",
+      "namespaces": [
+        "authme"
+      ],
+      "category": "mod_name",
+      "keep_english": true,
+      "note": "保留英文",
+      "source": "TERMINOLOGY.md#2026-10-18 用户裁决关闭模组名疑义",
+      "status": "approved"
+    },
+    {
+      "id": "energizedpower.mod_name",
+      "en": "Energized Power",
+      "zh": "充能能源",
+      "namespaces": [
+        "energizedpower"
+      ],
+      "quest_chapters": [
+        "*"
+      ],
+      "category": "mod_name",
+      "source": "TERMINOLOGY.md#2026-10-19 任务书模组名同步",
+      "status": "approved"
+    },
+    {
+      "id": "ftb.feed_the_beast",
+      "en": "Feed The Beast",
+      "zh": "Feed The Beast",
+      "namespaces": [
+        "*"
+      ],
+      "category": "proper_noun",
+      "keep_english": true,
+      "note": "专名保留英文; 动词短语 fed the Beast 仍译喂养巨兽, 故不设禁用词",
+      "source": "TERMINOLOGY.md#2026-10-18 名称保留",
+      "status": "approved"
+    },
+    {
+      "id": "integrateddynamics.mod_name",
+      "en": "Integrated Dynamics",
+      "zh": "动态联合",
+      "namespaces": [
+        "integrated*"
+      ],
+      "quest_chapters": [
+        "integrated_dynamics"
+      ],
+      "category": "mod_name",
+      "avoid": [
+        "集成动力"
+      ],
+      "note": "同系列: 集成管道, 存储终端",
+      "source": "TERMINOLOGY.md#1.4.0 CFPA 审校复用裁决",
+      "status": "approved"
+    },
+    {
+      "id": "enderio.mod_name",
+      "en": "Ender IO",
+      "zh": "末影接口",
+      "namespaces": [
+        "enderio*"
+      ],
+      "category": "mod_name",
+      "source": "localization/terms.json",
+      "status": "approved"
+    },
+    {
+      "id": "arsmagicalegacy.mod_name",
+      "en": "Ars Magica",
+      "zh": "魔法艺术",
+      "namespaces": [
+        "arsmagicalegacy"
+      ],
+      "category": "mod_name",
+      "source": "localization/terms.json",
+      "status": "approved"
+    },
+    {
+      "id": "occultism.mod_name",
+      "en": "Occultism",
+      "zh": "神秘学",
+      "namespaces": [
+        "occultism"
+      ],
+      "category": "mod_name",
+      "source": "localization/terms.json",
+      "status": "approved"
+    },
+    {
+      "id": "productivebees.mod_name",
+      "en": "Productive Bees",
+      "zh": "资源蜜蜂",
+      "namespaces": [
+        "productivebees",
+        "mystianapiary"
+      ],
+      "category": "mod_name",
+      "source": "TERMINOLOGY.md#1.4.0 剩余手册批次",
+      "status": "approved"
+    },
+    {
+      "id": "productivebees.honey_treat",
+      "en": "Honey Treat",
+      "zh": "蜂蜜小食",
+      "namespaces": [
+        "productivebees"
+      ],
+      "quest_chapters": [
+        "resource_generation"
+      ],
+      "category": "item",
+      "keys": [
+        "item.productivebees.honey_treat"
+      ],
+      "avoid": [
+        "蜜蜂小食"
+      ],
+      "note": "游戏内物品名",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "auroral.frostbite",
+      "en": "Frostbite",
+      "zh": "霜噬",
+      "namespaces": [
+        "auroral",
+        "frostbear"
+      ],
+      "quest_chapters": [
+        "auroral"
+      ],
+      "category": "effect",
+      "keys": [
+        "effect.auroral.frostbite"
+      ],
+      "avoid": [
+        "冻伤"
+      ],
+      "note": "Auroral 与 FrostBear 同一效果名",
+      "source": "TERMINOLOGY.md#任务书与手册同步 (2026-10-18)",
+      "status": "approved"
+    },
+    {
+      "id": "auroral.cold_brewing_stand",
+      "en": "Cold Brewing Stand",
+      "zh": "低温酿造台",
+      "namespaces": [
+        "auroral"
+      ],
+      "quest_chapters": [
+        "auroral"
+      ],
+      "category": "block",
+      "keys": [
+        "block.auroral.cold_brewing_stand"
+      ],
+      "avoid": [
+        "寒冷酿造台"
+      ],
+      "source": "TERMINOLOGY.md#任务书与手册同步 (2026-10-18)",
+      "status": "approved"
+    },
+    {
+      "id": "auroral.glacial_basin",
+      "en": "Glacial Basin",
+      "zh": "冰川之盆",
+      "namespaces": [
+        "auroral"
+      ],
+      "quest_chapters": [
+        "auroral"
+      ],
+      "category": "block",
+      "keys": [
+        "block.auroral.glacial_basin"
+      ],
+      "avoid": [
+        "冰川盆"
+      ],
+      "source": "TERMINOLOGY.md#任务书与手册同步 (2026-10-18)",
+      "status": "approved"
+    },
+    {
+      "id": "auroral.shimmerweave",
+      "en": "Shimmerweave",
+      "zh": "微光编织",
+      "namespaces": [
+        "auroral"
+      ],
+      "quest_chapters": [
+        "auroral"
+      ],
+      "category": "concept",
+      "avoid": [
+        "微光织物"
+      ],
+      "note": "Shimmerweave Fabric 物品为微光布; 装备名按各件官方名",
+      "source": "TERMINOLOGY.md#任务书与手册同步 (2026-10-18)",
+      "status": "approved"
+    },
+    {
+      "id": "auroral.shimmersteel",
+      "en": "Shimmersteel Ingot",
+      "zh": "微光钢锭",
+      "namespaces": [
+        "auroral"
+      ],
+      "category": "material",
+      "keys": [
+        "item.auroral.shimmersteel_ingot"
+      ],
+      "source": "TERMINOLOGY.md#1.4.0 Auroral 与 MORE Red 批次",
+      "status": "approved"
+    },
+    {
+      "id": "nautec.resonance",
+      "en": "Resonance",
+      "zh": "共鸣",
+      "namespaces": [
+        "nautec"
+      ],
+      "quest_chapters": [
+        "nautec"
+      ],
+      "category": "mechanic",
+      "keys": [
+        "augment_type.nautec.resonance"
+      ],
+      "avoid": [
+        "共振"
+      ],
+      "allow": [
+        "同频共振"
+      ],
+      "note": "Oritech 的共振器属不同模组, 不受此限; 进度标题 On the Same Frequency 的成语\"同频共振\"不是机制名, 允许",
+      "source": "TERMINOLOGY.md#1.4.0 剩余手册批次",
+      "status": "approved"
+    },
+    {
+      "id": "nautec.netheritophiles",
+      "en": "Netheritophiles",
+      "zh": "嗜下界合金菌",
+      "namespaces": [
+        "nautec"
+      ],
+      "category": "concept",
+      "keys": [
+        "bacteria.nautec.netheritophiles"
+      ],
+      "note": "按产物与既有细菌名称体系",
+      "source": "TERMINOLOGY.md#1.5.1 增量裁决 (2026-10-23)",
+      "status": "approved"
+    },
+    {
+      "id": "colossal_reactors.mod_name",
+      "en": "Colossal Reactors",
+      "zh": "巨型反应堆",
+      "namespaces": [
+        "colossal_reactors"
+      ],
+      "quest_chapters": [
+        "colossal_reactors"
+      ],
+      "category": "mod_name",
+      "avoid": [
+        "散热片"
+      ],
+      "note": "散热介质不写作散热片",
+      "source": "TERMINOLOGY.md#1.4.0 剩余手册批次",
+      "status": "approved"
+    },
+    {
+      "id": "anima.soulbone",
+      "en": "Soulbone",
+      "zh": "魂骨",
+      "namespaces": [
+        "anima"
+      ],
+      "quest_chapters": [
+        "anima"
+      ],
+      "category": "material",
+      "keys": [
+        "item.anima.soulbone"
+      ],
+      "avoid": [
+        "灵魂之骨"
+      ],
+      "note": "结晶魂骨/魂骨碎片/魂骨导体同构词",
+      "source": "TERMINOLOGY.md#1.4.0 Anima 普通语言批次",
+      "status": "approved"
+    },
+    {
+      "id": "anima.golem",
+      "en": "Golem",
+      "zh": "魔像",
+      "namespaces": [
+        "anima"
+      ],
+      "quest_chapters": [
+        "anima"
+      ],
+      "category": "entity",
+      "avoid": [
+        "傀儡"
+      ],
+      "allow": [
+        "铁傀儡",
+        "雪傀儡"
+      ],
+      "note": "工坊魔像, 魔像制造器, 魔像部件装配台",
+      "source": "TERMINOLOGY.md#1.4.0 Anima 普通语言批次",
+      "status": "approved"
+    },
+    {
+      "id": "anima.saronite",
+      "en": "Saronite",
+      "zh": "萨隆铁",
+      "namespaces": [
+        "anima"
+      ],
+      "quest_chapters": [
+        "anima"
+      ],
+      "category": "material",
+      "note": "粗萨隆铁, 萨隆铁锭",
+      "source": "TERMINOLOGY.md#1.4.0 Anima 普通语言批次",
+      "status": "approved"
+    },
+    {
+      "id": "anima.foci",
+      "en": "Foci",
+      "zh": "法器",
+      "namespaces": [
+        "anima"
+      ],
+      "quest_chapters": [
+        "anima"
+      ],
+      "category": "item",
+      "source": "TERMINOLOGY.md#1.4.0 Anima 普通语言批次",
+      "status": "approved"
+    },
+    {
+      "id": "anima.priest_rod",
+      "en": "Priest Rod",
+      "zh": "祭司杖",
+      "namespaces": [
+        "anima"
+      ],
+      "quest_chapters": [
+        "anima"
+      ],
+      "category": "item",
+      "keys": [
+        "item.anima.priest_rod"
+      ],
+      "avoid": [
+        "祭司权杖"
+      ],
+      "note": "游戏内物品名; 取代手册语言键批次的祭司权杖",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "cakesticklib.wrought_iron",
+      "en": "Wrought Iron Ingot",
+      "zh": "熟铁锭",
+      "namespaces": [
+        "cakesticklib"
+      ],
+      "category": "material",
+      "keys": [
+        "item.cakesticklib.wrought_iron_ingot"
+      ],
+      "avoid": [
+        "锻铁"
+      ],
+      "note": "模具统一为 X模具, 不写作铸模",
+      "source": "TERMINOLOGY.md#1.4.0 CakestickLib 与 Collapsible Groups 批次",
+      "status": "approved"
+    },
+    {
+      "id": "cakesticklib.mold",
+      "en": "Mold",
+      "zh": "模具",
+      "namespaces": [
+        "cakesticklib"
+      ],
+      "category": "item",
+      "avoid": [
+        "铸模"
+      ],
+      "source": "TERMINOLOGY.md#1.4.0 CakestickLib 与 Collapsible Groups 批次",
+      "status": "approved"
+    },
+    {
+      "id": "energizedpower.auto_crafter",
+      "en": "Auto Crafter",
+      "zh": "自动合成器",
+      "namespaces": [
+        "energizedpower"
+      ],
+      "quest_chapters": [
+        "energized_power"
+      ],
+      "category": "block",
+      "keys": [
+        "block.energizedpower.auto_crafter",
+        "item.energizedpower.auto_crafter"
+      ],
+      "avoid": [
+        "自动合成机"
+      ],
+      "note": "任务书已按 JAR 官方名同步",
+      "source": "TERMINOLOGY.md#1.4.0 Energized Power 官方中文缺口批次",
+      "status": "approved"
+    },
+    {
+      "id": "energizedpower.press_mold",
+      "en": "Press Mold",
+      "zh": "压模",
+      "namespaces": [
+        "energizedpower"
+      ],
+      "category": "item",
+      "note": "齿轮压模/棒材压模/线材压模; 不译作模具",
+      "source": "TERMINOLOGY.md#1.4.0 Energized Power 官方中文缺口批次",
+      "status": "approved"
+    },
+    {
+      "id": "logisticsnetworks.source",
+      "en": "Source",
+      "zh": "魔源",
+      "namespaces": [
+        "logisticsnetworks"
+      ],
+      "category": "concept",
+      "avoid": [
+        "魔源能量"
+      ],
+      "note": "频道类型",
+      "source": "TERMINOLOGY.md#1.4.0 Logistics Networks 缺口批次",
+      "status": "approved"
+    },
+    {
+      "id": "logisticsnetworks.import",
+      "en": "Import",
+      "zh": "输入",
+      "namespaces": [
+        "logisticsnetworks"
+      ],
+      "category": "ui",
+      "note": "Import/Export 作输入/输出, 不用导入/导出",
+      "source": "TERMINOLOGY.md#1.4.0 Logistics Networks 缺口批次",
+      "status": "approved"
+    },
+    {
+      "id": "refinedtypes.storage_part",
+      "en": "Storage Part",
+      "zh": "存储组件",
+      "namespaces": [
+        "refinedtypes"
+      ],
+      "category": "item",
+      "avoid": [
+        "存储元件"
+      ],
+      "note": "与同文件既有中文一致",
+      "source": "TERMINOLOGY.md#1.4.0 存储与物流",
+      "status": "approved"
+    },
+    {
+      "id": "refinedtypes.essentia",
+      "en": "Essentia",
+      "zh": "源质",
+      "namespaces": [
+        "refinedtypes"
+      ],
+      "category": "concept",
+      "note": "神秘时代既有译名",
+      "source": "TERMINOLOGY.md#1.4.0 存储与物流",
+      "status": "approved"
+    },
+    {
+      "id": "ae2netanalyser.tick_profiler",
+      "en": "ME Tick Profiler",
+      "zh": "ME刻耗时分析仪",
+      "namespaces": [
+        "ae2netanalyser"
+      ],
+      "category": "item",
+      "keys": [
+        "item.ae2netanalyser.tick_analyser"
+      ],
+      "avoid": [
+        "模型分析"
+      ],
+      "note": "μs/tick 设备耗时",
+      "source": "TERMINOLOGY.md#1.4.0 CFPA 审校复用裁决",
+      "status": "approved"
+    },
+    {
+      "id": "stepcrafter.step_crafter",
+      "en": "Step Crafter",
+      "zh": "分步合成器",
+      "namespaces": [
+        "stepcrafter"
+      ],
+      "category": "block",
+      "keys": [
+        "block.stepcrafter.step_crafter"
+      ],
+      "note": "自动合成器指 Auto Crafter, 二者不混用",
+      "source": "TERMINOLOGY.md#1.4.0 存储与物流",
+      "status": "approved"
+    },
+    {
+      "id": "replication.chip_storage",
+      "en": "Chip Storage",
+      "zh": "芯片仓",
+      "namespaces": [
+        "replication"
+      ],
+      "quest_chapters": [
+        "replication"
+      ],
+      "category": "block",
+      "keys": [
+        "block.replication.chip_storage"
+      ],
+      "source": "TERMINOLOGY.md#记录字段",
+      "status": "approved"
+    },
+    {
+      "id": "replication.memory_chip",
+      "en": "Memory Chip",
+      "zh": "内存芯片",
+      "namespaces": [
+        "replication"
+      ],
+      "quest_chapters": [
+        "replication"
+      ],
+      "category": "item",
+      "keys": [
+        "item.replication.memory_chip"
+      ],
+      "source": "TERMINOLOGY.md#记录字段",
+      "status": "approved"
+    },
+    {
+      "id": "replication.matteropedia",
+      "en": "MatterOpedia",
+      "zh": "物质百科",
+      "namespaces": [
+        "replication"
+      ],
+      "quest_chapters": [
+        "replication"
+      ],
+      "category": "ui",
+      "keys": [],
+      "avoid": [
+        "万物源典"
+      ],
+      "source": "TERMINOLOGY.md#记录字段",
+      "status": "approved"
+    },
+    {
+      "id": "witchery.coven_witch",
+      "en": "Coven Witch",
+      "zh": "聚会女巫",
+      "namespaces": [
+        "witchery"
+      ],
+      "quest_chapters": [
+        "witchery"
+      ],
+      "category": "entity",
+      "keys": [
+        "entity.witchery.coven_witch"
+      ],
+      "note": "组织概念 Coven 为巫师会",
+      "source": "TERMINOLOGY.md#记录字段",
+      "status": "approved"
+    },
+    {
+      "id": "witchery.golden_ritual_chalk",
+      "en": "Golden Ritual Chalk",
+      "zh": "金黄仪式粉笔",
+      "namespaces": [
+        "witchery"
+      ],
+      "quest_chapters": [
+        "witchery"
+      ],
+      "category": "block",
+      "keys": [
+        "advancements.witchery.golden_chalk.title",
+        "block.witchery.golden_ritual_chalk"
+      ],
+      "avoid": [
+        "金色仪式粉笔"
+      ],
+      "source": "TERMINOLOGY.md#记录字段",
+      "status": "approved"
+    },
+    {
+      "id": "occultism.afrit",
+      "en": "Afrit",
+      "zh": "火灵",
+      "namespaces": [
+        "occultism"
+      ],
+      "quest_chapters": [
+        "occultism",
+        "replication"
+      ],
+      "category": "entity",
+      "keys": [
+        "entity.occultism.afrit"
+      ],
+      "note": "官方中文; 四阶魔灵为魔精 (Foliot), 巨灵 (Djinni), 火灵 (Afrit), 魔王 (Marid)",
+      "source": "TERMINOLOGY.md#1.4.0 手册语言键收尾",
+      "status": "approved"
+    },
+    {
+      "id": "occultism.foliot",
+      "en": "Foliot",
+      "zh": "魔精",
+      "namespaces": [
+        "occultism"
+      ],
+      "quest_chapters": [
+        "occultism"
+      ],
+      "category": "entity",
+      "keys": [
+        "entity.occultism.foliot"
+      ],
+      "note": "官方中文; 取代魔灵词典中误用的精灵",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "occultism.djinni",
+      "en": "Djinni",
+      "zh": "巨灵",
+      "namespaces": [
+        "occultism"
+      ],
+      "quest_chapters": [
+        "occultism"
+      ],
+      "category": "entity",
+      "keys": [
+        "entity.occultism.djinni"
+      ],
+      "note": "官方中文; 旧裁决曾把巨灵误配给 Marid",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "occultism.marid",
+      "en": "Marid",
+      "zh": "魔王",
+      "namespaces": [
+        "occultism"
+      ],
+      "quest_chapters": [
+        "occultism"
+      ],
+      "category": "entity",
+      "keys": [
+        "entity.occultism.marid"
+      ],
+      "note": "官方中文; 任务书已用魔王, 魔灵词典中的巨灵 (指 Marid 处) 已同步",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "occultism.spirit",
+      "en": "Spirit",
+      "zh": "魔灵",
+      "namespaces": [
+        "occultism"
+      ],
+      "category": "concept",
+      "note": "Familiar 使魔, Otherworld 异界",
+      "source": "TERMINOLOGY.md#1.4.0 Occultism 与 Better Fish Tanks 批次",
+      "status": "approved"
+    },
+    {
+      "id": "occultism.spirit_attuned",
+      "en": "Spirit Attuned",
+      "zh": "魔灵同调",
+      "namespaces": [
+        "occultism"
+      ],
+      "category": "material",
+      "note": "与匠神工具的灵魂调谐分属不同模组",
+      "source": "TERMINOLOGY.md#1.4.0 Occultism 与 Better Fish Tanks 批次",
+      "status": "approved"
+    },
+    {
+      "id": "hephaestus_tools.spirit_attuned",
+      "en": "Spirit Attuned",
+      "zh": "灵魂调谐",
+      "namespaces": [
+        "hephaestus_tools"
+      ],
+      "quest_chapters": [
+        "hephaestus"
+      ],
+      "category": "material",
+      "keys": [
+        "material.hephaestus_tools.spirit_attuned"
+      ],
+      "note": "名称去掉 Gem",
+      "source": "TERMINOLOGY.md#1.5.1 增量裁决 (2026-10-23)",
+      "status": "approved"
+    },
+    {
+      "id": "resonance.crystal_shard",
+      "en": "Crystal Shard",
+      "zh": "水晶裂片",
+      "namespaces": [
+        "resonance"
+      ],
+      "category": "item",
+      "keys": [
+        "entity.resonance.crystal_shard",
+        "item.resonance.crystal_shard_projectile"
+      ],
+      "note": "投掷物; 与 Crystal Fragment 水晶碎片不是同一物品",
+      "source": "TERMINOLOGY.md#1.4.0 战斗与冒险",
+      "status": "approved"
+    },
+    {
+      "id": "resonance.crystal_fragment",
+      "en": "Crystal Fragment",
+      "zh": "水晶碎片",
+      "namespaces": [
+        "resonance"
+      ],
+      "category": "item",
+      "keys": [
+        "item.resonance.crystal_fragment"
+      ],
+      "note": "召唤用",
+      "source": "TERMINOLOGY.md#1.4.0 战斗与冒险",
+      "status": "approved"
+    },
+    {
+      "id": "nodeworks.multi_processing_handler",
+      "en": "Multi-Processing Handler",
+      "zh": "多配方加工处理器",
+      "namespaces": [
+        "nodeworks"
+      ],
+      "category": "block",
+      "keys": [
+        "block.nodeworks.multi_processing_handler"
+      ],
+      "note": "与加工处理器区分",
+      "source": "TERMINOLOGY.md#1.5.1 增量裁决 (2026-10-23)",
+      "status": "approved"
+    },
+    {
+      "id": "nodeworks.transfer_card",
+      "en": "Transfer Card",
+      "zh": "传输卡",
+      "namespaces": [
+        "nodeworks"
+      ],
+      "category": "item",
+      "keys": [
+        "item.nodeworks.transfer_card"
+      ],
+      "source": "TERMINOLOGY.md#1.5.1 增量裁决 (2026-10-23)",
+      "status": "approved"
+    },
+    {
+      "id": "nodeworks.crafting_coolant",
+      "en": "Crafting Coolant",
+      "zh": "合成冷却块",
+      "namespaces": [
+        "nodeworks"
+      ],
+      "category": "block",
+      "keys": [
+        "block.nodeworks.stabilizer"
+      ],
+      "note": "FTB 精金/永恒金属/奥利哈刚冷却块同构词",
+      "source": "TERMINOLOGY.md#1.4.1 Nodeworks 冷却任务",
+      "status": "approved"
+    },
+    {
+      "id": "nodeworks.crafting_buffer",
+      "en": "Crafting Buffer",
+      "zh": "合成缓存",
+      "namespaces": [
+        "nodeworks"
+      ],
+      "category": "block",
+      "keys": [
+        "block.nodeworks.crafting_storage"
+      ],
+      "note": "任务英文 Crafting Storage 实指此方块",
+      "source": "TERMINOLOGY.md#1.4.1 Nodeworks 冷却任务",
+      "status": "approved"
+    },
+    {
+      "id": "ftb.charged_buoyancy_tank",
+      "en": "Charged Buoyancy Tank",
+      "zh": "充能浮力罐",
+      "namespaces": [
+        "ftb"
+      ],
+      "category": "item",
+      "keys": [
+        "item.ftb.charged_buoyancy_tank"
+      ],
+      "note": "区分普通浮力罐",
+      "source": "TERMINOLOGY.md#1.5.1 增量裁决 (2026-10-23)",
+      "status": "approved"
+    },
+    {
+      "id": "justdirethings.ticker",
+      "en": "Ticker",
+      "zh": "刻速器",
+      "namespaces": [
+        "justdirethings"
+      ],
+      "category": "concept",
+      "note": "Tick rate 刻速",
+      "source": "TERMINOLOGY.md#1.4.0 科技三批",
+      "status": "approved"
+    },
+    {
+      "id": "sfm.label",
+      "en": "Label",
+      "zh": "标签",
+      "namespaces": [
+        "sfm"
+      ],
+      "category": "concept",
+      "note": "物品/方块 Tag 用物品标签, 二者区分",
+      "source": "TERMINOLOGY.md#1.4.0 科技三批",
+      "status": "approved"
+    },
+    {
+      "id": "ftbic.wire",
+      "en": "Wire",
+      "zh": "导线",
+      "namespaces": [
+        "ftbic"
+      ],
+      "category": "concept",
+      "note": "Cable 为线缆, 不混用",
+      "source": "TERMINOLOGY.md#1.4.0 科技三批",
+      "status": "approved"
+    },
+    {
+      "id": "neosync.shell",
+      "en": "Shell",
+      "zh": "躯壳",
+      "namespaces": [
+        "neosync"
+      ],
+      "category": "concept",
+      "note": "不用外壳, 以区别于方块外壳",
+      "source": "TERMINOLOGY.md#1.4.0 科技类收尾",
+      "status": "approved"
+    },
+    {
+      "id": "mffs.fortron",
+      "en": "Fortron",
+      "zh": "福特朗",
+      "namespaces": [
+        "mffs"
+      ],
+      "quest_chapters": [
+        "*"
+      ],
+      "category": "fluid",
+      "keys": [
+        "fluid_type.mffs.fortron"
+      ],
+      "avoid": [
+        "福特龙",
+        "Fortron"
+      ],
+      "source": "TERMINOLOGY.md#2026-10-23 规范术语库",
+      "status": "approved",
+      "note": "2026-10-23 用户裁决: 所有中文中的 Fortron 统一为福特朗, 取代福特龙及保留英文; 与流体名及 CFPA 审校 (PR #5193) 一致. 校验只扫描中文产物, 资源 ID 的小写 fortron 不受影响"
+    },
+    {
+      "id": "mffs.fortron_capacitor",
+      "en": "Fortron Capacitor",
+      "zh": "福特朗能量储存器",
+      "namespaces": [
+        "mffs"
+      ],
+      "quest_chapters": [
+        "mffs"
+      ],
+      "category": "block",
+      "keys": [
+        "block.mffs.fortron_capacitor"
+      ],
+      "avoid": [
+        "电容",
+        "Fortron 能量储存器"
+      ],
+      "note": "2026-10-23 用户裁决, 在 JAR 官方方块名基础上统一 Fortron 为福特朗; 上下文简称储存器, 与任务书一致. 取代手册的福特龙电容/福特朗电容",
+      "source": "TERMINOLOGY.md#2026-10-23 规范术语库; ordinary/batch-347",
+      "status": "approved"
+    },
+    {
+      "id": "mffs.coercion_deriver",
+      "en": "Coercion Deriver",
+      "zh": "福特朗衍生器",
+      "namespaces": [
+        "mffs"
+      ],
+      "quest_chapters": [
+        "mffs"
+      ],
+      "category": "block",
+      "keys": [
+        "block.mffs.coercion_deriver"
+      ],
+      "avoid": [
+        "推导机"
+      ],
+      "note": "简称衍生器; 模式 Derive/Integrate 按界面作派生/集成",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐; ordinary/batch-347",
+      "status": "approved"
+    },
+    {
+      "id": "mffs.projector",
+      "en": "Force Field Projector",
+      "zh": "力场投影仪",
+      "namespaces": [
+        "mffs"
+      ],
+      "quest_chapters": [
+        "mffs"
+      ],
+      "category": "block",
+      "keys": [
+        "block.mffs.projector"
+      ],
+      "avoid": [
+        "力场投射器",
+        "投射器"
+      ],
+      "note": "游戏内物品名; 取代 1.4.0 Patchouli 批次旧称",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "mffs.interdiction_matrix",
+      "en": "Interdiction Matrix",
+      "zh": "干涉矩阵",
+      "namespaces": [
+        "mffs"
+      ],
+      "quest_chapters": [
+        "mffs"
+      ],
+      "category": "block",
+      "keys": [
+        "block.mffs.interdiction_matrix"
+      ],
+      "avoid": [
+        "拦截矩阵"
+      ],
+      "note": "游戏内物品名; 取代 1.4.0 Patchouli 批次旧称",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "mffs.scale_module",
+      "en": "Scale Module",
+      "zh": "扩展模块",
+      "namespaces": [
+        "mffs"
+      ],
+      "quest_chapters": [
+        "mffs"
+      ],
+      "category": "item",
+      "keys": [
+        "item.mffs.scale_module"
+      ],
+      "avoid": [
+        "规模模块"
+      ],
+      "note": "游戏内物品名; 取代 1.4.0 Patchouli 批次旧称",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "mffs.biometric_identifier",
+      "en": "Biometric Identifier",
+      "zh": "生物识别器",
+      "namespaces": [
+        "mffs"
+      ],
+      "quest_chapters": [
+        "mffs"
+      ],
+      "category": "block",
+      "keys": [
+        "block.mffs.biometric_identifier"
+      ],
+      "avoid": [
+        "识别仪"
+      ],
+      "note": "游戏内物品名; 取代 1.4.0 Patchouli 批次旧称",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "mffs.identification_card",
+      "en": "Identification Card",
+      "zh": "识别卡",
+      "namespaces": [
+        "mffs"
+      ],
+      "quest_chapters": [
+        "mffs"
+      ],
+      "category": "item",
+      "keys": [
+        "item.mffs.id_card"
+      ],
+      "avoid": [
+        "身份卡"
+      ],
+      "note": "游戏内物品名; 取代 1.4.0 Patchouli 批次旧称",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "mffs.remote_controller",
+      "en": "Remote Controller",
+      "zh": "远程控制器",
+      "namespaces": [
+        "mffs"
+      ],
+      "quest_chapters": [
+        "mffs"
+      ],
+      "category": "item",
+      "keys": [
+        "item.mffs.remote_controller"
+      ],
+      "avoid": [
+        "遥控器"
+      ],
+      "note": "游戏内物品名; 取代 1.4.0 Patchouli 批次旧称",
+      "source": "TERMINOLOGY.md#2026-10-23 物品名优先与说明文本对齐",
+      "status": "approved"
+    },
+    {
+      "id": "graveless.spirit_ward",
+      "en": "Spirit Ward",
+      "zh": "灵魂庇护",
+      "namespaces": [
+        "graveless"
+      ],
+      "category": "effect",
+      "keys": [
+        "effect.graveless.spirit_ward"
+      ],
+      "source": "TERMINOLOGY.md#1.4.0 战斗与冒险",
+      "status": "approved"
+    },
+    {
+      "id": "mysticalagriculture.sickle",
+      "en": "Sickle",
+      "zh": "镰刀",
+      "namespaces": [
+        "mysticalagriculture"
+      ],
+      "category": "item",
+      "note": "Scythe 为巨镰, 必须分开",
+      "source": "TERMINOLOGY.md#1.4.0 农业与食物",
+      "status": "approved"
+    },
+    {
+      "id": "mysticalagriculture.scythe",
+      "en": "Scythe",
+      "zh": "巨镰",
+      "namespaces": [
+        "mysticalagriculture"
+      ],
+      "category": "item",
+      "source": "TERMINOLOGY.md#1.4.0 农业与食物",
+      "status": "approved"
+    },
+    {
+      "id": "waystones.waystone",
+      "en": "Waystone",
+      "zh": "传送石碑",
+      "namespaces": [
+        "waystones"
+      ],
+      "category": "block",
+      "note": "Waystones 官方中文; 容器标题 container.waystones.waystone 官方为传送石, 未改上游",
+      "source": "TERMINOLOGY.md#1.4.0 工具与生活品质",
+      "status": "approved"
+    },
+    {
+      "id": "lootr.decay",
+      "en": "Decay",
+      "zh": "衰败",
+      "namespaces": [
+        "lootr"
+      ],
+      "category": "mechanic",
+      "note": "Refresh 刷新, 两种容器状态不互换",
+      "source": "TERMINOLOGY.md#1.4.0 工具与生活品质",
+      "status": "approved"
+    },
+    {
+      "id": "apotheosis.world_tier.haven",
+      "en": "Haven",
+      "zh": "居所",
+      "namespaces": [
+        "apotheosis*"
+      ],
+      "category": "tier",
+      "keys": [],
+      "note": "官方中文",
+      "source": "TERMINOLOGY.md#1.4.0 Patchouli 书籍",
+      "status": "approved"
+    },
+    {
+      "id": "apotheosis.world_tier.frontier",
+      "en": "Frontier",
+      "zh": "边境",
+      "namespaces": [
+        "apotheosis*"
+      ],
+      "category": "tier",
+      "keys": [],
+      "note": "官方中文",
+      "source": "TERMINOLOGY.md#1.4.0 Patchouli 书籍",
+      "status": "approved"
+    },
+    {
+      "id": "apotheosis.world_tier.ascent",
+      "en": "Ascent",
+      "zh": "攀升",
+      "namespaces": [
+        "apotheosis*"
+      ],
+      "category": "tier",
+      "keys": [],
+      "note": "官方中文",
+      "source": "TERMINOLOGY.md#1.5.1 增量裁决 (2026-10-23)",
+      "status": "approved"
+    },
+    {
+      "id": "apotheosis.world_tier.summit",
+      "en": "Summit",
+      "zh": "高峰",
+      "namespaces": [
+        "apotheosis*"
+      ],
+      "category": "tier",
+      "keys": [],
+      "note": "官方中文",
+      "source": "TERMINOLOGY.md#1.5.1 增量裁决 (2026-10-23)",
+      "status": "approved"
+    },
+    {
+      "id": "apotheosis.world_tier.pinnacle",
+      "en": "Pinnacle",
+      "zh": "顶点",
+      "namespaces": [
+        "apotheosis*"
+      ],
+      "quest_chapters": [
+        "gearing_up",
+        "progression_tiers"
+      ],
+      "category": "tier",
+      "keys": [],
+      "avoid": [
+        "巅峰"
+      ],
+      "note": "游戏内官方名; 2026-10-23 用户裁决取代 1.5.1 记录的巅峰, 任务书已同步",
+      "source": "TERMINOLOGY.md#2026-10-23 规范术语库; Apotheosis JAR text.apotheosis.world_tier.pinnacle",
+      "status": "approved"
+    }
+  ],
+  "known_issues": []
+}

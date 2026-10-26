@@ -5,6 +5,7 @@ navigation:
   title: 便携式物品终端
 categories:
   - tool
+  - requires_controller
 description: a portable viewport into any linked network's storage
 item_ids:
 - nodeworks:portable_inventory_terminal

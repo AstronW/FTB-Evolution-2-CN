@@ -1,7 +1,7 @@
-/name	圆柱模式
-/pages/0/text	默认情况下, $(2)圆柱模式$()让投射器产生厚度恰为 1 格的圆柱体力场.每个$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()使力场在目标方向上扩大 1 格.
-/pages/1/text	合成$(2)圆柱模式$().
+/name	圆柱体模式
+/pages/0/text	默认情况下, $(2)圆柱体模式$()让投影仪产生厚度恰为 1 格的圆柱体力场.每个$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()使力场在目标方向上扩大 1 格.
+/pages/1/text	合成$(2)圆柱体模式$().
 /pages/2/title	力场调整
-/pages/2/text	把$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()放入标有方向箭头的物品槽, 力场只会沿该方向扩大 1 格.例如要给力场增高 1 格, 就把$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()放入箭头指向界面左上或右上角的物品槽.
+/pages/2/text	把$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()放入标有方向箭头的物品槽, 力场只会沿该方向扩大 1 格.例如要给力场增高 1 格, 就把$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()放入箭头指向界面左上或右上角的物品槽.
 /pages/3/title	投射展示
-/pages/3/text	缩放后的$(2)圆柱模式$()力场投射效果.
+/pages/3/text	缩放后的$(2)圆柱体模式$()力场投射效果.

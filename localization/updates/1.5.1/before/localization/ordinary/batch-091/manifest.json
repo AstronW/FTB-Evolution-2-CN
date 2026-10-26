@@ -1,0 +1,12 @@
+{
+  "batch": "091",
+  "namespace": "universalgrid",
+  "jar": ".minecraft/mods/universalgrid-neoforge-26.1.2-1.0.2.jar",
+  "language_path": "assets/universalgrid/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/universalgrid/lang/zh_cn.json",
+  "include_keys": [
+    "key.universalgrid.switch_wireless_universal_grid_type"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

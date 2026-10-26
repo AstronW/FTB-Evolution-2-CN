@@ -1,0 +1,18 @@
+{
+  "batch": "198",
+  "namespace": "magnumtorch",
+  "jar": ".minecraft/mods/MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar",
+  "language_path": "assets/magnumtorch/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/magnumtorch/lang/zh_cn.json",
+  "include_keys": [
+    "block.magnumtorch.magnum_torch.tooltip.additional",
+    "block.magnumtorch.magnum_torch.tooltip.horizontal_range",
+    "block.magnumtorch.magnum_torch.tooltip.mob_types",
+    "block.magnumtorch.magnum_torch.tooltip.shift",
+    "block.magnumtorch.magnum_torch.tooltip.vertical_range"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "⇧ Shift"
+  ]
+}

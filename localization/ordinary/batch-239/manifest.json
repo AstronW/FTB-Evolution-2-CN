@@ -112,5 +112,16 @@
     "+ %s",
     "False",
     "True"
-  ]
+  ],
+  "jar_sha256": "efb94750cbfd9cd475d5a67a159b4d1906b0a4f5f906eae7dbe1f1177db50fac",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedCoreInfo-neoforge-26.1.2-1.5.0.jar",
+    "jar_sha256": "efb94750cbfd9cd475d5a67a159b4d1906b0a4f5f906eae7dbe1f1177db50fac",
+    "nested_jars": [],
+    "resource": "assets/aci/lang/en_us.json",
+    "mod_ids": [
+      "aci"
+    ],
+    "resource_sha256": "672ea3f86f57ca5abb5f94cb1d35e3c6a9ace4c1707236b5c926215bd710b4f3"
+  }
 }

@@ -1,0 +1,202 @@
+[
+  {
+    "key": "book.neovitae.guide.alchemy_arrays.upgrade_elytra.recipe.text",
+    "old": "The [#](8B0000)Elytra Tome[#]() is forged in an [#](8B0000)Alchemy Array[#](). Apply it to your [#](8B0000)Sentient Chestplate[#]() to unfurl the wings.\\\n\\\n[#](4A0080)Blood gave you life. Now it gives you the sky.[#]()",
+    "new": "The [#](8B0000)Elytra Tome[#]() is forged in an [#](8B0000)Alchemy Array[#]() from a [#](8B0000)Binding Reagent[#]() and an [#](8B0000)Elytra[#](). Apply it to your [#](8B0000)Sentient Chestplate[#]() to unfurl the wings.\\\n\\\n[#](4A0080)Blood gave you life. Now it gives you the sky.[#]()",
+    "native_zh": "[#](8B0000)鞘翅手册[#]()由[#](8B0000)束缚试剂[#]()和[#](8B0000)鞘翅[#]()锻造于[#](8B0000)炼金阵列[#]()。将其施加于你的[#](8B0000)感知胸甲[#]()即可张开双翅。\\\n\\\n[#](4A0080)血液给予了你生命，现在也将领你上天。[#]()",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.rituals.ritual_crystallum_fractura.aspect_bias.text",
+    "old": "Attune the Master Ritual Stone to a single Spiritus aspect with the [#](8B0000)Ritual Configurator[#]() in [#](2E8B57)Set Spiritus Consumed[#]() mode while holding exactly one matching crystal in your hotbar. The +25%% portion of any [#](8B0000)Raw Spiritus[#]() injection within the aura is then redirected to that aspect's pool, letting you farm a chosen aspect while the ritual is running.",
+    "new": "Right-click the Master Ritual Stone with the [#](8B0000)Ritual Configurator[#]() and pick an aspect in its [#](2E8B57)Aspect[#]() row. The +25%% portion of any [#](8B0000)Raw Spiritus[#]() injection within the aura is then redirected to that aspect's pool, letting you farm a chosen aspect while the ritual is running.",
+    "native_zh": "用[#](8B0000)仪式配置杖[#]()右击主仪式石，可在其[#](2E8B57)要素[#]()行中选定要素。灵域中[#](8B0000)原生灵质[#]()注入增强的+25%%会被转化为所指定的要素，以便在仪式运行时培育对应要素的结晶。",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.rituals.ritual_crystallum_fractura.fortune.text",
+    "old": "Harvested clusters drop with [#](8B0000)scaling Fortune[#]() based on the chunk's density of the crystal's own aspect: a Ruina crystal reads the chunk's Ruina, a Raw crystal its Raw. Geode clusters read the aspect the stone is biased toward, or Raw if it has none.\n\n- below [#](B8860B)30[#](): no Fortune\n- [#](B8860B)30-100[#](): linearly scales from Fortune I to Fortune III\n- at or above [#](B8860B)100[#](): Fortune III\n\nWhen Fortune is active, the ritual probabilistically consumes that aspect at an average rate of one per twelve seconds; keep the chunk fed.",
+    "new": "Harvested clusters drop with [#](8B0000)scaling Fortune[#]() based on the chunk's density of the crystal's own aspect: a Ruina crystal reads the chunk's Ruina, a Raw crystal its Raw. Geode clusters read the aspect the stone is biased toward, or Raw if it has none.\n\n- [#](B8860B)30[#]() or below: no Fortune\n- above [#](B8860B)30[#](): Fortune I\n- above about [#](B8860B)53[#](): Fortune II\n- above about [#](B8860B)77[#](): Fortune III\n\nEach harvest made with Fortune has about a 42%% chance to consume one point of that aspect; keep the chunk fed.",
+    "native_zh": "收获晶簇时，会根据区块本地相应灵质含量进行[#](8B0000)成比例的时运[#]()：残毁晶簇以残毁灵质为根据，原生晶簇则以原生灵质。晶洞晶簇使用主仪式石所偏向的要素，无偏向则使用原生。\n\n- 小于等于[#](B8860B)30份灵质[#]()：\n无时运\n- [#](B8860B)30份[#]()以上：时运 I\n- 约[#](B8860B)53份[#]()以上：时运 II\n- 约[#](B8860B)77份[#]()以上：\n时运 III\n\n进行时运时，仪式有42%%的概率消耗相应的灵质；别让区块饿着。",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.rituals.ritual_tinkerer.define_area.text",
+    "old": "- [#](8B0000)Define Area[#](): Specifies the zone in which the ritual operates, and displays the current boundaries. Press Sneak and Use in the air to cycle through a ritual's zones, then click two opposite corners to reshape the selected one.\\\n\\\nRituals that draw from or deposit into a container expose their [#](8B0000)chest[#](), [#](8B0000)tank[#](), or input/output zone here too, so you can place that container wherever you like instead of directly atop the [#](8B0000)Master Ritual Stone[#]().\\\n\\\n[#](2E8B57)Some rituals can be expanded far beyond their default range, but the EV cost scales to match. Tread carefully with your reserves.[#]()",
+    "new": "Rituals that draw from or deposit into a container list their [#](8B0000)chest[#](), [#](8B0000)tank[#](), or input/output zone in the panel too, so you can place that container wherever you like instead of directly atop the [#](8B0000)Master Ritual Stone[#]().\\\n\\\nThe Configurator also links a ritual to a [#](8B0000)Ritual Anchor[#](): right-click the anchor, then the Master Ritual Stone.\\\n\\\n[#](2E8B57)Some rituals can be expanded far beyond their default range, but the EV cost scales to match. Tread carefully with your reserves.[#]()",
+    "native_zh": "会对容器存取的仪式也会在界面列出其[#](8B0000)箱子[#]()、[#](8B0000)储罐[#]()或输入/输出区域。以便调整容器的位置，而不需要全部默认放置在[#](8B0000)主仪式石[#]()上方。\\\n\\\n配置杖也能把仪式链接至[#](8B0000)仪式锚[#]()，右击锚再右击主仪式石即可。\\\n\\\n[#](2E8B57)部分仪式可扩展至远超默认范围，但也会相应增加EV消耗。要规划好你的储库。[#]()",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.rituals.ritual_tinkerer.intro.text",
+    "old": "The [#](8B0000)Ritual Configurator[#]() is an essential instrument for the practitioner who demands mastery over their [#](4A0080)ritual circles[#](). It offers three modes of interaction, each granting deeper control. Cycle between them by pressing Sneak and Use.",
+    "new": "The [#](8B0000)Ritual Configurator[#]() is an essential instrument for the practitioner who demands mastery over their [#](4A0080)ritual circles[#](). Right-click a [#](8B0000)Master Ritual Stone[#]() with it to open its panel, which names the ritual and lists every zone it uses with that zone's current size. Hover a zone to see how far it can reach.",
+    "native_zh": "[#](8B0000)仪式配置杖[#]()是习艺者掌控[#](4A0080)仪式石阵[#]()所必不可少的工具。右击[#](8B0000)主仪式石[#]()可打开其界面，其中会给出仪式的名称，并列出它处理的各个区域及区域当前的尺寸。将鼠标悬停在区域上可查看它能达到的最远距离。",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.rituals.ritual_tinkerer.modes.text",
+    "old": "- [#](8B0000)Information[#](): Reveals the purpose of the selected [#](4A0080)ritual[#](), much like the [#](8B0000)Ritual Diviner[#]().\n\n- [#](8B0000)Set Spiritus Consumed[#](): Attunes the ritual to consume specific types of [#](8B0000)Spiritus[#]() from the [#](4A0080)Aura[#](). Carry the desired [#](8B0000)Spiritus Crystals[#]() in your hotbar, one for each aspect you wish the ritual to draw upon. The effects of each spiritus type are detailed on individual ritual pages.",
+    "new": "- [#](8B0000)Edit area in world[#](): Select a zone in the panel and press this, then click two opposite corners to reshape it. A zone that is a single block, such as a chest, takes one click. Press Sneak and Use in the air to cancel.\n\n- [#](8B0000)Ritual settings[#](): A few rituals add their own controls: an [#](8B0000)Aspect[#]() row for Crystallum Fractura, a [#](8B0000)Fill shape[#]() for the Ritual of the Mason, a [#](8B0000)Mining[#]() choice for the Deus Endless Quarry, and a [#](8B0000)Keep per species[#]() count for the Ritual of Butchering. Each is described on its ritual's page.",
+    "native_zh": "- [#](8B0000)在世界中编辑区域[#]()：\n在界面中选择区域再点击该按钮，随后点击两个相对的角点即可重新设置区域。箱子等仅包含单个方块的区域只需点击一次。潜行时对空气按下使用键可取消编辑。\n\n- [#](8B0000)仪式设置[#]()：部分仪式有独有的控制项，如结晶碎裂的[#](8B0000)要素[#]()行、石匠仪式的[#](8B0000)填充形状[#]()、神圣无尽矿场的[#](8B0000)挖掘[#]()选项、屠宰仪式的[#](8B0000)各物种保留[#]()数等。所有这些都会在仪式的界面中给出。",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.spiritus.athanor.automation.text",
+    "old": "[#](2E8B57)The Athanor is sided, much like a common furnace. Tools may only enter or exit from the top. Inputs are accepted from the sides. Outputs emerge from the bottom.[#]()\\\n\\\nKeep this geometry in mind when placing your Hoppers or Routing Nodes. An automated Athanor is the heart of any serious ore-processing chain.",
+    "new": "[#](2E8B57)The Athanor is sided, much like a common furnace. Tools enter and leave from the top, inputs from the sides, and outputs emerge from the bottom.[#]()\\\n\\\nAny of this can be changed. Click an empty slot, then toggle the side buttons that appear: green sides reach that slot, red sides do not. With an output slot chosen, right-click a side to push finished items out of it.",
+    "native_zh": "[#](2E8B57)和常规的熔炉类似，炼金炉也对面敏感。工具只可从顶面进出，输入需从侧面提供，输出则从底面排出。[#]()\\\n\\\n放置漏斗和路由节点时务必牢记这一性质。自动化的炼金炉是所有正式矿物处理产线的核心。",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.spiritus.lex_vitae.intro.text",
+    "old": "The [#](8B0000)Lex Vitae[#]() is a sentient multitool that chops, mines, digs, and tills, drawing on the [#](8B0000)Spiritus[#]() you carry to do its work. Like other Sentient equipment it grows stronger as you feed it Spiritus, and may be repaired with a Binding Reagent in an Anvil.\\\n\\\n[#](2E8B57)Sneak + right-click to toggle the Lex Vitae between dormant and active. It only works while active.[#]()",
+    "new": "The [#](8B0000)Lex Vitae[#]() is a sentient multitool that chops, mines, digs, and tills, drawing on the [#](8B0000)Spiritus[#]() you carry to do its work. Like other Sentient equipment it grows stronger as you feed it Spiritus, and may be repaired with a Binding Reagent in an Anvil. While active it takes the shape the work calls for: a pickaxe for stone, an axe for wood, a shovel for earth, a hoe for crops and a blade for anything living, glowing in the hue of your Spiritus.\\\n\\\n[#](2E8B57)Sneak + right-click to toggle the Lex Vitae between dormant and active. It only works while active.[#]()",
+    "native_zh": "[#](8B0000)生命律法[#]()是能砍伐、开采、挖掘、开垦的多功能感知工具，会在工作时抽取你携带的[#](8B0000)灵质[#]()。和其他感知工具类似，它也会随着你供应灵质而增强，且也可在铁砧处用束缚试剂修复。\\\n\\\n[#](2E8B57)潜行右击可令生命律法激活或休眠。只有在激活状态下它才会运作。[#]()",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.spiritus.node_router.intro.text",
+    "old": "The [#](8B0000)Node Router[#]() is the weaver's needle that stitches your [#](8B0000)Routing Nodes[#]() into a coherent network. Its use is straightforward; hold sneak and right-click on one node, then do the same to another within 16 blocks. The two are now linked.\\\n\\\n[#](2E8B57)Right-click any other block to deselect. See the Routing Nodes entry for the full picture.[#]()",
+    "new": "The [#](8B0000)Node Router[#]() is the weaver's needle that stitches your [#](8B0000)Routing Nodes[#]() into a coherent network. Right-click one node, then another within 16 blocks, and the two are linked. The router remembers the last node, so you can keep clicking to chain a whole line together.\\\n\\\n[#](2E8B57)Right-click any other block to deselect. See the Routing Nodes entry for the full picture.[#]()",
+    "native_zh": "[#](8B0000)节点路由杖[#]()是能将[#](8B0000)路由节点[#]()组合成网络的绣花针。用它右击一个节点，再右击16格内的另一个节点，便可在两者间建立链接。路由杖会记住上一个节点，不断点击就可依次链接所有节点。\\\n\\\n[#](2E8B57)右击其他方块可取消选择。详细信息参见路由节点条目。[#]()",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.spiritus.spirit_accumulator.cost.text",
+    "old": "Beyond the reagents, the chunk in which the Athanor labors must hold [#](8B0000)45 Raw[#]() Spiritus. A single Raw [#](8B0000)shard[#]() burned in a [#](8B0000)Spiritus Crucible[#]() settles that on its own, for a shard gives 50 whenever its Aspect stands below 50.\\\n\\\n[#](2E8B57)An Animus Mote is required too, and those are found only in the deep vaults of the Demon Realm.[#]()",
+    "new": "Beyond the reagents, the chunk in which the Athanor labors must hold [#](8B0000)45 Raw[#]() Spiritus. A single [#](8B0000)Spiritus Crystal[#]() burned in a [#](8B0000)Spiritus Crucible[#]() settles that on its own, for a crystal gives 50 whenever its Aspect stands below 50.\\\n\\\n[#](2E8B57)An Animus Mote is required too, and those are found only in the deep vaults of the Demon Realm.[#]()",
+    "native_zh": "除去试剂外，炼金炉所在的区块必须包含至少[#](8B0000)45份原生[#]()灵质。在[#](8B0000)灵质坩埚[#]()中燃烧一片[#](8B0000)灵质结晶[#]()就可以了，它会在对应要素的灵域降至50单位以下时补充50份灵质。\\\n\\\n[#](2E8B57)也需要一份魂结斑粒，这种物件只能在恶魔领域的深处才能找到。[#]()",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.spiritus.spirit_accumulator.intro.text",
+    "old": "The [#](4A0080)Aura[#]() will hold no more than [#](8B0000)100[#]() of any one Aspect, and it cannot leave the chunk that holds it. Every crystal you burn past that ceiling is simply lost.\\\n\\\nThe [#](8B0000)Spirit Accumulator[#]() is the answer: a suspended crystal that gathers [#](8B0000)1,000[#]() Spiritus of a single Aspect and surrenders it to your [#](4A0080)Routing Network[#]() wherever it is wanted.",
+    "new": "The [#](4A0080)Aura[#]() will hold no more than [#](8B0000)100[#]() of any one Aspect, and it cannot leave the chunk that holds it. A [#](8B0000)Spiritus Crucible[#]() stops burning crystals once their Aspect reaches 50, so a busy farm soon backs up with crystals it cannot use.\\\n\\\nThe [#](8B0000)Spirit Accumulator[#]() is the answer: a suspended crystal that gathers [#](8B0000)1,000[#]() Spiritus of a single Aspect and surrenders it to your [#](4A0080)Routing Network[#]() wherever it is wanted.",
+    "native_zh": "[#](4A0080)灵域[#]()最多只能为所有要素各留存[#](8B0000)100[#]()份灵质。[#](8B0000)灵质坩埚[#]()会在要素份数达到50时停止燃烧，因此产量稍大的农场即会在其中不断积攒消耗不掉的结晶。\\\n\\\n[#](8B0000)灵质积聚器[#]()即能解决这个问题：它是一枚悬浮在空中的晶体，能存储[#](8B0000)1,000[#]()份单种要素的灵质，且能在[#](4A0080)路由网络[#]()有需求时进行释放。",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.spiritus.spirit_accumulator.skimming.text",
+    "old": "Once locked, the Accumulator drinks from the chunk it stands in: up to [#](8B0000)25[#]() Spiritus each tick, but only from the surplus above [#](8B0000)30[#](). It will never draw the chunk below that mark.\\\n\\\nThat floor sits low enough that a single crystal burned in a [#](8B0000)Spiritus Crucible[#]() will feed it, for a crystal lifts its Aspect to [#](8B0000)50[#](). Set one in a saturated crystal farm instead and it becomes an overflow vessel, catching everything burned past the ceiling.\\\n\\\n[#](2E8B57)The crystal's inner light shows its Aspect and how full it stands; it burns dim while unlocked.[#]()",
+    "new": "Once locked, the Accumulator drinks from the chunk it stands in: up to [#](8B0000)25[#]() Spiritus each tick, but only from the surplus above [#](8B0000)30[#](). It will never draw the chunk below that mark.\\\n\\\nThat floor sits low enough that a single crystal burned in a [#](8B0000)Spiritus Crucible[#]() will feed it, for a crystal lifts its Aspect to [#](8B0000)50[#](). Set one in a crystal farm and it keeps drawing the chunk back down to 30, so the Crucible never stops burning and every crystal is banked.\\\n\\\n[#](2E8B57)The crystal's inner light shows its Aspect and how full it stands; it burns dim while unlocked.[#]()",
+    "native_zh": "锁定后，积聚器会抽取所处区块的灵域：每刻最多抽取[#](8B0000)25[#]()份灵质，同时保留[#](8B0000)30[#]()份不动。它不会将灵域抽到该阈值之下。\\\n\\\n这一阈值又足够低，可让[#](8B0000)灵质坩埚[#]()燃烧一片结晶，为灵域补充[#](8B0000)50[#]()份灵质。若是放到结晶农场里，积聚器便会吸收灵质直到其份数降至30，这样坩埚就能一直运作，将所有结晶存入灵域了。\\\n\\\n[#](2E8B57)积聚器会根据填充程度发出相应要素的光芒；未锁定时则不会发光。[#]()",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "book.neovitae.guide.utility.demon_lantern.hunger.text",
+    "old": "Within sixteen blocks the lantern still smothers [#](8B0000)passive and ambient[#]() spawns, but it now forces [#](8B0000)hostile[#]() ones into being across the same span, wringing extra births from every surface around it. [#](2E8B57)It pays no mind to the light[#](); a brightly lit hall will seethe with monsters all the same.\\\n\\\nIt feeds on the [#](4A0080)Spiritus[#]() steeped into the surrounding land, of any aspect: barren ground stirs only once every few seconds, while a chunk saturated to five hundred motes seethes anew every tick. From time to time it draws a single mote of a random aspect down into itself as payment. Though it shines like a lantern, it casts [#](2E8B57)no true light[#]() - the glow will neither brighten your halls nor calm the dark it stirs.\\\n\\\nThe lantern [#](2E8B57)binds to whoever sets it down[#]() (or right-click it in hand beforehand to bind it for another), drawing thereafter on that soul's [#](4A0080)Soul Network[#](): a steady toll of [#](4A0080)Essentia Vitae[#]() each second it runs, falling dormant the moment the well runs dry.\\\n\\\nFeed it a [#](8B0000)redstone[#]() signal and it falls still; while powered it neither wards nor stirs nor feeds.",
+    "new": "Within sixteen blocks the lantern still smothers [#](8B0000)passive and ambient[#]() spawns, but it now forces [#](8B0000)hostile[#]() ones into being across the same span, wringing extra births from every surface around it. [#](2E8B57)It pays no mind to the light[#](); a brightly lit hall will seethe with monsters all the same.\\\n\\\nIt feeds on the [#](4A0080)Spiritus[#]() steeped into the surrounding land, of any aspect: barren ground stirs only once every few seconds, while a chunk saturated to five hundred motes seethes anew every tick. From time to time it draws a single mote of a random aspect down into itself as payment. Though it shines like a lantern, it casts [#](2E8B57)no true light[#]() - the glow will neither brighten your halls nor calm the dark it stirs.",
+    "native_zh": "在距灯笼十六格内，它仍然能阻止[#](8B0000)被动和环境生物[#]()生成，还能在同样的范围中强制生成[#](8B0000)敌对生物[#]()，在所有开放表面上额外制造出生命。[#](2E8B57)它完全不关心光照[#]()；即便是明亮的大厅，其中刷出的怪物也不会减少。\\\n\\\n它以浸在周围土地中的[#](4A0080)灵质[#]()为食，要素不限：荒芜的土地只会每隔几秒翻涌一次，而饱和至五百单位的区块则每一刻都能生成。它时不时会从灵域中抽走一单位作为代价，要素种类不限。尽管它和普通的灯笼一样闪亮，但[#](2E8B57)并不会真正地发光[#]()——它的光芒无法点亮大厅，也不能安抚翻涌而起的黑暗。",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "gui.neovitae.routing.bucket.clear",
+    "old": "Right-click with empty bucket to clear",
+    "new": "Right-click to clear",
+    "native_zh": "右击以清空",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "gui.neovitae.routing.bucket.set",
+    "old": "Right-click with a bucket to set fluid filter",
+    "new": "Left-click with a bucket to set the fluid filter",
+    "native_zh": "用流体桶左击以设置流体筛选器",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "gui.neovitae.routing.filter.fluid_automatch",
+    "old": "Auto-match: any fluid present in the network",
+    "new": "Auto-match: mirrors the neighbor tank",
+    "native_zh": "自动匹配：自动筛选相邻储罐内容物",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "gui.neovitae.routing.match_components",
+    "old": "Match Components:",
+    "new": "Match Rules",
+    "native_zh": "匹配规则",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "gui.neovitae.routing.matching_components",
+    "old": "Matching components:",
+    "new": "Matching:",
+    "native_zh": "匹配：",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "gui.neovitae.routing.shift_match",
+    "old": "Shift-Right-Click: match components",
+    "new": "Shift-Right-Click: match rules",
+    "native_zh": "Shift右击：匹配规则",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  },
+  {
+    "key": "gui.neovitae.routing.spiritus_reserve",
+    "old": "Amount to leave behind in the source",
+    "new": "Level to keep this chunk's Spiritus at",
+    "native_zh": "当前区块灵质的保留量",
+    "previous_bundle_zh": null,
+    "current_source": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "decision": "reuse_current_native",
+    "reason": "Current native Chinese reflects the changed mechanism/UI operation; no old project override in the previous consolidated bundle. Keep upstream file unchanged."
+  }
+]

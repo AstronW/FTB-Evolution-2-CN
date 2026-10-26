@@ -1,7 +1,7 @@
 {
   "batch": "240",
   "namespace": "sky_aesthetics",
-  "jar": ".minecraft/mods/sky_aesthetics-neoforge-2.1.4.jar",
+  "jar": ".minecraft/mods/sky_aesthetics-neoforge-2.2.0.jar",
   "language_path": "assets/sky_aesthetics/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/sky_aesthetics/lang/zh_cn.json",
   "include_keys": [
@@ -45,5 +45,16 @@
   "context_overrides": {},
   "unchanged_values": [
     "Sky Aesthetics"
-  ]
+  ],
+  "jar_sha256": "7fbaa001df7ed703415645f9f9149f5206bd1ae4dc73cfe317535d7ae06a150d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/sky_aesthetics-neoforge-2.2.0.jar",
+    "jar_sha256": "7fbaa001df7ed703415645f9f9149f5206bd1ae4dc73cfe317535d7ae06a150d",
+    "nested_jars": [],
+    "resource": "assets/sky_aesthetics/lang/en_us.json",
+    "mod_ids": [
+      "sky_aesthetics"
+    ],
+    "resource_sha256": "c6546e1051a567196643a27a7f0053b7d987aa984f35206daf1775a3edabaa2a"
+  }
 }

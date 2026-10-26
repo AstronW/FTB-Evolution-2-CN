@@ -1,3 +1,8 @@
 {
-  "key.category.nodeworks.nodeworks": "Nodeworks"
+  "key.category.nodeworks.nodeworks": "Nodeworks",
+  "block.nodeworks.multi_processing_handler": "多配方加工处理器",
+  "container.nodeworks.multi_processing_handler": "多配方加工处理器",
+  "container.nodeworks.transfer_card": "传输卡",
+  "item.nodeworks.transfer_card": "传输卡",
+  "message.nodeworks.terminal_controller_conflict": "此功能需要网络中有且仅有一个网络控制器."
 }

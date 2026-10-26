@@ -38,5 +38,16 @@
     "item.ftbpc.structure_placer"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "518377c5786f8e8f9e64fbcee7cad808802b266a469dc019cd2aae8745c262a5",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-pack-companion-26.1.2.5.jar",
+    "jar_sha256": "518377c5786f8e8f9e64fbcee7cad808802b266a469dc019cd2aae8745c262a5",
+    "nested_jars": [],
+    "resource": "assets/ftbpc/lang/en_us.json",
+    "mod_ids": [
+      "ftbpc"
+    ],
+    "resource_sha256": "73f2c2d3c2f1600e5236b36108e02412f91e21fa37a2b14af9ee9d41eaec5e55"
+  }
 }

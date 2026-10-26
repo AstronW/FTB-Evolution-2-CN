@@ -2,6 +2,7 @@
 import hashlib,json,pathlib,re,sys,zipfile
 from punctuation import assert_ascii
 from protected_text import signature
+from source_archive import read_resource
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 BASE=ROOT/'localization/feedback_20261019'
 OUTPUT=BASE/'pack'
@@ -11,7 +12,7 @@ def sha(data):return hashlib.sha256(data).hexdigest()
 def encode(data):return (json.dumps(data,ensure_ascii=False,indent=2)+'\n').encode()
 def read(p):return json.loads(p.read_text())
 def inputs():
-    result={};sources={}
+    result={};sources={};resources={}
     def bind(p):sources[str(p.relative_to(GAME))]=sha(p.read_bytes())
     for pat in ['nodeworks-*.jar','oracle_index-*.jar','kindredspirits-*.jar','patchouli-*.jar','guideme-*.jar','ftb-industrial-*.jar','auroral-*.jar','Powah-*.jar','justdynathings-*.jar']:
         for p in (GAME/'mods').glob(pat):bind(p)
@@ -23,7 +24,8 @@ def inputs():
         book,rest=rel.split('/',1)
         jar=next((GAME/'mods').glob('kindredspirits-*.jar' if book=='kindredspirits' else 'oracle_index-*.jar'))
         member='assets/oracle_index/books/'+rel
-        with zipfile.ZipFile(jar) as z:data=json.loads(z.read(member))
+        raw,_=read_resource(member,jar)
+        data=json.loads(raw);resources[member]=sha(raw)
         assert set(data)==set(translations),(rel,'metadata coverage')
         for k,zh in translations.items():assert_ascii(zh,rel);data[k]['name']=zh
         target='assets/oracle_index/books/'+book+'/translated/zh_cn/'+rest.removeprefix('docs/')
@@ -35,14 +37,14 @@ def inputs():
             with zipfile.ZipFile(jar) as z:
                 for member in z.namelist():
                     if member.startswith('data/'+ns+'/patchouli_books/') and member.endswith('/book.json'):
-                        bind(jar);book=json.loads(z.read(member));found.update(v for k,v in book.items() if k in {'name','landing_text','subtitle'})
+                        bind(jar);raw,_=read_resource(member,jar);resources[member]=sha(raw);book=json.loads(raw);found.update(v for k,v in book.items() if k in {'name','landing_text','subtitle'})
         assert set(translation)<=found,(ns,'book source changed')
         for en,zh in translation.items():
             assert_ascii(zh,ns);assert signature(en)==signature(zh),(ns,en)
         # Patchouli's current landing GUI calls Component.translatable on these
         # literal English values too. No server book definition needs replacing.
         result[f'assets/{ns}/lang/zh_cn.json']=encode(translation)
-    return result,sources,mapping
+    return result,sources,mapping,resources
 
 def component_corrections(outputs, result, sources):
     corrections=read(BASE/'component-corrections.json')
@@ -54,7 +56,7 @@ def component_corrections(outputs, result, sources):
             ns=member.split('/')[1]
             pat='Powah-*.jar' if ns=='powah' else ns+'-*.jar'
             jar=next((GAME/'mods').glob(pat))
-            with zipfile.ZipFile(jar) as z:original=z.read(member)
+            original,_=read_resource(member,jar)
         text=result.get(member,original).decode()
         for row in rows:
             assert text.count(row['old'])==1,(member,row['old'])
@@ -90,21 +92,25 @@ def compile_pages(outputs,mapping):
         if changed!=text:patches[member]=changed.encode()
     return patches,changes
 
+def checked_manifest(manifest):
+    """Archive hashes document inspected inputs; related resources stay normative."""
+    return {key:value for key,value in manifest.items() if key!='archive_provenance'}
+
 def build(command):
     import release_pack
     # Base build must remain independent from feedback overlays.
     outputs,_,_=release_pack.assemble_resourcepack([],include_feedback=False)
-    result,sources,mapping=inputs()
+    result,sources,mapping,resources=inputs()
     pages,changes=compile_pages(outputs,mapping);result.update(pages)
     corrections=component_corrections(outputs,result,sources)
     base_files={member:sha(outputs[member][0]) for member in result if member in outputs and not member.endswith('/lang/zh_cn.json')}
-    manifest={'target_pack_version':read(ROOT/'project.json')['target_pack_version'],'source_inputs':sources,'base_files':base_files,'files':{k:sha(v) for k,v in sorted(result.items())},'recipe_reference_changes':changes,'component_corrections':corrections,'in_game_tested':False}
+    manifest={'target_pack_version':read(ROOT/'project.json')['target_pack_version'],'source_inputs':{k:v for k,v in sources.items() if not k.endswith('.jar')},'resource_inputs':resources,'archive_provenance':{k:v for k,v in sources.items() if k.endswith('.jar')},'base_files':base_files,'files':{k:sha(v) for k,v in sorted(result.items())},'recipe_reference_changes':changes,'component_corrections':corrections,'in_game_tested':False}
     if command=='build':
         for rel,data in result.items():
             p=OUTPUT/rel;p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(data)
         (BASE/'manifest.json').write_bytes(encode(manifest))
     else:
-        assert read(BASE/'manifest.json')==manifest,'Feedback source/outputs changed; rebuild'
+        assert checked_manifest(read(BASE/'manifest.json'))==checked_manifest(manifest),'Feedback source/outputs changed; rebuild'
         assert {p.relative_to(OUTPUT).as_posix() for p in OUTPUT.rglob('*') if p.is_file()}==set(result)
         for rel,data in result.items():assert (OUTPUT/rel).read_bytes()==data,rel
     print(f'{command}: {len(result)} resource files, {len(changes)} unified recipe references')

@@ -1,0 +1,13 @@
+{
+  "batch": "154",
+  "namespace": "animalgarden_seaotter",
+  "jar": ".minecraft/mods/animalgarden-seaotter-1.1.1-neoforge-26.2.0.6.jar",
+  "language_path": "assets/animalgarden_seaotter/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animalgarden_seaotter/lang/zh_cn.json",
+  "include_keys": [
+    "entity.animalgarden_seaotter.seaotter",
+    "item.animalgarden_seaotter.mob_spawn_egg"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

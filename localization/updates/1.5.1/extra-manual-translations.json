@@ -1,0 +1,34 @@
+{
+  "assets/nautec/guides/nautec/guide/aquatic_biology/bio_reactor.md": {
+    "105": {
+      "source": "* Load and unload colonies through the Dish Port. A dish goes into the slot at the bottom left and dishes holding a colony come out of the slot beside it; empty dishes come out of the slot under the upgrades. A Petri Dish holding a colony loads it into the first colony slot that can take all of it. Once every colony slot is full, a new colony dish swaps instead, but only for a Senescent colony: its colony replaces the oldest Senescent one, and the old colony comes out in that same dish, so no empty dish is left over. While no colony is Senescent the dish waits in the port, and a swap also waits while the colony output slot is full. An empty dish takes out the oldest Senescent colony and waits in the port while none is Senescent, and the port refuses dishes holding a Senescent colony, so one chest can collect from the port and feed it at the same time. To take out a colony that is not Senescent, click its colony slot with an empty dish. Automation reaches the port wherever it reaches the other slots.",
+      "translation": "* 通过培养皿端口装入和取出菌落. 培养皿放入左下槽, 装有菌落的培养皿从旁边的槽位输出; 空皿从升级槽下方输出. 装有菌落的培养皿会将其装入第一个能容纳整个菌落的槽位. 所有菌落槽都装满后, 新菌落培养皿只会替换衰老菌落: 新菌落替换最老的衰老菌落, 旧菌落则装入同一个培养皿输出, 不会留下空皿. 没有衰老菌落时, 培养皿会在端口中等待; 菌落输出槽已满时, 替换也会等待. 空皿会取出最老的衰老菌落, 没有衰老菌落时则留在端口中等待. 端口拒绝装有衰老菌落的培养皿, 因此同一个箱子可以同时从端口收集并向其供料. 若要取出尚未衰老的菌落, 请手持空皿点击它的菌落槽. 自动化可从能访问其他槽位的位置访问此端口."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/aquatic_biology/industrial_bio_reactor.md": {
+    "210": {
+      "source": "Colonies load and unload through the Dish Port. A dish goes into the upper slot between the colony grid and the outputs, and dishes holding a colony come out of the lower one; empty dishes come out of the slot in the bottom row, between the nutrients and the upgrades. A Petri Dish holding a colony loads it into the first colony slot that can take all of it. Once every colony slot is full, a new colony dish swaps instead, but only for a Senescent colony: its colony replaces the oldest Senescent one, and the old colony comes out in that same dish, so no empty dish is left over. While no colony is Senescent the dish waits in the port, and a swap also waits while the colony output slot is full. An empty dish takes out the oldest Senescent colony and waits in the port while none is Senescent, and the port refuses dishes holding a Senescent colony, so one chest can collect from the port and feed it at the same time. To take out a colony that is not Senescent, click its colony slot with an empty dish. Automation reaches the port wherever it reaches the other slots.",
+      "translation": "菌落通过培养皿端口装入和取出. 培养皿放入菌落网格与输出槽之间的上方槽位, 装有菌落的培养皿从下方槽位输出; 空皿从底行营养物槽与升级槽之间的槽位输出. 装有菌落的培养皿会将其装入第一个能容纳整个菌落的槽位. 所有菌落槽都装满后, 新菌落培养皿只会替换衰老菌落: 新菌落替换最老的衰老菌落, 旧菌落则装入同一个培养皿输出, 不会留下空皿. 没有衰老菌落时, 培养皿会在端口中等待; 菌落输出槽已满时, 替换也会等待. 空皿会取出最老的衰老菌落, 没有衰老菌落时则留在端口中等待. 端口拒绝装有衰老菌落的培养皿, 因此同一个箱子可以同时从端口收集并向其供料. 若要取出尚未衰老的菌落, 请手持空皿点击它的菌落槽. 自动化可从能访问其他槽位的位置访问此端口."
+    }
+  },
+  "data/stellaris/wiki/infos/items/cans.md": {
+    "16": {
+      "source": "Hold the can and right-click it. You need something to drink to get the food down : ",
+      "translation": "手持罐头并右击即可食用. 你还需要饮品才能把食物咽下:"
+    },
+    "17": {
+      "source": "- A [ref=stellaris:items/fluid_cell]Fluid Cell[ref] filled with **water**, anywhere in your inventory. Each can uses 100 mB, so a full cell lasts 30 meals. ",
+      "translation": "- 在物品栏任意位置携带装有 **水** 的[ref=stellaris:items/fluid_cell]流体单元[ref]. 每个罐头消耗 100 mB, 因此装满后可供食用 30 次."
+    },
+    "18": {
+      "source": "- Or a **potion** held in your other hand, for example a simple water bottle. It is used up. While you hold a can, the potion itself cannot be drunk, so nothing is wasted. ",
+      "translation": "- 或在另一只手中拿着 **药水** , 例如普通水瓶. 药水会被消耗. 手持罐头时无法单独饮用药水, 因此不会浪费."
+    }
+  },
+  "data/stellaris/wiki/infos/items/fluid_cell.md": {
+    "14": {
+      "source": "Filled with water, it is also the easiest way to eat [ref=stellaris:items/cans]Cans[ref] : keep it anywhere in your inventory. ",
+      "translation": "装满水后, 它也是食用[ref=stellaris:items/cans]罐头[ref]最方便的方式: 放在物品栏任意位置即可."
+    }
+  }
+}

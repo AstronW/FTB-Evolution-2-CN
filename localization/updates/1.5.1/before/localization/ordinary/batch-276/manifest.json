@@ -1,0 +1,13 @@
+{
+  "batch": "276",
+  "namespace": "mint_lib",
+  "jar": ".minecraft/mods/mint_lib-0.4.0-26.1b.jar",
+  "language_path": "assets/mint_lib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mint_lib/lang/zh_cn.json",
+  "include_keys": [
+    "mint_lib.fish.tooltip.size",
+    "mint_lib.fish.tooltip.weight"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

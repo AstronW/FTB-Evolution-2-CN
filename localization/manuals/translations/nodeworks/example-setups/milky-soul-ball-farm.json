@@ -2,9 +2,12 @@
   "4": "  title: 奶香灵魂球农场",
   "9": "# 奶香灵魂球农场",
   "22": "    使用器用空桶对牛进行操作.",
-  "25": "    使用器将奶桶用于灵魂沙, 再将得到的奶香灵魂球",
-  "26": "    和空桶放回网络存储.",
-  "29": "    放置器在使用器前方放置灵魂沙.",
-  "33": "此农场先让<ItemLink id=\"user\" />用空桶给牛挤奶, 将奶桶存入[网络存储](../nodeworks-mechanics/network-storage.md). 另一个使用器再将这些<ItemLink id=\"minecraft:milk_bucket\" />用于<ItemLink id=\"minecraft:soul_sand\" />, 灵魂沙由<ItemLink id=\"placer\" />放置.",
-  "35": "> **注意:** 放置器和使用器的红石模式均设为低电平, 使其持续启用."
+  "27": "    使用器将奶桶用于灵魂沙, 再将得到的奶香灵魂球",
+  "28": "    和空桶放回网络存储.",
+  "33": "    放置器在使用器前方放置灵魂沙.",
+  "39": "此农场先让<ItemLink id=\"user\" />用空桶给牛挤奶, 将奶桶存入[网络存储](../nodeworks-mechanics/network-storage.md). 另一个使用器再将这些<ItemLink id=\"minecraft:milk_bucket\" />用于<ItemLink id=\"minecraft:soul_sand\" />, 灵魂沙由<ItemLink id=\"placer\" />放置.",
+  "41": "> **注意:** 放置器和使用器的红石模式均设为低电平, 使其持续启用.",
+  "24": "    ![放置器界面, 已将空桶设为筛选条件](../assets/images/user_empty_bucket.png)",
+  "30": "    ![使用器界面, 已将奶桶设为筛选条件](../assets/images/user_milk_bucket.png)",
+  "35": "    ![放置器界面, 已将灵魂沙设为筛选条件](../assets/images/placer_soul_sand.png)"
 }

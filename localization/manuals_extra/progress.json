@@ -1,9 +1,9 @@
 {
-  "target_pack_version": "1.4.1",
+  "target_pack_version": "1.5.1",
   "pages": 317,
   "translated_pages": 317,
-  "translated_words": 96904,
-  "total_words": 96904,
+  "translated_words": 97009,
+  "total_words": 97009,
   "errors": [],
   "rows": [
     {
@@ -703,7 +703,7 @@
       "page": "assets/nautec/guides/nautec/guide/aquatic_biology/bio_reactor.md",
       "group": "nautec",
       "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/bio_reactor.md",
-      "words": 1153,
+      "words": 1184,
       "translated": true
     },
     {
@@ -745,7 +745,7 @@
       "page": "assets/nautec/guides/nautec/guide/aquatic_biology/industrial_bio_reactor.md",
       "group": "nautec",
       "target": "assets/nautec/guides/nautec/guide/_zh_cn/aquatic_biology/industrial_bio_reactor.md",
-      "words": 1111,
+      "words": 1142,
       "translated": true
     },
     {
@@ -1725,7 +1725,7 @@
       "page": "data/stellaris/wiki/infos/items/cans.md",
       "group": "stellaris",
       "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/cans.md",
-      "words": 147,
+      "words": 170,
       "translated": true
     },
     {
@@ -1753,7 +1753,7 @@
       "page": "data/stellaris/wiki/infos/items/fluid_cell.md",
       "group": "stellaris",
       "target": "datapacks/ftb_evolution_cn/data/stellaris/wiki/infos/items/fluid_cell.md",
-      "words": 108,
+      "words": 128,
       "translated": true
     },
     {

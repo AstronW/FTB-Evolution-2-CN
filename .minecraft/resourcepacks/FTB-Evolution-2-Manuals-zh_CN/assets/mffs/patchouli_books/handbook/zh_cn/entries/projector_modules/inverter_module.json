@@ -7,7 +7,7 @@
       "type": "patchouli:spotlight",
       "item": "mffs:inverter_module",
       "link_recipe": true,
-      "text": "$(5)反转模块$()可以放入$(l:mffs:machines/projector)力场投射器$()的矩阵槽位, 把投射形状由外翻内, 形成实心力场区域."
+      "text": "$(5)反转模块$()可以放入$(l:mffs:machines/projector)力场投影仪$()的矩阵槽位, 把投射形状由外翻内, 形成实心力场区域."
     },
     {
       "type": "patchouli:crafting",

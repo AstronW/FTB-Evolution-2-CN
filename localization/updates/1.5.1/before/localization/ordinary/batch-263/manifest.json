@@ -1,0 +1,15 @@
+{
+  "batch": "263",
+  "namespace": "shogi",
+  "jar": ".minecraft/mods/shogi-neoforge-26.1.2-26.1.2.12.jar",
+  "language_path": "assets/shogi/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/shogi/lang/zh_cn.json",
+  "include_keys": [
+    "commands.shogi.cooldown.reset.all.success",
+    "commands.shogi.cooldown.reset.success",
+    "commands.shogi.cooldown.add.success",
+    "commands.shogi.cooldown.set.success"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

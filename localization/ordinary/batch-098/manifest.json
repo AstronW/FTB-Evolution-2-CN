@@ -137,5 +137,16 @@
     "EU",
     "%d EU",
     "ID"
-  ]
+  ],
+  "jar_sha256": "5cfb90c8dde51645142bcd4160687e87103f79c92ce14a06a0379691f6481a54",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-quests-neoforge-26.1.2.9.jar",
+    "jar_sha256": "5cfb90c8dde51645142bcd4160687e87103f79c92ce14a06a0379691f6481a54",
+    "nested_jars": [],
+    "resource": "assets/ftbquests/lang/en_us.json",
+    "mod_ids": [
+      "ftbquests"
+    ],
+    "resource_sha256": "c1118a0659781755ade4eb3313ceda788188b5c761190d01c8a977eda4b8e913"
+  }
 }

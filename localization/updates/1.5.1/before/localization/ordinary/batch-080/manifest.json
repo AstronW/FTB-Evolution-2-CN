@@ -1,0 +1,22 @@
+{
+  "batch": "080",
+  "namespace": "advanced_ae",
+  "jar": ".minecraft/mods/AdvancedAE-26.1.7.jar",
+  "language_path": "assets/advanced_ae/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/advanced_ae/lang/zh_cn.json",
+  "include_keys": [
+    "gui.advanced_ae.OverdriveThroughputMonitorValue",
+    "gui.advanced_ae.SlowThroughputMonitorValue",
+    "gui.advanced_ae.SlowerThroughputMonitorValue",
+    "gui.advanced_ae.ThroughputMonitorValue",
+    "gui.tooltips.advanced_ae.TankAmount"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s%s/t",
+    "%s%s/m",
+    "%s%s/10m",
+    "%s%s/s",
+    "%s / %s B"
+  ]
+}

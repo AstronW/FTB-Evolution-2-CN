@@ -7,7 +7,7 @@
       "type": "patchouli:spotlight",
       "item": "mffs:reinforcement_module",
       "link_recipe": true,
-      "text": "把$(5)加固模块$()放入$(l:mffs:machines/projector)力场投射器$(), 可使投射出的力场方块免疫凋灵的破坏."
+      "text": "把$(5)加固模块$()放入$(l:mffs:machines/projector)力场投影仪$(), 可使投射出的力场方块免疫凋灵的破坏."
     },
     {
       "type": "patchouli:crafting",

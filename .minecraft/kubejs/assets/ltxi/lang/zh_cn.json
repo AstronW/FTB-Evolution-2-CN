@@ -23,5 +23,6 @@
   "grenade_type.ltxi.sparkler": "火花弹",
   "subtitle.ltxi.bomblet_explode": "子炸弹爆炸",
   "subtitle.ltxi.bomblet_prime": "子炸弹引爆准备",
-  "subtitle.ltxi.sparkler_shell_impact": "火花弹命中"
+  "subtitle.ltxi.sparkler_shell_impact": "火花弹命中",
+  "entity.ltxi.homing_bomblet": "追踪小炸弹"
 }

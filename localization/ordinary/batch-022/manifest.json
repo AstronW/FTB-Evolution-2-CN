@@ -303,5 +303,16 @@
     "NBT",
     "AE2",
     "RS"
-  ]
+  ],
+  "jar_sha256": "7216cce48fd2ebae02c3c00ca4fdd7501621ef294b55e10e3eb1c3bc3c4bc944",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/logisticsnetworks-26.1.2-1.13.0.jar",
+    "jar_sha256": "7216cce48fd2ebae02c3c00ca4fdd7501621ef294b55e10e3eb1c3bc3c4bc944",
+    "nested_jars": [],
+    "resource": "assets/logisticsnetworks/lang/en_us.json",
+    "mod_ids": [
+      "logisticsnetworks"
+    ],
+    "resource_sha256": "a0cc31c4b397a6e8a661ba27e6ce5b19148e951376af948d147b034b0bea35c8"
+  }
 }

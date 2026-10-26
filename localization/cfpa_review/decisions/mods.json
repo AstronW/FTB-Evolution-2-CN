@@ -33938,7 +33938,7 @@
     "key": "tooltip.ironfurnaces.heater_block",
     "english": "Link with a Wireless Heat Receiver (done by placing the receiver in the Wireless Heat Transmitter)",
     "status": "accepted",
-    "chinese": "与无线热能接收器链接(将无线热能接收器放置在内即可)",
+    "chinese": "与无线热能接收器链接(将无线热能接收器放入无线热能供应器即可)",
     "reason": "核对熔炉材质升级关系、强化组件和红石/能量/拼接提示语境, 不带入其他版本额外条件.",
     "source": {
       "namespace": "ironfurnaces",
@@ -33951,7 +33951,12 @@
       "chinese": "与无线热能接收器链接（将无线热能接收器放置在内即可）"
     },
     "changes": [
-      "仅在本地覆盖规范为英文半角标点, 上游原文件保留."
+      "仅在本地覆盖规范为英文半角标点, 上游原文件保留.",
+      {
+        "from": "与无线热能接收器链接(将无线热能接收器放置在内即可)",
+        "to": "与无线热能接收器链接(将无线热能接收器放入无线热能供应器即可)",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
     ]
   },
   {

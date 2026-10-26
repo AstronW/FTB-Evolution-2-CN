@@ -12,6 +12,8 @@ iconType: item
 
 穿着[ref=stellaris:items/space_suit]航天服[ref]时手持它并右击, 它会将内容物直接倒入航天服的胸甲储罐, 这样你就可以在野外为喷气装置补充燃料.
 
+装满水后, 它也是食用[ref=stellaris:items/cans]罐头[ref]最方便的方式: 放在物品栏任意位置即可.
+
 
 
 数据:

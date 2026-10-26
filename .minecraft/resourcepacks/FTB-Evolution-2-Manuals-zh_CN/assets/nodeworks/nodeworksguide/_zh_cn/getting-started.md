@@ -23,10 +23,12 @@ Nodeworks网络利用<ItemLink id="celestine_shard" />的反射特性工作.
 <GameScene interactive={true} zoom="5">
   <IsometricCamera yaw="200" pitch="10" />
   <ImportStructure src="assets/assemblies/first_network.snbt" />
+  <BoxAnnotation min="2.25 0.1 0.1" max="2 0.9 0.9" color="#AA83E0">
+    <ItemImage id="nodeworks:storage_card" /> 存储卡
+  </BoxAnnotation>
 </GameScene>
 
 - 此网络包含以下组件:
-  - 1个<ItemLink id="network_controller" />
   - 1个<ItemLink id="inventory_terminal" />
   - 若干<ItemLink id="pipe" />, 用于连接所有设备
   - 若干<ItemLink id="node" />, 用于将箱子等外部方块接入网络
@@ -34,6 +36,6 @@ Nodeworks网络利用<ItemLink id="celestine_shard" />的反射特性工作.
 
 ### <a name="expanding-your-nodeworks-network" /> 扩展Nodeworks网络
 
-- [移动物品](./example-setups/moving-items.md)
+- [移动物品](./nodeworks-mechanics/moving-items.md)
 - [自动合成](./nodeworks-mechanics/autocrafting.md)
 - [搭建示例](./example-setups/index.md)

@@ -38,7 +38,9 @@ MANUALS_PACK = MC / 'resourcepacks/FTB-Evolution-2-Manuals-zh_CN'
 CFPA_PACK = MC / 'resourcepacks/FTB-Evolution-2-CFPA-Reviewed-zh_CN'
 QUEST_LANG = MC / 'config/ftbquests/quests/lang/zh_cn'
 DIST = ROOT / 'dist'
-VERSION = '1.4.1'
+# Public packaging metadata is repository-owned and does not require project.json.
+RELEASE = json.loads((ROOT / 'localization/release.json').read_text())
+VERSION = RELEASE['pack_version']
 PACK_NAME = f'FTB-Evolution-2-{VERSION}-zh_CN'
 RESOURCEPACK = DIST / f'{PACK_NAME}.zip'
 INSTALL_ZIP = DIST / f'{PACK_NAME}-install.zip'
@@ -91,7 +93,7 @@ def kubejs_language_sources():
             continue
         add(data['namespace'], ROOT / data['target'], f"ordinary/{folder.name}")
     # Pack custom language namespaces bound to the current instance.
-    bindings = read(ROOT / read(ROOT/'project.json')['custom_adaptation']['source_bindings'])
+    bindings = read(ROOT / RELEASE['custom_source_bindings'])
     for namespace in bindings['sources']:
         add(namespace, MC / f'kubejs/assets/{namespace}/lang/zh_cn.json', 'custom/bindings')
     # Synthetic keys introduced by the runtime scripts (English fallback included).

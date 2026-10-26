@@ -1,0 +1,28 @@
+{
+  "batch": "188",
+  "namespace": "scannable",
+  "jar": ".minecraft/mods/ScannableReforged-MC26.1.2-neoforge-1.0.1.jar",
+  "language_path": "assets/scannable/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/scannable/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.scannable.common",
+    "item.scannable.chest_module",
+    "item.scannable.chest_module.desc",
+    "item.scannable.spawner_module",
+    "item.scannable.spawner_module.desc",
+    "item.scannable.spawner_module.list",
+    "item.scannable.lootr_module",
+    "item.scannable.lootr_module.desc",
+    "item.scannable.lootr_module.required",
+    "tooltip.scannable.list_item",
+    "gui.scannable.spawner_module.list",
+    "gui.scannable.overlay.distance",
+    "gui.scannable.overlay.spawner"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Scannable Reforged",
+    "§7- §f%s§r",
+    "%s (%sm)"
+  ]
+}

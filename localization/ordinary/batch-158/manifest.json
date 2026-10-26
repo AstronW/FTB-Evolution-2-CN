@@ -154,5 +154,16 @@
     "resonance.configuration.showParticles"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "75e90190be8df90eaf6aadbb3e949565ff40bdac5e372581722bcd7575afcfce",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/resonance-neoforge-26.1.2-1.0.2.jar",
+    "jar_sha256": "75e90190be8df90eaf6aadbb3e949565ff40bdac5e372581722bcd7575afcfce",
+    "nested_jars": [],
+    "resource": "assets/resonance/lang/en_us.json",
+    "mod_ids": [
+      "resonance"
+    ],
+    "resource_sha256": "223dde59076b75d7418dc2db2f331d905daf64687774f89c3eff1ca13cc3ca28"
+  }
 }

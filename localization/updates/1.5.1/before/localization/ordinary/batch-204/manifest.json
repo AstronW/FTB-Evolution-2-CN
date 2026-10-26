@@ -1,0 +1,13 @@
+{
+  "batch": "204",
+  "namespace": "crawl",
+  "jar": ".minecraft/mods/crawl-mc26.1.2-neoforge-0.15.0.jar",
+  "language_path": "assets/crawl/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/crawl/lang/zh_cn.json",
+  "include_keys": [
+    "crawl.gui.options_title",
+    "crawl.config.replace_animation"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

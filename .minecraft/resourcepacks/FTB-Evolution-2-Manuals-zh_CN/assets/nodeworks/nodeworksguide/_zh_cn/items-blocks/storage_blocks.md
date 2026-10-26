@@ -5,6 +5,7 @@ navigation:
   title: 配方存储方块
 categories:
   - autocrafting
+  - requires_controller
 description: houses Recipe Sets so Crafting CPUs can see them
 item_ids:
 - nodeworks:instruction_storage

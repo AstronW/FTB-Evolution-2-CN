@@ -70,5 +70,16 @@
     "%s: ≥%s",
     "%s: ≤%s",
     "RGB: %s"
-  ]
+  ],
+  "jar_sha256": "bbe547d5dcbf77456ed28224e49c0b143a975d1d2b2cab721372872908cd5021",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedLootInfo-neoforge-26.1.2-2.5.0.jar",
+    "jar_sha256": "bbe547d5dcbf77456ed28224e49c0b143a975d1d2b2cab721372872908cd5021",
+    "nested_jars": [],
+    "resource": "assets/ali/lang/en_us.json",
+    "mod_ids": [
+      "ali"
+    ],
+    "resource_sha256": "caad3e3d1be7f90b27d87583fe0fe7207dd34ebc1236ec3a158504e9c8c5244c"
+  }
 }

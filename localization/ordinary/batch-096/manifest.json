@@ -18,5 +18,17 @@
     "info_book.integratedterminals.tutorials.storage_terminal_ender.text3"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+    "nested_jars": [],
+    "resource": "assets/integratedterminals/lang/en_us.json",
+    "mod_ids": [
+      "integratedterminals",
+      "integratedterminalscompat"
+    ],
+    "resource_sha256": "2d3e3cf9c598e70206ad6cb05e81d30074ecc170be9c1a78ea373d5c4e4669a0"
+  }
 }

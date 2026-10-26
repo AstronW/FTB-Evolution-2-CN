@@ -51,5 +51,16 @@
   "context_overrides": {},
   "unchanged_values": [
     "Shift"
-  ]
+  ],
+  "jar_sha256": "2dd23f6b30799332d91c5a2a96b1b83c354e89210e33a4224b1eddaaef8fffd6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/energymeter-neoforge-26.1.2-0.5.1.jar",
+    "jar_sha256": "2dd23f6b30799332d91c5a2a96b1b83c354e89210e33a4224b1eddaaef8fffd6",
+    "nested_jars": [],
+    "resource": "assets/energymeter/lang/en_us.json",
+    "mod_ids": [
+      "energymeter"
+    ],
+    "resource_sha256": "9815529bf1415569c60e30c4b9be36214bbd8a8032a16718326e580f139a0e1c"
+  }
 }

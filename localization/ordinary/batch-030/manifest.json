@@ -170,5 +170,16 @@
   "unchanged_values": [
     "Auroral",
     "S'nore"
-  ]
+  ],
+  "jar_sha256": "0b3fc172be2899c0b78f616639f15197b5155df205d4dde1c7787653ae294761",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/auroral-26.1.2-1.5.10.jar",
+    "jar_sha256": "0b3fc172be2899c0b78f616639f15197b5155df205d4dde1c7787653ae294761",
+    "nested_jars": [],
+    "resource": "assets/auroral/lang/en_us.json",
+    "mod_ids": [
+      "auroral"
+    ],
+    "resource_sha256": "5ee8e7b99ecb0a50a5e6c501d52ad4950695c5f9c8781e1bff1b32a4f3c36835"
+  }
 }

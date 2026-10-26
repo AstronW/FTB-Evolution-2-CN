@@ -1,24 +1,24 @@
 {
-  "target_pack_version": "1.4.1",
+  "target_pack_version": "1.5.1",
   "scope": "Verified ordinary batches plus reviewed CFPA and project manual pages; excludes quests and pack-custom text to avoid implying full-project totals",
   "in_game_tested": false,
   "stats": {
-    "ordinary_language_keys": 26232,
+    "ordinary_language_keys": 26273,
     "manual_language_keys": 3481,
-    "all_language_keys": 29713,
+    "all_language_keys": 29754,
     "group_labels": 95,
-    "manual_pages": 686,
+    "manual_pages": 687,
     "patchouli_visible_fields": 1078,
-    "original_batches": 332,
-    "original_batch_keys": 22410,
+    "original_batches": 341,
+    "original_batch_keys": 22451,
     "reviewed_cfpa_language_keys": 7303,
     "batch_cfpa_key_overlap": 0,
-    "original_manual_pages": 164,
+    "original_manual_pages": 165,
     "additional_project_manual_pages": 317,
     "explicit_project_patchouli_fields": 571,
     "reviewed_manual_pages": 205,
     "manual_page_overlap": 0,
     "batch_keys_classified_as_manual": 2205,
-    "batch_keys_outside_latin_inventory_retained_as_ordinary": 644
+    "batch_keys_outside_latin_inventory_retained_as_ordinary": 689
   }
 }

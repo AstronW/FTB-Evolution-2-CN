@@ -109,6 +109,13 @@ def output_path(target: str) -> pathlib.Path:
 
 
 def source_text(entry: dict) -> str:
+    if entry.get('resource_binding'):
+        from source_archive import read_resource
+        binding = entry['resource_binding']
+        raw, _ = read_resource(entry['path'], entry['source'], binding['resource_sha256'],
+                               mod_id=next(iter(binding.get('mod_ids', [])), None),
+                               nested_paths=[r['path'] for r in binding['nested_jars']])
+        return normalize(raw.decode('utf-8-sig'))
     source = pathlib.Path(entry['source'])
     if source.is_file() and source.suffix == '.jar':
         with zipfile.ZipFile(source) as archive:

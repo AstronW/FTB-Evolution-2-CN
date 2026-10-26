@@ -5,6 +5,7 @@ navigation:
   title: 库存监测器
 categories:
   - device
+  - requires_controller
 description: tracks the amount of items/fluids its configured to watch
 item_ids:
 - nodeworks:storage_meter
@@ -15,6 +16,8 @@ item_ids:
 库存监测器监视网络中的指定物品, 当库存
 低于阈值时输出红石信号. 它还可发起自动合成
 任务补充库存.
+
+> 需要<ItemLink id="network_controller" />才能使用
 
 <GameScene interactive={true} zoom="5" paddingLeft="40" paddingRight="40">
   <ImportStructure src="../assets/assemblies/stock_meter_door.snbt" />

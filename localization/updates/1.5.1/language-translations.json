@@ -1,0 +1,27 @@
+{
+  "gui.hephaestus_tools.build.repair_button_hint": {
+    "source": "Hammer the material into the tool (each one restores %s durability)",
+    "translation": "将材料锤入工具(每份恢复 %s 耐久)",
+    "reason": "Reviewed 1.5.1 source delta: preserve dynamic durability placeholders, material name meaning, and current Demonic effect."
+  },
+  "gui.hephaestus_tools.build.repair_hint": {
+    "source": "Insert a tool plus a raw material matching its head to repair %s durability, or a tool part to swap it the old part is returned to you.",
+    "translation": "放入工具与工具头对应的原材料, 可修复 %s 耐久; 也可放入工具部件进行替换, 旧部件会返还.",
+    "reason": "Reviewed 1.5.1 source delta: preserve dynamic durability placeholders, material name meaning, and current Demonic effect."
+  },
+  "gui.hephaestus_tools.build.workbench_repair_hint": {
+    "source": "Drop the head material on the tool to repair it. Each one restores %s durability, and the repair uses everything it needs at once. You can also put a part of another material on the table and drag it onto the tool to swap it. The old part stays on the table.",
+    "translation": "将工具头材料放到工具上以修复. 每份恢复 %s 耐久, 每次修复会一次性消耗所需材料. 也可将其他材料的部件放在桌面上, 再拖到工具上进行替换. 旧部件会留在桌面上.",
+    "reason": "Reviewed 1.5.1 source delta: preserve dynamic durability placeholders, material name meaning, and current Demonic effect."
+  },
+  "material.hephaestus_tools.spirit_attuned": {
+    "source": "Spirit Attuned",
+    "translation": "灵魂调谐",
+    "reason": "Reviewed 1.5.1 source delta: preserve dynamic durability placeholders, material name meaning, and current Demonic effect."
+  },
+  "trait.ftbevolutioncompanion.demonic.desc": {
+    "source": "Siphons blood on hit and mends with Blood Mending.",
+    "translation": "命中时汲取鲜血, 并通过气血修补自我修复.",
+    "reason": "Reviewed 1.5.1 source delta: preserve dynamic durability placeholders, material name meaning, and current Demonic effect."
+  }
+}

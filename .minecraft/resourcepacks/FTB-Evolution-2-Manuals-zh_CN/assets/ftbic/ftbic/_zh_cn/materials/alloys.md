@@ -9,10 +9,10 @@ item_ids:
   - ftbic:advanced_alloy
   - ftbic:industrial_grade_metal
   - ftbic:steel_ingot
-  - ftbic:bronze_ingot
-  - ftbic:electrum_ingot
-  - ftbic:invar_ingot
-  - ftbic:constantan_ingot
+  - ftbmaterials:bronze_ingot
+  - ftbmaterials:electrum_ingot
+  - ftbmaterials:invar_ingot
+  - ftbmaterials:constantan_ingot
   - ftbic:iridium_alloy
   - ftbic:machine_block
   - ftbic:advanced_machine_block
@@ -43,40 +43,40 @@ item_ids:
 将原料金属锭放入<ItemLink id="alloy_smelter" />制得.各合金均可重新打成粉,再次熔炼回收.
 
 <Row>
-  <ItemImage id="bronze_ingot" />
+  <ItemImage id="ftbmaterials:bronze_ingot" />
   ### <Color id="aqua">青铜</Color>
 </Row>
 
 3铜+1锡→4青铜.用于高级合金青铜路线的中级合金.
 
-<RecipeFor id="bronze_ingot" />
+<Recipe id="ftb:unification/ftbic/alloy_smelting/from_ingots/bronze" />
 
 <Row>
-  <ItemImage id="electrum_ingot" />
+  <ItemImage id="ftbmaterials:electrum_ingot" />
   ### <Color id="aqua">琥珀金</Color>
 </Row>
 
 1银+1金→2琥珀金.用于高级合金琥珀金路线和导电合金加工链.
 
-<RecipeFor id="electrum_ingot" />
+<Recipe id="ftb:unification/ftbic/alloy_smelting/from_ingots/electrum" />
 
 <Row>
-  <ItemImage id="invar_ingot" />
+  <ItemImage id="ftbmaterials:invar_ingot" />
   ### <Color id="aqua">殷钢</Color>
 </Row>
 
 2铁+1镍→3殷钢.用于高级合金殷钢路线,也可充当耐热中间材料.
 
-<RecipeFor id="invar_ingot" />
+<Recipe id="ftb:unification/ftbic/alloy_smelting/from_ingots/invar" />
 
 <Row>
-  <ItemImage id="constantan_ingot" />
+  <ItemImage id="ftbmaterials:constantan_ingot" />
   ### <Color id="aqua">康铜</Color>
 </Row>
 
-1铜+1镍→2康铜.通用中间合金.
+通用中间合金. 合金炉没有康铜配方; 康铜锭可通过冶炼康铜粉, 或由粒和块转换得到.
 
-<RecipeFor id="constantan_ingot" />
+<RecipesFor id="ftbmaterials:constantan_ingot" fallbackText="No recipes found for constantan." />
 
 <ItemImage id="minecraft:air" scale="0.25"/>
 ***
@@ -169,11 +169,9 @@ item_ids:
   ### <Color id="aqua">末影锭</Color>
 </Row>
 
-仅可在<ItemLink id="alloy_smelter" />中制作:3铅+1钻石粉+2末影珍珠→2末影锭.没有有序合成路线.
+在<ItemLink id="alloy_smelter" />中制作: 1 个铅锭 + 1 个钻石 + 1 个末影珍珠 → 1 个末影合金锭. 没有有序合成配方.
 
-<Recipe id="ftbic:alloy_smelting/enderium_ingot" />
-
-<RecipesFor id="enderium_ingot" fallbackText="See the Alloy Smelter for the recipe." />
+<Recipe id="ftb:unification/ftbic/alloy_smelting/from_ingots/enderium" />
 
 <Row>
   <ItemImage id="enderium_block" />

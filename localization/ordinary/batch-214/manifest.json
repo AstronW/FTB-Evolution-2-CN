@@ -57,5 +57,16 @@
     "gui.structurify.structure_sets.placement_attempts.description"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "97c6d1f1f4f12789075b8bf793c0ff20a97e0210cfc089f9c7377c59345bfa6f",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/structurify-neoforge-2.0.43+mc26.1.2.jar",
+    "jar_sha256": "97c6d1f1f4f12789075b8bf793c0ff20a97e0210cfc089f9c7377c59345bfa6f",
+    "nested_jars": [],
+    "resource": "assets/structurify/lang/en_us.json",
+    "mod_ids": [
+      "structurify"
+    ],
+    "resource_sha256": "065a7eb5d660160512a41c03a8cc2d51f00d63778ba2d128351f5eb1846992c9"
+  }
 }

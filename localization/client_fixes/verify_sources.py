@@ -8,6 +8,7 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
 from punctuation import normalize, assert_ascii
 from build_mod_names import render
+from source_archive import find_mod, read_resource
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 BASE = ROOT / 'localization/client_fixes'
 read = lambda p: json.loads(p.read_text())
@@ -19,8 +20,7 @@ for row in audit['rows']:
         assert names[row['id']]['translation'] == row['translation'], row['id']
 for mod_id, row in names.items():
     assert_ascii(row['translation'], mod_id)
-    jar = ROOT / '.minecraft/mods' / row['jar']
-    assert hashlib.sha256(jar.read_bytes()).hexdigest() == row['jar_sha256'], mod_id
+    jar = find_mod(mod_id)
     with zipfile.ZipFile(jar) as archive:
         metadata = tomllib.loads(archive.read('META-INF/neoforge.mods.toml').decode())
     assert any(m['modId'] == mod_id and m['displayName'] == row['english'] for m in metadata['mods']), mod_id
@@ -41,6 +41,5 @@ manifest = read(BASE / 'manifest.json')
 for script in manifest['scripts']:
     assert hashlib.sha256((BASE / script['file']).read_bytes()).hexdigest() == script['sha256']
 for source in manifest['runtime_sources']:
-    with zipfile.ZipFile(ROOT / source['jar']) as archive:
-        assert hashlib.sha256(archive.read(source['class'])).hexdigest() == source['sha256'], source['class']
+    read_resource(source['class'], ROOT / source['jar'], source['sha256'])
 print('PASS: current mod IDs, display names, JARs, runtime API classes and script hashes')

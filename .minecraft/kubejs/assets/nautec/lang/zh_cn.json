@@ -1317,7 +1317,7 @@
   "nautec.jei.duration_ticks": "持续时间: %s",
   "nautec.jei.eas_infusion.hint": "在 EAS 源方块中浸泡 %s秒",
   "nautec.jei.growth": "生长: %s",
-  "nautec.jei.info.eas": "在搅拌机中用盐水制作 EAS. 将海蓝钢工具浸入 EAS 源方块 7.5 秒, 即可灌注并解锁能力; 此过程会消耗源方块. 一桶 EAS 与三个玻璃瓶可合成三瓶 EAS.",
+  "nautec.jei.info.eas": "在搅拌机中用盐水制作 EAS. 将海蓝钢工具浸入 EAS 源方块 7.5 秒, 即可灌注并解锁能力; 此过程会消耗源方块. 一桶 EAS 与三个玻璃试管可合成三瓶 EAS.",
   "nautec.jei.info.machine_parts": "这些远古机器部件可在箱子中找到, 也会由水下生物掉落. 找到水晶晶洞后, 你便能自行制作: 用纯度 2.5 的光束照射铸铁块制成齿轮, 在工作台制作阀门和搅拌器, 并在搅拌机制作烧坏的线圈与海蓝芯片.",
   "nautec.jei.info.prismarine_crystal_shard": "海棱水晶碎片是纯净的晶体, 拥有其他材料无法比拟的能量传导能力. 使用已启用能力的海蓝钢镐破坏海棱水晶即可获取.",
   "nautec.jei.items_per_minute.fresh": "新菌落: 每分钟 %s 至 %s",
@@ -1958,5 +1958,12 @@
   "nautec.wrench.link.tooltip.none": "连接起点: 未设置",
   "nautec.wrench.link.tooltip.start": "连接起点: %s",
   "nautec.wrench.mode.link": "连接",
-  "nautec.wrench.mode.link.desc": "先右击激光源, 再右击要供能的方块, 使二者互相对准. 右击空气可重新设置."
+  "nautec.wrench.mode.link.desc": "先右击激光源, 再右击要供能的方块, 使二者互相对准. 右击空气可重新设置.",
+  "bacteria.nautec.netheritophiles": "嗜下界合金菌",
+  "nautec.augmentation_station.status.wrong_part": "部件版本不符",
+  "nautec.augmentation_station.status.wrong_part.desc": "%s需要%s. 放入的部件虽然是同一种物品, 但版本不符. 请在 JEI 中查看该强化所需的部件.",
+  "nautec.augmentation_station.status.wrong_part.short": "此强化需要该部件的另一个版本",
+  "nautec.bio_reactor.rate": "菌落 %s: 每分钟 %s 个物品",
+  "nautec.bio_reactor.rate.total": "所有菌落: 每分钟 %s 个物品",
+  "nautec.distributor.count": "已连接: %s"
 }

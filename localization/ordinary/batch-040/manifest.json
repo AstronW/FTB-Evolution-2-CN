@@ -28,5 +28,16 @@
   "context_overrides": {},
   "unchanged_values": [
     "XyCraft"
-  ]
+  ],
+  "jar_sha256": "61e5e6cf498b3cbe8cde7a8748296918145b651d162c3be05a0d7e225a4c4937",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/xycraft-core-0.9.2.jar",
+    "jar_sha256": "61e5e6cf498b3cbe8cde7a8748296918145b651d162c3be05a0d7e225a4c4937",
+    "nested_jars": [],
+    "resource": "assets/xycraft_core/lang/en_us.json",
+    "mod_ids": [
+      "xycraft_core"
+    ],
+    "resource_sha256": "fadffc21c4177239a516b3de00850ba27cd56b8dfc5a3094f0f2e5f604c8d614"
+  }
 }

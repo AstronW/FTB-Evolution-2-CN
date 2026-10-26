@@ -1,7 +1,7 @@
 {
   "batch": "024",
   "namespace": "collapsible_groups",
-  "jar": ".minecraft/mods/collapsible_groups-neoforge-26.1.2-2.0.0-beta4.jar",
+  "jar": ".minecraft/mods/collapsible_groups-neoforge-26.1.2-2.0.0-beta4.1.jar",
   "language_path": "assets/collapsible_groups/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/collapsible_groups/lang/zh_cn.json",
   "include_keys": [
@@ -262,5 +262,16 @@
     "patch",
     "%s · %s",
     "%s (KubeJS)"
-  ]
+  ],
+  "jar_sha256": "3e52f7a95d0d8b8ababadc2fe1d7dec7c232faf3e8c5cecbd0f3584c62f501d6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/collapsible_groups-neoforge-26.1.2-2.0.0-beta4.1.jar",
+    "jar_sha256": "3e52f7a95d0d8b8ababadc2fe1d7dec7c232faf3e8c5cecbd0f3584c62f501d6",
+    "nested_jars": [],
+    "resource": "assets/collapsible_groups/lang/en_us.json",
+    "mod_ids": [
+      "collapsible_groups"
+    ],
+    "resource_sha256": "4019461b496cd7de96643c81933f486c0c02345f7319fa95185189857d006704"
+  }
 }

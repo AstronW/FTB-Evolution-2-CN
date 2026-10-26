@@ -51,11 +51,11 @@ item_ids:
 手持染料潜行右击培育仓, 可为其饰边重新着色.在其中培育的躯壳会在壳体选择仓中采用该颜色, 便于区分不同躯体.
 
 ***
-## <Color id="gold">零点躯壳构造器</Color>
+## <Color id="gold">零点壳体培育仓</Color>
 
 <Row>
   <ItemImage id="zero_point_shell_constructor"/>
-  ### <Color id="aqua">零点躯壳构造器</Color>
+  ### <Color id="aqua">零点壳体培育仓</Color>
 </Row>
 
 用下界之星升级培育仓.它无需供能, 并可瞬间完成躯壳.采样仍会消耗生命值.

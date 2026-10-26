@@ -5,6 +5,7 @@ navigation:
   title: 合成请求器
 categories:
   - device
+  - requires_controller
 description: starts an autocrafting job given a redstone signal
 item_ids:
 - nodeworks:craft_requester
@@ -14,6 +15,8 @@ item_ids:
 
 合成请求器收到红石信号时会发起自动合成任务.
 可配置要合成的物品和每批数量.
+
+> 需要<ItemLink id="network_controller" />才能使用
 
 <GameScene interactive={true} zoom="5" paddingLeft="40" paddingRight="40">
   <ImportStructure src="../assets/assemblies/craft_requester_door.snbt" />

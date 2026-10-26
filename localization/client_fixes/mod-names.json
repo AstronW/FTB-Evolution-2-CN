@@ -302,8 +302,8 @@
   "collapsible_groups": {
     "english": "Collapsible Groups",
     "translation": "可折叠分组",
-    "jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.jar",
-    "jar_sha256": "3837d8c6130e151a007ac0eec38f16320834312d0fa5254c8eb3f8e5bf838265",
+    "jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.1.jar",
+    "jar_sha256": "3e52f7a95d0d8b8ababadc2fe1d7dec7c232faf3e8c5cecbd0f3584c62f501d6",
     "source_evidence": {
       "kind": "project_output",
       "path": ".minecraft/resourcepacks/FTB-Evolution-2-CFPA-Reviewed-zh_CN/assets/collapsible_groups/lang/zh_cn.json",
@@ -434,8 +434,8 @@
   "dankstorage": {
     "english": "Dank Storage",
     "translation": "黑盒存储",
-    "jar": "dankstorage-neoforge-26.1.2-1.jar",
-    "jar_sha256": "b4252d4dbc49931244784e665dec84bc1444ce8feb58099bcf96b35f37fde673",
+    "jar": "dankstorage-neoforge-26.1.2-2.jar",
+    "jar_sha256": "43425188398e285b372f7977aa66945b15dc3bb35290d1df9e9698bc06cfdaef",
     "source_evidence": {
       "kind": "native",
       "path": "assets/dankstorage/lang/zh_cn.json",
@@ -814,20 +814,20 @@
   "hephaestus": {
     "english": "Hephaestus Forge",
     "translation": "匠神",
-    "jar": "hephaestus-neoforge-26.1.2-1.0.17.jar",
-    "jar_sha256": "84aad47a8490601ffe7e33ef0acffc689539e8ecf424f70538bfe0fc6e01de2f"
+    "jar": "hephaestus-neoforge-26.1.2-1.0.18.jar",
+    "jar_sha256": "5e674fac51271220e9f924d8345f4dbb3a2a99f4c63183cf2d712ff7cb492c6a"
   },
   "hephaestus_tools": {
     "english": "Hephaestus Tools",
     "translation": "匠神工具",
-    "jar": "hephaestus_tools-neoforge-26.1.2-1.0.8.jar",
-    "jar_sha256": "6f41198cf8eb8e2b415bcaa5a6be41fa6718a51132b7a94919373c861e3453ed"
+    "jar": "hephaestus_tools-neoforge-26.1.2-1.0.9.jar",
+    "jar_sha256": "b1c1b100291f725825ad416b945cb7ca512cc26af7cb1e2c50eac2226c793971"
   },
   "horsepowered": {
     "english": "Horse Powered",
     "translation": "马力",
-    "jar": "horsepowered-26.1.2-3.11.5.jar",
-    "jar_sha256": "1ddbe076bf2f909f559f91fc9e912d884cbfa35bd7afbbe4a297827b71a06aa4"
+    "jar": "horsepowered-26.1.2-3.11.6.jar",
+    "jar_sha256": "1549925a46cd9ab215fe71033e3358ebdf592d6ed30446d8bd2ba08b395a3234"
   },
   "hostilenetworks": {
     "english": "Hostile Neural Networks",
@@ -844,8 +844,8 @@
   "infinitystorage": {
     "english": "Infinity Storage",
     "translation": "无限存储",
-    "jar": "infinitystorage-26.1.2-2.0.2.jar",
-    "jar_sha256": "9be662d8d5696f32cd1e8d69d4d05973498fc421b1df934a57115297e916dc2e",
+    "jar": "infinitystorage-26.1.2-2.0.3.jar",
+    "jar_sha256": "f158958153f5e8417647804e45978e07612696f7fc4e98f515cdf705b285eceb",
     "source_evidence": {
       "kind": "project_output",
       "path": ".minecraft/kubejs/assets/infinitystorage/lang/zh_cn.json",
@@ -970,8 +970,8 @@
   "ltxi": {
     "english": "LTX Industries",
     "translation": "LTX工业",
-    "jar": "ltxi-26.1.2-2.4.0.jar",
-    "jar_sha256": "4043e3020f197820075245b1d05ec8e694286962114edebf67406ade1837473b"
+    "jar": "ltxi-26.1.2-2.4.1.jar",
+    "jar_sha256": "a4d19556df227fc5374714ee6535f755bb6c57341f9a996d1ef2f6e84045c91a"
   },
   "magnumtorch": {
     "english": "Magnum Torch",
@@ -990,8 +990,8 @@
   "malisisswitchesreborn": {
     "english": "Malisis Switches (Reborn)",
     "translation": "无线红石开关 (重制版)",
-    "jar": "malisisswitchesreborn-neoforge-26.1.2-1.0.9.jar",
-    "jar_sha256": "97d31d9ffe6b63b5b541cb2cea73352384f45669c927d4bb40c5b4f72829eac2",
+    "jar": "malisisswitchesreborn-neoforge-26.1.2-1.0.10.jar",
+    "jar_sha256": "369f19d7838d64938d8d63ed5a715fc8ba3b2e3f17c17be6f1f335cd47f91fc1",
     "source_evidence": {
       "kind": "project_output",
       "path": ".minecraft/kubejs/assets/malisisswitchesreborn/lang/zh_cn.json",
@@ -1242,8 +1242,8 @@
   "nautec": {
     "english": "NauTec 2",
     "translation": "海蓝科技",
-    "jar": "nautec-26.1.2-NeoForge-2.0.16.jar",
-    "jar_sha256": "3a5ff5658f5b08cddcd52cb8212e550f1f801d9be45036368ddc1be9bdb7312b"
+    "jar": "nautec-26.1.2-NeoForge-2.0.19.jar",
+    "jar_sha256": "9822be8ca107266ef87e7110227ad5c8bcb21f4d344ed1d3213372515e830e31"
   },
   "neosync": {
     "english": "NeoSync",
@@ -1256,8 +1256,8 @@
   "nutritional": {
     "english": "Nutritional",
     "translation": "营养均衡",
-    "jar": "nutritional-26.1.2-1.2.3.jar",
-    "jar_sha256": "be1a837f8c75cc342b10fc854b409061bede791be1b6706a86d367a4f7b62f3a"
+    "jar": "nutritional-26.1.2-1.2.4.jar",
+    "jar_sha256": "a1fdbfd58d71ff327107f713a90ca0e36422c76f9ebf6d4d2dc0d8f95838fabd"
   },
   "obsidianboat": {
     "english": "Obsidian Boat",
@@ -1458,8 +1458,8 @@
   "reliquary": {
     "english": "Reliquary Reincarnations",
     "translation": "圣遗物",
-    "jar": "reliquary-26.1.2-2.0.93.1581.jar",
-    "jar_sha256": "04e066ebd135eb0ad2245aa8770c74af9ee0c74a4050e7b7c19610f12c6eab68"
+    "jar": "reliquary-26.1.2-2.0.94.1582.jar",
+    "jar_sha256": "164c83d43121d14a687e6cb16fd9f756af779888fd00c9b4b3f70b72bb841b6f"
   },
   "resonance": {
     "english": "Resonance",
@@ -1504,8 +1504,8 @@
   "sophisticatedbackpacks": {
     "english": "Sophisticated Backpacks",
     "translation": "精妙背包",
-    "jar": "sophisticatedbackpacks-26.1.2-3.26.13.2207.jar",
-    "jar_sha256": "20b614486b0cec1c7f3185123c3c2cf063658c9167e415d129593e99fa8260b5",
+    "jar": "sophisticatedbackpacks-26.1.2-3.26.15.2224.jar",
+    "jar_sha256": "c5e8d7c7d71f77a93a31d09d2b0b54dd829f6cf19685af2b000abf51532058fa",
     "source_evidence": {
       "kind": "native",
       "path": "assets/sophisticatedbackpacks/lang/zh_cn.json",
@@ -1518,8 +1518,8 @@
   "sophisticatedcore": {
     "english": "Sophisticated Core",
     "translation": "精妙核心",
-    "jar": "sophisticatedcore-26.1.2-1.5.14.2409.jar",
-    "jar_sha256": "085e22084c3255cdae30af9d323cd845ec1ad83f9e9ac8a18d03276104eb9e2a",
+    "jar": "sophisticatedcore-26.1.2-1.5.18.2424.jar",
+    "jar_sha256": "dd6f9312e31cd59e30c90dc142ea5932d160d7113783ec3bf6c4649dfa64bc6a",
     "source_evidence": {
       "kind": "native",
       "path": "assets/sophisticatedcore/lang/zh_cn.json",
@@ -1546,8 +1546,8 @@
   "sophisticateditemactions": {
     "english": "Sophisticated Item Actions",
     "translation": "精妙物品操作(Sophisticated Item Actions)",
-    "jar": "sophisticateditemactions-26.1.2-0.4.17.432.jar",
-    "jar_sha256": "3388f2ecac2cbad2a5e007b69edb81c6a69fab2802161d77630d024c93be7532",
+    "jar": "sophisticateditemactions-26.1.2-0.4.18.439.jar",
+    "jar_sha256": "ebf6c540daecb9e8894be7701efc3849280dc992b70c05dc1ef724ebbc31a3e9",
     "source_evidence": {
       "kind": "native",
       "path": "assets/sophisticateditemactions/lang/zh_cn.json",
@@ -1560,8 +1560,8 @@
   "sophisticatedstorage": {
     "english": "Sophisticated Storage",
     "translation": "精妙存储",
-    "jar": "sophisticatedstorage-26.1.2-1.5.122.2185.jar",
-    "jar_sha256": "23795f0860eec5d67e9a235c1236edcddb47885559cb78ce58fb7952442d1b01"
+    "jar": "sophisticatedstorage-26.1.2-1.5.123.2190.jar",
+    "jar_sha256": "980cef1cb3c5d7304e533bfbd7166417fd9cfc585a0c988c8da90f3713aa2680"
   },
   "sophisticatedstorageinmotion": {
     "english": "Sophisticated Storage In Motion",
@@ -1594,14 +1594,14 @@
   "stellaris": {
     "english": "Stellaris",
     "translation": "群星",
-    "jar": "stellaris-26.1.2-neoforge-2.0.8.jar",
-    "jar_sha256": "7e3823046fc202db023a65a17032058e0ddeaa1a38dadf09e0c7d80f4a91d1ee"
+    "jar": "stellaris-26.1.2-neoforge-2.0.9.jar",
+    "jar_sha256": "e12a9a6ce1f99af06b2b97387af4b3b70056dadd6a5302c6e8de5b5c7ea8d83a"
   },
   "stepcrafter": {
     "english": "Step Crafter",
     "translation": "分步合成器",
-    "jar": "stepcrafter-neoforge-26.1.2-1.0.3.jar",
-    "jar_sha256": "78a5392cf562e75bf803937f6f41d28b51aba3c474e1c95f5aab5ec265abee30",
+    "jar": "stepcrafter-neoforge-26.1.2-1.0.4.jar",
+    "jar_sha256": "da60cc2dfdef0644ab5048f0c8d186a1a436308fda30f87d18ea645c1b55305a",
     "source_evidence": {
       "kind": "project_output",
       "path": ".minecraft/kubejs/assets/stepcrafter/lang/zh_cn.json",
@@ -1754,8 +1754,8 @@
   "witchery": {
     "english": "Witchery",
     "translation": "巫术",
-    "jar": "witchery-0.5.25+mc26.1.2.jar",
-    "jar_sha256": "41b1ff110420d8c5e5b90e89c215aae74cc40afa17da07f0bd8d8e0deec3c0ac"
+    "jar": "witchery-0.5.26+mc26.1.2.jar",
+    "jar_sha256": "a30c90e2b1c82b90ed021298fb533ad91cd30f3089212cd3726211c84b09ee94"
   },
   "witchery_forbidden_magic": {
     "english": "Witchery: Forbidden Magic",

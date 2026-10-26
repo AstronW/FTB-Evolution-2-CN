@@ -1,0 +1,14 @@
+{
+  "batch": "281",
+  "namespace": "euphoria_patcher",
+  "jar": ".minecraft/mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
+  "language_path": "assets/euphoria_patcher/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/euphoria_patcher/lang/zh_cn.json",
+  "include_keys": [
+    "euphoria_patcher.donation.line2.highlight"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Euphoria Patches"
+  ]
+}

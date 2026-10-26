@@ -7,6 +7,7 @@ from pathlib import Path
 import argparse, collections, copy, hashlib, io,json, re,zipfile
 from assess_1_4_remaining import scan_instance, GAME
 from cfpa_review_format import invariant_errors
+from source_archive import read_resource
 
 ROOT=Path(__file__).resolve().parent.parent
 BASE=ROOT/'localization/cfpa_review'
@@ -56,7 +57,11 @@ def compile_overlay():
     instance=read(GAME/'instance.json')
     assert instance['version']==VERSION==CONFIG['component_baselines']['cfpa_review'] and instance['mcVersion']=='26.1.2','Game version changed; reconcile the reviewed sources first'
     for source in read(BASE/'code-evidence/jar-manifest.json'):
-        assert digest(Path(source['jar']).read_bytes())==source['sha256'],'Code evidence JAR changed; review the correction again'
+        if 'resources' in source:
+            for resource in source['resources']:
+                read_resource(resource['path'], source['jar'], resource['sha256'])
+        else:
+            assert digest(Path(source['jar']).read_bytes())==source['sha256'],'Code evidence JAR changed; review the correction again'
     decisions=[]
     for name in LANG_FILES:decisions.extend(read(BASE/'decisions'/name))
     expected=[]
@@ -163,10 +168,12 @@ def compile_overlay():
         attribution.append('| '+' | '.join(str(x).replace('|','\\|') for x in [kind,author,version,sha,path])+' |')
         source=sources[sid]
         if source.get('kind')=='official_repaired' and source.get('license_file'):
-            jar=ROOT/source['path']
-            assert digest(jar.read_bytes())==source['jar_sha256'],'Native translation input changed'
-            with zipfile.ZipFile(jar) as archive:
-                outputs['licenses/ANIMAL-PEN-LICENSE.txt']=archive.read(source['license_file'])
+            binding=read(BASE/'native-source-bindings.json')['animal_pen']
+            for resource in binding['resources']:
+                raw,_=read_resource(resource['resource'], source['path'], resource['resource_sha256'], mod_id=binding['mod_id'])
+                if resource['resource']==source['license_file']:
+                    outputs['licenses/ANIMAL-PEN-LICENSE.txt']=raw
+            assert 'licenses/ANIMAL-PEN-LICENSE.txt' in outputs,'Native license binding missing'
             notices.append('Native Animal Pen entries retain the JAR-declared '+source['license']+'; see licenses/ANIMAL-PEN-LICENSE.txt. Per-entry sources are retained in the project decisions.')
     attribution.extend(['',*notices])
     outputs['ATTRIBUTION.md']=('\n'.join(attribution)+'\n').encode()

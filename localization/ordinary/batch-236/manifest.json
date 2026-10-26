@@ -73,5 +73,16 @@
     "ftbquests.reward.iska_lib.iska_currency.failed"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "c6728b686f3bf573927b228db354ab8f46ee826c67f4eb9babaec094ef68cc52",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/iska_lib-1.12.0.1.0-neoforge-26.1.2.jar",
+    "jar_sha256": "c6728b686f3bf573927b228db354ab8f46ee826c67f4eb9babaec094ef68cc52",
+    "nested_jars": [],
+    "resource": "assets/iska_lib/lang/en_us.json",
+    "mod_ids": [
+      "iska_lib"
+    ],
+    "resource_sha256": "15e5fcbcc1cba9cfcee76c8d0b2da5f8c04693a9b0a3da0f1780dc85635b444d"
+  }
 }

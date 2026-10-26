@@ -1,0 +1,22 @@
+{
+  "batch": "096",
+  "namespace": "integratedterminals",
+  "jar": ".minecraft/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+  "language_path": "assets/integratedterminals/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integratedterminals/lang/zh_cn.json",
+  "include_keys": [
+    "info_book.integratedterminals.storage_terminal.autocrafting.text5",
+    "info_book.integratedterminals.storage_terminal.ender_storage",
+    "info_book.integratedterminals.storage_terminal.ender_storage.text1",
+    "info_book.integratedterminals.storage_terminal.ender_storage.text2",
+    "info_book.integratedterminals.storage_terminal.ender_storage.text3",
+    "info_book.integratedterminals.storage_terminal.ender_storage.text4",
+    "info_book.integratedterminals.storage_terminal.ender_storage.text5",
+    "info_book.integratedterminals.tutorials.storage_terminal_ender",
+    "info_book.integratedterminals.tutorials.storage_terminal_ender.text1",
+    "info_book.integratedterminals.tutorials.storage_terminal_ender.text2",
+    "info_book.integratedterminals.tutorials.storage_terminal_ender.text3"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

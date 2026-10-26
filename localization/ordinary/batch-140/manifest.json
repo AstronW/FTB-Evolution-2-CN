@@ -1,7 +1,7 @@
 {
   "batch": "140",
   "namespace": "nutritional",
-  "jar": ".minecraft/mods/nutritional-26.1.2-1.2.3.jar",
+  "jar": ".minecraft/mods/nutritional-26.1.2-1.2.4.jar",
   "language_path": "assets/nutritional/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/nutritional/lang/zh_cn.json",
   "include_keys": [
@@ -85,5 +85,16 @@
   },
   "unchanged_values": [
     "%s.%s = %s"
-  ]
+  ],
+  "jar_sha256": "a1fdbfd58d71ff327107f713a90ca0e36422c76f9ebf6d4d2dc0d8f95838fabd",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nutritional-26.1.2-1.2.4.jar",
+    "jar_sha256": "a1fdbfd58d71ff327107f713a90ca0e36422c76f9ebf6d4d2dc0d8f95838fabd",
+    "nested_jars": [],
+    "resource": "assets/nutritional/lang/en_us.json",
+    "mod_ids": [
+      "nutritional"
+    ],
+    "resource_sha256": "f80099842e1db2f1afc48617a2a4b0dece6c916d2d864fa5d5e8e803ce246d58"
+  }
 }

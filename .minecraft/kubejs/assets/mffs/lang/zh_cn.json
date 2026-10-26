@@ -4,9 +4,14 @@
   "info.mffs.field_permission.warp_sneak": "穿行 (潜行)",
   "info.mffs.field_permission.warp_sneak.tooltip": "允许玩家潜行穿过并绕过力场.",
   "info.mffs.key.shift": "Shift",
-  "info.mffs.fortron_usage": "福特龙: %s L/s",
+  "info.mffs.fortron_usage": "福特朗: %s L/s",
   "item.mffs.reinforcement_module": "加固模块",
   "item.mffs.reinforcement_module.description": "使力场方块免疫凋灵",
   "screen.mffs.fortron.value": "%s L / %s L",
-  "screen.mffs.fortron_cost": "%s%s L/s"
+  "screen.mffs.fortron_cost": "%s%s L/s",
+  "info.mffs.cannot_harness": "无法从福特朗场中汲取 %s FE.",
+  "block.mffs.coercion_deriver": "福特朗衍生器",
+  "block.mffs.fortron_capacitor": "福特朗能量储存器",
+  "screen.mffs.frequency.tooltip": "具有相同频率的设备将共享福特朗能量.",
+  "screen.mffs.fortron.tooltip": "福特朗是MFFS设备中使用的力场能量类型."
 }

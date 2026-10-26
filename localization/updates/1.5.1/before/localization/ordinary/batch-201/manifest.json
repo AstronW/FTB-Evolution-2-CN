@@ -1,0 +1,15 @@
+{
+  "batch": "201",
+  "namespace": "craftingtweaks",
+  "jar": ".minecraft/mods/craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
+  "language_path": "assets/craftingtweaks/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/craftingtweaks/lang/zh_cn.json",
+  "include_keys": [
+    "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX",
+    "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX.tooltip",
+    "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY",
+    "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

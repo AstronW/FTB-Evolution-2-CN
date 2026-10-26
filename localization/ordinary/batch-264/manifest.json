@@ -13,5 +13,16 @@
   "context_overrides": {},
   "unchanged_values": [
     "%d%%"
-  ]
+  ],
+  "jar_sha256": "00e9681e7cf177aa158dfae46cfaff72d2d68e5ed64e95be4c7c36ee97fd0ed5",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar",
+    "jar_sha256": "00e9681e7cf177aa158dfae46cfaff72d2d68e5ed64e95be4c7c36ee97fd0ed5",
+    "nested_jars": [],
+    "resource": "assets/tesseract_api/lang/en_us.json",
+    "mod_ids": [
+      "tesseract_api"
+    ],
+    "resource_sha256": "40370ffa2cecbe16f502e1e02c7b82220d2a952169f8ffca402b6ffcc39bd399"
+  }
 }

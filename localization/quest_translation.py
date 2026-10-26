@@ -165,8 +165,16 @@ def main():
             dump(overlay,existing)
     names=read_json(WORK/'quest_item_names.json',{})
     if names:
-        with zipfile.ZipFile(ROOT/names['source_jar']) as archive:
-            name_source=json.loads(archive.read(names['language_file']))
+        if names.get('resource_binding'):
+            from source_archive import read_resource
+            binding=names['resource_binding']
+            raw,_=read_resource(names['language_file'], ROOT/names['source_jar'], binding['resource_sha256'],
+                                mod_id=next(iter(binding['mod_ids']),None),
+                                nested_paths=[r['path'] for r in binding['nested_jars']])
+            name_source=json.loads(raw)
+        else:
+            with zipfile.ZipFile(ROOT/names['source_jar']) as archive:
+                name_source=json.loads(archive.read(names['language_file']))
         for k,entry in names['entries'].items():
             assert_ascii(entry['zh'], k)
             if name_source.get(k)!=entry['en']:raise ValueError(f'Quest-name source changed: {k}')

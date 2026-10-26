@@ -1,0 +1,16 @@
+{
+  "batch": "172",
+  "namespace": "apothic_spawners",
+  "jar": ".minecraft/mods/ApothicSpawners-26.1.2-2.0.1.jar",
+  "language_path": "assets/apothic_spawners/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/apothic_spawners/lang/zh_cn.json",
+  "include_keys": [
+    "misc.apothic_spawners.concat",
+    "misc.apothic_spawners.value_concat"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s %s",
+    "%s: %s"
+  ]
+}

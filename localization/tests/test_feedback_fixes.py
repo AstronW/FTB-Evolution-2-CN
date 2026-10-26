@@ -55,3 +55,15 @@ class FeedbackFixes(unittest.TestCase):
         self.assertFalse(any(name.startswith('mods/') for name in extras))
 
 if __name__=='__main__':unittest.main()
+
+class FeedbackSourceIdentityTests(unittest.TestCase):
+    def test_archive_version_only_is_provenance_but_resource_drift_is_checked(self):
+        from feedback_fixes import checked_manifest
+        old = {'resource_inputs': {'assets/example/book.json': 'reviewed'},
+               'archive_provenance': {'mods/example-v1.jar': 'old'}}
+        renamed = {'resource_inputs': {'assets/example/book.json': 'reviewed'},
+                   'archive_provenance': {'mods/example-v2.jar': 'new'}}
+        changed = {'resource_inputs': {'assets/example/book.json': 'changed'},
+                   'archive_provenance': {'mods/example-v2.jar': 'new'}}
+        self.assertEqual(checked_manifest(old), checked_manifest(renamed))
+        self.assertNotEqual(checked_manifest(old), checked_manifest(changed))

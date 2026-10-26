@@ -14,5 +14,17 @@
     "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.mixed"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+    "nested_jars": [],
+    "resource": "assets/integratedterminalscompat/lang/en_us.json",
+    "mod_ids": [
+      "integratedterminals",
+      "integratedterminalscompat"
+    ],
+    "resource_sha256": "73988d7c8e351111b2af252dd75965ec69196052a21e903a52f72f923d45bb3a"
+  }
 }

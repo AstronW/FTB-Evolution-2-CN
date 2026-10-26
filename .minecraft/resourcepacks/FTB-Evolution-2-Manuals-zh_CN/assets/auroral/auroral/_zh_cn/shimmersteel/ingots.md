@@ -72,7 +72,7 @@ navigation:
   ## <Color id="gold">用途</Color>
 </Column>
 
-微光钢锭可通过锻造台升级铁制装备. 你需要一个**微光钢升级模板**才能进行升级.
+微光钢锭可通过锻造台升级铁制装备. 你需要一个**微光钢升级锻造模板**才能进行升级.
 
 * <ItemImage id="shimmersteel_pickaxe" scale="0.75"/> [微光钢工具](tools.md) - 镐, 斧, 锹, 锄, 剑
 * <ItemImage id="shimmersteel_bow" scale="0.75"/> [微光钢弓](bow.md) - 用雪球发射星弹

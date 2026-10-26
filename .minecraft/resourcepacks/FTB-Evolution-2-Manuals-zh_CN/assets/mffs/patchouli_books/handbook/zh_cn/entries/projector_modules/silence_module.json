@@ -7,7 +7,7 @@
       "type": "patchouli:spotlight",
       "item": "mffs:silence_module",
       "link_recipe": true,
-      "text": "$(5)静音模块$()可以放入$(l:mffs:machines/projector)力场投射器$()的矩阵槽位, 消除其工作音效."
+      "text": "$(5)静音模块$()可以放入$(l:mffs:machines/projector)力场投影仪$()的矩阵槽位, 消除其工作音效."
     },
     {
       "type": "patchouli:crafting",

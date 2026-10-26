@@ -1,0 +1,18 @@
+{
+  "batch": "169",
+  "namespace": "goblintraders",
+  "jar": ".minecraft/mods/goblintraders-neoforge-26.1.2-1.12.0.jar",
+  "language_path": "assets/goblintraders/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/goblintraders/lang/zh_cn.json",
+  "include_keys": [
+    "custom.goblintraders.mystery_map.lore",
+    "custom.goblintraders.durability_buff",
+    "custom.goblintraders.armor_buff",
+    "custom.goblintraders.knockback_reduction",
+    "custom.goblintraders.extended_range",
+    "custom.goblintraders.increased_break_speed",
+    "custom.goblintraders.more_damage"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

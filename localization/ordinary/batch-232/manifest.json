@@ -139,5 +139,16 @@
     "rgp_client.early_access_no_access"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "8d0cf1a4ce4c0eb8f4f821d9a0816b103a6f3777ca7cd14d1deb09e1d7db032a",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/rgp-client-2.1.2+mc26.1.2-neoforge.jar",
+    "jar_sha256": "8d0cf1a4ce4c0eb8f4f821d9a0816b103a6f3777ca7cd14d1deb09e1d7db032a",
+    "nested_jars": [],
+    "resource": "assets/rgp_client/lang/en_us.json",
+    "mod_ids": [
+      "rgp_client"
+    ],
+    "resource_sha256": "663e8a09d09e830d4b604ffe168706fd94cab858c0e0abafcefa10f8a94cb7aa"
+  }
 }

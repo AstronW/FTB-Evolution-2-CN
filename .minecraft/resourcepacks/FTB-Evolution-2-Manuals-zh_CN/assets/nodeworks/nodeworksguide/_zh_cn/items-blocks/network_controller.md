@@ -12,8 +12,7 @@ item_ids:
 
 # <a name="network-controller" /> 网络控制器
 
-每个Nodeworks网络必须恰好有一个控制器. 没有控制器时,
-与其相连的[管道](pipe.md)和[节点](node.md)都会保持休眠.
+任何需要自动合成 CPU 或脚本功能的 Nodeworks 网络, 都必须有 **且仅有一个控制器** .
 
 <GameScene interactive={true} zoom="5">
   <IsometricCamera yaw="200" pitch="10" />
@@ -22,6 +21,10 @@ item_ids:
 
 放下控制器并从它引出管道, 连接到这些
 管道的方块便会加入网络.
+
+## <a name="what-requires-a-controller" /> <a name="what-requires-a-controller?" /> 哪些功能需要控制器?
+
+<CategoryIndexDescriptions category="requires_controller" />
 
 ## <a name="Identity" /> <a name="identity" /> 网络标识
 

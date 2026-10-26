@@ -3,7 +3,7 @@
   "gui.pylons.fluxData": "已存 %d/%d RF",
   "gui.pylons.protectedMobsAndBlocks": "添加要保护的生物或方块:",
   "item.pylons.block_filter": "方块过滤器",
-  "pylons.int.jei.category.protection_pylon": "阻止塔主在所选区块范围 (1x1 至 5x5 区块) 内破坏方块或杀死生物.\n添加生物过滤器与方块过滤器以指定要保护的生物与方块.\n\n可通过红石自动开关.\n",
+  "pylons.int.jei.category.protection_pylon": "阻止塔主在所选区块范围 (1x1 至 5x5 区块) 内破坏方块或杀死生物.\n添加生物过滤卡与方块过滤器以指定要保护的生物与方块.\n\n可通过红石自动开关.\n",
   "tooltip.pylons.effect_banned": "该效果已被标签禁用.",
   "tooltip.pylons.no_block": "右键点击方块以选中它.",
   "tooltip.pylons.protection": "用于保护塔.",

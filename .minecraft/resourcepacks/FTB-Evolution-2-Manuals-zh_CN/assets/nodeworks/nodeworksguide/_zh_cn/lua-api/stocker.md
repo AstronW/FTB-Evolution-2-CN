@@ -112,22 +112,32 @@ StockerBuilder:keep(amount: number): StockerBuilder
 
 ### <a name="filter" /> filter
 
+指定哪些物品计入`:keep(n)`, 以及`:from`取出什么. 省略则计入任意物品.
+可传入多个规则, 多次调用, 或提供一个表.
+不带参数调用会清空规则. **`:ensure`和`:craft`会自动设置
+规则**, 因此只有使用`:from`时才需要手动指定.
+
 <LuaCode>
 ```lua
-StockerBuilder:filter(pattern: string): StockerBuilder
+stocker
+  :from("buffer")
+  :filter("$item:arrow")
+  :to("dispenser")
+  :keep(64)
+  :start()
 ```
 </LuaCode>
 
-限制目标中哪些物品计入`:keep(n)`. 默认
-`*`匹配任意物品. 从混合来源拉取时, 若只想维持
-某一种物品, 可设置此过滤器. **`:ensure`和`:craft`会根据
-其物品ID自动设置过滤器**, 因此只有使用其他来源时才需`:filter`,
-`:from`.
+### <a name="except" /> except
+
+指定不计入数量且不取出的物品, 即使`:filter`会接受它们.
 
 <LuaCode>
 ```lua
+-- 一组箭, 但不要药箭
 stocker:from("buffer")
-  :filter("$item:arrow")
+  :filter("#minecraft:arrows")
+  :except("minecraft:tipped_arrow")
   :to("dispenser")
   :keep(64)
   :start()

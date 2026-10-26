@@ -1,0 +1,10 @@
+{
+  "cfpa_commit": "719672954d9df4ea51877e3d5ce2912148273682",
+  "search_scope": [
+    "CFPA/projects/assets (all versions)",
+    "localization/reports/cfpa-pr-audit/files (pinned PR cache)"
+  ],
+  "exact_key_hits": 0,
+  "candidate_keys": 45,
+  "reason": "No exact current-key candidate found across local pinned CFPA versions and fixed PR snapshots. New terminology follows current project/manual terms; native Chinese reused separately."
+}

@@ -17,5 +17,16 @@
     "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.description"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "9466a3992f0f27cc1faf0f560c260e1e5741d27977fe4f032ac7079f15f7a01b",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/interdimensionalwirelesstransmitter-neoforge-26.1.2-1.0.1.jar",
+    "jar_sha256": "9466a3992f0f27cc1faf0f560c260e1e5741d27977fe4f032ac7079f15f7a01b",
+    "nested_jars": [],
+    "resource": "assets/interdimensionalwirelesstransmitter/lang/en_us.json",
+    "mod_ids": [
+      "interdimensionalwirelesstransmitter"
+    ],
+    "resource_sha256": "9f766ecb36ed67d014bbff30741bd8ea3c9e1aaea901de0d43b6ba6c771bee18"
+  }
 }

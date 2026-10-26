@@ -15,5 +15,16 @@
     "command.puffish_skills.level.get.success"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "ff23330c554f65e3fd9cf348e4f1b7893dc2c9430c40cb6dbf95599728804a55",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/puffish_skills-0.19.2-26.1-neoforge.jar",
+    "jar_sha256": "ff23330c554f65e3fd9cf348e4f1b7893dc2c9430c40cb6dbf95599728804a55",
+    "nested_jars": [],
+    "resource": "assets/puffish_skills/lang/en_us.json",
+    "mod_ids": [
+      "puffish_skills"
+    ],
+    "resource_sha256": "d9bea9c2d19f70a3d2d4f22352903e062c4d7b188d024a59be47901117792449"
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "batch": "123",
+  "namespace": "moreoverlays",
+  "jar": ".minecraft/mods/moreoverlays-1.24.4-mc26.1.2-neoforge.jar",
+  "language_path": "assets/moreoverlays/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/moreoverlays/lang/zh_cn.json",
+  "include_keys": [
+    "config.moreoverlays.lightoverlay.spawn_numbers",
+    "config.moreoverlays.lightoverlay.update_interval_frames",
+    "config.moreoverlays.rendersettings.chunk_line_thick",
+    "config.moreoverlays.rendersettings.spawn_number_scale",
+    "config.moreoverlays.rendersettings.spawn_safe_color"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

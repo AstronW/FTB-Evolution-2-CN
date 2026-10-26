@@ -3,7 +3,7 @@
 ## 项目入口与版本
 
 - 开始工作先读 `project.json`, `README.md` 和 `localization/STYLE.md`. 当前游戏目录从 `project.json` 的 `target_instance` 读取, 不在脚本中另写固定路径. `source_instance` 与 `.minecraft/mods` 的输入也应对应当前目标实例, 不继续读取旧 Prism 实例; 历史版本证据与当前输入分开维护.
-- `.minecraft/` 是翻译工作副本, 不是实际游戏目录. 目标整合包为 1.4.0; 各组件当前基线见 `project.json` 的 `component_baselines`, 不从早期报告推断当前状态. 首次了解版本迁移时读 `localization/reports/update-1.4.0-assessment.md` 和 `localization/reports/quests-1.4.0.md`, 其中阶段状态属于历史记录. 旧版检查通过不代表新版适配完成.
+- `.minecraft/` 是翻译工作副本, 不是实际游戏目录. 当前目标整合包版本见 `project.json` (本次已适配 1.5.1); 各组件当前基线见 `project.json` 的 `component_baselines`, 不从早期报告推断当前状态. 首次了解版本迁移时读 `localization/reports/update-1.4.0-assessment.md` 和 `localization/reports/quests-1.4.0.md`, 其中阶段状态属于历史记录. 旧版检查通过不代表新版适配完成.
 - 新任务先核对实际游戏版本、模组 JAR、整合包资源覆盖和英文源. 原文变化后先审阅差异, 再更新译文及源清单; 不盲用旧片段编号、行号或强行替换源哈希.
 
 ## 本地依赖与仓库边界
@@ -12,7 +12,7 @@
 - `source_instance`、`target_instance` 以及下述外部输入用于源文维护、各阶段重建、完整检查或脚本安装. 不要求仅获取汉化包的用户配置这些内容.
 - 首次准备环境时, 按本机位置调整 `project.json` 的实例路径, 核对实际游戏版本和模组输入. `.minecraft/mods` 应链接到当前目标实例的 `mods/`; `.minecraft/quest-inputs/` 中 Companion JAR 的本地链接须与源清单对应. JAR 不随仓库提交, 不用旧实例依赖掩盖缺失输入.
 - 重新生成 CFPA 覆盖前, 准备 `CFPA/` 本地检出并核对 `project.json` 与 `localization/vendor/cfpa/clone.json` 的固定提交. CFPA 原始资源与本地覆盖分别维护. `localization/fetch_cfpa.py` 是获取历史发布资源的辅助工具, 不是使用本地检出的前置步骤; 不要求安装 I18nUpdateMod.
-- 第 117 批需要从当前目标实例的父 JAR 提取只读嵌套依赖, 具体来源见 `localization/vendor/jar-in-jar/README.md`. 先核对父 JAR 与批次英文源, 再准备该输入.
+- 第 117 批直接按当前父模组身份读取只读嵌套资源, 不要求提取 JAR 副本; 历史提取来源见 `localization/vendor/jar-in-jar/README.md`. 先核对父 JAR 与批次英文源, 再准备该输入.
 - 完整静态检查除 Python 3 外还需 Java、Node.js 和 GuideME 解析依赖 Gson、Guava、SLF4J. 部分原生解析脚本仍引用本机 Prism libraries 路径; 在新环境先检查并适配路径, 不把缺失依赖当作译文失败, 也不跳过检查后声称全量通过.
 - `.minecraft/options.txt` 仅是历史工作副本的资源包选择快照, 部分检查读取它; 不将它复制到实际游戏目录. 安装启用由 `release_pack.py install --enable` 按目标实例处理.
 - Git 提交保留可维护译文、工具、源文快照、审校证据与工作副本中的文本资源. 排除模组 JAR、CFPA 克隆、下载压缩包、`dist/`、Node 依赖、验证缓存与本地助手状态; 具体规则见 `.gitignore`. 保留第三方署名与许可, 入口见 `THIRD_PARTY_NOTICES.md`.
@@ -28,7 +28,7 @@
 
 在依赖准备完毕后, 于项目根目录执行 `python project.py info` 核对实例和组件基线, `python project.py check` 运行全量静态检查. 发布工具的 `plan`、`build`、`check` 分别列出清单、打包和校验; 常规 `check` 会在本地安装记录存在时一并核对已安装文件. 用户的一键打包仅检查发布产物, 与完整源文检查分开报告.
 
-使用 `python localization/release_pack.py install --enable` 前, 核对 `project.json` 的 `target_instance` 指向实际 1.4.0 实例. 脚本按清单安装并备份被覆盖文件, 同时启用资源包. 使用 `python localization/release_pack.py revert` 按安装记录还原. 保留 `dist/` 中的本地安装记录及实例备份目录; 不将这些本地状态提交到仓库.
+使用 `python localization/release_pack.py install --enable` 前, 核对 `project.json` 的 `target_instance` 指向与当前项目目标版本一致的实际实例. 脚本按清单安装并备份被覆盖文件, 同时启用资源包. 使用 `python localization/release_pack.py revert` 按安装记录还原. 保留 `dist/` 中的本地安装记录及实例备份目录; 不将这些本地状态提交到仓库.
 
 ## 翻译范围
 
@@ -56,6 +56,7 @@
 - 优先查官方中文和 CFPA. 本项目所称 CFPA 参考来源包括仓库已合并译文、尚未合并 PR 中的译文, 以及不同 Minecraft/模组版本的译文; 不因版本不同或 PR 未合并就跳过检索. 复用前均核对当前有效英文源、语言键与上下文. “文件里有中文”不等于准确或适配当前版本.
 - 跨版本复用按条目判断: 原文和含义一致时可复用; 语言键改名但对应概念可确认时记录映射; 原文、机制或上下文变化时只参考旧译并适配当前版本. 不整文件覆盖, 不带入旧版数值、已删除内容或失效结构. 手册另核对页面 ID、链接、组件语法和所述机制. 同时记录来源版本与目标版本.
 - 官方中文与 CFPA 冲突时不设机械优先级. 依次比较: 当前版本及整合包实际含义是否匹配, 译义与技术概念是否准确, 是否符合模组已有术语体系, 游戏中是否易于辨认和理解. 两者都不合适时允许人工修订, 并记录理由.
+- 本项目自行翻译的任务书与手册可信度低于游戏内物品译名, 除非该内容经过大量翻译与校对. 说明文本中的物品、方块、实体、流体和效果名以游戏当前显示名称为准; 合理例外登记于 `localization/glossary/name-audit-exceptions.json`, 由 `python localization/audit_item_names.py` 检查.
 - 整合包改写内容以有效覆盖后的英文源为依据. 已有项目人工裁决需复核其证据, 不因上游更新自动覆盖; 发现旧裁决错误则有依据地修正.
 - 术语裁决后同步游戏名称、任务书、手册和提示. 如需纠正当前加载的上游中文, 在本项目维护可追踪的覆盖, 不让手册采用新名称而游戏仍显示另一名称.
 - 未合并 CFPA PR 可作为候选来源, 规则见 `docs/research/cfpa-unmerged-pr.md`. 固定 PR 编号、作者、提交 SHA 和采用范围, 检查审查意见、原文、占位符及许可证. 不批量合并所有 PR, 不把未核验候选当作已批准术语.
@@ -63,7 +64,7 @@
 
 ## 术语维护
 
-- 开始翻译前先读 `localization/TERMINOLOGY.md` 及本阶段词表. 先确定本批共用术语, 再写正文; 新术语和冲突随批次记录, 不留到项目末尾统一返工.
+- 开始翻译前先读 `localization/TERMINOLOGY.md` 及本阶段词表, 用 `python localization/glossary.py lookup <词>` 查询规范术语库 `localization/glossary/glossary.json`; 新裁决登记到该库并通过 `glossary.py check`, 用法见 `localization/glossary/README.md`. 先确定本批共用术语, 再写正文; 新术语和冲突随批次记录, 不留到项目末尾统一返工.
 - 术语按模组/命名空间、资源 ID 或语言键、语义上下文识别. 同一概念使用一个规范译名; 同一英文在不同模组或语义中可采用不同译名, 不按英文字符串全局替换.
 - `localization/TERMINOLOGY.md` 保存跨范围裁决与来源. `localization/terms.json`、`localization/manuals/terms.json`、`localization/manuals/nodeworks-terms.json` 是现有各阶段词表, 保持其结构和用途, 不直接合并为通用替换字典.
 - 修改既定术语时, 查找所有受影响的词表、可维护译文和覆盖文件, 更新后重新构建并检查. 不只修改生成文件, 不把完整待译句子塞入术语或英文保留表以绕过翻译.
@@ -72,7 +73,7 @@
 
 - 保留资源 ID、语言键、任务 ID、命令、点击动作、链接、占位符、格式码、单位和有实际含义的数值. 不为汉化改变配方、任务逻辑、配置行为或存档. 原文勘误必须单独记录证据.
 - 自行编写或调整的中文译文使用英文半角标点, 详见 `localization/STYLE.md`. 上游原始文件不为此直接改写, 需要时在本地覆盖产物处理.
-- 按当前阶段阅读 `localization/README.md`、`localization/manuals/README.md`、`localization/custom/README.md` 或 `localization/ordinary/README.md`, 运行对应构建及检查. 全量静态检查入口为项目根目录的 `python project.py check`.
+- 按当前阶段阅读 `localization/README.md`、`localization/manuals/README.md`、`localization/custom/README.md` 或 `localization/ordinary/README.md`, 运行对应构建及检查. 全量静态检查入口为项目根目录的 `python project.py check`. 整合包版本不匹配时, 入口只报告一次源文适配需求, 不继续以旧输入运行各批次. JAR 资源按 `localization/source_archive.py` 中的模组身份, 资源路径和已审阅资源哈希定位; JAR 改名或其他无关内容变化不会使语言检查失败, 英文/相关 class 内容变化仍必须审阅. 发布版本维护于仓库内 `localization/release.json`, 不依赖本机实例路径.
 - 现有脚本及清单主要绑定旧版源文, 版本适配时先调整其适用范围再执行; 不关闭断言以获取通过结果. 未完成草稿单独列出, 不计入完成量.
 - 每阶段记录版本、覆盖范围、剩余项、合理英文保留、术语冲突及校验结果. 完成必须满足源文适配、范围覆盖、结构/格式检查及本阶段相关术语一致, 不以文件存在或含中文作为完成依据.
 - 静态通过与游戏内验收分别报告. 最终在目标实例检查资源优先级、物品名称、任务悬停、手册翻页/链接及排版; 未实际测试时明确记录, 不声称已验证.

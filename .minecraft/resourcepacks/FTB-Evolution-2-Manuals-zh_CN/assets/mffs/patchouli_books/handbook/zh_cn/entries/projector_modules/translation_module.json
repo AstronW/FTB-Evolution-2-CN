@@ -1,5 +1,5 @@
 {
-  "name": "平移模块",
+  "name": "位移模块",
   "icon": "mffs:translation_module",
   "category": "mffs:projector_modules",
   "pages": [
@@ -7,12 +7,12 @@
       "type": "patchouli:spotlight",
       "item": "mffs:translation_module",
       "link_recipe": true,
-      "text": "$(5)平移模块$()可以放入$(l:mffs:machines/projector)力场投射器$()的力场槽位, 平移所投射力场的位置.把$(5)平移模块$()放入对应一侧的力场槽位, 即可让力场朝该方向移动.每个模块使力场移动 1 格."
+      "text": "$(5)位移模块$()可以放入$(l:mffs:machines/projector)力场投影仪$()的力场槽位, 平移所投射力场的位置.把$(5)位移模块$()放入对应一侧的力场槽位, 即可让力场朝该方向移动.每个模块使力场移动 1 格."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mffs:translation_module",
-      "text": "合成$(5)平移模块$()."
+      "text": "合成$(5)位移模块$()."
     }
   ]
 }

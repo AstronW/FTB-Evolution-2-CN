@@ -7,7 +7,7 @@
       "type": "patchouli:spotlight",
       "item": "mffs:shock_module",
       "link_recipe": true,
-      "text": "把$(5)电击模块$()放入$(l:mffs:machines/projector)力场投射器$(), 力场便会带电.玩家或实体接触带电力场时会受到电击伤害.投射器中每增加一个$(5)电击模块$(), 对玩家或实体造成的伤害提高半颗心."
+      "text": "把$(5)电击模块$()放入$(l:mffs:machines/projector)力场投影仪$(), 力场便会带电.玩家或实体接触带电力场时会受到电击伤害.投影仪中每增加一个$(5)电击模块$(), 对玩家或实体造成的伤害提高半颗心."
     },
     {
       "type": "patchouli:crafting",

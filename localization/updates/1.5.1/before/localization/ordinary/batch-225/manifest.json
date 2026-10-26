@@ -1,0 +1,14 @@
+{
+  "batch": "225",
+  "namespace": "bettermineshafts",
+  "jar": ".minecraft/mods/YungsBetterMineshafts-26.1.2-NeoForge-6.1.1.jar",
+  "language_path": "assets/bettermineshafts/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/bettermineshafts/lang/zh_cn.json",
+  "include_keys": [
+    "Use /locate structure #bettermineshafts:better_mineshafts instead!",
+    "text.autoconfig.bettermineshafts-fabric-26_1.option.disableVanillaMineshafts",
+    "text.autoconfig.bettermineshafts-fabric-26_1.option.disableVanillaMineshafts.@Tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

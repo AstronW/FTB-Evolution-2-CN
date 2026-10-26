@@ -1,0 +1,19 @@
+{
+  "batch": "167",
+  "namespace": "puffish_skills",
+  "jar": ".minecraft/mods/puffish_skills-0.19.2-26.1-neoforge.jar",
+  "language_path": "assets/puffish_skills/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/puffish_skills/lang/zh_cn.json",
+  "include_keys": [
+    "text.puffish_skills.buy_point",
+    "tooltip.puffish_skills.cost",
+    "command.puffish_skills.no_level",
+    "command.puffish_skills.level.add.success.single",
+    "command.puffish_skills.level.add.success.multiple",
+    "command.puffish_skills.level.set.success.single",
+    "command.puffish_skills.level.set.success.multiple",
+    "command.puffish_skills.level.get.success"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

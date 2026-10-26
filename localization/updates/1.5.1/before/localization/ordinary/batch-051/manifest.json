@@ -1,0 +1,19 @@
+{
+  "batch": "051",
+  "namespace": "fusion",
+  "jar": ".minecraft/mods/fusion-1.3.16-neoforge-mc26.1.jar",
+  "language_path": "assets/fusion/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/fusion/lang/zh_cn.json",
+  "include_keys": [
+    "fusion.resource_packs.requires_newer_version",
+    "fusion.resource_packs.warning_screen.title",
+    "fusion.resource_packs.warning_screen.message",
+    "fusion.resource_packs.warning_screen.confirmation",
+    "fusion.resource_packs.warning_screen.current_version",
+    "fusion.resource_packs.warning_screen.required_version",
+    "fusion.resource_packs.warning_screen.cancel",
+    "fusion.resource_packs.warning_screen.confirm"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

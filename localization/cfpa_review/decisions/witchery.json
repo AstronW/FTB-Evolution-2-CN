@@ -6318,8 +6318,15 @@
       "chinese": "殊死一搏之酿"
     },
     "status": "accepted",
-    "chinese": "殊死一搏之酿",
-    "reason": "核对手册 book.witchery.guidebook.brewing.brew_of_last_stand.brew_of_last_stand.title 的标题/提示语义 \"Brew of Last Stand\" 与相邻同主题内容; \"殊死一搏之酿\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "背水一战之酿",
+    "reason": "核对手册 book.witchery.guidebook.brewing.brew_of_last_stand.brew_of_last_stand.title 的标题/提示语义 \"Brew of Last Stand\" 与相邻同主题内容; \"殊死一搏之酿\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "殊死一搏之酿",
+        "to": "背水一战之酿",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -6366,8 +6373,15 @@
       "chinese": "殊死一搏之酿"
     },
     "status": "accepted",
-    "chinese": "殊死一搏之酿",
-    "reason": "核对手册 book.witchery.guidebook.brewing.brew_of_last_stand.name 的标题/提示语义 \"Brew of Last Stand\" 与相邻同主题内容; \"殊死一搏之酿\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "背水一战之酿",
+    "reason": "核对手册 book.witchery.guidebook.brewing.brew_of_last_stand.name 的标题/提示语义 \"Brew of Last Stand\" 与相邻同主题内容; \"殊死一搏之酿\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "殊死一搏之酿",
+        "to": "背水一战之酿",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -7142,8 +7156,15 @@
       "chinese": "凋植之酿"
     },
     "status": "accepted",
-    "chinese": "凋植之酿",
-    "reason": "核对手册 book.witchery.guidebook.brewing.brew_of_verdant_foul.brew_of_verdant_foul.title 的标题/提示语义 \"Brew of Verdant Foul\" 与相邻同主题内容; \"凋植之酿\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "腐绿之酿",
+    "reason": "核对手册 book.witchery.guidebook.brewing.brew_of_verdant_foul.brew_of_verdant_foul.title 的标题/提示语义 \"Brew of Verdant Foul\" 与相邻同主题内容; \"凋植之酿\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "凋植之酿",
+        "to": "腐绿之酿",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -7190,8 +7211,15 @@
       "chinese": "凋植之酿"
     },
     "status": "accepted",
-    "chinese": "凋植之酿",
-    "reason": "核对手册 book.witchery.guidebook.brewing.brew_of_verdant_foul.name 的标题/提示语义 \"Brew of Verdant Foul\" 与相邻同主题内容; \"凋植之酿\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "腐绿之酿",
+    "reason": "核对手册 book.witchery.guidebook.brewing.brew_of_verdant_foul.name 的标题/提示语义 \"Brew of Verdant Foul\" 与相邻同主题内容; \"凋植之酿\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "凋植之酿",
+        "to": "腐绿之酿",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -8310,7 +8338,7 @@
       "chinese": "用于先知注魔仪式的油。能将聚会中的女巫召唤到金黄仪式圆环之中。"
     },
     "status": "accepted",
-    "chinese": "用于先知注魔仪式的油.能将巫师会中的女巫召唤到金黄仪式圆环之中.",
+    "chinese": "用于先知之石仪式的油.能将巫师会中的女巫召唤到金黄仪式圆环之中.",
     "reason": "逐句核对当前 book.witchery.guidebook.brewing.happenstance.happenstance.text 的药剂或器具的用途、投掷/饮用方式及原文限制; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -8322,6 +8350,11 @@
         "from": "用于先知注魔仪式的油。能将巫师会中的女巫召唤到金黄仪式圆环之中。",
         "to": "用于先知注魔仪式的油.能将巫师会中的女巫召唤到金黄仪式圆环之中.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "用于先知注魔仪式的油.能将巫师会中的女巫召唤到金黄仪式圆环之中.",
+        "to": "用于先知之石仪式的油.能将巫师会中的女巫召唤到金黄仪式圆环之中.",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
       }
     ]
   },
@@ -8758,8 +8791,15 @@
       "chinese": "神秘药膏"
     },
     "status": "accepted",
-    "chinese": "神秘药膏",
-    "reason": "核对手册 book.witchery.guidebook.brewing.mystic_ungent.mystic_ungent.title 的标题/提示语义 \"Mystic Ungent\" 与相邻同主题内容; \"神秘药膏\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "神秘软膏",
+    "reason": "核对手册 book.witchery.guidebook.brewing.mystic_ungent.mystic_ungent.title 的标题/提示语义 \"Mystic Ungent\" 与相邻同主题内容; \"神秘药膏\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "神秘药膏",
+        "to": "神秘软膏",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -8782,8 +8822,15 @@
       "chinese": "神秘药膏"
     },
     "status": "accepted",
-    "chinese": "神秘药膏",
-    "reason": "核对手册 book.witchery.guidebook.brewing.mystic_ungent.name 的标题/提示语义 \"Mystic Ungent\" 与相邻同主题内容; \"神秘药膏\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "神秘软膏",
+    "reason": "核对手册 book.witchery.guidebook.brewing.mystic_ungent.name 的标题/提示语义 \"Mystic Ungent\" 与相邻同主题内容; \"神秘药膏\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "神秘药膏",
+        "to": "神秘软膏",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -8854,8 +8901,15 @@
       "chinese": "符印墨水"
     },
     "status": "accepted",
-    "chinese": "符印墨水",
-    "reason": "核对手册 book.witchery.guidebook.brewing.palevine_ink.name 的标题/提示语义 \"Palevine Ink\" 与相邻同主题内容; \"符印墨水\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "苍白藤墨水",
+    "reason": "核对手册 book.witchery.guidebook.brewing.palevine_ink.name 的标题/提示语义 \"Palevine Ink\" 与相邻同主题内容; \"符印墨水\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "符印墨水",
+        "to": "苍白藤墨水",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -8909,8 +8963,15 @@
       "chinese": "符印墨水"
     },
     "status": "accepted",
-    "chinese": "符印墨水",
-    "reason": "核对手册 book.witchery.guidebook.brewing.palevine_ink.palevine_ink.title 的标题/提示语义 \"Palevine Ink\" 与相邻同主题内容; \"符印墨水\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "苍白藤墨水",
+    "reason": "核对手册 book.witchery.guidebook.brewing.palevine_ink.palevine_ink.title 的标题/提示语义 \"Palevine Ink\" 与相邻同主题内容; \"符印墨水\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "符印墨水",
+        "to": "苍白藤墨水",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -9606,8 +9667,15 @@
       "chinese": "盔甲守护娃娃"
     },
     "status": "accepted",
-    "chinese": "盔甲守护娃娃",
-    "reason": "核对手册 book.witchery.guidebook.general.armor_protection_poppet.armor_protection_poppet.title 的标题/提示语义 \"Armor Protection Poppet\" 与相邻同主题内容; \"盔甲守护娃娃\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "护甲守护娃娃",
+    "reason": "核对手册 book.witchery.guidebook.general.armor_protection_poppet.armor_protection_poppet.title 的标题/提示语义 \"Armor Protection Poppet\" 与相邻同主题内容; \"盔甲守护娃娃\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "盔甲守护娃娃",
+        "to": "护甲守护娃娃",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -9654,8 +9722,15 @@
       "chinese": "盔甲守护娃娃"
     },
     "status": "accepted",
-    "chinese": "盔甲守护娃娃",
-    "reason": "核对手册 book.witchery.guidebook.general.armor_protection_poppet.name 的标题/提示语义 \"Armor Protection Poppet\" 与相邻同主题内容; \"盔甲守护娃娃\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "护甲守护娃娃",
+    "reason": "核对手册 book.witchery.guidebook.general.armor_protection_poppet.name 的标题/提示语义 \"Armor Protection Poppet\" 与相邻同主题内容; \"盔甲守护娃娃\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "盔甲守护娃娃",
+        "to": "护甲守护娃娃",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -10742,13 +10817,18 @@
       "chinese": "长时间存在大量膜拜者会唤来莫哥和瓜哥。也可用下界之星或永恒触媒立即唤来它们。"
     },
     "status": "accepted",
-    "chinese": "长时间存在大量膜拜者会唤来莫哥和瓜哥.也可用下界之星或永恒触媒立即唤来它们.",
+    "chinese": "长时间存在大量膜拜者会唤来莫格和古尔格.也可用下界之星或永恒触媒立即唤来它们.",
     "reason": "逐句核对当前 book.witchery.guidebook.general.hobgoblin.general.hobgoblin.statue_of_hobgoblin_patron.text 的器具或生物的用途、材料、操作条件及原文限制; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
         "from": "长时间存在大量膜拜者会唤来莫哥和瓜哥。也可用下界之星或永恒触媒立即唤来它们。",
         "to": "长时间存在大量膜拜者会唤来莫哥和瓜哥.也可用下界之星或永恒触媒立即唤来它们.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "长时间存在大量膜拜者会唤来莫哥和瓜哥.也可用下界之星或永恒触媒立即唤来它们.",
+        "to": "长时间存在大量膜拜者会唤来莫格和古尔格.也可用下界之星或永恒触媒立即唤来它们.",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
       }
     ]
   },
@@ -10773,13 +10853,18 @@
       "chinese": "会出现在它们的家周围。携带有镐和食物时会开采妖金粉，所有石材和妖金粉都会被存放在采矿地附近的箱子里，或也可Shift右击它们以收取。"
     },
     "status": "accepted",
-    "chinese": "会出现在它们的家周围.携带有镐和食物时会开采妖金粉, 所有石材和妖金粉都会被存放在采矿地附近的箱子里, 或也可Shift右击它们以收取.",
+    "chinese": "会出现在它们的家周围.携带有镐和食物时会开采地精金属粉, 所有石材和地精金属粉都会被存放在采矿地附近的箱子里, 或也可Shift右击它们以收取.",
     "reason": "逐句核对当前 book.witchery.guidebook.general.hobgoblin.hobgoblin.text 的器具或生物的用途、材料、操作条件及原文限制; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
         "from": "会出现在它们的家周围。携带有镐和食物时会开采妖金粉，所有石材和妖金粉都会被存放在采矿地附近的箱子里，或也可Shift右击它们以收取。",
         "to": "会出现在它们的家周围.携带有镐和食物时会开采妖金粉, 所有石材和妖金粉都会被存放在采矿地附近的箱子里, 或也可Shift右击它们以收取.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "会出现在它们的家周围.携带有镐和食物时会开采妖金粉, 所有石材和妖金粉都会被存放在采矿地附近的箱子里, 或也可Shift右击它们以收取.",
+        "to": "会出现在它们的家周围.携带有镐和食物时会开采地精金属粉, 所有石材和地精金属粉都会被存放在采矿地附近的箱子里, 或也可Shift右击它们以收取.",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
       }
     ]
   },
@@ -10804,8 +10889,15 @@
       "chinese": "妖精"
     },
     "status": "accepted",
-    "chinese": "妖精",
-    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin.title 的标题/提示语义 \"Hobgoblin\" 与相邻同主题内容; \"妖精\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "地精",
+    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin.title 的标题/提示语义 \"Hobgoblin\" 与相邻同主题内容; \"妖精\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "妖精",
+        "to": "地精",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -10828,13 +10920,18 @@
       "chinese": "必须使用绑定仪式绑定。妖精会在塑像旁膜拜，给予所绑定玩家增益。少量妖精能给玩家补充注魔能量。数量较多时能增加魔符术网格并加快注魔充能。"
     },
     "status": "accepted",
-    "chinese": "必须使用绑定仪式绑定.妖精会在塑像旁膜拜, 给予所绑定玩家增益.少量妖精能给玩家补充注魔能量.数量较多时能增加魔符术网格并加快注魔充能.",
+    "chinese": "必须使用绑定仪式绑定.地精会在塑像旁膜拜, 给予所绑定玩家增益.少量地精能给玩家补充注魔能量.数量较多时能增加魔符术网格并加快注魔充能.",
     "reason": "逐句核对当前 book.witchery.guidebook.general.hobgoblin.hobgoblin_2.text 的器具或生物的用途、材料、操作条件及原文限制; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
         "from": "必须使用绑定仪式绑定。妖精会在塑像旁膜拜，给予所绑定玩家增益。少量妖精能给玩家补充注魔能量。数量较多时能增加魔符术网格并加快注魔充能。",
         "to": "必须使用绑定仪式绑定.妖精会在塑像旁膜拜, 给予所绑定玩家增益.少量妖精能给玩家补充注魔能量.数量较多时能增加魔符术网格并加快注魔充能.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "必须使用绑定仪式绑定.妖精会在塑像旁膜拜, 给予所绑定玩家增益.少量妖精能给玩家补充注魔能量.数量较多时能增加魔符术网格并加快注魔充能.",
+        "to": "必须使用绑定仪式绑定.地精会在塑像旁膜拜, 给予所绑定玩家增益.少量地精能给玩家补充注魔能量.数量较多时能增加魔符术网格并加快注魔充能.",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
       }
     ]
   },
@@ -10859,8 +10956,15 @@
       "chinese": "妖精庇护人"
     },
     "status": "accepted",
-    "chinese": "妖精庇护人",
-    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin_2.title 的标题/提示语义 \"Hobgoblin Patron\" 与相邻同主题内容; \"妖精庇护人\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "地精庇护人",
+    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin_2.title 的标题/提示语义 \"Hobgoblin Patron\" 与相邻同主题内容; \"妖精庇护人\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "妖精庇护人",
+        "to": "地精庇护人",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -10883,13 +10987,18 @@
       "chinese": "这把镐能大幅加快妖精的速度。因用材所致，这种镐可携带到精神世界中。"
     },
     "status": "accepted",
-    "chinese": "这把镐能大幅加快妖精的速度.因用材所致, 这种镐可携带到精神世界中.",
+    "chinese": "这把镐能大幅加快地精的速度.因用材所致, 这种镐可携带到精神世界中.",
     "reason": "逐句核对当前 book.witchery.guidebook.general.hobgoblin.hobgoblin_3.text 的器具或生物的用途、材料、操作条件及原文限制; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
         "from": "这把镐能大幅加快妖精的速度。因用材所致，这种镐可携带到精神世界中。",
         "to": "这把镐能大幅加快妖精的速度.因用材所致, 这种镐可携带到精神世界中.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "这把镐能大幅加快妖精的速度.因用材所致, 这种镐可携带到精神世界中.",
+        "to": "这把镐能大幅加快地精的速度.因用材所致, 这种镐可携带到精神世界中.",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
       }
     ]
   },
@@ -10914,8 +11023,15 @@
       "chinese": "妖金镐"
     },
     "status": "accepted",
-    "chinese": "妖金镐",
-    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin_3.title 的标题/提示语义 \"Koboldite Pickaxe\" 与相邻同主题内容; \"妖金镐\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "地精金属镐",
+    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin_3.title 的标题/提示语义 \"Koboldite Pickaxe\" 与相邻同主题内容; \"妖金镐\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "妖金镐",
+        "to": "地精金属镐",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -10938,13 +11054,18 @@
       "chinese": "给予2点护甲值，提供无限箭矢；这种箭能对空中的敌人造成额外伤害，还能造成缓慢效果。待在佩有瓜哥妖带的玩家旁还会给予抗性提升。"
     },
     "status": "accepted",
-    "chinese": "给予2点护甲值, 提供无限箭矢; 这种箭能对空中的敌人造成额外伤害, 还能造成缓慢效果.待在佩有瓜哥妖带的玩家旁还会给予抗性提升.",
+    "chinese": "给予2点护甲值, 提供无限箭矢; 这种箭能对空中的敌人造成额外伤害, 还能造成缓慢效果.待在佩有古尔格腰带的玩家旁还会给予抗性提升.",
     "reason": "逐句核对当前 book.witchery.guidebook.general.hobgoblin.hobgoblin_4.text 的器具或生物的用途、材料、操作条件及原文限制; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
         "from": "给予2点护甲值，提供无限箭矢；这种箭能对空中的敌人造成额外伤害，还能造成缓慢效果。待在佩有瓜哥妖带的玩家旁还会给予抗性提升。",
         "to": "给予2点护甲值, 提供无限箭矢; 这种箭能对空中的敌人造成额外伤害, 还能造成缓慢效果.待在佩有瓜哥妖带的玩家旁还会给予抗性提升.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "给予2点护甲值, 提供无限箭矢; 这种箭能对空中的敌人造成额外伤害, 还能造成缓慢效果.待在佩有瓜哥妖带的玩家旁还会给予抗性提升.",
+        "to": "给予2点护甲值, 提供无限箭矢; 这种箭能对空中的敌人造成额外伤害, 还能造成缓慢效果.待在佩有古尔格腰带的玩家旁还会给予抗性提升.",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
       }
     ]
   },
@@ -10969,8 +11090,15 @@
       "chinese": "莫哥箭囊"
     },
     "status": "accepted",
-    "chinese": "莫哥箭囊",
-    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin_4.title 的标题/提示语义 \"Mog's Quiver\" 与相邻同主题内容; \"莫哥箭囊\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "莫格箭袋",
+    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin_4.title 的标题/提示语义 \"Mog's Quiver\" 与相邻同主题内容; \"莫哥箭囊\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "莫哥箭囊",
+        "to": "莫格箭袋",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -10993,13 +11121,18 @@
       "chinese": "给予2点护甲值，空手可将敌人抛到空中。待在佩有莫哥箭囊的玩家旁还会给予抗性提升。"
     },
     "status": "accepted",
-    "chinese": "给予2点护甲值, 空手可将敌人抛到空中.待在佩有莫哥箭囊的玩家旁还会给予抗性提升.",
+    "chinese": "给予2点护甲值, 空手可将敌人抛到空中.待在佩有莫格箭袋的玩家旁还会给予抗性提升.",
     "reason": "逐句核对当前 book.witchery.guidebook.general.hobgoblin.hobgoblin_5.text 的器具或生物的用途、材料、操作条件及原文限制; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
         "from": "给予2点护甲值，空手可将敌人抛到空中。待在佩有莫哥箭囊的玩家旁还会给予抗性提升。",
         "to": "给予2点护甲值, 空手可将敌人抛到空中.待在佩有莫哥箭囊的玩家旁还会给予抗性提升.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "给予2点护甲值, 空手可将敌人抛到空中.待在佩有莫哥箭囊的玩家旁还会给予抗性提升.",
+        "to": "给予2点护甲值, 空手可将敌人抛到空中.待在佩有莫格箭袋的玩家旁还会给予抗性提升.",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
       }
     ]
   },
@@ -11024,8 +11157,15 @@
       "chinese": "瓜哥妖带"
     },
     "status": "accepted",
-    "chinese": "瓜哥妖带",
-    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin_5.title 的标题/提示语义 \"Gulg's Gurdle\" 与相邻同主题内容; \"瓜哥妖带\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "古尔格腰带",
+    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.hobgoblin_5.title 的标题/提示语义 \"Gulg's Gurdle\" 与相邻同主题内容; \"瓜哥妖带\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "瓜哥妖带",
+        "to": "古尔格腰带",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -11048,8 +11188,15 @@
       "chinese": "妖精"
     },
     "status": "accepted",
-    "chinese": "妖精",
-    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.name 的标题/提示语义 \"Hobgoblin\" 与相邻同主题内容; \"妖精\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "地精",
+    "reason": "核对手册 book.witchery.guidebook.general.hobgoblin.name 的标题/提示语义 \"Hobgoblin\" 与相邻同主题内容; \"妖精\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "妖精",
+        "to": "地精",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -13027,8 +13174,15 @@
       "chinese": "野荆棘"
     },
     "status": "accepted",
-    "chinese": "野荆棘",
-    "reason": "核对手册 book.witchery.guidebook.general.wild_bramble.name 的标题/提示语义 \"Wild Bramble\" 与相邻同主题内容; \"野荆棘\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "野生荆棘",
+    "reason": "核对手册 book.witchery.guidebook.general.wild_bramble.name 的标题/提示语义 \"Wild Bramble\" 与相邻同主题内容; \"野荆棘\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "野荆棘",
+        "to": "野生荆棘",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -13085,8 +13239,15 @@
       "chinese": "野荆棘"
     },
     "status": "accepted",
-    "chinese": "野荆棘",
-    "reason": "核对手册 book.witchery.guidebook.general.wild_bramble.wild_bramble.title 的标题/提示语义 \"Wild Bramble\" 与相邻同主题内容; \"野荆棘\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "chinese": "野生荆棘",
+    "reason": "核对手册 book.witchery.guidebook.general.wild_bramble.wild_bramble.title 的标题/提示语义 \"Wild Bramble\" 与相邻同主题内容; \"野荆棘\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "野荆棘",
+        "to": "野生荆棘",
+        "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+      }
+    ]
   },
   {
     "namespace": "witchery",

@@ -5,6 +5,7 @@ navigation:
   title: IO卡
 categories:
   - card
+  - requires_controller
 description: used for reading and writing an inventory/tank from scripts
 item_ids:
 - nodeworks:io_card
@@ -15,6 +16,8 @@ item_ids:
 IO卡允许网络按需读写相邻方块的
 物品栏. 安装IO卡后, 脚本可查询方块内的
 物品, 并向其中输入或取出物品与流体.
+
+> 要在脚本中使用 IO卡, 必须先有一个<ItemLink id="network_controller" />
 
 <ItemImage scale="6" id="io_card" />
 

@@ -1,0 +1,14 @@
+{
+  "batch": "058",
+  "namespace": "oritechthings",
+  "jar": ".minecraft/mods/oritechthings-0.1.7.jar",
+  "language_path": "assets/oritechthings/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/oritechthings/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.oritechthings"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Oritech Things"
+  ]
+}

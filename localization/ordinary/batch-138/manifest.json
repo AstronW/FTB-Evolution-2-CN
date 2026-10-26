@@ -91,5 +91,16 @@
   "context_overrides": {},
   "unchanged_values": [
     "%1$s / %2$s mB"
-  ]
+  ],
+  "jar_sha256": "bf77bb58fbbf186b290d3b01844254cf4791c067c75fdc160266eb5f1d977901",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mystianapiary-neoforge-1.10.jar",
+    "jar_sha256": "bf77bb58fbbf186b290d3b01844254cf4791c067c75fdc160266eb5f1d977901",
+    "nested_jars": [],
+    "resource": "assets/mystianapiary/lang/en_us.json",
+    "mod_ids": [
+      "mystianapiary"
+    ],
+    "resource_sha256": "af4c171816450ecf2f45787d58119ca024782291fadff21a4b5c5012905c0014"
+  }
 }

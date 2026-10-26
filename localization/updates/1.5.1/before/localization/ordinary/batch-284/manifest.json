@@ -1,0 +1,14 @@
+{
+  "batch": "284",
+  "namespace": "cyclopscore",
+  "jar": ".minecraft/mods/cyclopscore-26.1.2-neoforge-1.31.3.jar",
+  "language_path": "assets/cyclopscore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/cyclopscore/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.cyclopscore"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Cyclops Core"
+  ]
+}

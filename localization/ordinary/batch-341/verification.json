@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "341",
+  "namespace": "malisisswitchesreborn",
+  "source_keys": 8,
+  "unique_values": 8,
+  "chinese_values": 8,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 143,
+  "source_sha256": "f7d67cbc3c8125313996969fdfa1ba90b7413d2076857dde7738749e98cd39ac",
+  "in_game_tested": false
+}

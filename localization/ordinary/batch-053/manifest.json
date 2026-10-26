@@ -22,5 +22,16 @@
     "Ko-fi",
     "CurseForge",
     "Modrinth"
-  ]
+  ],
+  "jar_sha256": "a0c2d78808ad101d4e8c12945ce3b1465cad61296751be6bc2f86074c9480335",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MoogsTemplesReimagined-universal-1.21-2.0.4.jar",
+    "jar_sha256": "a0c2d78808ad101d4e8c12945ce3b1465cad61296751be6bc2f86074c9480335",
+    "nested_jars": [],
+    "resource": "assets/mtr/lang/en_us.json",
+    "mod_ids": [
+      "mtr"
+    ],
+    "resource_sha256": "ffe097b34a7a1e6f058cdfb1bf7bc9ca6f23fc6d21d044991ee1ef0a0dda91c4"
+  }
 }

@@ -1,0 +1,122 @@
+[
+  {
+    "file": "chapters/evilcraft.json5",
+    "segment": 10,
+    "source": "The &dPurifier&r allows you to remove &2Enchantments&r and &cCurses&r from items using blood.",
+    "translation": "&d净化器&r可以消耗血液, 移除物品上的&2附魔&r与&c诅咒&r."
+  },
+  {
+    "file": "chapters/evilcraft.json5",
+    "segment": 12,
+    "source": "To remove a &cCurse&r, you only need 1 bucket of blood and the cursed item; no &cBlook&r is needed. Each curse level removed uses 1 bucket. Curses on the &6Vengeance Pickaxe&r can't be removed.",
+    "translation": "要移除&c诅咒&r, 只需 1 桶血液和受诅咒的物品, 无需&c血之书&r. 每移除 1 级诅咒消耗 1 桶血液. &6复仇镐&r上的诅咒无法移除."
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 8,
+    "source": "Summit Acceptable Boots",
+    "translation": "高峰层级可接受的靴子"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 9,
+    "source": "Summit Acceptable Helmets",
+    "translation": "高峰层级可接受的头盔"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 68,
+    "source": "Most metal ingots will work, and you can search for &a#jewelry_band&r in JEI for the full list.",
+    "translation": "大多数金属锭都可以使用, 在 JEI 中搜索&a#jewelry_band&r可查看完整列表."
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 79,
+    "source": "Ascent Acceptable Boots",
+    "translation": "攀升层级可接受的靴子"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 93,
+    "source": "Summit Acceptable Leggings",
+    "translation": "高峰层级可接受的护腿"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 148,
+    "source": "Pinnacle Acceptable Leggings",
+    "translation": "顶点层级可接受的护腿"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 161,
+    "source": "Ascent Acceptable Helmets",
+    "translation": "攀升层级可接受的头盔"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 244,
+    "source": "Pinnacle Acceptable Boots",
+    "translation": "顶点层级可接受的靴子"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 325,
+    "source": "Ascent Acceptable Chestplates",
+    "translation": "攀升层级可接受的胸甲"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 333,
+    "source": "Ascent Acceptable Leggings",
+    "translation": "攀升层级可接受的护腿"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 384,
+    "source": "Pinnacle Acceptable Chestplates",
+    "translation": "顶点层级可接受的胸甲"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 388,
+    "source": "Summit Acceptable Chestplates",
+    "translation": "高峰层级可接受的胸甲"
+  },
+  {
+    "file": "chapters/gearing_up.json5",
+    "segment": 415,
+    "source": "Pinnacle Acceptable Helmets",
+    "translation": "顶点层级可接受的头盔"
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 15,
+    "source": "Craft a &aBuoyancy Tank&r. The Sea Scout's hull is built around one, along with a Prismatic Battery and an Eldritch Heart.",
+    "translation": "制作一个&a浮力罐&r. 海洋侦察艇的船体需要用它和海蓝电池, 邪能之心一起制作."
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 16,
+    "source": "For flight, charge a second tank in the &aFTB Fabricator&r with a Nether Star and 8 Phantom Membranes. The recipe opens once you have built the Skyline and killed the Wither and the Ender Dragon. The result is a glinting &dCharged Buoyancy Tank&r, and fitted in the Body slot it lets you fly the way you do in creative mode, in water or out of it.",
+    "translation": "要获得飞行能力, 请在&aFTB 制造机&r中, 用下界之星和 8 个幻翼膜为另一个浮力罐充能. 建造天际号并击杀凋灵和末影龙后, 才会解锁此配方. 得到的&d充能浮力罐&r带有附魔光效, 装入躯体槽后, 在水中或水外都能像创造模式一样飞行."
+  },
+  {
+    "file": "chapters/nautec.json5",
+    "segment": 17,
+    "source": "&eNote&r: the Augmentation Station will not install a plain tank. Load the charged one.",
+    "translation": "&e注意&r: 强化站不会安装普通浮力罐, 请放入充能后的版本."
+  },
+  {
+    "file": "chapters/oritech.json5",
+    "segment": 62,
+    "source": "&eNote&r: In this version the Magnetic Field does not help particles through turns. This is a bug in the mod, so hold off on building one until an update fixes it.",
+    "translation": "&e注意&r: 此版本的磁场无法帮助粒子转弯. 这是模组的缺陷, 请等待后续更新修复后再建造."
+  },
+  {
+    "file": "chapters/pyramid_challenge.json5",
+    "segment": 6,
+    "source": "&aRune Plates&r are made at a &2Cauldron&r, two per craft, make sure you have enough ritual power to craft it.",
+    "translation": "&a符文板&r在&2坩埚&r中制作, 每次得到两个. 请确保有足够的仪式能量."
+  }
+]

@@ -20,7 +20,7 @@
   ],
   "quest.59D1CB72B49F8A64.title": "&a不战而获龙鳞",
   "quest.7298DEADC14C0ECB.quest_desc": [
-    "龙骨箭的基础伤害为10,是普通箭的五倍, 值得为它消耗凋灵骨碎片.",
+    "龙骨箭的基础伤害为10,是普通箭的五倍, 值得为它消耗凋灵骨片.",
     "",
     "在龙靠近并向你喷吐前, 它是安全削弱龙的最佳手段."
   ],
@@ -89,7 +89,7 @@
     "&7&o除非队伍在领地设置中允许生物破坏, 否则野生龙无法破坏已认领区块内的方块.驯服的龙永远不会破坏方块."
   ],
   "quest.1EF208E4A6356FB2.quest_desc": [
-    "[\"潮卫盔甲需要海蟒鳞片, 以及击杀海马获得的\",{\"text\":\"闪亮的鳞片\",\"color\":\"green\"},\".探索章节的\",{\"text\":\"海蟒任务\",\"color\":\"aqua\",\"underlined\":true,\"click_event\":{\"action\":\"custom\",\"id\":\"ftbquests:link\",\"payload\":{\"quest_id\":\"269CA7E3614C0826\",\"page\":1}},\"hover_event\":{\"action\":\"show_text\",\"value\":{\"text\":\"前往任务\"}}},\"介绍了狩猎方法.\"]",
+    "[\"潮卫盔甲需要海蟒鳞片, 以及击杀海马获得的\",{\"text\":\"闪光鳞片\",\"color\":\"green\"},\".探索章节的\",{\"text\":\"海蟒任务\",\"color\":\"aqua\",\"underlined\":true,\"click_event\":{\"action\":\"custom\",\"id\":\"ftbquests:link\",\"payload\":{\"quest_id\":\"269CA7E3614C0826\",\"page\":1}},\"hover_event\":{\"action\":\"show_text\",\"value\":{\"text\":\"前往任务\"}}},\"介绍了狩猎方法.\"]",
     "",
     "穿齐整套会获得水下呼吸, 而在水中或雨中时, 每件还会进一步提高力量效果."
   ],
@@ -148,7 +148,7 @@
     "",
     "冻结后7,200刻(六分钟)孵化, 在此之前不要破坏方块."
   ],
-  "task.24661216C039A688.title": "任意龙鳞胸甲",
+  "task.24661216C039A688.title": "任意龙鳞胸铠",
   "quest.78871F87322B3441.title": "&6龙骨工具",
   "quest.74BC8197519FD53C.title": "&6龙钢盔甲",
   "quest.28BA1DC94EFADB96.title": "&6驯龙杖",

@@ -70,7 +70,7 @@ navigation:
   ## <Color id="gold">用途</Color>
 </Column>
 
-微光布可在锻造台升级铁制护甲. 你需要一个**微光钢升级模板**才能进行升级.
+微光布可在锻造台升级铁制护甲. 你需要一个**微光钢升级锻造模板**才能进行升级.
 
 * <ItemImage id="shimmerweave_goggles" scale="0.75"/> [微光护目镜](goggles.md) - 揭示隐藏的敌人
 * <ItemImage id="shimmerweave_tunic" scale="0.75"/> [微光外衣](tunic.md) - 火焰防护

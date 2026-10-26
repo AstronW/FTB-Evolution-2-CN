@@ -40,7 +40,7 @@
   "container.nodeworks.node_side": "节点, %s",
   "block.nodeworks.terminal": "脚本终端",
   "message.nodeworks.terminal_no_network": "终端未连接到节点网络.",
-  "message.nodeworks.terminal_controller_conflict": "网络没有控制器, 或多个控制器发生冲突.",
+  "message.nodeworks.terminal_controller_conflict": "此功能需要网络中有且仅有一个网络控制器.",
   "tooltip.nodeworks.missing_ingredients": "物品栏和网络中缺少原料",
   "message.nodeworks.terminal_in_use": "终端正由%s使用.",
   "tooltip.nodeworks.instruction_set.input": "输入:",
@@ -109,5 +109,9 @@
   "subtitle.nodeworks.grapple_beam.deactivate": "牵引光束: 释放",
   "key.category.nodeworks.nodeworks": "Nodeworks",
   "key.nodeworks.open_docs": "打开悬停目标的文档",
-  "key.nodeworks.open_portable_terminal": "打开便携式物品终端"
+  "key.nodeworks.open_portable_terminal": "打开便携式物品终端",
+  "block.nodeworks.multi_processing_handler": "多配方加工处理器",
+  "container.nodeworks.multi_processing_handler": "多配方加工处理器",
+  "container.nodeworks.transfer_card": "传输卡",
+  "item.nodeworks.transfer_card": "传输卡"
 }

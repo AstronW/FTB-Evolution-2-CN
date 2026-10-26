@@ -1,0 +1,14 @@
+{
+  "target_pack_version": "1.5.1",
+  "scope": "Pack 1.5.1 unarmed skill source correction",
+  "files": [],
+  "language_entries": [
+    {
+      "key": "skill.ftb.melee.unarmed_hub.description",
+      "en": "+3 Unarmed Damage. Opens the Brawler and Juggernaut paths.",
+      "zh": "+3 徒手伤害. 解锁格斗家与重装战士路线.",
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json"
+    }
+  ]
+}

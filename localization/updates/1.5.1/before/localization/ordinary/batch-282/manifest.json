@@ -1,0 +1,14 @@
+{
+  "batch": "282",
+  "namespace": "placebo",
+  "jar": ".minecraft/mods/Placebo-26.1.2-10.0.2.jar",
+  "language_path": "assets/placebo/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/placebo/lang/zh_cn.json",
+  "include_keys": [
+    "key.categories.placebo"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Placebo"
+  ]
+}

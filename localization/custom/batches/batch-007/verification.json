@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "batch": "batch-007",
+  "target_pack_version": "1.5.1",
+  "manifest_sha256": "1c06513e29ea6c95e4259c73975e307806dc124e5516e8c097aac590bb763356",
+  "source_files_verified": 0,
+  "translated_json_fields": 0,
+  "translated_language_keys": 5,
+  "reused_language_keys": 0,
+  "in_game_tested": false,
+  "verified_scripts": 0,
+  "installed_to_game": false
+}

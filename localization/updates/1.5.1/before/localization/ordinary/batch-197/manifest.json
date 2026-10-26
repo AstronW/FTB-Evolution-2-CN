@@ -1,0 +1,17 @@
+{
+  "batch": "197",
+  "namespace": "sophisticatedinventoryinteractions",
+  "jar": ".minecraft/mods/sophisticatedinventoryinteractions-26.1.2-0.1.18.228.jar",
+  "language_path": "assets/sophisticatedinventoryinteractions/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sophisticatedinventoryinteractions/lang/zh_cn.json",
+  "include_keys": [
+    "sophisticatedinventoryinteractions.configuration.compatibility",
+    "sophisticatedinventoryinteractions.configuration.defaultScreenPolicy",
+    "sophisticatedinventoryinteractions.configuration.minimumActionableContainerSlots",
+    "sophisticatedinventoryinteractions.configuration.exclude.screenClasses",
+    "sophisticatedinventoryinteractions.configuration.include.screenClasses",
+    "sophisticatedinventoryinteractions.configuration.slotExclusions.screenSlotOverrides"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

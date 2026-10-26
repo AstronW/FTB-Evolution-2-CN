@@ -30,5 +30,16 @@
     "augment.mysticalagriculture.haste_ii"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "f237f8b80852e75f8137e89dc5833f455b8af198536919f0e5f6f467633211ee",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MysticalAgriculture-26.1.2-9.0.10.jar",
+    "jar_sha256": "f237f8b80852e75f8137e89dc5833f455b8af198536919f0e5f6f467633211ee",
+    "nested_jars": [],
+    "resource": "assets/mysticalagriculture/lang/en_us.json",
+    "mod_ids": [
+      "mysticalagriculture"
+    ],
+    "resource_sha256": "90b4457bd23deaed843f76f5cd16b1e0f0120e1c3617e8d2125ac9486ac046ef"
+  }
 }

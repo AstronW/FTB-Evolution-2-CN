@@ -82,5 +82,16 @@
     "config.refinedtypes.option.essentiaStorageBlock.infiniteEssentiaUsage.tooltip"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "0c31b887d322183fdf15f167b7694ec492bdb63afd14b9887b7abfaab0ae70ef",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/refined-types-26.1.2-1.0.2.jar",
+    "jar_sha256": "0c31b887d322183fdf15f167b7694ec492bdb63afd14b9887b7abfaab0ae70ef",
+    "nested_jars": [],
+    "resource": "assets/refinedtypes/lang/en_us.json",
+    "mod_ids": [
+      "refinedtypes"
+    ],
+    "resource_sha256": "0cf95124934c9b9d44386544ed4a5c6dfca1c2ef699cb55c6f4e7a6c62612f53"
+  }
 }

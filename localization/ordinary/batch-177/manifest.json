@@ -90,5 +90,16 @@
     "Cobblemon",
     "Easy Model NPC",
     "- %1$s"
-  ]
+  ],
+  "jar_sha256": "cf8642777380183aeb66f6b15769b057fb6bb1b07b36c69025361e45dc1a16b8",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/easy_npc-neoforge-26.1.2-7.16.0.jar",
+    "jar_sha256": "cf8642777380183aeb66f6b15769b057fb6bb1b07b36c69025361e45dc1a16b8",
+    "nested_jars": [],
+    "resource": "assets/easy_npc/lang/en_us.json",
+    "mod_ids": [
+      "easy_npc"
+    ],
+    "resource_sha256": "44c57ac604617e51739ef201bef63bc38039b6a950453b691b90a8151d937fd4"
+  }
 }

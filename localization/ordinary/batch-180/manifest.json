@@ -57,5 +57,16 @@
     "weathergate.water_fog_start_distance.info"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "0a29e7641db305b171ee3b2ae201b33a64c0fcdfef17ce315d0ee1d07bf88e19",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/weathergate-neo-26.1.1.0+mc26.1.1.jar",
+    "jar_sha256": "0a29e7641db305b171ee3b2ae201b33a64c0fcdfef17ce315d0ee1d07bf88e19",
+    "nested_jars": [],
+    "resource": "assets/weathergate/lang/en_us.json",
+    "mod_ids": [
+      "weathergate"
+    ],
+    "resource_sha256": "a2e1aa5971d69f21b5f488cc695e787e98251119bfefb3abfd701294dd8276f6"
+  }
 }

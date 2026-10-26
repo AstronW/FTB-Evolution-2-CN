@@ -1,0 +1,20 @@
+{
+  "batch": "199",
+  "namespace": "trashcans",
+  "jar": ".minecraft/mods/trashcans-1.1.1a-neoforge-mc26.1.jar",
+  "language_path": "assets/trashcans/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/trashcans/lang/zh_cn.json",
+  "include_keys": [
+    "trashcans.gui.item_trash_can.deleted_items.show",
+    "trashcans.gui.item_trash_can.deleted_items.hide",
+    "trashcans.gui.energy_trash_can.limit.change1",
+    "trashcans.gui.energy_trash_can.limit.change2",
+    "trashcans.gui.energy_trash_can.limit.change3"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "SHIFT %s",
+    "CTRL %s",
+    "CTRL & SHIFT %s"
+  ]
+}

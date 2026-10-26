@@ -972,5 +972,9 @@
   "painting.stellaris.proxima_centaury.title": "比邻星",
   "painting.stellaris.glacio.title": "格拉西奥",
   "subtitles.stellaris.beep": "着陆器警告蜂鸣",
-  "subtitles.stellaris.sonic_boom": "音爆"
+  "subtitles.stellaris.sonic_boom": "音爆",
+  "config.stellaris.foodConfig": "食物设置",
+  "config.stellaris.fluidCellWaterPerCan": "每罐头消耗的流体胶囊水量",
+  "config.stellaris.foodConfig.desc": "食用罐头相关设置.",
+  "config.stellaris.foodConfig.fluidCellWaterPerCan.desc": "食用一个罐头所需的最低水量"
 }

@@ -24,5 +24,16 @@
   "unchanged_values": [
     "Moog's Structures",
     "Moog's Structure Lib"
-  ]
+  ],
+  "jar_sha256": "76534ab157aa32100fb985d41cb4dd5640a96dcfa8cd03e0762e7234e7511f5e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MoogsStructureLib-neoforge-26.1.2-3.4.2.jar",
+    "jar_sha256": "76534ab157aa32100fb985d41cb4dd5640a96dcfa8cd03e0762e7234e7511f5e",
+    "nested_jars": [],
+    "resource": "assets/moogs_structures/lang/en_us.json",
+    "mod_ids": [
+      "moogs_structures"
+    ],
+    "resource_sha256": "2d41a9b7b9ad19339e295c4d3557b656f991c22150349ebd99f6ebe90a8ce180"
+  }
 }

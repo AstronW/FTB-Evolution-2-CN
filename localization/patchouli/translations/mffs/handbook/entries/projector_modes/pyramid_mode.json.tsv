@@ -1,8 +1,8 @@
-/name	金字塔模式
-/pages/0/text	默认情况下, $(2)金字塔模式$()让投射器产生类似金字塔的力场.其厚度取决于尺寸.每个$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()使力场在所有方向上扩大 1 格.
-/pages/1/text	合成$(2)金字塔模式$().
+/name	棱锥体模式
+/pages/0/text	默认情况下, $(2)棱锥体模式$()让投影仪产生类似金字塔的力场.其厚度取决于尺寸.每个$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()使力场在所有方向上扩大 1 格.
+/pages/1/text	合成$(2)棱锥体模式$().
 /pages/2/title	力场调整
-/pages/2/text	把$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()放入标有方向箭头的物品槽会产生不同效果.放入左, 右, 前, 后槽位时, 力场沿两个相对方向同时扩大 1 格; 放入上或下槽位时, 力场只沿该方向扩大 1 格.
-/pages/3/text	例如要给力场增高 1 格, 就把$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()放入箭头指向界面左上或右上角的物品槽.
+/pages/2/text	把$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()放入标有方向箭头的物品槽会产生不同效果.放入左, 右, 前, 后槽位时, 力场沿两个相对方向同时扩大 1 格; 放入上或下槽位时, 力场只沿该方向扩大 1 格.
+/pages/3/text	例如要给力场增高 1 格, 就把$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()放入箭头指向界面左上或右上角的物品槽.
 /pages/4/title	投射展示
-/pages/4/text	缩放后的$(2)金字塔模式$()力场投射效果.
+/pages/4/text	缩放后的$(2)棱锥体模式$()力场投射效果.

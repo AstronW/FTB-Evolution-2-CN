@@ -1,9 +1,9 @@
-/name	力场投射器
-/pages/0/text	$(9)力场投射器$()是 MFFS 机器家族的基础成员.它利用福特龙能量向世界中投射出各种形状与大小的力场.
-/pages/1/text	合成$(9)力场投射器$().
+/name	力场投影仪
+/pages/0/text	$(9)力场投影仪$()是 MFFS 机器家族的基础成员.它利用福特朗能量向世界中投射出各种形状与大小的力场.
+/pages/1/text	合成$(9)力场投影仪$().
 /pages/2/title	用法
-/pages/2/text	要产生力场, 需通过链接附近的$(l:mffs:machines/fortron_capacitor)福特龙电容$(), 为$(9)力场投射器$()供给$(l:mffs:getting_started/fortron)福特龙$().方式有二:$(li)右键点击$(9)力场投射器$(), 在其界面中输入匹配的频率号$(li)手持$(l:mffs:tools/frequency_card)频率卡$()对投射器潜行右击.
-/pages/3/text	合成一件$(l:mffs:projector_modes)投射模式物品$()以决定力场形状.右键打开投射器, 把该模式物品放入中央 (红色) 由朝外箭头环绕的槽位.再合成若干$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$(), 放入$(9)力场投射器$()界面左侧的槽位矩阵.矩阵槽位中的每个$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$()都会使力场半径扩大一格.
-/pages/4/text	界面底部的数字表示维持指定尺寸与形状的力场所需的福特龙量.给投射器提供红石信号以激活它.激活后, $(9)力场投射器$()会由红变蓝并开始投射力场 (前提是有足够的$(l:mffs:getting_started/fortron)福特龙$()).$(p)要能穿过力场, 需要一台$(l:mffs:machines/biometric_identifier)生物识别仪$().
+/pages/2/text	要产生力场, 需通过链接附近的$(l:mffs:machines/fortron_capacitor)福特朗能量储存器$(), 为$(9)力场投影仪$()供给$(l:mffs:getting_started/fortron)福特朗$().方式有二:$(li)右键点击$(9)力场投影仪$(), 在其界面中输入匹配的频率号$(li)手持$(l:mffs:tools/frequency_card)频率卡$()对投影仪潜行右击.
+/pages/3/text	合成一件$(l:mffs:projector_modes)投射模式物品$()以决定力场形状.右键打开投影仪, 把该模式物品放入中央 (红色) 由朝外箭头环绕的槽位.再合成若干$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$(), 放入$(9)力场投影仪$()界面左侧的槽位矩阵.矩阵槽位中的每个$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()都会使力场半径扩大一格.
+/pages/4/text	界面底部的数字表示维持指定尺寸与形状的力场所需的福特朗量.给投影仪提供红石信号以激活它.激活后, $(9)力场投影仪$()会由红变蓝并开始投射力场 (前提是有足够的$(l:mffs:getting_started/fortron)福特朗$()).$(p)要能穿过力场, 需要一台$(l:mffs:machines/biometric_identifier)生物识别器$().
 /pages/5/title	升级能力
-/pages/5/text	$(9)力场投射器$()可以加装多种模块.这些通用模块的效果如下:$(li)$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$(): 调整所投射力场的形状.$(li)$(l:mffs:upgrade_modules/speed_module)$(5)速度模块$(): 让投射器更快生成力场.$(li)$(l:mffs:upgrade_modules/capacity_module)$(5)容量模块$(): 提高投射器可存储的$(l:mffs:getting_started/fortron)福特龙$()量.$()
+/pages/5/text	$(9)力场投影仪$()可以加装多种模块.这些通用模块的效果如下:$(li)$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$(): 调整所投射力场的形状.$(li)$(l:mffs:upgrade_modules/speed_module)$(5)速度模块$(): 让投影仪更快生成力场.$(li)$(l:mffs:upgrade_modules/capacity_module)$(5)容量模块$(): 提高投影仪可存储的$(l:mffs:getting_started/fortron)福特朗$()量.$()

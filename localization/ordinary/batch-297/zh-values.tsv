@@ -12,7 +12,7 @@
 11	生命亲和与治疗, 复活和对抗亡灵相关.它们通常属于防御类, 例如$(l:components/heal)治疗$(), $(l:components/regeneration)生命恢复$()和$(l:components/summon)召唤$().
 12	闪电亲和与速度, 力量和天气相关.显著的例子有$(l:components/lightning_damage)闪电伤害$(), $(l:components/haste)急迫$()和$(l:components/storm)风暴$().
 13	自然亲和与吸引, 生长和收获相关.因此最常见的部件是$(l:components/attract)吸引$(), $(l:components/grow)催熟$()和$(l:components/harvest)收获$().
-14	水亲和与游泳, 溺水和药水相关.因此其部件常用效果, 例如$(l:components/water_breathing)水下呼吸$(), $(l:components/swift_swim)迅泳$()或$(l:components/watery_grave)水葬$().
+14	水亲和与游泳, 溺水和药水相关.因此其部件常用效果, 例如$(l:components/water_breathing)水下呼吸$(), $(l:components/swift_swim)迅捷游泳$()或$(l:components/watery_grave)水之坟墓$().
 15	使$(l:shapes/projectile)法术投射物$()在表面上反弹.
 16	该修饰可改变法术部件的粒子颜色.想要绿色火球? 尽管来!$(br2)颜色在法术制作时确定.添加修饰时选择你想要的颜色.若想更改颜色, 再次右键点击该修饰即可.法术制作完成后颜色就无法更改了!
 17	增强法术造成的伤害, 或伤害类法术对亡灵的治愈量.

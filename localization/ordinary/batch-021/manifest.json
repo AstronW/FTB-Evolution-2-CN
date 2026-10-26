@@ -408,5 +408,16 @@
     "%dx %s",
     "%s / %s",
     "• %s: %s"
-  ]
+  ],
+  "jar_sha256": "09df0adc4ab9d7fdde1ce6fb8b441e79d54f91d7d54e6db91f4d0b5f3f8ed877",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/energizedpower-3.0.1+26.1.x-neoforge.jar",
+    "jar_sha256": "09df0adc4ab9d7fdde1ce6fb8b441e79d54f91d7d54e6db91f4d0b5f3f8ed877",
+    "nested_jars": [],
+    "resource": "assets/energizedpower/lang/en_us.json",
+    "mod_ids": [
+      "energizedpower"
+    ],
+    "resource_sha256": "ea6c89354bef21f0355a4b3f6c7e16720f6054b6ac7c56394603a0b22d466036"
+  }
 }

@@ -1,0 +1,21 @@
+{
+  "batch": "047",
+  "namespace": "interdimensionalwirelesstransmitter",
+  "jar": ".minecraft/mods/interdimensionalwirelesstransmitter-neoforge-26.1.2-1.0.1.jar",
+  "language_path": "assets/interdimensionalwirelesstransmitter/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/interdimensionalwirelesstransmitter/lang/zh_cn.json",
+  "include_keys": [
+    "mod.interdimensional_wireless_transmitter",
+    "block.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter",
+    "gui.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.distance",
+    "item.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.help",
+    "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter",
+    "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.tooltip",
+    "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage",
+    "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage.tooltip",
+    "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter",
+    "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.description"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

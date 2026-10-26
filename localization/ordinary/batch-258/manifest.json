@@ -17,5 +17,16 @@
     "JEI",
     "REI",
     "EMI"
-  ]
+  ],
+  "jar_sha256": "4b7108293d3a190b4a1e06055343143cfba740ca13b83794d9f8933c8de84851",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-library-neoforge-26.1.2.9.jar",
+    "jar_sha256": "4b7108293d3a190b4a1e06055343143cfba740ca13b83794d9f8933c8de84851",
+    "nested_jars": [],
+    "resource": "assets/ftblibrary/lang/en_us.json",
+    "mod_ids": [
+      "ftblibrary"
+    ],
+    "resource_sha256": "e032db0d6a2427d9d0a99bf960db0efca6e4562793b94b49b29c8b4cd5093378"
+  }
 }

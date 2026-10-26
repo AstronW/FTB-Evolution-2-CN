@@ -1,0 +1,27 @@
+{
+  "info.mffs.cannot_harness": {
+    "en": "Cannot harness %s FE from the Fortron field.",
+    "official_zh": "无法从Fortron场中汲取 %s FE。",
+    "zh": "无法从福特朗场中汲取 %s FE."
+  },
+  "block.mffs.coercion_deriver": {
+    "en": "Coercion Deriver",
+    "official_zh": "Fortron 衍生器",
+    "zh": "福特朗衍生器"
+  },
+  "block.mffs.fortron_capacitor": {
+    "en": "Fortron Capacitor",
+    "official_zh": "Fortron 能量储存器",
+    "zh": "福特朗能量储存器"
+  },
+  "screen.mffs.frequency.tooltip": {
+    "en": "Machines with the same frequency will share Fortron energy.",
+    "official_zh": "具有相同频率的设备将共享Fortron能量。",
+    "zh": "具有相同频率的设备将共享福特朗能量."
+  },
+  "screen.mffs.fortron.tooltip": {
+    "en": "Fortron is the type of force energy used in MFFS machines.",
+    "official_zh": "Fortron是MFFS设备中使用的能量类型。",
+    "zh": "福特朗是MFFS设备中使用的力场能量类型."
+  }
+}

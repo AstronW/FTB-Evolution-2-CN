@@ -31,5 +31,16 @@
   "unchanged_values": [
     "Animus: NeoVitae",
     "Animus"
-  ]
+  ],
+  "jar_sha256": "39ec9469e98c49465afca0b800004d0d4b29898b99281ea227b5ba6e1bb75f08",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animusnv-26.1.2-5.2.20.jar",
+    "jar_sha256": "39ec9469e98c49465afca0b800004d0d4b29898b99281ea227b5ba6e1bb75f08",
+    "nested_jars": [],
+    "resource": "assets/animusnv/lang/en_us.json",
+    "mod_ids": [
+      "animusnv"
+    ],
+    "resource_sha256": "24ad99c4719138ba8c49096a03bf9f7fd4893a1a321b885c98eeac112f9bc628"
+  }
 }

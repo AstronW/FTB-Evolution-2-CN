@@ -1,0 +1,2603 @@
+{
+ "target_pack_version": "1.5.1",
+ "date": "2026-10-23",
+ "basis": "Effective zh_cn item names: mod JAR < instance KubeJS assets < assembled release pack (ordinary/custom/manuals/CFPA review/feedback overrides)",
+ "rule": "old text replaced only in translation segments of that chapter whose English source matches english_context (case-insensitive); segments lists restrict further",
+ "segments_changed": 714,
+ "chapters": [
+  {
+   "chapter": "anima",
+   "segments_changed": 3,
+   "mappings": [
+    {
+     "old": "致密石板",
+     "new": "凝聚石板",
+     "english_context": "Condensed Stone Plate",
+     "segments": null
+    },
+    {
+     "old": "魂骨矛",
+     "new": "魂骨长矛",
+     "english_context": "Soulbone Spear",
+     "segments": null
+    },
+    {
+     "old": "倾析瓶",
+     "new": "醒酒瓶",
+     "english_context": "Decanter",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "ars_magica",
+   "segments_changed": 14,
+   "mappings": [
+    {
+     "old": "月光石",
+     "new": "月长石",
+     "english_context": "Moonstone",
+     "segments": null
+    },
+    {
+     "old": "火焰触角",
+     "new": "火焰触须",
+     "english_context": "Fire Antennae",
+     "segments": null
+    },
+    {
+     "old": "自然镰刀",
+     "new": "自然之镰",
+     "english_context": "Nature Scythe",
+     "segments": null
+    },
+    {
+     "old": "魔力苦力怕",
+     "new": "魔力爬行者",
+     "english_context": "Mana Creeper",
+     "segments": null
+    },
+    {
+     "old": "魔力马提尼",
+     "new": "魔力马天尼",
+     "english_context": "Mana Martini",
+     "segments": null
+    },
+    {
+     "old": "大地盔甲",
+     "new": "大地护甲",
+     "english_context": "Earth Armor",
+     "segments": null
+    },
+    {
+     "old": "末影靴(?!子)",
+     "new": "末影靴子",
+     "english_context": "Ender Boots",
+     "segments": null
+    },
+    {
+     "old": "(?<!战斗)法师盔甲",
+     "new": "法师护甲",
+     "english_context": "\\bMage Armor",
+     "segments": null
+    },
+    {
+     "old": "水之宝珠",
+     "new": "水之灵球",
+     "english_context": "Water Orb",
+     "segments": null
+    },
+    {
+     "old": "生命护符",
+     "new": "生命守护",
+     "english_context": "Life Ward",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "auroral",
+   "segments_changed": 14,
+   "mappings": [
+    {
+     "old": "糖渍烤雪球",
+     "new": "糖霜烤雪球",
+     "english_context": "Sugared Roasted Snowball",
+     "segments": null
+    },
+    {
+     "old": "极光手册",
+     "new": "极光指南",
+     "english_context": "Auroral Guidebook",
+     "segments": null
+    },
+    {
+     "old": "微光编织",
+     "new": "微光布",
+     "english_context": "Shimmerweave Fabric",
+     "segments": null
+    },
+    {
+     "old": "霜糖曲奇",
+     "new": "霜糖饼干",
+     "english_context": "Frosted Cookies",
+     "segments": null
+    },
+    {
+     "old": "炉心原木",
+     "new": "炉木原木",
+     "english_context": "Hearthwood Log",
+     "segments": null
+    },
+    {
+     "old": "冰冻花瓣",
+     "new": "冻结花瓣",
+     "english_context": "Frozen Petals",
+     "segments": null
+    },
+    {
+     "old": "微光长矛",
+     "new": "微光矛",
+     "english_context": "Shimmer Spear",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "bounty_board",
+   "segments_changed": 1,
+   "mappings": [
+    {
+     "old": "至高符印",
+     "new": "至高符石",
+     "english_context": "Sigil of Supremacy",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "building_and_decoration",
+   "segments_changed": 9,
+   "mappings": [
+    {
+     "old": "虚灵玻璃",
+     "new": "缥缈玻璃",
+     "english_context": "Ethereal Glass",
+     "segments": null
+    },
+    {
+     "old": "Blockz核心基座",
+     "new": "方块核心基底",
+     "english_context": "Blockz Core Base",
+     "segments": null
+    },
+    {
+     "old": "Crystalix玻璃",
+     "new": "虹晶玻璃",
+     "english_context": "Crystalix Glass",
+     "segments": null
+    },
+    {
+     "old": "Crystalix魔杖",
+     "new": "虹晶手杖",
+     "english_context": "Crystalix Wand",
+     "segments": null
+    },
+    {
+     "old": "绳子与钉子",
+     "new": "绳与钉",
+     "english_context": "Rope and Nail",
+     "segments": null
+    },
+    {
+     "old": "框架立方体",
+     "new": "框架块",
+     "english_context": "Framed Cube",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "colossal_reactors",
+   "segments_changed": 1,
+   "mappings": [
+    {
+     "old": "内部燃料棒",
+     "new": "内部反应堆燃料棒",
+     "english_context": "Reactor Rod",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "cooking_and_brewing",
+   "segments_changed": 35,
+   "mappings": [
+    {
+     "old": "老钓手奖杯",
+     "new": "老钓者奖杯",
+     "english_context": "Trophy Of The Older Angler",
+     "segments": null
+    },
+    {
+     "old": "压缩生物质块",
+     "new": "压实生物质块",
+     "english_context": "Compacted Biomass",
+     "segments": null
+    },
+    {
+     "old": "压缩生物质",
+     "new": "压实生物质",
+     "english_context": "Compacted Biomass",
+     "segments": null
+    },
+    {
+     "old": "粗生物质",
+     "new": "粗制生物质",
+     "english_context": "Crude Biomass",
+     "segments": null
+    },
+    {
+     "old": "海蓝钓竿",
+     "new": "海晶钓鱼竿",
+     "english_context": "Prismatic Fishing Rod",
+     "segments": null
+    },
+    {
+     "old": "Starcatcher指南",
+     "new": "星钓者指南",
+     "english_context": "Starcatcher's Guide",
+     "segments": null
+    },
+    {
+     "old": "Starcatcher钓竿",
+     "new": "星钓者钓竿",
+     "english_context": "Starcatcher's Rod",
+     "segments": null
+    },
+    {
+     "old": "施肥机",
+     "new": "施肥器",
+     "english_context": "Fertilizer Spreader",
+     "segments": null
+    },
+    {
+     "old": "马力指南",
+     "new": "马力驱动指南",
+     "english_context": "Horse Powered Guide",
+     "segments": null
+    },
+    {
+     "old": "厨房连接器",
+     "new": "厨房转角",
+     "english_context": "Kitchen Connector",
+     "segments": null
+    },
+    {
+     "old": "燧石引火器",
+     "new": "火镰与火绒",
+     "english_context": "Flint and Tinder",
+     "segments": null
+    },
+    {
+     "old": "马力磨盘",
+     "new": "马匹磨石",
+     "english_context": "Horse Grindstone",
+     "segments": null
+    },
+    {
+     "old": "手动磨盘",
+     "new": "手摇磨石",
+     "english_context": "Hand Grindstone",
+     "segments": null
+    },
+    {
+     "old": "传说鱼饵",
+     "new": "传奇鱼饵",
+     "english_context": "Legendary Bait",
+     "segments": null
+    },
+    {
+     "old": "幸运曲奇",
+     "new": "幸运饼干",
+     "english_context": "Fortune Cookie",
+     "segments": null
+    },
+    {
+     "old": "砧木",
+     "new": "切菜墩",
+     "english_context": "Chopping Block",
+     "segments": null
+    },
+    {
+     "old": "全能蠕虫",
+     "new": "万能蠕虫",
+     "english_context": "Almighty Worm",
+     "segments": null
+    },
+    {
+     "old": "马力劈木机",
+     "new": "马匹切碎机",
+     "english_context": "Horse Chopper",
+     "segments": null
+    },
+    {
+     "old": "花岗岩砧",
+     "new": "花岗岩铁砧",
+     "english_context": "Granite Anvil",
+     "segments": null
+    },
+    {
+     "old": "花椰菜",
+     "new": "花菜",
+     "english_context": "Cauliflower",
+     "segments": null
+    },
+    {
+     "old": "温室罩",
+     "new": "钟形罩",
+     "english_context": "Cloche",
+     "segments": null
+    },
+    {
+     "old": "水生动物容器",
+     "new": "水族罐",
+     "english_context": "Aquatic Jar",
+     "segments": null
+    },
+    {
+     "old": "马力压榨机",
+     "new": "马匹压榨机",
+     "english_context": "Horse Press",
+     "segments": null
+    },
+    {
+     "old": "堆肥器",
+     "new": "堆肥桶",
+     "english_context": "Composter",
+     "segments": null
+    },
+    {
+     "old": "捕鸟网",
+     "new": "捕禽网",
+     "english_context": "Avian Net",
+     "segments": null
+    },
+    {
+     "old": "覆盖土",
+     "new": "覆盖物",
+     "english_context": "Mulch",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "enderio",
+   "segments_changed": 14,
+   "mappings": [
+    {
+     "old": "晶体电容",
+     "new": "晶化合金电容",
+     "english_context": "Crystalline Capacitor",
+     "segments": null
+    },
+    {
+     "old": "旋律电容",
+     "new": "旋律合金电容",
+     "english_context": "Melodic Capacitor",
+     "segments": null
+    },
+    {
+     "old": "恒星电容",
+     "new": "恒星合金电容",
+     "english_context": "Stellar Capacitor",
+     "segments": null
+    },
+    {
+     "old": "末影粉",
+     "new": "末影水晶粉",
+     "english_context": "Grains of the End",
+     "segments": null
+    },
+    {
+     "old": "损坏的刷怪笼",
+     "new": "破损的刷怪笼",
+     "english_context": "Broken Spawner",
+     "segments": null
+    },
+    {
+     "old": "导管伪装板",
+     "new": "导管伪装方块",
+     "english_context": "Conduit Facade",
+     "segments": null
+    },
+    {
+     "old": "末影之剑",
+     "new": "终结之剑",
+     "english_context": "The Ender",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "energized_power",
+   "segments_changed": 12,
+   "mappings": [
+    {
+     "old": "超导线缆",
+     "new": "超导电缆",
+     "english_context": "Superconductive Cable",
+     "segments": null
+    },
+    {
+     "old": "感应冶炼炉",
+     "new": "感应熔炉",
+     "english_context": "Induction Smelter",
+     "segments": null
+    },
+    {
+     "old": "煤炭引擎",
+     "new": "燃煤引擎",
+     "english_context": "Coal Engine",
+     "segments": null
+    },
+    {
+     "old": "经验排出口",
+     "new": "经验汲取",
+     "english_context": "XP Drain",
+     "segments": null
+    },
+    {
+     "old": "锯木机",
+     "new": "锯木厂",
+     "english_context": "Sawmill",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "evilcraft",
+   "segments_changed": 1,
+   "mappings": [
+    {
+     "old": "复仇镐",
+     "new": "复仇之镐",
+     "english_context": "Vengeance Pickaxe",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "exploration",
+   "segments_changed": 8,
+   "mappings": [
+    {
+     "old": "传送血珍珠",
+     "new": "血能传送珍珠",
+     "english_context": "Blood Pearl",
+     "segments": null
+    },
+    {
+     "old": "海蓝激光中继器",
+     "new": "海晶石激光中继器",
+     "english_context": "Laser Relay",
+     "segments": null
+    },
+    {
+     "old": "海洋催化器",
+     "new": "海蓝催化器",
+     "english_context": "Aquatic Catalyst",
+     "segments": null
+    },
+    {
+     "old": "精力容器",
+     "new": "耐力容器",
+     "english_context": "Stamina Vessel",
+     "segments": null
+    },
+    {
+     "old": "角之神像",
+     "new": "恶魔雕像",
+     "english_context": "Horned Statue",
+     "segments": null
+    },
+    {
+     "old": "精魄",
+     "new": "精华",
+     "english_context": "Essence",
+     "segments": null
+    },
+    {
+     "old": "精力",
+     "new": "耐力",
+     "english_context": "stamina",
+     "segments": null
+    },
+    {
+     "old": "Mog的箭袋",
+     "new": "莫格箭袋",
+     "english_context": "Mog's Quiver",
+     "segments": null
+    },
+    {
+     "old": "Gulg的腰带",
+     "new": "古尔格腰带",
+     "english_context": "Gulg's Gurdle",
+     "segments": null
+    },
+    {
+     "old": "王室战刃",
+     "new": "雷霆王戟",
+     "english_context": "Royal Glaive",
+     "segments": null
+    },
+    {
+     "old": "闪亮的鳞片",
+     "new": "闪光鳞片",
+     "english_context": "Shiny Scales",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "gearing_up",
+   "segments_changed": 22,
+   "mappings": [
+    {
+     "old": "简易机械组件",
+     "new": "简单机械零件",
+     "english_context": "Simple Mechanical Components",
+     "segments": null
+    },
+    {
+     "old": "(?<!简单)机械组件",
+     "new": "机械零件",
+     "english_context": "Mechanical Components",
+     "segments": null
+    },
+    {
+     "old": "发条组件",
+     "new": "发条零件",
+     "english_context": "Clockwork Components",
+     "segments": null
+    },
+    {
+     "old": "破坏工具",
+     "new": "破坏小帮手",
+     "english_context": "Destruction Gadget",
+     "segments": null
+    },
+    {
+     "old": "替换工具",
+     "new": "更替小帮手",
+     "english_context": "Exchanging Gadget",
+     "segments": null
+    },
+    {
+     "old": "复制粘贴&r与&2剪切粘贴&r工具",
+     "new": "复制粘贴小帮手&r与&2剪切粘贴小帮手&r",
+     "english_context": "Cut Paste Gadget",
+     "segments": null
+    },
+    {
+     "old": "建筑工具",
+     "new": "建筑小帮手",
+     "english_context": "Building Gadget",
+     "segments": null
+    },
+    {
+     "old": "奥利哈刚遗物",
+     "new": "山铜遗物",
+     "english_context": "Aurichalcum Relic",
+     "segments": null
+    },
+    {
+     "old": "精力容器",
+     "new": "耐力容器",
+     "english_context": "Stamina Vessel",
+     "segments": null
+    },
+    {
+     "old": "精魄",
+     "new": "试炼通过证",
+     "english_context": "Spirit Orb",
+     "segments": null
+    },
+    {
+     "old": "精力",
+     "new": "耐力",
+     "english_context": "stamina",
+     "segments": null
+    },
+    {
+     "old": "坠星",
+     "new": "流星",
+     "english_context": "Fallen Star",
+     "segments": null
+    },
+    {
+     "old": "大口径短铳",
+     "new": "双管雷铳",
+     "english_context": "Blunderbuss",
+     "segments": null
+    },
+    {
+     "old": "传送石台",
+     "new": "传送石座",
+     "english_context": "Portstone",
+     "segments": null
+    },
+    {
+     "old": "生命容器",
+     "new": "心之容器",
+     "english_context": "Canister",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "getting_started",
+   "segments_changed": 7,
+   "mappings": [
+    {
+     "old": "电子电路",
+     "new": "电路板",
+     "english_context": "Electronic Circuit",
+     "segments": null
+    },
+    {
+     "old": "粗核源铁矿石",
+     "new": "粗核源铁矿簇",
+     "english_context": "Raw Ferricore Ore",
+     "segments": null
+    },
+    {
+     "old": "灵伴护符",
+     "new": "羁绊护符",
+     "english_context": "Kindred Charm",
+     "segments": null
+    },
+    {
+     "old": "发酵桶",
+     "new": "酿液桶",
+     "english_context": "\\bVAT\\b",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "hephaestus",
+   "segments_changed": 5,
+   "mappings": [
+    {
+     "old": "焦黑砖(?!块)",
+     "new": "焦黑砖块",
+     "english_context": "Seared Brick",
+     "segments": null
+    },
+    {
+     "old": "伐木斧",
+     "new": "阔斧",
+     "english_context": "Broad Axe",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "hostile_networks",
+   "segments_changed": 1,
+   "mappings": [
+    {
+     "old": "战利品制造机",
+     "new": "战利品制造器",
+     "english_context": "Loot Fabricator",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "ice_and_fire",
+   "segments_changed": 3,
+   "mappings": [
+    {
+     "old": "龙鳞胸甲",
+     "new": "龙鳞胸铠",
+     "english_context": "Dragon Scale Chestplate",
+     "segments": null
+    },
+    {
+     "old": "凋灵骨碎片",
+     "new": "凋灵骨片",
+     "english_context": "Witherbone Shard",
+     "segments": null
+    },
+    {
+     "old": "闪亮的鳞片",
+     "new": "闪光鳞片",
+     "english_context": "Shiny Scales",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "industrial_contraptions",
+   "segments_changed": 23,
+   "mappings": [
+    {
+     "old": "反物质制造机",
+     "new": "反物质构建机",
+     "english_context": "Antimatter Constructor",
+     "segments": null
+    },
+    {
+     "old": "电动工作台",
+     "new": "电力工作台",
+     "english_context": "Powered Crafting Table",
+     "segments": null
+    },
+    {
+     "old": "采矿场",
+     "new": "采石场",
+     "english_context": "Quarr",
+     "segments": null
+    },
+    {
+     "old": "电子电路",
+     "new": "电路板",
+     "english_context": "Electronic Circuit",
+     "segments": null
+    },
+    {
+     "old": "高级电路(?!板)",
+     "new": "高级电路板",
+     "english_context": "Advanced Circuit",
+     "segments": null
+    },
+    {
+     "old": "灌注祭坛",
+     "new": "注魔祭坛",
+     "english_context": "Infusion Altar",
+     "segments": null
+    },
+    {
+     "old": "低压电池箱",
+     "new": "电池盒(LV)",
+     "english_context": "LV Battery Box",
+     "segments": null
+    },
+    {
+     "old": "低压变压器",
+     "new": "变压器(LV)",
+     "english_context": "LV Transformer",
+     "segments": null
+    },
+    {
+     "old": "碳板",
+     "new": "碳纤维板",
+     "english_context": "Carbon Plate",
+     "segments": null
+    },
+    {
+     "old": "烧毁的线缆",
+     "new": "烧坏的线缆",
+     "english_context": "Burnt Cable",
+     "segments": null
+    },
+    {
+     "old": "罐装食物",
+     "new": "罐头食品",
+     "english_context": "Canned Food",
+     "segments": null
+    },
+    {
+     "old": "充电踏板",
+     "new": "充电座",
+     "english_context": "Charge Pad",
+     "segments": null
+    },
+    {
+     "old": "低压线缆",
+     "new": "铜质线缆(LV)",
+     "english_context": "LV Cable",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "integrated_dynamics",
+   "segments_changed": 2,
+   "mappings": [
+    {
+     "old": "便携存储终端",
+     "new": "移动式存储终端",
+     "english_context": "Portable Storage Terminal",
+     "segments": null
+    },
+    {
+     "old": "伪装板",
+     "new": "伪装块",
+     "english_context": "Facade",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "just_dire_things",
+   "segments_changed": 21,
+   "mappings": [
+    {
+     "old": "简易流体收集器",
+     "new": "初级流体收集器",
+     "english_context": "Simple Fluid Collector",
+     "segments": null
+    },
+    {
+     "old": "简易燃料发电机",
+     "new": "初级燃液发电器",
+     "english_context": "Simple Fuel Generator",
+     "segments": null
+    },
+    {
+     "old": "简易燃煤发电机",
+     "new": "初级煤炭发电器",
+     "english_context": "Simple Coal Generator",
+     "segments": null
+    },
+    {
+     "old": "简易方块破坏器",
+     "new": "初级方块破坏器",
+     "english_context": "Simple Block Breaker",
+     "segments": null
+    },
+    {
+     "old": "简易方块放置器",
+     "new": "初级方块放置器",
+     "english_context": "Simple Block Placer",
+     "segments": null
+    },
+    {
+     "old": "简易流体放置器",
+     "new": "初级流体放置器",
+     "english_context": "Simple Fluid Placer",
+     "segments": null
+    },
+    {
+     "old": "高级交换器",
+     "new": "高级替换器",
+     "english_context": "Advanced Swapper",
+     "segments": null
+    },
+    {
+     "old": "高级投掷器",
+     "new": "高级投物器",
+     "english_context": "Advanced Dropper",
+     "segments": null
+    },
+    {
+     "old": "简易点击器",
+     "new": "初级点击器",
+     "english_context": "Simple Clicker",
+     "segments": null
+    },
+    {
+     "old": "简易投掷器",
+     "new": "初级投物器",
+     "english_context": "Simple Dropper",
+     "segments": null
+    },
+    {
+     "old": "Just Dire物品收集器",
+     "new": "物品拾取器",
+     "english_context": "Item Collector",
+     "segments": null
+    },
+    {
+     "old": "物品收集器",
+     "new": "物品拾取器",
+     "english_context": "Item Collector",
+     "segments": null
+    },
+    {
+     "old": "简易传感器",
+     "new": "初级传感器",
+     "english_context": "Simple Sensor",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "ltx_industries",
+   "segments_changed": 5,
+   "mappings": [
+    {
+     "old": "镀钨板岩钢(?![板锭])",
+     "new": "镀钨板岩钢锭",
+     "english_context": "Tungsten-Plated Slatesteel",
+     "segments": [
+      159,
+      182
+     ]
+    },
+    {
+     "old": "钛团块",
+     "new": "钛碎块",
+     "english_context": "Titanium Clump",
+     "segments": null
+    },
+    {
+     "old": "铜矿碎片",
+     "new": "铜碎片",
+     "english_context": "Copper Shard",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "mffs",
+   "segments_changed": 1,
+   "mappings": [
+    {
+     "old": "强化模块",
+     "new": "加固模块",
+     "english_context": "Reinforcement Module",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "neo_vitae",
+   "segments_changed": 10,
+   "mappings": [
+    {
+     "old": "血液速度卡",
+     "new": "气血加速卡",
+     "english_context": "Blood Speed Card",
+     "segments": null
+    },
+    {
+     "old": "血液装配器",
+     "new": "气血装配室",
+     "english_context": "Blood Assembler",
+     "segments": null
+    },
+    {
+     "old": "灵质火药",
+     "new": "灵粉",
+     "english_context": "Spirit Powder",
+     "segments": null
+    },
+    {
+     "old": "血液样板",
+     "new": "气血样板",
+     "english_context": "Blood Pattern",
+     "segments": null
+    },
+    {
+     "old": "气血子弹",
+     "new": "血弹",
+     "english_context": "Blood Bullet",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "occultism",
+   "segments_changed": 12,
+   "mappings": [
+    {
+     "old": "魔鬼之梦果(?!实)",
+     "new": "魔鬼之梦果实",
+     "english_context": "Demon's Dream Fruit",
+     "segments": null
+    },
+    {
+     "old": "不纯的白色粉笔",
+     "new": "含杂白色粉笔",
+     "english_context": "Impure White Chalk",
+     "segments": null
+    },
+    {
+     "old": "火灵精华",
+     "new": "火灵灵髓",
+     "english_context": "Afrit Essence",
+     "segments": null
+    },
+    {
+     "old": "魔王精华",
+     "new": "魔王灵髓",
+     "english_context": "Marid Essence",
+     "segments": null
+    },
+    {
+     "old": "使魔戒指",
+     "new": "使魔之戒",
+     "english_context": "Familiar Ring",
+     "segments": null
+    },
+    {
+     "old": "大蜡烛",
+     "new": "大号蜡烛",
+     "english_context": "Large Candle",
+     "segments": null
+    },
+    {
+     "old": "粉笔刷",
+     "new": "粉笔擦",
+     "english_context": "Chalk Brush",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "oritech",
+   "segments_changed": 6,
+   "mappings": [
+    {
+     "old": "高级目标标识器",
+     "new": "高级目标指示器",
+     "english_context": "Advanced Target Designator",
+     "segments": null
+    },
+    {
+     "old": "奥利哈刚板",
+     "new": "山铜板",
+     "english_context": "Aurichalcum Plate",
+     "segments": null
+    },
+    {
+     "old": "永恒金属板",
+     "new": "永恒合金板",
+     "english_context": "Aeternium Plate",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "powah",
+   "segments_changed": 3,
+   "mappings": [
+    {
+     "old": "介电机壳",
+     "new": "绝缘外壳",
+     "english_context": "Dielectric Casing",
+     "segments": null
+    },
+    {
+     "old": "介电浆糊",
+     "new": "绝缘覆层",
+     "english_context": "Dielectric Paste",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "logistics",
+   "segments_changed": 27,
+   "mappings": [
+    {
+     "old": "介电浆糊",
+     "new": "绝缘覆层",
+     "english_context": "Dielectric Paste",
+     "segments": null
+    },
+    {
+     "old": "集束网络线缆",
+     "new": "集束线缆",
+     "english_context": "Bundled Cable",
+     "segments": null
+    },
+    {
+     "old": "物流卡超频器",
+     "new": "卡超频元件",
+     "english_context": "Card Overclocker",
+     "segments": null
+    },
+    {
+     "old": "磁盘驱动器",
+     "new": "软盘驱动器",
+     "english_context": "Disk Drive",
+     "segments": null
+    },
+    {
+     "old": "挤出模块 Mk1",
+     "new": "造桥模块 Mk1",
+     "english_context": "Extruder Module Mk1",
+     "segments": null
+    },
+    {
+     "old": "挤出模块 Mk2",
+     "new": "造桥模块 Mk2",
+     "english_context": "Extruder Module Mk2",
+     "segments": null
+    },
+    {
+     "old": "抛射器模块",
+     "new": "投掷模块",
+     "english_context": "Flinger Module",
+     "segments": null
+    },
+    {
+     "old": "在抛射器界面中",
+     "new": "在投掷模块界面中",
+     "english_context": "Flinger Module",
+     "segments": null
+    },
+    {
+     "old": "十六进制红石计",
+     "new": "十六进制计",
+     "english_context": "Hexidecrubrometer",
+     "segments": null
+    },
+    {
+     "old": "输入输出卡",
+     "new": "IO卡",
+     "english_context": "IO Card",
+     "segments": null
+    },
+    {
+     "old": "指令存储器",
+     "new": "合成指令存储器",
+     "english_context": "Instruction Storage",
+     "segments": null
+    },
+    {
+     "old": "模组过滤器",
+     "new": "按mod分拣过滤器",
+     "english_context": "Mod Filter",
+     "segments": null
+    },
+    {
+     "old": "模块化路由器",
+     "new": "物品路由器",
+     "english_context": "Modular Router(?!s)",
+     "segments": [
+      82
+     ]
+    },
+    {
+     "old": "处理管理器",
+     "new": "加工处理器",
+     "english_context": "Processing Handler",
+     "segments": null
+    },
+    {
+     "old": "正则过滤器",
+     "new": "正则表达式过滤器",
+     "english_context": "Regex Filter",
+     "segments": null
+    },
+    {
+     "old": "存储计量器",
+     "new": "库存监测器",
+     "english_context": "Storage Meter",
+     "segments": null
+    },
+    {
+     "old": "真空模块",
+     "new": "虚空模块",
+     "english_context": "Vacuum Module",
+     "segments": null
+    },
+    {
+     "old": "便携物品终端",
+     "new": "便携式物品终端",
+     "english_context": "Portable Inventory Terminal",
+     "segments": null
+    },
+    {
+     "old": "(?<!跨)维度范围升级",
+     "new": "同维度范围升级",
+     "english_context": "Dimension Range Upgrade",
+     "segments": null
+    },
+    {
+     "old": "包层真空管道",
+     "new": "包覆真空管道",
+     "english_context": "Covered Vacuum Pipe",
+     "segments": null
+    },
+    {
+     "old": "处理存储器",
+     "new": "加工配方存储器",
+     "english_context": "Processing Storage",
+     "segments": null
+    },
+    {
+     "old": "处理配方组",
+     "new": "加工配方集",
+     "english_context": "Processing Set",
+     "segments": null
+    },
+    {
+     "old": "指令组",
+     "new": "合成指令集",
+     "english_context": "Instruction Set",
+     "segments": null
+    },
+    {
+     "old": "导管伪装板",
+     "new": "导管伪装方块",
+     "english_context": "Conduit Facade",
+     "segments": null
+    },
+    {
+     "old": "&a硬化&r伪装板",
+     "new": "&a硬化导管伪装方块&r",
+     "english_context": "Hardened",
+     "segments": null
+    },
+    {
+     "old": "观察卡",
+     "new": "侦测卡",
+     "english_context": "Observer Card",
+     "segments": null
+    },
+    {
+     "old": "连接水晶",
+     "new": "链接水晶",
+     "english_context": "Link Crystal",
+     "segments": null
+    },
+    {
+     "old": "多路选择器",
+     "new": "数据选择器",
+     "english_context": "Multiplexer",
+     "segments": null
+    },
+    {
+     "old": "监视器用来",
+     "new": "显示器用来",
+     "english_context": "Monitor",
+     "segments": [
+      236
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "power",
+   "segments_changed": 12,
+   "mappings": [
+    {
+     "old": "晶体谐振发电机",
+     "new": "水晶谐振发电机",
+     "english_context": "Crystal Resonance Generator",
+     "segments": null
+    },
+    {
+     "old": "简易燃料发电机",
+     "new": "初级燃液发电器",
+     "english_context": "Simple Fuel Generator",
+     "segments": null
+    },
+    {
+     "old": "简易燃煤发电机",
+     "new": "初级煤炭发电器",
+     "english_context": "Simple Coal Generator",
+     "segments": null
+    },
+    {
+     "old": "大型太阳能板",
+     "new": "大型太阳能电池板",
+     "english_context": "Big Solar Panel",
+     "segments": null
+    },
+    {
+     "old": "超高压太阳能板",
+     "new": "太阳能板(EV)",
+     "english_context": "EV Solar Panel",
+     "segments": null
+    },
+    {
+     "old": "高压太阳能板",
+     "new": "太阳能板(HV)",
+     "english_context": "HV Solar Panel",
+     "segments": null
+    },
+    {
+     "old": "低压太阳能板",
+     "new": "太阳能板(LV)",
+     "english_context": "LV Solar Panel",
+     "segments": null
+    },
+    {
+     "old": "中压太阳能板",
+     "new": "太阳能板(MV)",
+     "english_context": "MV Solar Panel",
+     "segments": null
+    },
+    {
+     "old": "生物发电机",
+     "new": "生物质能发电机",
+     "english_context": "Bio Generator",
+     "segments": null
+    },
+    {
+     "old": "蒸汽引擎",
+     "new": "蒸汽机",
+     "english_context": "Steam Engine",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "pyramid_challenge",
+   "segments_changed": 12,
+   "mappings": [
+    {
+     "old": "真实虚拟处理器",
+     "new": "现实虚拟处理器",
+     "english_context": "Real Virtuality Processor",
+     "segments": null
+    },
+    {
+     "old": "反物质制造机",
+     "new": "反物质构建机",
+     "english_context": "Antimatter Constructor",
+     "segments": null
+    },
+    {
+     "old": "炎龙钢锭",
+     "new": "龙炎钢锭",
+     "english_context": "Fire Dragonsteel Ingot",
+     "segments": null
+    },
+    {
+     "old": "晶体组装机",
+     "new": "水晶装配器",
+     "english_context": "Crystal Assembler",
+     "segments": null
+    },
+    {
+     "old": "反应室",
+     "new": "反应仓",
+     "english_context": "Reaction Chamber",
+     "segments": null
+    },
+    {
+     "old": "64k存储组件",
+     "new": "64k存储元件",
+     "english_context": "64k Storage Part",
+     "segments": null
+    },
+    {
+     "old": "&a龙骨&r",
+     "new": "&a龙之骨&r",
+     "english_context": "Dragon Bone",
+     "segments": null
+    },
+    {
+     "old": "; 龙骨会",
+     "new": "; 龙之骨会",
+     "english_context": "Dragon Bone",
+     "segments": null
+    },
+    {
+     "old": "蓝色兰花",
+     "new": "蔚蓝花",
+     "english_context": "Cerublossom",
+     "segments": null
+    },
+    {
+     "old": "纯净温特姆粉",
+     "new": "纯化温特姆粉",
+     "english_context": "Purified Vinteum Dust",
+     "segments": null
+    },
+    {
+     "old": "烧焦的线圈",
+     "new": "烧坏的线圈",
+     "english_context": "Burnt Coil",
+     "segments": null
+    },
+    {
+     "old": "的&2组装机",
+     "new": "的&2装配机",
+     "english_context": "LTX Assembler",
+     "segments": null
+    },
+    {
+     "old": "的&2组装机",
+     "new": "的&2装配器",
+     "english_context": "Oritech Assembler",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "reliquary",
+   "segments_changed": 4,
+   "mappings": [
+    {
+     "old": "普通弹匣",
+     "new": "中性弹匣",
+     "english_context": "Neutral Magazine",
+     "segments": null
+    },
+    {
+     "old": "普通子弹",
+     "new": "中性弹",
+     "english_context": "Neutral Shot",
+     "segments": null
+    },
+    {
+     "old": "追踪子弹",
+     "new": "追踪弹",
+     "english_context": "Seeker Shot",
+     "segments": null
+    },
+    {
+     "old": "风暴子弹",
+     "new": "风暴弹",
+     "english_context": "Storm Shot",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "resource_generation",
+   "segments_changed": 57,
+   "mappings": [
+    {
+     "old": "觉醒终极精华",
+     "new": "觉醒精华",
+     "english_context": "Awakened Supremium",
+     "segments": null
+    },
+    {
+     "old": "跨维度激光采矿机",
+     "new": "跨维度激光器",
+     "english_context": "Interdimensional Laser",
+     "segments": null
+    },
+    {
+     "old": "范围增加模块",
+     "new": "范围增幅模块",
+     "english_context": "Radius Increase Module",
+     "segments": null
+    },
+    {
+     "old": "不稳定传送流体",
+     "new": "不稳定的传送流体",
+     "english_context": "Unstable Portal Fluid",
+     "segments": null
+    },
+    {
+     "old": "离心升级",
+     "new": "离心机升级",
+     "english_context": "Centrifuge Upgrade",
+     "segments": null
+    },
+    {
+     "old": "蜂场控制器",
+     "new": "蜂房控制器",
+     "english_context": "Apiary Controller",
+     "segments": null
+    },
+    {
+     "old": "蜂场存储箱",
+     "new": "蜂房存储",
+     "english_context": "Apiary Storage",
+     "segments": null
+    },
+    {
+     "old": "灵魂种子基底",
+     "new": "离魂种子基底",
+     "english_context": "Soulium Seed Base",
+     "segments": null
+    },
+    {
+     "old": "创生室",
+     "new": "创生舱",
+     "english_context": "Genesis Chamber",
+     "segments": null
+    },
+    {
+     "old": "醒觉粉",
+     "new": "觉醒粉",
+     "english_context": "Cognizant Dust",
+     "segments": null
+    },
+    {
+     "old": "灵魂匕首",
+     "new": "离魂匕首",
+     "english_context": "Soulium Dagger",
+     "segments": null
+    },
+    {
+     "old": "&a蜂蜜&r小食",
+     "new": "&a蜜蜂小食&r",
+     "english_context": "Honey Treat",
+     "segments": null
+    },
+    {
+     "old": "蜂蜜小食",
+     "new": "蜜蜂小食",
+     "english_context": "Honey Treat",
+     "segments": null
+    },
+    {
+     "old": "矿石注入器",
+     "new": "矿石灌注器",
+     "english_context": "Ore Infuser",
+     "segments": null
+    },
+    {
+     "old": "施肥机",
+     "new": "施肥器",
+     "english_context": "Fertilizer",
+     "segments": [
+      436
+     ]
+    },
+    {
+     "old": "垫板扳手",
+     "new": "垫子扳手",
+     "english_context": "Pad Wrench",
+     "segments": null
+    },
+    {
+     "old": "微光嫩芽",
+     "new": "微光苗",
+     "english_context": "Glimmer Sprout",
+     "segments": null
+    },
+    {
+     "old": "芦苇蜂巢",
+     "new": "甘蔗蜂巢",
+     "english_context": "Reed Nest",
+     "segments": null
+    },
+    {
+     "old": "生物反应器",
+     "new": "生物反应机",
+     "english_context": "Bio Reactor",
+     "segments": null
+    },
+    {
+     "old": "耕作器",
+     "new": "农民耕种器",
+     "english_context": "Farmer",
+     "segments": null
+    },
+    {
+     "old": "蜜脾块",
+     "new": "方块",
+     "english_context": "Upgrade: Block",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "rootsclassic",
+   "segments_changed": 2,
+   "mappings": [
+    {
+     "old": "石碑",
+     "new": "装饰石碑",
+     "english_context": "Standing Stones",
+     "segments": [
+      18,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "tips_and_tricks",
+   "segments_changed": 4,
+   "mappings": [
+    {
+     "old": "紫水晶巨型火把",
+     "new": "紫水晶卓越火炬",
+     "english_context": "Amethyst Magnum Torch",
+     "segments": null
+    },
+    {
+     "old": "钻石巨型火把",
+     "new": "钻石卓越火炬",
+     "english_context": "Diamond Magnum Torch",
+     "segments": null
+    },
+    {
+     "old": "绿宝石巨型火把",
+     "new": "绿宝石卓越火炬",
+     "english_context": "Emerald Magnum Torch",
+     "segments": null
+    },
+    {
+     "old": "工具腰带",
+     "new": "工具皮带",
+     "english_context": "Tool Belt",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "utilities",
+   "segments_changed": 3,
+   "mappings": [
+    {
+     "old": "极度压缩骨粉",
+     "new": "超级压缩骨粉",
+     "english_context": "Extremely Compressed Bone Meal",
+     "segments": null
+    },
+    {
+     "old": "花匠骨粉",
+     "new": "花农的骨粉",
+     "english_context": "Florist's Bone Meal",
+     "segments": null
+    },
+    {
+     "old": "无线热能发射器",
+     "new": "无线热能供应器",
+     "english_context": "Wireless Heat Transmitter",
+     "segments": null
+    }
+   ]
+  },
+  {
+   "chapter": "witchery",
+   "segments_changed": 13,
+   "mappings": [
+    {
+     "old": "桤木树苗",
+     "new": "赤杨树苗",
+     "english_context": "Alder Sapling",
+     "segments": null
+    },
+    {
+     "old": "花楸原木",
+     "new": "山梨原木",
+     "english_context": "Rowan Log",
+     "segments": null
+    },
+    {
+     "old": "花楸树苗",
+     "new": "山梨树苗",
+     "english_context": "Rowan Sapling",
+     "segments": null
+    },
+    {
+     "old": "而花楸只能",
+     "new": "而山梨只能",
+     "english_context": "Rowan",
+     "segments": null
+    },
+    {
+     "old": "老妪之戒",
+     "new": "鬼婆之戒",
+     "english_context": "Hag",
+     "segments": null
+    },
+    {
+     "old": "灵魂牢笼",
+     "new": "灵魂笼",
+     "english_context": "Soul Cage",
+     "segments": null
+    },
+    {
+     "old": "或酒杯装入",
+     "new": "或玻璃酒杯装入",
+     "english_context": "Wine Glass",
+     "segments": null
+    },
+    {
+     "old": "&a圣杯&r",
+     "new": "&a圣餐杯&r",
+     "english_context": "Chalice",
+     "segments": [
+      18
+     ]
+    },
+    {
+     "old": "&d五芒星&r",
+     "new": "&d五芒星阵&r",
+     "english_context": "Pentacle",
+     "segments": [
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "general_storage",
+   "segments_changed": 97,
+   "mappings": [
+    {
+     "old": "1k存储组件",
+     "new": "1k存储元件",
+     "english_context": "1k Storage Part",
+     "segments": null
+    },
+    {
+     "old": "4096B流体存储组件",
+     "new": "4096B流体存储元件",
+     "english_context": "4096B Fluid Storage Part",
+     "segments": null
+    },
+    {
+     "old": "64B流体存储组件",
+     "new": "64B流体存储元件",
+     "english_context": "64B Fluid Storage Part",
+     "segments": null
+    },
+    {
+     "old": "64k存储组件",
+     "new": "64k存储元件",
+     "english_context": "64k Storage Part",
+     "segments": null
+    },
+    {
+     "old": "16384b流体",
+     "new": "16384B流体",
+     "english_context": "16384b Fluid",
+     "segments": null
+    },
+    {
+     "old": "1048576b流体",
+     "new": "1048576B流体",
+     "english_context": "1048576b Fluid",
+     "segments": null
+    },
+    {
+     "old": "(\\d+)K能量存储组件",
+     "new": "\\1k能量存储组件",
+     "english_context": "Energy Storage Part",
+     "segments": null
+    },
+    {
+     "old": "自动合成监视器",
+     "new": "合成监视器",
+     "english_context": "Autocrafting Monitor",
+     "segments": null
+    },
+    {
+     "old": "分级自动合成器",
+     "new": "分级自动合成仓",
+     "english_context": "Tiered Autocrafter",
+     "segments": null
+    },
+    {
+     "old": "自动合成器管理器",
+     "new": "自动合成仓管理器",
+     "english_context": "Autocrafter Manager",
+     "segments": null
+    },
+    {
+     "old": "自动合成器",
+     "new": "自动合成仓",
+     "english_context": "Autocrafter",
+     "segments": null
+    },
+    {
+     "old": "基础等级升级",
+     "new": "基础升级",
+     "english_context": "Basic Tier Upgrade",
+     "segments": null
+    },
+    {
+     "old": "黑盒1",
+     "new": "黑盒 Lv1",
+     "english_context": "Dank 1",
+     "segments": null
+    },
+    {
+     "old": "黑盒7",
+     "new": "黑盒 Lv7",
+     "english_context": "Dank 7",
+     "segments": null
+    },
+    {
+     "old": "能量接收器",
+     "new": "能源接收器",
+     "english_context": "Energy Acceptor",
+     "segments": null
+    },
+    {
+     "old": "AE2能量元件",
+     "new": "AE2能源元件",
+     "english_context": "Energy Cell",
+     "segments": null
+    },
+    {
+     "old": "&b能量元件&r",
+     "new": "&b能源元件&r",
+     "english_context": "Energy Cell",
+     "segments": null
+    },
+    {
+     "old": "先给一些能量元件",
+     "new": "先给一些能源元件",
+     "english_context": "Energy Cell",
+     "segments": null
+    },
+    {
+     "old": "外部存储(?!总线)",
+     "new": "外部存储总线",
+     "english_context": "External Storage",
+     "segments": null
+    },
+    {
+     "old": "套娃升级",
+     "new": "嵌套升级",
+     "english_context": "Inception Upgrade",
+     "segments": null
+    },
+    {
+     "old": "无限存储驱动器(?!方块)",
+     "new": "无限存储驱动器方块",
+     "english_context": "Infinity Storage Drive Block",
+     "segments": null
+    },
+    {
+     "old": "无限水驱动(?!器)",
+     "new": "无限水驱动器",
+     "english_context": "Infinity Water Drive",
+     "segments": null
+    },
+    {
+     "old": "连接工具",
+     "new": "链接工具",
+     "english_context": "Linking Tool",
+     "segments": null
+    },
+    {
+     "old": "ME坞站",
+     "new": "ME 扩展坞",
+     "english_context": "ME Dock",
+     "segments": null
+    },
+    {
+     "old": "ME接口附加装置",
+     "new": "ME 接口插件",
+     "english_context": "ME Interface Addon",
+     "segments": null
+    },
+    {
+     "old": "ME样板供应器附加装置",
+     "new": "ME 样板供应器插件",
+     "english_context": "ME Pattern Provider Addon",
+     "segments": null
+    },
+    {
+     "old": "ME阈值电平发射器",
+     "new": "ME阈值发信器",
+     "english_context": "ME Threshold Level Emitter",
+     "segments": null
+    },
+    {
+     "old": "ME无线设置套件",
+     "new": "ME无线连接工具",
+     "english_context": "ME Wireless Setup Kit",
+     "segments": null
+    },
+    {
+     "old": "机械外壳",
+     "new": "机器外壳",
+     "english_context": "Machine Casing",
+     "segments": null
+    },
+    {
+     "old": "网络发射器",
+     "new": "网络变送器",
+     "english_context": "Network Transmitter",
+     "segments": null
+    },
+    {
+     "old": "橡木抽屉\\(1×1\\)",
+     "new": "橡木抽屉(1x1)",
+     "english_context": "Oak Drawer",
+     "segments": null
+    },
+    {
+     "old": "打包胶带",
+     "new": "打包带",
+     "english_context": "Packing Tape",
+     "segments": null
+    },
+    {
+     "old": "反应室",
+     "new": "反应仓",
+     "english_context": "Reaction Chamber",
+     "segments": null
+    },
+    {
+     "old": "调节升级",
+     "new": "调节器升级",
+     "english_context": "Regulator Upgrade",
+     "segments": null
+    },
+    {
+     "old": "安全卡",
+     "new": "权限卡",
+     "english_context": "(?<!Ender )Security Card",
+     "segments": null
+    },
+    {
+     "old": "安全管理器",
+     "new": "权限管理器",
+     "english_context": "Security Manager",
+     "segments": null
+    },
+    {
+     "old": "升级基板",
+     "new": "空白升级",
+     "english_context": "Upgrade Base",
+     "segments": [
+      21,
+      89,
+      191
+     ]
+    },
+    {
+     "old": "销毁升级",
+     "new": "虚空升级",
+     "english_context": "Void Upgrade",
+     "segments": null
+    },
+    {
+     "old": "无线发信器",
+     "new": "无线访问点",
+     "english_context": "Wireless Transmitter",
+     "segments": null
+    },
+    {
+     "old": "控制器接入点",
+     "new": "控制器扩展器",
+     "english_context": "Controller Access Point",
+     "segments": null
+    },
+    {
+     "old": "维度箱(?!子)",
+     "new": "维度箱子",
+     "english_context": "Dimensional Chest",
+     "segments": null
+    },
+    {
+     "old": "无线增幅器",
+     "new": "无线信号增幅器",
+     "english_context": "Wireless Booster",
+     "segments": null
+    },
+    {
+     "old": "存储监视器",
+     "new": "存储监控器",
+     "english_context": "Storage Monitor",
+     "segments": null
+    },
+    {
+     "old": "抽取和推送升级",
+     "new": "抽入升级和推出升级",
+     "english_context": "Pusher Upgrade",
+     "segments": null
+    },
+    {
+     "old": "存储连接器",
+     "new": "存储链接",
+     "english_context": "Storage Link",
+     "segments": null
+    },
+    {
+     "old": "&a输入器&r和&2输出器&r",
+     "new": "&a输入总线&r和&2输出总线&r",
+     "english_context": null,
+     "segments": [
+      3
+     ]
+    },
+    {
+     "old": "装在&a输出器&r上时",
+     "new": "装在&a输出总线&r上时",
+     "english_context": null,
+     "segments": [
+      263
+     ]
+    },
+    {
+     "old": "装在&2输入器&r上时",
+     "new": "装在&2输入总线&r上时",
+     "english_context": null,
+     "segments": [
+      263
+     ]
+    },
+    {
+     "old": "&a破坏器",
+     "new": "&a破坏面板",
+     "english_context": null,
+     "segments": [
+      31,
+      315
+     ]
+    },
+    {
+     "old": "安装在破坏器中",
+     "new": "安装在破坏面板中",
+     "english_context": null,
+     "segments": [
+      445
+     ]
+    },
+    {
+     "old": "&a成型器",
+     "new": "&a成型面板",
+     "english_context": null,
+     "segments": [
+      360,
+      513
+     ]
+    },
+    {
+     "old": "&a探测器&r",
+     "new": "&a网络物品检测器&r",
+     "english_context": "Detector",
+     "segments": [
+      336
+     ]
+    },
+    {
+     "old": "精致存储&a控制器",
+     "new": "精致存储&a存储控制器",
+     "english_context": "Controller",
+     "segments": [
+      515
+     ]
+    }
+   ]
+  },
+  {
+   "chapter": "nautec",
+   "segments_changed": 250,
+   "mappings": [
+    {
+     "old": "深渊压力锻炉",
+     "new": "深海压力锻炉",
+     "english_context": "Pressure Forge",
+     "segments": null
+    },
+    {
+     "old": "高级细菌分析仪",
+     "new": "高级细菌分析机",
+     "english_context": "Bacterial Analyzer",
+     "segments": null
+    },
+    {
+     "old": "细菌分析仪",
+     "new": "细菌分析机",
+     "english_context": "Bacterial Analyzer",
+     "segments": null
+    },
+    {
+     "old": "基础分析仪",
+     "new": "基础分析机",
+     "english_context": "Bacterial Analyzer",
+     "segments": null
+    },
+    {
+     "old": "海蓝培养皿存储器",
+     "new": "海蓝培养皿存储架",
+     "english_context": "Dish Storage",
+     "segments": null
+    },
+    {
+     "old": "海蓝钢化合物",
+     "new": "海蓝钢混合物",
+     "english_context": "Aquarine Steel Compound",
+     "segments": null
+    },
+    {
+     "old": "海蓝铜化合物",
+     "new": "海蓝铜混合物",
+     "english_context": "Aquarine Copper Compound",
+     "segments": null
+    },
+    {
+     "old": "海蓝扳手",
+     "new": "海蓝钢扳手",
+     "english_context": "Wrench",
+     "segments": null
+    },
+    {
+     "old": "海洋催化器",
+     "new": "海蓝催化器",
+     "english_context": "Aquatic Catalyst",
+     "segments": null
+    },
+    {
+     "old": "海洋芯片",
+     "new": "海蓝芯片",
+     "english_context": "Aquatic Chip",
+     "segments": null
+    },
+    {
+     "old": "装甲模块",
+     "new": "护甲模块",
+     "english_context": "Armou?r Module",
+     "segments": null
+    },
+    {
+     "old": "工业生物反应器",
+     "new": "工业生物反应机",
+     "english_context": "Bio Reactor",
+     "segments": null
+    },
+    {
+     "old": "生物反应器",
+     "new": "生物反应机",
+     "english_context": "Bio Reactor",
+     "segments": null
+    },
+    {
+     "old": "生物群系培养罐",
+     "new": "生态缸",
+     "english_context": "Biome Tank",
+     "segments": null
+    },
+    {
+     "old": "淤泥跃鱼",
+     "new": "淤泥跳鱼",
+     "english_context": "Silt Skipper",
+     "segments": null
+    },
+    {
+     "old": "海蓝水晶母岩",
+     "new": "海晶母岩",
+     "english_context": "Budding Prismarine",
+     "segments": null
+    },
+    {
+     "old": "甲壳素板",
+     "new": "甲壳板",
+     "english_context": "Chitin Plate",
+     "segments": null
+    },
+    {
+     "old": "菌落复制器",
+     "new": "菌落复制机",
+     "english_context": "Colony Replicator",
+     "segments": null
+    },
+    {
+     "old": "水晶培养底座",
+     "new": "晶体培育座",
+     "english_context": "Crystal Cradle",
+     "segments": null
+    },
+    {
+     "old": "洋流导管",
+     "new": "水流导管",
+     "english_context": "Current Conduit",
+     "segments": null
+    },
+    {
+     "old": "深海带",
+     "new": "深海海带",
+     "english_context": "Deep Kelp",
+     "segments": null
+    },
+    {
+     "old": "深海排水管壁",
+     "new": "深海排水口壁",
+     "english_context": "Deep Sea Drain",
+     "segments": null
+    },
+    {
+     "old": "深海排水管",
+     "new": "深海排水口",
+     "english_context": "Deep Sea Drain",
+     "segments": null
+    },
+    {
+     "old": "深海钢板",
+     "new": "深海钢镀板",
+     "english_context": "Deep Steel Plat",
+     "segments": null
+    },
+    {
+     "old": "休眠水晶种子",
+     "new": "休眠晶种",
+     "english_context": "Dormant Crystal Seed",
+     "segments": null
+    },
+    {
+     "old": "无瑕海蓝水晶",
+     "new": "无瑕海棱水晶",
+     "english_context": "Flawless Prismarine Crystal",
+     "segments": null
+    },
+    {
+     "old": "激光枢纽",
+     "new": "激光转接器",
+     "english_context": "Laser Junction",
+     "segments": null
+    },
+    {
+     "old": "发光藻",
+     "new": "荧光藻",
+     "english_context": "Luminescent Algae",
+     "segments": null
+    },
+    {
+     "old": "发光薄膜",
+     "new": "发光膜",
+     "english_context": "Luminous Membrane",
+     "segments": null
+    },
+    {
+     "old": "突变器",
+     "new": "诱变机",
+     "english_context": "Mutator",
+     "segments": null
+    },
+    {
+     "old": "海工分配器",
+     "new": "海蓝科技分配器",
+     "english_context": "Nautechnical Distributor",
+     "segments": null
+    },
+    {
+     "old": "棱镜单片眼镜",
+     "new": "海晶单片镜",
+     "english_context": "Prism Monocle",
+     "segments": null
+    },
+    {
+     "old": "海蓝水晶种子",
+     "new": "海晶晶种",
+     "english_context": "Prismarine Crystal Seed",
+     "segments": null
+    },
+    {
+     "old": "海蓝水晶碎片",
+     "new": "海棱水晶碎片",
+     "english_context": "Prismarine Crystal Shard",
+     "segments": null
+    },
+    {
+     "old": "(?<![无培育])海蓝水晶(?![碎母种])",
+     "new": "海棱水晶",
+     "english_context": "Prismarine Crystal(?! Seed| Shard)",
+     "segments": null
+    },
+    {
+     "old": "海晶蕨",
+     "new": "海晶叶丛",
+     "english_context": "Prismarine Frond",
+     "segments": null
+    },
+    {
+     "old": "海蓝电池",
+     "new": "海晶电池",
+     "english_context": "Prismatic Battery",
+     "segments": null
+    },
+    {
+     "old": "棱晶发射器",
+     "new": "海晶发射器",
+     "english_context": "Prismatic Emitter",
+     "segments": null
+    },
+    {
+     "old": "海蓝钓竿",
+     "new": "海晶钓鱼竿",
+     "english_context": "Prismatic Fishing Rod",
+     "segments": null
+    },
+    {
+     "old": "反应器效率升级",
+     "new": "反应机效率升级",
+     "english_context": "Reactor Efficiency Upgrade",
+     "segments": null
+    },
+    {
+     "old": "反应器融合升级",
+     "new": "反应机融合升级",
+     "english_context": "Reactor Fusion Upgrade",
+     "segments": null
+    },
+    {
+     "old": "反应器速度升级",
+     "new": "反应机速度升级",
+     "english_context": "Reactor Speed Upgrade",
+     "segments": null
+    },
+    {
+     "old": "反应器产量升级",
+     "new": "反应机产量升级",
+     "english_context": "Reactor Yield Upgrade",
+     "segments": null
+    },
+    {
+     "old": "共振室",
+     "new": "共鸣室",
+     "english_context": "Resonance Chamber",
+     "segments": null
+    },
+    {
+     "old": "共振护符",
+     "new": "共鸣护符",
+     "english_context": "Resonance Charm",
+     "segments": null
+    },
+    {
+     "old": "共振节点",
+     "new": "共鸣节点",
+     "english_context": "Resonance Node",
+     "segments": null
+    },
+    {
+     "old": "共振碎片",
+     "new": "共鸣碎片",
+     "english_context": "Resonant Shard",
+     "segments": null
+    },
+    {
+     "old": "刷怪笼拘束矩阵",
+     "new": "刷怪笼约束矩阵",
+     "english_context": "Spawner Confinement Matrix",
+     "segments": null
+    },
+    {
+     "old": "拘束刷怪笼",
+     "new": "约束刷怪笼",
+     "english_context": "Confined Spawner",
+     "segments": null
+    },
+    {
+     "old": "隐匿模块",
+     "new": "隐形模块",
+     "english_context": "Stealth Module",
+     "segments": null
+    },
+    {
+     "old": "热液汲取器",
+     "new": "热泉汲取器",
+     "english_context": "Thermal Vent Tap",
+     "segments": null
+    },
+    {
+     "old": "上行阵列",
+     "new": "上行链路阵列",
+     "english_context": "Uplink Array",
+     "segments": null
+    },
+    {
+     "old": "喷口管虫",
+     "new": "热泉管虫",
+     "english_context": "Vent Tubeworm",
+     "segments": null
+    },
+    {
+     "old": "波浪推进器",
+     "new": "水流喷射器",
+     "english_context": "Wave Jet",
+     "segments": null
+    },
+    {
+     "old": "烧焦的线圈",
+     "new": "烧坏的线圈",
+     "english_context": "Burnt Coil",
+     "segments": null
+    },
+    {
+     "old": "电解藻类血清",
+     "new": "电解藻类浆液",
+     "english_context": "Electrolyte Algae Serum",
+     "segments": null
+    },
+    {
+     "old": "海晶砂(?!粒)",
+     "new": "海晶砂粒",
+     "english_context": "Prismarine Crystals",
+     "segments": null
+    },
+    {
+     "old": "海蓝激光中继器",
+     "new": "海晶石激光中继器",
+     "english_context": "Laser Relay",
+     "segments": null
+    },
+    {
+     "old": "枢纽",
+     "new": "转接器",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "共振室",
+     "new": "共鸣室",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "海蓝水晶碎片",
+     "new": "海棱水晶碎片",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "培育海蓝水晶",
+     "new": "培育海棱水晶",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "海蓝水晶簇",
+     "new": "海晶簇",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "海蓝水晶碎块",
+     "new": "海棱水晶碎块",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "拘束后的刷怪笼",
+     "new": "约束后的刷怪笼",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "深色海晶石柱",
+     "new": "暗海晶石柱",
+     "english_context": "Dark Prismarine Pillar",
+     "segments": null
+    },
+    {
+     "old": "平滑海晶石",
+     "new": "磨制海晶石",
+     "english_context": "Polished Prismarine",
+     "segments": null
+    },
+    {
+     "old": "铸铁化合物",
+     "new": "铸铁混合物",
+     "english_context": "Cast Iron Compound",
+     "segments": null
+    },
+    {
+     "old": "热液喷口",
+     "new": "海底热泉",
+     "english_context": "Hydrothermal Vent",
+     "segments": null
+    },
+    {
+     "old": "生物荧光林|(?<!海)荧光林",
+     "new": "荧光海林",
+     "english_context": "Bioluminescent Grove",
+     "segments": null
+    },
+    {
+     "old": "损坏的?搅拌器",
+     "new": "破损的搅拌器",
+     "english_context": "Broken Whisk",
+     "segments": null
+    },
+    {
+     "old": "守卫之眼",
+     "new": "守卫者之眼",
+     "english_context": "Guardian Eye",
+     "segments": null
+    },
+    {
+     "old": "扩展强化站",
+     "new": "强化站扩展单元",
+     "english_context": "Augmentation Station Extension",
+     "segments": null
+    },
+    {
+     "old": "(?<!海)荧光林",
+     "new": "荧光海林",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "热液喷口",
+     "new": "海底热泉",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "深色海晶石",
+     "new": "暗海晶石",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "喷口甲壳",
+     "new": "热泉甲壳",
+     "english_context": "Vent Carapace",
+     "segments": null
+    },
+    {
+     "old": "喷口爬行者",
+     "new": "热泉爬行者",
+     "english_context": "Vent Crawler",
+     "segments": null
+    },
+    {
+     "old": "(?<!嗜)金属菌",
+     "new": "嗜金属菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "(?<!嗜)青金石菌",
+     "new": "嗜青金菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "(?<![嗜青])金菌",
+     "new": "嗜金菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "(?<!嗜)铁菌",
+     "new": "嗜铁菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "钻石菌",
+     "new": "嗜金刚菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "(?<!嗜)绿宝石菌",
+     "new": "嗜绿宝石菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "石头菌",
+     "new": "嗜岩石菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "造藻菌",
+     "new": "成藻菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "钙质菌",
+     "new": "嗜钙菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "嗜盐菌",
+     "new": "盐细菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "产甲烷菌",
+     "new": "甲烷菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "硫磺菌",
+     "new": "嗜硫菌",
+     "english_context": null,
+     "segments": null
+    },
+    {
+     "old": "修复损坏芯片",
+     "new": "修复损坏的海蓝芯片",
+     "english_context": "Damaged Aquatic Chip",
+     "segments": null
+    }
+   ]
+  }
+ ]
+}

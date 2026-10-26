@@ -1,0 +1,554 @@
+{
+  "ftbic/materials/alloys.md": {
+    "76": {
+      "source": "General-purpose intermediate alloy. The Alloy Smelter has no constantan recipe; ingots come from smelting constantan dust or from nuggets and blocks."
+    },
+    "171": {
+      "source": "Made in the <ItemLink id=\"alloy_smelter\" />: 1 lead + 1 diamond + 1 ender pearl → 1 enderium ingot. There is no shaped-craft path."
+    }
+  },
+  "nodeworks/example-setups/automated-celestine-farm.md": {
+    "11": {
+      "source": "<ItemLink id=\"budding_celestine\" /> can be easily farmed using a <ItemLink id=\"breaker\" /> and optionally with a <ItemLink id=\"terminal\" />."
+    },
+    "13": {
+      "source": "Breakers should be filtered to break `#c:clusters`"
+    },
+    "15": {
+      "source": "![image of the breaker GUI with clusters set as its filter to break](../assets/images/breaker_clusters.png)"
+    }
+  },
+  "nodeworks/example-setups/automated-smelting.md": {
+    "30": {
+      "source": "    Export Chest from the storage Network has items pushing Down set in its GUI."
+    },
+    "36": {
+      "source": "    Export Chest from the furnace Network is pushing its items Up which is set in its GUI."
+    },
+    "49": {
+      "source": "Optionally you can use a <ItemLink id=\"terminal\" /> to achieve the same thing with more flexibility."
+    },
+    "55": {
+      "source": "    <ItemImage id=\"io_card\" /> IO Cards"
+    },
+    "59": {
+      "source": "With the following script:"
+    },
+    "64": {
+      "source": "-- put raw materials and ores into the furnaces"
+    },
+    "72": {
+      "source": "-- take the finished ingots out of the furnaces"
+    }
+  },
+  "nodeworks/example-setups/milky-soul-ball-farm.md": {
+    "24": {
+      "source": "    ![image of the Placer GUI with an empty bucket set as its filter](../assets/images/user_empty_bucket.png)"
+    },
+    "30": {
+      "source": "    ![image of the User GUI with milk bucket set as its filter](../assets/images/user_milk_bucket.png)"
+    },
+    "35": {
+      "source": "    ![image of the Placer GUI with soul sand set as its filter](../assets/images/placer_soul_sand.png)"
+    }
+  },
+  "nodeworks/getting-started.md": {
+    "26": {
+      "source": "    <ItemImage id=\"nodeworks:storage_card\" /> Storage Card"
+    },
+    "38": {
+      "source": "- [Moving items](./nodeworks-mechanics/moving-items.md)"
+    }
+  },
+  "nodeworks/items-blocks/craft_requester.md": {
+    "18": {
+      "source": "> Requires a <ItemLink id=\"network_controller\" /> to use"
+    }
+  },
+  "nodeworks/items-blocks/crafting_cpu.md": {
+    "24": {
+      "source": "> Requires a <ItemLink id=\"network_controller\" /> to use"
+    }
+  },
+  "nodeworks/items-blocks/inventory_terminal.md": {
+    "36": {
+      "source": "- Toggle to sync JEI search with the terminal"
+    },
+    "37": {
+      "source": "- Channel filtered view"
+    }
+  },
+  "nodeworks/items-blocks/io_card.md": {
+    "19": {
+      "source": "> In order to get any use out of the IO Card in scripting you must first have a <ItemLink id=\"network_controller\" />"
+    }
+  },
+  "nodeworks/items-blocks/multi_processing_handler.md": {
+    "4": {
+      "source": "  title: Multi-Processing Handler"
+    },
+    "13": {
+      "source": "# Multi-Processing Handler"
+    },
+    "15": {
+      "source": "A <ItemLink id=\"processing_handler\" /> that handles many"
+    },
+    "16": {
+      "source": "[Processing Set](./recipe_sets.md#processing-set) recipes at once. Bind"
+    },
+    "17": {
+      "source": "multiple ore recipe to one Handler in front of a bank of furnaces and the"
+    },
+    "18": {
+      "source": "[Crafting CPU](./crafting_cpu.md) routes each craft through it, no Lua"
+    },
+    "19": {
+      "source": "and no Handler per recipe."
+    },
+    "21": {
+      "source": "> Requires a <ItemLink id=\"network_controller\" /> to use"
+    },
+    "27": {
+      "source": "    <ItemImage id=\"storage_card\" /> Blue channel Storage Card"
+    },
+    "30": {
+      "source": "    <ItemImage id=\"storage_card\" /> Red channel Storage Card"
+    },
+    "33": {
+      "source": "    Configured for multiple smelting recipes."
+    },
+    "37": {
+      "source": "## Two sides"
+    },
+    "39": {
+      "source": "The same shape as the Processing Handler: the **back face** joins the"
+    },
+    "40": {
+      "source": "parent network, the **front face** anchors its own micro-network of"
+    },
+    "41": {
+      "source": "pipes, nodes and storage cards around the machines. See"
+    },
+    "42": {
+      "source": "[Two sides](./processing_handler.md#two-sides) for the layout."
+    },
+    "44": {
+      "source": "## Choosing recipes"
+    },
+    "46": {
+      "source": "Right-click the Handler to open its GUI. It lists every Processing Set on"
+    },
+    "47": {
+      "source": "the parent network with a checkbox. Tick the ones this Handler should"
+    },
+    "48": {
+      "source": "take. Ticked recipes sort to the top, and the search box narrows the list by recipe or item name."
+    },
+    "50": {
+      "source": "The counter in the corner shows how many are ticked out of the limit. A"
+    },
+    "51": {
+      "source": "recipe a script or another Handler already owns is greyed out, and so is"
+    },
+    "52": {
+      "source": "everything else once the limit is reached."
+    },
+    "54": {
+      "source": "A ticked recipe that is later removed from Processing Storage stays in the"
+    },
+    "55": {
+      "source": "list marked as missing, so you can untick it. It comes back to life if the"
+    },
+    "56": {
+      "source": "Set returns."
+    },
+    "58": {
+      "source": "## Channels"
+    },
+    "60": {
+      "source": "One input channel and one output channel, shared by every recipe."
+    },
+    "61": {
+      "source": "Ingredients of any ticked recipe go to <ItemLink id=\"storage_card\" />s on"
+    },
+    "62": {
+      "source": "the micro-network with the input color, finished outputs are pulled from"
+    },
+    "63": {
+      "source": "cards with the output color. For a furnace bank that is one blue card on"
+    },
+    "64": {
+      "source": "top of each furnace and one red card underneath."
+    },
+    "66": {
+      "source": "Every ingredient arrives on the same channel, so the sorting happens on the"
+    },
+    "67": {
+      "source": "cards. Give each Storage Card a [filter](./storage_card.md#filters) and only"
+    },
+    "68": {
+      "source": "matching items land in its block: a card on the side of each furnace that"
+    },
+    "69": {
+      "source": "allows `#c:coal` takes the fuel, the card on top that denies it takes the"
+    },
+    "70": {
+      "source": "ore, both on the blue channel."
+    },
+    "74": {
+      "source": "## Parallel Mode"
+    },
+    "76": {
+      "source": "By default the Handler runs one craft at a time, so two recipes from the same crafting tree queue up instead of fighting over the same furnaces, and a co-processor waiting on it goes to work on something else."
+    },
+    "77": {
+      "source": "If you want to change this you can press the **Parallel** toggle switch which lets crafts run in parallel."
+    },
+    "81": {
+      "source": "## Compared to the Processing Handler"
+    },
+    "83": {
+      "source": "Use a <ItemLink id=\"processing_handler\" /> when one recipe wants its own"
+    },
+    "84": {
+      "source": "machine or its own channel per ingredient. Use the Multi-Processing"
+    },
+    "85": {
+      "source": "Handler when many recipes share one machine bank and all route the same"
+    },
+    "86": {
+      "source": "way."
+    },
+    "88": {
+      "source": "## Recipe"
+    }
+  },
+  "nodeworks/items-blocks/network_controller.md": {
+    "14": {
+      "source": "Any Nodeworks network that wants to have an auto-crafting CPU or scripting capabilities needs **exactly one Controller**."
+    },
+    "24": {
+      "source": "## What Requires a Controller?"
+    }
+  },
+  "nodeworks/items-blocks/observer_card.md": {
+    "20": {
+      "source": "> If you want to use an Observer Card for scripting then you'll need a <ItemLink id=\"network_controller\" /> to use the <ItemLink id=\"terminal\" />"
+    }
+  },
+  "nodeworks/items-blocks/processing_handler.md": {
+    "21": {
+      "source": "> Requires a <ItemLink id=\"network_controller\" /> to use"
+    },
+    "27": {
+      "source": "    <ItemImage id=\"storage_card\" /> Blue channel Storage Card"
+    },
+    "30": {
+      "source": "    <ItemImage id=\"storage_card\" /> Red channel Storage Card"
+    }
+  },
+  "nodeworks/items-blocks/redstone_card.md": {
+    "17": {
+      "source": "> If you want to use this card you'll first need a <ItemLink id=\"network_controller\" /> in the network."
+    }
+  },
+  "nodeworks/items-blocks/scripting_terminal.md": {
+    "17": {
+      "source": "> Requires a <ItemLink id=\"network_controller\" /> to use"
+    }
+  },
+  "nodeworks/items-blocks/storage_meter.md": {
+    "19": {
+      "source": "> Requires a <ItemLink id=\"network_controller\" /> to use"
+    }
+  },
+  "nodeworks/items-blocks/variable.md": {
+    "17": {
+      "source": "> Requires a <ItemLink id=\"network_controller\" /> to use."
+    }
+  },
+  "nodeworks/lua-api/importer.md": {
+    "13": {
+      "source": "The `importer` global builds movers that pull items and fluids from one or"
+    },
+    "14": {
+      "source": "more sources and deposit them into one or more targets. Every importer is a"
+    },
+    "15": {
+      "source": "scheduled task under the hood, so it keeps running at its configured interval"
+    },
+    "16": {
+      "source": "until the script stops or you call `:stop()` on the handle."
+    },
+    "63": {
+      "source": "What to move. Anything matching one of the rules moves. Leave it out to move everything. Filter syntax is the same as [Network:find](network.md#find)."
+    },
+    "65": {
+      "source": "You can use `:filter()` multiple times to apply multiple filters or call it with no parameter to reset the filter."
+    },
+    "81": {
+      "source": "puller:filter() -- resets the filters"
+    },
+    "82": {
+      "source": "puller:start() -- starts the importer"
+    },
+    "86": {
+      "source": "## except"
+    },
+    "88": {
+      "source": "Allows you to specify any items you explicitly do **not** want to move."
+    },
+    "92": {
+      "source": "-- All ores, except one the furnaces can't smelt"
+    },
+    "101": {
+      "source": "-- Empty a machine, but leave its slag in it"
+    },
+    "106": {
+      "source": "## Fluids"
+    },
+    "108": {
+      "source": "Importers move fluids too. Any rule can name a fluid, and `$fluid:` picks the"
+    },
+    "109": {
+      "source": "fluid when an item shares the name. Amounts are in millibuckets, a bucket is `1000`. A target with no tank is simply skipped for fluids."
+    },
+    "123": {
+      "source": "The importer has two ways of splitting what it moves across targets. The"
+    },
+    "124": {
+      "source": "default is fill, you opt into round robin explicitly."
+    },
+    "144": {
+      "source": "Shares out evenly across every target. Provide a number to specify how much each target gets per turn, default 1."
+    },
+    "145": {
+      "source": "For items that is items, for fluids it is millibuckets,"
+    },
+    "146": {
+      "source": "so give a fluid importer a step like 1000 for a bucket per turn."
+    },
+    "187": {
+      "source": "Ores and raw materials feed in round robin to every furnace, finished ingots"
+    },
+    "188": {
+      "source": "collect back into the network."
+    },
+    "194": {
+      "source": "-- Feed the furnaces evenly"
+    },
+    "203": {
+      "source": "-- Collect whatever comes out"
+    }
+  },
+  "nodeworks/lua-api/input-items.md": {
+    "56": {
+      "source": "## all"
+    },
+    "58": {
+      "source": "Returns every input as a list, in the order the recipe lists them. Use it"
+    },
+    "59": {
+      "source": "when one handler serves many recipes and the field names differ from one"
+    },
+    "60": {
+      "source": "recipe to the next, as with [`network:recipes`](network.md#recipes)."
+    },
+    "74": {
+      "source": "The handles in the list are the same ones the named fields hold, so moving"
+    },
+    "75": {
+      "source": "`items.rawIron` also empties its entry in the list."
+    }
+  },
+  "nodeworks/lua-api/job.md": {
+    "79": {
+      "source": "## recipe"
+    },
+    "81": {
+      "source": "A `Job` also says which Processing Set it is running, so one handler for many"
+    },
+    "82": {
+      "source": "recipes, like a [`network:recipes`](network.md#recipes) handler, can treat a"
+    },
+    "83": {
+      "source": "few of them differently."
+    },
+    "85": {
+      "source": "- `job.name` is the set's name, the same one `network:handle` takes."
+    },
+    "86": {
+      "source": "- `job.inputs` lists the set's inputs in slot order. Each entry has `id` and"
+    },
+    "87": {
+      "source": "  `count`, plus `tag` when the input takes any item from a tag."
+    },
+    "88": {
+      "source": "- `job.outputs` lists what the set makes. Each entry has `id`, `count` and"
+    },
+    "89": {
+      "source": "  `optional`, which is true for a chance output."
+    },
+    "96": {
+      "source": "  -- Iron goes to the blast furnace, everything else to the plain furnace."
+    }
+  },
+  "nodeworks/lua-api/network.md": {
+    "342": {
+      "source": "## recipes"
+    },
+    "344": {
+      "source": "Handles many Processing Sets with one function. Name the inputs the sets take,"
+    },
+    "345": {
+      "source": "and every set whose inputs all match runs through the same handler. Sets added"
+    },
+    "346": {
+      "source": "to the network later are picked up too, there's no need to restart the script."
+    },
+    "366": {
+      "source": "### Which sets match"
+    },
+    "368": {
+      "source": "- **`network:recipes(...)`**: every input of a set must match one of these"
+    },
+    "369": {
+      "source": "  rules. A set that also takes coal is left out of an ingot rule, so alloys"
+    },
+    "370": {
+      "source": "  don't slip in. With no rules, every set matches."
+    },
+    "371": {
+      "source": "- **`:except(...)`**: a set with any input matching one of these is left out."
+    },
+    "372": {
+      "source": "- **`:outputs(...)`**: optional. Every output the set is sure to make must"
+    },
+    "373": {
+      "source": "  match one of these too. Use it when the same input goes to different"
+    },
+    "374": {
+      "source": "  machines, such as raw iron to a furnace for ingots and to a crusher for dust."
+    },
+    "375": {
+      "source": "  Chance outputs aren't looked at."
+    },
+    "379": {
+      "source": "-- Raw materials, but only the sets that make ingots."
+    },
+    "384": {
+      "source": "Rules use the same syntax as [Storage Card filters](../items-blocks/storage_card.md#filters),"
+    },
+    "385": {
+      "source": "so item ids, `#tags` and `*` wildcards all work."
+    },
+    "387": {
+      "source": "### Who wins"
+    },
+    "389": {
+      "source": "- An exact [`network:handle`](./network.md#handle) for a set always beats a `recipes` handler."
+    },
+    "390": {
+      "source": "- A set bound to a <ItemLink id=\"processing_handler\" /> or <ItemLink id=\"multi_processing_handler\" />"
+    },
+    "391": {
+      "source": "  stays with that block. A broad rule never takes a set you ticked on a block."
+    },
+    "392": {
+      "source": "- When two `recipes` handlers match the same set, the one registered first wins."
+    },
+    "394": {
+      "source": "### One craft at a time"
+    },
+    "396": {
+      "source": "A `recipes` handler runs one craft at a time, since its recipes usually share"
+    },
+    "397": {
+      "source": "the same machines. Another craft that needs it waits its turn instead of"
+    },
+    "398": {
+      "source": "fighting over the furnace. When the recipes never share a machine, for example"
+    },
+    "399": {
+      "source": "a bank where each furnace takes a different input, call `:parallel()` so"
+    },
+    "400": {
+      "source": "crafts can run side by side."
+    },
+    "408": {
+      "source": "### Stopping and checking"
+    },
+    "410": {
+      "source": "`:handle` returns a handler you can stop, or ask which sets it takes right now."
+    },
+    "416": {
+      "source": "  print(line) -- minecraft:raw_iron -> minecraft:iron_ingot"
+    },
+    "422": {
+      "source": "Read each craft's details from [`job`](job.md#recipe), and the inputs from"
+    }
+  },
+  "nodeworks/lua-api/stocker.md": {
+    "114": {
+      "source": "What counts toward `:keep(n)`, and what `:from` pulls. Leave it out to count any item."
+    },
+    "115": {
+      "source": "You can pass several rules, call it more than once, or hand it a table."
+    },
+    "116": {
+      "source": "Call it with nothing to start over. **`:ensure` and `:craft` set this for"
+    },
+    "117": {
+      "source": "you**, so you only need it with `:from`."
+    },
+    "130": {
+      "source": "### except"
+    },
+    "132": {
+      "source": "What to leave out of the count and the pull, even if `:filter` would take it."
+    },
+    "136": {
+      "source": "-- A stack of arrows, but never the tipped ones"
+    }
+  },
+  "nodeworks/nodeworks-mechanics/autocrafting.md": {
+    "24": {
+      "source": "1. **A Network Controller.** In order for your network to do any auto-crafting"
+    },
+    "25": {
+      "source": "    it must first have a <ItemLink id=\"network_controller\" />"
+    },
+    "30": {
+      "source": "1. **Recipes.** Author each recipe into an"
+    },
+    "35": {
+      "source": "1. **Ingredients.** The raw materials have to be somewhere in [Network Storage](./network-storage.md). Any chest plugged in with a <ItemLink id=\"storage_card\" /> counts."
+    },
+    "36": {
+      "source": "1. **A way to ask.** Either an <ItemLink id=\"inventory_terminal\" /> for you"
+    }
+  },
+  "nodeworks/nodeworks-mechanics/moving-items.md": {
+    "12": {
+      "source": "network storage. This page walks through a few variations, the basic case first then"
+    },
+    "51": {
+      "source": "### Moving items between two blocks"
+    },
+    "53": {
+      "source": "If you specifically need to move items between two different blocks you can do that with a combination of an <ItemLink id=\"export_chest\"/> and a <ItemLink id=\"node\"/> with a <ItemLink id=\"storage_card\"/> inside it."
+    },
+    "62": {
+      "source": "    Export Chest pushes items into the Shulker Box"
+    },
+    "67": {
+      "source": "### Moving items from network to network"
+    },
+    "69": {
+      "source": "If you need to move items between multiple chests to another network of multiple chests you can use import and export chests together. You can configure the export chest to push its contents into the import chest."
+    },
+    "81": {
+      "source": "    Export Chest pushes into the Import Chest"
+    }
+  }
+}

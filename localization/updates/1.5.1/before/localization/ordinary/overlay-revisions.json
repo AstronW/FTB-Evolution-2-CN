@@ -1,0 +1,164 @@
+[
+  {
+    "batch": "batch-289",
+    "namespace": "anima",
+    "key": "book.anima.codex.components.stamper.p2.text",
+    "source": "Turn the lever on to stamp. Turn it off to open the lid, then right-click to collect the output. Collect it before starting another batch.\\\n\\\nA wrong pattern leaves its ingredients intact. Follow the component arrows for more parts, or make [Foci](entry://anima:codex/components/soul_focus) to cast spells.",
+    "previous": "打开拉杆开始压印.关闭拉杆即打开盖子, 再右键点击收取产出.请在开始下一批之前收走产物.\\\n\\\n图案错误时材料会完好保留.沿着部件箭头继续制作其他部件, 或做法器来施法.",
+    "translation": "打开拉杆开始压印.关闭拉杆即打开盖子, 再右键点击收取产出.请在开始下一批之前收走产物.\\\n\\\n图案错误时材料会完好保留.沿着部件箭头继续制作其他部件, 或制作[法器](entry://anima:codex/components/soul_focus)来施法.",
+    "reason": "2026-10-18 控制语法审查: 恢复遗漏的页面链接."
+  },
+  {
+    "batch": "batch-297",
+    "namespace": "arsmagicalegacy",
+    "key": "item.arsmagicalegacy.arcane_compendium.modifiers.duration.page0.text",
+    "source": "Enhances the duration of all effect spells, and increases the lifetime of $(l:shapes/projectile)projectiles$(), $(l:shapes/wall)walls$(), $(l:shapes/wave)waves$() and $(l:shapes/zone)zones.",
+    "previous": "延长所有效果类法术的持续时间, 并增加$(l:shapes/projectile)投射物$(), $(l:shapes/wall)墙$(), $(l:shapes/wave)波$()和$(l:shapes/zone)区域$()的存续时间.",
+    "translation": "延长所有效果类法术的持续时间, 并增加以下法术形态的存续时间: $(l:shapes/projectile)投射物$(), $(l:shapes/wall)墙$(), $(l:shapes/wave)波$()和$(l:shapes/zone)区域.",
+    "reason": "2026-10-18 控制语法审查: 调整中文语序以保留原始宏序列."
+  },
+  {
+    "batch": "batch-003",
+    "namespace": "nautec",
+    "key": "advancements.nautec.deep_survey.description",
+    "source": "Visit every NauTec ocean biome",
+    "previous": "探索全部 NauTec 海洋生物群系",
+    "translation": "探索全部 海蓝科技 海洋生物群系",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-003",
+    "namespace": "nautec",
+    "key": "advancements.nautec.root.title",
+    "source": "NauTec 2",
+    "previous": "NauTec 2",
+    "translation": "海蓝科技 2",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-003",
+    "namespace": "nautec",
+    "key": "key.category.nautec.main",
+    "source": "Nautec",
+    "previous": "Nautec",
+    "translation": "海蓝科技",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-004",
+    "namespace": "nautec",
+    "key": "nautec.creative_tab.main",
+    "source": "NauTec 2",
+    "previous": "NauTec 2",
+    "translation": "海蓝科技 2",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "itemGroup.stellaris.stellaris",
+    "source": "Stellaris",
+    "previous": "Stellaris",
+    "translation": "群星",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "itemGroup.stellaris.stellaris_blocks",
+    "source": "Stellaris Blocks",
+    "previous": "Stellaris 方块",
+    "translation": "群星 方块",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "application.stellaris.wiki.description",
+    "source": "Access information about space exploration and Stellaris mod features.",
+    "previous": "查阅太空探索及 Stellaris 模组功能的信息.",
+    "translation": "查阅太空探索及 群星 模组功能的信息.",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "key.category.stellaris.stellaris",
+    "source": "Stellaris",
+    "previous": "Stellaris",
+    "translation": "群星",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "advancements.stellaris.root.title",
+    "source": "Stellaris",
+    "previous": "Stellaris",
+    "translation": "群星",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "wiki.stellaris.mobs.description",
+    "source": "Discover all the mobs of Stellaris.",
+    "previous": "认识 Stellaris 的所有生物.",
+    "translation": "认识 群星 的所有生物.",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "sd_card.stellaris.stellaris_secrets.name",
+    "source": "Stellaris Easter Eggs",
+    "previous": "Stellaris 彩蛋",
+    "translation": "群星 彩蛋",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "sd_card.stellaris.stellaris_secrets.content",
+    "source": "You.. You found this SD card ? This SD card contains a lot of Easter eggs hidden in Stellaris! Here a list of places where they are hidden : - The Home in the Earth wiki page - The other name of the moon on her wiki page - The parasite villager strikes back ?",
+    "previous": "你... 你找到这张 SD 卡了? 里面记录了许多藏在 Stellaris 中的彩蛋! 以下是它们藏身的地方: - 地球百科页面中的家 - 月球百科页面中的另一个名字 - 寄生村民的反击?",
+    "translation": "你... 你找到这张 SD 卡了? 里面记录了许多藏在 群星 中的彩蛋! 以下是它们藏身的地方: - 地球百科页面中的家 - 月球百科页面中的另一个名字 - 寄生村民的反击?",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "itemGroup.hephaestus_tools.tools",
+    "source": "Hephaestus Tools",
+    "previous": "Hephaestus工具",
+    "translation": "匠神工具",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "gui.hephaestus_tools.part_builder.metal",
+    "source": "Metals are cast in the Foundry (Hephaestus)",
+    "previous": "金属部件需在 Hephaestus 的铸造炉中浇铸",
+    "translation": "金属部件需在 匠神 的铸造炉中浇铸",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "hephaestus_tools.configuration.title",
+    "source": "Hephaestus Tools Config",
+    "previous": "Hephaestus工具配置",
+    "translation": "匠神工具配置",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-237",
+    "namespace": "crystalix",
+    "key": "config.crystalix.show_wand_tooltips.tooltip",
+    "source": "§8Show property tooltips on the wand§r\n\n§7Default: true§r",
+    "previous": "§8在法杖上显示属性提示§r\n\n§7默认: false§r",
+    "translation": "§8在法杖上显示属性提示§r\n\n§7默认: true§r",
+    "reason": "1.4.1 source changes default from false to true; preserve formatting and line breaks."
+  }
+]

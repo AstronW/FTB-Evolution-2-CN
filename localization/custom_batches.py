@@ -30,7 +30,8 @@ def process(folder, build=False):
     game = Path(config['target_instance'])
     work = ROOT / config['worktree']
     instance = read(game / 'instance.json')
-    assert instance['version'] == manifest['target_pack_version'] == config['target_pack_version']
+    assert instance['version'] == config['target_pack_version'], 'Reconcile the project baseline with the current instance first'
+    assert manifest['target_pack_version'], 'Missing batch provenance version'
     changes = 0
     # Source identity is pinned by the batch snapshots, not by the live instance:
     # an installed translation (or a pack-side reformat) rewrites the instance copy

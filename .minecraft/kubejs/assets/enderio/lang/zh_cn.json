@@ -12,7 +12,7 @@
   "tag.entity_type.enderio.soul_vial_deny_list": "灵魂瓶拒绝名单",
   "tag.entity_type.enderio.spawner_allow_list": "刷怪笼允许名单",
   "tag.entity_type.enderio.spawner_deny_list": "刷怪笼拒绝名单",
-  "tag.item.enderio.deny_lists.broken_spawner": "损坏刷怪笼拒绝名单",
+  "tag.item.enderio.deny_lists.broken_spawner": "破损的刷怪笼拒绝名单",
   "tag.item.enderio.deny_lists.electromagnet": "电磁铁拒绝名单",
   "tooltip.enderio.conduit.slot.fluid_filter": "流体过滤槽位",
   "tooltip.enderio.conduit.slot.item_filter": "物品过滤槽位",

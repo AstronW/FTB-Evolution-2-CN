@@ -1366,14 +1366,17 @@
       id: "64FB0BBFC60A0A4D",
       tasks: [
         {
-          id: "370B9DBDF0876B86",
-          type: "kill",
-          entity: "arsmagicalegacy:life_guardian",
-          value: 1,
+          id: "724AF4D936C8902B",
+          type: "item",
+          item: {
+            id: "arsmagicalegacy:life_ward",
+            count: 1,
+          },
         },
         {
           id: "1034689CC0282AB1",
           type: "item",
+          optional_task: true,
           item: {
             id: "arsmagicalegacy:affinity_essence",
             count: 1,

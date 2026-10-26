@@ -13,5 +13,16 @@
     "framework.validator.identifier.hint_with_namespace"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "5c5a51df7236e456fe5e62c757839e3e13a34c8ba96c306139114f1a4b7a8b71",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/framework-neoforge-26.1.2-0.13.23.jar",
+    "jar_sha256": "5c5a51df7236e456fe5e62c757839e3e13a34c8ba96c306139114f1a4b7a8b71",
+    "nested_jars": [],
+    "resource": "assets/framework/lang/en_us.json",
+    "mod_ids": [
+      "framework"
+    ],
+    "resource_sha256": "13de9d6719cbff000a90d72dc3731cb1e09fe1124e0b8a379aa7e68ca6b724c1"
+  }
 }

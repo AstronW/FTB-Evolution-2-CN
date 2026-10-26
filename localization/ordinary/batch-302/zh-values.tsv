@@ -14,7 +14,7 @@
 13	灌注工具
 14	高级异界矿石通常只能用异界金属工具挖掘.\n[](item://occultism:infused_pickaxe)是应对这种"先有鸡还是先有蛋"问题的临时方案.\n它寄宿着一只可以采集此类矿石的[#](AA00AA)使魔[#](),\n但耐久度很低.更耐用的版本是[艾瑟金属镐](entry://occultism:dictionary_of_spirits/getting_started/iesnium_pickaxe).\n
 15	供魔灵使用的知识粉末
-16	研究碎片粉是仪式的强化材料.\n它使用[#](AA00AA)精灵[#]()的灵髓合成,\n并且需要来自主世界的魔法材料.\n
+16	精研碎片粉是仪式的强化材料.\n它使用[#](AA00AA)魔精[#]()的灵髓合成,\n并且需要来自主世界的魔法材料.\n
 17	点击可切换书的当前分类.
 18	若此物品中放有名为[#](AA00AA)BACK[#]()的指南针, 它会在传送前保存你当前的位置.\n
 19	返回
@@ -23,7 +23,7 @@
 22	传送门方块确实很酷, 但并不总是实用, 例如你想回家的时候.\n\\n为此, 人们开发出了口袋大小的传送器.\n\\n它还有一个好处: 内部的小物品栏最多可以存放 9 个指南针.\n
 23	- [#](AA00AA)潜行右击[#]()会打开菜单, 你可以在其中存放指南针.中央槽位即选定的目的地;\n- [#](AA00AA)右击[#]()进行传送;\n- 手持物品时[#](AA00AA)潜行滚动滚轮[#]()可切换目的地;\n
 24	使水生生物对你友好.\n
-25	水生深渊之主
+25	深渊水之主
 26	启用创造模式飞行.\n
 27	蝙蝠飞行
 28	击败敌人时恢复生命.\n
@@ -33,7 +33,7 @@
 32	允许你在空中额外跳跃.\n
 33	增加掉落的经验量.\n
 34	将你的一部分伤害转化为魔法伤害, 并提高受到的治疗效果.\n
-35	妖精祝福
+35	仙子祝福
 36	启用鞘翅滑翔.\n
 37	火焰之翼
 38	使灾厄村民, 节肢动物和爬行者对你友好.\n
@@ -41,23 +41,23 @@
 40	可用镐挖掘的方块会以固定速度被破坏.\n
 41	贪婪收获
 42	使监守者, 末影人, 潜影贝和恼鬼对你友好.\n
-43	畸变先驱
+43	异变先驱
 44	有几率闪避攻击.\n
 45	神秘学效果
 46	使亡灵与下界生物对你友好.\n
-47	下界皇帝
+47	下界帝王
 48	与末影人对视时它们不再变得敌对.\n
 49	即使抬腿高度提高, 潜行时也不会从方块边缘掉下去.\n
-50	每一级都会略微提高抬腿高度.潜行时则施加[台阶阻挡](entry://occultism:dictionary_of_spirits/getting_started/effects@step_blocked).\n
+50	每一级都会略微提高抬腿高度.潜行时则施加[行走受阻](entry://occultism:dictionary_of_spirits/getting_started/effects@step_blocked).\n
 51	让你能看见并与异界的基础材料交互.\n
 52	神秘学复活之间的冷却时间.\n
-53	神秘学不死冷却
+53	神秘不死冷却
 54	参见[凋灵合金粉](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_witherite_dust)条目.\n
-55	要为[](item://occultism:chalk_blue)取得[#](AA00AA)巨灵[#]()的灵髓, 你需要\n[召唤并杀死未受缚的巨灵](entry://occultism:dictionary_of_spirits/summoning_rituals/marid_essence).\n
+55	要为[](item://occultism:chalk_blue)取得[#](AA00AA)魔王[#]()的灵髓, 你需要\n[召唤并杀死未受缚的魔王](entry://occultism:dictionary_of_spirits/summoning_rituals/marid_essence).\n
 56	要为[](item://occultism:chalk_brown)取得[](item://occultism:cruelty_essence), 你需要\n[召唤并杀死仁慈山羊](entry://occultism:dictionary_of_spirits/possession_rituals/possess_goat)\n
 57	参见[灰色糨糊](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_gray_paste)条目.\n
 58	参见[自然糨糊](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_nature_paste)条目.\n
-59	参见[研究碎片粉](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_research_dust)条目.\n
+59	参见[精研碎片粉](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_research_dust)条目.\n
 60	参见[龙晶粉](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_dragonyst_dust)条目.\n
 61	要为[](item://occultism:chalk_orange)取得[](item://occultism:cursed_honey), 你需要\n[召唤并杀死被附身的蜜蜂](entry://occultism:dictionary_of_spirits/possession_rituals/possess_bee)\n
 62	要为[](item://occultism:chalk_pink)取得[](item://occultism:demonic_meat), 你需要\n[召唤并杀死被附身的僵尸猪灵](entry://occultism:dictionary_of_spirits/possession_rituals/possess_zombified_piglin)\n

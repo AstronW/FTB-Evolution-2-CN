@@ -1,5 +1,5 @@
 {
   "gui.computercraft.config.http": "HTTP",
-  "item.computercraft.pocket_computer_advanced.upgraded_twice": "高级 %s %s 掌上电脑",
-  "item.computercraft.pocket_computer_normal.upgraded_twice": "%s %s 掌上电脑"
+  "item.computercraft.pocket_computer_advanced.upgraded_twice": "高级 %s %s 便携式计算机",
+  "item.computercraft.pocket_computer_normal.upgraded_twice": "%s %s 便携式计算机"
 }

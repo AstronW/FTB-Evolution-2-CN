@@ -28,5 +28,16 @@
     "+%s %s",
     "-%s %s",
     "%s%% %s"
-  ]
+  ],
+  "jar_sha256": "8ee3aca61fa83e95f7d4c6bc1abb78ba24aef6c97e666ef01554d0d725f1ac80",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/irons_artifice-26.1.2-1.1.0.jar",
+    "jar_sha256": "8ee3aca61fa83e95f7d4c6bc1abb78ba24aef6c97e666ef01554d0d725f1ac80",
+    "nested_jars": [],
+    "resource": "assets/irons_artifice/lang/en_us.json",
+    "mod_ids": [
+      "irons_artifice"
+    ],
+    "resource_sha256": "d225f4bb3c0dc23a11742113cb720dd8f8ab43777b819a1db493a90a5e915e31"
+  }
 }

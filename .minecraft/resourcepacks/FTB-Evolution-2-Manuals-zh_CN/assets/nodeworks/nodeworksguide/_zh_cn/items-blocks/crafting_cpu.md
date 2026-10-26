@@ -5,6 +5,7 @@ navigation:
   title: 合成CPU
 categories:
   - autocrafting
+  - requires_controller
 description: the brain of the autocrafting system in a network
 item_ids:
 - nodeworks:crafting_core
@@ -20,6 +21,8 @@ item_ids:
 [配方存储方块](./storage_blocks.md)读取配方(包括本网络及广播子网的加工配方集),
 从网络拉取原料, 执行合成, 再送回产物.
 CPU组装完成后如何实际 *使用*, 见[自动合成](../nodeworks-mechanics/autocrafting.md).
+
+> 需要<ItemLink id="network_controller" />才能使用
 
 ## <a name="forming-the-cpu" /> 组装CPU
 

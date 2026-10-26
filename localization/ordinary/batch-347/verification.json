@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "347",
+  "namespace": "mffs",
+  "source_keys": 5,
+  "unique_values": 5,
+  "chinese_values": 5,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 15,
+  "source_sha256": "ce9d92c4fca894c0fd98486780358b75a43f900b70e54888ee60cd53a4fa2aac",
+  "in_game_tested": false
+}

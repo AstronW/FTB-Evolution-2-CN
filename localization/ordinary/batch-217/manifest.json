@@ -19,5 +19,16 @@
     "jamd.argument.world_type.invalid"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "3e748d19d895c1d1443f3f2aadb3912d7c16cdf7e5751f94c88f8e3b4e012474",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jamd-neo-26.1.1.1+mc26.1.1.jar",
+    "jar_sha256": "3e748d19d895c1d1443f3f2aadb3912d7c16cdf7e5751f94c88f8e3b4e012474",
+    "nested_jars": [],
+    "resource": "assets/jamd/lang/en_us.json",
+    "mod_ids": [
+      "jamd"
+    ],
+    "resource_sha256": "fd10694914782a5ba1a8dc77e676d7f22b0709336a8d6d82bbbf6ca2742cab87"
+  }
 }

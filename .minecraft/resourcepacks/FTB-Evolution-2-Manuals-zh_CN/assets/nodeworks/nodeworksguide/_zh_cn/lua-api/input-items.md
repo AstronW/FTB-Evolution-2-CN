@@ -54,6 +54,27 @@ end)
 ```
 </LuaCode>
 
+## <a name="all" /> all
+
+按配方所列顺序, 将所有输入作为列表返回. 当
+同一个处理器处理多个配方, 且不同配方的字段名
+不同时使用, 例如[`network:recipes`](network.md#recipes).
+
+<LuaCode>
+```lua
+local furnace = network:get("furnace")
+network:handle("...", function(job: Job, items: InputItems)
+  for _, input in ipairs(items:all()) do
+    furnace:face("top"):insert(input)
+  end
+  job:pull(furnace:face("bottom"))
+end)
+```
+</LuaCode>
+
+列表中的句柄与具名字段持有的是同一对象, 因此移动
+`items.rawIron`也会清空列表中对应的条目.
+
 ## <a name="you-must-use-everything" /> 必须用完全部原料
 
 处理器应将所有原料送入机器. 如果返回时

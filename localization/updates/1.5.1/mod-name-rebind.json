@@ -1,0 +1,1059 @@
+[
+  {
+    "mod_id": "advanced_ae",
+    "old_jar": "AdvancedAE-26.1.7.jar",
+    "current_jar": "AdvancedAE-26.1.7.jar",
+    "english": "Advanced AE",
+    "translation": "高级AE"
+  },
+  {
+    "mod_id": "ae2",
+    "old_jar": "appliedenergistics2-26.1.13-beta.jar",
+    "current_jar": "appliedenergistics2-26.1.13-beta.jar",
+    "english": "Applied Energistics 2",
+    "translation": "应用能源2"
+  },
+  {
+    "mod_id": "ae2importexportcard",
+    "old_jar": "ae2importexportcard-26.1.2-2.3.1.jar",
+    "current_jar": "ae2importexportcard-26.1.2-2.3.1.jar",
+    "english": "AE2 Import Export Card",
+    "translation": "AE2输入输出卡"
+  },
+  {
+    "mod_id": "ae2netanalyser",
+    "old_jar": "AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+    "current_jar": "AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+    "english": "AE2NetworkAnalyzer",
+    "translation": "AE2网络分析仪"
+  },
+  {
+    "mod_id": "agritechevolved",
+    "old_jar": "agritechevolved-2.2.0.6+neoforge-mc26.1.2.jar",
+    "current_jar": "agritechevolved-2.2.0.6+neoforge-mc26.1.2.jar",
+    "english": "Agritech: Evolved",
+    "translation": "农业科技: 进化"
+  },
+  {
+    "mod_id": "animal_pen",
+    "old_jar": "animal_pen-neoforge-26.1-2.5.1.jar",
+    "current_jar": "animal_pen-neoforge-26.1-2.5.1.jar",
+    "english": "Animal Pen",
+    "translation": "动物围栏"
+  },
+  {
+    "mod_id": "apotheosis",
+    "old_jar": "Apotheosis-26.1.2-9.1.0.jar",
+    "current_jar": "Apotheosis-26.1.2-9.1.0.jar",
+    "english": "Apotheosis",
+    "translation": "神化"
+  },
+  {
+    "mod_id": "apothic_enchanting",
+    "old_jar": "ApothicEnchanting-26.1.2-2.1.0.jar",
+    "current_jar": "ApothicEnchanting-26.1.2-2.1.0.jar",
+    "english": "Apothic Enchanting",
+    "translation": "神化附魔"
+  },
+  {
+    "mod_id": "apothic_spawners",
+    "old_jar": "ApothicSpawners-26.1.2-2.0.1.jar",
+    "current_jar": "ApothicSpawners-26.1.2-2.0.1.jar",
+    "english": "Apothic Spawners",
+    "translation": "神化刷怪笼"
+  },
+  {
+    "mod_id": "appflux",
+    "old_jar": "AppliedFlux-26.1-1.0.2-neoforge.jar",
+    "current_jar": "AppliedFlux-26.1-1.0.2-neoforge.jar",
+    "english": "AppliedFlux",
+    "translation": "应用通量"
+  },
+  {
+    "mod_id": "applied_oritech",
+    "old_jar": "applied_oritech-1.0.4+26.1.2.jar",
+    "current_jar": "applied_oritech-1.0.4+26.1.2.jar",
+    "english": "Applied Oritech",
+    "translation": "应用奥瑞科技"
+  },
+  {
+    "mod_id": "appliedcooking",
+    "old_jar": "appliedcooking-7.2.0.jar",
+    "current_jar": "appliedcooking-7.2.0.jar",
+    "english": "Applied Cooking",
+    "translation": "应用厨房"
+  },
+  {
+    "mod_id": "arsmagicalegacy",
+    "old_jar": "arsmagicalegacy-26.1.2-1.7.1.jar",
+    "current_jar": "arsmagicalegacy-26.1.2-1.7.1.jar",
+    "english": "Ars Magica: Legacy",
+    "translation": "魔法艺术: 传承"
+  },
+  {
+    "mod_id": "artifacts",
+    "old_jar": "artifacts-neoforge-15.1.3.jar",
+    "current_jar": "artifacts-neoforge-15.1.3.jar",
+    "english": "Artifacts",
+    "translation": "奇异饰品"
+  },
+  {
+    "mod_id": "auroral",
+    "old_jar": "auroral-26.1.2-1.5.10.jar",
+    "current_jar": "auroral-26.1.2-1.5.10.jar",
+    "english": "Auroral",
+    "translation": "极光"
+  },
+  {
+    "mod_id": "belts",
+    "old_jar": "belts-neoforge-2.0.0-exp1.jar",
+    "current_jar": "belts-neoforge-2.0.0-exp1.jar",
+    "english": "Simple Belts",
+    "translation": "便捷传送带"
+  },
+  {
+    "mod_id": "betterfortresses",
+    "old_jar": "YungsBetterNetherFortresses-26.1.2-NeoForge-4.1.1.jar",
+    "current_jar": "YungsBetterNetherFortresses-26.1.2-NeoForge-4.1.1.jar",
+    "english": "YUNG's Better Nether Fortresses",
+    "translation": "YUNG的下界要塞优化"
+  },
+  {
+    "mod_id": "bettermineshafts",
+    "old_jar": "YungsBetterMineshafts-26.1.2-NeoForge-6.1.1.jar",
+    "current_jar": "YungsBetterMineshafts-26.1.2-NeoForge-6.1.1.jar",
+    "english": "YUNG's Better Mineshafts",
+    "translation": "YUNG的矿井优化"
+  },
+  {
+    "mod_id": "bhc",
+    "old_jar": "baubley-heart-canisters-26.1.2-1.7.3.jar",
+    "current_jar": "baubley-heart-canisters-26.1.2-1.7.3.jar",
+    "english": "Baubley Heart Canisters",
+    "translation": "心之容器"
+  },
+  {
+    "mod_id": "buildguide",
+    "old_jar": "BuildGuide-26.1.2-0.4.9.jar",
+    "current_jar": "BuildGuide-26.1.2-0.4.9.jar",
+    "english": "Build Guide",
+    "translation": "建筑指南"
+  },
+  {
+    "mod_id": "cabletiers",
+    "old_jar": "cabletiers-neoforge-26.1.2-1.0.3.jar",
+    "current_jar": "cabletiers-neoforge-26.1.2-1.0.3.jar",
+    "english": "Cable Tiers",
+    "translation": "多级线缆"
+  },
+  {
+    "mod_id": "carryon",
+    "old_jar": "carryon-neoforge-26.1.2-2.10.0.jar",
+    "current_jar": "carryon-neoforge-26.1.2-2.10.0.jar",
+    "english": "Carry On",
+    "translation": "搬运"
+  },
+  {
+    "mod_id": "carryonextend",
+    "old_jar": "carryonextend-architectury-neoforge-26.1.2-1.5.1.jar",
+    "current_jar": "carryonextend-architectury-neoforge-26.1.2-1.5.1.jar",
+    "english": "CarryOnExtend",
+    "translation": "携带扩展"
+  },
+  {
+    "mod_id": "collapsible_groups",
+    "old_jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.jar",
+    "current_jar": "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.1.jar",
+    "english": "Collapsible Groups",
+    "translation": "可折叠分组"
+  },
+  {
+    "mod_id": "colossal_reactors",
+    "old_jar": "colossal_reactors-2.4.1.0.0-neoforge-26.1.2.jar",
+    "current_jar": "colossal_reactors-2.4.1.0.0-neoforge-26.1.2.jar",
+    "english": "Colossal Reactors",
+    "translation": "巨型反应堆"
+  },
+  {
+    "mod_id": "combat_roll",
+    "old_jar": "combat_roll-neoforge-3.0.1+26.1.2.jar",
+    "current_jar": "combat_roll-neoforge-3.0.1+26.1.2.jar",
+    "english": "Combat Roll",
+    "translation": "战术翻滚"
+  },
+  {
+    "mod_id": "comforts",
+    "old_jar": "comforts-neoforge-15.0.0+26.1.2.jar",
+    "current_jar": "comforts-neoforge-15.0.0+26.1.2.jar",
+    "english": "Comforts",
+    "translation": "舒适用品"
+  },
+  {
+    "mod_id": "compressium",
+    "old_jar": "compressium-26.1.2.1.jar",
+    "current_jar": "compressium-26.1.2.1.jar",
+    "english": "Compressium",
+    "translation": "压缩工艺"
+  },
+  {
+    "mod_id": "cookingforblockheads",
+    "old_jar": "cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
+    "current_jar": "cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
+    "english": "Cooking for Blockheads",
+    "translation": "傻瓜烹饪"
+  },
+  {
+    "mod_id": "crafting_on_a_stick",
+    "old_jar": "crafting_on_a_stick-neoforge-26.1-1.1.jar",
+    "current_jar": "crafting_on_a_stick-neoforge-26.1-1.1.jar",
+    "english": "Crafting on a Stick",
+    "translation": "便携式工具"
+  },
+  {
+    "mod_id": "craftingstation",
+    "old_jar": "craftingstationjei-26.1.2-NeoForge-2.2.1.jar",
+    "current_jar": "craftingstationjei-26.1.2-NeoForge-2.2.1.jar",
+    "english": "Crafting Station",
+    "translation": "合成站"
+  },
+  {
+    "mod_id": "craftingtweaks",
+    "old_jar": "craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
+    "current_jar": "craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
+    "english": "Crafting Tweaks",
+    "translation": "合成辅助 (CraftingTweaks)"
+  },
+  {
+    "mod_id": "crawl",
+    "old_jar": "crawl-mc26.1.2-neoforge-0.15.0.jar",
+    "current_jar": "crawl-mc26.1.2-neoforge-0.15.0.jar",
+    "english": "Crawl",
+    "translation": "爬行"
+  },
+  {
+    "mod_id": "dankstorage",
+    "old_jar": "dankstorage-neoforge-26.1.2-1.jar",
+    "current_jar": "dankstorage-neoforge-26.1.2-2.jar",
+    "english": "Dank Storage",
+    "translation": "黑盒存储"
+  },
+  {
+    "mod_id": "dimresources",
+    "old_jar": "dimresources-26.1.2-1.0.10.jar",
+    "current_jar": "dimresources-26.1.2-1.0.10.jar",
+    "english": "Dimensional Resources",
+    "translation": "维度资源"
+  },
+  {
+    "mod_id": "directorscamera",
+    "old_jar": "directorscamera-26.1.2-1.0.1.jar",
+    "current_jar": "directorscamera-26.1.2-1.0.1.jar",
+    "english": "Director's Camera",
+    "translation": "导演摄像机"
+  },
+  {
+    "mod_id": "drones",
+    "old_jar": "drones-neoforge-26.1.2-1.3.2.jar",
+    "current_jar": "drones-neoforge-26.1.2-1.3.2.jar",
+    "english": "Modular Drones",
+    "translation": "模块化无人机"
+  },
+  {
+    "mod_id": "easy_piglins",
+    "old_jar": "easy-piglins-neoforge-1.1.7+26.1.2.jar",
+    "current_jar": "easy-piglins-neoforge-1.1.7+26.1.2.jar",
+    "english": "Easy Piglins",
+    "translation": "简易猪灵"
+  },
+  {
+    "mod_id": "easy_villagers",
+    "old_jar": "easy-villagers-neoforge-1.1.42+26.1.2.jar",
+    "current_jar": "easy-villagers-neoforge-1.1.42+26.1.2.jar",
+    "english": "Easy Villagers",
+    "translation": "简易村民"
+  },
+  {
+    "mod_id": "eccentrictome",
+    "old_jar": "eccentrictome-1.2.1.jar",
+    "current_jar": "eccentrictome-1.2.1.jar",
+    "english": "Eccentric Tome",
+    "translation": "怪奇宝典"
+  },
+  {
+    "mod_id": "enderio",
+    "old_jar": "enderio-9.0.6-alpha.jar",
+    "current_jar": "enderio-9.0.6-alpha.jar",
+    "english": "Ender IO",
+    "translation": "末影接口"
+  },
+  {
+    "mod_id": "enderio_evolution",
+    "old_jar": "enderio_evolution-4.0.1-NeoForge-26.1.2.jar",
+    "current_jar": "enderio_evolution-4.0.1-NeoForge-26.1.2.jar",
+    "english": "Ender IO:Evolution",
+    "translation": "末影接口: 进化"
+  },
+  {
+    "mod_id": "energizedpower",
+    "old_jar": "energizedpower-3.0.1+26.1.x-neoforge.jar",
+    "current_jar": "energizedpower-3.0.1+26.1.x-neoforge.jar",
+    "english": "Energized Power",
+    "translation": "充能能源"
+  },
+  {
+    "mod_id": "energymeter",
+    "old_jar": "energymeter-neoforge-26.1.2-0.5.1.jar",
+    "current_jar": "energymeter-neoforge-26.1.2-0.5.1.jar",
+    "english": "Energy Meter",
+    "translation": "电能表"
+  },
+  {
+    "mod_id": "entityculling",
+    "old_jar": "entityculling-neoforge-1.11.3-mc26.1.2.jar",
+    "current_jar": "entityculling-neoforge-1.11.3-mc26.1.2.jar",
+    "english": "EntityCulling",
+    "translation": "实体渲染机制优化"
+  },
+  {
+    "mod_id": "evilcraft",
+    "old_jar": "evilcraft-26.1.2-neoforge-1.2.108.jar",
+    "current_jar": "evilcraft-26.1.2-neoforge-1.2.108.jar",
+    "english": "EvilCraft",
+    "translation": "邪恶工艺"
+  },
+  {
+    "mod_id": "explorerscompass",
+    "old_jar": "ExplorersCompass-26.1-3.3.0-neoforge.jar",
+    "current_jar": "ExplorersCompass-26.1-3.3.0-neoforge.jar",
+    "english": "Explorer's Compass",
+    "translation": "结构罗盘"
+  },
+  {
+    "mod_id": "extendedae",
+    "old_jar": "ExtendedAE-26.1-1.0.4-neoforge.jar",
+    "current_jar": "ExtendedAE-26.1-1.0.4-neoforge.jar",
+    "english": "ExtendedAE",
+    "translation": "AE2扩展"
+  },
+  {
+    "mod_id": "farmingforblockheads",
+    "old_jar": "farmingforblockheads-neoforge-26.1.2-26.1.2.5.jar",
+    "current_jar": "farmingforblockheads-neoforge-26.1.2-26.1.2.5.jar",
+    "english": "Farming for Blockheads",
+    "translation": "农场贸易"
+  },
+  {
+    "mod_id": "fertilization",
+    "old_jar": "fertilization-neoforge-26.1.2-26.1.2.3.jar",
+    "current_jar": "fertilization-neoforge-26.1.2-26.1.2.3.jar",
+    "english": "Fertilization",
+    "translation": "更多骨粉"
+  },
+  {
+    "mod_id": "flopper",
+    "old_jar": "flopper-26.1.2-neoforge-1.1.9.jar",
+    "current_jar": "flopper-26.1.2-neoforge-1.1.9.jar",
+    "english": "Flopper",
+    "translation": "流体漏斗"
+  },
+  {
+    "mod_id": "frostbear",
+    "old_jar": "frostbear-neoforge-26.1.2-2.0.0.jar",
+    "current_jar": "frostbear-neoforge-26.1.2-2.0.0.jar",
+    "english": "FrostBear",
+    "translation": "霜熊"
+  },
+  {
+    "mod_id": "ftbchunks",
+    "old_jar": "ftb-chunks-neoforge-26.1.2.8.jar",
+    "current_jar": "ftb-chunks-neoforge-26.1.2.8.jar",
+    "english": "FTB Chunks",
+    "translation": "FTB区块声明"
+  },
+  {
+    "mod_id": "ftbic",
+    "old_jar": "ftb-industrial-contraptions-26.1.2.18.jar",
+    "current_jar": "ftb-industrial-contraptions-26.1.2.18.jar",
+    "english": "FTB Industrial Contraptions",
+    "translation": "FTB工业奇械"
+  },
+  {
+    "mod_id": "ftbmaterials",
+    "old_jar": "ftb-materials-26.1.2.6.jar",
+    "current_jar": "ftb-materials-26.1.2.6.jar",
+    "english": "FTB Materials",
+    "translation": "FTB材料"
+  },
+  {
+    "mod_id": "ftboceanmobs",
+    "old_jar": "ftboceanmobs-26.1.2.1.jar",
+    "current_jar": "ftboceanmobs-26.1.2.1.jar",
+    "english": "FTB Ocean Mobs",
+    "translation": "FTB海洋生物"
+  },
+  {
+    "mod_id": "ftbquests",
+    "old_jar": "ftb-quests-neoforge-26.1.2.9.jar",
+    "current_jar": "ftb-quests-neoforge-26.1.2.9.jar",
+    "english": "FTB Quests",
+    "translation": "FTB 任务"
+  },
+  {
+    "mod_id": "ftbteams",
+    "old_jar": "ftb-teams-neoforge-26.1.2.4.jar",
+    "current_jar": "ftb-teams-neoforge-26.1.2.4.jar",
+    "english": "FTB Teams",
+    "translation": "FTB队伍"
+  },
+  {
+    "mod_id": "ftbultimine",
+    "old_jar": "ftb-ultimine-neoforge-26.1.2.6.jar",
+    "current_jar": "ftb-ultimine-neoforge-26.1.2.6.jar",
+    "english": "FTB Ultimine",
+    "translation": "FTB连锁破坏"
+  },
+  {
+    "mod_id": "functionalstorage",
+    "old_jar": "functionalstorage-26.1.2-1.6.4.jar",
+    "current_jar": "functionalstorage-26.1.2-1.6.4.jar",
+    "english": "Functional Storage",
+    "translation": "功能性存储"
+  },
+  {
+    "mod_id": "gateways",
+    "old_jar": "GatewaysToEternity-26.1.2-6.0.2.jar",
+    "current_jar": "GatewaysToEternity-26.1.2-6.0.2.jar",
+    "english": "Gateways To Eternity",
+    "translation": "永恒之门"
+  },
+  {
+    "mod_id": "geore",
+    "old_jar": "GeOre-26.1.2-8.1.0.jar",
+    "current_jar": "GeOre-26.1.2-8.1.0.jar",
+    "english": "GeOre",
+    "translation": "矿石晶洞"
+  },
+  {
+    "mod_id": "growthacceleratortiers",
+    "old_jar": "growthacceleratortiers-2.0.0+26.1.2.jar",
+    "current_jar": "growthacceleratortiers-2.0.0+26.1.2.jar",
+    "english": "Growth Accelerator Tiers",
+    "translation": "多级催生器"
+  },
+  {
+    "mod_id": "hephaestus",
+    "old_jar": "hephaestus-neoforge-26.1.2-1.0.17.jar",
+    "current_jar": "hephaestus-neoforge-26.1.2-1.0.18.jar",
+    "english": "Hephaestus Forge",
+    "translation": "匠神"
+  },
+  {
+    "mod_id": "hephaestus_tools",
+    "old_jar": "hephaestus_tools-neoforge-26.1.2-1.0.8.jar",
+    "current_jar": "hephaestus_tools-neoforge-26.1.2-1.0.9.jar",
+    "english": "Hephaestus Tools",
+    "translation": "匠神工具"
+  },
+  {
+    "mod_id": "horsepowered",
+    "old_jar": "horsepowered-26.1.2-3.11.5.jar",
+    "current_jar": "horsepowered-26.1.2-3.11.6.jar",
+    "english": "Horse Powered",
+    "translation": "马力"
+  },
+  {
+    "mod_id": "hostilenetworks",
+    "old_jar": "HostileNeuralNetworks-26.1.2-7.0.0.jar",
+    "current_jar": "HostileNeuralNetworks-26.1.2-7.0.0.jar",
+    "english": "Hostile Neural Networks",
+    "translation": "敌对神经网络"
+  },
+  {
+    "mod_id": "iceandfire",
+    "old_jar": "iceandfire-2.2-beta.4.jar",
+    "current_jar": "iceandfire-2.2-beta.4.jar",
+    "english": "Ice And Fire Community Edition",
+    "translation": "冰火传说社区版"
+  },
+  {
+    "mod_id": "infinitystorage",
+    "old_jar": "infinitystorage-26.1.2-2.0.2.jar",
+    "current_jar": "infinitystorage-26.1.2-2.0.3.jar",
+    "english": "Infinity Storage",
+    "translation": "无限存储"
+  },
+  {
+    "mod_id": "integrateddynamics",
+    "old_jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "current_jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "english": "IntegratedDynamics",
+    "translation": "动态联合"
+  },
+  {
+    "mod_id": "integrateddynamicscompat",
+    "old_jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "current_jar": "integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "english": "IntegratedDynamics-Compat",
+    "translation": "动态联合兼容"
+  },
+  {
+    "mod_id": "integratedterminals",
+    "old_jar": "integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "current_jar": "integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "english": "IntegratedTerminals",
+    "translation": "存储终端"
+  },
+  {
+    "mod_id": "integratedterminalscompat",
+    "old_jar": "integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "current_jar": "integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "english": "IntegratedTerminals-Compat",
+    "translation": "存储终端兼容"
+  },
+  {
+    "mod_id": "integratedtunnels",
+    "old_jar": "integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+    "current_jar": "integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+    "english": "IntegratedTunnels",
+    "translation": "集成管道"
+  },
+  {
+    "mod_id": "integratedtunnelscompat",
+    "old_jar": "integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+    "current_jar": "integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+    "english": "IntegratedTunnels-Compat",
+    "translation": "集成管道兼容"
+  },
+  {
+    "mod_id": "interdimensionalwirelesstransmitter",
+    "old_jar": "interdimensionalwirelesstransmitter-neoforge-26.1.2-1.0.1.jar",
+    "current_jar": "interdimensionalwirelesstransmitter-neoforge-26.1.2-1.0.1.jar",
+    "english": "Interdimensional Wireless Transmitter",
+    "translation": "跨维度无线传输器"
+  },
+  {
+    "mod_id": "ironfurnaces",
+    "old_jar": "ironfurnaces-neoforge-26.1.2-4.4.2.jar",
+    "current_jar": "ironfurnaces-neoforge-26.1.2-4.4.2.jar",
+    "english": "Iron Furnaces",
+    "translation": "更多熔炉"
+  },
+  {
+    "mod_id": "ironjetpacks",
+    "old_jar": "IronJetpacks-26.1.2-9.0.3.jar",
+    "current_jar": "IronJetpacks-26.1.2-9.0.3.jar",
+    "english": "Iron Jetpacks",
+    "translation": "铁制喷气背包"
+  },
+  {
+    "mod_id": "irons_artifice",
+    "old_jar": "irons_artifice-26.1.2-1.1.0.jar",
+    "current_jar": "irons_artifice-26.1.2-1.1.0.jar",
+    "english": "Iron's Arms 'n Artifice",
+    "translation": "Iron的武备与巧械"
+  },
+  {
+    "mod_id": "justhammers",
+    "old_jar": "just-hammers-neoforge-26.1.2.1.jar",
+    "current_jar": "just-hammers-neoforge-26.1.2.1.jar",
+    "english": "Just Hammers",
+    "translation": "锤子合集"
+  },
+  {
+    "mod_id": "logisticsnetworks",
+    "old_jar": "logisticsnetworks-26.1.2-1.13.0.jar",
+    "current_jar": "logisticsnetworks-26.1.2-1.13.0.jar",
+    "english": "LogisticsNetworks",
+    "translation": "物流网络"
+  },
+  {
+    "mod_id": "ltxi",
+    "old_jar": "ltxi-26.1.2-2.4.0.jar",
+    "current_jar": "ltxi-26.1.2-2.4.1.jar",
+    "english": "LTX Industries",
+    "translation": "LTX工业"
+  },
+  {
+    "mod_id": "magnumtorch",
+    "old_jar": "MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar",
+    "current_jar": "MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar",
+    "english": "Magnum Torch",
+    "translation": "卓越火炬"
+  },
+  {
+    "mod_id": "malisisswitchesreborn",
+    "old_jar": "malisisswitchesreborn-neoforge-26.1.2-1.0.9.jar",
+    "current_jar": "malisisswitchesreborn-neoforge-26.1.2-1.0.10.jar",
+    "english": "Malisis Switches (Reborn)",
+    "translation": "无线红石开关 (重制版)"
+  },
+  {
+    "mod_id": "matc",
+    "old_jar": "matc-1.8.0.jar",
+    "current_jar": "matc-1.8.0.jar",
+    "english": "Mystical Agriculture Tiered Crystals",
+    "translation": "神秘农业: 水晶拓展"
+  },
+  {
+    "mod_id": "meinfinitycell",
+    "old_jar": "meinfinitycell-26.1-1.0.0.jar",
+    "current_jar": "meinfinitycell-26.1-1.0.0.jar",
+    "english": "MEInfinityCell",
+    "translation": "ME无限元件"
+  },
+  {
+    "mod_id": "mffs",
+    "old_jar": "mffs-5.8.39.jar",
+    "current_jar": "mffs-5.8.39.jar",
+    "english": "Modular Force Field System",
+    "translation": "模块化力场系统"
+  },
+  {
+    "mod_id": "mining_helmet",
+    "old_jar": "mining_helmet-26.1.2-2.1.3.jar",
+    "current_jar": "mining_helmet-26.1.2-2.1.3.jar",
+    "english": "Mining Helmet",
+    "translation": "矿工头盔"
+  },
+  {
+    "mod_id": "mininggadgets",
+    "old_jar": "mininggadgets-1.19.3.jar",
+    "current_jar": "mininggadgets-1.19.3.jar",
+    "english": "Mining Gadgets",
+    "translation": "采掘小帮手"
+  },
+  {
+    "mod_id": "mobflowutilities",
+    "old_jar": "mobflowutilities-3.2.1.9-mc-26.1.2.jar",
+    "current_jar": "mobflowutilities-3.2.1.9-mc-26.1.2.jar",
+    "english": "Mob Flow Utilities",
+    "translation": "生物流动工具"
+  },
+  {
+    "mod_id": "modernfix",
+    "old_jar": "modernfix-neoforge-5.27.24+mc26.1.2.jar",
+    "current_jar": "modernfix-neoforge-5.27.24+mc26.1.2.jar",
+    "english": "ModernFix",
+    "translation": "现代化修复"
+  },
+  {
+    "mod_id": "modonomicon",
+    "old_jar": "modonomicon-26.1.2-neoforge-2.17.1.jar",
+    "current_jar": "modonomicon-26.1.2-neoforge-2.17.1.jar",
+    "english": "Modonomicon",
+    "translation": "模组秘典"
+  },
+  {
+    "mod_id": "modularrouters",
+    "old_jar": "modular-routers-26.1.2.2.jar",
+    "current_jar": "modular-routers-26.1.2.2.jar",
+    "english": "Modular Routers",
+    "translation": "模块化路由器"
+  },
+  {
+    "mod_id": "moreoverlays",
+    "old_jar": "moreoverlays-1.24.4-mc26.1.2-neoforge.jar",
+    "current_jar": "moreoverlays-1.24.4-mc26.1.2-neoforge.jar",
+    "english": "More Overlays Updated",
+    "translation": "更多叠加"
+  },
+  {
+    "mod_id": "morered",
+    "old_jar": "morered-26.1.2.3.jar",
+    "current_jar": "morered-26.1.2.3.jar",
+    "english": "More Red",
+    "translation": "更多红石电路"
+  },
+  {
+    "mod_id": "mutantmonsters",
+    "old_jar": "MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar",
+    "current_jar": "MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar",
+    "english": "Mutant Monsters",
+    "translation": "变异怪物"
+  },
+  {
+    "mod_id": "mystianapiary",
+    "old_jar": "mystianapiary-neoforge-1.10.jar",
+    "current_jar": "mystianapiary-neoforge-1.10.jar",
+    "english": "Mystian Apiary",
+    "translation": "神秘蜂房"
+  },
+  {
+    "mod_id": "mysticalagradditions",
+    "old_jar": "MysticalAgradditions-26.1.2-9.0.4.jar",
+    "current_jar": "MysticalAgradditions-26.1.2-9.0.4.jar",
+    "english": "Mystical Agradditions",
+    "translation": "神秘农业扩展"
+  },
+  {
+    "mod_id": "mysticalagriculture",
+    "old_jar": "MysticalAgriculture-26.1.2-9.0.10.jar",
+    "current_jar": "MysticalAgriculture-26.1.2-9.0.10.jar",
+    "english": "Mystical Agriculture",
+    "translation": "神秘农业"
+  },
+  {
+    "mod_id": "mysticalautomation",
+    "old_jar": "MysticalAutomation-26.1.2-2.0.7.jar",
+    "current_jar": "MysticalAutomation-26.1.2-2.0.7.jar",
+    "english": "Mystical Automation",
+    "translation": "神秘自动化"
+  },
+  {
+    "mod_id": "naturescompass",
+    "old_jar": "NaturesCompass-26.1-3.3.0-neoforge.jar",
+    "current_jar": "NaturesCompass-26.1-3.3.0-neoforge.jar",
+    "english": "Nature's Compass",
+    "translation": "自然罗盘"
+  },
+  {
+    "mod_id": "nautec",
+    "old_jar": "nautec-26.1.2-NeoForge-2.0.16.jar",
+    "current_jar": "nautec-26.1.2-NeoForge-2.0.19.jar",
+    "english": "NauTec 2",
+    "translation": "海蓝科技"
+  },
+  {
+    "mod_id": "neosync",
+    "old_jar": "NeoSync-26.1.2-1.7.3.jar",
+    "current_jar": "NeoSync-26.1.2-1.7.3.jar",
+    "english": "NeoSync",
+    "translation": "新克隆"
+  },
+  {
+    "mod_id": "nutritional",
+    "old_jar": "nutritional-26.1.2-1.2.3.jar",
+    "current_jar": "nutritional-26.1.2-1.2.4.jar",
+    "english": "Nutritional",
+    "translation": "营养均衡"
+  },
+  {
+    "mod_id": "obsidianboat",
+    "old_jar": "obsidianboat-neo-26.1.1.0+mc26.1.1.jar",
+    "current_jar": "obsidianboat-neo-26.1.1.0+mc26.1.1.jar",
+    "english": "Obsidian Boat",
+    "translation": "黑曜石船"
+  },
+  {
+    "mod_id": "occultcooking",
+    "old_jar": "occultcooking-2.0.0.jar",
+    "current_jar": "occultcooking-2.0.0.jar",
+    "english": "Occult Cooking",
+    "translation": "神秘烹饪"
+  },
+  {
+    "mod_id": "occultism",
+    "old_jar": "occultism-26.1.2-neoforge-1.256.1.jar",
+    "current_jar": "occultism-26.1.2-neoforge-1.256.1.jar",
+    "english": "Occultism",
+    "translation": "神秘学"
+  },
+  {
+    "mod_id": "oritech",
+    "old_jar": "oritech-2.0.0-exp12.jar",
+    "current_jar": "oritech-2.0.0-exp12.jar",
+    "english": "Oritech",
+    "translation": "奥瑞科技"
+  },
+  {
+    "mod_id": "pantryforblockheads",
+    "old_jar": "pantryforblockheads-neoforge-26.1.2-26.1.2.8.jar",
+    "current_jar": "pantryforblockheads-neoforge-26.1.2-26.1.2.8.jar",
+    "english": "Pantry for Blockheads",
+    "translation": "傻瓜食品柜"
+  },
+  {
+    "mod_id": "paraglider",
+    "old_jar": "Paraglider-neoforge-26.1.2.jar",
+    "current_jar": "Paraglider-neoforge-26.1.2.jar",
+    "english": "Paraglider",
+    "translation": "滑翔伞"
+  },
+  {
+    "mod_id": "patchouli",
+    "old_jar": "patchouli-neoforge-26.1-94.jar",
+    "current_jar": "patchouli-neoforge-26.1-94.jar",
+    "english": "Patchouli",
+    "translation": "帕秋莉手册"
+  },
+  {
+    "mod_id": "pipe_connector",
+    "old_jar": "pipe_connector-neoforge-0.6.8.jar",
+    "current_jar": "pipe_connector-neoforge-0.6.8.jar",
+    "english": "Pipe Connector",
+    "translation": "管道连接器"
+  },
+  {
+    "mod_id": "productivebees",
+    "old_jar": "productivebees-26.1.2-15.4.0.jar",
+    "current_jar": "productivebees-26.1.2-15.4.0.jar",
+    "english": "Productive Bees",
+    "translation": "资源蜜蜂"
+  },
+  {
+    "mod_id": "productivefarming",
+    "old_jar": "productivefarming-26.1.2-0.13.0.jar",
+    "current_jar": "productivefarming-26.1.2-0.13.0.jar",
+    "english": "Productive Farming",
+    "translation": "高效农业"
+  },
+  {
+    "mod_id": "pylons",
+    "old_jar": "pylons-26.1-6.0.1.jar",
+    "current_jar": "pylons-26.1-6.0.1.jar",
+    "english": "Pylons",
+    "translation": "实用塔"
+  },
+  {
+    "mod_id": "quantumcubes",
+    "old_jar": "quantumcubes-neoforge-26.1.2-1.0.3.jar",
+    "current_jar": "quantumcubes-neoforge-26.1.2-1.0.3.jar",
+    "english": "Quantum Cubes",
+    "translation": "量子方块"
+  },
+  {
+    "mod_id": "rainshield",
+    "old_jar": "RainShield-26.1.2-2.0.0.jar",
+    "current_jar": "RainShield-26.1.2-2.0.0.jar",
+    "english": "Rain Shield",
+    "translation": "驱雨盾"
+  },
+  {
+    "mod_id": "recursiveae2patternprovider",
+    "old_jar": "recursiveae2patternprovider-1.1.1.jar",
+    "current_jar": "recursiveae2patternprovider-1.1.1.jar",
+    "english": "Recursive AE2 Pattern Provider",
+    "translation": "递归 AE2 样板供应器"
+  },
+  {
+    "mod_id": "refinedcooking",
+    "old_jar": "refinedcooking-neoforge-26.1.2-7.3.1.jar",
+    "current_jar": "refinedcooking-neoforge-26.1.2-7.3.1.jar",
+    "english": "Refined Cooking",
+    "translation": "精致厨房"
+  },
+  {
+    "mod_id": "refinedstorage",
+    "old_jar": "refinedstorage-neoforge-3.2.1.jar",
+    "current_jar": "refinedstorage-neoforge-3.2.1.jar",
+    "english": "Refined Storage",
+    "translation": "精致存储"
+  },
+  {
+    "mod_id": "refinedstorage_quartz_arsenal",
+    "old_jar": "refinedstorage-quartz-arsenal-neoforge-2.0.6.jar",
+    "current_jar": "refinedstorage-quartz-arsenal-neoforge-2.0.6.jar",
+    "english": "Refined Storage - Quartz Arsenal",
+    "translation": "精致存储 - 无线合成"
+  },
+  {
+    "mod_id": "refinedtypes",
+    "old_jar": "refined-types-26.1.2-1.0.2.jar",
+    "current_jar": "refined-types-26.1.2-1.0.2.jar",
+    "english": "Refined Types",
+    "translation": "精致存储: 类型扩展"
+  },
+  {
+    "mod_id": "reliquary",
+    "old_jar": "reliquary-26.1.2-2.0.93.1581.jar",
+    "current_jar": "reliquary-26.1.2-2.0.94.1582.jar",
+    "english": "Reliquary Reincarnations",
+    "translation": "圣遗物"
+  },
+  {
+    "mod_id": "resonance",
+    "old_jar": "resonance-neoforge-26.1.2-1.0.2.jar",
+    "current_jar": "resonance-neoforge-26.1.2-1.0.2.jar",
+    "english": "Resonance",
+    "translation": "共鸣"
+  },
+  {
+    "mod_id": "rootsclassic",
+    "old_jar": "RootsClassic-26.1.2-1.6.7.jar",
+    "current_jar": "RootsClassic-26.1.2-1.6.7.jar",
+    "english": "Roots Classic",
+    "translation": "根源魔法经典版"
+  },
+  {
+    "mod_id": "shrink",
+    "old_jar": "shrink-neoforge-26.1.2-2.1.1.jar",
+    "current_jar": "shrink-neoforge-26.1.2-2.1.1.jar",
+    "english": "Shrink",
+    "translation": "缩放"
+  },
+  {
+    "mod_id": "simplemagnets",
+    "old_jar": "simplemagnets-1.1.12-neoforge-mc26.1.jar",
+    "current_jar": "simplemagnets-1.1.12-neoforge-mc26.1.jar",
+    "english": "Simple Magnets",
+    "translation": "简易磁铁"
+  },
+  {
+    "mod_id": "sophisticatedbackpacks",
+    "old_jar": "sophisticatedbackpacks-26.1.2-3.26.13.2207.jar",
+    "current_jar": "sophisticatedbackpacks-26.1.2-3.26.15.2224.jar",
+    "english": "Sophisticated Backpacks",
+    "translation": "精妙背包"
+  },
+  {
+    "mod_id": "sophisticatedcore",
+    "old_jar": "sophisticatedcore-26.1.2-1.5.14.2409.jar",
+    "current_jar": "sophisticatedcore-26.1.2-1.5.18.2424.jar",
+    "english": "Sophisticated Core",
+    "translation": "精妙核心"
+  },
+  {
+    "mod_id": "sophisticatedinventoryinteractions",
+    "old_jar": "sophisticatedinventoryinteractions-26.1.2-0.1.18.228.jar",
+    "current_jar": "sophisticatedinventoryinteractions-26.1.2-0.1.18.228.jar",
+    "english": "Sophisticated Inventory Interactions",
+    "translation": "精妙物品栏操作(Sophisticated Inventory Interactions)"
+  },
+  {
+    "mod_id": "sophisticateditemactions",
+    "old_jar": "sophisticateditemactions-26.1.2-0.4.17.432.jar",
+    "current_jar": "sophisticateditemactions-26.1.2-0.4.18.439.jar",
+    "english": "Sophisticated Item Actions",
+    "translation": "精妙物品操作(Sophisticated Item Actions)"
+  },
+  {
+    "mod_id": "sophisticatedstorage",
+    "old_jar": "sophisticatedstorage-26.1.2-1.5.122.2185.jar",
+    "current_jar": "sophisticatedstorage-26.1.2-1.5.123.2190.jar",
+    "english": "Sophisticated Storage",
+    "translation": "精妙存储"
+  },
+  {
+    "mod_id": "sophisticatedstorageinmotion",
+    "old_jar": "sophisticatedstorageinmotion-26.1.2-0.10.37.378.jar",
+    "current_jar": "sophisticatedstorageinmotion-26.1.2-0.10.37.378.jar",
+    "english": "Sophisticated Storage In Motion",
+    "translation": "精妙物流"
+  },
+  {
+    "mod_id": "squatgrow",
+    "old_jar": "squatgrow-neoforge-26.1.2.2.jar",
+    "current_jar": "squatgrow-neoforge-26.1.2.2.jar",
+    "english": "Squat Grow",
+    "translation": "蹲下催熟"
+  },
+  {
+    "mod_id": "stellaris",
+    "old_jar": "stellaris-26.1.2-neoforge-2.0.8.jar",
+    "current_jar": "stellaris-26.1.2-neoforge-2.0.9.jar",
+    "english": "Stellaris",
+    "translation": "群星"
+  },
+  {
+    "mod_id": "stepcrafter",
+    "old_jar": "stepcrafter-neoforge-26.1.2-1.0.3.jar",
+    "current_jar": "stepcrafter-neoforge-26.1.2-1.0.4.jar",
+    "english": "Step Crafter",
+    "translation": "分步合成器"
+  },
+  {
+    "mod_id": "structurify",
+    "old_jar": "structurify-neoforge-2.0.43+mc26.1.2.jar",
+    "current_jar": "structurify-neoforge-2.0.43+mc26.1.2.jar",
+    "english": "Structurify",
+    "translation": "结构管理"
+  },
+  {
+    "mod_id": "tesseract",
+    "old_jar": "tesseract-1.0.39-neoforge-mc26.1.jar",
+    "current_jar": "tesseract-1.0.39-neoforge-mc26.1.jar",
+    "english": "Tesseract",
+    "translation": "超立方体"
+  },
+  {
+    "mod_id": "thunderrelics",
+    "old_jar": "thunderrelics-1.3.jar",
+    "current_jar": "thunderrelics-1.3.jar",
+    "english": "Thunder Relics",
+    "translation": "雷霆遗迹"
+  },
+  {
+    "mod_id": "tiab",
+    "old_jar": "tiab-neoforge-8.0.0.jar",
+    "current_jar": "tiab-neoforge-8.0.0.jar",
+    "english": "Time In A Bottle",
+    "translation": "时间之瓶"
+  },
+  {
+    "mod_id": "toolbelt",
+    "old_jar": "ToolBelt-26.1.2-2.9.5.jar",
+    "current_jar": "ToolBelt-26.1.2-2.9.5.jar",
+    "english": "Tool Belt",
+    "translation": "工具皮带"
+  },
+  {
+    "mod_id": "trainingdummy",
+    "old_jar": "trainingdummy-1.9.0+mc26.1.2.jar",
+    "current_jar": "trainingdummy-1.9.0+mc26.1.2.jar",
+    "english": "Training Dummy",
+    "translation": "训练假人"
+  },
+  {
+    "mod_id": "trashslot",
+    "old_jar": "trashslot-neoforge-26.1.2-26.1.2.4.jar",
+    "current_jar": "trashslot-neoforge-26.1.2-26.1.2.4.jar",
+    "english": "TrashSlot",
+    "translation": "垃圾槽"
+  },
+  {
+    "mod_id": "travelerstitles",
+    "old_jar": "TravelersTitles-26.1.2-NeoForge-6.1.0.jar",
+    "current_jar": "TravelersTitles-26.1.2-NeoForge-6.1.0.jar",
+    "english": "Traveler's Titles",
+    "translation": "旅人标题"
+  },
+  {
+    "mod_id": "universalgrid",
+    "old_jar": "universalgrid-neoforge-26.1.2-1.0.2.jar",
+    "current_jar": "universalgrid-neoforge-26.1.2-1.0.2.jar",
+    "english": "Universal Grid",
+    "translation": "通用终端"
+  },
+  {
+    "mod_id": "waystones",
+    "old_jar": "waystones-neoforge-26.1.2-26.1.2.16.jar",
+    "current_jar": "waystones-neoforge-26.1.2-26.1.2.16.jar",
+    "english": "Waystones",
+    "translation": "传送石碑"
+  },
+  {
+    "mod_id": "witchery",
+    "old_jar": "witchery-0.5.25+mc26.1.2.jar",
+    "current_jar": "witchery-0.5.26+mc26.1.2.jar",
+    "english": "Witchery",
+    "translation": "巫术"
+  },
+  {
+    "mod_id": "witchery_forbidden_magic",
+    "old_jar": "witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
+    "current_jar": "witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
+    "english": "Witchery: Forbidden Magic",
+    "translation": "巫术: 禁忌魔法"
+  },
+  {
+    "mod_id": "xycraft_machines",
+    "old_jar": "xycraft-machines-0.9.2.jar",
+    "current_jar": "xycraft-machines-0.9.2.jar",
+    "english": "XyCraft: Machines",
+    "translation": "XyCraft | 机器"
+  },
+  {
+    "mod_id": "yungscavebiomes",
+    "old_jar": "YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar",
+    "current_jar": "YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar",
+    "english": "YUNG's Cave Biomes",
+    "translation": "YUNG的洞穴生物群系"
+  },
+  {
+    "mod_id": "z_core",
+    "old_jar": "z_core-0.1.3-26.1.2-neoforge.jar",
+    "current_jar": "z_core-0.1.3-26.1.2-neoforge.jar",
+    "english": "Z-Core",
+    "translation": "Z-核心"
+  }
+]

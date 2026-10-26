@@ -17,5 +17,16 @@
   "unchanged_values": [
     "%s FE / mB",
     "%s FE / tick"
-  ]
+  ],
+  "jar_sha256": "7143c10fa34498aeedd40633b1f2b3337600d312528794637fe5a234637a83ea",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/justdirefuels-1.1.0-26.1.jar",
+    "jar_sha256": "7143c10fa34498aeedd40633b1f2b3337600d312528794637fe5a234637a83ea",
+    "nested_jars": [],
+    "resource": "assets/justdirefuels/lang/en_us.json",
+    "mod_ids": [
+      "justdirefuels"
+    ],
+    "resource_sha256": "d800f6b433c217eb4cea2a6c33e9428b8433dbde01598033673fdb9c783203ec"
+  }
 }

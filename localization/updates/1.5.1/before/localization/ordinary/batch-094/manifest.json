@@ -1,0 +1,12 @@
+{
+  "batch": "094",
+  "namespace": "enderthing",
+  "jar": ".minecraft/mods/Enderthing-26.1.2-1.10.2.jar",
+  "language_path": "assets/enderthing/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/enderthing/lang/zh_cn.json",
+  "include_keys": [
+    "tab.enderthing.things"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

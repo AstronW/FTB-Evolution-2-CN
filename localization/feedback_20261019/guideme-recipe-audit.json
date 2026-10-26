@@ -1,7 +1,7 @@
 {
-  "target_pack_version": "1.4.1",
-  "effective_documents": 806,
-  "documents_with_recipe_components": 379,
+  "target_pack_version": "1.5.1",
+  "effective_documents": 807,
+  "documents_with_recipe_components": 380,
   "components": 850,
   "static_candidates": 832,
   "documented_no_recipe": 18,
@@ -5436,32 +5436,13 @@
     {
       "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
       "line": 52,
-      "tag": "RecipeFor",
-      "id": "ftbmaterials:bronze_ingot",
+      "tag": "Recipe",
+      "id": "ftb:unification/ftbic/alloy_smelting/from_ingots/bronze",
       "candidates": [
-        "ftb:unification/enderio/alloy_smelting/from_ingots/bronze",
-        "ftb:unification/energizedpower/alloy_furnace/from_ingots/bronze",
-        "ftb:unification/ftbic/alloy_smelting/from_ingots/bronze",
-        "ftbic:alloy_smelting/bronze_ingot",
-        "ftbic:blasting/bronze_dust_to_bronze_ingot",
-        "ftbic:smelting/bronze_dust_to_bronze_ingot",
-        "ftbmaterials:bronze_ingot",
-        "ftbmaterials:bronze_ingot_from_blasting_bronze_dust",
-        "ftbmaterials:bronze_ingot_from_bronze_block",
-        "ftbmaterials:bronze_ingot_from_smelting_bronze_dust",
-        "hephaestus:smeltery/casting/table/ftbmaterials_compat/metal/bronze/ingot_cast",
-        "mysticalagriculture:essence/common/bronze_ingot"
+        "ftb:unification/ftbic/alloy_smelting/from_ingots/bronze"
       ],
       "recipe_types": [
-        "cucumber:shaped_tag",
-        "enderio:alloy_smelting",
-        "energizedpower:alloy_furnace",
-        "ftbic:alloy_smelting",
-        "hephaestus:casting_table",
-        "minecraft:blasting",
-        "minecraft:crafting_shaped",
-        "minecraft:crafting_shapeless",
-        "minecraft:smelting"
+        "ftbic:alloy_smelting"
       ],
       "status": "static_candidate_found",
       "visible_fallback": null
@@ -5469,36 +5450,13 @@
     {
       "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
       "line": 61,
-      "tag": "RecipeFor",
-      "id": "ftbmaterials:electrum_ingot",
+      "tag": "Recipe",
+      "id": "ftb:unification/ftbic/alloy_smelting/from_ingots/electrum",
       "candidates": [
-        "ftb:unification/enderio/alloy_smelting/from_ingots/electrum",
-        "ftb:unification/energizedpower/alloy_furnace/from_ingots/electrum",
-        "ftb:unification/ftbic/alloy_smelting/from_ingots/electrum",
-        "ftbic:alloy_smelting/electrum_ingot",
-        "ftbic:blasting/electrum_dust_to_electrum_ingot",
-        "ftbic:smelting/electrum_dust_to_electrum_ingot",
-        "ftbmaterials:electrum_ingot",
-        "ftbmaterials:electrum_ingot_from_blasting_electrum_dust",
-        "ftbmaterials:electrum_ingot_from_electrum_block",
-        "ftbmaterials:electrum_ingot_from_smelting_electrum_dust",
-        "hephaestus:smeltery/casting/table/ftbmaterials_compat/metal/electrum/ingot_cast",
-        "mysticalagriculture:essence/common/electrum_ingot",
-        "oritech:electrum_ingot",
-        "oritech:electrum_ingot_from_blasting_electrum_dust",
-        "oritech:electrum_ingot_from_smelting_electrum_dust",
-        "oritech:electrumblockinv"
+        "ftb:unification/ftbic/alloy_smelting/from_ingots/electrum"
       ],
       "recipe_types": [
-        "cucumber:shaped_tag",
-        "enderio:alloy_smelting",
-        "energizedpower:alloy_furnace",
-        "ftbic:alloy_smelting",
-        "hephaestus:casting_table",
-        "minecraft:blasting",
-        "minecraft:crafting_shaped",
-        "minecraft:crafting_shapeless",
-        "minecraft:smelting"
+        "ftbic:alloy_smelting"
       ],
       "status": "static_candidate_found",
       "visible_fallback": null
@@ -5506,32 +5464,13 @@
     {
       "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
       "line": 70,
-      "tag": "RecipeFor",
-      "id": "ftbmaterials:invar_ingot",
+      "tag": "Recipe",
+      "id": "ftb:unification/ftbic/alloy_smelting/from_ingots/invar",
       "candidates": [
-        "ftb:unification/enderio/alloy_smelting/from_ingots/invar",
-        "ftb:unification/energizedpower/alloy_furnace/from_ingots/invar",
-        "ftb:unification/ftbic/alloy_smelting/from_ingots/invar",
-        "ftbic:alloy_smelting/invar_ingot",
-        "ftbic:blasting/invar_dust_to_invar_ingot",
-        "ftbic:smelting/invar_dust_to_invar_ingot",
-        "ftbmaterials:invar_ingot",
-        "ftbmaterials:invar_ingot_from_blasting_invar_dust",
-        "ftbmaterials:invar_ingot_from_invar_block",
-        "ftbmaterials:invar_ingot_from_smelting_invar_dust",
-        "hephaestus:smeltery/casting/table/ftbmaterials_compat/metal/invar/ingot_cast",
-        "mysticalagriculture:essence/common/invar_ingot"
+        "ftb:unification/ftbic/alloy_smelting/from_ingots/invar"
       ],
       "recipe_types": [
-        "cucumber:shaped_tag",
-        "enderio:alloy_smelting",
-        "energizedpower:alloy_furnace",
-        "ftbic:alloy_smelting",
-        "hephaestus:casting_table",
-        "minecraft:blasting",
-        "minecraft:crafting_shaped",
-        "minecraft:crafting_shapeless",
-        "minecraft:smelting"
+        "ftbic:alloy_smelting"
       ],
       "status": "static_candidate_found",
       "visible_fallback": null
@@ -5539,7 +5478,7 @@
     {
       "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
       "line": 79,
-      "tag": "RecipeFor",
+      "tag": "RecipesFor",
       "id": "ftbmaterials:constantan_ingot",
       "candidates": [
         "ftbic:alloy_smelting/constantan_ingot",
@@ -5562,7 +5501,7 @@
         "minecraft:smelting"
       ],
       "status": "static_candidate_found",
-      "visible_fallback": null
+      "visible_fallback": "No recipes found for constantan."
     },
     {
       "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
@@ -5694,9 +5633,9 @@
       "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
       "line": 174,
       "tag": "Recipe",
-      "id": "ftbic:alloy_smelting/enderium_ingot",
+      "id": "ftb:unification/ftbic/alloy_smelting/from_ingots/enderium",
       "candidates": [
-        "ftbic:alloy_smelting/enderium_ingot"
+        "ftb:unification/ftbic/alloy_smelting/from_ingots/enderium"
       ],
       "recipe_types": [
         "ftbic:alloy_smelting"
@@ -5706,36 +5645,7 @@
     },
     {
       "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
-      "line": 176,
-      "tag": "RecipesFor",
-      "id": "ftbic:enderium_ingot",
-      "candidates": [
-        "ftb:unification/enderio/alloy_smelting/from_ingots/enderium",
-        "ftb:unification/energizedpower/alloy_furnace/from_ingots/enderium",
-        "ftb:unification/ftbic/alloy_smelting/from_ingots/enderium",
-        "ftbic:alloy_smelting/enderium_ingot",
-        "ftbic:blasting/enderium_dust_to_enderium_ingot",
-        "ftbic:shaped/nuggets/enderium_to_enderium_ingot",
-        "ftbic:shapeless/enderium_block_to_enderium_ingot",
-        "ftbic:smelting/enderium_dust_to_enderium_ingot",
-        "hephaestus:smeltery/casting/table/ftbic_compat/metal/enderium/ingot_cast"
-      ],
-      "recipe_types": [
-        "enderio:alloy_smelting",
-        "energizedpower:alloy_furnace",
-        "ftbic:alloy_smelting",
-        "hephaestus:casting_table",
-        "minecraft:blasting",
-        "minecraft:crafting_shaped",
-        "minecraft:crafting_shapeless",
-        "minecraft:smelting"
-      ],
-      "status": "static_candidate_found",
-      "visible_fallback": "See the Alloy Smelter for the recipe."
-    },
-    {
-      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
-      "line": 185,
+      "line": 183,
       "tag": "RecipeFor",
       "id": "ftbic:enderium_block",
       "candidates": [
@@ -10283,7 +10193,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/craft_requester.md",
-      "line": 24,
+      "line": 27,
       "tag": "RecipeFor",
       "id": "minecraft:oak_door",
       "candidates": [
@@ -10300,7 +10210,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/craft_requester.md",
-      "line": 54,
+      "line": 57,
       "tag": "RecipeFor",
       "id": "nodeworks:craft_requester",
       "candidates": [
@@ -10314,7 +10224,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/crafting_cpu.md",
-      "line": 114,
+      "line": 117,
       "tag": "RecipeFor",
       "id": "nodeworks:crafting_core",
       "candidates": [
@@ -10328,7 +10238,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/crafting_cpu.md",
-      "line": 115,
+      "line": 118,
       "tag": "RecipeFor",
       "id": "nodeworks:crafting_storage",
       "candidates": [
@@ -10342,7 +10252,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/crafting_cpu.md",
-      "line": 116,
+      "line": 119,
       "tag": "RecipeFor",
       "id": "nodeworks:substrate",
       "candidates": [
@@ -10356,7 +10266,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/crafting_cpu.md",
-      "line": 117,
+      "line": 120,
       "tag": "RecipeFor",
       "id": "nodeworks:stabilizer",
       "candidates": [
@@ -10370,7 +10280,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/crafting_cpu.md",
-      "line": 118,
+      "line": 121,
       "tag": "RecipeFor",
       "id": "nodeworks:co_processor",
       "candidates": [
@@ -10468,7 +10378,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/inventory_terminal.md",
-      "line": 48,
+      "line": 50,
       "tag": "RecipeFor",
       "id": "nodeworks:inventory_terminal",
       "candidates": [
@@ -10482,7 +10392,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/io_card.md",
-      "line": 59,
+      "line": 62,
       "tag": "RecipeFor",
       "id": "nodeworks:io_card",
       "candidates": [
@@ -10537,8 +10447,22 @@
       "visible_fallback": null
     },
     {
+      "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/multi_processing_handler.md",
+      "line": 91,
+      "tag": "RecipeFor",
+      "id": "nodeworks:multi_processing_handler",
+      "candidates": [
+        "nodeworks:multi_processing_handler"
+      ],
+      "recipe_types": [
+        "minecraft:crafting_shaped"
+      ],
+      "status": "static_candidate_found",
+      "visible_fallback": null
+    },
+    {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/network_controller.md",
-      "line": 45,
+      "line": 48,
       "tag": "RecipeFor",
       "id": "nodeworks:network_controller",
       "candidates": [
@@ -10594,7 +10518,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/observer_card.md",
-      "line": 52,
+      "line": 55,
       "tag": "RecipeFor",
       "id": "nodeworks:observer_card",
       "candidates": [
@@ -10636,7 +10560,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/portable_inventory_terminal.md",
-      "line": 56,
+      "line": 57,
       "tag": "RecipeFor",
       "id": "nodeworks:portable_inventory_terminal",
       "candidates": [
@@ -10650,7 +10574,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/processing_handler.md",
-      "line": 85,
+      "line": 88,
       "tag": "RecipeFor",
       "id": "nodeworks:processing_handler",
       "candidates": [
@@ -10678,7 +10602,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/recipe_sets.md",
-      "line": 111,
+      "line": 112,
       "tag": "RecipeFor",
       "id": "nodeworks:instruction_set",
       "candidates": [
@@ -10692,7 +10616,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/recipe_sets.md",
-      "line": 112,
+      "line": 113,
       "tag": "RecipeFor",
       "id": "nodeworks:processing_set",
       "candidates": [
@@ -10706,7 +10630,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/redstone_card.md",
-      "line": 36,
+      "line": 39,
       "tag": "RecipeFor",
       "id": "nodeworks:redstone_card",
       "candidates": [
@@ -10720,7 +10644,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/scripting_terminal.md",
-      "line": 65,
+      "line": 68,
       "tag": "RecipeFor",
       "id": "nodeworks:terminal",
       "candidates": [
@@ -10734,7 +10658,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/storage_blocks.md",
-      "line": 52,
+      "line": 53,
       "tag": "RecipeFor",
       "id": "nodeworks:instruction_storage",
       "candidates": [
@@ -10748,7 +10672,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/storage_blocks.md",
-      "line": 53,
+      "line": 54,
       "tag": "RecipeFor",
       "id": "nodeworks:processing_storage",
       "candidates": [
@@ -10776,7 +10700,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/storage_meter.md",
-      "line": 25,
+      "line": 28,
       "tag": "RecipeFor",
       "id": "minecraft:oak_door",
       "candidates": [
@@ -10793,7 +10717,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/storage_meter.md",
-      "line": 69,
+      "line": 72,
       "tag": "RecipeFor",
       "id": "nodeworks:storage_meter",
       "candidates": [
@@ -10821,7 +10745,7 @@
     },
     {
       "page": "assets/nodeworks/nodeworksguide/_zh_cn/items-blocks/variable.md",
-      "line": 54,
+      "line": 57,
       "tag": "RecipeFor",
       "id": "nodeworks:variable",
       "candidates": [

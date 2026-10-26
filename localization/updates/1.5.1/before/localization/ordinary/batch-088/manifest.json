@@ -1,0 +1,15 @@
+{
+  "batch": "088",
+  "namespace": "laserio",
+  "jar": ".minecraft/mods/laserio-1.10.2.jar",
+  "language_path": "assets/laserio/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/laserio/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.laserio",
+    "screen.laserio.alpha"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "LaserIO"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "251",
+  "namespace": "mysticalagradditions",
+  "jar": ".minecraft/mods/MysticalAgradditions-26.1.2-9.0.4.jar",
+  "language_path": "assets/mysticalagradditions/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mysticalagradditions/lang/zh_cn.json",
+  "include_keys": [
+    "block.mysticalagradditions.molten_prosperity",
+    "block.mysticalagradditions.molten_awakened_supremium",
+    "block.mysticalagradditions.molten_insanium",
+    "item.mysticalagradditions.molten_prosperity_bucket",
+    "item.mysticalagradditions.molten_awakened_supremium_bucket",
+    "item.mysticalagradditions.molten_insanium_bucket",
+    "fluid_type.mysticalagradditions.molten_prosperity",
+    "fluid_type.mysticalagradditions.molten_awakened_supremium",
+    "fluid_type.mysticalagradditions.molten_insanium"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

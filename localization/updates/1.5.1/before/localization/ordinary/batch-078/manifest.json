@@ -1,0 +1,21 @@
+{
+  "batch": "078",
+  "namespace": "sophisticatedcore",
+  "jar": ".minecraft/mods/sophisticatedcore-26.1.2-1.5.14.2409.jar",
+  "language_path": "assets/sophisticatedcore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sophisticatedcore/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.sophisticatedcore.linked_storage.primary_named",
+    "tooltip.sophisticatedcore.linked_storage.secondary_named",
+    "item.sophisticatedcore.storage.tooltip.energy",
+    "item.sophisticatedcore.storage.tooltip.fluid",
+    "gui.sophisticatedcore.upgrades.tank.contents_tooltip",
+    "gui.sophisticatedcore.upgrades.battery.contents_tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s (%s)",
+    "%s FE",
+    "%s mB %s"
+  ]
+}

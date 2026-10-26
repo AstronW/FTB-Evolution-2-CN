@@ -1,0 +1,22 @@
+{
+  "batch": "256",
+  "namespace": "balm",
+  "jar": ".minecraft/mods/balm-neoforge-26.1.2-26.1.2.15.jar",
+  "language_path": "assets/balm/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/balm/lang/zh_cn.json",
+  "include_keys": [
+    "config.jade.plugin_balm.jade",
+    "gui.balm.configuration.title",
+    "gui.balm.configuration.edit",
+    "gui.balm.configuration.validation.range",
+    "gui.balm.configuration.validation.negative_infinity",
+    "gui.balm.configuration.validation.positive_infinity"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Balm",
+    "%s...",
+    "-inf",
+    "+inf"
+  ]
+}

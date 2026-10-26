@@ -1,0 +1,32 @@
+{
+  "batch": "250",
+  "namespace": "forgeendertech",
+  "jar": ".minecraft/mods/forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar",
+  "language_path": "assets/forgeendertech/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/forgeendertech/lang/zh_cn.json",
+  "include_keys": [
+    "forgeendertech.configuration.maxVentPipeLength",
+    "forgeendertech.configuration.maxBlocksInMultiblock",
+    "forgeendertech.configuration.SmokeContainers",
+    "forgeendertech.configuration.debug",
+    "forgeendertech.configuration.requiresDye",
+    "forgeendertech.configuration.Painting",
+    "forgeendertech.configuration.pumpedChimneyAirflow",
+    "forgeendertech.configuration.suctionHoppers",
+    "forgeendertech.configuration.requiresWaterBucket",
+    "forgeendertech.configuration.ventReachDistance"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "maxVentPipeLength",
+    "maxBlocksInMultiblock",
+    "SmokeContainers",
+    "debug",
+    "requiresDye",
+    "Painting",
+    "pumpedChimneyAirflow",
+    "suctionHoppers",
+    "requiresWaterBucket",
+    "ventReachDistance"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "pack_source": "https://edge.forgecdn.net/files/9258/101/ftb-evolution-2-1.4.1.zip",
+  "mod_source": "https://edge.forgecdn.net/files/9252/93/nodeworks-0.10.6.jar",
+  "sha256": "c777837cad32bb3db25da6d14bc57659e01108a72f0ab8b3281cb00a73275667",
+  "verification": "Matches previously recorded 1.4.1 JAR SHA-256; JAR kept outside repository."
+}

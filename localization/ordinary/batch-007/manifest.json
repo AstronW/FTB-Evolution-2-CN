@@ -1,7 +1,7 @@
 {
   "batch": "007",
   "namespace": "ftbevolutioncompanion",
-  "jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.23.jar",
+  "jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.24.jar",
   "language_path": "assets/ftbevolutioncompanion/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/ftbevolutioncompanion/lang/zh_cn.json",
   "context_overrides": {},
@@ -345,19 +345,26 @@
     "ftbevolutioncompanion.treasure_goblin.coins",
     "ftbevolutioncompanion.magic.otherworld.soul_thrift",
     "ftbevolutioncompanion.magic.otherworld.spell_cooldown",
-    "trait.ftbevolutioncompanion.magical",
-    "trait.ftbevolutioncompanion.magically_jagged",
     "trait.ftbevolutioncompanion.demonic",
     "trait.ftbevolutioncompanion.nautical",
     "trait.ftbevolutioncompanion.dragonfire",
     "trait.ftbevolutioncompanion.dragonfrost",
     "trait.ftbevolutioncompanion.dragonstorm",
-    "trait.ftbevolutioncompanion.magical.desc",
-    "trait.ftbevolutioncompanion.magically_jagged.desc",
     "trait.ftbevolutioncompanion.demonic.desc",
     "trait.ftbevolutioncompanion.nautical.desc",
     "trait.ftbevolutioncompanion.dragonfire.desc",
     "trait.ftbevolutioncompanion.dragonfrost.desc",
     "trait.ftbevolutioncompanion.dragonstorm.desc"
-  ]
+  ],
+  "jar_sha256": "1ad3dad2ff66277aa807d304964f54441781f656e9a069e732039ded8e924054",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-evolution-companion-26.1.2.24.jar",
+    "jar_sha256": "1ad3dad2ff66277aa807d304964f54441781f656e9a069e732039ded8e924054",
+    "nested_jars": [],
+    "resource": "assets/ftbevolutioncompanion/lang/en_us.json",
+    "mod_ids": [
+      "ftbevolutioncompanion"
+    ],
+    "resource_sha256": "5af400763218c52a5926988be8fa6afcfe5620ef2839f7fa1a65353ce267ed6c"
+  }
 }

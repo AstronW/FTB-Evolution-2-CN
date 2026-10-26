@@ -1,0 +1,20 @@
+{
+  "batch": "054",
+  "namespace": "ltxi",
+  "jar": ".minecraft/mods/ltxi-26.1.2-2.4.0.jar",
+  "language_path": "assets/ltxi/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ltxi/lang/zh_cn.json",
+  "include_keys": [
+    "creative_tab.ltxi.main",
+    "jei.ltxi.crafting_time",
+    "key.category.ltxi.controls",
+    "tooltip.ltxi.dump_fluids",
+    "tooltip.ltxi.input_filter_lock",
+    "upgrade_effect.ltxi.reduction_mod"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "LTX Industries",
+    "%ss | %st"
+  ]
+}

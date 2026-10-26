@@ -20,5 +20,16 @@
     "cos.config.CosArmorDisableCosHatCommand"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "444fd753c98853fc8a3ea947905748c839299489bc8b3db5fd15d1201626a5d3",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/armor_cosmetic-26.1.2-neoforge-1.1.2.jar",
+    "jar_sha256": "444fd753c98853fc8a3ea947905748c839299489bc8b3db5fd15d1201626a5d3",
+    "nested_jars": [],
+    "resource": "assets/armor_cosmetic/lang/en_us.json",
+    "mod_ids": [
+      "armor_cosmetic"
+    ],
+    "resource_sha256": "118fa792ae3a9d5acd00d9a6e24bfe50f9bd8d3fcdb6a0e703942877bc690b55"
+  }
 }

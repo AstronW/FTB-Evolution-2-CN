@@ -48,5 +48,16 @@
   "context_overrides": {},
   "unchanged_values": [
     "Inventory Essentials"
-  ]
+  ],
+  "jar_sha256": "1d7d835b4da44975bfc2810568bfd4ad8f8e895c7309ce197098e4ef81837454",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/inventoryessentials-neoforge-26.1.2-26.1.2.7.jar",
+    "jar_sha256": "1d7d835b4da44975bfc2810568bfd4ad8f8e895c7309ce197098e4ef81837454",
+    "nested_jars": [],
+    "resource": "assets/inventoryessentials/lang/en_us.json",
+    "mod_ids": [
+      "inventoryessentials"
+    ],
+    "resource_sha256": "1b45abde5d0356513718f687c3f364b9fad9ae2f7c88f2347cecdb2ebb3387a0"
+  }
 }

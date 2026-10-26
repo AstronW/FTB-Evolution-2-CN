@@ -16,5 +16,16 @@
     "SHIFT %s",
     "CTRL %s",
     "CTRL & SHIFT %s"
-  ]
+  ],
+  "jar_sha256": "62c74f5fb0720a7994f2681682005ebdff8375e324bf3113cc21d6223a07d61d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/trashcans-1.1.1a-neoforge-mc26.1.jar",
+    "jar_sha256": "62c74f5fb0720a7994f2681682005ebdff8375e324bf3113cc21d6223a07d61d",
+    "nested_jars": [],
+    "resource": "assets/trashcans/lang/en_us.json",
+    "mod_ids": [
+      "trashcans"
+    ],
+    "resource_sha256": "ebbe0c4de427ed5037a6ce9ab75a6cde1e37bc8ab550d0d618cba6f3967a62c0"
+  }
 }

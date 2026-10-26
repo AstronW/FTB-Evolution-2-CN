@@ -1,0 +1,20 @@
+{
+  "policy": "audit_item_names.py 的已复核例外: 英文提到的名称在该处不指同名物品, 或按既有裁决有意保留. 每条须写明理由; 不再复现的例外会被提示删除.",
+  "reviewed": "2026-10-23",
+  "exceptions": [
+    {"english_name": "Hydrothermal Vent", "reason": "原文为生物群系 Hydrothermal Vents (海底热泉), 不是方块海底热泉口"},
+    {"english_name": "Prismarine Crystal", "reason": "原文为原版 Prismarine Crystals (海晶砂粒), 不是 Nautec 的海棱水晶"},
+    {"english_name": "Standing Stone", "reason": "Roots 的充能/附魔石碑与仪式名, 不是装饰方块 Standing Stone (装饰石碑)"},
+    {"english_name": "Iron Furnace", "reason": "原文为模组名 Iron Furnaces, 沿用已审定的更多熔炉"},
+    {"english_name": "Cooking for Blockheads", "reason": "原文为模组名, 沿用已审定的傻瓜食品柜"},
+    {"english_name": "Energized Power Book", "location": "energized_power.json5", "reason": "模组名已审定为充能能源, test_feedback_fixes 要求任务书使用充能能源手册; 见 reports/quest-item-name-sync-1.5.1.md"},
+    {"english_name": "Dragon Bone", "location": "ice_and_fire.json5", "reason": "Dragon Bone 工具为复合名 (龙骨剑等), 不是材料物品龙之骨"},
+    {"english_name": "Growth Accelerator", "location": "resource_generation.json5", "reason": "神秘农业的分级生长加速器, 不是 AE2 的催生器"},
+    {"english_name": "Sacrificial Bowl", "location": "occultism.json5", "reason": "原文 Golden/Iesnium Sacrificial Bowl 对应的物品实际名为黄金/艾瑟金属仪式之碗 (Ritual Bowl)"},
+    {"english_name": "The Harmonic", "location": "resonance.json5", "reason": "原文为结构名 The Harmonic Arena (谐振竞技场), 不是实体谐振者"},
+    {"english_name": "Portable Tank", "location": "ltx_industries.json5", "reason": "泛指便携式储罐的描述, 未指具体物品"},
+    {"english_name": "Selling Bin", "location": "selling_bin/lang", "reason": "物品栏标题为模组名 wd's Selling Bin; 空列表提示为泛称"},
+    {"english_name": "Dripstone Bait", "location": "starcatcher", "reason": "鱼饵修饰词条提示, 描述效果而非物品名"},
+    {"english_name": "Oil Finder", "reason": "原文为 Oil Finder Module, 对应物品名石油探测模块 T1-T3, 不是石油探测器"}
+  ]
+}

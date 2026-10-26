@@ -1,0 +1,14 @@
+{
+  "batch": "156",
+  "namespace": "cookingforblockheads",
+  "jar": ".minecraft/mods/cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
+  "language_path": "assets/cookingforblockheads/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/cookingforblockheads/lang/zh_cn.json",
+  "include_keys": [
+    "gui.cookingforblockheads.feedback_stacked"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s x%d"
+  ]
+}

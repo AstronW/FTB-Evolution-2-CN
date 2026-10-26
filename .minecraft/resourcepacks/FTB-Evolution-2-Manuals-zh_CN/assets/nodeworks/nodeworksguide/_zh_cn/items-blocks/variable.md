@@ -5,6 +5,7 @@ navigation:
   title: 变量
 categories:
   - device
+  - requires_controller
 description: a shared network variable
 item_ids:
 - nodeworks:variable
@@ -13,6 +14,8 @@ item_ids:
 # <a name="variable-block" /> 变量方块
 
 变量方块保存一个可供整个网络共享的值.
+
+> 需要<ItemLink id="network_controller" />才能使用.
 
 <BlockImage scale="6" id="variable" />
 

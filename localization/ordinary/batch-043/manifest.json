@@ -28,5 +28,16 @@
     "FORGET %s",
     "FALSE: %s",
     "TRUE: %s"
-  ]
+  ],
+  "jar_sha256": "cace8809600cea007dbe5c73dc04c2f780375547ec0717a1ec8c25d991140bf1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar",
+    "jar_sha256": "cace8809600cea007dbe5c73dc04c2f780375547ec0717a1ec8c25d991140bf1",
+    "nested_jars": [],
+    "resource": "assets/sfm/lang/en_us.json",
+    "mod_ids": [
+      "sfm"
+    ],
+    "resource_sha256": "64189966cbcaf6714a4d56f0dcca9e057e70ce7a413fc466325d2bf1cdb0b090"
+  }
 }

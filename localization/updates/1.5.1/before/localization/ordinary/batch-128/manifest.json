@@ -1,0 +1,15 @@
+{
+  "batch": "128",
+  "namespace": "configured",
+  "jar": ".minecraft/mods/configured-neoforge-26.1.2-2.7.5.jar",
+  "language_path": "assets/configured/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/configured/lang/zh_cn.json",
+  "include_keys": [
+    "configured.gui.unsupported_property",
+    "key.categories.configured"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Configured"
+  ]
+}

@@ -11,5 +11,16 @@
     "commands.shogi.cooldown.set.success"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "7a211e2899f6bbaded2c03a468f651fece0bec22c1738b907999a8fefb75e2d8",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/shogi-neoforge-26.1.2-26.1.2.12.jar",
+    "jar_sha256": "7a211e2899f6bbaded2c03a468f651fece0bec22c1738b907999a8fefb75e2d8",
+    "nested_jars": [],
+    "resource": "assets/shogi/lang/en_us.json",
+    "mod_ids": [
+      "shogi"
+    ],
+    "resource_sha256": "12eb8424e7b0198f1bfd778d88c09f93cb2cb42dfdc0648df3258abfc011259d"
+  }
 }

@@ -24,5 +24,16 @@
     "  - %s",
     "SHIFT",
     "HUD"
-  ]
+  ],
+  "jar_sha256": "1047a5e461adc052778b7143cdff00b7a83f6a1f374706ce6d655ddabac39725",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/HostileNeuralNetworks-26.1.2-7.0.0.jar",
+    "jar_sha256": "1047a5e461adc052778b7143cdff00b7a83f6a1f374706ce6d655ddabac39725",
+    "nested_jars": [],
+    "resource": "assets/hostilenetworks/lang/en_us.json",
+    "mod_ids": [
+      "hostilenetworks"
+    ],
+    "resource_sha256": "e791c8af3cecd75192ad36f11cdfbd9e8645c664284a07f0ea23db17e9fb8697"
+  }
 }

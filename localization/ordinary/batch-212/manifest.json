@@ -231,5 +231,16 @@
     "item_group.xycraft_world_decorative"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "45459b378e548823ea52a1d2b1df77f05522015c9420f0929215ac968c5d976f",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/xycraft-world-0.9.2.jar",
+    "jar_sha256": "45459b378e548823ea52a1d2b1df77f05522015c9420f0929215ac968c5d976f",
+    "nested_jars": [],
+    "resource": "assets/xycraft_world/lang/en_us.json",
+    "mod_ids": [
+      "xycraft_world"
+    ],
+    "resource_sha256": "e02e338930429a56cf6af57e516a2cd15e4cd14766076880b1658181d734375f"
+  }
 }

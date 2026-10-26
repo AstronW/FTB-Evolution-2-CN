@@ -650,7 +650,7 @@
   "skill.ftb.melee.swordsman_cap.title": "剑士",
   "skill.ftb.melee.swordsman_cap.description": "持剑格挡现在抵消全部正面伤害. 回响几率额外增加 10%, 搜刮几率额外增加 10%, 攻击伤害额外增加 +2.5.",
   "skill.ftb.melee.unarmed_hub.title": "徒手精通",
-  "skill.ftb.melee.unarmed_hub.description": "近战伤害增加 +5%. 解锁格斗家与重装战士路线.",
+  "skill.ftb.melee.unarmed_hub.description": "+3 徒手伤害. 解锁格斗家与重装战士路线.",
   "skill.ftb.melee.wargod_cap.title": "战神",
   "skill.ftb.melee.wargod_cap.description": "双持伤害额外增加 +25%, 致命一击伤害额外增加 +25%, 攻击伤害额外增加 +2.5.",
   "skill.ftb.melee.armor_+1.title": "举盾防御",

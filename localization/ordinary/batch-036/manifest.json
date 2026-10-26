@@ -45,5 +45,16 @@
     "text.autoconfig.cabletiers.option.tieredAutocrafters.creativePatternSlotCount.tooltip"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "9a14c886005b9f2476d56451c90ee126e787ed60e64c803e477ce744b4138829",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cabletiers-neoforge-26.1.2-1.0.3.jar",
+    "jar_sha256": "9a14c886005b9f2476d56451c90ee126e787ed60e64c803e477ce744b4138829",
+    "nested_jars": [],
+    "resource": "assets/cabletiers/lang/en_us.json",
+    "mod_ids": [
+      "cabletiers"
+    ],
+    "resource_sha256": "b92cf2e91ea301b330b36eb6b51268be55c9b0897f1e9f91fd336c6b37163ad6"
+  }
 }

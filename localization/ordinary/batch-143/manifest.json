@@ -40,5 +40,16 @@
     "matc.configuration.usesTooltip.tooltip"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "e38d08da7a43249d281dbc4aabae37cca59e980a925c4a52f5a830950386c777",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/matc-1.8.0.jar",
+    "jar_sha256": "e38d08da7a43249d281dbc4aabae37cca59e980a925c4a52f5a830950386c777",
+    "nested_jars": [],
+    "resource": "assets/matc/lang/en_us.json",
+    "mod_ids": [
+      "matc"
+    ],
+    "resource_sha256": "112e94d9717a11e2db109f91724c53b44ce1cbc82ac805665397659a2ad9471d"
+  }
 }

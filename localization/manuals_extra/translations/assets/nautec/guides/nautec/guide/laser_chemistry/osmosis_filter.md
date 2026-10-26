@@ -25,7 +25,7 @@ item_ids:
 
 空手右击可查看储罐, 每秒产水量及输入 AP. Jade 也会显示储罐和产水速度.
 
-将水与盐送入[搅拌机](mixer.md)可制作盐水, 也可以送入[燃烧能源炉](nautec:getting_started/combustion_dynamo.md).
+将水与盐送入[搅拌机](mixer.md)可制作盐水, 也可以送入[内燃发电机](nautec:getting_started/combustion_dynamo.md).
 
 ***
 

@@ -18,5 +18,16 @@
     "msg.contex.gen_ctm_tex.success"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "bfd00a01c1c3422024b908359c16bb57dc684126552cf366c069ab419db33398",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ConnectedTextures-13.0.0.jar",
+    "jar_sha256": "bfd00a01c1c3422024b908359c16bb57dc684126552cf366c069ab419db33398",
+    "nested_jars": [],
+    "resource": "assets/contex/lang/en_us.json",
+    "mod_ids": [
+      "contex"
+    ],
+    "resource_sha256": "d1c6297419423a6076ab8429edc59d3cf3215f87ca890af990fc39b436978bf0"
+  }
 }

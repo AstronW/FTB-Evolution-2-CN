@@ -1,0 +1,37 @@
+{
+  "batch": "244",
+  "namespace": "libtooltips",
+  "jar": ".minecraft/mods/libtooltips-2.3.2-NEOFORGE-26.1.2.jar",
+  "language_path": "assets/libtooltips/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/libtooltips/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.libtooltips.generic.shift_up",
+    "tooltip.libtooltips.generic.shift_down",
+    "key.category.libtooltips.libtooltips",
+    "key.libtooltips.expand",
+    "libtooltips.configuration.enable_tooltips",
+    "libtooltips.configuration.line_before",
+    "libtooltips.configuration.line_before.tooltip",
+    "libtooltips.configuration.spaces_before_tooltip",
+    "libtooltips.configuration.spaces_before_tooltip.tooltip",
+    "libtooltips.configuration.line_after",
+    "libtooltips.configuration.line_after.tooltip",
+    "libtooltips.configuration.default_color",
+    "libtooltips.configuration.default_color.tooltip",
+    "libtooltips.configuration.title",
+    "tooltip.namespace.path.0",
+    "tooltip.namespace.path.1",
+    "tooltip.namespace.path.2",
+    "tooltip.namespace.path.3",
+    "tooltip.namespace.path.4",
+    "tooltip.namespace.path.5",
+    "tooltip.namespace.path.6"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "§7⏬ [<ltkeybind>keybind=key.libtooltips.expand;§7</ltkeybind>§7] ⏬",
+    "§7⏫ [<ltkeybind>keybind=key.libtooltips.expand;§7</ltkeybind>§7] ⏫",
+    "LibTooltips",
+    "hide"
+  ]
+}

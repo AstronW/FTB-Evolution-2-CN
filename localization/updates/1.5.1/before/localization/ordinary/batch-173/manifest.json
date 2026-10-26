@@ -1,0 +1,13 @@
+{
+  "batch": "173",
+  "namespace": "combat_roll",
+  "jar": ".minecraft/mods/combat_roll-neoforge-3.0.1+26.1.2.jar",
+  "language_path": "assets/combat_roll/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/combat_roll/lang/zh_cn.json",
+  "include_keys": [
+    "stat.combat_roll.roll",
+    "stat.combat_roll.roll_cm"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

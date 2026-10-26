@@ -37,5 +37,17 @@
     "info_book.integrateddynamics.manual.diagnostics.text3"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
+    "nested_jars": [],
+    "resource": "assets/integrateddynamics/lang/en_us.json",
+    "mod_ids": [
+      "integrateddynamics",
+      "integrateddynamicscompat"
+    ],
+    "resource_sha256": "d625d4cf11ce42e550aad02b4cc1ab3eec72042873d15dbcb36bd51f16461173"
+  }
 }

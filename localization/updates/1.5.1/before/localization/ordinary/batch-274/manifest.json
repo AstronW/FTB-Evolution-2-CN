@@ -1,0 +1,13 @@
+{
+  "batch": "274",
+  "namespace": "cucumber",
+  "jar": ".minecraft/mods/Cucumber-26.1.2-9.0.6.jar",
+  "language_path": "assets/cucumber/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/cucumber/lang/zh_cn.json",
+  "include_keys": [
+    "subtitle.cucumber.watering_can",
+    "tooltip.cucumber.data_components"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

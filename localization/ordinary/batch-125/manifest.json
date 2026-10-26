@@ -17,5 +17,16 @@
     "eclipseui.colorpicker.title"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "ddc6f54e80872b1b56764b0220d0b26c32ae2e2125e73a93b3acf9eed628fbd4",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/EclipseUI-neoforge-1.0.4+mc26.1.jar",
+    "jar_sha256": "ddc6f54e80872b1b56764b0220d0b26c32ae2e2125e73a93b3acf9eed628fbd4",
+    "nested_jars": [],
+    "resource": "assets/eclipseui/lang/en_us.json",
+    "mod_ids": [
+      "eclipseui"
+    ],
+    "resource_sha256": "e64b4b26ba08fbf4f0f71d969aaa2d8b9e624eaa4026ffb4eab0831e1550dd1e"
+  }
 }

@@ -1,0 +1,14 @@
+{
+  "batch": "269",
+  "namespace": "baguettelib",
+  "jar": ".minecraft/mods/baguettelib-26.1.2-NeoForge-2.0.7.jar",
+  "language_path": "assets/baguettelib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/baguettelib/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.baguettelib",
+    "block.baguettelib.example_block",
+    "item.baguettelib.example_item"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

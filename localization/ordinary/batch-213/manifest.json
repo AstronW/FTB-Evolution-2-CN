@@ -116,5 +116,16 @@
     "preset.tectonic.overkill.voxy"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "e80f5ba26aa6deeeabaa75ce0e4f602a3d81b53c5557122799d27b7352e8b7ca",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar",
+    "jar_sha256": "e80f5ba26aa6deeeabaa75ce0e4f602a3d81b53c5557122799d27b7352e8b7ca",
+    "nested_jars": [],
+    "resource": "assets/tectonic/lang/en_us.json",
+    "mod_ids": [
+      "tectonic"
+    ],
+    "resource_sha256": "37d38d45efa7767ac9329f0257d1cbb8ec28cece82382924fc3275936f7ed0ea"
+  }
 }

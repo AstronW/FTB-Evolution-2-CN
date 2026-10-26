@@ -128,5 +128,16 @@
     "item.morered.pliers"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "23e355981d95da057f6ee8c5ba4c939c824d84a009ad3b487447a3f4b8ac55d3",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/morered-26.1.2.3.jar",
+    "jar_sha256": "23e355981d95da057f6ee8c5ba4c939c824d84a009ad3b487447a3f4b8ac55d3",
+    "nested_jars": [],
+    "resource": "assets/morered/lang/en_us.json",
+    "mod_ids": [
+      "morered"
+    ],
+    "resource_sha256": "12feff010d1f0e43ba6d76f720c2c07e8d5be44633527fa1acac90163599239c"
+  }
 }

@@ -5,6 +5,7 @@ navigation:
   title: 侦测卡
 categories:
   - card
+  - requires_controller
 description: reads the block at the installed node face, id, properties, and change events
 item_ids:
 - nodeworks:observer_card
@@ -16,6 +17,8 @@ item_ids:
 属性(生长`age`, `facing`, `waterlogged`, `lit`等),
 以及变化回调, 以便脚本在方块切换到目标
 状态时立即响应.
+
+> 要在脚本中使用侦测卡, 需要<ItemLink id="network_controller" />才能使用<ItemLink id="terminal" />
 
 <ItemImage scale="6" id="observer_card" />
 

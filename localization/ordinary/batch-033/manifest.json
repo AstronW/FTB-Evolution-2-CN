@@ -102,5 +102,16 @@
     "🔋 %d RF ",
     "%f mB %s",
     "%fB %s"
-  ]
+  ],
+  "jar_sha256": "712b00b855c09b3aa8f0ff531c3ce35411a92d404637f0c9eb4a12e4dcd96e46",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/oritech-2.0.0-exp12.jar",
+    "jar_sha256": "712b00b855c09b3aa8f0ff531c3ce35411a92d404637f0c9eb4a12e4dcd96e46",
+    "nested_jars": [],
+    "resource": "assets/oritech/lang/en_us.json",
+    "mod_ids": [
+      "oritech"
+    ],
+    "resource_sha256": "38daf7f3a619791e5f325ab9fb181b4936631842c0616ac36fad29c0cc41a918"
+  }
 }

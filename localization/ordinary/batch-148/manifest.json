@@ -20,5 +20,16 @@
     "jei.occultcooking.kitchen_station.3"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "cf1aafdd7425545b95447444fc49d317777737806f8f68b46d3406a6256a4bf1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultcooking-2.0.0.jar",
+    "jar_sha256": "cf1aafdd7425545b95447444fc49d317777737806f8f68b46d3406a6256a4bf1",
+    "nested_jars": [],
+    "resource": "assets/occultcooking/lang/en_us.json",
+    "mod_ids": [
+      "occultcooking"
+    ],
+    "resource_sha256": "4944103bfc7fbedd4bba72d877ed195a4623c76e98eac94e30425c713c243bbc"
+  }
 }

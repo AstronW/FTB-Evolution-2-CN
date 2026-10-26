@@ -43,11 +43,11 @@
     },
     {
       "namespace": "ftb",
-      "source_keys": 1163,
+      "source_keys": 1162,
       "existing_keys": 1201,
       "added_keys": 0,
       "missing": 0,
-      "sha256": "5b5b2005ff72034ca8b8761870ae48bb03408cce4622f68698881493490aa46d"
+      "sha256": "ca5ec053e028d3f44b83de931c3019773de3204ef077473717337ff39d9d1d7e"
     },
     {
       "namespace": "ftb_custom",
@@ -83,11 +83,11 @@
     },
     {
       "namespace": "hephaestus_tools",
-      "source_keys": 69,
-      "existing_keys": 612,
+      "source_keys": 1,
+      "existing_keys": 618,
       "added_keys": 0,
       "missing": 0,
-      "sha256": "4a743c77448294a0177c237ac91293f7d1ad580c7071647f9210371d737564bb"
+      "sha256": "19e7cd3f5b7eb501d8748dd99e098ccb30be8f1f772721f8ee7291116004c9f6"
     },
     {
       "namespace": "hostilenetworks",
@@ -162,8 +162,8 @@
       "sha256": "bec3d18a1e600f8d223666f44d00c7a41c5d4c449e8d59719125dd5fbade5625"
     }
   ],
-  "total_source_keys": 1452,
-  "verified_scope_keys": 1450,
+  "total_source_keys": 1383,
+  "verified_scope_keys": 1381,
   "deferred_manual_keys": [
     "book.witchery.guidebook.ritual.summon_coven_witch.description",
     "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch.text"

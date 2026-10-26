@@ -66,5 +66,16 @@
   "context_overrides": {},
   "unchanged_values": [
     "%s, %s / %s"
-  ]
+  ],
+  "jar_sha256": "52fd9a69083e1dbd57a0e82e21df5268b39a19762ce98aaa008f961b627c7220",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/directorscamera-26.1.2-1.0.1.jar",
+    "jar_sha256": "52fd9a69083e1dbd57a0e82e21df5268b39a19762ce98aaa008f961b627c7220",
+    "nested_jars": [],
+    "resource": "assets/directorscamera/lang/en_us.json",
+    "mod_ids": [
+      "directorscamera"
+    ],
+    "resource_sha256": "616b3e1b482efe29e31cd4b8e86a662dc47f25bd419bda697170466e9b5a9f03"
+  }
 }

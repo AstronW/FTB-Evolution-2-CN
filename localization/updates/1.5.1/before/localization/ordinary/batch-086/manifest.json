@@ -1,0 +1,16 @@
+{
+  "batch": "086",
+  "namespace": "extendedae",
+  "jar": ".minecraft/mods/ExtendedAE-26.1-1.0.4-neoforge.jar",
+  "language_path": "assets/extendedae/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/extendedae/lang/zh_cn.json",
+  "include_keys": [
+    "gui.extendedae.crystal_assembler.amount",
+    "emi.extendedae.text.energy"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s mb / %s mb",
+    "%s AE"
+  ]
+}

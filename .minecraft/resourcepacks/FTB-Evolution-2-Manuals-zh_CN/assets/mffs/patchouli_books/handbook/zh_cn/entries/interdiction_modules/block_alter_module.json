@@ -1,5 +1,5 @@
 {
-  "name": "方块改动模块",
+  "name": "防修改模块",
   "icon": "mffs:block_alter_module",
   "category": "mffs:interdiction_modules",
   "pages": [
@@ -7,12 +7,12 @@
       "type": "patchouli:spotlight",
       "item": "mffs:block_alter_module",
       "link_recipe": true,
-      "text": "$(5)方块改动模块$()是$(l:mffs:machines/interdiction_matrix)拦截矩阵$()的可选模块.它使矩阵能够阻止玩家放置或破坏方块.若玩家试图破坏或放置位于$(l:mffs:machines/interdiction_matrix)拦截矩阵$()作用区域内的方块, 将收到无权限的提示, 其操作也会被回退."
+      "text": "$(5)防修改模块$()是$(l:mffs:machines/interdiction_matrix)干涉矩阵$()的可选模块.它使矩阵能够阻止玩家放置或破坏方块.若玩家试图破坏或放置位于$(l:mffs:machines/interdiction_matrix)干涉矩阵$()作用区域内的方块, 将收到无权限的提示, 其操作也会被回退."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mffs:block_alter_module",
-      "text": "合成$(5)方块改动模块$()."
+      "text": "合成$(5)防修改模块$()."
     }
   ]
 }

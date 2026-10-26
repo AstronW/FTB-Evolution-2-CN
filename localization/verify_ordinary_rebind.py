@@ -68,7 +68,7 @@ def verify_historical_1_4_0():
 def main():
     if read(ROOT / 'project.json')['target_pack_version'] == '1.4.0':
         return verify_historical_1_4_0()
-    report = read(ROOT / 'localization/updates/1.4.1/ordinary-rebind.json')
+    report = read(ROOT / ('localization/updates/' + read(ROOT / 'project.json')['target_pack_version'] + '/ordinary-rebind.json'))
     revisions = read(ROOT / 'localization/ordinary/overlay-revisions.json')
     from ordinary_translation import language_source
     verified = 0
@@ -83,7 +83,8 @@ def main():
         old = read(before / 'source-en_us.json')
         manifest = read(folder / 'manifest.json')
         assert manifest['jar'] == row['jar']
-        assert hashlib.sha256((ROOT / manifest['jar']).read_bytes()).hexdigest() == row['jar_sha256']
+        if not manifest.get('resource_binding'):
+            assert hashlib.sha256((ROOT / manifest['jar']).read_bytes()).hexdigest() == row['jar_sha256']
         raw = language_source(manifest)
         assert hashlib.sha256(raw).hexdigest() == row['language_sha256']
         current = json.loads(raw)
@@ -100,10 +101,12 @@ def main():
         overlay = read(ROOT / manifest['target'])
         for key, source in old.items():
             expected = old_manifest['context_overrides'].get(key, translated[source])
-            if key in row['source_changes']:
-                matches = [r for r in revisions if r['namespace'] == manifest['namespace']
-                           and r['key'] == key and r['previous'] == expected
-                           and r['source'] == current[key] and r['reason']]
+            matches = [r for r in revisions if r['namespace'] == manifest['namespace']
+                       and r['key'] == key and r['previous'] == expected
+                       and r['source'] == current[key] and r['reason']]
+            # Source changes always need a review; unchanged sources may carry a
+            # recorded terminology correction.
+            if key in row['source_changes'] or matches:
                 assert len(matches) == 1, (row['batch'], key, 'missing reviewed source adaptation')
                 expected = matches[0]['translation']
             assert overlay[key] == expected, (row['batch'], key, 'translation carry-forward changed')

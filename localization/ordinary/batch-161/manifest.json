@@ -71,5 +71,16 @@
     "Chamberlain Kaifry - Shimmer",
     "Faellynna",
     "Astrel"
-  ]
+  ],
+  "jar_sha256": "e350c6461741469b8a04116f731fdad7a8117e1f2908f484ecefc283dba73926",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Apotheosis-26.1.2-9.1.0.jar",
+    "jar_sha256": "e350c6461741469b8a04116f731fdad7a8117e1f2908f484ecefc283dba73926",
+    "nested_jars": [],
+    "resource": "assets/apotheosis/lang/en_us.json",
+    "mod_ids": [
+      "apotheosis"
+    ],
+    "resource_sha256": "a9a0fd0a271429168da992222721701114f1e5026646b307eb8dbbd63140a4ee"
+  }
 }

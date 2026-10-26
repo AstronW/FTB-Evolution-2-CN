@@ -12,6 +12,8 @@ from punctuation import assert_ascii
 ROOT=pathlib.Path(__file__).resolve().parent.parent
 WORK=ROOT/'localization/ordinary'
 def read(p):return json.loads(p.read_text())
+def custom_language_entries():
+ return [row for folder in sorted((ROOT/'localization/custom/batches').glob('batch-*')) for row in read(folder/'manifest.json').get('language_entries',[])]
 def check_scope(ns, manifest=None):
  scope=read(ROOT/'localization/language_scope.json')
  if ns in scope['excluded_namespaces'] and manifest and manifest.get('preserved_scope'):
@@ -23,6 +25,10 @@ def check_scope(ns, manifest=None):
  assert not any(ns.startswith(p) for p in scope['excluded_namespace_prefixes']), ns
 
 def language_source(manifest):
+ if manifest.get('resource_binding'):
+  from source_archive import read_resource
+  raw,_=read_resource(manifest['language_path'], ROOT/manifest['jar'], manifest['resource_binding']['resource_sha256'], mod_id=next(iter(manifest['resource_binding'].get('mod_ids', [])), None), nested_paths=[x['path'] for x in manifest['resource_binding']['nested_jars']])
+  return raw
  path=ROOT/manifest['jar']
  container=manifest.get('source_container')
  if container:
@@ -91,6 +97,10 @@ def process(folder,build):
  if backup.exists():
   for key,value in read(backup).items():
    if key not in en and merged[key]!=value:
+    # Pack-custom keys corrected by a reviewed custom batch carry their own
+    # source/previous/translation record there.
+    if any(row['key']==key and row.get('previous')==value and row['zh']==merged[key] and ROOT/row['output_path']==path for row in custom_language_entries()):
+     continue
     # A later review can intentionally repair a shared overlay. Keep immutable
     # before-snapshots and require an exact source/old/new/reason record instead.
     revisions=read(WORK/'overlay-revisions.json')
@@ -98,8 +108,7 @@ def process(folder,build):
     assert len(matches)==1,('Existing custom translation changed',key)
     revision=matches[0];owner=read(WORK/revision['batch']/'manifest.json')
     assert revision['reason'] and owner['namespace']==manifest['namespace'] and owner['target']==manifest['target']
-    with zipfile.ZipFile(ROOT/owner['jar']) as archive:
-     owner_source=json.loads(archive.read(owner['language_path']))
+    owner_source=json.loads(language_source(owner))
     assert owner_source[key]==revision['source'],('Reviewed correction source changed',key)
     assert_protected(revision['source'],merged[key],key)
  report=dict(status='passed',batch=manifest['batch'],namespace=manifest['namespace'],source_keys=len(en),unique_values=len(values),chinese_values=sum(bool(re.search('[\u3400-\u9fff]',v)) for v in output.values()),reviewed_non_prose_values=sum(not bool(re.search('[\u3400-\u9fff]',v)) for v in output.values()),installed_overlay_keys=len(merged),source_sha256=hashlib.sha256(raw).hexdigest(),in_game_tested=False)

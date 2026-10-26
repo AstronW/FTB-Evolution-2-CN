@@ -62,5 +62,16 @@
     "text.autoconfig.torohealth.option.barColor.foeColorSecondary.@Tooltip"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "24349c75cc4c32da922c83ca7d5e7880901adf010f75997ded3b8189ed2851cf",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/torohealth-continued-neoforge-26.1-1.5.1-beta.jar",
+    "jar_sha256": "24349c75cc4c32da922c83ca7d5e7880901adf010f75997ded3b8189ed2851cf",
+    "nested_jars": [],
+    "resource": "assets/torohealth/lang/en_us.json",
+    "mod_ids": [
+      "torohealth"
+    ],
+    "resource_sha256": "720736465da9b195bef07aae13728506d3594af1a1bd0a2cd120373bfa700423"
+  }
 }

@@ -1,9 +1,9 @@
-/name	福特龙电容
-/pages/0/text	$(9)福特龙电容$()是 MFFS 机器的能量存储与管理设备.它负责收集$(l:mffs:machines/coercion_deriver)强制推导机$()产生的福特龙, 并把它转送给需要$(l:mffs:getting_started/fortron)福特龙$()才能运转的其他机器, 相当于一个"枢纽".
-/pages/1/text	合成$(9)福特龙电容$().
+/name	福特朗能量储存器
+/pages/0/text	$(9)福特朗能量储存器$()是 MFFS 机器的能量存储与管理设备.它负责收集$(l:mffs:machines/coercion_deriver)福特朗衍生器$()产生的福特朗, 并把它转送给需要$(l:mffs:getting_started/fortron)福特朗$()才能运转的其他机器, 相当于一个"枢纽".
+/pages/1/text	合成$(9)福特朗能量储存器$().
 /pages/2/title	用法
-/pages/2/text	放好电容并设定其使用的频率.电容默认使用频率号 0, 更改方式有二:$(li)右键点击电容, 在其界面中输入目标频率号$(li)手持$(l:mffs:tools/frequency_card)频率卡$()对电容潜行右击.
-/pages/3/text	给福特龙电容提供红石信号以激活它.激活后, 电容会由红变蓝, 开始在同频率且处于范围内 (默认 15 格) 的其他 MFFS 设备之间传输$(l:mffs:getting_started/fortron)福特龙$().
+/pages/2/text	放好储存器并设定其使用的频率.储存器默认使用频率号 0, 更改方式有二:$(li)右键点击储存器, 在其界面中输入目标频率号$(li)手持$(l:mffs:tools/frequency_card)频率卡$()对储存器潜行右击.
+/pages/3/text	给福特朗能量储存器提供红石信号以激活它.激活后, 储存器会由红变蓝, 开始在同频率且处于范围内 (默认 15 格) 的其他 MFFS 设备之间传输$(l:mffs:getting_started/fortron)福特朗$().
 /pages/4/title	升级能力
-/pages/4/text	福特龙电容可以加装多种模块来增强能力:$(li)$(l:mffs:upgrade_modules/scale_module)$(5)规模模块$(): 让电容能在更远距离上与其他 MFFS 机器链接.每个模块使范围在默认 15 格的基础上增加 1 格.$(li)$(l:mffs:upgrade_modules/speed_module)$(5)速度模块$(): 让电容更快地在机器间收发$(l:mffs:getting_started/fortron)福特龙$().每个模块使传输速率提高 50 FE.
-/pages/5/text	$(li)$(l:mffs:upgrade_modules/capacity_module)$(5)容量模块$(): 提高电容可存储的$(l:mffs:getting_started/fortron)福特龙$()量.
+/pages/4/text	福特朗能量储存器可以加装多种模块来增强能力:$(li)$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$(): 让储存器能在更远距离上与其他 MFFS 机器链接.每个模块使范围在默认 15 格的基础上增加 1 格.$(li)$(l:mffs:upgrade_modules/speed_module)$(5)速度模块$(): 让储存器更快地在机器间收发$(l:mffs:getting_started/fortron)福特朗$().每个模块使传输速率提高 50 FE.
+/pages/5/text	$(li)$(l:mffs:upgrade_modules/capacity_module)$(5)容量模块$(): 提高储存器可存储的$(l:mffs:getting_started/fortron)福特朗$()量.

@@ -40,5 +40,16 @@
     "%s, %s, %s",
     "%s%%",
     "%s FE/tick"
-  ]
+  ],
+  "jar_sha256": "303ece6478453dc4956698a0cf623851d346ca7e2b06e2bcc44403ec03663e0a",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/NeoSync-26.1.2-1.7.3.jar",
+    "jar_sha256": "303ece6478453dc4956698a0cf623851d346ca7e2b06e2bcc44403ec03663e0a",
+    "nested_jars": [],
+    "resource": "assets/neosync/lang/en_us.json",
+    "mod_ids": [
+      "neosync"
+    ],
+    "resource_sha256": "80ff0bb89cf3c637fa6779b015d6163e86c8047468a4dfdd2e77ce80a2542f76"
+  }
 }

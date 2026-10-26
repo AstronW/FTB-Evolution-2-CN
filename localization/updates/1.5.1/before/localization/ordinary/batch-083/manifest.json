@@ -1,0 +1,14 @@
+{
+  "batch": "083",
+  "namespace": "belts",
+  "jar": ".minecraft/mods/belts-neoforge-2.0.0-exp1.jar",
+  "language_path": "assets/belts/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/belts/lang/zh_cn.json",
+  "include_keys": [
+    "item.belts.improved_belt",
+    "item.belts.improved_belt.tooltip.0",
+    "item.belts.improved_belt.tooltip.1"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

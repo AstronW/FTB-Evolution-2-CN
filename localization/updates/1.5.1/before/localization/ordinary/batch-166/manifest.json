@@ -1,0 +1,21 @@
+{
+  "batch": "166",
+  "namespace": "puffish_attributes",
+  "jar": ".minecraft/mods/puffish_attributes-0.8.2-26.1-neoforge.jar",
+  "language_path": "assets/puffish_attributes/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/puffish_attributes/lang/zh_cn.json",
+  "include_keys": [
+    "attribute.puffish_attributes.tamed_damage",
+    "attribute.puffish_attributes.sword_damage",
+    "attribute.puffish_attributes.axe_damage",
+    "attribute.puffish_attributes.trident_damage",
+    "attribute.puffish_attributes.breaking_speed",
+    "attribute.puffish_attributes.mount_speed",
+    "attribute.puffish_attributes.consuming_speed",
+    "attribute.puffish_attributes.tamed_resistance",
+    "attribute.puffish_attributes.damage_reflection",
+    "attribute.puffish_attributes.experience"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

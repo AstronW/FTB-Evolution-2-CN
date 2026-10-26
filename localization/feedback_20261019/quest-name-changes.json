@@ -148,42 +148,42 @@
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "72",
+    "key": "74",
     "mod": "irons_artifice",
     "en": "Iron's Arms 'n Artifice",
     "zh": "Iron的武备与巧械"
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "78",
+    "key": "81",
     "mod": "irons_artifice",
     "en": "Iron's Arms 'n Artifice",
     "zh": "Iron的武备与巧械"
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "280",
+    "key": "286",
     "mod": "irons_artifice",
     "en": "Iron's Arms 'n Artifice",
     "zh": "Iron的武备与巧械"
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "296",
+    "key": "302",
     "mod": "justhammers",
     "en": "Just Hammers",
     "zh": "锤子合集"
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "299",
+    "key": "305",
     "mod": "justhammers",
     "en": "Just Hammers",
     "zh": "锤子合集"
   },
   {
     "file": "localization/translations/chapters/gearing_up.json",
-    "key": "353",
+    "key": "362",
     "mod": "bhc",
     "en": "Baubley Heart Canisters",
     "zh": "心之容器"
@@ -365,7 +365,7 @@
   },
   {
     "file": "localization/translations/chapters/nautec.json",
-    "key": "788",
+    "key": "789",
     "mod": "stellaris",
     "en": "Stellaris",
     "zh": "群星"
@@ -603,7 +603,7 @@
   },
   {
     "file": "localization/terms.json",
-    "key": "Open Energized Power",
+    "key": "Energized Power",
     "mod": "energizedpower",
     "en": "Energized Power",
     "zh": "充能能源"

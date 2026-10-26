@@ -6,7 +6,7 @@
 
 1. 核对当前模组版本、有效英文源及资源 ID/语言键, 查询官方中文、CFPA 和已有项目裁决. CFPA 候选包括已合并仓库、未合并 PR 以及不同 Minecraft/模组版本的汉化; 不仅查询与目标版本相同的目录.
 2. 比较版本适配、语义准确性、模组内一致性与辨识度. 官方中文和 CFPA 没有固定的胜出顺序.
-3. 将决定、理由和来源记入下表, 再更新对应词表、正文与游戏名称覆盖. 未决项标为待核实, 不作为规范译名传播.
+3. 将决定、理由和来源记入下表, 在 `glossary/glossary.json` 登记规范条目, 再更新对应词表、正文与游戏名称覆盖. 未决项标为待核实, 不作为规范译名传播.
 4. 更改既有决定时保留旧译名和变更原因, 查找并同步所有引用, 记录构建及校验结果. 具体细节较长时链接批次报告.
 
 ## 现有词表的职责
@@ -18,6 +18,7 @@
 | `manuals/nodeworks-terms.json` | Nodeworks 专用术语参考 |
 | `cfpa_review/terms.json` | 1.4.0 CFPA 审校复用的命名空间及上下文术语, 不用于全局替换 |
 | 本文件 | 跨范围裁决、来源、适用上下文及同步状态 |
+| `glossary/glossary.json` | 已裁决术语的结构化规范库: 按命名空间/任务章节限定, 绑定语言键与禁用变体, 由 `glossary.py check` 校验; 用法见 `glossary/README.md` |
 
 现有词表是待逐步复核的历史资产, 不因存在于词表就优于官方中文或 CFPA. 英文文本相同的章节标题与设备分类可能含义不同, 不将其自动判为冲突. 新增领域词表时在此登记用途.
 
@@ -323,6 +324,7 @@
 - 新增构建链 localization/patchouli_translation.py, 已入 project.py check; 产物在 Manuals 资源包 assets/<ns>/patchouli_books/<book>/zh_cn/.
 - MFFS: 福特龙 (Fortron), 强制推导机, 福特龙电容, 拦截矩阵, 力场投射器, 生物识别仪, 身份卡, 频率卡, 遥控器; 模块名 规模/速度/容量/平移/旋转/电击/加固/伪装/解构/收集/稳定/穹顶/融合/反转/静音/海绵/发光.
 - Animal Pen: 动物围栏/水族箱/鸟舍/动物笼/水生动物容器/捕鸟笼; 比较器二进制位 [0000] 原样保留.
+- 任务书物品名按当前生效物品名同步 714 个片段 (含 Animal Pen 物品 水族罐/捕禽网, Nautec 共鸣/海棱水晶/生物反应机及菌种 嗜铁菌/嗜岩石菌/嗜金刚菌 等, 精致存储 输入总线/自动合成仓 等); 映射与保留项见 `reports/quest-item-name-sync-1.5.1.md`. Shimmerweave 概念仍作 微光编织.
 - 神化: 世界层级沿用官方 居所/边境/高峰/顶点; 刷怪笼符文系列按层级 拓荒者/旅行者/登山者/雷霆; 词缀 耐久词缀.
 - 上游自带中文的书 (apotheosis/justdirethings) 以 JAR zh_cn 为底并半角化; productivebees/modularrouters 以已装 CFPA 为底; 拉丁学名保留.
 
@@ -372,3 +374,30 @@ Refined Storage 统一为精致存储, 类型扩展为精致存储: 类型扩展
 - `ftb:adamantite_coolant`, `ftb:aeternium_coolant`, `ftb:aurichalcum_coolant`: 精金冷却块, 永恒金属冷却块, 奥利哈刚冷却块. 沿用 Nodeworks 的 Crafting Coolant = 合成冷却块及本包现有材料名称, 不引入新材料译名. 本包 KubeJS 新增英文没有自带中文; CFPA 固定来源没有这些整合包专用键. 名称与新增任务同步, 见 `custom/batches/batch-005/manifest.json`.
 - 新任务英文的 Crafting Storage 实际指 `nodeworks:crafting_storage`, 当前 JAR 名称为 Crafting Buffer, 中文沿用游戏的合成缓存. Co-Processor 沿用合成协处理器. Nodeworks 0.10.6 语言资源与原名称一致, 不按泛称另造物品名.
 - 血弹说明继续沿用命血祭坛, 附魔子弹改装件和气血子弹; 本次只更正换弹机制, 不改既定物品术语.
+
+## 1.5.1 增量裁决 (2026-10-23)
+
+- Nodeworks `block.nodeworks.multi_processing_handler` / 对应手册: Multi-Processing Handler = 多配方加工处理器, 与既有加工处理器区分; Transfer Card = 传输卡. 当前官方中文与固定 CFPA 各版本/PR 缓存未检出候选, 沿用既有存储卡/加工配方集体系.
+- 世界层级 Ascent / Summit / Pinnacle 继续使用攀升 / 高峰 / 巅峰, 新护甲示例标签与任务正文一致.
+- `item.ftb.charged_buoyancy_tank` 继续使用既有充能浮力罐; 区分普通浮力罐与充能版本, 不改变物品 ID 或配方.
+- Hephaestus Tools 的 Spirit Attuned 名称去掉 Gem 后用灵魂调谐; 修复提示保留 `%s` 动态耐久值, 不固定为 25%. Forge Table 沿用现有锻造台.
+- Nautec Netheritophiles = 嗜下界合金菌, 按实际产物和既有细菌名称体系命名. 新键不是以旧拼法全局替换.
+- 新增键审阅与来源见 `updates/1.5.1/new-language-review.json`, 旧/新译文裁决见 `language-translations.json` 和 `quest-translations.json`.
+
+## 2026-10-23 规范术语库
+
+新增 `glossary/glossary.json` 与 `glossary.py`, 从本文件已有裁决整理 74 条规范条目, 带语言键绑定与禁用变体, 已纳入 `project.py check`. 首次校验发现 4 项不一致, 经用户裁决全部修复:
+
+- Apotheosis Pinnacle = 顶点, 与游戏内 (JAR `text.apotheosis.world_tier.pinnacle`) 及 Patchouli 手册一致, 取代上方 1.5.1 增量裁决中的巅峰. 任务书 Gearing Up 5 处已改 (`translations/chapters/gearing_up.json`, `updates/1.5.1/quest-translations.json` 与 `quest-deltas.json` 同步). 其他章节中作普通词义的巅峰/顶点不受影响.
+- `advancements.apotheosis.progression.pinnacle.criteria.previous_tier` 英文为 Unlock the Summit World Tier, 由解锁巅峰世界等级更正为解锁高峰世界等级.
+- Witchery `advancements.witchery.golden_chalk.title/description` 由金色仪式粉笔改为金黄仪式粉笔, 与方块名一致. 此项与上一项由 `custom/batches/batch-007` 承载, 并同步 `custom/advancements.tsv`.
+- MFFS Fortron = 福特朗, 取代 1.4.0 Patchouli 批次的福特龙, 与流体名及 CFPA 审校采用的 PR #5193 一致. 同步 Patchouli 手册 8 个页面 22 处, 普通第 046 批 `info.mffs.fortron_usage` (修订记录见 `ordinary/overlay-revisions.json`). 用户随后裁决所有中文中的 Fortron 一律作福特朗, Fortron Capacitor 为福特朗能量储存器 (简称储存器). 同步任务书 MFFS, Power, Progression Tiers, Pyramid Challenge 共 16 行, 手册 5 页中的福特龙电容/电容; JAR 自带中文仍写 Fortron 的 5 键 (含 Fortron 衍生器 → 福特朗衍生器) 由普通第 347 批覆盖. 衍生器与手册"强制推导机"的名称差异未在本次裁决.
+
+工具调整: `ordinary_translation.py` 认可 custom 批次 `language_entries` 中带 `previous` 的接管记录; `verify_ordinary_rebind.py` 允许源文未变的键通过 `overlay-revisions.json` 登记术语修订. 详见 `glossary/README.md`.
+
+## 2026-10-23 物品名优先与说明文本对齐
+
+用户裁决: 本项目自行翻译的任务书与手册可信度低于游戏内物品译名, 除非该内容经过大量翻译与校对. 说明文本提到物品、方块、实体、流体或效果时, 以游戏当前显示名称为准; 例外须写明依据并登记于 `glossary/name-audit-exceptions.json`. 该规则由 `audit_item_names.py` 检查, 已纳入 `project.py check`.
+
+本轮据此取代的旧裁决: 1.4.0 Patchouli 批次的 MFFS 机器与模块名 (力场投射器, 拦截矩阵, 规模模块, 生物识别仪, 身份卡, 遥控器等, 现按游戏名), 强制推导机 (现为福特朗衍生器), 手册语言键批次的祭司权杖 (现为祭司杖), 神秘学魔灵"精灵 (Foliot), 巨灵 (Marid)" (官方为魔精, 巨灵为 Djinni, Marid 为魔王), 农业批次的花匠骨粉与极压缩骨粉 (现为花农的骨粉, 超级压缩骨粉), MORE Red 的红石合金与石底座 (现为红色合金锭/丝, 石板), NeoSync 说明中的躯壳存储器/构造器 (现为壳体存放仓/培育仓; 躯壳本身仍作躯壳). 逐条范围与统计见 `reports/item-name-alignment-2026-10-23.md`.
+

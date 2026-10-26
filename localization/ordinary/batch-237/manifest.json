@@ -77,5 +77,16 @@
   "preserved_scope": {
     "source_snapshot": "localization/updates/1.4.1/before/localization/ordinary/batch-237/source-en_us.json",
     "reason": "Crystalix newly classified as decoration. Preserve only the existing selected keys; adjust the changed default to current semantics, without adding translation scope."
+  },
+  "jar_sha256": "3e3de9584755977d30a1647e5aecdd33220fa07b53533917e3a11a578cda54c9",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar",
+    "jar_sha256": "3e3de9584755977d30a1647e5aecdd33220fa07b53533917e3a11a578cda54c9",
+    "nested_jars": [],
+    "resource": "assets/crystalix/lang/en_us.json",
+    "mod_ids": [
+      "crystalix"
+    ],
+    "resource_sha256": "8e69cf5815a62f459b61a790b326917dd78b04afc42d40a3a78d45afae0cc593"
   }
 }

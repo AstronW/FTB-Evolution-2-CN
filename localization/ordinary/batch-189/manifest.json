@@ -20,5 +20,16 @@
     "text.toolbelt.config.display_empty_slots"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "5df697905865a66f681c7c0f74cc4c44e5ed1b03c1a5bf64901b25d6e9c439e2",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ToolBelt-26.1.2-2.9.5.jar",
+    "jar_sha256": "5df697905865a66f681c7c0f74cc4c44e5ed1b03c1a5bf64901b25d6e9c439e2",
+    "nested_jars": [],
+    "resource": "assets/toolbelt/lang/en_us.json",
+    "mod_ids": [
+      "toolbelt"
+    ],
+    "resource_sha256": "ac5f07c4506f6069c2570402a8f70ebb37f2a61cdc2358355743e8049124a4f6"
+  }
 }

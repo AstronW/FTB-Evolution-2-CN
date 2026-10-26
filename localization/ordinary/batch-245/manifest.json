@@ -33,5 +33,16 @@
     "%s.\n%s",
     "%s mb",
     "%s / %s mb"
-  ]
+  ],
+  "jar_sha256": "b28fe5ece1ee4bed789109e80f172ae3802bb9fa2366ac6dd4f9d955775d75e6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/modonomicon-26.1.2-neoforge-2.17.1.jar",
+    "jar_sha256": "b28fe5ece1ee4bed789109e80f172ae3802bb9fa2366ac6dd4f9d955775d75e6",
+    "nested_jars": [],
+    "resource": "assets/modonomicon/lang/en_us.json",
+    "mod_ids": [
+      "modonomicon"
+    ],
+    "resource_sha256": "16c8722cf799424271b09566908e42a41b26b03bd0aad04591f57a1994689368"
+  }
 }

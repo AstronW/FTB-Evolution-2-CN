@@ -23,7 +23,7 @@
   "farmingforblockheads.configuration.fertilizerBonusGrowthChance": "红肥生长增益概率",
   "farmingforblockheads.configuration.fertilizerBonusGrowthChance.tooltip": "使用红肥时获得生长增益的概率.",
   "farmingforblockheads.configuration.fertilizerRegressionChance": "肥沃耕地退化概率",
-  "farmingforblockheads.configuration.fertilizerRegressionChance.tooltip": "肥沃耕地在每一次提供增益后, 其退化为普通耕地的概率.",
+  "farmingforblockheads.configuration.fertilizerRegressionChance.tooltip": "肥沃的耕地在每一次提供增益后, 其退化为普通耕地的概率.",
   "farmingforblockheads.configuration.merchantNames": "商人名称",
   "farmingforblockheads.configuration.merchantNames.tooltip": "商人可使用的名称列表.",
   "farmingforblockheads.configuration.title": "农场贸易",

@@ -340,6 +340,91 @@ end)
 
 ---
 
+## <a name="recipes" /> recipes
+
+使用一个函数处理多个加工配方集. 指定配方集所需的输入,
+所有输入都符合规则的配方集就会交给这个处理器. 后续加入
+网络的配方集也会自动纳入, 无需重启脚本.
+
+<LuaCode>
+```lua
+local furnaces = network:get("furnaces")
+
+local function smelt(job: Job, items: InputItems)
+  for _, input in items:all() do
+    furnaces:face("top"):insert(input)
+  end
+  job:pull(furnaces:face("bottom"))
+end
+
+network
+  :recipes("#c:ores", "#c:raw_materials")
+  :except("mod:uranium", "mod:other_ore")
+  :handle(smelt)
+```
+</LuaCode>
+
+### <a name="which-sets-match" /> 哪些配方集符合规则
+
+- **`network:recipes(...)`**: 配方集的每项输入都必须符合这些
+  规则之一. 只筛选金属锭时, 还需要煤的配方集会被排除,
+  因而不会混入合金配方. 不提供规则则匹配所有配方集.
+- **`:except(...)`**: 任一输入符合这些规则的配方集都会被排除.
+- **`:outputs(...)`**: 可选. 配方集所有必定产出的物品也必须
+  符合这些规则之一. 当同一输入会交给不同
+  机器时可使用, 例如粗铁送入熔炉制锭, 或送入粉碎机制粉.
+  不检查概率产物.
+
+<LuaCode>
+```lua
+-- 原材料, 但只匹配产出金属锭的配方集.
+network:recipes("#c:raw_materials"):outputs("#c:ingots"):handle(smelt)
+```
+</LuaCode>
+
+规则语法与[存储卡筛选器](../items-blocks/storage_card.md#filters)相同,
+因此物品 ID, `#tags`和`*`通配符都可以使用.
+
+### <a name="who-wins" /> 优先顺序
+
+- 为配方集精确指定的[`network:handle`](./network.md#handle)始终优先于`recipes`处理器.
+- 绑定到<ItemLink id="processing_handler" />或<ItemLink id="multi_processing_handler" />的配方集
+  仍由对应方块负责. 宽泛规则不会夺走你在方块上勾选的配方集.
+- 两个`recipes`处理器都匹配同一配方集时, 优先使用先注册的处理器.
+
+### <a name="one-craft-at-a-time" /> 每次只运行一次合成
+
+`recipes`处理器一次只运行一次合成, 因为这些配方通常共用
+相同机器. 其他需要它的合成会等待轮到自己,
+避免争用熔炉. 如果各配方从不共用机器, 例如
+一组熔炉中每台都处理不同输入, 可调用`:parallel()`, 让
+多次合成同时进行.
+
+<LuaCode>
+```lua
+network:recipes("#c:raw_materials"):parallel():handle(smelt)
+```
+</LuaCode>
+
+### <a name="stopping-and-checking" /> 停止与查询
+
+`:handle`返回一个处理器, 可停止它, 或查询当前由它处理的配方集.
+
+<LuaCode>
+```lua
+local ores = network:recipes("#c:ores"):handle(smelt)
+for _, line in ipairs(ores:sets()) do
+  print(line) -- minecraft:raw_iron -> minecraft:iron_ingot
+end
+ores:stop()
+```
+</LuaCode>
+
+从[`job`](job.md#recipe)读取每次合成的详细信息, 输入则来自
+[`items:all()`](input-items.md#all).
+
+---
+
 ## <a name="route" /> route
 
 批量编辑名称匹配模式的所有卡片的[过滤设置](../items-blocks/storage_card.md#filters),

@@ -30,5 +30,16 @@
   "context_overrides": {},
   "unchanged_values": [
     "Emojiful"
-  ]
+  ],
+  "jar_sha256": "df03f65a07f09fd96f99d7d648b70cbd407a143f819449ef8a1f944524fff235",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Emojiful-Neoforge-26.1.2-5.3.2.jar",
+    "jar_sha256": "df03f65a07f09fd96f99d7d648b70cbd407a143f819449ef8a1f944524fff235",
+    "nested_jars": [],
+    "resource": "assets/emojiful/lang/en_us.json",
+    "mod_ids": [
+      "emojiful"
+    ],
+    "resource_sha256": "5a768643db272b823180f2ea5c3a7e70a79887bc86b971e16488d76fbb6dafa0"
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "animal_pen": {
+    "mod_id": "animal_pen",
+    "resources": [
+      {
+        "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animal_pen-neoforge-26.1-2.5.1.jar",
+        "jar_sha256": "7eb2272b515cf71c86057c11bc110f14043fbaca19c6cf4b03ff41e3e0da9f8c",
+        "nested_jars": [],
+        "resource": "assets/animal_pen/lang/zh_cn.json",
+        "mod_ids": [
+          "animal_pen"
+        ],
+        "resource_sha256": "390d8dfe11d05e1f6c443b86f0a5314739c7024d33c4881b93f1b25a5e1f84d5"
+      },
+      {
+        "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animal_pen-neoforge-26.1-2.5.1.jar",
+        "jar_sha256": "7eb2272b515cf71c86057c11bc110f14043fbaca19c6cf4b03ff41e3e0da9f8c",
+        "nested_jars": [],
+        "resource": "LICENSE_Animal Pen",
+        "mod_ids": [
+          "animal_pen"
+        ],
+        "resource_sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+      }
+    ]
+  }
+}

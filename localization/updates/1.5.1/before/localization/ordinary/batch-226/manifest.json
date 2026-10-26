@@ -1,0 +1,18 @@
+{
+  "batch": "226",
+  "namespace": "jupiter",
+  "jar": ".minecraft/mods/jupiter-2.4.3-26.1.2-universal.jar",
+  "language_path": "assets/jupiter/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/jupiter/lang/zh_cn.json",
+  "include_keys": [
+    "jupiter.config_source.cloth_config",
+    "jupiter.config_source.jupiter",
+    "jupiter.config_source.night_config"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Cloth",
+    "Jupiter",
+    "(Neo)Forge"
+  ]
+}

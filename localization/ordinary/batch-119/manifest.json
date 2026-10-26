@@ -30,5 +30,16 @@
     "https://www.curseforge.com/minecraft/mc-mods/dungeons-enchantments",
     "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
     "https://www.curseforge.com/minecraft/mc-mods/improved-exp"
-  ]
+  ],
+  "jar_sha256": "cc86e80d23fb771097441dee77be5d971b4955cafa604690e61cc010083e5dd8",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar",
+    "jar_sha256": "cc86e80d23fb771097441dee77be5d971b4955cafa604690e61cc010083e5dd8",
+    "nested_jars": [],
+    "resource": "assets/enchdesc/lang/en_us.json",
+    "mod_ids": [
+      "enchdesc"
+    ],
+    "resource_sha256": "ff1e03874d39f9e3011bf30afc3e88b754a9b3544470459c38b9b0603faf3591"
+  }
 }

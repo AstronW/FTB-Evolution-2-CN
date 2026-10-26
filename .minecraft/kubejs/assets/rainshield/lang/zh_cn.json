@@ -1,6 +1,6 @@
 {
   "rainshield.configuration.client": "客户端",
   "rainshield.configuration.client.tooltip": "客户端设置",
-  "rainshield.configuration.rainShieldDistance": "防雨范围",
-  "rainshield.configuration.rainShieldDistance.tooltip": "定义防雨罩停止渲染雨水的范围"
+  "rainshield.configuration.rainShieldDistance": "驱雨盾范围",
+  "rainshield.configuration.rainShieldDistance.tooltip": "定义驱雨盾停止渲染雨水的范围"
 }

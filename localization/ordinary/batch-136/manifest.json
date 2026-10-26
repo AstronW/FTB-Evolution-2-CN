@@ -335,5 +335,16 @@
     "Gaultheria procumbens",
     "Dioscorea cayenensis",
     "Cucurbita pepo var. longa"
-  ]
+  ],
+  "jar_sha256": "e02d8f265b385c4b9cc7b81c0f56627035a9736d0f71e31bb71b5d2d1a27e157",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar",
+    "jar_sha256": "e02d8f265b385c4b9cc7b81c0f56627035a9736d0f71e31bb71b5d2d1a27e157",
+    "nested_jars": [],
+    "resource": "assets/productivefarming/lang/en_us.json",
+    "mod_ids": [
+      "productivefarming"
+    ],
+    "resource_sha256": "d4723619857a33f5db4833c7be5b9b8ef2458385c1a82cafb88266b1d2e2848e"
+  }
 }

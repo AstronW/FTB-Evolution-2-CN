@@ -1,0 +1,25 @@
+{
+  "batch": "044",
+  "namespace": "replication",
+  "jar": ".minecraft/mods/Replication-26.1.2-1.2.8.jar",
+  "language_path": "assets/replication/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/replication/lang/zh_cn.json",
+  "include_keys": [
+    "block.replication.creative_matter_tank",
+    "itemGroup.replication",
+    "replication.infinite",
+    "replication.patterns",
+    "replication.search",
+    "replication.amount",
+    "replication.available",
+    "replication.cancel",
+    "replication.no_tasks",
+    "replication.toast_title",
+    "tooltip.replication.tank.priority",
+    "tooltip.replication.tank.void_excess"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Replication"
+  ]
+}

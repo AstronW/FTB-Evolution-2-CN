@@ -9,7 +9,11 @@ categories:
 
 # <a name="celestine-farm" /> 天青石农场
 
-<ItemLink id="budding_celestine" />可使用<ItemLink id="breaker" />和<ItemLink id="terminal" />轻松自动采收.
+<ItemLink id="budding_celestine" />可以用<ItemLink id="breaker" />轻松自动采集, 也可搭配<ItemLink id="terminal" />.
+
+破坏器应将破坏筛选器设为`#c:clusters`
+
+![破坏器界面, 已将晶簇设为破坏筛选条件](../assets/images/breaker_clusters.png)
 
 <GameScene zoom="4" interactive={true} paddingLeft="30" paddingRight="30">
   <ImportStructure src="../assets/assemblies/celestine_farm.snbt" />

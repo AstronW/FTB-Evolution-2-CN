@@ -65,5 +65,16 @@
     "ftbechoes.tooltip.unlocked_by"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "dce482653ba3bed5bd3638a7403ec647b585e140b3bccae314d6af7c731d81cf",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-echoes-26.1.2.1.jar",
+    "jar_sha256": "dce482653ba3bed5bd3638a7403ec647b585e140b3bccae314d6af7c731d81cf",
+    "nested_jars": [],
+    "resource": "assets/ftbechoes/lang/en_us.json",
+    "mod_ids": [
+      "ftbechoes"
+    ],
+    "resource_sha256": "2d0fce888adbf1689a90724f67164316b163730eccf38fca16b5bc0eb1c9334f"
+  }
 }

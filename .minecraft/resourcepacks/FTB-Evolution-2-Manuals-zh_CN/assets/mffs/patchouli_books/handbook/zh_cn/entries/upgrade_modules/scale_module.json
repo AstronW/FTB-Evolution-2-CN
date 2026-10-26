@@ -1,5 +1,5 @@
 {
-  "name": "规模模块",
+  "name": "扩展模块",
   "icon": "mffs:scale_module",
   "category": "mffs:upgrade_modules",
   "pages": [
@@ -7,12 +7,12 @@
       "type": "patchouli:spotlight",
       "item": "mffs:scale_module",
       "link_recipe": true,
-      "text": "$(5)规模模块$()可以放入多种 MFFS 机器的升级槽, 升级其距离能力.效果因机器而异, 最常见的有: $(li)扩大力场尺寸$(li)扩大拦截范围$(li)提高$(l:mffs:machines/coercion_deriver)强制推导机$()的燃料增益"
+      "text": "$(5)扩展模块$()可以放入多种 MFFS 机器的升级槽, 升级其距离能力.效果因机器而异, 最常见的有: $(li)扩大力场尺寸$(li)扩大拦截范围$(li)提高$(l:mffs:machines/coercion_deriver)福特朗衍生器$()的燃料增益"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "mffs:scale_module",
-      "text": "合成$(5)规模模块$()."
+      "text": "合成$(5)扩展模块$()."
     }
   ]
 }

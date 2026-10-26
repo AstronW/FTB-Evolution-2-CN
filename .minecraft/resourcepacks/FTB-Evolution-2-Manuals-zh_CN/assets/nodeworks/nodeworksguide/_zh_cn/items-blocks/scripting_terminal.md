@@ -5,6 +5,7 @@ navigation:
   title: 脚本终端
 categories:
   - terminal
+  - requires_controller
 description: where you write and run Lua scripts that control a network
 item_ids:
 - nodeworks:terminal
@@ -13,6 +14,8 @@ item_ids:
 # <a name="scripting-terminal" /> 脚本终端
 
 脚本终端用于编写和运行控制网络的Lua脚本.
+
+> 需要<ItemLink id="network_controller" />才能使用
 
 <BlockImage scale="6" id="terminal" />
 

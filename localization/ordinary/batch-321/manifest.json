@@ -12,7 +12,6 @@
     "codedefinedgui.filter.attribute.add_inverted",
     "codedefinedgui.filter.attribute.add_inverted.tooltip",
     "codedefinedgui.filter.attribute.added_by",
-    "codedefinedgui.filter.attribute.available",
     "codedefinedgui.filter.attribute.has_enchantment",
     "codedefinedgui.filter.attribute.has_fluid",
     "codedefinedgui.filter.attribute.has_name",
@@ -27,6 +26,7 @@
     "codedefinedgui.filter.attribute.mode.match_any",
     "codedefinedgui.filter.attribute.mode.match_any.tooltip",
     "codedefinedgui.filter.attribute.mode.match_any.tooltip.shift",
+    "codedefinedgui.filter.attribute.available",
     "codedefinedgui.filter.attribute.no_reference",
     "codedefinedgui.filter.attribute.no_rules",
     "codedefinedgui.filter.attribute.scroll_to_select",
@@ -75,6 +75,21 @@
     "Code Defined GUI"
   ],
   "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar",
+    "jar_sha256": "97ec1447e8d34ac103cc6c6cc966c2894f3b023901d8dd1efe9b5e5c98078959",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+        "sha256": "ef9704b03bf028fb060cbcd8daf470ec7a87ff3d433baf9703a73ed13a1834e4"
+      }
+    ],
+    "resource": "assets/codedefinedgui/lang/en_us.json",
+    "mod_ids": [
+      "occultism"
+    ],
+    "resource_sha256": "6ab41a3ebcc3d112956015914b8b98adbe88989d3e1acb1708552ca3e4bffd77"
+  },
   "nested_jars": [
     {
       "path": "META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",

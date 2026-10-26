@@ -163,5 +163,16 @@
     "jearchaeology.brush.structure.observatory"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "c2acc12cfa72fa4f014d4f6cd1ca24fd7a62478fb3e3a1155db34060e437c5fe",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jearchaeology-26.1.2-1.3.0.jar",
+    "jar_sha256": "c2acc12cfa72fa4f014d4f6cd1ca24fd7a62478fb3e3a1155db34060e437c5fe",
+    "nested_jars": [],
+    "resource": "assets/jearchaeology/lang/en_us.json",
+    "mod_ids": [
+      "jearchaeology"
+    ],
+    "resource_sha256": "55205a2767d343af1ddafb8f4b8420cb581cde256b400dff15ed37bf8fdfee55"
+  }
 }

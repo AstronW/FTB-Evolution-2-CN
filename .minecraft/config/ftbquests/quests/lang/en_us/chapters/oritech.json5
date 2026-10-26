@@ -119,7 +119,7 @@
     "",
     "The &aParticle Accelerator Speed Sensor&r gives a redstone signal once particles pass a speed you set, and links the same way. Accelerator Motors also take Speed and Efficiency addons placed underneath them.",
     "",
-    "&eNote&r: In this version the Magnetic Field does not help particles through turns, and the Speed Sensor gives no signal. This is a bug in the mod, so hold off on building them until an update fixes it.",
+    "&eNote&r: In this version the Magnetic Field does not help particles through turns. This is a bug in the mod, so hold off on building one until an update fixes it.",
   ],
   "quest.7F186F5B5630DB4A.quest_desc": [
     "The &aFuel Generator&r is Oritech's big burner: 8,192 RF/t in this pack, from any fuel in the oil family.",

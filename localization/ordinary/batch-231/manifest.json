@@ -1,7 +1,7 @@
 {
   "batch": "231",
   "namespace": "reliquary",
-  "jar": ".minecraft/mods/reliquary-26.1.2-2.0.93.1581.jar",
+  "jar": ".minecraft/mods/reliquary-26.1.2-2.0.94.1582.jar",
   "language_path": "assets/reliquary/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/reliquary/lang/zh_cn.json",
   "include_keys": [
@@ -169,5 +169,16 @@
     "Shift",
     "XI",
     "XP"
-  ]
+  ],
+  "jar_sha256": "164c83d43121d14a687e6cb16fd9f756af779888fd00c9b4b3f70b72bb841b6f",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/reliquary-26.1.2-2.0.94.1582.jar",
+    "jar_sha256": "164c83d43121d14a687e6cb16fd9f756af779888fd00c9b4b3f70b72bb841b6f",
+    "nested_jars": [],
+    "resource": "assets/reliquary/lang/en_us.json",
+    "mod_ids": [
+      "reliquary"
+    ],
+    "resource_sha256": "b6ddea26889e108ddd22bb99b062e7fbb77de195ece92a2e7adb0d66ea428a4e"
+  }
 }

@@ -42,11 +42,11 @@ item_ids:
 * 用任意镐挖掘存放仓或培育仓即可掉落方块.无需精准采集.
 
 ***
-## <Color id="gold">手动躯壳存储器</Color>
+## <Color id="gold">手动壳体存放仓</Color>
 
 <Row>
   <ItemImage id="manual_shell_storage"/>
-  ### <Color id="aqua">手动躯壳存储器</Color>
+  ### <Color id="aqua">手动壳体存放仓</Color>
 </Row>
 
 一种存放仓, 其中的躯壳在你死亡时永远不会被自动选中.适合为单一任务打造的躯体, 例如装满工具的采矿躯体, 或停放在远处前哨的躯体.像其他存放仓一样走进去, 即可手动同步到其中.
@@ -54,11 +54,11 @@ item_ids:
 <RecipeFor id="manual_shell_storage"/>
 
 ***
-## <Color id="gold">零点躯壳存储器</Color>
+## <Color id="gold">零点壳体存放仓</Color>
 
 <Row>
   <ItemImage id="zero_point_shell_storage"/>
-  ### <Color id="aqua">零点躯壳存储器</Color>
+  ### <Color id="aqua">零点壳体存放仓</Color>
 </Row>
 
 用下界之星升级存放仓.它无需红石或 FE, 靠近时门会自动打开, 其中的躯壳永不腐坏.

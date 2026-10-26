@@ -1,0 +1,19 @@
+{
+  "batch": "260",
+  "namespace": "cloth-config2",
+  "jar": ".minecraft/mods/cloth-config-26.1.154.jar",
+  "language_path": "assets/cloth-config2/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/cloth-config2/lang/zh_cn.json",
+  "include_keys": [
+    "modifier.cloth-config.alt",
+    "modifier.cloth-config.ctrl",
+    "modifier.cloth-config.shift",
+    "text.cloth-config.testing.2"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Alt + %s",
+    "Ctrl + %s",
+    "Shift + %s"
+  ]
+}

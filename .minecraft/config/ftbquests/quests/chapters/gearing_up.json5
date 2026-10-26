@@ -3120,6 +3120,70 @@
           advancement: "apotheosis:progression/ascent",
           criterion: "",
         },
+        {
+          id: "09E069094FFD539F",
+          type: "item",
+          icon: {
+            id: "minecraft:diamond_helmet",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(minecraft:diamond_helmet)item(auroral:shimmerweave_goggles)item(mysticalagriculture:inferium_helmet)item(anima:crystal_helmet)item(anima:soulbone_helmet)item(iceandfire:armor_red_helmet))",
+            },
+          },
+        },
+        {
+          id: "23CCE3639D95290C",
+          type: "item",
+          icon: {
+            id: "minecraft:diamond_chestplate",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(minecraft:diamond_chestplate)item(stellaris:space_suit_chestplate)item(iceandfire:armor_red_chestplate)item(auroral:shimmerweave_tunic)item(mysticalagriculture:inferium_chestplate)item(anima:crystal_chestplate)item(anima:soulbone_chestplate))",
+            },
+          },
+        },
+        {
+          id: "57250B574EDBD5A1",
+          type: "item",
+          icon: {
+            id: "minecraft:diamond_leggings",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(minecraft:diamond_leggings)item(stellaris:space_suit_leggings)item(iceandfire:armor_red_leggings)item(auroral:shimmerweave_leggings)item(mysticalagriculture:inferium_leggings)item(anima:crystal_leggings)item(anima:soulbone_leggings))",
+            },
+          },
+        },
+        {
+          id: "5494798ABAE80023",
+          type: "item",
+          icon: {
+            id: "minecraft:diamond_boots",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(minecraft:diamond_boots)item(stellaris:space_suit_boots)item(iceandfire:armor_red_boots)item(auroral:shimmerweave_skates)item(mysticalagriculture:inferium_boots)item(anima:crystal_boots)item(anima:soulbone_boots))",
+            },
+          },
+        },
       ],
       rewards: [
         {
@@ -3157,6 +3221,70 @@
           type: "advancement",
           advancement: "apotheosis:progression/summit",
           criterion: "",
+        },
+        {
+          id: "27EDAF7C257CD6C7",
+          type: "item",
+          icon: {
+            id: "minecraft:netherite_helmet",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(minecraft:netherite_helmet)item(mysticalagriculture:supremium_helmet)item(nautec:aquarine_steel_helmet)item(occultism:infused_helmet)item(witchery:hunter_helmet))",
+            },
+          },
+        },
+        {
+          id: "2781FBF7D8ED3AF6",
+          type: "item",
+          icon: {
+            id: "minecraft:netherite_chestplate",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(minecraft:netherite_chestplate)item(mysticalagriculture:supremium_chestplate)item(nautec:aquarine_steel_chestplate)item(occultism:infused_chestplate)item(witchery:hunter_chestplate))",
+            },
+          },
+        },
+        {
+          id: "7368AA515A344DB8",
+          type: "item",
+          icon: {
+            id: "minecraft:netherite_leggings",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(minecraft:netherite_leggings)item(mysticalagriculture:supremium_leggings)item(nautec:aquarine_steel_leggings)item(occultism:infused_leggings)item(witchery:hunter_leggings))",
+            },
+          },
+        },
+        {
+          id: "0A87892E94A94B12",
+          type: "item",
+          icon: {
+            id: "minecraft:netherite_boots",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(minecraft:netherite_boots)item(mysticalagriculture:supremium_boots)item(nautec:aquarine_steel_boots)item(occultism:infused_boots)item(witchery:hunter_boots))",
+            },
+          },
         },
       ],
       rewards: [
@@ -3196,6 +3324,70 @@
           type: "advancement",
           advancement: "apotheosis:progression/pinnacle",
           criterion: "",
+        },
+        {
+          id: "6C8453E670EC1632",
+          type: "item",
+          icon: {
+            id: "ftbarmory:adamantite_helmet",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(ftbarmory:adamantite_helmet)item(ftbarmory:aeternium_helmet)item(ftbarmory:aurichalcum_helmet)item(anima:saronite_helmet)item(thunderrelics:royal_helmet)item(iceandfire:dragonsteel_fire_helmet))",
+            },
+          },
+        },
+        {
+          id: "5EC4847EEDEA84F5",
+          type: "item",
+          icon: {
+            id: "ftbarmory:adamantite_chestplate",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(ftbarmory:adamantite_chestplate)item(ftbarmory:aeternium_chestplate)item(ftbarmory:aurichalcum_chestplate)item(anima:saronite_chestplate)item(thunderrelics:royal_chestplate)item(iceandfire:dragonsteel_fire_chestplate))",
+            },
+          },
+        },
+        {
+          id: "389C547C1FF586E5",
+          type: "item",
+          icon: {
+            id: "ftbarmory:adamantite_leggings",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(ftbarmory:adamantite_leggings)item(ftbarmory:aeternium_leggings)item(ftbarmory:aurichalcum_leggings)item(anima:saronite_leggings)item(thunderrelics:royal_leggings)item(iceandfire:dragonsteel_fire_leggings))",
+            },
+          },
+        },
+        {
+          id: "735C3FDB1ADA1A78",
+          type: "item",
+          icon: {
+            id: "ftbarmory:adamantite_boots",
+            count: 1,
+          },
+          optional_task: true,
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(ftbarmory:adamantite_boots)item(ftbarmory:aeternium_boots)item(ftbarmory:aurichalcum_boots)item(anima:saronite_boots)item(thunderrelics:royal_boots)item(iceandfire:dragonsteel_fire_boots))",
+            },
+          },
         },
       ],
       rewards: [

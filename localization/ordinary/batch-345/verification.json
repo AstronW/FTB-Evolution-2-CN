@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "345",
+  "namespace": "resettable_trial_chambers",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 1,
+  "source_sha256": "73e336899d9f975e42a5df60607396247177e41c8dac2ab4ea2350fc57d6400a",
+  "in_game_tested": false
+}

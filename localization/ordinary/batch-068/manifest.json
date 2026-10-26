@@ -20,5 +20,16 @@
     "gui.quantumcubes.dim_missing"
   ],
   "context_overrides": {},
-  "unchanged_values": []
+  "unchanged_values": [],
+  "jar_sha256": "fb1d1182b9deb96b1aaf2abf72cef73ecc82b945d4a90f836d4c96ff72956e6c",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/quantumcubes-neoforge-26.1.2-1.0.3.jar",
+    "jar_sha256": "fb1d1182b9deb96b1aaf2abf72cef73ecc82b945d4a90f836d4c96ff72956e6c",
+    "nested_jars": [],
+    "resource": "assets/quantumcubes/lang/en_us.json",
+    "mod_ids": [
+      "quantumcubes"
+    ],
+    "resource_sha256": "bd4578834b44d2db020524a1c76322329c3ba633b505f759c94afbbd6eebf571"
+  }
 }

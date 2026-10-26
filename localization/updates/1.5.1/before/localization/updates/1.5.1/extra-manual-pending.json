@@ -1,0 +1,28 @@
+{
+  "assets/nautec/guides/nautec/guide/aquatic_biology/bio_reactor.md": {
+    "105": {
+      "source": "* Load and unload colonies through the Dish Port. A dish goes into the slot at the bottom left and dishes holding a colony come out of the slot beside it; empty dishes come out of the slot under the upgrades. A Petri Dish holding a colony loads it into the first colony slot that can take all of it. Once every colony slot is full, a new colony dish swaps instead, but only for a Senescent colony: its colony replaces the oldest Senescent one, and the old colony comes out in that same dish, so no empty dish is left over. While no colony is Senescent the dish waits in the port, and a swap also waits while the colony output slot is full. An empty dish takes out the oldest Senescent colony and waits in the port while none is Senescent, and the port refuses dishes holding a Senescent colony, so one chest can collect from the port and feed it at the same time. To take out a colony that is not Senescent, click its colony slot with an empty dish. Automation reaches the port wherever it reaches the other slots."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/aquatic_biology/industrial_bio_reactor.md": {
+    "210": {
+      "source": "Colonies load and unload through the Dish Port. A dish goes into the upper slot between the colony grid and the outputs, and dishes holding a colony come out of the lower one; empty dishes come out of the slot in the bottom row, between the nutrients and the upgrades. A Petri Dish holding a colony loads it into the first colony slot that can take all of it. Once every colony slot is full, a new colony dish swaps instead, but only for a Senescent colony: its colony replaces the oldest Senescent one, and the old colony comes out in that same dish, so no empty dish is left over. While no colony is Senescent the dish waits in the port, and a swap also waits while the colony output slot is full. An empty dish takes out the oldest Senescent colony and waits in the port while none is Senescent, and the port refuses dishes holding a Senescent colony, so one chest can collect from the port and feed it at the same time. To take out a colony that is not Senescent, click its colony slot with an empty dish. Automation reaches the port wherever it reaches the other slots."
+    }
+  },
+  "data/stellaris/wiki/infos/items/cans.md": {
+    "16": {
+      "source": "Hold the can and right-click it. You need something to drink to get the food down : "
+    },
+    "17": {
+      "source": "- A [ref=stellaris:items/fluid_cell]Fluid Cell[ref] filled with **water**, anywhere in your inventory. Each can uses 100 mB, so a full cell lasts 30 meals. "
+    },
+    "18": {
+      "source": "- Or a **potion** held in your other hand, for example a simple water bottle. It is used up. While you hold a can, the potion itself cannot be drunk, so nothing is wasted. "
+    }
+  },
+  "data/stellaris/wiki/infos/items/fluid_cell.md": {
+    "14": {
+      "source": "Filled with water, it is also the easiest way to eat [ref=stellaris:items/cans]Cans[ref] : keep it anywhere in your inventory. "
+    }
+  }
+}

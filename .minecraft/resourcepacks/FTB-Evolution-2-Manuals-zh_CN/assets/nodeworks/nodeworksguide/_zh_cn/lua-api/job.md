@@ -76,3 +76,31 @@ end)
 > **注意:** 处理器内的错误只会中止 *该次合成* , 不会
 > 停止脚本其他部分. 任务意外卡住时, 请查看
 > 终端日志中的错误.
+
+## <a name="recipe" /> recipe
+
+`Job`还会说明正在运行哪个加工配方集, 这样处理多个
+配方的处理器, 例如[`network:recipes`](network.md#recipes)处理器,
+就能对其中少数配方采用不同方式处理.
+
+- `job.name`是配方集的名称, 与`network:handle`接受的名称相同.
+- `job.inputs`按槽位顺序列出配方集的输入. 每项包含`id`和
+  `count`, 若输入接受某标签的任意成员, 还会带有`tag`.
+- `job.outputs`列出配方集的产物. 每项包含`id`, `count`和
+  `optional`, 其中概率产物的该值为 true.
+
+<LuaCode>
+```lua
+local furnace = network:get("furnace")
+local blast = network:get("blast_furnace")
+network:recipes("#c:raw_materials"):handle(function(job: Job, items: InputItems)
+  -- 铁送往高炉, 其他物品送往普通熔炉.
+  local machine = furnace
+  if job.outputs[1].id == "minecraft:iron_ingot" then machine = blast end
+  for _, input in ipairs(items:all()) do
+    machine:face("top"):insert(input)
+  end
+  job:pull(machine:face("bottom"))
+end)
+```
+</LuaCode>

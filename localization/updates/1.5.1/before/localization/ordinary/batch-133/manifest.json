@@ -1,0 +1,36 @@
+{
+  "batch": "133",
+  "namespace": "loot_journal",
+  "jar": ".minecraft/mods/loot_journal-neoforge-26.1-6.2.1.jar",
+  "language_path": "assets/loot_journal/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/loot_journal/lang/zh_cn.json",
+  "include_keys": [
+    "pickup.loot_journal.item",
+    "config.loot_journal.category.itemIdFilters",
+    "config.loot_journal.category.itemTagFilters",
+    "config.loot_journal.category.modIdFilters",
+    "config.loot_journal.group.filters",
+    "config.loot_journal.option.mergeMode",
+    "config.loot_journal.option.mergeMode.desc",
+    "config.loot_journal.option.itemIdFilters",
+    "config.loot_journal.option.itemIdFilters.desc",
+    "config.loot_journal.option.itemIdFilters.button",
+    "config.loot_journal.option.itemIdFilters.label",
+    "config.loot_journal.option.itemTagFilters",
+    "config.loot_journal.option.itemTagFilters.desc",
+    "config.loot_journal.option.itemTagFilters.button",
+    "config.loot_journal.option.itemTagFilters.label",
+    "config.loot_journal.option.modIdFilters",
+    "config.loot_journal.option.modIdFilters.desc",
+    "config.loot_journal.option.modIdFilters.button",
+    "config.loot_journal.option.modIdFilters.label",
+    "config.loot_journal.format.percent",
+    "config.loot_journal.format.pixels"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s",
+    "%s %%",
+    "%s px"
+  ]
+}

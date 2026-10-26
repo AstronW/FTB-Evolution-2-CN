@@ -1,7 +1,25 @@
 {
-  "target_pack_version": "1.4.1",
+  "target_pack_version": "1.5.1",
   "source_inputs": {
-    "mods/nodeworks-0.10.6.jar": "c777837cad32bb3db25da6d14bc57659e01108a72f0ab8b3281cb00a73275667",
+    "config/ftbmaterials/unifier-db.json": "754fc9bcf63c1d2527cf8f37a176b51dd57c0a95e079f5cdb6f908397c390daf",
+    "kubejs/server_scripts/recipes/removals.js": "4915aa65beb1b3490dc861fcda6c0cf50293b6f46545c6c4ce40530ecff79bb5",
+    "datapacks/ftb/data/justdynathings/recipe/blazegold_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6",
+    "datapacks/ftb/data/justdynathings/recipe/celestigem_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6",
+    "datapacks/ftb/data/justdynathings/recipe/eclipse_alloy_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6",
+    "datapacks/ftb/data/justdynathings/recipe/ferricore_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6"
+  },
+  "resource_inputs": {
+    "assets/oracle_index/books/kindredspirits/docs/_meta.json": "f7e3f3fb52698368d04c2e71e2a9df213fc1eeeceed80ffd5de97f3f7d5906f9",
+    "assets/oracle_index/books/kindredspirits/docs/spirits/_meta.json": "16d993ea5f0b1a14d0c4ffadfde63eca08a622b1bb06a2fbcd7f3832a5d09de5",
+    "assets/oracle_index/books/oracle-index/docs/_meta.json": "fbd731daf3cfe108b6b27e31b029cd5872409e690422c737a7d967bed654629a",
+    "assets/oracle_index/books/oracle-index/docs/developer/_meta.json": "1a474f8a1c67d093f880c1cdb068e19df4c8d618d269d4d4d654aac8d6bac892",
+    "data/animal_pen/patchouli_books/guide_book/book.json": "726e928b7eff153a5817041cbac12c5b31b0da3800a4b0946832780bdc1bc5b6",
+    "data/laserio/patchouli_books/laseriobook/book.json": "5c95d2084b77e579ce135770294f54bbbf89716dff7eaf4156d41823e4677755",
+    "data/justdirethings/patchouli_books/justdirethingsbook/book.json": "2030b6e36b79ff39751b215d28d871091e71303efefdcb7f27dede0fd8db8432",
+    "data/productivebees/patchouli_books/guide/book.json": "2caa589a53c6479e24773389d9496b9192820db073dc0c9d6948ea372fdc9070"
+  },
+  "archive_provenance": {
+    "mods/nodeworks-0.11.1.jar": "7bb01adaf3d0a2d1fbe03559336cd291e82e32826fb77180369e079479770e70",
     "mods/oracle_index-neoforge-2.0.0.jar": "2bb5a5e79e877c7032fa3c09f8dc2e32f00f3f6f9c447e941d0045ecbd6f978b",
     "mods/kindredspirits-26.1.2-1.0.9.jar": "bfaad85e4d2fe2dbb4701722cdc291ea132590bf231e2b48f68b7d01f48d71bc",
     "mods/patchouli-neoforge-26.1-94.jar": "00f9e611930614eacd565916c906a4341363e4a43e271c1a01bda8227707dd49",
@@ -10,20 +28,14 @@
     "mods/auroral-26.1.2-1.5.10.jar": "0b3fc172be2899c0b78f616639f15197b5155df205d4dde1c7787653ae294761",
     "mods/Powah-7.0.4-alpha.jar": "c91523449abef54d76f7f01ef6dd2b7ac7060524a49b524beb781617b7340fed",
     "mods/justdynathings-2.0-alpha-build-13.jar": "7291a42d5e94c0495c1c9ec981a0d611cc1192e36d4574da658d4a052b59f0d9",
-    "config/ftbmaterials/unifier-db.json": "754fc9bcf63c1d2527cf8f37a176b51dd57c0a95e079f5cdb6f908397c390daf",
-    "kubejs/server_scripts/recipes/removals.js": "c82eb75a5d69764776a5503b1c432df88d58c400ef5171c494da4ee44327254a",
     "mods/animal_pen-neoforge-26.1-2.5.1.jar": "7eb2272b515cf71c86057c11bc110f14043fbaca19c6cf4b03ff41e3e0da9f8c",
     "mods/laserio-1.10.2.jar": "a23ede2b51180d9b19ee370ed4e0bece14dbc9a4c8055a6e2e6b77589b554e67",
     "mods/justdirethings-1.6.11.jar": "27d26abcba9607b0c069de316541c781aebbbb167b1553aea6ca6934d3219436",
-    "mods/productivebees-26.1.2-15.4.0.jar": "404c27d92b38d9e6f9b5a07fe99bc5f6d12578de816a548e3d7575cc498333f3",
-    "datapacks/ftb/data/justdynathings/recipe/blazegold_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6",
-    "datapacks/ftb/data/justdynathings/recipe/celestigem_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6",
-    "datapacks/ftb/data/justdynathings/recipe/eclipse_alloy_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6",
-    "datapacks/ftb/data/justdynathings/recipe/ferricore_solar_panel.json": "15e8c9bc3f67d1c0a425312eaa37f7ac43a66933e70ed0614125bf2d93e737e6"
+    "mods/productivebees-26.1.2-15.4.0.jar": "404c27d92b38d9e6f9b5a07fe99bc5f6d12578de816a548e3d7575cc498333f3"
   },
   "base_files": {
     "assets/ftbic/ftbic/_zh_cn/machines/macerator.md": "f205448d39a2c28829037a93e02d46a6401b7efdfa2a94b90081a692c1936048",
-    "assets/ftbic/ftbic/_zh_cn/materials/alloys.md": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b",
+    "assets/ftbic/ftbic/_zh_cn/materials/alloys.md": "971f82e82a899f43cb591a9f1fb1242309af9574589e8b8e5eb55b7aa1896da6",
     "assets/ftbic/ftbic/_zh_cn/materials/dusts_and_shapes.md": "4f69dbab4ee52d40631cb04aee4d1d0fcf9e2ca45129562caf277ccfa71eaef7",
     "assets/ae2/ae2guide/_zh_cn/items-blocks-machines/processors.md": "0c78d28ba31ad070df64250016d8c4c12eed4f4357f3c51e98585198e13b4710",
     "assets/auroral/auroral/_zh_cn/flora/ender_bloom.md": "c9edc80c01607651cfd1a6ab50bcaeb15e3a3e1a64e033333c552566fe846fe8",
@@ -39,7 +51,7 @@
     "assets/auroral/auroral/_zh_cn/shimmersteel/bow.md": "2fc7e08aae19ff6b5263603ee6edc3e97105f727791f10655c38e82f78696953",
     "assets/auroral/auroral/_zh_cn/shimmersteel/spear.md": "0e88546e4860d2abfdece86d29c2081cc8bd2f1b860ccbe21e921638ffa4607e",
     "assets/ftbic/ftbic/_zh_cn/machines/macerator.md": "896c8fb70f4d4663e504f7d82e0f82fc8d5908030c5c2e619e01537298bc924d",
-    "assets/ftbic/ftbic/_zh_cn/materials/alloys.md": "659ed818c6477f92bee0d0845e8759ced89efda90e3cd038da240e25ff16ffff",
+    "assets/ftbic/ftbic/_zh_cn/materials/alloys.md": "126cb6f678f5bf51194905c01cfb1d158ada5d1a1d793af9f8b9cb58145a48c5",
     "assets/ftbic/ftbic/_zh_cn/materials/dusts_and_shapes.md": "409d9d6bdc3198002bf8c2410081015eb9173791d97fae421714a65c373f74b9",
     "assets/justdirethings/lang/zh_cn.json": "6e7f5b1b0bba82f45ed33fb495d00f4253712b69b64126046e4b034d442008b9",
     "assets/justdynathings/guides/justdynathings/guide/_zh_cn/goo/energized.md": "57bad64bf606f75ef6ef15c7c6c2960be8f2966dad620a3292995609f83f758e",
@@ -77,43 +89,11 @@
     },
     {
       "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
-      "tag": "RecipeFor",
-      "old": "ftbic:bronze_ingot",
-      "new": "ftbmaterials:bronze_ingot",
-      "origin": "manuals",
-      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
-    },
-    {
-      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
-      "tag": "RecipeFor",
-      "old": "ftbic:electrum_ingot",
-      "new": "ftbmaterials:electrum_ingot",
-      "origin": "manuals",
-      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
-    },
-    {
-      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
-      "tag": "RecipeFor",
-      "old": "ftbic:invar_ingot",
-      "new": "ftbmaterials:invar_ingot",
-      "origin": "manuals",
-      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
-    },
-    {
-      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
-      "tag": "RecipeFor",
-      "old": "ftbic:constantan_ingot",
-      "new": "ftbmaterials:constantan_ingot",
-      "origin": "manuals",
-      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
-    },
-    {
-      "page": "assets/ftbic/ftbic/_zh_cn/materials/alloys.md",
       "tag": "RecipesFor",
       "old": "ftbic:steel_ingot",
       "new": "ftbmaterials:steel_ingot",
       "origin": "manuals",
-      "base_sha256": "f09ad54e24bf9c7e01f420b4d0f09728ed439681a295007b1e954256685f860b"
+      "base_sha256": "971f82e82a899f43cb591a9f1fb1242309af9574589e8b8e5eb55b7aa1896da6"
     },
     {
       "page": "assets/ftbic/ftbic/_zh_cn/materials/dusts_and_shapes.md",

@@ -1,16 +1,16 @@
 {
   "status": "passed",
-  "manual_pages": 164,
-  "nodeworks_pages": 75,
-  "nodeworks_anchors_checked": 560,
-  "nodeworks_anchor_links": 93,
-  "code_lines_preserved": 573,
+  "manual_pages": 165,
+  "nodeworks_pages": 76,
+  "nodeworks_anchors_checked": 584,
+  "nodeworks_anchor_links": 102,
+  "code_lines_preserved": 663,
   "pack_guides": 23,
   "ftbic_pages": 66,
-  "segments": 3666,
+  "segments": 3795,
   "table_rows_checked": 383,
   "additional_ftbic_language_keys": 168,
-  "additional_nodeworks_language_keys": 111,
+  "additional_nodeworks_language_keys": 115,
   "guide_title_tooltip_keys": 8,
   "documented_correction_lines": 13,
   "intentional_unchanged": [
@@ -356,7 +356,12 @@
     },
     {
       "page": "nodeworks/lua-api/importer.md",
-      "line": 107,
+      "line": 86,
+      "text": "## except"
+    },
+    {
+      "page": "nodeworks/lua-api/importer.md",
+      "line": 142,
       "text": "### roundrobin"
     },
     {
@@ -373,6 +378,11 @@
       "page": "nodeworks/lua-api/input-items.md",
       "line": 31,
       "text": "  furnace:face(\"top\"):insert(items.rawIron) -- minecraft:raw_iron"
+    },
+    {
+      "page": "nodeworks/lua-api/input-items.md",
+      "line": 56,
+      "text": "## all"
     },
     {
       "page": "nodeworks/lua-api/items-handle.md",
@@ -453,6 +463,11 @@
       "page": "nodeworks/lua-api/job.md",
       "line": 19,
       "text": "## pull"
+    },
+    {
+      "page": "nodeworks/lua-api/job.md",
+      "line": 79,
+      "text": "## recipe"
     },
     {
       "page": "nodeworks/lua-api/network.md",
@@ -567,21 +582,31 @@
     {
       "page": "nodeworks/lua-api/network.md",
       "line": 342,
+      "text": "## recipes"
+    },
+    {
+      "page": "nodeworks/lua-api/network.md",
+      "line": 416,
+      "text": "  print(line) -- minecraft:raw_iron -> minecraft:iron_ingot"
+    },
+    {
+      "page": "nodeworks/lua-api/network.md",
+      "line": 427,
       "text": "## route"
     },
     {
       "page": "nodeworks/lua-api/network.md",
-      "line": 379,
+      "line": 464,
       "text": "## debug"
     },
     {
       "page": "nodeworks/lua-api/network.md",
-      "line": 390,
+      "line": 475,
       "text": "--     NORTH: cobblestone_storage (storage)"
     },
     {
       "page": "nodeworks/lua-api/network.md",
-      "line": 392,
+      "line": 477,
       "text": "--   BlockPos{x=-26, y=70, z=9}"
     },
     {
@@ -696,7 +721,12 @@
     },
     {
       "page": "nodeworks/lua-api/stocker.md",
-      "line": 136,
+      "line": 130,
+      "text": "### except"
+    },
+    {
+      "page": "nodeworks/lua-api/stocker.md",
+      "line": 146,
       "text": "### batch"
     },
     {

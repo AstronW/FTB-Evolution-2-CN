@@ -1,0 +1,15 @@
+{
+  "batch": "085",
+  "namespace": "refinedstorage_jei_integration",
+  "jar": ".minecraft/mods/refinedstorage-jei-integration-neoforge-2.0.1.jar",
+  "language_path": "assets/refinedstorage_jei_integration/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/refinedstorage_jei_integration/lang/zh_cn.json",
+  "include_keys": [
+    "gui.refinedstorage_jei_integration.grid.synchronizer",
+    "gui.refinedstorage_jei_integration.transfer.cmd_click_to_autocraft"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "JEI"
+  ]
+}

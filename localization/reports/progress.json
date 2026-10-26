@@ -1,9 +1,9 @@
 {
   "totals": {
     "files": 51,
-    "keys": 4181,
-    "segments": 8192,
-    "translated": 8192,
+    "keys": 4193,
+    "segments": 8205,
+    "translated": 8205,
     "complete": 51,
     "installed": 51
   },
@@ -130,9 +130,9 @@
     },
     {
       "file": "chapters/gearing_up.json5",
-      "keys": 200,
-      "segments": 460,
-      "translated": 460,
+      "keys": 212,
+      "segments": 472,
+      "translated": 472,
       "complete": true,
       "installed": true
     },
@@ -227,8 +227,8 @@
     {
       "file": "chapters/nautec.json5",
       "keys": 313,
-      "segments": 839,
-      "translated": 839,
+      "segments": 840,
+      "translated": 840,
       "complete": true,
       "installed": true
     },
@@ -421,5 +421,5 @@
     "complete": 42,
     "total": 42
   },
-  "installed_keys": 4181
+  "installed_keys": 4193
 }

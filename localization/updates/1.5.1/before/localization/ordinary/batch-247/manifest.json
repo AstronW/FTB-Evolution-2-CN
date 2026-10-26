@@ -1,0 +1,24 @@
+{
+  "batch": "247",
+  "namespace": "collective",
+  "jar": ".minecraft/mods/collective-26.1.2-8.32.jar",
+  "language_path": "assets/collective/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/collective/lang/zh_cn.json",
+  "include_keys": [
+    "collective.shared.message.adminusage",
+    "collective.shared.message.commandsusage",
+    "collective.shared.message.nopermission",
+    "collective.shared.message.playeronly",
+    "collective.shared.message.reloadsconfigfile",
+    "collective.shared.message.showmessage",
+    "collective.shared.message.successfullygeneratedhead",
+    "collective.shared.message.usage",
+    "collective.shared.message.wanderingtraderspawnfailed",
+    "collective.shared.message.wanderingtraderspawnsuccesful",
+    "collective.collective.gui.reset",
+    "collective.collective.message.headcachehelp",
+    "collective.collective.message.headcachereset"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

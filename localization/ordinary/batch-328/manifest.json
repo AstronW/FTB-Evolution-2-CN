@@ -1,8 +1,8 @@
 {
   "batch": "328",
   "namespace": "nautec",
-  "jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.16.jar",
-  "jar_sha256": "3a5ff5658f5b08cddcd52cb8212e550f1f801d9be45036368ddc1be9bdb7312b",
+  "jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.19.jar",
+  "jar_sha256": "9822be8ca107266ef87e7110227ad5c8bcb21f4d344ed1d3213372515e830e31",
   "language_path": "assets/nautec/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/nautec/lang/zh_cn.json",
   "include_keys": [
@@ -367,5 +367,15 @@
     "%s AP",
     "%s mB/s"
   ],
-  "target_pack_version": "1.4.1"
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.19.jar",
+    "jar_sha256": "9822be8ca107266ef87e7110227ad5c8bcb21f4d344ed1d3213372515e830e31",
+    "nested_jars": [],
+    "resource": "assets/nautec/lang/en_us.json",
+    "mod_ids": [
+      "nautec"
+    ],
+    "resource_sha256": "88c874564690a150e44cd0fba10070c02e107a3ed796bd4653069c13a76b5744"
+  }
 }

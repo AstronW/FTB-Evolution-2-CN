@@ -5,7 +5,7 @@ ROOT=pathlib.Path(__file__).resolve().parent.parent
 BASE=ROOT/'localization/manuals'
 PACK=ROOT/'.minecraft/resourcepacks/FTB-Evolution-2-Manuals-zh_CN'
 src=build.sources()
-assert len(src)==164 and sum(k.startswith('nodeworks/') for k in src)==75 and sum(k.startswith('ftb/') for k in src)==23 and sum(k.startswith('ftbic/') for k in src)==66
+assert set(src)==set(json.loads((BASE/'source_manifest.json').read_text())), 'Manual scope changed; review additions/removals first'
 expected={build.target(k) for k in src}
 extra_base=ROOT/'localization/manuals_extra'
 extra_manifest=json.loads((extra_base/'source_manifest.json').read_text()) if (extra_base/'source_manifest.json').exists() else {'documents':{}}
@@ -17,7 +17,7 @@ corrections=json.loads((BASE/'source_corrections.json').read_text())
 unchanged=[];latin=[];tables=0
 allow=['FTB','Xy','Starcatcher','I','V','X','FTB Evolution 2','FTB Materials','Colossal Reactors','Energized Power','Just Dire Things','Just Dyna Things','Mob Flow Utilities','Compressium','Stellaris','Powah','Nautec','LTX','Neo Vitae','Anima',"Iron's Arms 'n Artifice",'Dimensional Resources','Horse Powered','AgriTech Evolved','Applied Flux','The One Probe','Jade','Curios','Shift','Enter','Space','Tab','JEI','TNT','JSON','Zap','FE','RF','mB','LV','MV','HV','EV','IV','III','VII','VI','II','I/O','ID','IO','Y','y','L','F','N','K','M','s','t','x']
 node_api='ObserverCard RedstoneCard shulkerBox chest furnace step clock print require card items network z n Nodeworks Lua API CPU NBT nil true false number string bool CardHandle VariableHandle ItemsHandle BreakerHandle PlacerHandle UserHandle BreakBuilder CraftBuilder HandleList Channel Network Job InputItems Importer ImporterBuilder Stocker StockerBuilder Scheduler BoolVariableHandle NumberVariableHandle StringVariableHandle Breaker Placer BlockItem BlockState Minecraft BlockPos DyeColor onChange data energy IO io Alt Ctrl Left-Alt TPS A B T get getAll getFirst cards channel channels find findEach insert tryInsert count craft shapeless handle route debug face slots powered strength set block state mine cancel isMining progress connect list from to filter roundrobin pull place isBlocked every start stop isRunning tick second delay ensure keep batch use isUsing mode setMode setFilter facing cas type toggle tryLock unlock increment decrement min max append length clear id name kind stackable maxStackSize hasData hasTag matches pcall'.split()
-allow+=node_api
+allow+=node_api + 'recipes inputs outputs optional except parallel all recipe InputItems'.split()
 anchors_checked=0;code_lines=0
 for key,en in src.items():
  assert hashlib.sha256(en.encode()).hexdigest()==manifest[key]
@@ -64,7 +64,7 @@ for key,en in src.items():
    visible=z[lua_lines[i]+2:]
    visible=re.sub(r'"[^"\n]*"|[a-z_]+:[a-z0-9_./*-]+','',visible)
    # Exact debug/output notation, not explanatory prose.
-   if key=='nodeworks/lua-api/network.md' and i in [390,392]:visible=''
+   if key=='nodeworks/lua-api/network.md' and re.fullmatch(r'--\s+(?:NORTH: cobblestone_storage \(storage\)|BlockPos\{x=-26, y=70, z=9\})', e):visible=''
   v=re.sub(r'<[^>]+>|`[^`]+`|\]\([^)]*\)','',visible)
   v=re.sub(r'^\s*title:\s*','',v)
   v=re.sub(r'(?<![A-Za-z0-9_])[a-z][a-z0-9_]*:[a-z0-9_./-]+','',v)
@@ -98,7 +98,7 @@ node_zh=json.loads((PACK/'assets/nodeworks/lang/zh_cn.json').read_text())
 node_en=json.loads((BASE/'nodeworks_language_source.json').read_text())
 with zipfile.ZipFile(next((ROOT/'.minecraft/mods').glob('nodeworks-*.jar'))) as jar:
  assert json.loads(jar.read('assets/nodeworks/lang/en_us.json'))==node_en
-assert node_zh.keys()==node_en.keys() and len(node_zh)==111
+assert node_zh.keys()==node_en.keys()
 for k,v in node_zh.items():assert re.findall(r'%(?:\d+\$)?[sdf]',v)==re.findall(r'%(?:\d+\$)?[sdf]',node_en[k]),(k,'Nodeworks placeholders')
 selected=next(line for line in (ROOT/'.minecraft/options.txt').read_text().splitlines() if line.startswith('resourcePacks:'))
 assert json.loads(selected.split(':',1)[1])[-1]=='file/FTB-Evolution-2-Manuals-zh_CN','Pack not selected last'
@@ -118,6 +118,6 @@ for book in ['power','crop_mutation','skills','hostile_networks']:
  before=json.loads((ROOT/p).read_text());after=json.loads((PACK/f'assets/ftb/guideme_guides/{book}.json').read_text())
  for parent,field in [(before['item_settings'],'display_name'),(before['item_settings']['tooltip_lines'],0)]:parent[field].pop('text');parent[field]['translate']=f"guide.ftb.{book}.{'name' if field=='display_name' else 'tooltip'}"
  assert before==after,(book,'entry semantics')
-report={'status':'passed','manual_pages':164,'nodeworks_pages':75,'nodeworks_anchors_checked':anchors_checked,'nodeworks_anchor_links':anchor_links,'code_lines_preserved':code_lines,'pack_guides':23,'ftbic_pages':66,'segments':sum(len(list(build.segments(v))) for v in src.values()),'table_rows_checked':tables,'additional_ftbic_language_keys':len(extras),'additional_nodeworks_language_keys':111,'guide_title_tooltip_keys':8,'documented_correction_lines':len(corrections),'intentional_unchanged':unchanged,'unreviewed_latin':latin,'in_game_tested':False}
+report={'status':'passed','manual_pages':len(src),'nodeworks_pages':sum(k.startswith('nodeworks/') for k in src),'nodeworks_anchors_checked':anchors_checked,'nodeworks_anchor_links':anchor_links,'code_lines_preserved':code_lines,'pack_guides':23,'ftbic_pages':66,'segments':sum(len(list(build.segments(v))) for v in src.values()),'table_rows_checked':tables,'additional_ftbic_language_keys':len(extras),'additional_nodeworks_language_keys':len(node_en),'guide_title_tooltip_keys':8,'documented_correction_lines':len(corrections),'intentional_unchanged':unchanged,'unreviewed_latin':latin,'in_game_tested':False}
 (BASE/'verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps({k:v for k,v in report.items() if k not in ['intentional_unchanged','unreviewed_latin']},ensure_ascii=False,indent=2))

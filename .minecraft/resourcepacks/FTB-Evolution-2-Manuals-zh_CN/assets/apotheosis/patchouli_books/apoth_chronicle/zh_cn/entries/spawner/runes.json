@@ -69,7 +69,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "title": "永夜",
+      "title": "永恒暮光",
       "recipe": "apotheosis:ignore_light_spawner_rune",
       "text": "这种符文使刷怪过程无视光照等级.$(p)黑暗生物可以在亮处生成, 反之亦然."
     },
@@ -107,7 +107,7 @@
       "type": "patchouli:crafting",
       "title": "无视常理",
       "recipe": "apotheosis:ignore_conditions_spawner_rune",
-      "text": "这种灌注符文是$(9)永夜符文$()的直接升级版.$(p)一切生成条件 (包括光照) 都会被无视.但仍需要空余空间."
+      "text": "这种灌注符文是$(9)永恒暮光符文$()的直接升级版.$(p)一切生成条件 (包括光照) 都会被无视.但仍需要空余空间."
     },
     {
       "type": "patchouli:crafting",

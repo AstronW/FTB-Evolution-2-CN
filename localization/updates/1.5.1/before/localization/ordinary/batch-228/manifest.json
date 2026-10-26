@@ -1,0 +1,13 @@
+{
+  "batch": "228",
+  "namespace": "terrablender",
+  "jar": ".minecraft/mods/TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar",
+  "language_path": "assets/terrablender/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/terrablender/lang/zh_cn.json",
+  "include_keys": [
+    "commands.terrablender.biomeparams.success",
+    "commands.terrablender.biomeparams.failed"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}

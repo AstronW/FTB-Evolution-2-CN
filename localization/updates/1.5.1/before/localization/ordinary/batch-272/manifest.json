@@ -1,0 +1,14 @@
+{
+  "batch": "272",
+  "namespace": "imfast",
+  "jar": ".minecraft/mods/imfast-NEOFORGE-26.1.2-1.0.3.jar",
+  "language_path": "assets/imfast/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/imfast/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.imfast",
+    "block.imfast.example_block",
+    "item.imfast.example_item"
+  ],
+  "context_overrides": {},
+  "unchanged_values": []
+}
